@@ -484,6 +484,27 @@
 		<kategorie ref="buecher" />
     </beitrag>
 	
+	<beitrag>
+        <stueck jahr="1764" nr="25" von="98" bis="99" />
+		<kategorie ref="kurztext" />
+		<titel>Berlocken</titel>
+		<akteur ref="hamann" unsicher="true" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="25" von="99" bis="100" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="25" von="100" />
+        <kategorie ref="avertissement" />
+		<kategorie ref="buecher" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="25" von="100" />
+        <kategorie ref="wechselkurse" />
+        <datum when="1764-04-27"></datum>
+    </beitrag>
+	
 	
 	<beitrag>
         <stueck jahr="1769" nr="9"/>
