@@ -52,6 +52,16 @@
     </beitrag>
 
     <beitrag>
+        <stueck jahr="1764" />
+		<datum when="1764-01-28" />
+        <kategorie ref="ineigenersache" />
+        <titel>Nachricht.</titel>
+        <akteur ref="hamann" />
+        <akteur ref="kanter" />
+        <anmerkung>Anzeige und Beschreibung des Zeitungsprojekts</anmerkung>
+    </beitrag>
+
+    <beitrag>
         <stueck jahr="1764" nr="1" von="1" bis="2" />
         <kategorie ref="ineigenersache" />
         <incipit>„So sag ers ja den Klugen nicht…</incipit>
