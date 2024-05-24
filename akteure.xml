@@ -2,21 +2,23 @@
 <akteure xmlns="https://www.koenigsberger-zeitungen.de"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://www.koenigsberger-zeitungen.de XSD/KGPZ.xsd">
+    <!--
     <akteur id="einstein">
-        <!-- Pflicht sind: das Attribut id, <name> und <sortiername> -->
+        Pflicht sind: das Attribut id und <name>
         <name>Albert Einstein</name>
-        <!-- Für mehrere mögliche Namen sind mehrere Namen-Tags möglich: -->
+        Für mehrere mögliche Namen sind mehrere Namen-Tags möglich: 
         <name>Ainshutain, A.</name>
         <sortiername>Einstein, Albert</sortiername>
         <lebensdaten>1889-1951</lebensdaten>
-        <!-- Die GND-Angabe muss, falls angegeben, einmalig sein -->
+        Die GND-Angabe muss, falls angegeben, einmalig sein 
         <gnd>https://d-nb.info/gnd/118529579</gnd>
-        <!-- Anmerkungen sind öffentlich, Vermerke sind intern -->
+        Anmerkungen sind öffentlich, Vermerke sind intern 
         <anmerkung>Dies ist eine Anmerkung</anmerkung>
         <anmerkung>Dies ist eine zweite Anmerkung</anmerkung>
         <vermerk>Das ist ein Bearbeitungvermerk!</vermerk>
     </akteur>
-
+    -->
+    
     <akteur id="hamann">
         <name>Johann Georg Hamann</name>
         <lebensdaten>1730–1788</lebensdaten>
