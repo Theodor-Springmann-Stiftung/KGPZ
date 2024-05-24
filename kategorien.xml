@@ -2,16 +2,17 @@
 <kategorien xmlns="https://www.koenigsberger-zeitungen.de"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://www.koenigsberger-zeitungen.de XSD/KGPZ.xsd">
-    <kategorie id="1">
-        <!-- Attribut @id + <name> müssen vorhanden sein -->
-        <name>Beispiel</name>
-        <!-- <anmerkung> und <vermerk> sind optional -->
-        <!-- <anmerkung> ist öffentlich -->
-        <!-- <vermerk> ist intern -->
-        <anmerkung>Anmerkung</anmerkung>
-        <vermerk>Bearbeitungsvermerk</vermerk>
-    </kategorie>
 
+    <!--
+    <kategorie id="1">
+        Attribut @id + <name> müssen vorhanden sein
+        <name>Beispiel</name>
+        <anmerkung> und <vermerk> sind optional
+        <anmerkung> ist öffentlich
+        <vermerk> ist intern</vermerk>
+        <anmerkung>Anmerkung</anmerkung>
+    </kategorie>
+    -->
     <kategorie id="ineigenersache">
         <name>In eigener Sache</name>
         <vermerk>Programmatische Vorwörter, Neuausrichtungen etc.</vermerk>

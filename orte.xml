@@ -2,14 +2,16 @@
 <orte xmlns="https://www.koenigsberger-zeitungen.de"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://www.koenigsberger-zeitungen.de XSD/KGPZ.xsd">
+    <!--
     <ort id="1">
-        <!-- das Attribut id + <name> müssen vorhanden sein -->
+        das Attribut id + <name> müssen vorhanden sein
         <name>Beispiel</name>
-        <!-- geonames muss im Dokument eindeutig sein -->
+        geonames muss im Dokument eindeutig sein
         <geonames>https://www.geonames.org/5594234</geonames>
         <anmerkung>Anmerkung</anmerkung>
         <vermerk>Vermerk</vermerk>
     </ort>
+    -->
 
     <ort id="kgsb">
         <name>Königsberg</name>
