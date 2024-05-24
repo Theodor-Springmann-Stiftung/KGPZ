@@ -61,11 +61,15 @@
     <xsd:annotation>
       <xsd:documentation>Referenziert ein Stück</xsd:documentation>
     </xsd:annotation>
-    <xsd:attribute name="jahr" type="xsd:gYear"
+    <xsd:attribute name="jahr"
       use="required">
       <xsd:annotation>
-        <xsd:documentation>Pflicht: Das Jahr des Stücks.</xsd:documentation>
+        <xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
       </xsd:annotation>
+      <xsd:simpleType>
+        <xsd:union
+          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+      </xsd:simpleType>
     </xsd:attribute>
 
     <xsd:attribute name="nr" type="xsd:positiveInteger"
@@ -76,17 +80,16 @@
     </xsd:attribute>
 
     <xsd:attribute name="von" type="xsd:positiveInteger"
-      use="required">
+      use="optional">
       <xsd:annotation>
-        <xsd:documentation>Pflicht: Die erste Seitenzahl des Beitrags.</xsd:documentation>
+        <xsd:documentation>Die erste Seitenzahl des Beitrags, falls bekannt.</xsd:documentation>
       </xsd:annotation>
     </xsd:attribute>
 
     <xsd:attribute name="bis" type="xsd:positiveInteger"
       use="optional">
       <xsd:annotation>
-        <xsd:documentation>Optional: Die letzte Seitenzahl des Beitrags, erstreckt er sich über
-          mehrere Seiten.</xsd:documentation>
+        <xsd:documentation>Die letzte Seitenzahl des Beitrags, falls bekannt.</xsd:documentation>
       </xsd:annotation>
     </xsd:attribute>
   </xsd:complexType>
@@ -96,11 +99,15 @@
       <xsd:documentation>Referenziert eine Beilage</xsd:documentation>
     </xsd:annotation>
 
-    <xsd:attribute name="jahr" type="xsd:gYear"
+    <xsd:attribute name="jahr"
       use="required">
       <xsd:annotation>
-        <xsd:documentation>Pflicht: Das Jahr des referenzierten Stücks.</xsd:documentation>
+        <xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
       </xsd:annotation>
+      <xsd:simpleType>
+        <xsd:union
+          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+      </xsd:simpleType>
     </xsd:attribute>
 
     <xsd:attribute name="nr" type="xsd:positiveInteger"
