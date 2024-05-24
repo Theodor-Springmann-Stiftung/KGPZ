@@ -2,34 +2,35 @@
 <werke xmlns="https://www.koenigsberger-zeitungen.de"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://www.koenigsberger-zeitungen.de XSD/KGPZ.xsd">
+    <!--
     <werk id="1">
-        <!-- mehrere oder auch gar keine Autoren sind erlaubt-->
-        <autor ref="23" />
-        <autor ref="12">Die Zurordnung eines Werkes zu einem Autor kann charakterisiert werden (Quellen oä.)</autor>
-        <!-- Jahr zur Filterung und Sortierung notwendig -->
-        <!-- Zugelasssen sind die Attribute when, from, to, notBefore, notAfter -->
+         mehrere oder auch gar keine Autoren sind erlaubt
+        <person ref="23" />
+        <person ref="12">Die Zurordnung eines Werkes zu einem Autor kann charakterisiert werden (Quellen oä.)</autor>
+         Jahr zur Filterung und Sortierung notwendig 
+         Zugelasssen sind die Attribute when, from, to, notBefore, notAfter 
         <datum when="1783"/>
         <zitation>Unstrukturierte bibliographische Zitation</zitation>
         <url>https://URL.de</url>
-        <!-- meherere Anmerkungen und Vermerke sind erlaubt -->
+         meherere Anmerkungen und Vermerke sind erlaubt 
         <anmerkung>Eine Anmerkung</anmerkung>
         <vermerk>Ein Bearbeitungsvermerk</vermerk>
         <vermerk>Ein Bearbeitungsvermerk</vermerk>
     </werk>
     <werk id="2">
-        <!-- minimaler Eintrag; das Attribut "id" und <zitation> müssen vorhanden sein. -->
+         minimaler Eintrag; das Attribut "id" und <zitation> müssen vorhanden sein. 
         <zitation>Hans</zitation>
     </werk>
-
+    -->
     <werk id="philippi-briefe">
-        <autor ref="philippi-ja" />
+        <akteur ref="philippi-ja" />
         <zitation>Johann Albrecht Philippi: Anmuthige und Satyrische Briefe in historischen
             Erzählungen über verschiedene Begebenheiten (Köln [Berlin] 1764).</zitation>
         <url address="https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00034441?derivate=HisBest_derivate_00020065">ULB Jena</url>
     </werk>
 
     <werk id="buesching-denkmal-stegelmann">
-        <autor ref="buesching" />
+        <akteur ref="buesching" />
         <zitation>Anton Friedrich Büsching: Die St. Peters-Schule stiftet ihrem grossen Wohlthäter,
             dem Hochedelgebohrnen Herrn, Herrn Heinrich Christian Stegelmann, Kaiserlichem Hof- und
             Cammer-Factorn, berühmtem Kaufmanne und höchstverdientem Aeltesten der Evangelischen St.
@@ -39,67 +40,67 @@
     </werk>
 
     <werk id="ausfuehrliche-kritische-nachrichten">
-        <autor ref="otto-j" />
+        <akteur ref="otto-j" />
         <zitation>Ausführliche und kritische Nachrichten von den besten und merkwürdigsten Schriften unserer Zeit, nebst andern zur Gelahrtheit gehörigen Sachen, hrsg. von Jacob Otto (Lindau, Frankfurt, Leipzig 1763–1766).</zitation>
         <url address="https://gdz.sub.uni-goettingen.de/id/PPN731784995">SUB Göttingen</url>
     </werk>
 
     <werk id="lenov-gedichte">
-        <autor ref="lenov" />
+        <akteur ref="lenov" />
         <zitation>Sieben kleine Gedichte nach Anacreons Manier (Berlin 1764).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN637719743">SUB Göttingen</url>
     </werk>
 
     <werk id="argens-beytrage">
-        <autor ref="argens" />
+        <akteur ref="argens" />
         <zitation>Des Marquis d’Argens und der Demoiselle Cochois gemeinschaftliche Beyträge zum Vergnügen für den Geist und das Herz. Aus dem Französischen übersetzt (Berlin: Mylius 1763).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10103463-7">BSB München</url>
     </werk>
 
     <werk id="home-critick">
-        <autor ref="home" />
+        <akteur ref="home" />
         <zitation>Elements of Criticism (3&#xA0;Bde., Edinburgh 1762). Übers. (von Johann Nicolaus Meinhard): Grundsätze der Critik, in drey Theilen, von Heinrich Home, aus dem Englischen übersetzt (3&#xA0;Bde., Leipzig: Dyckische Handlung 1763–1766).</zitation>
         <url address="https://digi.ub.uni-heidelberg.de/diglit/kames1763bd1">UB Heidelberg</url>
     </werk>
 
     <werk id="karsch-gedichte">
-        <autor ref="karsch" />
+        <akteur ref="karsch" />
         <zitation>Auserlesene Gedichte (Berlin: Winter 1764).</zitation>
         <url address="http://www.deutschestextarchiv.de/book/view/karsch_gedichte_1764?p=5"></url>
     </werk>
 
     <werk id="nicolai-literaturbriefe-XVI">
-        <autor ref="nicolai" />
+        <akteur ref="nicolai" />
         <zitation>Briefe die neueste Litteratur betreffend, hg. von Friedrich Nicolai (Berlin 1759–1765), 16. Teil (1763).</zitation>
         <url address="http://ds.ub.uni-bielefeld.de/viewer/toc/1921386/0/LOG_0000/">UB Bielefeld</url>
     </werk>
 
     <werk id="nicolai-literaturbriefe-winckelmann">
-        <autor ref="winckelmann" />
+        <akteur ref="winckelmann" />
         <zitation>Brief von Winckelmann an seinen Bruder, Rom, 8. Dezember 1762. In: Briefe die neueste Litteratur betreffend, hg. von Friedrich Nicolai (Berlin 1759–1765), 16. Teil, 265. Brief, S. 183–187.</zitation>
         <url address="http://ds.ub.uni-bielefeld.de/viewer/toc/1921386/0/LOG_0000/">UB Bielefeld</url>
     </werk>
 
     <werk id="silberschlag-feuerkugel">
-        <autor ref="silberschlag" />
+        <akteur ref="silberschlag" />
         <zitation>Theorie der am 23. Julii, 1762 erschienenen Feuer-Kugel. Abgehandelt von Johann Esaias Silberschlag (Magdeburg, Stendal, Leipzig 1764).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10058735-2">BSB München</url>
     </werk>
 
     <werk id="hirzel-bauer">
-        <autor ref="hirzel" />
-        <zitation>Die Wirthschaft eines philosophischen Bauers. Entworfen von H. C. Hirzel (Zürich: Heidegger und Compagnie 1761).
+        <akteur ref="hirzel" />
+        <zitation>Die Wirthschaft eines philosophischen Bauers. Entworfen von H. C. Hirzel (Zürich: Heidegger und Compagnie 1761).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10295965-9">BSB München</url>
     </werk>
 
     <werk id="bertling-berichte">
-        <autor ref="bertling" />
+        <akteur ref="bertling" />
         <zitation>Theologische Berichte von neuen Büchern und Schriften, von einer Gesellschaft zu Danzig ausgefertigt, hg. von Ernst August Bertling (1764–1769)</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN727627473">SUB Göttingen</url>
     </werk>
 
     <werk id="arnoldt-gedanken">
-        <autor ref="arnoldt" />
+        <akteur ref="arnoldt" />
         <zitation>Vernunft- und schriftmäßige Gedanken von den Lebenspflichten der Christen, entworfen von Daniel Heinrich Arnoldt (Königsberg und Leipzig 1764)</zitation>
         <url address="https://archive.thulb.uni-jena.de/collections/receive/HisBest_cbu_00036720">ULB Jena</url>
     </werk>
@@ -110,25 +111,25 @@
     </werk>
 
     <werk id="goldsmith-letters">
-        <autor ref="goldsmith" />
+        <akteur ref="goldsmith" />
         <zitation>The Citizen of the World or Letters from a Chinese Philosopher, residing in London, to his Friends in the East (London 1762). Übers.: Briefe eines chinesischen Weltweisen an seine Freunde in den Morgenländern (2&#xA0;Bde., Leipzig: Weidmanns Erben und Reich, 1763/64).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11109103-2">BSB München</url>
     </werk>
 
     <werk id="baumgarten-hebraer">
-        <autor ref="baumgarten" />
+        <akteur ref="baumgarten" />
         <zitation>Erklärung des Briefes Pauli an die Hebräer mit Andreas Gottlieb Maschens Anmerkungen und Paraphrasi, auch Semler’s Beyträgen zu genauerer Einsicht dieses Briefes (Halle: Gebauer 1763).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10353406-6">BSB München</url>
     </werk>
 
     <werk id="hexe-vierwochen">
-	<autor ref="weitzler" />
+	<akteur ref="weitzler" />
         <zitation>Die Hexe von vier Wochen (Breslau und Leipzig: Horn 1763).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3366568077">SLUB Dresden</url>
     </werk>
 
     <werk id="miller-anweisung">
-        <autor ref="miller" />
+        <akteur ref="miller" />
         <zitation>M. Johann Peter Millers Anweisung zur Wohlredenheit nach den auserlesensten Mustern Französischer Redner (Helmstädt 1763).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10114871-2">BSB München</url>
     </werk>
@@ -139,19 +140,19 @@
     </werk>
 
     <werk id="krueger-schriften">
-        <autor ref="krueger-jc" />
+        <akteur ref="krueger-jc" />
         <zitation>Johann Christian Krügers Poetische und Theatralische Schriften, hg. v. Johann Friedrich Löwen (Leipzig: Weidmanns Erben und Reich 1763).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10113147-7">BSB München</url>
     </werk>
 
     <werk id="camerer-betrachtungen">
-        <autor ref="camerer-jf" />
+        <akteur ref="camerer-jf" />
         <zitation>Betrachtungen über verschiedene Gegenstände (Hamburg: Bock 1763).</zitation>
         <url address="https://nbn-resolving.org/urn:nbn:de:bvb:29-bv009235914-0">UB Erlangen-Nürnberg</url>
     </werk>
 
     <werk id="pieper-markenrecht">
-        <autor ref="pieper-fg" />
+        <akteur ref="pieper-fg" />
         <zitation>F. G. Pipers historisch-juridische Beschreibung des Marcken-Rechts in Westfalen (Halle: Waysenhaus 1763)</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3269482790">SLUB Dresden</url>
     </werk>
@@ -162,7 +163,7 @@
     </werk>
 
     <werk id="michaelis-hebraer">
-        <autor ref="michaelis" />
+        <akteur ref="michaelis" />
         <zitation>Erklärung des Briefes an die Hebräer (2&#xA0;Bde., Frankfurt und Leipzig: Garbe 1762–1764), II.</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-516649">ULB Halle</url>
     </werk>
@@ -178,13 +179,13 @@
     </werk>
 
     <werk id="sanseverino-biographie">
-        <autor ref="sanseverino" />
+        <akteur ref="sanseverino" />
         <zitation>Italienische Biographie. Aus dem Französischen übersetzt [von Johann Georg Meusel]. Nebst einer Vorrede von Herrn Klotz. Erster Band (Frankfurt, Leipzig 1769).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070391-7">BSB München</url>
     </werk>
 
     <werk id="herder-kritischewaelder">
-        <autor ref="herder" />
+        <akteur ref="herder" />
         <zitation>Kritische Wälder. Oder Betrachtungen, die Wissenschaft und Kunst des Schönen betreffend, nach Maasgabe neuerer Schriften (3 Bde., Riga: Hartknoch 1769).</zitation>
         <url address="https://nbn-resolving.de/urn:nbn:de:kobv:b4-200905199299">Deutsches Textarchiv</url>
     </werk>
@@ -209,7 +210,7 @@
     <werk id="gellius-geschichte">
         <autor ref="gellius" />
         <zitation>Die Geschichte eines jungen Herrn von ihm selbst aufgezeichnet. Aus dem Englischen [von Johann Gottfried Gellius] (Leipzig 1763).</zitation>
-        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN800126122"></url>
-    </werk>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN800126122">SLUB Göttingen</url>
+
 
 </werke>

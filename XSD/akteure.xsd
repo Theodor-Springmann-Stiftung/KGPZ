@@ -13,7 +13,7 @@
                 <xsd:element name="akteur" maxOccurs="unbounded">
                     <xsd:annotation>
                         <xsd:documentation>Ein Akteur im Personenverzeichnis Pflicht: @id,
-                            &lt;name&gt;, &lt;sortiername&gt;.</xsd:documentation>
+                            &lt;name&gt;.</xsd:documentation>
                     </xsd:annotation>
                     <xsd:complexType>
                         <xsd:sequence>
@@ -25,11 +25,12 @@
                                 </xsd:annotation>
                             </xsd:element>
 
-                            <xsd:element name="sortiername" minOccurs="1" maxOccurs="1"
+                            <xsd:element name="sortiername" minOccurs="0" maxOccurs="1"
                                 type="kgpz:NonEmptyString" nillable="false">
                                 <xsd:annotation>
-                                    <xsd:documentation>Pflicht: Der Name des Akteurs, so wie nach
-                                        diesem sortiert wird.</xsd:documentation>
+                                    <xsd:documentation>Optional: Der Name des Akteurs, so wie nach
+                                        diesem sortiert wird. Falls nicht vorhanden, sortieren wir
+                                        nach @id.</xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 

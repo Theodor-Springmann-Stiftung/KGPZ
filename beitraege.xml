@@ -2,59 +2,41 @@
 <beitraege xmlns="https://www.koenigsberger-zeitungen.de"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://www.koenigsberger-zeitungen.de XSD/KGPZ.xsd">
-    <beitrag>
-        <!-- Beispiel für einen Beitrag in zwei Stücken -->
-        <!-- Das bis-Attribut ist erforderlich falls der Beitrag Seitengrenzen überschreitet -->
-        <!-- Es kann mehrere Kategorien geben -->
+    <!-- <beitrag>
+         Beispiel für einen Beitrag in zwei Stücken
+        Das bis-Attribut ist erforderlich falls der Beitrag Seitengrenzen überschreitet
+        Es kann mehrere Kategorien geben
+
+        ALLGEMEINE METADATEN
         <stueck jahr="1752" nr="23" von="2" bis="3" />
         <stueck jahr="1799" nr="12" von="5" />
         <kategorie ref="kategorie" />
         <kategorie ref="kategorie2" />
 
-        <!-- TRANSKRIPTIONEN -->
-        <!-- Zugelasssen sind die Attribute when, from, to, notBefore, notAfter -->
+        TRANSKRIPTIONEN 
+        Zugelasssen sind die Attribute when, from, to, notBefore, notAfter 
         <datum when="1762-12-12" />
-        <!-- Ein Beitrag kann einen Titel, ein Incipit, beides oder nichts von beiden haben: -->
+        Ein Beitrag kann einen Titel, ein Incipit, beides oder nichts von beiden haben: 
         <titel>Was</titel>
         <incipit>Incipit</incipit>
 
-        <!-- VERWEISE -->
+        VERWEISE 
         <ort ref="ort">Die Zuordung eines Beitrags zu einem Ort kann annotiert werden</ort>
         <akteur ref="akteur">Die Zuordnung eines Beitrags zu einem Akteur kann annotiert werden</akteur>
-        <!-- oder auch nicht: -->
+        oder auch nicht: 
         <akteur ref="einstein" />
         <werk ref="werk" kat="rezension">Auch die Zuordnung zu einer Werkrezension kann annotiert werden</werk>
 
-        <!-- ANMERKUNGEN etc. -->
+        ANMERKUNGEN etc. 
         <anmerkung>Anmerkung</anmerkung>
         <vermerk>Bearbeitungsvermerk</vermerk>
-    </beitrag>
-    <beitrag>
-        <!-- Beispiel für einen Beitrag in einer Beilage -->
-        <beilage jahr="1762" nr="12" beilage="1" />
-        <kategorie ref="kategorie" />
-
-        <datum when="1762-12-12"/>
-
-        <!-- alle Zuordnungen können mit unsicher="true" ausgezeichnet werden, es sich um eine
-        Vermutung handelt -->
-        <!-- Standardwert ist unsicher="false" -->
-        <titel>Was</titel>
-        <incipit>Incipit</incipit>
-        
-        <ort ref="ort" />
-        <akteur ref="akteur" unsicher="true">Vgl. Herder Brief 1234</akteur>
-        <akteur ref="weitererakteur" />
-    </beitrag>
-    <beitrag>
-        <!-- Minimales Beispiel: -->
-        <stueck jahr="1752" nr="23" von="2" bis="3" />
-    </beitrag>
+    </beitrag> -->
+   
 
     <beitrag>
         <stueck jahr="1764" />
-        <datum when="1764-01-28" />
         <kategorie ref="ineigenersache" />
+		<datum when="1764-01-28" />
         <titel>Nachricht.</titel>
         <akteur ref="hamann" />
         <akteur ref="kanter" />
@@ -319,13 +301,13 @@
     <beitrag>
         <stueck jahr="1764" nr="13" von="49" />
         <ort ref="berlin" />
+        <akteur ref="hamann">vgl. ZH II, 239</akteur>
         <werk ref="nicolai-literaturbriefe-XVI" kat="rezension" />
-		<akteur ref="hamann">vgl. ZH II, 239</akteur>
     </beitrag>
 	<beitrag>
         <stueck jahr="1764" nr="13" von="50" bis="51" />
-		<werk ref="nicolai-literaturbriefe-winckelmann" kat="auszug" />
         <titel>Leben und Wunder des Herrn Johann Winckelmanns</titel>
+		<werk ref="nicolai-literaturbriefe-winckelmann" kat="auszug" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="13" von="51" bis="52" />
@@ -608,9 +590,9 @@
     </beitrag>
 	<beitrag>
         <stueck jahr="1769" nr="11"/>
+        <akteur ref="hamann" />
         <werk ref="roth" kat="provinienz" s="Bd. 3, 429–432"/>
 		<werk ref="herder-kritischewaelder" kat="rezension" />
-		<akteur ref="hamann" />
     </beitrag>
 	
 	

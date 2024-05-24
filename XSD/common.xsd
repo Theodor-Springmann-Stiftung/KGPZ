@@ -40,7 +40,7 @@
         <xsd:attribute name="kat" use="required">
           <xsd:annotation>
             <xsd:documentation> Die Art der Beziehung zum Werk. Werte: rezension, auszug, kommentar,
-              erwähnung </xsd:documentation>
+              erwähnung, anzeige, provinienz.</xsd:documentation>
           </xsd:annotation>
           <xsd:simpleType>
             <xsd:restriction base="xsd:string">
@@ -48,8 +48,15 @@
               <xsd:enumeration value="rezension" />
               <xsd:enumeration value="auszug" />
               <xsd:enumeration value="kommentar" />
+              <xsd:enumeration value="anzeige" />
+              <xsd:enumeration value="provinienz" />
             </xsd:restriction>
           </xsd:simpleType>
+        </xsd:attribute>
+        <xsd:attribute name="s" use="optional" type="kgpz:NonEmptyString">
+          <xsd:annotation>
+            <xsd:documentation>Angabe zu Seite oder Stelle innerhalb eines Werkes.</xsd:documentation>
+          </xsd:annotation>
         </xsd:attribute>
       </xsd:extension>
     </xsd:simpleContent>
@@ -64,7 +71,7 @@
         <xsd:attribute name="kat" use="optional" default="autor">
           <xsd:annotation>
             <xsd:documentation> Die Art der Beziehung zum Akteur. Werte: erwähnung, autor,
-              herausgeber, verleger, drucker, vertrieb. </xsd:documentation>
+              herausgeber, verleger, drucker, vertrieb, todesanzeige. </xsd:documentation>
           </xsd:annotation>
           <xsd:simpleType>
             <xsd:restriction base="xsd:string">
@@ -74,6 +81,7 @@
               <xsd:enumeration value="drucker" />
               <xsd:enumeration value="vertrieb" />
               <xsd:enumeration value="erwähnung" />
+              <xsd:enumeration value="todesanzeige"/>
             </xsd:restriction>
           </xsd:simpleType>
         </xsd:attribute>

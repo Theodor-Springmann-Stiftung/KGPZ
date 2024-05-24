@@ -17,7 +17,9 @@
                     </xsd:annotation>
                     <xsd:complexType>
                         <xsd:sequence>
-                            <xsd:group ref="citation" />
+                            <xsd:element name="akteur" type="kgpz:akteurref" minOccurs="0" maxOccurs="unbounded" />
+                            <xsd:element name="ort" type="kgpz:ortref" minOccurs="0" maxOccurs="unbounded" />
+                            <xsd:element name="werk" type="kgpz:werkref" minOccurs="0" maxOccurs="unbounded"/>
                             <xsd:element name="zitation" type="kgpz:NonEmptyString" minOccurs="1"
                                 maxOccurs="1">
                                 <xsd:annotation>
@@ -82,53 +84,4 @@
             <xsd:field xpath="@id" />
         </xsd:unique>
     </xsd:element>
-
-    <xsd:group name="citation">
-        <xsd:annotation>
-            <xsd:documentation>Daten zu Uhrheber und Datum eines Werkes.</xsd:documentation>
-        </xsd:annotation>
-        <xsd:sequence>
-            <xsd:element name="autor" type="kgpz:ref" minOccurs="0" maxOccurs="unbounded">
-                <xsd:annotation>
-                    <xsd:documentation>Verweist auf eine Person oder Körperschaft, die das Werk
-                        verfasst hat.</xsd:documentation>
-                </xsd:annotation>
-            </xsd:element>
-
-            <xsd:element name="herausgabe" type="kgpz:ref" minOccurs="0" maxOccurs="unbounded">
-                <xsd:annotation>
-                    <xsd:documentation>Verweist auf eine Person oder Körperschaft, die das Werk
-                        herausgegeben hat.</xsd:documentation>
-                </xsd:annotation>
-            </xsd:element>
-
-            <xsd:element name="druck" type="kgpz:ref" minOccurs="0" maxOccurs="unbounded">
-                <xsd:annotation>
-                    <xsd:documentation>Verweist auf eine Person oder Körperschaft, die das Werk
-                        gedruckt hat.</xsd:documentation>
-                </xsd:annotation>
-            </xsd:element>
-
-            <xsd:element name="verlag" type="kgpz:ref" minOccurs="0" maxOccurs="unbounded">
-                <xsd:annotation>
-                    <xsd:documentation>Verweist auf eine Person oder Körperschaft, die das Werk
-                        verlegt hat.</xsd:documentation>
-                </xsd:annotation>
-            </xsd:element>
-
-            <xsd:element name="vertrieb" type="kgpz:ref" minOccurs="0" maxOccurs="unbounded">
-                <xsd:annotation>
-                    <xsd:documentation>Verweist auf eine Person oder Körperschaft, die das Werk
-                        vertrieben hat.</xsd:documentation>
-                </xsd:annotation>
-            </xsd:element>
-
-            <xsd:element name="datum" type="kgpz:date" minOccurs="0" maxOccurs="1">
-                <xsd:annotation>
-                    <xsd:documentation>Das Datum, an dem das Werk veröffentlicht wurde, zur
-                        Sortierung der Werke.</xsd:documentation>
-                </xsd:annotation>
-            </xsd:element>
-        </xsd:sequence>
-    </xsd:group>
 </xsd:schema>

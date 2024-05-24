@@ -13,35 +13,30 @@
                 <xsd:element name="stueck" maxOccurs="unbounded">
                     <xsd:complexType>
                         <xsd:sequence>
-                            <xsd:element name="nummer" type="xsd:positiveInteger" minOccurs="1"
+                            <xsd:element name="nummer" type="xsd:positiveInteger" minOccurs="0"
                                 maxOccurs="1">
                                 <xsd:annotation>
-                                    <xsd:documentation> Pflicht: Die Nummer des Stücks, wie auf dem
-                                        Titel angegeben. </xsd:documentation>
+                                    <xsd:documentation>Die Nummer des Stücks, falls bekannt.</xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 
-                            <!-- Lässt sich aus Nummer + Jahr berechnen. -->
-                            <xsd:element name="datum" type="kgpz:date" minOccurs="1" maxOccurs="1">
+                            <xsd:element name="datum" type="kgpz:date" minOccurs="0" maxOccurs="1">
                                 <xsd:annotation>
-                                    <xsd:documentation> Pflicht: Das Datum des Stücks, wie auf dem
-                                        Titel angegeben. </xsd:documentation>
+                                    <xsd:documentation>Das Datum des Stücks, wie auf dem Titel angegeben, falls bekannt.</xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 
-                            <!-- Von + bis lässt sich aus Nummer berechnen (n-1) * 4 + 1 bzw. (n-1)
-                            * 4 + 1 -->
-                            <xsd:element name="von" type="xsd:positiveInteger" minOccurs="1"
+                            <xsd:element name="von" type="xsd:positiveInteger" minOccurs="0"
                                 maxOccurs="1">
                                 <xsd:annotation>
-                                    <xsd:documentation> Pflicht: Die erste Seitenzahl des Stücks. </xsd:documentation>
+                                    <xsd:documentation>Die erste Seitenzahl des Stücks, falls bekannt.</xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 
-                            <xsd:element name="bis" type="xsd:positiveInteger" minOccurs="1"
+                            <xsd:element name="bis" type="xsd:positiveInteger" minOccurs="0"
                                 maxOccurs="1">
                                 <xsd:annotation>
-                                    <xsd:documentation> Pflicht: Die letzte Seitenzahl des Stücks. </xsd:documentation>
+                                    <xsd:documentation>Die letzte Seitenzahl des Stücks, falls bekannt.</xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 
