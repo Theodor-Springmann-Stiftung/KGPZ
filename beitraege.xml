@@ -53,7 +53,7 @@
 
     <beitrag>
         <stueck jahr="1764" />
-		<datum when="1764-01-28" />
+        <datum when="1764-01-28" />
         <kategorie ref="ineigenersache" />
         <titel>Nachricht.</titel>
         <akteur ref="hamann" />
@@ -92,9 +92,9 @@
 
     <beitrag>
         <stueck jahr="1764" nr="2" von="5" bis="6" />
-        <ort ref="koeln" />
-        <akteur ref="lauson">vgl. ZH II, 234</akteur>
         <werk ref="philippi-briefe" kat="rezension" />
+		<ort ref="koeln" />
+        <akteur ref="lauson">vgl. ZH II, 234</akteur>
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="2" von="6" bis="7" />
@@ -135,18 +135,101 @@
     </beitrag>
 
     <beitrag>
-        <stueck jahr="1764" nr="4" von="13" bis="14" />
+        <stueck jahr="1764" nr="4" von="14" bis="15" />
         <stueck jahr="1764" nr="5" von="17" bis="18" />
-        <stueck jahr="1764" nr="6" von="21" bis="22" />
+        <stueck jahr="1764" nr="6" von="22" bis="23" />
         <stueck jahr="1764" nr="7" von="25" bis="26" />
         <stueck jahr="1764" nr="8" von="29" bis="30" />
         <kategorie ref="aufsatz" />
         <titel>Versuch über die Krankheiten des Kopfes</titel>
         <ort ref="kgsb" />
         <akteur ref="kant">vgl. ZH II, 239</akteur>
-        <vermerk>Seitenzahlen der Stücke noch am Original prüfen, ebenso die Beiträge aus Stück 4–8
-            eintragen, wenn man Scans hat (die sollten auf jeden Fall zu besorgen sein, notfalls in
-            Bremen)</vermerk>
+    </beitrag>
+
+    <beitrag>
+        <stueck jahr="1764" nr="4" von="13" bis="14" />
+        <werk ref="robinet-nature" kat="rezension" />
+		<akteur ref="hamann">Roth III, 241–245</akteur>
+        <ort ref="amsterdam" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="4" von="15" bis="16" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="4" von="16" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+    <beitrag>
+        <stueck jahr="1764" nr="5" von="13" bis="14" />
+        <werk ref="pitt-staatsverwaltung" kat="rezension" />
+        <ort ref="berlin" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="5" von="19" bis="20" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="5" von="20" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="5" von="20" />
+        <kategorie ref="wechselkurse" />
+        <datum when="1764-02-17" />
+    </beitrag>
+
+    <beitrag>
+        <stueck jahr="1764" nr="6" von="20" bis="21" />
+        <ort ref="kgsb" />
+		<kategorie ref="gedicht" />
+        <akteur ref="hamann">ZH II, 239</akteur>
+        <werk ref="ramler-hymen" kat="kommentar" />
+        <werk ref="ramler-hymen" kat="auszug" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="6" von="23" bis="24" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="6" von="24" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+    <beitrag>
+        <stueck jahr="1764" nr="7" von="27" bis="28" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="7" von="28" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="7" von="28" />
+        <kategorie ref="wechselkurse" />
+        <datum when="1764-02-24" />
+    </beitrag>
+	
+    <beitrag>
+        <stueck jahr="1764" nr="8" von="30" bis="31" />
+        <ort ref="frankfurt" />
+        <ort ref="leipzig" />
+        <akteur ref="hamann">vgl. ZH II, 239</akteur>
+        <werk ref="gellius-geschichte" kat="rezension" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="8" von="31" bis="32" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="8" von="32" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
     </beitrag>
 
     <beitrag>
@@ -219,6 +302,7 @@
     <beitrag>
         <stueck jahr="1764" nr="12" von="45" bis="47" />
         <kategorie ref="gedicht" />
+		<werk ref="karsch-gedichte" kat="auszug" />
 		<werk ref="karsch-gedichte" kat="kommentar" />
     </beitrag>
     <beitrag>
