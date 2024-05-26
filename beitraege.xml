@@ -660,7 +660,7 @@
 	<beitrag>
         <stueck jahr="1764" nr="30" von="117" bis="118" />
 		<werk ref="willamovius-dithyramben" kat="rezension" />
-		<akteur ref="herder">HBGA, I 28</akteur>
+		<akteur ref="herder">HBGA I, 28</akteur>
 		<ort ref="kgsb" />
     </beitrag>
     <beitrag>
@@ -688,10 +688,16 @@
     </beitrag>
 	
 	<beitrag>
-        <stueck jahr="1764" nr="31" von="121" bis="123" />
+        <stueck jahr="1764" nr="31" von="121" bis="122" />
+		<kategorie ref="panegyrik" />
 		<werk ref="lauson-paean" kat="kommentar" />
 		<werk ref="lauson-paean" kat="auszug" />
+		<akteur ref="lauson">ZH II, 255</akteur>
 		<ort ref="kgsb" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="31" von="122" bis="123" />
+        <werk ref="christ-sabbat" kat="rezension" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="31" von="123" bis="124" />
