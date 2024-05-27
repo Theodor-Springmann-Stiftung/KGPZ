@@ -669,6 +669,7 @@
     </beitrag>
 	<beitrag>
         <stueck jahr="1764" nr="30" von="120" />
+		<kategorie ref="avertissement" />
         <kategorie ref="buecher" />
     </beitrag>
 	
@@ -684,6 +685,7 @@
     </beitrag>
 	<beitrag>
         <stueck jahr="1764" nr="30" von="120" />
+		<kategorie ref="avertissement" />
         <kategorie ref="buecher" />
     </beitrag>
 	
@@ -705,7 +707,7 @@
     </beitrag>
 	<beitrag>
         <stueck jahr="1764" nr="31" von="124" />
-        <kategorie ref="wechselkurse" />
+         <kategorie ref="wechselkurse" />
         <datum when="1764-05-17"></datum>
     </beitrag>
 	
@@ -739,20 +741,49 @@
     </beitrag>
 	<beitrag>
         <stueck jahr="1764" nr="33" von="132" />
+		<kategorie ref="avertissement" />
         <kategorie ref="buecher" />
     </beitrag>
 	
 	<beitrag>
-        <stueck jahr="1764" />
+        <stueck jahr="1764" nr="34" von="133" bis="135" />
+		<stueck jahr="1764" nr="35" von="137" bis="138" />
+		<stueck jahr="1764" nr="36" von="141" bis="142" />
         <kategorie ref="aufsatz" />
         <incipit>Wohlgeordnete Naturalienbehältnisse…</incipit>
         <ort ref="kgsb" />
         <akteur ref="bock">vgl. ZH II, 246</akteur>
-		<anmerkung>Beschreibung des Naturalienkabinetts von Friedrich Franz Saturgus, ausführlicher in <wwwlink address="https://books.google.de/books?id=MHw_rfdwQYMC">Friedrich Samuel Bock: Nachricht von einem Preußischen Naturaliencabinet so sich dem Saturguschen Garten zu Königsberg befindet (Königsberg:Kanter 1764)</wwwlink>.</anmerkung>
+		<anmerkung>Beschreibung des Naturalienkabinetts von Friedrich Franz Saturgus, ausführlicher in <wwwlink address="https://books.google.de/books?id=MHw_rfdwQYMC">Friedrich Samuel Bock: Nachricht von einem Preußischen Naturaliencabinet so sich dem Saturguschen Garten zu Königsberg befindet (Königsberg: Kanter 1764)</wwwlink>.</anmerkung>
     </beitrag>
+	
     <beitrag>
         <stueck jahr="1764" nr="34" von="135" bis="136" />
         <kategorie ref="weltnachrichten" />
+    </beitrag>
+	
+    <beitrag>
+        <stueck jahr="1764" nr="35" von="139" bis="140" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="35" von="140" />
+		<kategorie ref="avertissement" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="35" von="140" />
+		<kategorie ref="wechselkurse" />
+        <datum when="1764-05-31"></datum>
+    </beitrag>
+	
+    <beitrag>
+        <stueck jahr="1764" nr="36" von="143" bis="144" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="36" von="144" />
+		<kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
     </beitrag>
 	
 	
