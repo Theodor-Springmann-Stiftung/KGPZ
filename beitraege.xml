@@ -722,7 +722,7 @@
         <stueck jahr="1764" nr="32" von="126" bis="127" />
         <kategorie ref="gelehrte-nachrichten" />
 		<ort ref="mannheim" />
-		<anmerkung>Bericht über die Versammlung der Akademie der Wissenschaften in Mannheim<anmerkung>
+		<anmerkung>Bericht über die Versammlung der Akademie der Wissenschaften in Mannheim</anmerkung>
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="32" von="127" bis="128" />
@@ -731,7 +731,7 @@
 	<beitrag>
         <stueck jahr="1764" nr="32" von="124" />
         <kategorie ref="wechselkurse" />
-		<anmerkung>Tabelle, wornach die Zahlungen nach Verschiedenheit der bisherigen Münz-Sorten vom 1ten Junii 1764 an in dem jetzt nach wieder hergestellten Münz-Fuß geprägtem Gold- und Silber-Gelde geschehen sollen.
+		<anmerkung>Tabelle, wornach die Zahlungen nach Verschiedenheit der bisherigen Münz-Sorten vom 1ten Junii 1764 an in dem jetzt nach wieder hergestellten Münz-Fuß geprägtem Gold- und Silber-Gelde geschehen sollen.</anmerkung>
         <datum when="1764-05-17"></datum>
     </beitrag>
 	
@@ -762,6 +762,12 @@
     </beitrag>
 	
     <beitrag>
+        <stueck jahr="1764" nr="35" von="138" bis="139" />
+        <kategorie ref="gelehrte-nachrichten" />
+		<ort ref="kgsb" />
+		<anmerkung>Bericht über die Königsberger Akademie</anmerkung>
+    </beitrag>
+    <beitrag>
         <stueck jahr="1764" nr="35" von="139" bis="140" />
         <kategorie ref="weltnachrichten" />
     </beitrag>
@@ -776,6 +782,11 @@
         <datum when="1764-05-31"></datum>
     </beitrag>
 	
+	<beitrag>
+        <stueck jahr="1764" nr="36" von="142" bis="143" />
+        <werk ref="klopstock-salomo" kat="rezension" />
+		<ort ref="magdeburg" />
+    </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="36" von="143" bis="144" />
         <kategorie ref="weltnachrichten" />
@@ -895,7 +906,6 @@
         <kategorie ref="buecher" />
     </beitrag>
 	
-	
 	<beitrag>
         <stueck jahr="1764" nr="41" von="162" bis="163" />
         <kategorie ref="kommentar" />
@@ -916,6 +926,90 @@
         <stueck jahr="1764" nr="41" von="164" />
 		<kategorie ref="wechselkurse" />
         <datum when="1764-06-21"></datum>
+    </beitrag>
+	
+	<beitrag>
+        <stueck jahr="1764" nr="42" von="165" />
+        <kategorie ref="ineigenersache" />
+		<akteur ref="kanter">ZH II, 263</akteur>
+		<ort ref="kgsb" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="42" von="165" bis="167" />
+        <kategorie ref="leserbriefe" />
+		<anmerkung>von Vincenz Urban, V. U., vgl. ZH II, 263</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="42" von="167" bis="168" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="42" von="168" />
+		<kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+	
+	<beitrag>
+        <stueck jahr="1764" nr="43" von="168" />
+        <kategorie ref="gelehrte-nachrichten" />
+		<ort ref="kgsb" />
+		<anmerkung>Bericht über Veröffentlichungen der Königsberger Akademie</anmerkung>
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="43" von="169" bis="170" />
+		<stueck jahr="1764" nr="44" von="173" bis="174" />
+        <werk ref="basedow-unterricht" kat="rezension" />
+		<akteur ref="trescho">HBGA, I 26f. und X 579</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="43" von="171" bis="172" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="43" von="172" />
+		<kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="43" von="172" />
+		<kategorie ref="wechselkurse" />
+        <datum when="1764-06-28"></datum>
+    </beitrag>
+	
+	<beitrag>
+        <stueck jahr="1764" nr="44" von="174" bis="175" />
+		<werk ref="hippel-rhapsodie" kat="auszug" />
+		<werk ref="hippel-rhapsodie" kat="kommentar" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="44" von="175" bis="176" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+	
+	<beitrag>
+        <stueck jahr="1764" nr="45" von="177" bis="179" />
+		<kategorie ref="aufsatz" />
+		<titel>Von der Handlung</titel>
+		<anmerkung>Unterz. „K.“ (aber wohl nicht Kant, vgl. HBGA, X 300)</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="45" von="179" bis="180" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="45" von="180" />
+		<kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="45" von="180" />
+		<kategorie ref="avertissement" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="45" von="180" />
+		<kategorie ref="wechselkurse" />
+        <datum when="1764-07-05"></datum>
     </beitrag>
 	
 	
