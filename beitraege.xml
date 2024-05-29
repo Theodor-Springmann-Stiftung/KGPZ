@@ -960,6 +960,7 @@
 		<stueck jahr="1764" nr="44" von="173" bis="174" />
         <werk ref="basedow-unterricht" kat="rezension" />
 		<akteur ref="trescho">HBGA, I 26f. und X 579</akteur>
+		<ort ref="altona" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="43" von="171" bis="172" />
@@ -980,6 +981,7 @@
         <stueck jahr="1764" nr="44" von="174" bis="175" />
 		<werk ref="hippel-rhapsodie" kat="auszug" />
 		<werk ref="hippel-rhapsodie" kat="kommentar" />
+		<ort ref="kgsb" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="44" von="175" bis="176" />
@@ -990,7 +992,7 @@
         <stueck jahr="1764" nr="45" von="177" bis="179" />
 		<kategorie ref="aufsatz" />
 		<titel>Von der Handlung</titel>
-		<anmerkung>Unterz. „K.“ (aber wohl nicht Kant, vgl. HBGA, X 300)</anmerkung>
+		<anmerkung>Unterzeichnet mit „K.“ (aber wohl nicht Kant, vgl. HBGA, X 300)</anmerkung>
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="45" von="179" bis="180" />
@@ -1012,7 +1014,67 @@
         <datum when="1764-07-05"></datum>
     </beitrag>
 	
+	<beitrag>
+        <stueck jahr="1764" nr="46" von="181" bis="182" />
+        <werk ref="willamovius-mode" kat="rezension" />
+		<akteur ref="lauson">HBGA, I 27 und X 339</akteur>
+		<ort ref="breslau" />
+		<ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck jahr="1764" nr="46" von="183" bis="184" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
 	
+	<beitrag>
+        <stueck jahr="1764" nr="46" von="182" bis="183" />
+		<stueck jahr="1764" nr="47" von="185" bis="187" />
+		<stueck jahr="1764" nr="48" von="189" bis="191" />
+		<kategorie ref="aufsatz" />
+		<titel>Gedanken über die Ausbreitung der Wissenschaften, und einer verbesserten Erkänntniß</titel>
+		<akteur ref="trescho" unsicher="true" >ZH II, 263</akteur>
+		<anmerkung>Unterzeichnet mit „T.“</anmerkung>
+    </beitrag>
+	
+	<beitrag>
+        <stueck jahr="1764" nr="47" von="184" />
+        <werk ref="magazin-historique" kat="rezension" />
+		<ort ref="strassburg" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="47" von="184" />
+        <werk ref="darjes-einleitung" kat="rezension" />
+		<ort ref="jena" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="47" von="187" bis="188" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="47" von="188" />
+		<kategorie ref="avertissement" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="47" von="188" />
+		<kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="47" von="188" />
+		<kategorie ref="wechselkurse" />
+        <datum when="1764-07-12"></datum>
+    </beitrag>
+	
+    <beitrag>
+        <stueck jahr="1764" nr="48" von="191" bis="192" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1764" nr="48" von="192" />
+		<kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
 	
 	
 	<beitrag>
