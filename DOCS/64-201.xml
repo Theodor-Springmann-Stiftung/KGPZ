@@ -1,0 +1,3511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.12.1:model_id=39995:lm=none:date=06_04_2024_20:50</Creator>
+        <Created>2024-04-06T20:45:31.794+02:00</Created>
+        <LastChange>2024-04-06T20:50:02.196+02:00</LastChange>
+        <TranskribusMetadata docId="1918472" pageId="67853490" pageNr="1" tsid="157147416" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=LMDMPUKOLYVRQAAAUFFJRIDD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XWPIPIUMIKVVEOQBSUWUJXWS" imageId="54155536"/>
+    </Metadata>
+    <Page imageFilename="67853490.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1712429402197" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_10"/>
+                <RegionRefIndexed index="1" regionRef="r_23"/>
+                <RegionRefIndexed index="2" regionRef="r_24"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_10" custom="readingOrder {index:0;}">
+            <Coords points="173,1184 2274,1184 2274,1262 173,1262"/>
+            <TextLine id="r_10_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="578,1287 1161,1302 1812,1252 1812,1199 1726,1184 578,1214"/>
+                <Baseline points="591,1265 615,1259 659,1256 704,1256 749,1253 794,1253 838,1256 883,1256 928,1256 973,1256 1018,1256 1062,1253 1107,1250 1152,1250 1197,1250 1221,1247 1233,1244 1277,1247 1322,1244 1367,1244 1412,1244 1456,1244 1501,1244 1546,1241 1591,1241 1636,1238 1680,1238 1725,1241 1770,1238 1815,1241"/>
+                <Word id="r_10_tl_1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="595,1216 595,1276 712,1276 712,1216"/>
+                    <TextEquiv>
+                        <Unicode>51tes</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_10_tl_1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="751,1215 751,1275 913,1275 913,1215"/>
+                    <TextEquiv>
+                        <Unicode>Stück.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_10_tl_1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="979,1211 979,1271 1197,1271 1197,1211"/>
+                    <TextEquiv>
+                        <Unicode>Freytag,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_10_tl_1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1226,1205 1226,1265 1289,1265 1289,1205"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_10_tl_1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1345,1204 1345,1264 1417,1264 1417,1204"/>
+                    <TextEquiv>
+                        <Unicode>27.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_10_tl_1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1454,1201 1454,1261 1609,1261 1609,1201"/>
+                    <TextEquiv>
+                        <Unicode>Julius</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_10_tl_1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1648,1200 1648,1260 1801,1260 1801,1200"/>
+                    <TextEquiv>
+                        <Unicode>1764.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>51tes Stück. Freytag, den 27. Julius 1764.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_23" custom="readingOrder {index:1;}">
+            <Coords points="584,1289 1195,1279 1227,2917 173,2917 173,1262"/>
+            <TextLine id="r_23_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="300,1345 1080,1338 1062,1274 300,1305"/>
+                <Baseline points="313,1337 325,1334 370,1334 414,1334 459,1331 504,1331 549,1331 594,1331 638,1328 683,1328 728,1328 773,1325 818,1325 862,1325 907,1322 952,1322 997,1322 1041,1319 1086,1319"/>
+                <Word id="r_23_tl_1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="306,1294 306,1354 462,1354 462,1294"/>
+                    <TextEquiv>
+                        <Unicode>Beschluß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="490,1291 490,1351 537,1351 537,1291"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="565,1290 565,1350 629,1350 629,1290"/>
+                    <TextEquiv>
+                        <Unicode>letzt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="652,1285 652,1345 883,1345 883,1285"/>
+                    <TextEquiv>
+                        <Unicode>abgebrochnen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="911,1282 911,1342 1073,1342 1073,1282"/>
+                    <TextEquiv>
+                        <Unicode>Artikels.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Beschluß des letzt abgebrochnen Artikels.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="189,1408 1176,1373 1176,1335 1131,1325 189,1353"/>
+                <Baseline points="203,1391 241,1391 286,1388 331,1385 376,1385 420,1382 465,1379 510,1379 555,1376 600,1376 644,1373 689,1376 734,1373 779,1373 824,1370 868,1370 913,1370 958,1367 1003,1367 1047,1364 1092,1364 1137,1364 1182,1364"/>
+                <Word id="r_23_tl_2_w1" custom="readingOrder {index:0;}">
+                    <Coords points="196,1349 196,1409 322,1409 322,1349"/>
+                    <TextEquiv>
+                        <Unicode>Das</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_2_w2" custom="readingOrder {index:1;}">
+                    <Coords points="346,1343 346,1403 443,1403 443,1343"/>
+                    <TextEquiv>
+                        <Unicode>Theil</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_2_w3" custom="readingOrder {index:2;}">
+                    <Coords points="467,1339 467,1399 519,1399 519,1339"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_2_w4" custom="readingOrder {index:3;}">
+                    <Coords points="549,1334 549,1394 692,1394 692,1334"/>
+                    <TextEquiv>
+                        <Unicode>Körpers</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_2_w5" custom="readingOrder {index:4;}">
+                    <Coords points="728,1333 728,1393 814,1393 814,1333"/>
+                    <TextEquiv>
+                        <Unicode>einer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_2_w6" custom="readingOrder {index:5;}">
+                    <Coords points="838,1329 838,1389 1017,1389 1017,1329"/>
+                    <TextEquiv>
+                        <Unicode>Schnecke,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_2_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1046,1324 1046,1384 1173,1384 1173,1324"/>
+                    <TextEquiv>
+                        <Unicode>welches</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Das Theil des Körpers einer Schnecke, welches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="177,1431 1176,1421 1176,1375 1126,1373 177,1391"/>
+                <Baseline points="191,1427 197,1427 241,1427 286,1430 331,1430 376,1427 420,1427 465,1424 510,1424 555,1421 600,1421 644,1418 689,1418 734,1415 779,1415 824,1415 868,1415 913,1412 958,1409 1003,1409 1047,1409 1092,1406 1137,1406 1182,1403"/>
+                <Word id="r_23_tl_3_w1" custom="readingOrder {index:0;}">
+                    <Coords points="176,1389 176,1449 507,1449 507,1389"/>
+                    <TextEquiv>
+                        <Unicode>unmittelbar</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_3_w2" custom="readingOrder {index:1;}">
+                    <Coords points="537,1381 537,1441 590,1441 590,1381"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_3_w3" custom="readingOrder {index:2;}">
+                    <Coords points="639,1378 639,1438 736,1438 736,1378"/>
+                    <TextEquiv>
+                        <Unicode>Halse</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_3_w4" custom="readingOrder {index:3;}">
+                    <Coords points="766,1375 766,1435 892,1435 892,1375"/>
+                    <TextEquiv>
+                        <Unicode>folget,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_3_w5" custom="readingOrder {index:4;}">
+                    <Coords points="927,1369 927,1429 985,1429 985,1369"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_3_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1014,1369 1014,1429 1073,1429 1073,1369"/>
+                    <TextEquiv>
+                        <Unicode>das</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_3_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1102,1366 1102,1426 1170,1426 1170,1366"/>
+                    <TextEquiv>
+                        <Unicode>eben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>unmittelbar dem Halse folget, und das eben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="187,1494 1184,1469 1184,1418 1090,1413 189,1439"/>
+                <Baseline points="200,1480 203,1477 247,1477 292,1477 337,1474 382,1468 426,1468 471,1468 516,1468 561,1465 606,1462 650,1462 695,1462 740,1462 785,1459 829,1459 874,1459 919,1456 964,1456 1009,1453 1053,1453 1098,1450 1143,1450 1188,1450"/>
+                <Word id="r_23_tl_4_w1" custom="readingOrder {index:0;}">
+                    <Coords points="192,1437 192,1497 338,1497 338,1437"/>
+                    <TextEquiv>
+                        <Unicode>formirte</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_4_w2" custom="readingOrder {index:1;}">
+                    <Coords points="364,1428 364,1488 464,1488 464,1428"/>
+                    <TextEquiv>
+                        <Unicode>Theil</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_4_w3" custom="readingOrder {index:2;}">
+                    <Coords points="485,1428 485,1488 535,1488 535,1428"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_4_w4" custom="readingOrder {index:3;}">
+                    <Coords points="556,1422 556,1482 682,1482 682,1422"/>
+                    <TextEquiv>
+                        <Unicode>Schale</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_4_w5" custom="readingOrder {index:4;}">
+                    <Coords points="702,1419 702,1479 879,1479 879,1419"/>
+                    <TextEquiv>
+                        <Unicode>ausfüllet,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_4_w6" custom="readingOrder {index:5;}">
+                    <Coords points="905,1415 905,1475 1051,1475 1051,1415"/>
+                    <TextEquiv>
+                        <Unicode>schwitzet</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_4_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1077,1410 1077,1470 1177,1470 1177,1410"/>
+                    <TextEquiv>
+                        <Unicode>ferner</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>formirte Theil der Schale ausfüllet, schwitzet ferner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="184,1542 1133,1517 1179,1512 1181,1469 184,1497"/>
+                <Baseline points="197,1525 203,1525 247,1525 292,1525 337,1522 382,1519 426,1519 471,1516 516,1516 561,1513 606,1513 650,1513 695,1510 740,1510 785,1507 829,1507 874,1504 919,1504 964,1504 1009,1501 1053,1501 1098,1501 1143,1498 1188,1492"/>
+                <Word id="r_23_tl_5_w1" custom="readingOrder {index:0;}">
+                    <Coords points="189,1485 189,1545 292,1545 292,1485"/>
+                    <TextEquiv>
+                        <Unicode>keinen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_5_w2" custom="readingOrder {index:1;}">
+                    <Coords points="329,1479 329,1539 432,1539 432,1479"/>
+                    <TextEquiv>
+                        <Unicode>gelben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_5_w3" custom="readingOrder {index:2;}">
+                    <Coords points="469,1476 469,1536 536,1536 536,1476"/>
+                    <TextEquiv>
+                        <Unicode>noch</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_5_w4" custom="readingOrder {index:3;}">
+                    <Coords points="567,1472 567,1532 738,1532 738,1472"/>
+                    <TextEquiv>
+                        <Unicode>schwarzen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_5_w5" custom="readingOrder {index:4;}">
+                    <Coords points="770,1467 770,1527 858,1527 858,1467"/>
+                    <TextEquiv>
+                        <Unicode>Saft</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_5_w6" custom="readingOrder {index:5;}">
+                    <Coords points="884,1464 884,1524 971,1524 971,1464"/>
+                    <TextEquiv>
+                        <Unicode>mehr</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_5_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1004,1461 1004,1521 1086,1521 1086,1461"/>
+                    <TextEquiv>
+                        <Unicode>aus,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_5_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1112,1457 1112,1517 1179,1517 1179,1457"/>
+                    <TextEquiv>
+                        <Unicode>son¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>keinen gelben noch schwarzen Saft mehr aus, son¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="184,1585 1181,1565 1153,1509 187,1539"/>
+                <Baseline points="197,1573 203,1573 247,1573 292,1573 337,1573 382,1570 426,1567 471,1567 516,1567 561,1564 606,1561 650,1561 695,1558 740,1558 785,1558 829,1555 874,1555 919,1555 964,1552 1009,1552 1053,1549 1098,1546 1143,1549 1188,1546"/>
+                <Word id="r_23_tl_6_w1" custom="readingOrder {index:0;}">
+                    <Coords points="190,1533 190,1593 260,1593 260,1533"/>
+                    <TextEquiv>
+                        <Unicode>dern</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_6_w2" custom="readingOrder {index:1;}">
+                    <Coords points="298,1533 298,1593 352,1593 352,1533"/>
+                    <TextEquiv>
+                        <Unicode>nur</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_6_w3" custom="readingOrder {index:2;}">
+                    <Coords points="385,1527 385,1587 450,1587 450,1527"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_6_w4" custom="readingOrder {index:3;}">
+                    <Coords points="483,1525 483,1585 586,1585 586,1525"/>
+                    <TextEquiv>
+                        <Unicode>dünne</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_6_w5" custom="readingOrder {index:4;}">
+                    <Coords points="614,1518 614,1578 776,1578 776,1518"/>
+                    <TextEquiv>
+                        <Unicode>wässerige</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_6_w6" custom="readingOrder {index:5;}">
+                    <Coords points="815,1515 815,1575 918,1575 918,1515"/>
+                    <TextEquiv>
+                        <Unicode>weisse</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_6_w7" custom="readingOrder {index:6;}">
+                    <Coords points="951,1508 951,1568 1184,1568 1184,1508"/>
+                    <TextEquiv>
+                        <Unicode>Feuchtigkeit,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>dern nur eine dünne wässerige weisse Feuchtigkeit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="177,1640 1179,1608 1143,1555 179,1587"/>
+                <Baseline points="194,1624 200,1627 244,1624 289,1624 334,1621 379,1621 423,1618 468,1618 513,1615 558,1612 603,1612 647,1612 692,1609 737,1609 782,1606 826,1606 871,1603 916,1603 961,1603 1006,1603 1050,1600 1095,1600 1140,1597 1185,1594"/>
+                <Word id="r_23_tl_7_w1" custom="readingOrder {index:0;}">
+                    <Coords points="183,1584 183,1644 320,1644 320,1584"/>
+                    <TextEquiv>
+                        <Unicode>welche,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_7_w2" custom="readingOrder {index:1;}">
+                    <Coords points="342,1581 342,1641 374,1641 374,1581"/>
+                    <TextEquiv>
+                        <Unicode>da</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_7_w3" custom="readingOrder {index:2;}">
+                    <Coords points="402,1578 402,1638 440,1638 440,1578"/>
+                    <TextEquiv>
+                        <Unicode>sie</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_7_w4" custom="readingOrder {index:3;}">
+                    <Coords points="474,1575 474,1635 523,1635 523,1575"/>
+                    <TextEquiv>
+                        <Unicode>sich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_7_w5" custom="readingOrder {index:4;}">
+                    <Coords points="556,1572 556,1632 588,1632 588,1572"/>
+                    <TextEquiv>
+                        <Unicode>an</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_7_w6" custom="readingOrder {index:5;}">
+                    <Coords points="622,1571 622,1631 676,1631 676,1571"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_7_w7" custom="readingOrder {index:6;}">
+                    <Coords points="699,1567 699,1627 830,1627 830,1567"/>
+                    <TextEquiv>
+                        <Unicode>inneren</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_7_w8" custom="readingOrder {index:7;}">
+                    <Coords points="864,1563 864,1623 962,1623 962,1563"/>
+                    <TextEquiv>
+                        <Unicode>Seite</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_7_w9" custom="readingOrder {index:8;}">
+                    <Coords points="990,1562 990,1622 1039,1622 1039,1562"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_7_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1068,1558 1068,1618 1182,1618 1182,1558"/>
+                    <TextEquiv>
+                        <Unicode>neuge¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>welche, da sie sich an der inneren Seite der neuge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="182,1693 1179,1661 1163,1608 184,1645"/>
+                <Baseline points="197,1677 200,1677 244,1677 289,1674 334,1671 379,1668 423,1668 468,1668 513,1665 558,1665 603,1665 647,1665 692,1659 737,1659 782,1659 826,1659 871,1656 916,1653 961,1653 1006,1653 1050,1650 1095,1650 1140,1648 1185,1648"/>
+                <Word id="r_23_tl_8_w1" custom="readingOrder {index:0;}">
+                    <Coords points="188,1636 188,1696 328,1696 328,1636"/>
+                    <TextEquiv>
+                        <Unicode>machten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_8_w2" custom="readingOrder {index:1;}">
+                    <Coords points="367,1628 367,1688 491,1688 491,1628"/>
+                    <TextEquiv>
+                        <Unicode>Schale</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_8_w3" custom="readingOrder {index:2;}">
+                    <Coords points="519,1625 519,1685 693,1685 693,1625"/>
+                    <TextEquiv>
+                        <Unicode>verdicket,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_8_w4" custom="readingOrder {index:3;}">
+                    <Coords points="726,1619 726,1679 878,1679 878,1619"/>
+                    <TextEquiv>
+                        <Unicode>derselben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_8_w5" custom="readingOrder {index:4;}">
+                    <Coords points="916,1613 916,1673 981,1673 981,1613"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_8_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1009,1610 1009,1670 1100,1670 1100,1610"/>
+                    <TextEquiv>
+                        <Unicode>Haut</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_8_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1128,1608 1128,1668 1160,1668 1160,1608"/>
+                    <TextEquiv>
+                        <Unicode>an</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>machten Schale verdicket, derselben eine Haut an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="187,1749 1179,1711 1179,1658 189,1688"/>
+                <Baseline points="200,1731 244,1728 289,1725 334,1725 379,1722 423,1722 468,1719 513,1719 558,1719 603,1713 647,1713 692,1713 737,1713 782,1713 826,1710 871,1707 916,1707 961,1704 1006,1704 1050,1701 1095,1701 1140,1701 1185,1701"/>
+                <Word id="r_23_tl_9_w1" custom="readingOrder {index:0;}">
+                    <Coords points="193,1688 193,1748 286,1748 286,1688"/>
+                    <TextEquiv>
+                        <Unicode>legt,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_9_w2" custom="readingOrder {index:1;}">
+                    <Coords points="315,1684 315,1744 375,1744 375,1684"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_9_w3" custom="readingOrder {index:2;}">
+                    <Coords points="408,1680 408,1740 480,1740 480,1680"/>
+                    <TextEquiv>
+                        <Unicode>ihre</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_9_w4" custom="readingOrder {index:3;}">
+                    <Coords points="508,1678 508,1738 618,1738 618,1678"/>
+                    <TextEquiv>
+                        <Unicode>innere</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_9_w5" custom="readingOrder {index:4;}">
+                    <Coords points="640,1673 640,1733 828,1733 828,1673"/>
+                    <TextEquiv>
+                        <Unicode>Bedeckung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_9_w6" custom="readingOrder {index:5;}">
+                    <Coords points="856,1664 856,1724 1044,1724 1044,1664"/>
+                    <TextEquiv>
+                        <Unicode>ausmacht,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_9_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1072,1661 1072,1721 1182,1721 1182,1661"/>
+                    <TextEquiv>
+                        <Unicode>welche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>legt, und ihre innere Bedeckung ausmacht, welche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="187,1799 1100,1777 1189,1762 1191,1714 187,1746"/>
+                <Baseline points="200,1779 208,1782 253,1776 298,1779 343,1773 388,1773 432,1773 477,1770 522,1770 567,1767 612,1767 656,1767 701,1764 746,1764 791,1761 835,1761 880,1761 925,1761 970,1758 1015,1755 1059,1755 1104,1755 1149,1755 1194,1749"/>
+                <Word id="r_23_tl_10_w1" custom="readingOrder {index:0;}">
+                    <Coords points="193,1738 193,1798 375,1798 375,1738"/>
+                    <TextEquiv>
+                        <Unicode>derowegen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_10_w2" custom="readingOrder {index:1;}">
+                    <Coords points="409,1730 409,1790 525,1790 525,1730"/>
+                    <TextEquiv>
+                        <Unicode>allezeit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_10_w3" custom="readingOrder {index:2;}">
+                    <Coords points="547,1727 547,1787 702,1787 702,1727"/>
+                    <TextEquiv>
+                        <Unicode>weißlich,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_10_w4" custom="readingOrder {index:3;}">
+                    <Coords points="719,1723 719,1783 774,1783 774,1723"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_10_w5" custom="readingOrder {index:4;}">
+                    <Coords points="796,1721 796,1781 934,1781 934,1721"/>
+                    <TextEquiv>
+                        <Unicode>nimmer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_10_w6" custom="readingOrder {index:5;}">
+                    <Coords points="951,1715 951,1775 1117,1775 1117,1715"/>
+                    <TextEquiv>
+                        <Unicode>vielsärbig</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_10_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1140,1712 1140,1772 1189,1772 1189,1712"/>
+                    <TextEquiv>
+                        <Unicode>ist.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>derowegen allezeit weißlich, und nimmer vielsärbig ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="237,1835 1184,1820 1186,1762 237,1794"/>
+                <Baseline points="250,1827 295,1824 340,1821 385,1821 429,1821 474,1821 519,1818 564,1818 609,1815 653,1815 698,1815 743,1812 788,1809 832,1809 877,1809 922,1809 967,1809 1012,1806 1056,1806 1101,1806 1146,1803 1191,1803"/>
+                <Word id="r_23_tl_11_w1" custom="readingOrder {index:0;}">
+                    <Coords points="242,1786 242,1846 284,1846 284,1786"/>
+                    <TextEquiv>
+                        <Unicode>Es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_11_w2" custom="readingOrder {index:1;}">
+                    <Coords points="312,1781 312,1841 386,1841 386,1781"/>
+                    <TextEquiv>
+                        <Unicode>wird</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_11_w3" custom="readingOrder {index:2;}">
+                    <Coords points="414,1781 414,1841 461,1841 461,1781"/>
+                    <TextEquiv>
+                        <Unicode>itzt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_11_w4" custom="readingOrder {index:3;}">
+                    <Coords points="483,1778 483,1838 568,1838 568,1778"/>
+                    <TextEquiv>
+                        <Unicode>einem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_11_w5" custom="readingOrder {index:4;}">
+                    <Coords points="606,1772 606,1832 857,1832 857,1772"/>
+                    <TextEquiv>
+                        <Unicode>Naturforscher</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_11_w6" custom="readingOrder {index:5;}">
+                    <Coords points="879,1769 879,1829 970,1829 970,1769"/>
+                    <TextEquiv>
+                        <Unicode>leicht</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_11_w7" custom="readingOrder {index:6;}">
+                    <Coords points="997,1766 997,1826 1093,1826 1093,1766"/>
+                    <TextEquiv>
+                        <Unicode>seyn,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_11_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1120,1763 1120,1823 1189,1823 1189,1763"/>
+                    <TextEquiv>
+                        <Unicode>das,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Es wird itzt einem Naturforscher leicht seyn, das,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="187,1883 1189,1863 1189,1817 1148,1812 187,1827"/>
+                <Baseline points="200,1874 208,1871 253,1871 298,1871 343,1868 388,1865 432,1865 477,1865 522,1862 567,1862 612,1862 656,1859 701,1857 746,1857 791,1854 835,1854 880,1854 925,1851 970,1851 1015,1851 1059,1851 1104,1854 1149,1851 1194,1851"/>
+                <Word id="r_23_tl_12_w1" custom="readingOrder {index:0;}">
+                    <Coords points="191,1831 191,1891 262,1891 262,1831"/>
+                    <TextEquiv>
+                        <Unicode>was</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_12_w2" custom="readingOrder {index:1;}">
+                    <Coords points="292,1829 292,1889 358,1889 358,1829"/>
+                    <TextEquiv>
+                        <Unicode>hier</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_12_w3" custom="readingOrder {index:2;}">
+                    <Coords points="388,1825 388,1885 445,1885 445,1825"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_12_w4" custom="readingOrder {index:3;}">
+                    <Coords points="479,1823 479,1883 531,1883 531,1823"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_12_w5" custom="readingOrder {index:4;}">
+                    <Coords points="565,1819 565,1879 723,1879 723,1819"/>
+                    <TextEquiv>
+                        <Unicode>gemeinen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_12_w6" custom="readingOrder {index:5;}">
+                    <Coords points="757,1812 757,1872 1040,1872 1040,1812"/>
+                    <TextEquiv>
+                        <Unicode>Gartenschnecken</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_12_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1079,1812 1079,1872 1188,1872 1188,1812"/>
+                    <TextEquiv>
+                        <Unicode>gesagt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>was hier von den gemeinen Gartenschnecken gesagt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="189,1933 1151,1905 1186,1865 189,1885"/>
+                <Baseline points="203,1919 206,1919 250,1919 295,1916 340,1913 385,1910 429,1910 474,1907 519,1904 564,1904 609,1904 653,1904 698,1898 743,1898 788,1898 832,1895 877,1895 922,1895 967,1892 1012,1892 1056,1892 1101,1892 1146,1889 1191,1889"/>
+                <Word id="r_23_tl_13_w1" custom="readingOrder {index:0;}">
+                    <Coords points="193,1877 193,1937 351,1937 351,1877"/>
+                    <TextEquiv>
+                        <Unicode>worden,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_13_w2" custom="readingOrder {index:1;}">
+                    <Coords points="376,1870 376,1930 433,1930 433,1870"/>
+                    <TextEquiv>
+                        <Unicode>auf</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_13_w3" custom="readingOrder {index:2;}">
+                    <Coords points="462,1865 462,1925 520,1925 520,1865"/>
+                    <TextEquiv>
+                        <Unicode>alle</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_13_w4" custom="readingOrder {index:3;}">
+                    <Coords points="540,1864 540,1924 679,1924 679,1864"/>
+                    <TextEquiv>
+                        <Unicode>Thiere,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_13_w5" custom="readingOrder {index:4;}">
+                    <Coords points="709,1858 709,1918 823,1918 823,1858"/>
+                    <TextEquiv>
+                        <Unicode>welche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_13_w6" custom="readingOrder {index:5;}">
+                    <Coords points="853,1855 853,1915 920,1915 920,1855"/>
+                    <TextEquiv>
+                        <Unicode>eben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_13_w7" custom="readingOrder {index:6;}">
+                    <Coords points="959,1852 959,1912 1016,1912 1016,1852"/>
+                    <TextEquiv>
+                        <Unicode>mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_13_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1041,1851 1041,1911 1180,1911 1180,1851"/>
+                    <TextEquiv>
+                        <Unicode>Schalen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>worden, auf alle Thiere, welche eben mit Schalen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="192,1979 1191,1941 1176,1898 1035,1895 194,1933"/>
+                <Baseline points="206,1970 211,1970 256,1967 301,1964 346,1961 391,1961 435,1958 480,1955 525,1952 570,1949 615,1949 659,1949 704,1946 749,1943 794,1940 838,1940 883,1934 928,1937 973,1937 1018,1934 1062,1934 1107,1934 1152,1931 1197,1931"/>
+                <Word id="r_23_tl_14_w1" custom="readingOrder {index:0;}">
+                    <Coords points="197,1926 197,1986 339,1986 339,1926"/>
+                    <TextEquiv>
+                        <Unicode>bedecket</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_14_w2" custom="readingOrder {index:1;}">
+                    <Coords points="355,1920 355,1980 444,1980 444,1920"/>
+                    <TextEquiv>
+                        <Unicode>sind,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_14_w3" custom="readingOrder {index:2;}">
+                    <Coords points="466,1909 466,1969 703,1969 703,1909"/>
+                    <TextEquiv>
+                        <Unicode>anzuwenden;</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_14_w4" custom="readingOrder {index:3;}">
+                    <Coords points="741,1901 741,1961 798,1961 798,1901"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_14_w5" custom="readingOrder {index:4;}">
+                    <Coords points="830,1897 830,1957 878,1957 878,1897"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_14_w6" custom="readingOrder {index:5;}">
+                    <Coords points="905,1894 905,1954 1189,1954 1189,1894"/>
+                    <TextEquiv>
+                        <Unicode>Verschiedenheit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>bedecket sind, anzuwenden; und die Verschiedenheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="187,2037 1345,1971 2181,1991 2213,1951 1285,1931 187,1979"/>
+                <Baseline points="200,2015 223,2018 268,2015 313,2009 358,2009 403,2006 447,2000 492,1997 537,1994 582,1991 626,1991 671,1988 716,1985 761,1985 806,1982 850,1979 895,1979 940,1976 985,1976 1030,1973 1074,1973 1119,1973 1164,1970 1209,1970 1221,1970 1265,1970 1310,1970 1355,1967 1400,1967 1444,1967 1489,1970 1534,1973 1579,1973 1624,1970 1668,1970 1713,1970 1758,1973 1803,1973 1848,1973 1892,1973 1937,1976 1982,1976 2027,1973 2071,1976 2116,1973 2161,1976 2206,1979 2218,1976"/>
+                <Word id="r_23_tl_15_w1" custom="readingOrder {index:0;}">
+                    <Coords points="205,1977 205,2037 260,2037 260,1977"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w2" custom="readingOrder {index:1;}">
+                    <Coords points="289,1968 289,2028 428,2028 428,1968"/>
+                    <TextEquiv>
+                        <Unicode>Farben,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w3" custom="readingOrder {index:2;}">
+                    <Coords points="457,1958 457,2018 484,2018 484,1958"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w4" custom="readingOrder {index:3;}">
+                    <Coords points="504,1954 504,2014 560,2014 560,1954"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w5" custom="readingOrder {index:4;}">
+                    <Coords points="580,1951 580,2011 644,2011 644,1951"/>
+                    <TextEquiv>
+                        <Unicode>aus</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w6" custom="readingOrder {index:5;}">
+                    <Coords points="664,1946 664,2006 710,2006 710,1946"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w7" custom="readingOrder {index:6;}">
+                    <Coords points="748,1942 748,2002 850,2002 850,1942"/>
+                    <TextEquiv>
+                        <Unicode>Halse</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w8" custom="readingOrder {index:7;}">
+                    <Coords points="871,1937 871,1997 954,1997 954,1937"/>
+                    <TextEquiv>
+                        <Unicode>einer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w9" custom="readingOrder {index:8;}">
+                    <Coords points="983,1933 983,1993 1178,1993 1178,1933"/>
+                    <TextEquiv>
+                        <Unicode>wachsenden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1218,1930 1218,1990 1320,1990 1320,1930"/>
+                    <TextEquiv>
+                        <Unicode>lichem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w11" custom="readingOrder {index:10;}">
+                    <Coords points="1359,1928 1359,1988 1583,1988 1583,1928"/>
+                    <TextEquiv>
+                        <Unicode>Mittelpunkt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w12" custom="readingOrder {index:11;}">
+                    <Coords points="1603,1932 1603,1992 1883,1992 1883,1932"/>
+                    <TextEquiv>
+                        <Unicode>herumlaufenden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w13" custom="readingOrder {index:12;}">
+                    <Coords points="1913,1936 1913,1996 2024,1996 2024,1936"/>
+                    <TextEquiv>
+                        <Unicode>Kreise</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_15_w14" custom="readingOrder {index:13;}">
+                    <Coords points="2044,1933 2044,1993 2211,1993 2211,1933"/>
+                    <TextEquiv>
+                        <Unicode>erkennet.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>den Farben, in der aus dem Halse einer wachsenden lichem Mittelpunkt herumlaufenden Kreise erkennet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="187,2077 1191,2032 1194,1989 189,2034"/>
+                <Baseline points="203,2063 211,2063 256,2063 301,2060 346,2057 391,2054 435,2048 480,2045 525,2042 570,2039 615,2039 659,2036 704,2033 749,2030 794,2030 838,2027 883,2024 928,2021 973,2021 1018,2018 1062,2018 1107,2018 1152,2018 1197,2012"/>
+                <Word id="r_23_tl_16_w1" custom="readingOrder {index:0;}">
+                    <Coords points="193,2021 193,2081 360,2081 360,2021"/>
+                    <TextEquiv>
+                        <Unicode>Schnecke</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_16_w2" custom="readingOrder {index:1;}">
+                    <Coords points="383,2003 383,2063 633,2063 633,2003"/>
+                    <TextEquiv>
+                        <Unicode>ausdünstenden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_16_w3" custom="readingOrder {index:2;}">
+                    <Coords points="667,1990 667,2050 834,2050 834,1990"/>
+                    <TextEquiv>
+                        <Unicode>Materie,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_16_w4" custom="readingOrder {index:3;}">
+                    <Coords points="863,1982 863,2042 946,2042 946,1982"/>
+                    <TextEquiv>
+                        <Unicode>nebst</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_16_w5" custom="readingOrder {index:4;}">
+                    <Coords points="969,1979 969,2039 1018,2039 1018,1979"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_16_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1041,1978 1041,2038 1191,2038 1191,1978"/>
+                    <TextEquiv>
+                        <Unicode>verschie¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Schnecke ausdünstenden Materie, nebst der verschie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="192,2115 1191,2082 1194,2032 192,2080"/>
+                <Baseline points="206,2110 211,2110 256,2110 301,2107 346,2104 391,2098 435,2095 480,2092 525,2089 570,2086 615,2083 659,2083 704,2083 749,2080 794,2077 838,2074 883,2074 928,2071 973,2068 1018,2065 1062,2065 1107,2065 1152,2063 1197,2063"/>
+                <Word id="r_23_tl_17_w1" custom="readingOrder {index:0;}">
+                    <Coords points="198,2070 198,2130 292,2130 292,2070"/>
+                    <TextEquiv>
+                        <Unicode>denen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_17_w2" custom="readingOrder {index:1;}">
+                    <Coords points="321,2058 321,2118 448,2118 448,2058"/>
+                    <TextEquiv>
+                        <Unicode>Anzahl</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_17_w3" custom="readingOrder {index:2;}">
+                    <Coords points="466,2050 466,2110 527,2110 527,2050"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_17_w4" custom="readingOrder {index:3;}">
+                    <Coords points="550,2043 550,2103 711,2103 711,2043"/>
+                    <TextEquiv>
+                        <Unicode>Stellung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_17_w5" custom="readingOrder {index:4;}">
+                    <Coords points="740,2038 740,2098 789,2098 789,2038"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_17_w6" custom="readingOrder {index:5;}">
+                    <Coords points="812,2034 812,2094 923,2094 923,2034"/>
+                    <TextEquiv>
+                        <Unicode>bunten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_17_w7" custom="readingOrder {index:6;}">
+                    <Coords points="952,2025 952,2085 1079,2085 1079,2025"/>
+                    <TextEquiv>
+                        <Unicode>Punkte</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_17_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1114,2023 1114,2083 1185,2083 1185,2023"/>
+                    <TextEquiv>
+                        <Unicode>oder</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>denen Anzahl und Stellung der bunten Punkte oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="194,2178 1181,2130 1184,2080 197,2125"/>
+                <Baseline points="208,2158 250,2155 295,2152 340,2149 385,2146 429,2143 474,2140 519,2137 564,2137 609,2134 653,2134 698,2131 743,2128 788,2125 832,2122 877,2122 922,2119 967,2119 1012,2116 1056,2116 1101,2110 1146,2113 1191,2110"/>
+                <Word id="r_23_tl_18_w1" custom="readingOrder {index:0;}">
+                    <Coords points="200,2114 200,2174 323,2174 323,2114"/>
+                    <TextEquiv>
+                        <Unicode>Flecken</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_18_w2" custom="readingOrder {index:1;}">
+                    <Coords points="356,2106 356,2166 388,2166 388,2106"/>
+                    <TextEquiv>
+                        <Unicode>an</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_18_w3" custom="readingOrder {index:2;}">
+                    <Coords points="421,2101 421,2161 474,2161 474,2101"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_18_w4" custom="readingOrder {index:3;}">
+                    <Coords points="502,2095 502,2155 674,2155 674,2095"/>
+                    <TextEquiv>
+                        <Unicode>Schalen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_18_w5" custom="readingOrder {index:4;}">
+                    <Coords points="702,2087 702,2147 799,2147 799,2087"/>
+                    <TextEquiv>
+                        <Unicode>geben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_18_w6" custom="readingOrder {index:5;}">
+                    <Coords points="832,2082 832,2142 890,2142 890,2082"/>
+                    <TextEquiv>
+                        <Unicode>uns</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_18_w7" custom="readingOrder {index:6;}">
+                    <Coords points="923,2076 923,2136 1096,2136 1096,2076"/>
+                    <TextEquiv>
+                        <Unicode>Anleitung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_18_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1123,2072 1123,2132 1177,2132 1177,2072"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Flecken an den Schalen, geben uns Anleitung den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="192,2218 1095,2186 1196,2170 1199,2122 194,2175"/>
+                <Baseline points="206,2209 217,2206 262,2203 307,2200 352,2194 397,2194 441,2188 486,2188 531,2188 576,2188 620,2185 665,2185 710,2182 755,2179 800,2179 844,2176 889,2173 934,2173 979,2170 1024,2167 1068,2164 1113,2164 1158,2161 1203,2161"/>
+                <Word id="r_23_tl_19_w1" custom="readingOrder {index:0;}">
+                    <Coords points="197,2159 197,2219 419,2219 419,2159"/>
+                    <TextEquiv>
+                        <Unicode>gureichenden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_19_w2" custom="readingOrder {index:1;}">
+                    <Coords points="451,2148 451,2208 567,2208 567,2148"/>
+                    <TextEquiv>
+                        <Unicode>Grund</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_19_w3" custom="readingOrder {index:2;}">
+                    <Coords points="589,2146 589,2206 620,2206 620,2146"/>
+                    <TextEquiv>
+                        <Unicode>zu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_19_w4" custom="readingOrder {index:3;}">
+                    <Coords points="647,2141 647,2201 779,2201 779,2141"/>
+                    <TextEquiv>
+                        <Unicode>finden,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_19_w5" custom="readingOrder {index:4;}">
+                    <Coords points="806,2136 806,2196 858,2196 858,2136"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_19_w6" custom="readingOrder {index:5;}">
+                    <Coords points="891,2133 891,2193 964,2193 964,2133"/>
+                    <TextEquiv>
+                        <Unicode>aller</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_19_w7" custom="readingOrder {index:6;}">
+                    <Coords points="986,2127 986,2187 1038,2187 1038,2127"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_19_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1060,2123 1060,2183 1181,2183 1181,2123"/>
+                    <TextEquiv>
+                        <Unicode>schönen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>gureichenden Grund zu finden, von aller der schönen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="192,2276 1191,2228 1194,2173 194,2218"/>
+                <Baseline points="206,2251 211,2254 256,2251 301,2248 346,2245 391,2245 435,2242 480,2239 525,2239 570,2236 615,2233 659,2233 704,2230 749,2230 794,2227 838,2227 883,2224 928,2221 973,2221 1018,2218 1062,2218 1107,2215 1152,2212 1197,2209"/>
+                <Word id="r_23_tl_20_w1" custom="readingOrder {index:0;}">
+                    <Coords points="198,2206 198,2266 442,2266 442,2206"/>
+                    <TextEquiv>
+                        <Unicode>Abwechselung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_20_w2" custom="readingOrder {index:1;}">
+                    <Coords points="470,2199 470,2259 519,2259 519,2199"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_20_w3" custom="readingOrder {index:2;}">
+                    <Coords points="542,2193 542,2253 691,2253 691,2193"/>
+                    <TextEquiv>
+                        <Unicode>Farben,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_20_w4" custom="readingOrder {index:3;}">
+                    <Coords points="720,2189 720,2249 780,2249 780,2189"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_20_w5" custom="readingOrder {index:4;}">
+                    <Coords points="803,2186 803,2246 875,2246 875,2186"/>
+                    <TextEquiv>
+                        <Unicode>aller</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_20_w6" custom="readingOrder {index:5;}">
+                    <Coords points="903,2181 903,2241 952,2241 952,2181"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_20_w7" custom="readingOrder {index:6;}">
+                    <Coords points="981,2176 981,2236 1197,2236 1197,2176"/>
+                    <TextEquiv>
+                        <Unicode>Mannigfal¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Abwechselung der Farben, und aller der Mannigfal¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="189,2314 1189,2289 1191,2228 1156,2218 192,2271"/>
+                <Baseline points="206,2301 211,2304 256,2301 301,2301 346,2298 391,2298 435,2295 480,2292 525,2286 570,2286 615,2286 659,2283 704,2283 749,2280 794,2277 838,2277 883,2274 928,2271 973,2269 1018,2269 1062,2266 1107,2266 1152,2263 1197,2257"/>
+                <Word id="r_23_tl_21_w1" custom="readingOrder {index:0;}">
+                    <Coords points="196,2261 196,2321 326,2321 326,2261"/>
+                    <TextEquiv>
+                        <Unicode>tigkeit,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_21_w2" custom="readingOrder {index:1;}">
+                    <Coords points="350,2258 350,2318 400,2318 400,2258"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_21_w3" custom="readingOrder {index:2;}">
+                    <Coords points="430,2253 430,2313 486,2313 486,2253"/>
+                    <TextEquiv>
+                        <Unicode>wir</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_21_w4" custom="readingOrder {index:3;}">
+                    <Coords points="521,2246 521,2306 555,2306 555,2246"/>
+                    <TextEquiv>
+                        <Unicode>an</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_21_w5" custom="readingOrder {index:4;}">
+                    <Coords points="584,2246 584,2306 635,2306 635,2246"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_21_w6" custom="readingOrder {index:5;}">
+                    <Coords points="670,2239 670,2299 840,2299 840,2239"/>
+                    <TextEquiv>
+                        <Unicode>saubersten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_21_w7" custom="readingOrder {index:6;}">
+                    <Coords points="881,2229 881,2289 1108,2289 1108,2229"/>
+                    <TextEquiv>
+                        <Unicode>Seeschnecken</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_21_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1143,2221 1143,2281 1188,2281 1188,2221"/>
+                    <TextEquiv>
+                        <Unicode>be¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>tigkeit, die wir an den saubersten Seeschnecken be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="192,2367 227,2372 273,2360 371,2365 381,2355 394,2355 396,2317 381,2317 374,2309 331,2317 310,2317 300,2309 293,2317 268,2314 255,2322 194,2314"/>
+                <Baseline points="206,2355 223,2352 268,2349 313,2349 358,2349 403,2346"/>
+                <Word id="r_23_tl_22_w1" custom="readingOrder {index:0;}">
+                    <Coords points="197,2309 197,2369 389,2369 389,2309"/>
+                    <TextEquiv>
+                        <Unicode>wundern.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>wundern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="245,2410 1174,2375 1196,2289 924,2284 767,2337 247,2362"/>
+                <Baseline points="262,2397 304,2397 349,2394 394,2394 438,2391 483,2388 528,2385 573,2385 618,2379 662,2376 707,2373 752,2373 797,2373 841,2373 886,2373 931,2367 976,2367 1021,2364 1065,2361 1110,2358 1155,2355 1200,2352"/>
+                <Word id="r_23_tl_23_w1" custom="readingOrder {index:0;}">
+                    <Coords points="260,2357 260,2417 344,2417 344,2357"/>
+                    <TextEquiv>
+                        <Unicode>Eben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_23_w2" custom="readingOrder {index:1;}">
+                    <Coords points="370,2354 370,2414 395,2414 395,2354"/>
+                    <TextEquiv>
+                        <Unicode>so</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_23_w3" custom="readingOrder {index:2;}">
+                    <Coords points="421,2349 421,2409 497,2409 497,2349"/>
+                    <TextEquiv>
+                        <Unicode>kann</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_23_w4" custom="readingOrder {index:3;}">
+                    <Coords points="523,2345 523,2405 591,2405 591,2345"/>
+                    <TextEquiv>
+                        <Unicode>man</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_23_w5" custom="readingOrder {index:4;}">
+                    <Coords points="626,2336 626,2396 676,2396 676,2336"/>
+                    <TextEquiv>
+                        <Unicode>aus</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_23_w6" custom="readingOrder {index:5;}">
+                    <Coords points="702,2333 702,2393 854,2393 854,2333"/>
+                    <TextEquiv>
+                        <Unicode>denselben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_23_w7" custom="readingOrder {index:6;}">
+                    <Coords points="890,2327 890,2387 1042,2387 1042,2327"/>
+                    <TextEquiv>
+                        <Unicode>Gründen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_23_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1069,2319 1069,2379 1118,2379 1118,2319"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_23_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1137,2314 1137,2374 1195,2374 1195,2314"/>
+                    <TextEquiv>
+                        <Unicode>Ur=</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Eben so kann man aus denselben Gründen die Ur=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="197,2461 1174,2423 1196,2375 199,2408"/>
+                <Baseline points="211,2448 214,2445 259,2448 304,2445 349,2445 394,2442 438,2439 483,2436 528,2433 573,2430 618,2427 662,2421 707,2421 752,2421 797,2421 841,2424 886,2421 931,2421 976,2415 1021,2412 1065,2412 1110,2409 1155,2406 1200,2400"/>
+                <Word id="r_23_tl_24_w1" custom="readingOrder {index:0;}">
+                    <Coords points="203,2407 203,2467 294,2467 294,2407"/>
+                    <TextEquiv>
+                        <Unicode>sache</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_24_w2" custom="readingOrder {index:1;}">
+                    <Coords points="322,2404 322,2464 391,2464 391,2404"/>
+                    <TextEquiv>
+                        <Unicode>aller</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_24_w3" custom="readingOrder {index:2;}">
+                    <Coords points="419,2395 419,2455 549,2455 549,2395"/>
+                    <TextEquiv>
+                        <Unicode>übrigen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_24_w4" custom="readingOrder {index:3;}">
+                    <Coords points="582,2381 582,2441 879,2441 879,2381"/>
+                    <TextEquiv>
+                        <Unicode>Verschiedenheit,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_24_w5" custom="readingOrder {index:4;}">
+                    <Coords points="912,2381 912,2441 939,2441 939,2381"/>
+                    <TextEquiv>
+                        <Unicode>so</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_24_w6" custom="readingOrder {index:5;}">
+                    <Coords points="967,2373 967,2433 1037,2433 1037,2373"/>
+                    <TextEquiv>
+                        <Unicode>man</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_24_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1070,2370 1070,2430 1101,2430 1101,2370"/>
+                    <TextEquiv>
+                        <Unicode>an</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_24_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1135,2365 1135,2425 1183,2425 1183,2365"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>sache aller übrigen Verschiedenheit, so man an den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="197,2499 1196,2473 1199,2420 199,2461"/>
+                <Baseline points="211,2495 217,2492 262,2492 307,2489 352,2489 397,2486 441,2486 486,2483 531,2480 576,2477 620,2475 665,2472 710,2469 755,2466 800,2469 844,2469 889,2466 934,2466 979,2466 1024,2460 1068,2457 1113,2454 1158,2451 1203,2454"/>
+                <Word id="r_23_tl_25_w1" custom="readingOrder {index:0;}">
+                    <Coords points="202,2449 202,2509 388,2509 388,2449"/>
+                    <TextEquiv>
+                        <Unicode>Schnecken</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_25_w2" custom="readingOrder {index:1;}">
+                    <Coords points="410,2440 410,2500 643,2500 643,2440"/>
+                    <TextEquiv>
+                        <Unicode>wahrnimmt,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_25_w3" custom="readingOrder {index:2;}">
+                    <Coords points="665,2426 665,2486 824,2486 824,2426"/>
+                    <TextEquiv>
+                        <Unicode>angeben.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_25_w4" custom="readingOrder {index:3;}">
+                    <Coords points="884,2426 884,2486 1026,2486 1026,2426"/>
+                    <TextEquiv>
+                        <Unicode>Gesetzt,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_25_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1043,2416 1043,2476 1106,2476 1106,2416"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_25_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1133,2411 1133,2471 1197,2471 1197,2411"/>
+                    <TextEquiv>
+                        <Unicode>Art</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Schnecken wahrnimmt, angeben. Gesetzt, eine Art</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="194,2562 1189,2511 1189,2471 1126,2461 197,2499"/>
+                <Baseline points="211,2540 253,2540 298,2537 343,2534 388,2531 432,2531 477,2531 522,2528 567,2525 612,2522 656,2516 701,2513 746,2513 791,2516 835,2516 880,2516 925,2516 970,2513 1015,2507 1059,2504 1104,2504 1149,2501 1194,2498"/>
+                <Word id="r_23_tl_26_w1" custom="readingOrder {index:0;}">
+                    <Coords points="200,2500 200,2560 305,2560 305,2500"/>
+                    <TextEquiv>
+                        <Unicode>dieser</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_26_w2" custom="readingOrder {index:1;}">
+                    <Coords points="328,2491 328,2551 456,2551 456,2491"/>
+                    <TextEquiv>
+                        <Unicode>Fische,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_26_w3" custom="readingOrder {index:2;}">
+                    <Coords points="479,2489 479,2549 506,2549 506,2489"/>
+                    <TextEquiv>
+                        <Unicode>so</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_26_w4" custom="readingOrder {index:3;}">
+                    <Coords points="523,2484 523,2544 618,2544 618,2484"/>
+                    <TextEquiv>
+                        <Unicode>lange</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_26_w5" custom="readingOrder {index:4;}">
+                    <Coords points="646,2473 646,2533 779,2533 779,2473"/>
+                    <TextEquiv>
+                        <Unicode>dieselbe</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_26_w6" custom="readingOrder {index:5;}">
+                    <Coords points="808,2476 808,2536 874,2536 874,2476"/>
+                    <TextEquiv>
+                        <Unicode>noch</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_26_w7" custom="readingOrder {index:6;}">
+                    <Coords points="914,2475 914,2535 941,2535 941,2475"/>
+                    <TextEquiv>
+                        <Unicode>im</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_26_w8" custom="readingOrder {index:7;}">
+                    <Coords points="975,2464 975,2524 1175,2524 1175,2464"/>
+                    <TextEquiv>
+                        <Unicode>Wachsthum</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>dieser Fische, so lange dieselbe noch im Wachsthum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="207,2607 1123,2572 1196,2559 1199,2516 209,2549"/>
+                <Baseline points="220,2588 262,2588 307,2585 352,2582 397,2579 441,2576 486,2576 531,2576 576,2573 620,2567 665,2564 710,2564 755,2561 800,2564 844,2564 889,2564 934,2561 979,2561 1024,2555 1068,2552 1113,2552 1158,2549 1203,2549"/>
+                <Word id="r_23_tl_27_w1" custom="readingOrder {index:0;}">
+                    <Coords points="214,2547 214,2607 314,2607 314,2547"/>
+                    <TextEquiv>
+                        <Unicode>steht,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_27_w2" custom="readingOrder {index:1;}">
+                    <Coords points="338,2540 338,2600 420,2600 420,2540"/>
+                    <TextEquiv>
+                        <Unicode>habe</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_27_w3" custom="readingOrder {index:2;}">
+                    <Coords points="444,2536 444,2596 503,2596 503,2536"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_27_w4" custom="readingOrder {index:3;}">
+                    <Coords points="528,2531 528,2591 645,2591 645,2531"/>
+                    <TextEquiv>
+                        <Unicode>gewisse</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_27_w5" custom="readingOrder {index:4;}">
+                    <Coords points="669,2522 669,2582 799,2582 799,2522"/>
+                    <TextEquiv>
+                        <Unicode>Anzahl</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_27_w6" custom="readingOrder {index:5;}">
+                    <Coords points="818,2524 818,2584 929,2584 929,2524"/>
+                    <TextEquiv>
+                        <Unicode>Hügel</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_27_w7" custom="readingOrder {index:6;}">
+                    <Coords points="947,2521 947,2581 1000,2581 1000,2521"/>
+                    <TextEquiv>
+                        <Unicode>auf</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_27_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1025,2513 1025,2573 1077,2573 1077,2513"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_27_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1119,2509 1119,2569 1201,2569 1201,2509"/>
+                    <TextEquiv>
+                        <Unicode>Kör=</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>steht, habe eine gewisse Anzahl Hügel auf dem Kör=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="199,2660 1196,2617 1189,2554 202,2607"/>
+                <Baseline points="217,2639 262,2636 307,2633 352,2627 397,2624 441,2624 486,2621 531,2621 576,2618 620,2615 665,2612 710,2609 755,2609 800,2612 844,2612 889,2612 934,2609 979,2606 1024,2603 1068,2600 1113,2600 1158,2597 1203,2597"/>
+                <Word id="r_23_tl_28_w1" custom="readingOrder {index:0;}">
+                    <Coords points="205,2597 205,2657 286,2657 286,2597"/>
+                    <TextEquiv>
+                        <Unicode>per,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_28_w2" custom="readingOrder {index:1;}">
+                    <Coords points="308,2591 308,2651 335,2651 335,2591"/>
+                    <TextEquiv>
+                        <Unicode>so</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_28_w3" custom="readingOrder {index:2;}">
+                    <Coords points="368,2584 368,2644 444,2644 444,2584"/>
+                    <TextEquiv>
+                        <Unicode>kann</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_28_w4" custom="readingOrder {index:3;}">
+                    <Coords points="482,2581 482,2641 509,2641 509,2581"/>
+                    <TextEquiv>
+                        <Unicode>es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_28_w5" custom="readingOrder {index:4;}">
+                    <Coords points="543,2577 543,2637 624,2637 624,2577"/>
+                    <TextEquiv>
+                        <Unicode>nicht</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_28_w6" custom="readingOrder {index:5;}">
+                    <Coords points="652,2569 652,2629 782,2629 782,2569"/>
+                    <TextEquiv>
+                        <Unicode>fehlen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_28_w7" custom="readingOrder {index:6;}">
+                    <Coords points="810,2572 810,2632 881,2632 881,2572"/>
+                    <TextEquiv>
+                        <Unicode>oder</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_28_w8" custom="readingOrder {index:7;}">
+                    <Coords points="908,2569 908,2629 940,2629 940,2569"/>
+                    <TextEquiv>
+                        <Unicode>es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_28_w9" custom="readingOrder {index:8;}">
+                    <Coords points="968,2562 968,2622 1082,2622 1082,2562"/>
+                    <TextEquiv>
+                        <Unicode>müssen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_28_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1121,2557 1121,2617 1191,2617 1191,2557"/>
+                    <TextEquiv>
+                        <Unicode>auch</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>per, so kann es nicht fehlen, oder es müssen auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="204,2705 1330,2640 2216,2660 2216,2615 2117,2599 1719,2627 1388,2594 207,2655"/>
+                <Baseline points="220,2689 226,2686 271,2681 316,2678 361,2675 406,2672 450,2672 495,2669 540,2669 585,2666 629,2663 674,2660 719,2657 764,2657 809,2660 853,2660 898,2660 943,2657 988,2654 1032,2654 1077,2648 1122,2648 1167,2645 1212,2645 1236,2642 1280,2642 1325,2639 1370,2639 1415,2639 1459,2639 1504,2642 1549,2645 1594,2648 1639,2651 1683,2648 1728,2648 1773,2645 1818,2642 1862,2642 1907,2639 1952,2642 1997,2642 2042,2642 2086,2642 2131,2648 2176,2645 2221,2648"/>
+                <Word id="r_23_tl_29_w1" custom="readingOrder {index:0;}">
+                    <Coords points="214,2638 214,2698 413,2698 413,2638"/>
+                    <TextEquiv>
+                        <Unicode>gleichartige</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w2" custom="readingOrder {index:1;}">
+                    <Coords points="435,2629 435,2689 544,2689 544,2629"/>
+                    <TextEquiv>
+                        <Unicode>Hügel</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w3" custom="readingOrder {index:2;}">
+                    <Coords points="572,2625 572,2685 627,2685 627,2625"/>
+                    <TextEquiv>
+                        <Unicode>auf</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w4" custom="readingOrder {index:3;}">
+                    <Coords points="655,2619 655,2679 702,2679 702,2619"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w5" custom="readingOrder {index:4;}">
+                    <Coords points="724,2618 724,2678 854,2678 854,2618"/>
+                    <TextEquiv>
+                        <Unicode>Schale</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w6" custom="readingOrder {index:5;}">
+                    <Coords points="875,2615 875,2675 1061,2675 1061,2615"/>
+                    <TextEquiv>
+                        <Unicode>entstehen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1082,2607 1082,2667 1191,2667 1191,2607"/>
+                    <TextEquiv>
+                        <Unicode>welche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1234,2602 1234,2662 1309,2662 1309,2602"/>
+                    <TextEquiv>
+                        <Unicode>oder</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w9" custom="readingOrder {index:8;}">
+                    <Coords points="1330,2599 1330,2659 1481,2659 1481,2599"/>
+                    <TextEquiv>
+                        <Unicode>Sande,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w10" custom="readingOrder {index:9;}">
+                    <Coords points="1509,2604 1509,2664 1570,2664 1570,2604"/>
+                    <TextEquiv>
+                        <Unicode>mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w11" custom="readingOrder {index:10;}">
+                    <Coords points="1599,2610 1599,2670 1694,2670 1694,2610"/>
+                    <TextEquiv>
+                        <Unicode>vielen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w12" custom="readingOrder {index:11;}">
+                    <Coords points="1730,2602 1730,2662 1963,2662 1963,2602"/>
+                    <TextEquiv>
+                        <Unicode>untermengten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w13" custom="readingOrder {index:12;}">
+                    <Coords points="1998,2602 1998,2662 2059,2662 2059,2602"/>
+                    <TextEquiv>
+                        <Unicode>sehr</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_29_w14" custom="readingOrder {index:13;}">
+                    <Coords points="2095,2606 2095,2666 2204,2666 2204,2606"/>
+                    <TextEquiv>
+                        <Unicode>kleinen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>gleichartige Hügel auf der Schale entstehen, welche oder Sande, mit vielen untermengten sehr kleinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="207,2751 1158,2718 1201,2711 1204,2663 207,2703"/>
+                <Baseline points="220,2734 223,2734 268,2734 313,2725 358,2725 403,2719 447,2719 492,2716 537,2713 582,2710 626,2707 671,2707 716,2704 761,2704 806,2707 850,2710 895,2707 940,2707 985,2704 1030,2701 1074,2698 1119,2695 1164,2695 1209,2692"/>
+                <Word id="r_23_tl_30_w1" custom="readingOrder {index:0;}">
+                    <Coords points="216,2694 216,2754 304,2754 304,2694"/>
+                    <TextEquiv>
+                        <Unicode>durch</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_30_w2" custom="readingOrder {index:1;}">
+                    <Coords points="331,2684 331,2744 394,2744 394,2684"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_30_w3" custom="readingOrder {index:2;}">
+                    <Coords points="420,2673 420,2733 631,2733 631,2673"/>
+                    <TextEquiv>
+                        <Unicode>regelmäßige</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_30_w4" custom="readingOrder {index:3;}">
+                    <Coords points="657,2664 657,2724 886,2724 886,2664"/>
+                    <TextEquiv>
+                        <Unicode>Ausdünstung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_30_w5" custom="readingOrder {index:4;}">
+                    <Coords points="913,2665 913,2725 1008,2725 1008,2665"/>
+                    <TextEquiv>
+                        <Unicode>seiner</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_30_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1028,2657 1028,2717 1130,2717 1130,2657"/>
+                    <TextEquiv>
+                        <Unicode>Säfte</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_30_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1156,2654 1156,2714 1200,2714 1200,2654"/>
+                    <TextEquiv>
+                        <Unicode>ge¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>durch eine regelmäßige Ausdünstung seiner Säfte ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="202,2796 1206,2761 1199,2703 202,2753"/>
+                <Baseline points="217,2785 226,2785 271,2782 316,2776 361,2773 406,2767 450,2767 495,2764 540,2761 585,2758 629,2755 674,2752 719,2749 764,2752 809,2755 853,2755 898,2755 943,2755 988,2755 1032,2749 1077,2749 1122,2743 1167,2743 1212,2740"/>
+                <Word id="r_23_tl_31_w1" custom="readingOrder {index:0;}">
+                    <Coords points="211,2742 211,2802 309,2802 309,2742"/>
+                    <TextEquiv>
+                        <Unicode>bildet</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_31_w2" custom="readingOrder {index:1;}">
+                    <Coords points="336,2727 336,2787 481,2787 481,2727"/>
+                    <TextEquiv>
+                        <Unicode>werden.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_31_w3" custom="readingOrder {index:2;}">
+                    <Coords points="541,2717 541,2777 646,2777 646,2717"/>
+                    <TextEquiv>
+                        <Unicode>Diese</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_31_w4" custom="readingOrder {index:3;}">
+                    <Coords points="674,2709 674,2769 792,2769 792,2709"/>
+                    <TextEquiv>
+                        <Unicode>werden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_31_w5" custom="readingOrder {index:4;}">
+                    <Coords points="832,2715 832,2775 877,2775 877,2715"/>
+                    <TextEquiv>
+                        <Unicode>sich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_31_w6" custom="readingOrder {index:5;}">
+                    <Coords points="911,2712 911,2772 1109,2772 1109,2712"/>
+                    <TextEquiv>
+                        <Unicode>regelmäßig</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_31_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1142,2702 1142,2762 1207,2762 1207,2702"/>
+                    <TextEquiv>
+                        <Unicode>ver=</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>bildet werden. Diese werden sich regelmäßig ver=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="202,2847 1168,2814 1204,2809 1206,2758 202,2796"/>
+                <Baseline points="217,2836 226,2836 271,2833 316,2827 361,2824 406,2818 450,2818 495,2812 540,2812 585,2809 629,2806 674,2803 719,2803 764,2800 809,2803 853,2803 898,2803 943,2803 988,2803 1032,2800 1077,2797 1122,2794 1167,2791 1212,2788"/>
+                <Word id="r_23_tl_32_w1" custom="readingOrder {index:0;}">
+                    <Coords points="209,2790 209,2850 368,2850 368,2790"/>
+                    <TextEquiv>
+                        <Unicode>mehren,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_32_w2" custom="readingOrder {index:1;}">
+                    <Coords points="397,2778 397,2838 454,2838 454,2778"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_32_w3" custom="readingOrder {index:2;}">
+                    <Coords points="483,2772 483,2832 534,2832 534,2772"/>
+                    <TextEquiv>
+                        <Unicode>bey</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_32_w4" custom="readingOrder {index:3;}">
+                    <Coords points="563,2768 563,2828 608,2828 608,2768"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_32_w5" custom="readingOrder {index:4;}">
+                    <Coords points="654,2761 654,2821 837,2821 837,2761"/>
+                    <TextEquiv>
+                        <Unicode>Fortgange</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_32_w6" custom="readingOrder {index:5;}">
+                    <Coords points="860,2763 860,2823 911,2823 911,2763"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_32_w7" custom="readingOrder {index:6;}">
+                    <Coords points="935,2762 935,2822 1060,2822 1060,2762"/>
+                    <TextEquiv>
+                        <Unicode>Schale</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_32_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1089,2752 1089,2812 1203,2812 1203,2752"/>
+                    <TextEquiv>
+                        <Unicode>immer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>mehren, und bey dem Fortgange der Schale immer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="202,2890 1141,2890 1204,2870 1206,2809 202,2844"/>
+                <Baseline points="217,2889 226,2887 271,2884 316,2878 361,2875 406,2872 450,2869 495,2866 540,2866 585,2863 629,2863 674,2860 719,2860 764,2857 809,2857 853,2857 898,2860 943,2860 988,2860 1032,2857 1077,2854 1122,2848 1167,2845 1212,2842"/>
+                <Word id="r_23_tl_33_w1" custom="readingOrder {index:0;}">
+                    <Coords points="206,2844 206,2904 323,2904 323,2844"/>
+                    <TextEquiv>
+                        <Unicode>größer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_33_w2" custom="readingOrder {index:1;}">
+                    <Coords points="346,2831 346,2891 492,2891 492,2831"/>
+                    <TextEquiv>
+                        <Unicode>werden,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_33_w3" custom="readingOrder {index:2;}">
+                    <Coords points="522,2824 522,2884 595,2884 595,2824"/>
+                    <TextEquiv>
+                        <Unicode>weil</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_33_w4" custom="readingOrder {index:3;}">
+                    <Coords points="619,2820 619,2880 786,2880 786,2820"/>
+                    <TextEquiv>
+                        <Unicode>diejenigen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_33_w5" custom="readingOrder {index:4;}">
+                    <Coords points="818,2819 818,2879 949,2879 949,2819"/>
+                    <TextEquiv>
+                        <Unicode>Hügel,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_33_w6" custom="readingOrder {index:5;}">
+                    <Coords points="979,2818 979,2878 1038,2878 1038,2818"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_23_tl_33_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1075,2807 1075,2867 1199,2867 1199,2807"/>
+                    <TextEquiv>
+                        <Unicode>welchen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>größer werden, weil diejenigen Hügel, von welchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_24" custom="readingOrder {index:2;}">
+            <Coords points="1205,1279 2274,1262 2274,2917 1227,2917"/>
+            <TextLine id="r_24_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1214,1327 2208,1322 2188,1232 1822,1239 1739,1274 1214,1269"/>
+                <Baseline points="1227,1316 1230,1316 1274,1313 1319,1313 1364,1313 1409,1313 1453,1310 1498,1310 1543,1310 1588,1307 1633,1304 1677,1304 1722,1304 1767,1304 1812,1304 1857,1304 1901,1304 1946,1304 1991,1301 2036,1301 2080,1301 2125,1304 2170,1304 2215,1301"/>
+                <Word id="r_24_tl_1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1217,1275 1217,1335 1257,1335 1257,1275"/>
+                    <TextEquiv>
+                        <Unicode>sie</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1271,1273 1271,1333 1419,1333 1419,1273"/>
+                    <TextEquiv>
+                        <Unicode>formiret</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_1_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1433,1270 1433,1330 1574,1330 1574,1270"/>
+                    <TextEquiv>
+                        <Unicode>werden,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_1_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1588,1265 1588,1325 1635,1325 1635,1265"/>
+                    <TextEquiv>
+                        <Unicode>bey</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_1_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1662,1264 1662,1324 1885,1324 1885,1264"/>
+                    <TextEquiv>
+                        <Unicode>fortgehenden</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_1_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1913,1261 1913,1321 2108,1321 2108,1261"/>
+                    <TextEquiv>
+                        <Unicode>Wachsthum</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_1_w7" custom="readingOrder {index:6;}">
+                    <Coords points="2142,1264 2142,1324 2196,1324 2196,1264"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>sie formiret werden, bey fortgehenden Wachsthum des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1206,1373 2206,1355 2206,1322 2143,1310 1206,1327"/>
+                <Baseline points="1221,1358 1227,1358 1271,1355 1316,1355 1361,1355 1406,1355 1450,1355 1495,1352 1540,1355 1585,1352 1630,1349 1674,1349 1719,1349 1764,1346 1809,1349 1854,1349 1898,1349 1943,1349 1988,1346 2033,1346 2077,1346 2122,1349 2167,1346 2212,1343"/>
+                <Word id="r_24_tl_2_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1210,1315 1210,1375 1352,1375 1352,1315"/>
+                    <TextEquiv>
+                        <Unicode>Thieres</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_2_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1377,1315 1377,1375 1436,1375 1436,1315"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_2_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1461,1312 1461,1372 1529,1372 1529,1312"/>
+                    <TextEquiv>
+                        <Unicode>Zeit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_2_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1550,1313 1550,1373 1579,1373 1579,1313"/>
+                    <TextEquiv>
+                        <Unicode>zu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_2_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1604,1309 1604,1369 1673,1369 1673,1309"/>
+                    <TextEquiv>
+                        <Unicode>Zeit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_2_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1683,1307 1683,1367 1796,1367 1796,1307"/>
+                    <TextEquiv>
+                        <Unicode>größer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_2_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1816,1309 1816,1369 1959,1369 1959,1309"/>
+                    <TextEquiv>
+                        <Unicode>werden.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_2_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1984,1306 1984,1366 2091,1366 2091,1306"/>
+                    <TextEquiv>
+                        <Unicode>Wenn</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_2_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2117,1306 2117,1366 2204,1366 2204,1306"/>
+                    <TextEquiv>
+                        <Unicode>dero¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Thieres von Zeit zu Zeit größer werden. Wenn dero¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1209,1408 2206,1413 2206,1355 1209,1370"/>
+                <Baseline points="1224,1397 1268,1397 1313,1400 1358,1397 1403,1397 1447,1394 1492,1397 1537,1397 1582,1397 1627,1394 1671,1394 1716,1394 1761,1394 1806,1394 1851,1394 1895,1394 1940,1394 1985,1394 2030,1391 2074,1394 2119,1394 2164,1397 2209,1397 2212,1397"/>
+                <Word id="r_24_tl_3_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1215,1357 1215,1417 1314,1417 1314,1357"/>
+                    <TextEquiv>
+                        <Unicode>wegen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_3_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1347,1357 1347,1417 1413,1417 1413,1357"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_3_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1436,1357 1436,1417 1557,1417 1557,1357"/>
+                    <TextEquiv>
+                        <Unicode>gewisse</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_3_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1580,1354 1580,1414 1772,1414 1772,1354"/>
+                    <TextEquiv>
+                        <Unicode>Jahreszeit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_3_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1789,1354 1789,1414 1844,1414 1844,1354"/>
+                    <TextEquiv>
+                        <Unicode>ist,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_3_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1867,1354 1867,1414 1900,1414 1900,1354"/>
+                    <TextEquiv>
+                        <Unicode>da</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_3_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1928,1354 1928,1414 1971,1414 1971,1354"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_3_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1994,1352 1994,1412 2115,1412 2115,1352"/>
+                    <TextEquiv>
+                        <Unicode>Schale</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_3_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2138,1357 2138,1417 2209,1417 2209,1357"/>
+                    <TextEquiv>
+                        <Unicode>auf¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>wegen eine gewisse Jahreszeit ist, da die Schale auf¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1204,1454 2206,1454 2206,1411 2115,1401 1204,1406"/>
+                <Baseline points="1218,1444 1227,1444 1271,1444 1316,1444 1361,1444 1406,1444 1450,1442 1495,1442 1540,1442 1585,1442 1630,1442 1674,1442 1719,1439 1764,1442 1809,1439 1854,1439 1898,1436 1943,1436 1988,1439 2033,1439 2077,1442 2122,1442 2167,1442 2212,1442"/>
+                <Word id="r_24_tl_4_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1210,1404 1210,1464 1300,1464 1300,1404"/>
+                    <TextEquiv>
+                        <Unicode>höret</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_4_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1324,1404 1324,1464 1351,1464 1351,1404"/>
+                    <TextEquiv>
+                        <Unicode>zu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_4_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1375,1402 1375,1462 1539,1462 1539,1402"/>
+                    <TextEquiv>
+                        <Unicode>wachsen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_4_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1562,1402 1562,1462 1618,1462 1618,1402"/>
+                    <TextEquiv>
+                        <Unicode>das</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_4_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1642,1402 1642,1462 1704,1462 1704,1402"/>
+                    <TextEquiv>
+                        <Unicode>ist,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_4_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1727,1401 1727,1461 1811,1461 1811,1401"/>
+                    <TextEquiv>
+                        <Unicode>wenn</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_4_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1846,1397 1846,1457 1896,1457 1896,1397"/>
+                    <TextEquiv>
+                        <Unicode>das</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_4_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1925,1398 1925,1458 2022,1458 2022,1398"/>
+                    <TextEquiv>
+                        <Unicode>Thier</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_4_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2051,1402 2051,1462 2203,1462 2203,1402"/>
+                    <TextEquiv>
+                        <Unicode>aufhöret</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>höret zu wachsen, das ist, wenn das Thier aufhöret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1206,1509 2203,1502 2203,1456 2037,1444 1206,1456"/>
+                <Baseline points="1221,1495 1224,1495 1268,1492 1313,1492 1358,1492 1403,1489 1447,1489 1492,1492 1537,1489 1582,1489 1627,1489 1671,1489 1716,1489 1761,1489 1806,1486 1851,1486 1895,1486 1940,1489 1985,1486 2030,1486 2074,1489 2119,1489 2164,1489 2209,1492"/>
+                <Word id="r_24_tl_5_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1212,1452 1212,1512 1313,1512 1313,1452"/>
+                    <TextEquiv>
+                        <Unicode>seinen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_5_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1348,1449 1348,1509 1477,1509 1477,1449"/>
+                    <TextEquiv>
+                        <Unicode>Körper</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_5_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1500,1450 1500,1510 1533,1510 1533,1450"/>
+                    <TextEquiv>
+                        <Unicode>zu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_5_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1568,1449 1568,1509 1754,1509 1754,1449"/>
+                    <TextEquiv>
+                        <Unicode>vergrößern</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_5_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1789,1446 1789,1506 1833,1506 1833,1446"/>
+                    <TextEquiv>
+                        <Unicode>(es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_5_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1868,1446 1868,1506 1912,1506 1912,1446"/>
+                    <TextEquiv>
+                        <Unicode>sey</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_5_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1947,1446 1947,1506 2002,1506 2002,1446"/>
+                    <TextEquiv>
+                        <Unicode>nun</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_5_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2031,1449 2031,1509 2194,1509 2194,1449"/>
+                    <TextEquiv>
+                        <Unicode>Sommer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>seinen Körper zu vergrößern (es sey nun Sommer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1206,1550 2206,1555 2181,1497 1206,1512"/>
+                <Baseline points="1221,1543 1227,1540 1271,1540 1316,1540 1361,1540 1406,1540 1450,1540 1495,1540 1540,1540 1585,1537 1630,1537 1674,1537 1719,1537 1764,1537 1809,1534 1854,1534 1898,1534 1943,1534 1988,1534 2033,1534 2077,1537 2122,1537 2167,1540 2212,1540"/>
+                <Word id="r_24_tl_6_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1213,1500 1213,1560 1282,1560 1282,1500"/>
+                    <TextEquiv>
+                        <Unicode>oder</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_6_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1311,1500 1311,1560 1467,1560 1467,1500"/>
+                    <TextEquiv>
+                        <Unicode>Winter,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_6_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1502,1500 1502,1560 1571,1560 1571,1500"/>
+                    <TextEquiv>
+                        <Unicode>oder</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_6_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1601,1497 1601,1557 1711,1557 1711,1497"/>
+                    <TextEquiv>
+                        <Unicode>welche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_6_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1734,1494 1734,1554 1930,1554 1930,1494"/>
+                    <TextEquiv>
+                        <Unicode>Jahreszeit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_6_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1954,1494 1954,1554 1988,1554 1988,1494"/>
+                    <TextEquiv>
+                        <Unicode>es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_6_w7" custom="readingOrder {index:6;}">
+                    <Coords points="2018,1497 2018,1557 2139,1557 2139,1497"/>
+                    <TextEquiv>
+                        <Unicode>wolle,)</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_6_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2168,1500 2168,1560 2197,1560 2197,1500"/>
+                    <TextEquiv>
+                        <Unicode>so</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>oder Winter, oder welche Jahreszeit es wolle,) so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1204,1603 2206,1598 2206,1552 2148,1545 1204,1550"/>
+                <Baseline points="1218,1588 1262,1591 1307,1588 1352,1591 1397,1588 1442,1588 1486,1588 1531,1588 1576,1588 1621,1585 1665,1588 1710,1588 1755,1585 1800,1585 1845,1585 1889,1585 1934,1585 1979,1585 2024,1585 2068,1585 2113,1585 2158,1588 2203,1585 2212,1588"/>
+                <Word id="r_24_tl_7_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1212,1550 1212,1610 1286,1610 1286,1550"/>
+                    <TextEquiv>
+                        <Unicode>kann</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_7_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1317,1549 1317,1609 1347,1609 1347,1549"/>
+                    <TextEquiv>
+                        <Unicode>es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_7_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1385,1548 1385,1608 1465,1608 1465,1548"/>
+                    <TextEquiv>
+                        <Unicode>nicht</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_7_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1491,1548 1491,1608 1626,1608 1626,1548"/>
+                    <TextEquiv>
+                        <Unicode>fehlen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_7_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1658,1548 1658,1608 1731,1608 1731,1548"/>
+                    <TextEquiv>
+                        <Unicode>oder</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_7_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1757,1545 1757,1605 1787,1605 1787,1545"/>
+                    <TextEquiv>
+                        <Unicode>es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_7_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1819,1545 1819,1605 1935,1605 1935,1545"/>
+                    <TextEquiv>
+                        <Unicode>müssen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_7_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1967,1545 1967,1605 2016,1605 2016,1545"/>
+                    <TextEquiv>
+                        <Unicode>sich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_7_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2054,1545 2054,1605 2189,1605 2189,1545"/>
+                    <TextEquiv>
+                        <Unicode>Spuren</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>kann es nicht fehlen, oder es müssen sich Spuren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1204,1661 2206,1645 2160,1595 1204,1603"/>
+                <Baseline points="1218,1642 1227,1642 1271,1642 1316,1642 1361,1639 1406,1642 1450,1642 1495,1642 1540,1639 1585,1639 1630,1639 1674,1636 1719,1636 1764,1636 1809,1636 1854,1636 1898,1636 1943,1636 1988,1636 2033,1633 2077,1636 2122,1636 2167,1636 2212,1639"/>
+                <Word id="r_24_tl_8_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1212,1602 1212,1662 1385,1662 1385,1602"/>
+                    <TextEquiv>
+                        <Unicode>derjenigen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_8_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1416,1602 1416,1662 1509,1662 1509,1602"/>
+                    <TextEquiv>
+                        <Unicode>Zeit,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_8_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1528,1599 1528,1659 1564,1659 1564,1599"/>
+                    <TextEquiv>
+                        <Unicode>da</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_8_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1590,1599 1590,1659 1645,1659 1645,1599"/>
+                    <TextEquiv>
+                        <Unicode>das</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_8_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1670,1596 1670,1656 1775,1656 1775,1596"/>
+                    <TextEquiv>
+                        <Unicode>Thier</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_8_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1794,1596 1794,1656 1955,1656 1955,1596"/>
+                    <TextEquiv>
+                        <Unicode>wiederum</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_8_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1999,1594 1999,1654 2029,1654 2029,1594"/>
+                    <TextEquiv>
+                        <Unicode>zu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_8_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2061,1596 2061,1656 2190,1656 2190,1596"/>
+                    <TextEquiv>
+                        <Unicode>wachsen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>derjenigen Zeit, da das Thier wiederum zu wachsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1209,1709 2206,1696 2206,1656 2057,1640 1209,1658"/>
+                <Baseline points="1224,1692 1227,1692 1271,1692 1316,1692 1361,1692 1406,1692 1450,1692 1495,1692 1540,1689 1585,1689 1630,1686 1674,1686 1719,1689 1764,1686 1809,1686 1854,1686 1898,1686 1943,1686 1988,1686 2033,1686 2077,1686 2122,1686 2167,1689 2212,1689"/>
+                <Word id="r_24_tl_9_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1216,1652 1216,1712 1381,1712 1381,1652"/>
+                    <TextEquiv>
+                        <Unicode>anfängt,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_9_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1399,1652 1399,1712 1458,1712 1458,1652"/>
+                    <TextEquiv>
+                        <Unicode>auf</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_9_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1476,1651 1476,1711 1523,1711 1523,1651"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_9_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1547,1647 1547,1707 1670,1707 1670,1647"/>
+                    <TextEquiv>
+                        <Unicode>Schale</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_9_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1694,1646 1694,1706 1901,1706 1901,1646"/>
+                    <TextEquiv>
+                        <Unicode>abzeichnen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_9_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1925,1646 1925,1706 1984,1706 1984,1646"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_9_w7" custom="readingOrder {index:6;}">
+                    <Coords points="2014,1646 2014,1706 2096,1706 2096,1646"/>
+                    <TextEquiv>
+                        <Unicode>wenn</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_9_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2126,1648 2126,1708 2190,1708 2190,1648"/>
+                    <TextEquiv>
+                        <Unicode>man</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>anfängt, auf der Schale abzeichnen, und wenn man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1209,1757 2203,1749 2203,1696 2163,1693 1209,1709"/>
+                <Baseline points="1224,1746 1265,1746 1310,1743 1355,1746 1400,1743 1444,1743 1489,1740 1534,1740 1579,1740 1624,1740 1668,1740 1713,1740 1758,1740 1803,1737 1848,1737 1892,1737 1937,1734 1982,1737 2027,1737 2071,1737 2116,1740 2161,1740 2206,1737"/>
+                <Word id="r_24_tl_10_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1218,1706 1218,1766 1294,1766 1294,1706"/>
+                    <TextEquiv>
+                        <Unicode>diese</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_10_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1314,1705 1314,1765 1384,1765 1384,1705"/>
+                    <TextEquiv>
+                        <Unicode>Zeit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_10_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1404,1701 1404,1761 1538,1761 1538,1701"/>
+                    <TextEquiv>
+                        <Unicode>wußte,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_10_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1558,1700 1558,1760 1666,1760 1666,1700"/>
+                    <TextEquiv>
+                        <Unicode>würde</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_10_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1686,1700 1686,1760 1756,1760 1756,1700"/>
+                    <TextEquiv>
+                        <Unicode>man</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_10_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1783,1697 1783,1757 1929,1757 1929,1697"/>
+                    <TextEquiv>
+                        <Unicode>vieleicht</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_10_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1956,1696 1956,1756 1981,1756 1981,1696"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_10_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2007,1697 2007,1757 2103,1757 2103,1697"/>
+                    <TextEquiv>
+                        <Unicode>vielen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_10_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2129,1699 2129,1759 2205,1759 2205,1699"/>
+                    <TextEquiv>
+                        <Unicode>Fäl¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>diese Zeit wußte, würde man vieleicht in vielen Fäl¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1216,1807 2211,1802 2211,1749 2128,1744 1216,1759"/>
+                <Baseline points="1230,1797 1274,1797 1319,1794 1364,1794 1409,1797 1453,1794 1498,1794 1543,1791 1588,1791 1633,1791 1677,1791 1722,1791 1767,1791 1812,1788 1857,1788 1901,1791 1946,1788 1991,1788 2036,1791 2080,1791 2125,1791 2170,1791 2215,1791"/>
+                <Word id="r_24_tl_11_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1224,1757 1224,1817 1266,1817 1266,1757"/>
+                    <TextEquiv>
+                        <Unicode>len</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_11_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1298,1754 1298,1814 1346,1814 1346,1754"/>
+                    <TextEquiv>
+                        <Unicode>das</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_11_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1378,1756 1378,1816 1463,1816 1463,1756"/>
+                    <TextEquiv>
+                        <Unicode>Alter</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_11_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1488,1752 1488,1812 1543,1812 1543,1752"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_11_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1568,1751 1568,1811 1690,1811 1690,1751"/>
+                    <TextEquiv>
+                        <Unicode>Schale</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_11_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1722,1751 1722,1811 1789,1811 1789,1751"/>
+                    <TextEquiv>
+                        <Unicode>eben</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_11_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1820,1748 1820,1808 1850,1808 1850,1748"/>
+                    <TextEquiv>
+                        <Unicode>so</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_11_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1882,1748 1882,1808 2016,1808 2016,1748"/>
+                    <TextEquiv>
+                        <Unicode>richtig,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_11_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2041,1751 2041,1811 2127,1811 2127,1751"/>
+                    <TextEquiv>
+                        <Unicode>durch</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_11_w10" custom="readingOrder {index:9;}">
+                    <Coords points="2158,1751 2158,1811 2201,1811 2201,1751"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>len das Alter der Schale eben so richtig, durch die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1219,1852 2206,1857 2206,1807 2027,1789 1802,1820 1711,1792 1651,1820 1219,1807"/>
+                <Baseline points="1233,1842 1271,1845 1316,1842 1361,1842 1406,1842 1450,1842 1495,1842 1540,1842 1585,1842 1630,1839 1674,1839 1719,1842 1764,1839 1809,1839 1854,1839 1898,1839 1943,1839 1988,1839 2033,1839 2077,1836 2122,1839 2167,1839 2212,1839"/>
+                <Word id="r_24_tl_12_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1225,1802 1225,1862 1440,1862 1440,1802"/>
+                    <TextEquiv>
+                        <Unicode>Verbindung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_12_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1463,1802 1463,1862 1513,1862 1513,1802"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_12_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1536,1802 1536,1862 1626,1862 1626,1802"/>
+                    <TextEquiv>
+                        <Unicode>neuen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_12_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1655,1799 1655,1859 1717,1859 1717,1799"/>
+                    <TextEquiv>
+                        <Unicode>mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_12_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1734,1799 1734,1859 1784,1859 1784,1799"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_12_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1808,1799 1808,1859 1881,1859 1881,1799"/>
+                    <TextEquiv>
+                        <Unicode>alten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_12_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1910,1799 1910,1859 2073,1859 2073,1799"/>
+                    <TextEquiv>
+                        <Unicode>Materie,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_12_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2090,1799 2090,1859 2208,1859 2208,1799"/>
+                    <TextEquiv>
+                        <Unicode>bestim¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Verbindung der neuen mit der alten Materie, bestim¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1209,1895 2211,1898 2211,1855 2155,1852 1209,1857"/>
+                <Baseline points="1224,1883 1268,1886 1313,1886 1358,1886 1403,1883 1447,1883 1492,1886 1537,1886 1582,1883 1627,1883 1671,1886 1716,1883 1761,1886 1806,1883 1851,1883 1895,1883 1940,1883 1985,1883 2030,1886 2074,1886 2119,1886 2164,1886 2209,1886 2218,1886"/>
+                <Word id="r_24_tl_13_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1219,1844 1219,1904 1286,1904 1286,1844"/>
+                    <TextEquiv>
+                        <Unicode>men</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_13_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1312,1844 1312,1904 1461,1904 1461,1844"/>
+                    <TextEquiv>
+                        <Unicode>können,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_13_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1488,1846 1488,1906 1533,1906 1533,1846"/>
+                    <TextEquiv>
+                        <Unicode>als</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_13_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1555,1843 1555,1903 1626,1903 1626,1843"/>
+                    <TextEquiv>
+                        <Unicode>man</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_13_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1653,1845 1653,1905 1704,1905 1704,1845"/>
+                    <TextEquiv>
+                        <Unicode>das</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_13_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1730,1845 1730,1905 1817,1905 1817,1845"/>
+                    <TextEquiv>
+                        <Unicode>Alter</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_13_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1849,1843 1849,1903 1936,1903 1936,1843"/>
+                    <TextEquiv>
+                        <Unicode>eines</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_13_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1962,1846 1962,1906 2111,1906 2111,1846"/>
+                    <TextEquiv>
+                        <Unicode>Baumes</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_13_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2143,1846 2143,1906 2204,1906 2204,1846"/>
+                    <TextEquiv>
+                        <Unicode>aus</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>men können, als man das Alter eines Baumes aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1209,1943 2216,1953 2191,1893 1209,1895"/>
+                <Baseline points="1224,1925 1268,1928 1313,1928 1358,1925 1403,1928 1447,1928 1492,1928 1537,1928 1582,1928 1627,1928 1671,1928 1716,1928 1761,1931 1806,1931 1851,1928 1895,1928 1940,1931 1985,1931 2030,1931 2074,1931 2119,1931 2164,1934 2209,1934 2221,1934"/>
+                <Word id="r_24_tl_14_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1216,1886 1216,1946 1266,1946 1266,1886"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_14_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1289,1885 1289,1945 1420,1945 1420,1885"/>
+                    <TextEquiv>
+                        <Unicode>Anzahl</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_14_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1438,1888 1438,1948 1534,1948 1534,1888"/>
+                    <TextEquiv>
+                        <Unicode>seiner</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_14_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1558,1888 1558,1948 1757,1948 1757,1888"/>
+                    <TextEquiv>
+                        <Unicode>jährlichen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_14_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1786,1891 1786,1951 1819,1951 1819,1891"/>
+                    <TextEquiv>
+                        <Unicode>um</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_14_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1860,1888 1860,1948 1951,1948 1951,1888"/>
+                    <TextEquiv>
+                        <Unicode>ihren</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_14_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1980,1891 1980,1951 2218,1951 2218,1891"/>
+                    <TextEquiv>
+                        <Unicode>gemeinschaft¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>der Anzahl seiner jährlichen, um ihren gemeinschaft¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1219,2019 2213,2032 2213,1986 1219,1979"/>
+                <Baseline points="1233,2009 1277,2009 1322,2009 1367,2009 1412,2009 1456,2009 1501,2012 1546,2012 1591,2012 1636,2009 1680,2012 1725,2012 1770,2012 1815,2015 1859,2015 1904,2015 1949,2015 1994,2015 2039,2018 2083,2018 2128,2018 2173,2021 2218,2021"/>
+                <Word id="r_24_tl_15_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1225,1969 1225,2029 1298,2029 1298,1969"/>
+                    <TextEquiv>
+                        <Unicode>Wir</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_15_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1333,1969 1333,2029 1417,2029 1417,1969"/>
+                    <TextEquiv>
+                        <Unicode>sehen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_15_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1452,1971 1452,2031 1542,2031 1542,1971"/>
+                    <TextEquiv>
+                        <Unicode>also,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_15_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1565,1971 1565,2031 1621,2031 1621,1971"/>
+                    <TextEquiv>
+                        <Unicode>daß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_15_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1656,1972 1656,2032 1734,2032 1734,1972"/>
+                    <TextEquiv>
+                        <Unicode>diese</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_15_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1763,1974 1763,2034 1865,2034 1865,1974"/>
+                    <TextEquiv>
+                        <Unicode>zarten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_15_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1899,1975 1899,2035 2017,2035 2017,1975"/>
+                    <TextEquiv>
+                        <Unicode>Thiere</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_15_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2046,1978 2046,2038 2137,2038 2137,1978"/>
+                    <TextEquiv>
+                        <Unicode>selbst</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_15_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2165,1981 2165,2041 2210,2041 2210,1981"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Wir sehen also, daß diese zarten Thiere selbst die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1216,2062 2211,2077 2211,2034 2029,2016 1216,2019"/>
+                <Baseline points="1230,2060 1274,2057 1319,2057 1364,2057 1409,2054 1453,2054 1498,2054 1543,2057 1588,2057 1633,2054 1677,2054 1722,2054 1767,2057 1812,2057 1857,2057 1901,2057 1946,2060 1991,2060 2036,2060 2080,2060 2125,2063 2170,2065 2215,2065 2218,2065"/>
+                <Word id="r_24_tl_16_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1216,2017 1216,2077 1422,2077 1422,2017"/>
+                    <TextEquiv>
+                        <Unicode>Baumeister</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_16_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1444,2014 1444,2074 1530,2074 1530,2014"/>
+                    <TextEquiv>
+                        <Unicode>ihrer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_16_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1552,2014 1552,2074 1704,2074 1704,2014"/>
+                    <TextEquiv>
+                        <Unicode>zierlichen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_16_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1732,2017 1732,2077 1948,2077 1948,2017"/>
+                    <TextEquiv>
+                        <Unicode>Wohnungen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_16_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1981,2020 1981,2080 2062,2080 2062,2020"/>
+                    <TextEquiv>
+                        <Unicode>sind,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_16_w6" custom="readingOrder {index:5;}">
+                    <Coords points="2095,2024 2095,2084 2208,2084 2208,2024"/>
+                    <TextEquiv>
+                        <Unicode>welche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Baumeister ihrer zierlichen Wohnungen sind, welche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1214,2115 2211,2125 2211,2077 2110,2069 1214,2062"/>
+                <Baseline points="1227,2104 1271,2107 1316,2104 1361,2104 1406,2101 1450,2101 1495,2101 1540,2101 1585,2098 1630,2098 1674,2101 1719,2101 1764,2101 1809,2104 1854,2101 1898,2104 1943,2104 1988,2104 2033,2104 2077,2107 2122,2110 2167,2110 2212,2113 2218,2113"/>
+                <Word id="r_24_tl_17_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1221,2065 1221,2125 1286,2125 1286,2065"/>
+                    <TextEquiv>
+                        <Unicode>blos</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_17_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1316,2064 1316,2124 1369,2124 1369,2064"/>
+                    <TextEquiv>
+                        <Unicode>aus</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_17_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1400,2061 1400,2121 1452,2121 1452,2061"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_17_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1476,2061 1476,2121 1601,2121 1601,2061"/>
+                    <TextEquiv>
+                        <Unicode>Ursache</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_17_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1631,2060 1631,2120 1702,2120 1702,2060"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_17_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1726,2061 1726,2121 1755,2121 1755,2061"/>
+                    <TextEquiv>
+                        <Unicode>so</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_17_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1786,2063 1786,2123 1999,2123 1999,2063"/>
+                    <TextEquiv>
+                        <Unicode>regelmäßige</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_17_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2024,2069 2024,2129 2213,2129 2213,2069"/>
+                    <TextEquiv>
+                        <Unicode>Schönheit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>blos aus der Ursache eine so regelmäßige Schönheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1219,2165 2201,2170 2201,2130 2009,2110 1219,2117"/>
+                <Baseline points="1233,2155 1277,2155 1322,2155 1367,2152 1412,2149 1456,2149 1501,2149 1546,2149 1591,2152 1636,2149 1680,2152 1725,2152 1770,2152 1815,2152 1859,2152 1904,2152 1949,2152 1994,2155 2039,2155 2083,2158 2128,2158 2173,2158 2206,2158"/>
+                <Word id="r_24_tl_18_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1227,2115 1227,2175 1355,2175 1355,2115"/>
+                    <TextEquiv>
+                        <Unicode>haben,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_18_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1374,2109 1374,2169 1453,2169 1453,2109"/>
+                    <TextEquiv>
+                        <Unicode>weil</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_18_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1479,2109 1479,2169 1515,2169 1515,2109"/>
+                    <TextEquiv>
+                        <Unicode>sie</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_18_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1540,2110 1540,2170 1687,2170 1687,2110"/>
+                    <TextEquiv>
+                        <Unicode>gleichsam</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_18_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1737,2112 1737,2172 1865,2172 1865,2112"/>
+                    <TextEquiv>
+                        <Unicode>zugleich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_18_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1903,2112 1903,2172 1963,2172 1963,2112"/>
+                    <TextEquiv>
+                        <Unicode>mit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_18_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1989,2115 1989,2175 2037,2175 2037,2115"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_18_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2081,2118 2081,2178 2184,2178 2184,2118"/>
+                    <TextEquiv>
+                        <Unicode>Körpe</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>haben, weil sie gleichsam zugleich mit dem Körpe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="1216,2226 2216,2218 2216,2181 2148,2165 1216,2163"/>
+                <Baseline points="1230,2206 1274,2203 1319,2203 1364,2200 1409,2197 1453,2197 1498,2197 1543,2197 1588,2200 1633,2200 1677,2200 1722,2203 1767,2203 1812,2203 1857,2203 1901,2200 1946,2203 1991,2206 2036,2206 2080,2206 2125,2206 2170,2209 2215,2206 2221,2209"/>
+                <Word id="r_24_tl_19_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1224,2163 1224,2223 1307,2223 1307,2163"/>
+                    <TextEquiv>
+                        <Unicode>ihres</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_19_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1332,2157 1332,2217 1563,2217 1563,2157"/>
+                    <TextEquiv>
+                        <Unicode>Baumeisters</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_19_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1588,2160 1588,2220 1745,2220 1745,2160"/>
+                    <TextEquiv>
+                        <Unicode>wachsen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_19_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1769,2163 1769,2223 1860,2223 1860,2163"/>
+                    <TextEquiv>
+                        <Unicode>dessen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_19_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1891,2166 1891,2226 2097,2226 2097,2166"/>
+                    <TextEquiv>
+                        <Unicode>verschiedene</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_19_w6" custom="readingOrder {index:5;}">
+                    <Coords points="2122,2168 2122,2228 2212,2228 2212,2168"/>
+                    <TextEquiv>
+                        <Unicode>Alter</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ihres Baumeisters wachsen, dessen verschiedene Alter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1219,2274 2097,2279 2218,2269 2216,2221 1216,2216"/>
+                <Baseline points="1230,2254 1274,2251 1319,2251 1364,2248 1409,2245 1453,2245 1498,2251 1543,2251 1588,2251 1633,2251 1677,2254 1722,2254 1767,2254 1812,2251 1857,2254 1901,2254 1946,2254 1991,2257 2036,2257 2080,2260 2125,2257 2170,2260 2215,2260 2221,2257"/>
+                <Word id="r_24_tl_20_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1224,2212 1224,2272 1285,2272 1285,2212"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_20_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1310,2205 1310,2265 1589,2265 1589,2205"/>
+                    <TextEquiv>
+                        <Unicode>Abwechselungen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_20_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1620,2211 1620,2271 1669,2271 1669,2211"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_20_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1694,2214 1694,2274 1830,2274 1830,2214"/>
+                    <TextEquiv>
+                        <Unicode>Lebens,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_20_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1855,2214 1855,2274 1942,2274 1942,2214"/>
+                    <TextEquiv>
+                        <Unicode>wenn</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_20_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1967,2217 1967,2277 2034,2277 2034,2217"/>
+                    <TextEquiv>
+                        <Unicode>man</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_20_w7" custom="readingOrder {index:6;}">
+                    <Coords points="2066,2218 2066,2278 2127,2278 2127,2218"/>
+                    <TextEquiv>
+                        <Unicode>nur</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_20_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2147,2220 2147,2280 2214,2280 2214,2220"/>
+                    <TextEquiv>
+                        <Unicode>eine</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>und Abwechselungen des Lebens, wenn man nur eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1219,2307 2216,2334 2198,2269 1219,2274"/>
+                <Baseline points="1233,2298 1277,2301 1322,2298 1367,2295 1412,2295 1456,2295 1501,2298 1546,2298 1591,2301 1636,2301 1680,2304 1725,2304 1770,2307 1815,2307 1859,2307 1904,2307 1949,2307 1994,2307 2039,2310 2083,2307 2128,2310 2173,2310 2218,2310 2221,2310"/>
+                <Word id="r_24_tl_21_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1229,2260 1229,2320 1345,2320 1345,2260"/>
+                    <TextEquiv>
+                        <Unicode>völlige</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_21_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1374,2255 1374,2315 1532,2315 1532,2255"/>
+                    <TextEquiv>
+                        <Unicode>Kenntniß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_21_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1568,2261 1568,2321 1671,2321 1671,2261"/>
+                    <TextEquiv>
+                        <Unicode>davon</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_21_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1706,2266 1706,2326 1823,2326 1823,2266"/>
+                    <TextEquiv>
+                        <Unicode>hätte,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_21_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1858,2267 1858,2327 1899,2327 1899,2267"/>
+                    <TextEquiv>
+                        <Unicode>sie</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_21_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1928,2267 1928,2327 1982,2327 1982,2267"/>
+                    <TextEquiv>
+                        <Unicode>auf</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_21_w7" custom="readingOrder {index:6;}">
+                    <Coords points="2010,2269 2010,2329 2059,2329 2059,2269"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_21_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2080,2270 2080,2330 2210,2330 2210,2270"/>
+                    <TextEquiv>
+                        <Unicode>artigste</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>völlige Kenntniß davon hätte, sie auf die artigste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1219,2377 1259,2382 1287,2357 1345,2352 1408,2365 1519,2352 1570,2375 1592,2357 1683,2365 1683,2327 1605,2309 1550,2304 1519,2324 1489,2304 1355,2322 1219,2317"/>
+                <Baseline points="1233,2352 1277,2349 1322,2349 1367,2346 1412,2343 1456,2343 1501,2346 1546,2349 1591,2352 1636,2352 1680,2352 1686,2352"/>
+                <Word id="r_24_tl_22_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1226,2309 1226,2369 1332,2369 1332,2309"/>
+                    <TextEquiv>
+                        <Unicode>Weise</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_22_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1350,2303 1350,2363 1497,2363 1497,2303"/>
+                    <TextEquiv>
+                        <Unicode>anzeigen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_22_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1521,2312 1521,2372 1668,2372 1668,2312"/>
+                    <TextEquiv>
+                        <Unicode>würden.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Weise anzeigen würden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="1269,2405 2216,2425 2213,2334 1269,2365"/>
+                <Baseline points="1283,2394 1328,2397 1373,2394 1418,2394 1462,2394 1507,2397 1552,2397 1597,2400 1642,2403 1686,2403 1731,2403 1776,2403 1821,2403 1865,2403 1910,2406 1955,2406 2000,2406 2045,2406 2089,2406 2134,2406 2179,2409 2218,2412"/>
+                <Word id="r_24_tl_23_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1282,2356 1282,2416 1352,2416 1352,2356"/>
+                    <TextEquiv>
+                        <Unicode>Die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_23_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1369,2354 1369,2414 1556,2414 1556,2354"/>
+                    <TextEquiv>
+                        <Unicode>dauerhafte</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_23_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1581,2363 1581,2423 1706,2423 1706,2363"/>
+                    <TextEquiv>
+                        <Unicode>Härte,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_23_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1730,2363 1730,2423 1792,2423 1792,2363"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_23_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1825,2366 1825,2426 2020,2426 2020,2366"/>
+                    <TextEquiv>
+                        <Unicode>vortrefliche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_23_w6" custom="readingOrder {index:5;}">
+                    <Coords points="2045,2366 2045,2426 2201,2426 2201,2366"/>
+                    <TextEquiv>
+                        <Unicode>Polirung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Die dauerhafte Härte, und vortrefliche Polirung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="1216,2463 2218,2471 2218,2428 2140,2415 1216,2420"/>
+                <Baseline points="1230,2448 1274,2448 1319,2448 1364,2442 1409,2442 1453,2445 1498,2445 1543,2448 1588,2451 1633,2451 1677,2451 1722,2451 1767,2454 1812,2457 1857,2454 1901,2454 1946,2454 1991,2454 2036,2454 2080,2454 2125,2454 2170,2457 2215,2457 2224,2454"/>
+                <Word id="r_24_tl_24_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1224,2408 1224,2468 1320,2468 1320,2408"/>
+                    <TextEquiv>
+                        <Unicode>vieler</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_24_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1352,2405 1352,2465 1575,2465 1575,2405"/>
+                    <TextEquiv>
+                        <Unicode>Seeschalen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_24_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1600,2411 1600,2471 1691,2471 1691,2411"/>
+                    <TextEquiv>
+                        <Unicode>selbst</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_24_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1716,2412 1716,2472 1770,2472 1770,2412"/>
+                    <TextEquiv>
+                        <Unicode>bey</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_24_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1802,2414 1802,2474 1892,2474 1892,2414"/>
+                    <TextEquiv>
+                        <Unicode>denen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_24_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1929,2414 1929,2474 1983,2474 1983,2414"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_24_w7" custom="readingOrder {index:6;}">
+                    <Coords points="2020,2414 2020,2474 2068,2474 2068,2414"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_24_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2100,2416 2100,2476 2220,2476 2220,2416"/>
+                    <TextEquiv>
+                        <Unicode>dünne¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>vieler Seeschalen, selbst bey denen von der dünne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="1229,2519 1398,2493 2218,2509 2218,2466 2181,2463 1229,2458"/>
+                <Baseline points="1244,2498 1289,2495 1334,2495 1379,2492 1424,2492 1468,2495 1513,2495 1558,2498 1603,2498 1648,2501 1692,2501 1737,2501 1782,2501 1827,2501 1871,2501 1916,2501 1961,2498 2006,2498 2051,2498 2095,2501 2140,2501 2185,2501 2224,2501"/>
+                <Word id="r_24_tl_25_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1224,2457 1224,2517 1283,2517 1283,2457"/>
+                    <TextEquiv>
+                        <Unicode>sten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_25_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1314,2454 1314,2514 1373,2514 1373,2454"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_25_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1403,2455 1403,2515 1552,2515 1552,2455"/>
+                    <TextEquiv>
+                        <Unicode>zärtesten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_25_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1582,2461 1582,2521 1755,2521 1755,2461"/>
+                    <TextEquiv>
+                        <Unicode>Gattung,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_25_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1785,2461 1785,2521 1821,2521 1821,2461"/>
+                    <TextEquiv>
+                        <Unicode>ist</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_25_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1851,2461 1851,2521 1946,2521 1946,2461"/>
+                    <TextEquiv>
+                        <Unicode>etwas</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_25_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1977,2461 1977,2521 2220,2521 2220,2461"/>
+                    <TextEquiv>
+                        <Unicode>erstaunliches.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>sten und zärtesten Gattung, ist etwas erstaunliches.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="1224,2567 1408,2541 1663,2582 2218,2562 2196,2509 1224,2511"/>
+                <Baseline points="1238,2549 1283,2543 1328,2543 1373,2543 1418,2540 1462,2543 1507,2543 1552,2546 1597,2549 1642,2549 1686,2552 1731,2552 1776,2549 1821,2549 1865,2546 1910,2546 1955,2543 2000,2543 2045,2546 2089,2549 2134,2549 2179,2549 2224,2549"/>
+                <Word id="r_24_tl_26_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1226,2506 1226,2566 1293,2566 1293,2506"/>
+                    <TextEquiv>
+                        <Unicode>Bey</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_26_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1325,2503 1325,2563 1368,2563 1368,2503"/>
+                    <TextEquiv>
+                        <Unicode>dem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_26_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1412,2503 1412,2563 1555,2563 1555,2503"/>
+                    <TextEquiv>
+                        <Unicode>Schutte</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_26_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1574,2509 1574,2569 1623,2569 1623,2509"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_26_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1649,2512 1649,2572 1748,2572 1748,2512"/>
+                    <TextEquiv>
+                        <Unicode>Abtey</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_26_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1773,2509 1773,2569 1840,2569 1840,2509"/>
+                    <TextEquiv>
+                        <Unicode>St.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_26_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1860,2503 1860,2563 2145,2563 2145,2503"/>
+                    <TextEquiv>
+                        <Unicode>Edmundsbury,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_26_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2171,2509 2171,2569 2214,2569 2214,2509"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Bey dem Schutte der Abtey St. Edmundsbury, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="1221,2610 2216,2615 2216,2559 2150,2552 1221,2572"/>
+                <Baseline points="1236,2594 1280,2594 1325,2594 1370,2591 1415,2588 1459,2591 1504,2591 1549,2594 1594,2597 1639,2600 1683,2600 1728,2600 1773,2597 1818,2594 1862,2594 1907,2591 1952,2591 1997,2594 2042,2594 2086,2597 2131,2597 2176,2597 2221,2600 2224,2597"/>
+                <Word id="r_24_tl_27_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1227,2554 1227,2614 1289,2614 1289,2554"/>
+                    <TextEquiv>
+                        <Unicode>aus</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_27_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1312,2552 1312,2612 1397,2612 1397,2552"/>
+                    <TextEquiv>
+                        <Unicode>einer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_27_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1420,2550 1420,2610 1476,2610 1476,2550"/>
+                    <TextEquiv>
+                        <Unicode>Art</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_27_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1499,2555 1499,2615 1634,2615 1634,2555"/>
+                    <TextEquiv>
+                        <Unicode>Steinen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_27_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1669,2559 1669,2619 1805,2619 1805,2559"/>
+                    <TextEquiv>
+                        <Unicode>gebauet</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_27_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1823,2554 1823,2614 1901,2614 1901,2554"/>
+                    <TextEquiv>
+                        <Unicode>war,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_27_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1919,2552 1919,2612 2026,2612 2026,2552"/>
+                    <TextEquiv>
+                        <Unicode>welche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_27_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2049,2556 2049,2616 2105,2616 2105,2556"/>
+                    <TextEquiv>
+                        <Unicode>aus</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_27_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2134,2557 2134,2617 2207,2617 2207,2557"/>
+                    <TextEquiv>
+                        <Unicode>Kies</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>aus einer Art Steinen gebauet war, welche aus Kies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1229,2703 2218,2703 2218,2660 2075,2647 1229,2647"/>
+                <Baseline points="1244,2689 1289,2689 1334,2689 1379,2686 1424,2686 1468,2689 1513,2692 1558,2695 1603,2695 1648,2695 1692,2695 1737,2692 1782,2689 1827,2689 1871,2686 1916,2689 1961,2689 2006,2689 2051,2692 2095,2692 2140,2692 2185,2695 2224,2698"/>
+                <Word id="r_24_tl_28_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1236,2649 1236,2709 1406,2709 1406,2649"/>
+                    <TextEquiv>
+                        <Unicode>Schalen,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_28_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1431,2653 1431,2713 1625,2713 1625,2653"/>
+                    <TextEquiv>
+                        <Unicode>vornämlich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_28_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1655,2655 1655,2715 1701,2715 1701,2655"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_28_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1726,2649 1726,2709 1837,2709 1837,2649"/>
+                    <TextEquiv>
+                        <Unicode>kleinen</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_28_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1867,2649 1867,2709 1972,2709 1972,2649"/>
+                    <TextEquiv>
+                        <Unicode>glatten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_28_w6" custom="readingOrder {index:5;}">
+                    <Coords points="2003,2652 2003,2712 2220,2712 2220,2652"/>
+                    <TextEquiv>
+                        <Unicode>Muschelart,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Schalen, vornämlich der kleinen glatten Muschelart,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="1227,2753 2221,2758 2206,2703 1227,2711"/>
+                <Baseline points="1241,2737 1286,2740 1331,2737 1376,2737 1421,2737 1465,2737 1510,2743 1555,2743 1600,2746 1645,2746 1689,2743 1734,2740 1779,2737 1824,2737 1868,2734 1913,2737 1958,2737 2003,2737 2048,2740 2092,2743 2137,2740 2182,2740 2227,2740"/>
+                <Word id="r_24_tl_29_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1235,2697 1235,2757 1434,2757 1434,2697"/>
+                    <TextEquiv>
+                        <Unicode>bestunden,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_29_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1478,2704 1478,2764 1677,2764 1677,2704"/>
+                    <TextEquiv>
+                        <Unicode>beobachtete</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_29_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1714,2698 1714,2758 1799,2758 1799,2698"/>
+                    <TextEquiv>
+                        <Unicode>Herr</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_29_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1836,2697 1836,2757 2102,2757 2102,2697"/>
+                    <TextEquiv>
+                        <Unicode>Collinson;</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_29_w5" custom="readingOrder {index:4;}">
+                    <Coords points="2139,2700 2139,2760 2218,2760 2218,2700"/>
+                    <TextEquiv>
+                        <Unicode>daß,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>bestunden, beobachtete Herr Collinson; daß,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="1227,2806 2221,2794 2221,2758 2145,2746 1227,2761"/>
+                <Baseline points="1241,2785 1286,2788 1331,2788 1376,2788 1421,2785 1465,2788 1510,2791 1555,2794 1600,2794 1645,2791 1689,2791 1734,2788 1779,2782 1824,2785 1868,2785 1913,2785 1958,2785 2003,2785 2048,2785 2092,2785 2137,2785 2182,2785 2224,2788"/>
+                <Word id="r_24_tl_30_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1234,2748 1234,2808 1367,2808 1367,2748"/>
+                    <TextEquiv>
+                        <Unicode>nachdem</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_30_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1415,2746 1415,2806 1466,2806 1466,2746"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_30_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1496,2753 1496,2813 1595,2813 1595,2753"/>
+                    <TextEquiv>
+                        <Unicode>Stein</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_30_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1630,2751 1630,2811 1688,2811 1688,2751"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_30_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1718,2746 1718,2806 1769,2806 1769,2746"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_30_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1799,2745 1799,2805 1874,2805 1874,2745"/>
+                    <TextEquiv>
+                        <Unicode>Luft</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_30_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1893,2745 1893,2805 1962,2805 1962,2745"/>
+                    <TextEquiv>
+                        <Unicode>sehr</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_30_w8" custom="readingOrder {index:7;}">
+                    <Coords points="1992,2745 1992,2805 2055,2805 2055,2745"/>
+                    <TextEquiv>
+                        <Unicode>viel</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_30_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2079,2745 2079,2805 2224,2805 2224,2745"/>
+                    <TextEquiv>
+                        <Unicode>gelitten,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>nachdem der Stein von der Luft sehr viel gelitten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1237,2864 1804,2882 1865,2854 2042,2885 2231,2854 2231,2799 2120,2791 1237,2801"/>
+                <Baseline points="1250,2845 1295,2842 1340,2842 1385,2839 1430,2839 1474,2842 1519,2842 1564,2845 1609,2848 1653,2845 1698,2842 1743,2839 1788,2836 1833,2839 1877,2836 1922,2839 1967,2839 2012,2836 2057,2836 2101,2836 2146,2836 2191,2833 2236,2830"/>
+                <Word id="r_24_tl_31_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1242,2803 1242,2863 1294,2863 1294,2803"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_31_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1318,2799 1318,2859 1448,2859 1448,2799"/>
+                    <TextEquiv>
+                        <Unicode>Sand,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_31_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1472,2803 1472,2863 1609,2863 1609,2803"/>
+                    <TextEquiv>
+                        <Unicode>woraus</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_31_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1634,2805 1634,2865 1656,2865 1656,2805"/>
+                    <TextEquiv>
+                        <Unicode>er</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_31_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1680,2797 1680,2857 1848,2857 1848,2797"/>
+                    <TextEquiv>
+                        <Unicode>bestunde,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_31_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1879,2798 1879,2858 1939,2858 1939,2798"/>
+                    <TextEquiv>
+                        <Unicode>sich</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_31_w7" custom="readingOrder {index:6;}">
+                    <Coords points="1963,2796 1963,2856 2139,2856 2139,2796"/>
+                    <TextEquiv>
+                        <Unicode>aufgelöset</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="r_24_tl_31_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2163,2792 2163,2852 2223,2852 2223,2792"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>der Sand, woraus er bestunde, sich aufgelöset und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="2150,2912 2181,2915 2196,2923 2203,2923 2208,2917 2236,2923 2241,2844 2218,2844 2206,2854 2196,2844 2183,2852 2155,2844"/>
+                <Baseline points="2167,2889 2197,2887 2242,2884"/>
+                <Word id="r_24_tl_32_w1" custom="readingOrder {index:0;}">
+                    <Coords points="2160,2846 2160,2906 2236,2906 2236,2846"/>
+                    <TextEquiv>
+                        <Unicode>zer¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>zer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
