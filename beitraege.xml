@@ -1190,9 +1190,19 @@
         <stueck jahr="1769" nr="35"/>
 		<stueck jahr="1769" nr="36"/>
         <werk ref="unger" kat="provinienz" s="Bd. 3, S. 883–890"/>
-		<werk ref="recueil-dopuscules" kat="uebersetzung" s="115–140" />
+		<werk ref="recueil-dopuscules" kat="uebersetzung" s="S. 115–140" />
 		<titel>Brief des Abts von Olivet an den Präsidenten Bouhier über das Leben des Abts Genest.</titel>
 		<akteur ref="hamann" />
+    </beitrag>
+	
+	<beitrag>
+        <stueck jahr="1770" nr="2"/>
+        <werk ref="unger" kat="provinienz" s="Bd. 3, S. 890–892"/>
+		<werk ref="shenstone-versuche" kat="uebersetzung" />
+		<titel>Ueber die Autorschaft</titel>
+		<akteur ref="hamann" />
+		<anmerkung>Mehr eine Zusammenstellung und Bearbeitung als nur eine Übersetzung</anmerkung>
+		<!-- Beylage -->
     </beitrag>
  
 	
