@@ -175,6 +175,11 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11720425-5">BSB München</url>
     </werk>
 
+    <werk id="haym-reich">
+        <zitation>Rudolf Haym: Wiedergefundene Blätter zu Herders Schriften. In: Im neuen Reich 3,2 (1873), S.&#x202F;513–527</zitation>
+        <url address="https://digipress.digitale-sammlungen.de/view/bsb11045682_00525_u001/1"></url>
+    </werk>
+
     <werk id="sanseverino-biographie">
         <akteur ref="sanseverino" />
         <zitation>Italienische Biographie. Aus dem Französischen übersetzt [von Johann Georg Meusel]. Nebst einer Vorrede von Herrn Klotz. Erster Band (Frankfurt, Leipzig 1769).</zitation>
@@ -427,6 +432,30 @@
         <akteur ref="nicolai" />
         <zitation>An den Magum in Norden Haussäßig am alten Graben No. 758. Sonst auch zu erfragen im Kanterschen Buchladen zu Königsberg, in Preußen (Berlin/Stettin 1767).</zitation>
         <url address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-240879">UB Münster</url>
+    </werk>
+
+    <werk id="borowski-kirchenregistratur">
+        <akteur ref="borowski" />
+        <zitation>M. Wilhelm Heinrich Beckher, Preußische Kirchenregistratur, oder: Kurzer Auszug aus denen vornehmsten Königlichen Preußischen Edicten und Verordnungen […], hg. von Ludwig Ernst Borowski (Königsberg 1773).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3236764993">SLUB Dresden (2. Aufl. 1769)</url>
+    </werk>
+
+    <werk id="schloezer-universalhistorie">
+        <akteur ref="schloezer" />
+        <zitation>August Ludwig Schlözers Vorstellung seiner Universal-Historie (2 Bde., Göttingen, Gotha: Dieterich 1772).</zitation>
+        <url address="https://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-761">Bd. 1 (LB Oldenburg)</url>, <url address="http://resolver.sub.uni-goettingen.de/purl?PPN665336047">Bd. 2 (SUB Göttingen)</url>
+    </werk>
+
+    <werk id="reiche-taufe">
+        <akteur ref="reiche" />
+        <zitation>Die Taufe der Christen, ein ehrwürdiger Gebrauch, und kein Gesetz Christi. Man muss mich aber recht verstehen und das Ganze von Anfang bis zu Ende lesen (Berlin und Leipzig: Decker 1774)</zitation>
+        <url address="http://dx.doi.org/10.25673/66430"></url>
+    </werk>
+
+    <werk id="">
+        <akteur ref="" />
+        <zitation></zitation>
+        <url address=""></url>
     </werk>
 
 

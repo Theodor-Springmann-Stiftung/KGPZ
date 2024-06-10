@@ -1287,7 +1287,44 @@
         <werk ref="roth" kat="provinienz" s="Bd. 8/1, S. 200f."/>
 		<kategorie ref="kurztext" />
 		<akteur ref="hamann" />
-		<anmerkung>Bekanntmachung Johann Georg Hamanns, dass er mit dem fingierten Autor seiner Schrift „Selbstgespräch eines Autors“, Mien-Man-Hoam, nichts zu schaffen habe.</anmerkung>
+		<anmerkung>Bekanntmachung Johann Georg Hamanns, dass er mit dem fingierten Autor seiner Schrift „Selbstgespräch eines Autors“, dem Chineser Mien-Man-Hoam, nichts zu schaffen habe.</anmerkung>
+    </beitrag>
+	
+	<beitrag>
+        <stueck jahr="1774" nr="4"/>
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 368–373"/>
+		<werk ref="borowski-kirchenregistratur" kat="rezension" />
+		<akteur ref="hamann" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1774" nr="7"/>
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 373–378"/>
+		<werk ref="schloezer-universalhistorie" kat="rezension" />
+		<akteur ref="hamann" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1774" nr="8"/>
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 373–378"/>
+		<werk ref="reiche-taufe" kat="rezension" />
+		<akteur ref="hamann" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1774" nr="10"/>
+		<stueck jahr="1774" nr="12"/>
+		<stueck jahr="1774" nr="14"/>
+        <werk ref="haym-reich" kat="provinienz" s="Bd. 4, S. 516–524"/>
+		<titel>Gefundene Blätter aus den neuesten deutschen Litteraturannalen von 1773.</titel>
+		<akteur ref="hamann" />
+		<akteur ref="herder" />
+		<anmerkung>Anfang und Ende von Hamann, der nummerierte Mittelteil von Herder.</anmerkung>
+		<!-- Beilage -->
+    </beitrag>
+	
+	<beitrag>
+        <stueck jahr="1775" nr="8"/>
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 373–378"/>
+		<werk ref="reiche-taufe" kat="rezension" />
+		<akteur ref="hamann" />
     </beitrag>
  
 	
