@@ -1321,10 +1321,21 @@
     </beitrag>
 	
 	<beitrag>
-        <stueck jahr="1775" nr="8"/>
-        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 373–378"/>
-		<werk ref="reiche-taufe" kat="rezension" />
+        <stueck jahr="1775" nr="39"/>
+        <werk ref="nadler" kat="provinienz" s="386–388"/>
+		<werk ref="claudius-werke" kat="rezension" />
 		<akteur ref="hamann" />
+		<!-- Beilage -->
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1775" nr="77"/>
+		<stueck jahr="1775" nr="78"/>
+		<stueck jahr="1775" nr="80"/>
+		<stueck jahr="1775" nr="87"/>
+		<werk ref="galiani-getreidehandel" kat="uebersetzung" />
+		<werk ref="galiani-getreidehandel" kat="kommentar" />
+		<akteur ref="hamann" />
+		<!-- Beilage -->
     </beitrag>
  
 	

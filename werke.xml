@@ -447,15 +447,21 @@
     </werk>
 
     <werk id="reiche-taufe">
-        <akteur ref="reiche" />
+        <akteur ref="reiche-cc" />
         <zitation>Die Taufe der Christen, ein ehrwürdiger Gebrauch, und kein Gesetz Christi. Man muss mich aber recht verstehen und das Ganze von Anfang bis zu Ende lesen (Berlin und Leipzig: Decker 1774)</zitation>
-        <url address="http://dx.doi.org/10.25673/66430"></url>
+        <url address="http://dx.doi.org/10.25673/66430">UB Halle</url>
     </werk>
 
-    <werk id="">
-        <akteur ref="" />
-        <zitation></zitation>
-        <url address=""></url>
+    <werk id="claudius-werke">
+        <akteur ref="claudius" />
+        <zitation>Asmus omnia sua secum portans oder Sämmtliche Werke des Wandsbecker Bothen (8 Tle., Hamburg: Perthes 1774–1811), Tl. 1 und 2.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925925-7">BSB München</url>
+    </werk>
+
+    <werk id="galiani-getreidehandel">
+        <akteur ref="galiani" />
+        <zitation>Dialogues sur le commerce des blés (London 1770).</zitation>
+        <url address="https://gallica.bnf.fr/ark:/12148/btv1b8626898f">Bibliothèque nationale de France</url>
     </werk>
 
 
