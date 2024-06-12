@@ -47,14 +47,15 @@
         <stueck jahr="1764" nr="1" von="1" bis="2" />
         <kategorie ref="ineigenersache" />
         <incipit>„So sag ers ja den Klugen nicht…</incipit>
-        <ort ref="kgsb" />
         <akteur ref="hamann" />
         <akteur ref="kanter" />
+		<ort ref="kgsb" />
         <anmerkung>Programmatisches Vorwort</anmerkung>
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="1" von="2" bis="3" />
         <kategorie ref="panegyrik" />
+		<akteur ref="braxein-f" />
         <anmerkung>Lobreden auf Friedrich II., anlässlich der Feierlichkeiten an der Königsberger Akademie zu dessen Geburtstag</anmerkung>
     </beitrag>
     <beitrag>
@@ -75,14 +76,14 @@
     <beitrag>
         <stueck jahr="1764" nr="2" von="5" bis="6" />
         <werk ref="philippi-briefe" kat="rezension" />
-		<ort ref="koeln" />
         <akteur ref="lauson">vgl. ZH II, 234</akteur>
+		<ort ref="koeln" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="2" von="6" bis="7" />
-        <ort ref="stpetersburg" />
-        <akteur ref="lindner-jg">vgl. ZH II, 242</akteur>
         <werk ref="buesching-denkmal-stegelmann" kat="rezension" />
+		<akteur ref="lindner-jg">vgl. ZH II, 242</akteur>
+		<ort ref="stpetersburg" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="2" von="7" bis="8" />
@@ -97,8 +98,9 @@
     <beitrag>
         <stueck jahr="1764" nr="3" von="9" bis="11" />
         <kategorie ref="aufsatz" />
-        <ort ref="kgsb" />
+		<incipit>Da ein beträchtlicher Theil des Publici…</incipit>
         <akteur ref="hamann">vgl. ZH II, 235</akteur>
+		<ort ref="kgsb" />
         <anmerkung>Über den Ziegenpropheten</anmerkung>
     </beitrag>
     <beitrag>
@@ -124,8 +126,8 @@
         <stueck jahr="1764" nr="8" von="29" bis="30" />
         <kategorie ref="aufsatz" />
         <titel>Versuch über die Krankheiten des Kopfes</titel>
-        <ort ref="kgsb" />
         <akteur ref="kant">vgl. ZH II, 239</akteur>
+		<ort ref="kgsb" />
     </beitrag>
 
     <beitrag>
@@ -166,11 +168,11 @@
 
     <beitrag>
         <stueck jahr="1764" nr="6" von="20" bis="21" />
-        <ort ref="kgsb" />
 		<kategorie ref="gedicht" />
-        <akteur ref="hamann">ZH II, 239</akteur>
-        <werk ref="ramler-hymen" kat="kommentar" />
         <werk ref="ramler-hymen" kat="auszug" />
+		<werk ref="ramler-hymen" kat="kommentar" />
+		<akteur ref="hamann">ZH II, 239</akteur>
+		<ort ref="kgsb" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="6" von="23" bis="24" />
@@ -199,10 +201,10 @@
 	
     <beitrag>
         <stueck jahr="1764" nr="8" von="30" bis="31" />
-        <ort ref="frankfurt" />
-        <ort ref="leipzig" />
-        <akteur ref="hamann">vgl. ZH II, 239</akteur>
         <werk ref="gellius-geschichte" kat="rezension" />
+		<akteur ref="hamann">vgl. ZH II, 239</akteur>
+		<ort ref="frankfurt" />
+        <ort ref="leipzig" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="8" von="31" bis="32" />
@@ -216,19 +218,19 @@
 
     <beitrag>
         <stueck jahr="1764" nr="9" von="33" bis="34" />
+        <werk ref="ausfuehrliche-kritische-nachrichten" kat="rezension" />
+        <akteur ref="hamann">vgl. ZH II, 239</akteur>
         <ort ref="lindau" />
         <ort ref="frankfurt" />
         <ort ref="leipzig" />
-        <akteur ref="hamann">vgl. ZH II, 239</akteur>
-        <werk ref="ausfuehrliche-kritische-nachrichten" kat="rezension" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="9" von="34" bis="35" />
         <kategorie ref="gedicht" />
-        <ort ref="berlin" />
-        <akteur ref="hamann" unsicher="true" />
+		<werk ref="lenov-gedichte" kat="auszug" />
         <werk ref="lenov-gedichte" kat="kommentar" />
-        <werk ref="lenov-gedichte" kat="auszug" />
+		<akteur ref="hamann" unsicher="true" />
+		<ort ref="berlin" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="9" von="35" bis="36" />
@@ -247,9 +249,9 @@
 
     <beitrag>
         <stueck jahr="1764" nr="10" von="37" bis="38" />
-        <ort ref="berlin" />
-        <akteur ref="hamann">vgl. ZH II, 239</akteur>
         <werk ref="argens-beytrage" kat="rezension" />
+        <akteur ref="hamann">vgl. ZH II, 239</akteur>
+		<ort ref="berlin" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="10" von="38" bis="39" />
@@ -268,8 +270,8 @@
 
     <beitrag>
         <stueck jahr="1764" nr="11" von="41" bis="42" />
-        <ort ref="berlin" />
         <werk ref="karsch-gedichte" kat="rezension" />
+		<ort ref="berlin" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="11" von="43" bis="44" />
@@ -286,6 +288,7 @@
         <kategorie ref="gedicht" />
 		<werk ref="karsch-gedichte" kat="auszug" />
 		<werk ref="karsch-gedichte" kat="kommentar" />
+		<akteur ref="hamann" unsicher="true" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="12" von="48" />
@@ -300,14 +303,14 @@
 
     <beitrag>
         <stueck jahr="1764" nr="13" von="49" />
-        <ort ref="berlin" />
-        <akteur ref="hamann">vgl. ZH II, 239</akteur>
         <werk ref="nicolai-literaturbriefe-XVI" kat="rezension" />
+		<akteur ref="hamann">vgl. ZH II, 239</akteur>
+		<ort ref="berlin" />
     </beitrag>
 	<beitrag>
         <stueck jahr="1764" nr="13" von="50" bis="51" />
-        <titel>Leben und Wunder des Herrn Johann Winckelmanns</titel>
 		<werk ref="nicolai-literaturbriefe-winckelmann" kat="auszug" />
+        <titel>Leben und Wunder des Herrn Johann Winckelmanns</titel>
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="13" von="51" bis="52" />
@@ -329,8 +332,8 @@
 		<kategorie ref="kommentar" />
         <kategorie ref="gedicht" />
         <titel>Contrabit umbra diem, solique remorior axit</titel>
+		<akteur ref="werner-jg" />
 		<ort ref="kgsb" />
-        <akteur ref="werner-jg" />
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="14" von="55" bis="56" />
@@ -344,11 +347,11 @@
 	
 	<beitrag>
         <stueck jahr="1764" nr="15" von="57" bis="58" />
+		<werk ref="silberschlag-feuerkugel" kat="rezension"/>
+		<akteur ref="kant">vgl. ZH II, 246</akteur>
 		<ort ref="magdeburg" />
 		<ort ref="stendal" />
 		<ort ref="leipzig" />
-        <akteur ref="kant">vgl. ZH II, 246</akteur>
-		<werk ref="silberschlag-feuerkugel" kat="rezension"/>
     </beitrag>
     <beitrag>
         <stueck jahr="1764" nr="15" von="59" bis="60" />
@@ -388,8 +391,8 @@
 	
 	<beitrag>
         <stueck jahr="1764" nr="17" von="65" bis="67" />
-		<akteur ref="herder">vgl. SWS IX, 93f.</akteur>
 		<werk ref="arnoldt-gedanken" kat="rezension" />
+		<akteur ref="herder">vgl. SWS IX, 93f.</akteur>
 		<ort ref="kgsb" />
 		<ort ref="leipzig" />
     </beitrag>
@@ -410,14 +413,14 @@
     </beitrag>
 	<beitrag>
         <stueck jahr="1764" nr="18" von="69" bis="70" />
-		<akteur ref="borowski">vgl. ZH II, 235</akteur>
 		<werk ref="borowski-chinesischerweltweise" kat="rezension" />
+		<akteur ref="borowski">vgl. ZH II, 235</akteur>
 		<ort ref="leipzig" />
     </beitrag>
 	<beitrag>
         <stueck jahr="1764" nr="18" von="70" bis="71" />
-		<akteur ref="borowski">vgl. ZH II, 235</akteur>
 		<werk ref="baumgarten-hebraer" kat="rezension" />
+		<akteur ref="borowski">vgl. ZH II, 235</akteur>
 		<ort ref="halle" />
     </beitrag>
     <beitrag>
@@ -438,8 +441,8 @@
     </beitrag>
 	<beitrag>
         <stueck jahr="1764" nr="19" von="74" />
-		<akteur ref="schlegel-g">vgl. ZH II, 251</akteur>
 		<werk ref="miller-anweisung" kat="rezension" />
+		<akteur ref="schlegel-g">vgl. ZH II, 251</akteur>
 		<ort ref="helmstedt" />
     </beitrag>
 	<beitrag>
