@@ -1322,67 +1322,76 @@
 	
 	<beitrag>
         <stueck jahr="1775" nr="39"/>
-        <werk ref="nadler" kat="provinienz" s="386–388"/>
+        <werk ref="nadler" kat="provinienz" s="Bd. 4, S. 386–388"/>
+		<werk ref="roth" kat="provinienz" s="384–390"/>
 		<werk ref="claudius-werke" kat="rezension" />
+		<titel>Freund Hain an alle „belesene und empfindsame Personen“ in Ost- und West-Preußen, welche „Noch ein Ditto beym Mondscheine zu singen“ Lust und Genüge finden.</titel>
 		<akteur ref="hamann" />
 		<!-- Beilage -->
     </beitrag>
 	<beitrag>
         <stueck jahr="1775" nr="101" von="399"/>
+		<werk ref="yale-muenster" kat="provinienz" />
         <kategorie ref="gedicht" />
 		<titel>An Herrn Reichardt bey seiner Abreise nach Berlin.</titel>
-		<anmerkung>Unterzeichnet „K–r.“, Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
+		<anmerkung>Unterzeichnet „K–r.“</anmerkung>
     </beitrag>
 	<beitrag>
         <stueck jahr="1775" nr="101" von="399" bis="400"/>
+		<werk ref="yale-muenster" kat="provinienz" />
         <werk ref="roth" kat="provinienz" s="Bd. 4, S. 446–449"/>
 		<werk ref="noesselt-religion" kat="rezension" />
 		<akteur ref="hamann" />
-		<anmerkung>Außerdem unvollständig in <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink> überliefert.</anmerkung>
     </beitrag>
 	<beitrag>
         <stueck jahr="1775" nr="101" von="402"/>
+		<werk ref="yale-muenster" kat="provinienz" />
         <kategorie ref="lokalanzeigen"/>
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
     </beitrag>
 	<beitrag>
         <stueck jahr="1775" nr="101" von="402"/>
+		<werk ref="yale-muenster" kat="provinienz" />
         <kategorie ref="wechselkurse"/>
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
     </beitrag>
 	<beitrag>
         <stueck jahr="1775" nr="77"/>
 		<stueck jahr="1775" nr="78"/>
 		<stueck jahr="1775" nr="80"/>
 		<stueck jahr="1775" nr="87"/>
+		<werk ref="yale-muenster" kat="provinienz" />
 		<werk ref="galiani-getreidehandel" kat="uebersetzung" s="Ausschnitte, etwa S. 96 oder S. 239" />
 		<werk ref="galiani-getreidehandel" kat="kommentar" />
 		<akteur ref="hamann" />
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
 		<!-- Beilage -->
     </beitrag>
 	<beitrag>
+		<stueck jahr="1775" nr="87"/>
+		<werk ref="yale-muenster" kat="provinienz" />
+		<kategorie ref="desertionsliste" />
+		<!-- Beilage -->
+	</beitrag>
+	<beitrag>
 		<stueck jahr="1775" nr="92"/>
+		<werk ref="yale-muenster" kat="provinienz" />
 		<werk ref="galiani-getreidehandel" kat="rezension" />
 		<titel>Summarischer Begrif der Gespräche über den Getrayde-Handel vom Uebersetzer der dahin gehörigen Beylagen.</titel>
 		<akteur ref="hamann" />
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
 		<!-- Beilage -->
     </beitrag>
 	<beitrag>
 		<stueck jahr="1775" nr="93"/>
+		<werk ref="yale-muenster" kat="provinienz" />
 		<werk ref="klopstock-gelehrtenrepublik" kat="rezension" />
 		<titel>Fragment eines Programm’s oder Zuruff von der Eule.</titel>
 		<akteur ref="hamann" />
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
 		<!-- Beilage -->
     </beitrag>
 	<beitrag>
 		<stueck jahr="1775" nr="94"/>
+		<werk ref="yale-muenster" kat="provinienz" />
 		<kategorie ref="aufsatz"/>
 		<titel>Kleiner Versuch über große Probleme.</titel>
 		<akteur ref="hamann" />
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
 		<!-- Beilage -->
     </beitrag>
 	<beitrag>
@@ -1392,45 +1401,79 @@
 		<akteur ref="hamann" />
     </beitrag>
 	
-	
-	<beitrag>
-        <stueck jahr="1776" nr="19" von="73" bis="74" />
-		<werk ref="bertuch-donquixote" kat="rezension" />
-		<akteur ref="hamann" />
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
-    </beitrag>
-	<beitrag>
-        <stueck jahr="1776" nr="19" von="74" bis="76" />
-		<kategorie ref="weltnachrichten" />
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
-    </beitrag>
-	<beitrag>
-        <stueck jahr="1776" nr="19" von="76" />
-		<kategorie ref="avertissement" />
-		<kategorie ref="buecher" />
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
-    </beitrag>
-	<beitrag>
-        <stueck jahr="1776" nr="19" von="76" />
-		<kategorie ref="lokalanzeigen" />
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
-    </beitrag>
-	<beitrag>
-        <stueck jahr="1776" nr="19" von="76" />
-		<kategorie ref="wechselkurse" />
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
-    </beitrag>
-	
 	<beitrag>
         <stueck jahr="1776" nr="6"/>
-		<stueck jahr="1776" nr="7"/>
 		<stueck jahr="1776" nr="8"/>
-		<stueck jahr="1776" nr="9"/>
+		<stueck jahr="1776" nr="10"/>
+		<werk ref="yale-muenster" kat="provinienz" />
 		<werk ref="buffon-styl" kat="uebersetzung" s="xxii–xxxviii" />
 		<werk ref="buffon-styl" kat="kommentar" />
 		<titel>Ueber den Styl</titel>
 		<akteur ref="hamann" />
-		<anmerkung>Provenienz: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">UB Münster</wwwlink>.</anmerkung>
+		<!-- Beilage -->
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1776" nr="19" von="73" bis="74" />
+		<werk ref="yale-muenster" kat="provinienz" />
+		<werk ref="bertuch-donquixote" kat="rezension" />
+		<akteur ref="hamann" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1776" nr="19" von="74" bis="76" />
+		<werk ref="yale-muenster" kat="provinienz" />
+		<kategorie ref="weltnachrichten" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1776" nr="19" von="76" />
+		<werk ref="yale-muenster" kat="provinienz" />
+		<kategorie ref="avertissement" />
+		<kategorie ref="buecher" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1776" nr="19" von="76" />
+		<werk ref="yale-muenster" kat="provinienz" />
+		<kategorie ref="lokalanzeigen" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1776" nr="19" von="76" />
+		<werk ref="yale-muenster" kat="provinienz" />
+		<kategorie ref="wechselkurse" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1776" nr="19" />
+		<werk ref="yale-muenster" kat="provinienz" />
+		<werk ref="bertuch-donquixote" kat="kommentar" />
+		<kategorie ref="aufsatz" />
+		<titel>Zur neuen Ausgabe des deutschen Don Quixote.</titel>
+		<akteur ref="hamann" />
+		<!-- Beilage -->
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1776" nr="27" />
+		<werk ref="unger" kat="provinienz" s="Bd. 2, S. 921"/>
+		<akteur ref="lindner-jg" kat="todesanzeige" />
+		<akteur ref="hamann" unsicher="true" />
+    </beitrag>
+	<beitrag>
+        <stueck jahr="1776" nr="45" />
+		<werk ref="roth" kat="provinienz" s="Bd. 4, S. 471f."/>
+		<akteur ref="hamann-zweifel" kat="rezension" />
+		<akteur ref="hamann" />
+    </beitrag>
+	
+	<beitrag>
+        <stueck jahr="1777" nr="51" />
+		<werk ref="unger" kat="provinienz" s="Bd. 2, S. 920"/>
+		<akteur ref="bertuch-donquixote" kat="kommentar" />
+		<akteur ref="hamann" />
+		<!-- Beilage -->
+    </beitrag>
+	
+	<beitrag>
+        <stueck jahr="1779" nr="88" />
+		<werk ref="unger" kat="provinienz" s="Bd. 2, S. 920f."/>
+		<akteur ref="schellenberg-schweiz" kat="anzeige" />
+		<akteur ref="hamann" />
 		<!-- Beilage -->
     </beitrag>
  

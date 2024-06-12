@@ -176,8 +176,17 @@
     </werk>
 
     <werk id="haym-reich">
-        <zitation>Rudolf Haym: Wiedergefundene Blätter zu Herders Schriften. In: Im neuen Reich 3,2 (1873), S.&#x202F;513–527</zitation>
+        <zitation>Rudolf Haym: Wiedergefundene Blätter zu Herders Schriften. In: Im neuen Reich 3,2 (1873), S.&#x202F;513–527.</zitation>
         <url address="https://digipress.digitale-sammlungen.de/view/bsb11045682_00525_u001/1"></url>
+    </werk>
+	
+	<werk id="nadler">
+        <zitation>Johann Georg Hamann, Sämtliche Werke. Hg. v. Josef Nadler (Wien 1949–1957).</zitation>
+    </werk>
+
+    <werk id="yale-muenster">
+        <zitation>Beinecke Rare Book and Manuscript Library, Yale, BEIN Zg18 H170 +775</zitation>
+        <url address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">Mikrofiches in UB Münster</url>
     </werk>
 
     <werk id="sanseverino-biographie">
@@ -492,6 +501,16 @@
         <akteur ref="buffon-g" />
         <zitation>Discours prononcé dans l’académie francoise. Par M. de Buffon. Le samedi 25 Août 1753. In: Histoire naturelle, générale et particulière. Par M. de Buffon. Nouvelle Édition (13 Bde., Paris: l’imprimerie royale 1769–1770), Tome 5, Anhang, xx–xxxix.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919777-2">BSB München</url>
+    </werk>
+
+    <werk id="hamann-zweifel">
+        <akteur ref="hamann" />
+        <zitation>Zweifel und Einfälle über eine Vermischte Nachricht der allgemeinen deutschen Bibliothek (Bd. XXIV. Stück I. S. 288-296). An Vetter Nabal ([Riga: Hartknoch] 1776).</zitation>
+        <url address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-235970">UB Münster</url>
+    </werk>
+
+    <werk id="schellenberg-schweiz">
+        <zitation>Schweizer Ansichten von Herrn Schellenberg</zitation>
     </werk>
 
     

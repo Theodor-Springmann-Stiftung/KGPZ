@@ -49,8 +49,7 @@
     </kategorie>
 
     <kategorie id="kommentar">
-        <name>Kurzkommentar</name>
-        <vermerk>Ein kleiner Kommentar zu einem Werk, oftmals einen Auszug begleitend.</vermerk>
+        <name>Kommentar</name>
     </kategorie>
 
     <kategorie id="auszug">
@@ -92,6 +91,10 @@
 	
 	<kategorie id="lokalanzeigen">
         <name>Lokalanzeigen</name>
+    </kategorie>
+	
+	<kategorie id="desertionsliste">
+        <name>Liste von Desertierten</name>
     </kategorie>
 	
 </kategorien>
