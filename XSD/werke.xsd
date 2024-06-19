@@ -51,7 +51,7 @@
                                 </xsd:complexType>
                             </xsd:element>
 
-                            <xsd:element name="anmerkung" type="kgpz:NonEmptyString" minOccurs="0"
+                            <xsd:element name="anmerkung" type="kgpz:text" minOccurs="0"
                                 maxOccurs="unbounded">
                                 <xsd:annotation>
                                     <xsd:documentation>Optional: Eine Anmerkung zum Werk.
@@ -59,7 +59,7 @@
                                 </xsd:annotation>
                             </xsd:element>
 
-                            <xsd:element name="vermerk" type="kgpz:NonEmptyString" minOccurs="0"
+                            <xsd:element name="vermerk" type="kgpz:text" minOccurs="0"
                                 maxOccurs="unbounded">
                                 <xsd:annotation>
                                     <xsd:documentation>Optional: Ein Vermerk zum Werk. Intern.</xsd:documentation>

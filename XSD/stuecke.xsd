@@ -50,14 +50,14 @@
                             </xsd:element>
 
                             <!-- Vielleicht nötig -->
-                            <xsd:element name="anmerkung" type="kgpz:NonEmptyString" minOccurs="0"
+                            <xsd:element name="anmerkung" type="kgpz:text" minOccurs="0"
                                 maxOccurs="unbounded">
                                 <xsd:annotation>
                                     <xsd:documentation> Optional: Anmerkungen zum Stück. Öffentlich. </xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 
-                            <xsd:element name="vermerk" type="kgpz:NonEmptyString" minOccurs="0"
+                            <xsd:element name="vermerk" type="kgpz:text" minOccurs="0"
                                 maxOccurs="unbounded">
                                 <xsd:annotation>
                                     <xsd:documentation> Optional: Vermerk zum Stück. Intern. </xsd:documentation>

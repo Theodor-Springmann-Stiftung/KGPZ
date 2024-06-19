@@ -50,6 +50,7 @@
               <xsd:enumeration value="kommentar" />
               <xsd:enumeration value="anzeige" />
               <xsd:enumeration value="provinienz" />
+              <xsd:enumeration value="uebersetzung" />
             </xsd:restriction>
           </xsd:simpleType>
         </xsd:attribute>
@@ -81,14 +82,13 @@
               <xsd:enumeration value="drucker" />
               <xsd:enumeration value="vertrieb" />
               <xsd:enumeration value="erwähnung" />
-              <xsd:enumeration value="todesanzeige"/>
+              <xsd:enumeration value="todesanzeige" />
             </xsd:restriction>
           </xsd:simpleType>
         </xsd:attribute>
       </xsd:extension>
     </xsd:simpleContent>
   </xsd:complexType>
-
 
   <xsd:complexType name="ortref">
     <xsd:annotation>
@@ -108,6 +108,30 @@
         </xsd:attribute>
       </xsd:extension>
     </xsd:simpleContent>
+  </xsd:complexType>
+
+  <xsd:complexType name="wwwlink">
+    <xsd:annotation>
+      <xsd:documentation>Link ins Internet</xsd:documentation>
+    </xsd:annotation>
+    <xsd:simpleContent>
+      <xsd:restriction base="text"></xsd:restriction>
+    </xsd:simpleContent>
+    <xsd:attribute name="address" use="required" type="xsd:anyURI">
+      <xsd:annotation>
+        <xsd:documentation>URL des Links</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+  </xsd:complexType>
+
+
+  <xsd:complexType name="text" mixed="true">
+    <xsd:annotation>
+      <xsd:documentation>Elemente und Attribute zur Textauszeichnung im Volltext</xsd:documentation>
+    </xsd:annotation>
+    <xsd:choice maxOccurs="unbounded" minOccurs="0">
+      <xsd:element name="wwwlink" type="kgpz:wwwlink" />
+    </xsd:choice>
   </xsd:complexType>
 
   <!-- This section is almost exactly as in TEI -->
