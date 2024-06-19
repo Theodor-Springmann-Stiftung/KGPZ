@@ -31,6 +31,142 @@
     </xsd:simpleContent>
   </xsd:complexType>
 
+  <xsd:complexType name="stueckref">
+    <xsd:annotation>
+      <xsd:documentation>Bezieht sich auf ein Stück und qualifiziert diese Beziehung.</xsd:documentation>
+    </xsd:annotation>
+    <xsd:attribute name="datum"
+      use="required">
+      <xsd:annotation>
+        <xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
+      </xsd:annotation>
+      <xsd:simpleType>
+        <xsd:union
+          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+      </xsd:simpleType>
+    </xsd:attribute>
+
+    <xsd:attribute name="nr" type="xsd:positiveInteger"
+      use="optional">
+      <xsd:annotation>
+        <xsd:documentation>Optional: Die Nummer des Stücks.</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+
+    <xsd:attribute name="von" type="xsd:positiveInteger"
+      use="optional">
+      <xsd:annotation>
+        <xsd:documentation>Die erste Seitenzahl des Bezugs, falls bekannt.</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+
+    <xsd:attribute name="bis" type="xsd:positiveInteger"
+      use="optional">
+      <xsd:annotation>
+        <xsd:documentation>Die letzte Seitenzahl des Bezugs, falls bekannt.</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+
+    <xsd:attribute name="kat" use="optional" default="auszug">
+          <xsd:annotation>
+            <xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: auszug (default), erwähnung, kommentar.</xsd:documentation>
+          </xsd:annotation>
+          <xsd:simpleType>
+            <xsd:restriction base="xsd:string">
+              <xsd:enumeration value="auszug"/>
+              <xsd:enumeration value="erwähnung" />
+              <xsd:enumeration value="kommentar"/>
+            </xsd:restriction>
+          </xsd:simpleType>
+        </xsd:attribute>
+  </xsd:complexType>
+
+  <xsd:complexType name="beilageref">
+    <xsd:annotation>
+      <xsd:documentation>Bezieht sich auf eine Beilage und qualifiziert diese Beziehung</xsd:documentation>
+    </xsd:annotation>
+
+    <xsd:attribute name="datum"
+      use="required">
+      <xsd:annotation>
+        <xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
+      </xsd:annotation>
+      <xsd:simpleType>
+        <xsd:union
+          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+      </xsd:simpleType>
+    </xsd:attribute>
+
+    <xsd:attribute name="nr" type="xsd:positiveInteger"
+      use="optional">
+      <xsd:annotation>
+        <xsd:documentation>Optional: Die Nummer des Stücks.</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+
+    <xsd:attribute name="beilage" type="xsd:positiveInteger"
+      use="required">
+      <xsd:annotation>
+        <xsd:documentation>Pflicht: Die Nummer der Beilage.</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+
+    <xsd:attribute name="von" type="xsd:positiveInteger"
+      use="optional">
+      <xsd:annotation>
+        <xsd:documentation>Optional: Die erste Seitenzahl des Beitrags (nur bei mehreren Beiträgen
+          in einer Beilage).</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+
+    <xsd:attribute name="bis" type="xsd:positiveInteger"
+      use="optional">
+      <xsd:annotation>
+        <xsd:documentation>Optional: Die letzte Seitenzahl des Beitrags, erstreckt er sich über
+          mehrere Seiten (nur bei mehreren Beiträgen in einer Beilage).</xsd:documentation>
+      </xsd:annotation>
+    </xsd:attribute>
+
+    <xsd:attribute name="kat" use="optional" default="auszug">
+          <xsd:annotation>
+            <xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: auszug (default), erwähnung, kommentar.</xsd:documentation>
+          </xsd:annotation>
+          <xsd:simpleType>
+            <xsd:restriction base="xsd:string">
+              <xsd:enumeration value="auszug"/>
+              <xsd:enumeration value="erwähnung" />
+              <xsd:enumeration value="kommentar"/>
+            </xsd:restriction>
+          </xsd:simpleType>
+        </xsd:attribute>
+  </xsd:complexType>
+
+  <xsd:complexType name="beitragref">
+    <xsd:annotation>
+      <xsd:documentation>Bezieht sich auf einen Beitrag und qualifiziert diese Beziehung. </xsd:documentation>
+    </xsd:annotation>
+    <xsd:simpleContent>
+      <xsd:extension base="kgpz:ref">
+        <xsd:attribute name="kat" use="required">
+          <xsd:annotation>
+            <xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: erwähnung, kommentar.</xsd:documentation>
+          </xsd:annotation>
+          <xsd:simpleType>
+            <xsd:restriction base="xsd:string">
+              <xsd:enumeration value="erwähnung" />
+              <xsd:enumeration value="kommentar"/>
+            </xsd:restriction>
+          </xsd:simpleType>
+        </xsd:attribute>
+        <xsd:attribute name="s" use="optional" type="kgpz:NonEmptyString">
+          <xsd:annotation>
+            <xsd:documentation>Angabe zu Seite oder Stelle innerhalb eines Beitrages.</xsd:documentation>
+          </xsd:annotation>
+        </xsd:attribute>
+      </xsd:extension>
+    </xsd:simpleContent>
+  </xsd:complexType>
+
   <xsd:complexType name="werkref">
     <xsd:annotation>
       <xsd:documentation> Bezieht sich auf ein Werk und qualifiziert diese Beziehung. </xsd:documentation>

@@ -17,14 +17,14 @@
                   <xsd:documentation>Ein Beitrag kann entweder aus einem oder mehreren Stücken oder
                     einer Beilage sein und muss darauf verweisen.</xsd:documentation>
                 </xsd:annotation>
-                <xsd:element name="stueck" type="kgpz:StueckBeitragRef"
+                <xsd:element name="stueck" type="kgpz:stueckref"
                   minOccurs="1" maxOccurs="unbounded">
                   <xsd:annotation>
                     <xsd:documentation>Verweist auf ein Stück, in wlchem ein Beitrag veröffentlicht
                       wurde. Darf mehrmals vorkommen.</xsd:documentation>
                   </xsd:annotation>
                 </xsd:element>
-                <xsd:element name="beilage" type="kgpz:StueckBeilageRef"
+                <xsd:element name="beilage" type="kgpz:beilageref"
                   minOccurs="1" maxOccurs="unbounded">
                   <xsd:annotation>
                     <xsd:documentation>Verweist auf eine Beilage, in welcher ein Beitrag
@@ -32,14 +32,14 @@
                   </xsd:annotation>
                 </xsd:element>
                 <xsd:sequence>
-                  <xsd:element name="stueck" type="kgpz:StueckBeitragRef"
+                  <xsd:element name="stueck" type="kgpz:stueckref"
                     minOccurs="1" maxOccurs="unbounded">
                     <xsd:annotation>
                       <xsd:documentation>Verweist auf ein Stück, in welchem ein Beitrag
                         veröffentlicht wurde. Darf mehrmals vorkommen.</xsd:documentation>
                     </xsd:annotation>
                   </xsd:element>
-                  <xsd:element name="beilage" type="kgpz:StueckBeilageRef"
+                  <xsd:element name="beilage" type="kgpz:beilageref"
                     minOccurs="1" maxOccurs="unbounded">
                     <xsd:annotation>
                       <xsd:documentation>Verweist auf eine Beilage, in welcher ein Beitrag
@@ -50,96 +50,25 @@
               </xsd:choice>
               <xsd:group ref="kgpz:BeitragInfo" />
             </xsd:sequence>
+            <xsd:attribute name="id" type="xsd:string" use="optional">
+              <xsd:annotation>
+                  <xsd:documentation>Optional: Eindeutige ID des Beitrags.</xsd:documentation>
+              </xsd:annotation>
+          </xsd:attribute>
           </xsd:complexType>
         </xsd:element>
       </xsd:sequence>
+    
     </xsd:complexType>
+    <xsd:unique name="uniqueIndexBeitrag">
+      <xsd:annotation>
+          <xsd:documentation>Pflicht: jede vergebene ID eines Beitrags ist eindeutig.</xsd:documentation>
+      </xsd:annotation>
+
+      <xsd:selector xpath="kgpz:beitrag" />
+      <xsd:field xpath="@id" />
+  </xsd:unique>
   </xsd:element>
-
-
-  <xsd:complexType name="StueckBeitragRef">
-    <xsd:annotation>
-      <xsd:documentation>Referenziert ein Stück</xsd:documentation>
-    </xsd:annotation>
-    <xsd:attribute name="datum"
-      use="required">
-      <xsd:annotation>
-        <xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
-      </xsd:annotation>
-      <xsd:simpleType>
-        <xsd:union
-          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
-      </xsd:simpleType>
-    </xsd:attribute>
-
-    <xsd:attribute name="nr" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Optional: Die Nummer des Stücks.</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
-
-    <xsd:attribute name="von" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Die erste Seitenzahl des Beitrags, falls bekannt.</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
-
-    <xsd:attribute name="bis" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Die letzte Seitenzahl des Beitrags, falls bekannt.</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
-  </xsd:complexType>
-
-  <xsd:complexType name="StueckBeilageRef">
-    <xsd:annotation>
-      <xsd:documentation>Referenziert eine Beilage</xsd:documentation>
-    </xsd:annotation>
-
-    <xsd:attribute name="datum"
-      use="required">
-      <xsd:annotation>
-        <xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
-      </xsd:annotation>
-      <xsd:simpleType>
-        <xsd:union
-          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
-      </xsd:simpleType>
-    </xsd:attribute>
-
-    <xsd:attribute name="nr" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Optional: Die Nummer des Stücks.</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
-
-    <xsd:attribute name="beilage" type="xsd:positiveInteger"
-      use="required">
-      <xsd:annotation>
-        <xsd:documentation>Pflicht: Die Nummer der Beilage.</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
-
-    <xsd:attribute name="von" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Optional: Die erste Seitenzahl des Beitrags (nur bei mehreren Beiträgen
-          in einer Beilage).</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
-
-    <xsd:attribute name="bis" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Optional: Die letzte Seitenzahl des Beitrags, erstreckt er sich über
-          mehrere Seiten (nur bei mehreren Beiträgen in einer Beilage).</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
-  </xsd:complexType>
 
   <xsd:group name="BeitragInfo">
     <xsd:sequence>
@@ -173,6 +102,12 @@
       <xsd:element name="werk" minOccurs="0" maxOccurs="unbounded" type="kgpz:werkref">
         <xsd:annotation>
           <xsd:documentation>Optional: Verweis auf ein Werk.</xsd:documentation>
+        </xsd:annotation>
+      </xsd:element>
+
+      <xsd:element name="beitrag" minOccurs="0" maxOccurs="unbounded" type="kgpz:beitragref">
+        <xsd:annotation>
+          <xsd:documentation>Optional: Verweis auf einen Beitrag.</xsd:documentation>
         </xsd:annotation>
       </xsd:element>
 
