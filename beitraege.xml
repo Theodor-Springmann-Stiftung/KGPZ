@@ -34,7 +34,7 @@
         <vermerk>Bearbeitungsvermerk</vermerk>
     </beitrag> -->
 
-
+<!-- Jahrgang 1764 -->
     <beitrag>
         <stueck datum="1764" />
         <kategorie ref="ineigenersache" />
@@ -1176,7 +1176,11 @@
         <datum when="1764-07-26"></datum>
     </beitrag>
 
+<!-- Jahrgang 1765 -->
 
+<!-- Jahrgang 1766 -->
+
+<!-- Jahrgang 1769 -->
     <beitrag>
         <stueck datum="1769" nr="9" />
         <werk ref="unger" kat="provinienz" s="Bd. 2, S. 880–883" />
@@ -1210,22 +1214,21 @@
         <akteur ref="hamann" />
     </beitrag>
 
+<!-- Jahrgang 1770 -->
     <beitrag>
-        <stueck datum="1770" nr="2" />
+        <beilage datum="1770" nr="2" beilage="1" />
         <werk ref="unger" kat="provinienz" s="Bd. 3, S. 890–892" />
         <werk ref="shenstone-versuche" kat="uebersetzung" />
         <titel>Ueber die Autorschaft</titel>
         <akteur ref="hamann" />
         <anmerkung>Mehr eine Zusammenstellung und Bearbeitung als nur eine Übersetzung</anmerkung>
-        <!-- Beylage -->
     </beitrag>
     <beitrag>
-        <stueck datum="1770" nr="23" />
+        <beilage datum="1770" nr="23" beilage="1" />
         <werk ref="roth" kat="provinienz" s="Bd. 4, S. 341–356" />
         <werk ref="barreti-italy" kat="uebersetzung" s="S. 176–189 (Kapitel 11 und 12)" />
         <titel>Geschichte der welschen Schaubühne, aus dem Engl. übersetzt</titel>
         <akteur ref="hamann" />
-        <!-- Beylage -->
     </beitrag>
     <beitrag>
         <stueck datum="1770" nr="25" />
@@ -1237,12 +1240,11 @@
         <akteur ref="lindner" unsicher="true" />
     </beitrag>
     <beitrag>
-        <stueck datum="1770" nr="32" />
+        <beilage datum="1770" nr="32" beilage="1" />
         <werk ref="unger" kat="provinienz" s="Bd. 2, S. 892–894" />
         <werk ref="johnson-idler" kat="uebersetzung" s="Bd. 1, S. 190–195 (Nr. 34)" />
         <titel>Punsch und Umgang</titel>
         <akteur ref="hamann" />
-        <!-- Beylage -->
     </beitrag>
     <beitrag>
         <stueck datum="1770" nr="34" />
@@ -1254,12 +1256,11 @@
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
-        <stueck datum="1770" nr="39" />
+        <beilage datum="1770" nr="39" beilage="1" />
         <werk ref="unger" kat="provinienz" s="Bd. 2, S. 894–898" />
         <werk ref="johnson-idler" kat="uebersetzung" s="Bd. 2, S. 86–95 (Nr. 68 und 69)" />
         <titel>Johnson’s Geschichte der Uebersetzungskunst überhaupt und besonders in England</titel>
         <akteur ref="hamann" />
-        <!-- Beylage -->
     </beitrag>
     <beitrag>
         <stueck datum="1770" nr="40" />
@@ -1287,6 +1288,7 @@
         <akteur ref="hamann" />
     </beitrag>
 
+<!-- Jahrgang 1773 -->
     <beitrag>
         <stueck datum="1773" nr="14" />
         <werk ref="roth" kat="provinienz" s="Bd. 5, S. 32" />
@@ -1311,6 +1313,7 @@
             habe.</anmerkung>
     </beitrag>
 
+<!-- Jahrgang 1774 -->
     <beitrag>
         <stueck datum="1774" nr="4" />
         <werk ref="roth" kat="provinienz" s="Bd. 4, S. 368–373" />
@@ -1330,26 +1333,25 @@
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
-        <stueck datum="1774" nr="10" />
-        <stueck datum="1774" nr="12" />
-        <stueck datum="1774" nr="14" />
+        <beilage datum="1774" nr="10" beilage="1" />
+        <beilage datum="1774" nr="12" beilage="1" />
+        <beilage datum="1774" nr="14" beilage="1" />
         <werk ref="haym-reich" kat="provinienz" s="Bd. 4, S. 516–524" />
         <titel>Gefundene Blätter aus den neuesten deutschen Litteraturannalen von 1773.</titel>
         <akteur ref="hamann" />
         <akteur ref="herder" />
         <anmerkung>Anfang und Ende von Hamann, der nummerierte Mittelteil von Herder.</anmerkung>
-        <!-- Beilage -->
     </beitrag>
 
+<!-- Jahrgang 1775 -->
     <beitrag>
-        <stueck datum="1775" nr="39" />
+        <beilage datum="1775" nr="39" beilage="1" />
         <werk ref="nadler" kat="provinienz" s="Bd. 4, S. 386–388" />
         <werk ref="roth" kat="provinienz" s="384–390" />
         <werk ref="claudius-werke" kat="rezension" />
         <titel>Freund Hain an alle „belesene und empfindsame Personen“ in Ost- und West-Preußen,
             welche „Noch ein Ditto beym Mondscheine zu singen“ Lust und Genüge finden.</titel>
         <akteur ref="hamann" />
-        <!-- Beilage -->
     </beitrag>
     <beitrag>
         <stueck datum="1775" nr="101" von="399" />
@@ -1376,47 +1378,42 @@
         <kategorie ref="wechselkurse" />
     </beitrag>
     <beitrag>
-        <stueck datum="1775" nr="77" />
-        <stueck datum="1775" nr="78" />
-        <stueck datum="1775" nr="80" />
-        <stueck datum="1775" nr="87" />
+        <beilage datum="1775" nr="77" beilage="1" />
+        <beilage datum="1775" nr="78" beilage="1" />
+        <beilage datum="1775" nr="80" beilage="1" />
+        <beilage datum="1775" nr="87" beilage="1" />
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="galiani-getreidehandel" kat="uebersetzung"
             s="Ausschnitte, etwa S. 96 oder S. 239" />
         <werk ref="galiani-getreidehandel" kat="kommentar" />
         <akteur ref="hamann" />
-        <!-- Beilage -->
     </beitrag>
     <beitrag>
-        <stueck datum="1775" nr="87" />
+        <beilage datum="1775" nr="87" beilage="1" />
         <werk ref="yale-muenster" kat="provinienz" />
         <kategorie ref="desertionsliste" />
-        <!-- Beilage -->
     </beitrag>
     <beitrag>
-        <stueck datum="1775" nr="92" />
+        <beilage datum="1775" nr="92" beilage="1" />
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="galiani-getreidehandel" kat="rezension" />
         <titel>Summarischer Begrif der Gespräche über den Getrayde-Handel vom Uebersetzer der dahin
             gehörigen Beylagen.</titel>
         <akteur ref="hamann" />
-        <!-- Beilage -->
     </beitrag>
     <beitrag>
-        <stueck datum="1775" nr="93" />
+        <stueck datum="1775" nr="93" beilage="1" />
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="klopstock-gelehrtenrepublik" kat="rezension" />
         <titel>Fragment eines Programm’s oder Zuruff von der Eule.</titel>
         <akteur ref="hamann" />
-        <!-- Beilage -->
     </beitrag>
     <beitrag>
-        <stueck datum="1775" nr="94" />
+        <beilage datum="1775" nr="94" beilage="1" />
         <werk ref="yale-muenster" kat="provinienz" />
         <kategorie ref="aufsatz" />
         <titel>Kleiner Versuch über große Probleme.</titel>
         <akteur ref="hamann" />
-        <!-- Beilage -->
     </beitrag>
     <beitrag>
         <stueck datum="1775" nr="101" />
@@ -1425,16 +1422,16 @@
         <akteur ref="hamann" />
     </beitrag>
 
+<!-- Jahrgang 1776 -->
     <beitrag>
-        <stueck datum="1776" nr="6" />
-        <stueck datum="1776" nr="8" />
-        <stueck datum="1776" nr="10" />
+        <beilage datum="1776" nr="6" beilage="1" />
+        <beilage datum="1776" nr="8" beilage="1" />
+        <beilage datum="1776" nr="10" beilage="1" />
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="buffon-styl" kat="uebersetzung" s="xxii–xxxviii" />
         <werk ref="buffon-styl" kat="kommentar" />
         <titel>Ueber den Styl</titel>
         <akteur ref="hamann" />
-        <!-- Beilage -->
     </beitrag>
     <beitrag>
         <stueck datum="1776" nr="19" von="73" bis="74" />
@@ -1464,13 +1461,12 @@
         <kategorie ref="wechselkurse" />
     </beitrag>
     <beitrag>
-        <stueck datum="1776" nr="19" />
+        <beilage datum="1776" nr="19" beilage="1" />
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="bertuch-donquixote" kat="kommentar" />
         <kategorie ref="aufsatz" />
         <titel>Zur neuen Ausgabe des deutschen Don Quixote.</titel>
         <akteur ref="hamann" />
-        <!-- Beilage -->
     </beitrag>
     <beitrag>
         <stueck datum="1776" nr="27" />
@@ -1485,20 +1481,20 @@
         <akteur ref="hamann" />
     </beitrag>
 
+<!-- Jahrgang 1777 -->
     <beitrag>
-        <stueck datum="1777" nr="51" />
+        <beilage datum="1777" nr="51" beilage="1"/>
         <werk ref="unger" kat="provinienz" s="Bd. 2, S. 920" />
         <akteur ref="bertuch-donquixote" kat="kommentar" />
         <akteur ref="hamann" />
-        <!-- Beilage -->
     </beitrag>
 
+<!-- Jahrgang 1779 -->
     <beitrag>
-        <stueck datum="1779" nr="88" />
+        <beilage datum="1779" nr="88" beilage="1" />
         <werk ref="unger" kat="provinienz" s="Bd. 2, S. 920f." />
         <akteur ref="schellenberg-schweiz" kat="anzeige" />
         <akteur ref="hamann" />
-        <!-- Beilage -->
     </beitrag>
 
 
