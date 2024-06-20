@@ -1117,8 +1117,7 @@
     <beitrag>
         <stueck datum="1764" nr="49" von="196" />
         <kategorie ref="wechselkurse" />
-        <anmerkung>Devaluation nach welchen die reducierten Münzsorten in einzelen Stücken von denen
-            hiesigen Lieferanten angenommen werden.</anmerkung>
+        <anmerkung>Devaluation nach welchen die reducierten Münzsorten in einzelen Stücken von denen hiesigen Lieferanten angenommen werden.</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="49" von="196" />
@@ -1168,12 +1167,99 @@
     <beitrag>
         <stueck datum="1764" nr="51" von="204" />
         <kategorie ref="wechselkurse" />
-        <anmerkung>Ergänzung zur Devaluationstabelle aus dem 1764, St. 49.</anmerkung>
+        <anmerkung>Ergänzung zur Devaluationstabelle aus dem 49. Stück von 1764 </anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="51" von="204" />
         <kategorie ref="wechselkurse" />
         <datum when="1764-07-26"></datum>
+    </beitrag>
+	
+	<beitrag>
+        <stueck datum="1764" nr="52" von="205" bis="206" />
+        <werk ref="dodsley-lehrmeister" kat="rezension" />
+        <ort ref="leipzig" />
+    </beitrag>
+	<beitrag>
+        <stueck datum="1764" nr="52" von="206" bis="207" />
+        <werk ref="wieland-natur" kat="rezension" />
+        <ort ref="ulm" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="52" von="207" bis="208" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="52" von="208" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+	
+	<beitrag>
+        <stueck datum="1764" nr="53" von="209" bis="211" />
+        <titel>Ueber das Denken der Seele vor der Geburt.</titel>
+        <akteur ref="trescho" unsicher="true" >ZH II, 263</akteur>
+		<anmerkung>Unterzeichnet mit „T.“</anmerkung>
+    </beitrag>
+	<beitrag>
+        <stueck datum="1764" nr="53" von="209" bis="211" />
+		<kategorie ="gedicht" />
+        <titel>Phantasie.</titel>
+        <akteur ref="trescho">HBGA I, 26</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="53" von="211" bis="212" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="53" von="212" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="53" von="212" />
+        <kategorie ref="wechselkurse" />
+        <datum when="1764-08-02"></datum>
+    </beitrag>
+	
+	<beitrag>
+        <stueck datum="1764" nr="54" von="213" />
+        <werk ref="vernunft-lehrmeisterin" kat="rezension" />
+    </beitrag>
+	<beitrag>
+        <stueck datum="1764" nr="54" von="213" />
+        <werk ref="gellius-frauenzimmerbriefe" kat="rezension" />
+		<ort ref="leipzig" />
+    </beitrag>
+	<beitrag>
+        <stueck datum="1764" nr="54" von="213" bis="214" />
+        <werk ref="sammlung-moralischerbriefe" kat="rezension" />
+		<ort ref="quedlinburg" />
+    </beitrag>
+	<beitrag>
+        <stueck datum="1764" nr="54" von="213" bis="214" />
+        <werk ref="macpherson-fingal" kat="rezension" />
+		<ort ref="hamburg" />
+    </beitrag>
+	<beitrag>
+        <stueck datum="1764" nr="54" von="213" bis="214" />
+        <werk ref="thomas-sully" kat="rezension" />
+		<ort ref="hamburg" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="54" von="215" bis="216" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="54" von="216" />
+        <kategorie ref="avertissement" />
+		<kategorie ref="buecher" />
+        <anmerkung>Für den Catalog der Ostermesse</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="54" von="216" />
+        <kategorie ref="wechselkurse" />
+        <anmerkung>Declaration des neuen Müntz-Edicts vom 29. Mattii 1764 in Ansehung des Königreichs Preussen, wegen der in Preußischen Sechsern seit den 21. April 1763 getroffenen Contracte.</anmerkung>
     </beitrag>
 
 <!-- Jahrgang 1765 -->
@@ -1183,7 +1269,7 @@
         <stueck datum="1766" nr="1" von="1" bis="3" />
 		<kategorie ref="aufsatz" />
         <incipit>Die Neujahrsluft hat etwas so ansteckendes</incipit>
-		<anmerkung>Über die wahrhafte Coquetterie, an die Schönen zum neuen Jahr</anmerkung>
+		<anmerkung>Über die wahrhafte Coquetterie, an die Schönen zum neuen Jahr.</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="1" von="3" bis="4" />
