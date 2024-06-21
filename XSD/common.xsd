@@ -68,17 +68,18 @@
     </xsd:attribute>
 
     <xsd:attribute name="kat" use="optional" default="auszug">
-          <xsd:annotation>
-            <xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: auszug (default), erwähnung, kommentar.</xsd:documentation>
-          </xsd:annotation>
-          <xsd:simpleType>
-            <xsd:restriction base="xsd:string">
-              <xsd:enumeration value="auszug"/>
-              <xsd:enumeration value="erwähnung" />
-              <xsd:enumeration value="kommentar"/>
-            </xsd:restriction>
-          </xsd:simpleType>
-        </xsd:attribute>
+      <xsd:annotation>
+        <xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: auszug (default), erwähnung,
+          kommentar.</xsd:documentation>
+      </xsd:annotation>
+      <xsd:simpleType>
+        <xsd:restriction base="xsd:string">
+          <xsd:enumeration value="auszug" />
+          <xsd:enumeration value="erwähnung" />
+          <xsd:enumeration value="kommentar" />
+        </xsd:restriction>
+      </xsd:simpleType>
+    </xsd:attribute>
   </xsd:complexType>
 
   <xsd:complexType name="beilageref">
@@ -128,17 +129,18 @@
     </xsd:attribute>
 
     <xsd:attribute name="kat" use="optional" default="auszug">
-          <xsd:annotation>
-            <xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: auszug (default), erwähnung, kommentar.</xsd:documentation>
-          </xsd:annotation>
-          <xsd:simpleType>
-            <xsd:restriction base="xsd:string">
-              <xsd:enumeration value="auszug"/>
-              <xsd:enumeration value="erwähnung" />
-              <xsd:enumeration value="kommentar"/>
-            </xsd:restriction>
-          </xsd:simpleType>
-        </xsd:attribute>
+      <xsd:annotation>
+        <xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: auszug (default), erwähnung,
+          kommentar.</xsd:documentation>
+      </xsd:annotation>
+      <xsd:simpleType>
+        <xsd:restriction base="xsd:string">
+          <xsd:enumeration value="auszug" />
+          <xsd:enumeration value="erwähnung" />
+          <xsd:enumeration value="kommentar" />
+        </xsd:restriction>
+      </xsd:simpleType>
+    </xsd:attribute>
   </xsd:complexType>
 
   <xsd:complexType name="beitragref">
@@ -154,7 +156,7 @@
           <xsd:simpleType>
             <xsd:restriction base="xsd:string">
               <xsd:enumeration value="erwähnung" />
-              <xsd:enumeration value="kommentar"/>
+              <xsd:enumeration value="kommentar" />
             </xsd:restriction>
           </xsd:simpleType>
         </xsd:attribute>
@@ -250,14 +252,15 @@
     <xsd:annotation>
       <xsd:documentation>Link ins Internet</xsd:documentation>
     </xsd:annotation>
-    <xsd:simpleContent>
-      <xsd:restriction base="text"></xsd:restriction>
-    </xsd:simpleContent>
-    <xsd:attribute name="address" use="required" type="xsd:anyURI">
-      <xsd:annotation>
-        <xsd:documentation>URL des Links</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
+    <xsd:complexContent>
+      <xsd:extension base="text">
+        <xsd:attribute name="address" use="required" type="xsd:anyURI">
+          <xsd:annotation>
+            <xsd:documentation>URL des Links</xsd:documentation>
+          </xsd:annotation>
+        </xsd:attribute>
+      </xsd:extension>
+    </xsd:complexContent>
   </xsd:complexType>
 
 
