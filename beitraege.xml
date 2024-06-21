@@ -416,7 +416,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="18" von="69" bis="70" />
-        <werk ref="borowski-chinesischerweltweise" kat="rezension" />
+        <werk ref="goldsmith-letters" s="Bd. 1" kat="rezension" />
         <akteur ref="borowski">vgl. ZH II, 235</akteur>
         <ort ref="leipzig" />
     </beitrag>
@@ -1260,6 +1260,51 @@
         <stueck datum="1764" nr="54" von="216" />
         <kategorie ref="wechselkurse" />
         <anmerkung>Declaration des neuen Müntz-Edicts vom 29. Mattii 1764 in Ansehung des Königreichs Preussen, wegen der in Preußischen Sechsern seit den 21. April 1763 getroffenen Contracte.</anmerkung>
+    </beitrag>
+	
+	<beitrag>
+        <stueck datum="1764" nr="55" von="217" />
+        <werk ref="glaser-feuersbrunst" kat="rezension" />
+		<ort ref="hildburghausen" />
+    </beitrag>
+	<beitrag>
+        <stueck datum="1764" nr="55" von="217" bis="219" />
+        <kategorie ref="erzaehlung" />
+		<titel>Das Gesicht des Einsiedlers Abdallah. Eine morgenländische Erzählung.</titel>
+		<anmerkung>Unterzeichnet „K.“, meint aber nicht  Kant (vgl. HBGA X, 300)</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="55" von="219" bis="220" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="55" von="220" />
+        <kategorie ref="avertissement" />
+		<kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="55" von="220" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+	
+	<beitrag>
+        <stueck datum="1764" nr="56" von="221" />
+        <werk ref="goldsmith-letters" s="Bd. 2" kat="rezension" />
+		<ort ref="leipzig" />
+    </beitrag>
+	<beitrag>
+        <stueck datum="1764" nr="56" von="222" />
+        <werk ref="moralische-ausarbeitungen" kat="rezension" />
+		<ort ref="frankfurt" />
+    </beitrag>
+	<beitrag>
+        <stueck datum="1764" nr="56" von="222" bis="223" />
+        <werk ref="mittel-froehlichkeit" kat="rezension" />
+		<ort ref="nuernberg" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="56" von="223" bis="224" />
+        <kategorie ref="weltnachrichten" />
     </beitrag>
 
 <!-- Jahrgang 1765 -->
