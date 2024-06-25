@@ -44,6 +44,28 @@
         ]
     },
 
+    "Weltnachrichten": {
+        "scope": "xml",
+        "prefix": "weltnachrichten",
+        "body": [
+            "<beitrag>",
+            "\t<stueck datum=\"${1:Datum}\" nr=\"${2:Stück-Nummer}\" von=\"${3:Seite}\" bis=\"${4:Seite}\" />",
+            "\t<kategorie ref=\"weltnachrichten\" />",
+            "</beitrag>"
+        ]
+    },
+
+    "Wechselkurse": {
+        "scope": "xml",
+        "prefix": "wechselkurse",
+        "body": [
+            "<beitrag>",
+            "\t<stueck datum=\"${1:Datum}\" nr=\"${2:Stück-Nummer}\" von=\"${3:Seite}\"/>",
+            "\t<kategorie ref=\"wechselkurse\" />",
+            "</beitrag>"
+        ]
+    },
+
     "Vermerk": {
         "scope": "xml",
         "prefix": "vermerk",
