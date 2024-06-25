@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <orte xmlns="https://www.koenigsberger-zeitungen.de"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de XSD/KGPZ.xsd">
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../XSD/KGPZ.xsd">
     <!--
     <ort id="1">
         das Attribut id + <name> müssen vorhanden sein
@@ -197,5 +197,5 @@
         <name>Erfurt</name>
         <geonames>https://www.geonames.org/6549746</geonames>
     </ort>
-	
+
 </orte>

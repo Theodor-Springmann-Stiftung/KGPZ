@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+    <!-- <beitrag>
+         Beispiel für einen Beitrag in zwei Stücken
+        Das bis-Attribut ist erforderlich falls der Beitrag Seitengrenzen überschreitet
+        Es kann mehrere Kategorien geben
+
+        ALLGEMEINE METADATEN
+        <stueck datum="1752" nr="23" von="2" bis="3" />
+        <stueck datum="1799" nr="12" von="5" />
+        <beilage datum="1752" nr="23" beilage="1" />
+        <kategorie ref="kategorie" />
+        <kategorie ref="kategorie2" />
+
+        TRANSKRIPTIONEN 
+        Zugelasssen sind die Attribute when, from, to, notBefore, notAfter 
+        <datum when="1762-12-12" />
+        Ein Beitrag kann einen Titel, ein Incipit, beides oder nichts von beiden haben: 
+        <titel>Was</titel>
+        <incipit>Incipit</incipit>
+
+        VERWEISE 
+        <ort ref="ort">Die Zuordung eines Beitrags zu einem Ort kann annotiert werden</ort>
+        <akteur ref="akteur">Die Zuordnung eines Beitrags zu einem Akteur kann annotiert werden</akteur>
+        oder auch nicht: 
+        <akteur ref="einstein" />
+        <werk ref="werk" kat="rezension">Auch die Zuordnung zu einer Werkrezension kann annotiert
+    werden</werk>
+
+        ANMERKUNGEN etc. 
+        <anmerkung>Anmerkung</anmerkung>
+        <vermerk>Bearbeitungsvermerk</vermerk>
+    </beitrag> -->
+
+    <!-- Jahrgang 1775 -->
+    <beitrag>
+        <beilage datum="1775" nr="39" beilage="1" />
+        <werk ref="nadler" kat="provinienz" s="Bd. 4, S. 386–388" />
+        <werk ref="roth" kat="provinienz" s="384–390" />
+        <werk ref="claudius-werke" kat="rezension" />
+        <titel>Freund Hain an alle „belesene und empfindsame Personen“ in Ost- und West-Preußen,
+            welche „Noch ein Ditto beym Mondscheine zu singen“ Lust und Genüge finden.</titel>
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1775" nr="101" von="399" />
+        <werk ref="yale-muenster" kat="provinienz" />
+        <kategorie ref="gedicht" />
+        <titel>An Herrn Reichardt bey seiner Abreise nach Berlin.</titel>
+        <anmerkung>Unterzeichnet „K–r.“</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1775" nr="101" von="399" bis="400" />
+        <werk ref="yale-muenster" kat="provinienz" />
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 446–449" />
+        <werk ref="noesselt-religion" kat="rezension" />
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1775" nr="101" von="402" />
+        <werk ref="yale-muenster" kat="provinienz" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1775" nr="101" von="402" />
+        <werk ref="yale-muenster" kat="provinienz" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+    <beitrag>
+        <beilage datum="1775" nr="77" beilage="1" />
+        <beilage datum="1775" nr="78" beilage="1" />
+        <beilage datum="1775" nr="80" beilage="1" />
+        <beilage datum="1775" nr="87" beilage="1" />
+        <werk ref="yale-muenster" kat="provinienz" />
+        <werk ref="galiani-getreidehandel" kat="uebersetzung"
+            s="Ausschnitte, etwa S. 96 oder S. 239" />
+        <werk ref="galiani-getreidehandel" kat="kommentar" />
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <beilage datum="1775" nr="87" beilage="1" />
+        <werk ref="yale-muenster" kat="provinienz" />
+        <kategorie ref="desertionsliste" />
+    </beitrag>
+    <beitrag>
+        <beilage datum="1775" nr="92" beilage="1" />
+        <werk ref="yale-muenster" kat="provinienz" />
+        <werk ref="galiani-getreidehandel" kat="rezension" />
+        <titel>Summarischer Begrif der Gespräche über den Getrayde-Handel vom Uebersetzer der dahin
+            gehörigen Beylagen.</titel>
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1775" nr="93" beilage="1" />
+        <werk ref="yale-muenster" kat="provinienz" />
+        <werk ref="klopstock-gelehrtenrepublik" kat="rezension" />
+        <titel>Fragment eines Programm’s oder Zuruff von der Eule.</titel>
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <beilage datum="1775" nr="94" beilage="1" />
+        <werk ref="yale-muenster" kat="provinienz" />
+        <kategorie ref="aufsatz" />
+        <titel>Kleiner Versuch über große Probleme.</titel>
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1775" nr="101" />
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 449f." />
+        <werk ref="hamann-sibylle" kat="rezension" />
+        <akteur ref="hamann" />
+    </beitrag>
+
+</beitraege>

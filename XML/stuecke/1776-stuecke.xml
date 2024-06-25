@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<stuecke xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+    <stueck>
+        <nummer>6</nummer>
+        <datum when="1776-01-18" />
+    </stueck>
+    <stueck>
+        <nummer>8</nummer>
+        <datum when="1776-01-25" />
+    </stueck>
+    <stueck>
+        <nummer>10</nummer>
+        <datum when="1776-02-01" />
+    </stueck>
+    <stueck>
+        <nummer>19</nummer>
+        <datum when="1776-03-04" />
+        <von>73</von>
+        <bis>76</bis>
+    </stueck>
+    <stueck>
+        <nummer>27</nummer>
+        <datum when="1776-04-01" />
+    </stueck>
+    <stueck>
+        <nummer>45</nummer>
+        <datum when="1776-06-03" />
+    </stueck>
+</stuecke>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <kategorien xmlns="https://www.koenigsberger-zeitungen.de"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de XSD/KGPZ.xsd">
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../XSD/KGPZ.xsd">
 
     <!--
     <kategorie id="1">
@@ -17,8 +17,8 @@
         <name>In eigener Sache</name>
         <vermerk>Programmatische Vorwörter, Neuausrichtungen etc.</vermerk>
     </kategorie>
-	
-	<kategorie id="panegyrik">
+
+    <kategorie id="panegyrik">
         <name>Panegyrik</name>
         <vermerk>Lobreden auf Friedrich II., Königsgeburtstag etc.</vermerk>
     </kategorie>
@@ -26,25 +26,25 @@
     <kategorie id="weltnachrichten">
         <name>Weltnachrichten</name>
     </kategorie>
-	
+
     <kategorie id="wechselkurse">
         <name>Weckselkurse</name>
-		<anmerkung>„Wechsel-Cours &#x26; Species“</anmerkung>
+        <anmerkung>„Wechsel-Cours &#x26; Species“</anmerkung>
     </kategorie>
-	
-	<kategorie id="avertissement">
+
+    <kategorie id="avertissement">
         <name>Avertissement</name>
     </kategorie>
-	
-	<kategorie id="buecher">
+
+    <kategorie id="buecher">
         <name>Bücherangebot des Kanterschen Buchladens</name>
     </kategorie>
-	
-	<kategorie id="lotterie">
+
+    <kategorie id="lotterie">
         <name>Lotterieziehung</name>
     </kategorie>
-	
-	<kategorie id="rezension">
+
+    <kategorie id="rezension">
         <name>Rezension</name>
     </kategorie>
 
@@ -55,54 +55,55 @@
     <kategorie id="auszug">
         <name>Auszug</name>
     </kategorie>
-	
-	<kategorie id="aufsatz">
+
+    <kategorie id="aufsatz">
         <name>Aufsatz</name>
-		<vermerk>Benennung gefällt mir nicht; wie könnte mans sonst nennen, wenn ein Autor einen Originalbeitrag über ein Bestimmtes Thema bringt?</vermerk>
+        <vermerk>Benennung gefällt mir nicht; wie könnte mans sonst nennen, wenn ein Autor einen
+            Originalbeitrag über ein Bestimmtes Thema bringt?</vermerk>
     </kategorie>
-	
-	<kategorie id="gedicht">
+
+    <kategorie id="gedicht">
         <name>Gedicht</name>
     </kategorie>
-	
-	<kategorie id="anzeige">
+
+    <kategorie id="anzeige">
         <name>Anzeige</name>
     </kategorie>
-	
-	<kategorie id="todesanzeige">
+
+    <kategorie id="todesanzeige">
         <name>Todesanzeige</name>
     </kategorie>
-	
-	<kategorie id="provinienz">
+
+    <kategorie id="provinienz">
         <name>Provinienz</name>
     </kategorie>
-	
-	<kategorie id="kurztext">
+
+    <kategorie id="kurztext">
         <name>Literarischer Kurztext</name>
     </kategorie>
-	
-	<kategorie id="gelehrte-nachrichten">
+
+    <kategorie id="gelehrte-nachrichten">
         <name>Gelehrte Nachrichten</name>
     </kategorie>
-	
-	<kategorie id="uebersetzung">
+
+    <kategorie id="uebersetzung">
         <name>Übersetzung</name>
     </kategorie>
-	
-	<kategorie id="lokalanzeigen">
+
+    <kategorie id="lokalanzeigen">
         <name>Lokalanzeigen</name>
     </kategorie>
-	
-	<kategorie id="desertionsliste">
+
+    <kategorie id="desertionsliste">
         <name>Liste von Deserteuren</name>
     </kategorie>
-	
-	<kategorie id="einkommende-fremde">
+
+    <kategorie id="einkommende-fremde">
         <name>Einkommende Fremde</name>
     </kategorie>
-	
-	<kategorie id="erzaehlung">
+
+    <kategorie id="erzaehlung">
         <name>Erzählung</name>
     </kategorie>
-	
+
 </kategorien>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+    <!-- <beitrag>
+         Beispiel für einen Beitrag in zwei Stücken
+        Das bis-Attribut ist erforderlich falls der Beitrag Seitengrenzen überschreitet
+        Es kann mehrere Kategorien geben
+
+        ALLGEMEINE METADATEN
+        <stueck datum="1752" nr="23" von="2" bis="3" />
+        <stueck datum="1799" nr="12" von="5" />
+        <beilage datum="1752" nr="23" beilage="1" />
+        <kategorie ref="kategorie" />
+        <kategorie ref="kategorie2" />
+
+        TRANSKRIPTIONEN 
+        Zugelasssen sind die Attribute when, from, to, notBefore, notAfter 
+        <datum when="1762-12-12" />
+        Ein Beitrag kann einen Titel, ein Incipit, beides oder nichts von beiden haben: 
+        <titel>Was</titel>
+        <incipit>Incipit</incipit>
+
+        VERWEISE 
+        <ort ref="ort">Die Zuordung eines Beitrags zu einem Ort kann annotiert werden</ort>
+        <akteur ref="akteur">Die Zuordnung eines Beitrags zu einem Akteur kann annotiert werden</akteur>
+        oder auch nicht: 
+        <akteur ref="einstein" />
+        <werk ref="werk" kat="rezension">Auch die Zuordnung zu einer Werkrezension kann annotiert
+    werden</werk>
+
+        ANMERKUNGEN etc. 
+        <anmerkung>Anmerkung</anmerkung>
+        <vermerk>Bearbeitungsvermerk</vermerk>
+    </beitrag> -->
+
+    <!-- Jahrgang 1769 -->
+    <beitrag>
+        <stueck datum="1769" nr="9" />
+        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 880–883" />
+        <werk ref="sanseverino-biographie" kat="rezension" />
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1769" nr="11" />
+        <werk ref="roth" kat="provinienz" s="Bd. 3, S. 429–432" />
+        <werk ref="herder-kritischewaelder" kat="rezension" />
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1769" nr="16" />
+        <werk ref="roth" kat="provinienz" s="Bd. 3, S. 432f." />
+        <werk ref="guden-polizey" kat="rezension" />
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1769" nr="34" />
+        <werk ref="roth" kat="provinienz" s="Bd. 3, S. 434–436" />
+        <werk ref="recueil-dopuscules" kat="rezension" />
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1769" nr="35" />
+        <stueck datum="1769" nr="36" />
+        <werk ref="unger" kat="provinienz" s="Bd. 3, S. 883–890" />
+        <werk ref="recueil-dopuscules" kat="uebersetzung" s="S. 115–140" />
+        <titel>Brief des Abts von Olivet an den Präsidenten Bouhier über das Leben des Abts Genest.</titel>
+        <akteur ref="hamann" />
+    </beitrag>
+
+</beitraege>

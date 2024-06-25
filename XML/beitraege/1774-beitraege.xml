@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+    <!-- <beitrag>
+         Beispiel für einen Beitrag in zwei Stücken
+        Das bis-Attribut ist erforderlich falls der Beitrag Seitengrenzen überschreitet
+        Es kann mehrere Kategorien geben
+
+        ALLGEMEINE METADATEN
+        <stueck datum="1752" nr="23" von="2" bis="3" />
+        <stueck datum="1799" nr="12" von="5" />
+        <beilage datum="1752" nr="23" beilage="1" />
+        <kategorie ref="kategorie" />
+        <kategorie ref="kategorie2" />
+
+        TRANSKRIPTIONEN 
+        Zugelasssen sind die Attribute when, from, to, notBefore, notAfter 
+        <datum when="1762-12-12" />
+        Ein Beitrag kann einen Titel, ein Incipit, beides oder nichts von beiden haben: 
+        <titel>Was</titel>
+        <incipit>Incipit</incipit>
+
+        VERWEISE 
+        <ort ref="ort">Die Zuordung eines Beitrags zu einem Ort kann annotiert werden</ort>
+        <akteur ref="akteur">Die Zuordnung eines Beitrags zu einem Akteur kann annotiert werden</akteur>
+        oder auch nicht: 
+        <akteur ref="einstein" />
+        <werk ref="werk" kat="rezension">Auch die Zuordnung zu einer Werkrezension kann annotiert
+    werden</werk>
+
+        ANMERKUNGEN etc. 
+        <anmerkung>Anmerkung</anmerkung>
+        <vermerk>Bearbeitungsvermerk</vermerk>
+    </beitrag> -->
+
+    <!-- Jahrgang 1774 -->
+    <beitrag>
+        <stueck datum="1774" nr="4" />
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 368–373" />
+        <werk ref="borowski-kirchenregistratur" kat="rezension" />
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1774" nr="7" />
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 373–378" />
+        <werk ref="schloezer-universalhistorie" kat="rezension" />
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1774" nr="8" />
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 373–378" />
+        <werk ref="reiche-taufe" kat="rezension" />
+        <akteur ref="hamann" />
+    </beitrag>
+    <beitrag>
+        <beilage datum="1774" nr="10" beilage="1" />
+        <beilage datum="1774" nr="12" beilage="1" />
+        <beilage datum="1774" nr="14" beilage="1" />
+        <werk ref="haym-reich" kat="provinienz" s="Bd. 4, S. 516–524" />
+        <titel>Gefundene Blätter aus den neuesten deutschen Litteraturannalen von 1773.</titel>
+        <akteur ref="hamann" />
+        <akteur ref="herder" />
+        <anmerkung>Anfang und Ende von Hamann, der nummerierte Mittelteil von Herder.</anmerkung>
+    </beitrag>
+</beitraege>
