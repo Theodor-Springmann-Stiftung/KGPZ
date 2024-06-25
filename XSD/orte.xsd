@@ -44,6 +44,11 @@
                                 <xsd:documentation>Pflicht: Eindeutige ID des Ortes.</xsd:documentation>
                             </xsd:annotation>
                         </xsd:attribute>
+                        <xsd:attribute name="org" type="xsd:boolean" use="optional" default="false" >
+                            <xsd:annotation>
+                                <xsd:documentation>Optional: true, wenn es sich um eine Körperschaft handelt. Default: false</xsd:documentation>
+                            </xsd:annotation>
+                        </xsd:attribute>
                     </xsd:complexType>
                 </xsd:element>
             </xsd:sequence>

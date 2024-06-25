@@ -1,0 +1,63 @@
+{
+    "Akteur": {
+        "scope": "xml",
+        "prefix": "akteur",
+        "body": [
+            "<akteur id=\"${1:id}\">",
+            "\t<name>${2:Vollständiger Name}</name>",
+            "\t<lebensdaten>${3:Geburtsjahr}–${4:Sterbejahr}</lebensdaten>",
+            "\t<gnd>${5:GND-ID}</gnd>${6}",
+            "</akteur>"
+        ]
+    },
+
+    "Kategorie": {
+        "scope": "xml",
+        "prefix": "kategorie",
+        "body": [
+            "<kategorie id=\"${1:id}\">",
+            "\t<name>${2:Vollständiger Name}</name>${3}",
+            "</kategorie>"
+        ]
+    },
+
+    "Ort": {
+        "scope": "xml",
+        "prefix": "ort",
+        "body": [
+            "<ort id=\"${1:id}\">",
+            "\t<name>${2:Vollständiger Name}</name>",
+            "\t<geonames>${3:geonames-ID}</geonames>${4}",
+            "</ort>"
+        ]
+    },
+
+    "Werk": {
+        "scope": "xml",
+        "prefix": "werk",
+        "body": [
+            "<werk id=\"${1:id}\">",
+            "\t<akteur ref=\"${2:id}\" />",
+            "\t<zitation>${3:Volltext-Zitat}</zitation>",
+            "\t<url address=\"${4:id}\" >${5:URL-Text}</url>${6}",
+            "</werk>"
+        ]
+    },
+
+    "Vermerk": {
+        "scope": "xml",
+        "prefix": "vermerk",
+        "body": [
+            "<vermerk>${1:Text}</vermerk>",
+        ]
+    },
+
+    "Anmerkung": {
+        "scope": "xml",
+        "prefix": "anmerkung",
+        "body": [
+            "<anmerkung>${1:Text}</anmerkung>",
+        ]
+    },
+
+}
