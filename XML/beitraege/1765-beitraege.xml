@@ -41,6 +41,8 @@
     <beitrag>
         <stueck datum="1765" nr="1" von="2" bis="3" />
         <werk ref="toellner-gruende" kat="rezension" />
+        <ort ref="leipzig" />
+        <ort ref="zuellichau" />
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="1" von="3" bis="4" />
@@ -50,5 +52,5 @@
         <stueck datum="1765" nr="1" von="4" />
         <kategorie ref="wechselkurse" />
     </beitrag>
-    
+
 </beitraege>
