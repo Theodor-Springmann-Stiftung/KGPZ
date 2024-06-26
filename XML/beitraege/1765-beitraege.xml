@@ -42,4 +42,13 @@
         <stueck datum="1765" nr="1" von="2" bis="3" />
         <werk ref="toellner-gruende" kat="rezension" />
     </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="1" von="3" bis="4" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="1" von="4" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+    
 </beitraege>
