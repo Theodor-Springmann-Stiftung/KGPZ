@@ -8,10 +8,10 @@
         <beilage datum="1776" nr="6" beilage="1" />
         <beilage datum="1776" nr="8" beilage="1" />
         <beilage datum="1776" nr="10" beilage="1" />
+        <titel>Ueber den Styl</titel>
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="buffon-styl" kat="uebersetzung" s="xxii–xxxviii" />
         <werk ref="buffon-styl" kat="kommentar" />
-        <titel>Ueber den Styl</titel>
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
@@ -22,31 +22,31 @@
     </beitrag>
     <beitrag>
         <stueck datum="1776" nr="19" von="74" bis="76" />
-        <werk ref="yale-muenster" kat="provinienz" />
         <kategorie ref="weltnachrichten" />
+        <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
         <stueck datum="1776" nr="19" von="76" />
-        <werk ref="yale-muenster" kat="provinienz" />
         <kategorie ref="avertissement" />
         <kategorie ref="buecher" />
+        <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
         <stueck datum="1776" nr="19" von="76" />
-        <werk ref="yale-muenster" kat="provinienz" />
         <kategorie ref="lokalanzeigen" />
+        <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
         <stueck datum="1776" nr="19" von="76" />
-        <werk ref="yale-muenster" kat="provinienz" />
         <kategorie ref="wechselkurse" />
+        <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
         <beilage datum="1776" nr="19" beilage="1" />
-        <werk ref="yale-muenster" kat="provinienz" />
-        <werk ref="bertuch-donquixote" kat="kommentar" />
         <kategorie ref="aufsatz" />
         <titel>Zur neuen Ausgabe des deutschen Don Quixote.</titel>
+        <werk ref="yale-muenster" kat="provinienz" />
+        <werk ref="bertuch-donquixote" kat="kommentar" />
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
@@ -58,7 +58,7 @@
     <beitrag>
         <stueck datum="1776" nr="45" />
         <werk ref="roth" kat="provinienz" s="Bd. 4, S. 471f." />
-        <akteur ref="hamann-zweifel" kat="rezension" />
+        <werk ref="hamann-zweifel" kat="rezension" />
         <akteur ref="hamann" />
     </beitrag>
 

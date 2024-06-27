@@ -804,19 +804,19 @@
         <kategorie ref="gedicht" />
         <kategorie ref="kommentar" />
         <titel>An Done, auf die Frage: Ob er sie wie Meta liebte?</titel>
+        <akteur ref="klopstock" />
+        <akteur ref="lauson" unsicher="true" />
         <anmerkung>Erstdruck der Klopstock-Ode, vgl. Werke und Briefe. Historisch-kritische Ausgabe,
             begr. v. A. Beck, K. L. Schneider und H. Tiemann; hg. v. H. Gronemeyer, E.
             Höpker-Herberg, K. Hurlebusch und R.-M. Hurlebusch (bisher 42 Bde.; Berlin, New York
             1974ff.), I 2, S.&#x202F;357f.</anmerkung>
-        <akteur ref="klopstock" />
-        <akteur ref="lauson" unsicher="true" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="37" von="145" bis="146" />
         <kategorie ref="gedicht" />
         <kategorie ref="kommentar" />
-        <akteur ref="lindner-jg">ZH II, 257</akteur>
         <titel>Fremde Einfälle</titel>
+        <akteur ref="lindner-jg">ZH II, 257</akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="37" von="146" bis="147" />
@@ -1187,7 +1187,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="53" von="209" bis="211" />
-        <kategorie ="gedicht" />
+        <kategorie ref="gedicht" />
         <titel>Phantasie.</titel>
         <akteur ref="trescho">HBGA I, 26</akteur>
     </beitrag>
@@ -1294,8 +1294,8 @@
 
     <beitrag>
         <stueck datum="1764" nr="57" von="225" bis="226" />
-        <werk ref="london-magazine1758" s="S. 448" kat="uebersetzung" />
         <titel>Was sind Korallen?</titel>
+        <werk ref="london-magazine1758" s="S. 448" kat="uebersetzung" />
         <akteur ref="trembley-a" />
     </beitrag>
     <beitrag>
@@ -1443,8 +1443,8 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="61" von="239" />
-        <werk ref="barbe-fables" s="S. 110f." kat="rezension" />
         <titel>Trauerrede auf den Tod des Marschalls von Türenne. Aus dem Französischen.</titel>
+        <werk ref="barbe-fables" s="S. 110f." kat="rezension" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="61" von="243" bis="244" />
