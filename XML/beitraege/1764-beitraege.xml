@@ -31,7 +31,7 @@
         <vermerk>Bearbeitungsvermerk</vermerk>
     </beitrag> -->
     
-    <!-- Jahrgang 1764 -->
+<!-- Sonderfälle: -->
     <beitrag>
         <stueck datum="1764" />
         <kategorie ref="ineigenersache" />
@@ -41,6 +41,15 @@
         <akteur ref="kanter" />
         <anmerkung>Anzeige und Beschreibung des Zeitungsprojekts</anmerkung>
     </beitrag>
+	<beitrag>
+        <stueck datum="1764" />
+        <kategorie ref="proklamation" />
+        <titel>Wir Catharina die Zweyte, von Gottes Gnaden Kayserin und Selbstherrscherin aller Reußen thun hiemit jedermänniglich kund und zu wißen…</titel>
+        <akteur ref="katharina-ii" />
+        <anmerkung>Bericht über den versuchten Aufstand zur Befreiung Iwans VI und dessen Ermordung.</anmerkung>
+    </beitrag>
+	
+	<!-- Jg. 1764: -->
     <beitrag>
         <stueck datum="1764" nr="1" von="1" bis="2" />
         <kategorie ref="ineigenersache" />
