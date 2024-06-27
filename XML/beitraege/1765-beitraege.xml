@@ -32,6 +32,7 @@
     </beitrag> -->
     
     <!-- Jahrgang 1765 -->
+    <!-- 01 -->
     <beitrag>
         <stueck datum="1765" nr="1" von="1" bis="2" />
         <kategorie ref="aufsatz" />
@@ -51,6 +52,19 @@
     <beitrag>
         <stueck datum="1765" nr="1" von="4" />
         <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <!-- 02 -->
+    <beitrag>
+        <stueck datum="1765" nr="2" von="5" bis="6" />
+        <werk ref="toellner-gruende" kat="rezension" />
+        <ort ref="leipzig" />
+        <ort ref="zuellichau" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="2" von="6" bis="7" />
+        <werk ref="nicolai-literaturbriefe-XIX" kat="rezension" />
+        <ort ref="berlin" />
     </beitrag>
 
 </beitraege>
