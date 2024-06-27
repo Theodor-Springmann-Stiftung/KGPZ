@@ -76,4 +76,24 @@
         <kategorie ref="buecher" />
     </beitrag>
 
+    <!-- 03 -->
+    <beitrag>
+        <stueck datum="1764" nr="3" von="9" bis="11" />
+        <titel>Schreiben eines englischen jungen Geistlichen an einen deutschen Gelehrten. Aus dem Englischen übersetzt. London, den 9. März, 1764.</titel>
+        <vermerk>Unterzeichnet mit N. N.</vermerk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="3" von="11" bis="12" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="3" von="12" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="3" von="12" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
 </beitraege>
