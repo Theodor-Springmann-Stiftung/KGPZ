@@ -35,6 +35,7 @@
     <!-- 01 -->
     <beitrag>
         <stueck datum="1765" nr="1" von="1" bis="2" />
+		<stueck datum="1765" nr="2" von="5" bis="6" />
         <kategorie ref="aufsatz" />
         <incipit>Unsere Leser werden nichts weniger als statt der gewöhnlichen Wünsche…</incipit>
         <anmerkung>An die Leser anstatt eines Neujahrswunsches</anmerkung>
@@ -55,12 +56,6 @@
     </beitrag>
 
     <!-- 02 -->
-    <beitrag>
-        <stueck datum="1765" nr="2" von="5" bis="6" />
-        <werk ref="toellner-gruende" kat="rezension" />
-        <ort ref="leipzig" />
-        <ort ref="zuellichau" />
-    </beitrag>
     <beitrag>
         <stueck datum="1765" nr="2" von="6" bis="7" />
         <werk ref="nicolai-literaturbriefe-XIX" kat="rezension" />
