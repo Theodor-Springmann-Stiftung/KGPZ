@@ -66,5 +66,14 @@
         <werk ref="nicolai-literaturbriefe-XIX" kat="rezension" />
         <ort ref="berlin" />
     </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="2" von="7" bis="8" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="2" von="8" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
 
 </beitraege>
