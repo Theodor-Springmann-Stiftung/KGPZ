@@ -1546,7 +1546,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="65" von="257"/>
-        <titel>Lächerliche des Stolzes</titel>
+        <titel>Das Lächerliche des Stolzes.</titel>
         <werk kat="uebersetzung" ref="english-magazine"></werk>
     </beitrag>
     <beitrag>
@@ -1554,7 +1554,38 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="64" von="260" />
+        <stueck datum="1764" nr="65" von="260" />
         <kategorie ref="wechselkurse" />
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1764" nr="66" von="261" />
+        <werk ref="glueckselige-1764" kat="rezension" />
+        <ort ref="halle" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="66" von="261" bis="262" />
+        <werk ref="muessiggänger-1764" kat="rezension" />
+        <ort ref="zittau" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="66" von="262" />
+        <kategorie ref="aufsatz" />
+        <titel>Chimische Untersuchung einer Salzquelle in dem Dorfe Ponnau.</titel>
+        <akteur ref="hagen-h">Unterzeichnet mit „H.“, wohl für den Königsberger Apotheker Heinrich Hagen, Vater von Karl Gottfried Hagen, siehe  <wwwlink address="https://books.google.de/books?id=Bal-b4Hpp7AC">Neue Preußische Provinzial-Blätter 9 (1850), S. 51.</wwwlink></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="66" von="263" bis="264" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="66" von="264" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="66" von="264" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="lotterie" />
     </beitrag>
 </beitraege>
