@@ -34,4 +34,27 @@
         <stueck datum="1766" nr="2" von="10" />
         <kategorie ref="einkommende-fremde" />
     </beitrag>
+
+    <beitrag>
+        <stueck datum="1766" nr="3" von="11" bis="11" />
+        <kategorie ref="buecher" />
+        <titel>Fanny ou l'heureux repantir, histoire anglaise</titel>
+        <ort ref="dresde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="3" von="11" bis="12" />
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="3" von="12" bis="13" />
+        <kategorie ref="gedicht"/>
+        <titel>Gedichte eines jungen Frauenzimmers (</titel>
+        <ort ref="leipzig" />
+        <ort ref="rinteln"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="13" von="13" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
 </beitraege>
