@@ -1520,12 +1520,12 @@
 
     
     <beitrag>
-        <stueck datum="1764" nr="63" von="249" bis="250" />
+        <stueck datum="1764" nr="64" von="253" />
         <werk ref="brooke-mandeville" kat="rezension" />
         <ort ref="leipzig" />
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="63" von="249" bis="250" />
+        <stueck datum="1764" nr="64" von="253" />
         <werk ref="jussy-lettres" kat="rezension" />
         <ort ref="amsterdam" />
     </beitrag>
@@ -1537,5 +1537,24 @@
         <stueck datum="1764" nr="64" von="256" />
         <kategorie ref="avertissement" />
         <kategorie ref="buecher" />
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1764" nr="65" von="257" />
+        <werk ref="joachim-wahlrecht" kat="rezension" />
+        <ort ref="halle" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="65" von="257"/>
+        <titel>Lächerliche des Stolzes</titel>
+        <werk kat="uebersetzung" ref="english-magazine"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="65" von="259" bis="260" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="64" von="260" />
+        <kategorie ref="wechselkurse" />
     </beitrag>
 </beitraege>
