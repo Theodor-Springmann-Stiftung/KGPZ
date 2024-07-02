@@ -49,16 +49,38 @@
     <beitrag>
         <stueck datum="1766" nr="3" von="12" bis="13" />
         <kategorie ref="gedicht"/>
-        <titel>Gedichte eines jungen Frauenzimmers (</titel>
+        <titel>Gedichte eines jungen Frauenzimmers </titel>
         <ort ref="leipzig" />
-        <ort ref="rinteln"></ort>
+        <ort ref="rinteln" />
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="3" von="13" bis="14"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="3" von="14" />
         <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1766" nr="4" von="15" bis="16" />
+        <kategorie ref="gehlehrte-nachrichten"/>
+        <incipit>Jon. Christ. Alber, von der Klugheit des Bürgers...</incipit>
+        <ort ref="leipzig" />
+        <ort ref="helmstedt" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="4" von="16" bis="17" />
+        <kategorie ref="aufsatz"/>
+        <titel>Abhandlung vom Torf</titel>
+        <ort ref="copenhagen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="4" von="17" bis="18"/>
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="4" von="18"/>
+        <kategorie ref="einkommende fremde" />
     </beitrag>
 </beitraege>
