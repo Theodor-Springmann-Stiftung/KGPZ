@@ -36,7 +36,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1766" nr="3" von="11" bis="11" />
+        <stueck datum="1766" nr="3" von="11" />
         <kategorie ref="buecher" />
         <titel>Fanny ou l'heureux repantir, histoire anglaise</titel>
         <ort ref="dresde" />
@@ -54,7 +54,11 @@
         <ort ref="rinteln"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1766" nr="3" von="13" />
+        <stueck datum="1766" nr="3" von="13" bis="14"/>
         <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="3" von="14" />
+        <kategorie ref="wechselkurse" />
     </beitrag>
 </beitraege>
