@@ -37,9 +37,8 @@
 
     <beitrag>
         <stueck datum="1766" nr="3" von="11" />
-        <kategorie ref="buecher" />
-        <titel>Fanny ou l'heureux repantir, histoire anglaise</titel>
-        <ort ref="dresde" />
+        <werk kat="rezension" ref="fanny-histoire"></werk>
+        <ort ref="dresden" />
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="3" von="11" bis="12" />
