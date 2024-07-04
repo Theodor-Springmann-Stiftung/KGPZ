@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=04_07_2024_14:34</Creator>
+        <Created>2024-07-04T13:38:52.993+02:00</Created>
+        <LastChange>2024-07-04T14:39:11.729+02:00</LastChange>
+        <TranskribusMetadata docId="3138763" pageId="74529177" pageNr="1" tsid="176327177" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=CZYCTBEJIVHFFJAJFAGOWTOB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LJSDZGWMCQESSCPGHMTHDYPM" imageId="60349627"/>
+    </Metadata>
+    <Page imageFilename="74529177.jpg" imageWidth="2034" imageHeight="2755">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1720096751729" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_10"/>
+                <RegionRefIndexed index="1" regionRef="r_23"/>
+                <RegionRefIndexed index="2" regionRef="r_22"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_10" custom="readingOrder {index:0;}">
+            <Coords points="65,996 1860,1003 1861,1072 65,1072"/>
+            <TextLine id="r_10_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="419,1072 1510,1068 1447,996 419,1010"/>
+                <Baseline points="426,1044 471,1044 516,1044 561,1047 605,1050 650,1053 695,1053 740,1053 785,1053 829,1053 874,1056 919,1056 964,1053 1008,1053 1053,1053 1098,1056 1143,1056 1187,1056 1232,1053 1277,1053 1322,1053 1367,1053 1411,1050 1456,1053 1501,1056 1513,1056"/>
+                <TextEquiv>
+                    <Unicode>4tes Stück. Montag, den 13. Februar. 1764.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_23" custom="readingOrder {index:1;}">
+            <Coords points="954,2463 65,2463 65,1072 954,1072"/>
+            <TextLine id="r_23_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="374,1118 438,1123 475,1138 490,1125 525,1138 559,1125 582,1140 628,1136 638,1132 636,1074 609,1069 594,1080 548,1077 524,1087 477,1068 371,1069"/>
+                <Baseline points="382,1110 426,1116 471,1119 516,1119 561,1122 605,1122 641,1122"/>
+                <TextEquiv>
+                    <Unicode>Amsterdam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="113,1166 923,1194 936,1122 469,1138 110,1103"/>
+                <Baseline points="119,1152 164,1155 208,1158 253,1161 298,1161 343,1164 388,1164 432,1164 477,1167 522,1170 567,1173 611,1173 656,1173 701,1173 746,1173 790,1176 835,1176 880,1176 925,1179 940,1179"/>
+                <TextEquiv>
+                    <Unicode>De la Nature par Robinet. Tome Second. 1763.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="80,1186 616,1229 907,1227 932,1191 619,1176 585,1201 404,1170 360,1195 79,1163"/>
+                <Baseline points="86,1179 131,1181 176,1190 220,1196 265,1202 310,1202 355,1205 399,1205 444,1208 489,1208 534,1211 579,1211 623,1214 668,1211 713,1211 758,1214 802,1214 847,1214 892,1217 937,1214"/>
+                <TextEquiv>
+                    <Unicode>groß Octav. Seiten 443. Jn dem ersten Band=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="78,1235 752,1268 929,1262 937,1221 456,1225 75,1185"/>
+                <Baseline points="83,1220 128,1223 173,1229 217,1232 262,1235 307,1238 352,1241 396,1244 441,1244 486,1244 531,1247 576,1247 620,1247 665,1250 710,1250 755,1250 799,1253 844,1250 889,1253 934,1250 940,1250"/>
+                <TextEquiv>
+                    <Unicode>dieses Werkes sind schon 1761. vier Theile herausgekom=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="76,1268 937,1297 910,1257 76,1234"/>
+                <Baseline points="83,1259 128,1262 173,1265 217,1271 262,1274 307,1277 352,1280 396,1280 441,1280 486,1283 531,1283 576,1283 620,1286 665,1283 710,1286 755,1286 799,1289 844,1289 889,1289 934,1289 940,1289"/>
+                <TextEquiv>
+                    <Unicode>men, auf welche jetzt der fünfte folgt, der den zweyten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="78,1310 884,1344 942,1334 942,1296 76,1269"/>
+                <Baseline points="83,1295 128,1301 173,1304 217,1307 262,1310 307,1313 352,1316 396,1319 441,1319 486,1319 531,1322 576,1322 620,1322 665,1325 710,1325 755,1325 799,1325 844,1325 889,1328 934,1328 946,1325"/>
+                <TextEquiv>
+                    <Unicode>Band ausmacht, und zu einer Erläuterung des dritten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="76,1344 872,1378 933,1371 932,1336 75,1310"/>
+                <Baseline points="83,1334 128,1337 173,1340 217,1343 262,1349 307,1349 352,1352 396,1355 441,1355 486,1358 531,1358 576,1361 620,1361 665,1361 710,1361 755,1361 799,1364 844,1364 889,1364 934,1367 937,1367"/>
+                <TextEquiv>
+                    <Unicode>Hauptstücks im ersten Theile dienen soll, worinnen ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="82,1379 934,1413 933,1371 82,1345"/>
+                <Baseline points="89,1370 134,1376 179,1378 223,1384 268,1384 313,1387 358,1390 402,1390 447,1393 492,1396 537,1396 582,1399 626,1399 671,1399 716,1399 761,1399 805,1399 850,1402 895,1402 937,1399"/>
+                <TextEquiv>
+                    <Unicode>Gleichgewicht des Guten und Bösen in der Natur erhär=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="82,1414 944,1450 921,1409 82,1382"/>
+                <Baseline points="89,1408 134,1411 179,1414 223,1420 268,1420 313,1423 358,1426 402,1426 447,1429 492,1429 537,1432 582,1432 626,1435 671,1435 716,1435 761,1435 805,1435 850,1438 895,1438 940,1438 946,1435"/>
+                <TextEquiv>
+                    <Unicode>ter wurde. Der Innhalt des gegenwärtigen aber han=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="71,1450 160,1476 828,1485 941,1480 940,1447 385,1446 69,1408"/>
+                <Baseline points="77,1441 122,1444 167,1450 211,1453 256,1456 301,1459 346,1462 391,1465 435,1465 480,1465 525,1468 570,1468 614,1468 659,1468 704,1468 749,1471 793,1471 838,1474 883,1474 928,1471 943,1468"/>
+                <TextEquiv>
+                    <Unicode>delt von dem Urheber der Natur und seinen Eigenschaf=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="76,1481 741,1525 914,1520 932,1482 75,1452"/>
+                <Baseline points="83,1477 128,1480 173,1486 217,1489 262,1492 307,1492 352,1495 396,1498 441,1498 486,1498 531,1501 576,1501 620,1504 665,1504 710,1504 755,1507 799,1507 844,1507 889,1507 934,1507 937,1507"/>
+                <TextEquiv>
+                    <Unicode>ten. Wir können den Geist unsers Schriftstellers nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="76,1529 854,1571 940,1554 940,1523 75,1482"/>
+                <Baseline points="83,1507 128,1516 173,1522 217,1525 262,1528 307,1531 352,1531 396,1531 441,1534 486,1537 531,1537 576,1540 620,1540 665,1540 710,1540 755,1543 799,1543 844,1543 889,1546 934,1546 943,1543"/>
+                <TextEquiv>
+                    <Unicode>kürzer und aufrichtiger als mit seiner eigenen Schlußfolge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="78,1567 872,1602 928,1593 926,1550 76,1529"/>
+                <Baseline points="83,1543 125,1552 170,1558 214,1564 259,1564 304,1567 349,1567 393,1570 438,1573 483,1573 528,1575 573,1575 617,1575 662,1575 707,1578 752,1578 796,1578 841,1581 886,1581 931,1578"/>
+                <TextEquiv>
+                    <Unicode>mittheilen. Quelque chose a été faite; donc quel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="78,1609 842,1637 938,1629 937,1595 76,1567"/>
+                <Baseline points="83,1590 128,1593 173,1596 217,1602 262,1605 307,1608 352,1608 396,1611 441,1611 486,1614 531,1614 576,1614 620,1617 665,1620 710,1617 755,1620 799,1620 844,1623 889,1620 934,1623 940,1623"/>
+                <TextEquiv>
+                    <Unicode>que autre chose n’ a pas été faite; donc celle-ci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="76,1640 465,1678 940,1673 938,1629 520,1640 75,1602"/>
+                <Baseline points="83,1629 128,1635 173,1638 217,1641 262,1647 307,1650 352,1647 396,1650 441,1653 486,1653 531,1653 576,1653 620,1656 665,1659 710,1659 755,1659 799,1662 844,1662 889,1662 934,1662 943,1665"/>
+                <TextEquiv>
+                    <Unicode>a fait l'autre. C' est à quoi on devroit reduire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="79,1682 940,1715 938,1671 475,1680 350,1652 314,1676 78,1636"/>
+                <Baseline points="86,1674 131,1674 176,1680 220,1686 265,1689 310,1689 355,1689 399,1692 444,1695 489,1695 534,1695 579,1695 623,1698 668,1698 713,1701 758,1701 802,1704 847,1701 892,1704 937,1701 943,1701"/>
+                <TextEquiv>
+                    <Unicode>la Theologie naturelle. "Etwas ist gemacht; folg=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="99,1722 930,1757 929,1716 896,1708 409,1719 98,1681"/>
+                <Baseline points="107,1713 152,1719 196,1722 241,1728 286,1728 331,1731 376,1734 420,1734 465,1737 510,1737 555,1737 599,1737 644,1740 689,1743 734,1746 779,1746 823,1740 868,1746 913,1746 934,1743"/>
+                <TextEquiv>
+                    <Unicode>lich ist ein Etwas, das nicht gemacht ist; folglich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="91,1765 728,1787 726,1746 577,1761 90,1718"/>
+                <Baseline points="98,1749 143,1752 188,1758 232,1761 277,1764 322,1767 367,1770 411,1772 456,1772 501,1772 546,1775 590,1775 635,1778 680,1778 725,1778 731,1778"/>
+                <TextEquiv>
+                    <Unicode>"hat dies Etwas jenes Etwas gemacht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="806,1792 860,1790 870,1795 881,1784 891,1791 907,1787 934,1795 934,1758 910,1753 874,1765 860,1754 836,1754 824,1742 806,1745"/>
+                <Baseline points="814,1781 859,1781 904,1781 937,1781"/>
+                <TextEquiv>
+                    <Unicode>Auf ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="78,1801 903,1836 941,1826 940,1790 75,1758"/>
+                <Baseline points="83,1784 128,1790 173,1793 217,1796 262,1799 307,1802 352,1802 396,1808 441,1811 486,1811 531,1814 576,1814 620,1817 665,1817 710,1820 755,1820 799,1820 844,1820 889,1820 934,1820 943,1820"/>
+                <TextEquiv>
+                    <Unicode>quesque chose beruht der ganze Nachdruck dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="79,1836 855,1878 945,1873 944,1822 502,1837 78,1801"/>
+                <Baseline points="86,1826 131,1832 176,1832 220,1835 265,1838 310,1841 355,1847 399,1847 444,1850 489,1850 534,1853 579,1856 623,1853 668,1856 713,1856 758,1859 802,1859 847,1862 892,1859 937,1859 949,1856"/>
+                <TextEquiv>
+                    <Unicode>neuen Gottesgelahrtheit, und die Erklärung des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="76,1863 566,1919 937,1908 936,1869 76,1846"/>
+                <Baseline points="83,1862 128,1868 173,1868 217,1871 262,1874 307,1877 352,1880 396,1886 441,1886 486,1889 531,1892 576,1892 620,1895 665,1892 710,1895 755,1898 799,1898 844,1898 889,1901 934,1898 940,1895"/>
+                <TextEquiv>
+                    <Unicode>Schöpfers auf ein Etwas, das ohne selbst gemacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="86,1918 910,1952 936,1908 570,1922 83,1869"/>
+                <Baseline points="92,1901 137,1904 182,1907 226,1907 271,1910 316,1913 361,1916 405,1922 450,1925 495,1928 540,1931 585,1934 629,1931 674,1934 719,1934 764,1934 808,1934 853,1937 898,1937 940,1934"/>
+                <TextEquiv>
+                    <Unicode>zu seyn Etwas gemacht hat. In diesem erhabenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="80,1949 787,1988 933,1984 932,1948 79,1914"/>
+                <Baseline points="86,1940 131,1940 176,1943 220,1943 265,1946 310,1946 355,1952 399,1958 444,1961 489,1964 534,1967 579,1969 623,1969 668,1969 713,1969 758,1969 802,1969 847,1972 892,1972 937,1972 940,1969"/>
+                <TextEquiv>
+                    <Unicode>Begrif eines Etwas findt Herr Robinet theils Bewe=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="84,1987 937,2014 910,1976 83,1949"/>
+                <Baseline points="92,1972 137,1978 182,1978 226,1981 271,1984 316,1987 361,1990 405,1993 450,1999 495,2002 540,2002 585,2005 629,2005 674,2005 719,2005 764,2008 808,2008 853,2008 898,2011 940,2011"/>
+                <TextEquiv>
+                    <Unicode>gungsgründe der tiefsten Anbetung, theils den verdienst=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="80,2022 677,2066 938,2052 936,2014 79,1991"/>
+                <Baseline points="86,2008 131,2014 176,2017 220,2017 265,2020 310,2023 355,2026 399,2029 444,2035 489,2038 534,2041 579,2041 623,2041 668,2044 713,2044 758,2044 802,2047 847,2047 892,2047 937,2047 940,2047"/>
+                <TextEquiv>
+                    <Unicode>lichen Beruf zu einer sehr metaphysischen Bilderstürme=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="79,2058 930,2088 929,2055 78,2021"/>
+                <Baseline points="86,2044 131,2047 176,2050 220,2056 265,2056 310,2062 355,2062 399,2068 444,2071 489,2074 534,2077 579,2077 623,2080 668,2080 713,2080 758,2083 802,2083 847,2083 892,2083 934,2083"/>
+                <TextEquiv>
+                    <Unicode>rey; weil nemlich alle Eigenschaften, die man Gott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="86,2097 854,2138 938,2137 936,2093 84,2058"/>
+                <Baseline points="92,2086 137,2089 182,2089 226,2092 271,2095 316,2098 361,2098 405,2104 450,2107 495,2110 540,2113 585,2113 629,2116 674,2116 719,2119 764,2119 808,2119 853,2122 898,2122 940,2119"/>
+                <TextEquiv>
+                    <Unicode>zueignet, durch eine ungeschickte Analogie veranlaßt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="78,2131 806,2173 930,2165 937,2137 75,2094"/>
+                <Baseline points="83,2116 128,2122 173,2125 217,2128 262,2134 307,2134 352,2137 396,2140 441,2143 486,2149 531,2152 576,2152 620,2152 665,2152 710,2155 755,2155 799,2158 844,2158 889,2158 934,2158 940,2155"/>
+                <TextEquiv>
+                    <Unicode>werden, und entweder auf sinnliche Erscheinungen, oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="76,2160 938,2207 936,2164 76,2139"/>
+                <Baseline points="83,2152 128,2158 173,2164 217,2166 262,2169 307,2172 352,2172 396,2175 441,2181 486,2184 531,2187 576,2187 620,2187 665,2190 710,2190 755,2193 799,2193 844,2193 889,2196 934,2193 940,2190"/>
+                <TextEquiv>
+                    <Unicode>willkührliche Abstractionen, bie sich selbst aufheben, end¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="78,2200 842,2254 933,2239 932,2203 76,2169"/>
+                <Baseline points="83,2190 128,2193 173,2199 217,2205 262,2208 307,2208 352,2208 396,2211 441,2217 486,2220 531,2223 576,2226 620,2226 665,2226 710,2229 755,2229 799,2232 844,2232 889,2232 934,2232 937,2232"/>
+                <TextEquiv>
+                    <Unicode>lich hinauslaufen. Hierinnen besteht der gefährliche und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="78,2234 941,2282 938,2240 76,2199"/>
+                <Baseline points="83,2223 128,2226 173,2235 217,2241 262,2244 307,2244 352,2247 396,2247 441,2253 486,2256 531,2259 576,2259 620,2262 665,2265 710,2265 755,2268 799,2268 844,2268 889,2271 934,2268 943,2268"/>
+                <TextEquiv>
+                    <Unicode>dem Menschen angeborne Anthropomorphismus, durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="82,2268 816,2323 930,2322 929,2281 80,2234"/>
+                <Baseline points="89,2262 134,2268 179,2274 223,2277 268,2277 313,2283 358,2283 402,2286 447,2289 492,2292 537,2295 582,2298 626,2298 671,2298 716,2301 761,2301 805,2304 850,2307 895,2307 934,2307"/>
+                <TextEquiv>
+                    <Unicode>den bloße Verneinungen körperlicher Eigenschaften zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="84,2307 938,2357 919,2317 83,2270"/>
+                <Baseline points="92,2301 137,2307 182,2310 226,2313 271,2316 316,2319 361,2319 405,2322 450,2325 495,2328 540,2331 585,2334 629,2337 674,2337 719,2340 764,2340 808,2343 853,2343 898,2346 940,2343"/>
+                <TextEquiv>
+                    <Unicode>Character der Gottheit erdichtet, und sittliche Tugenden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="79,2376 790,2406 930,2388 929,2350 76,2315"/>
+                <Baseline points="83,2334 128,2343 173,2349 217,2352 262,2355 307,2358 352,2358 396,2361 441,2363 486,2366 531,2369 576,2372 620,2375 665,2378 710,2378 755,2378 799,2381 844,2381 889,2381 934,2381"/>
+                <TextEquiv>
+                    <Unicode>die doch auf die Bedürfniße der menschlichen Natur und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_22" custom="readingOrder {index:2;}">
+            <Coords points="1861,1072 1882,2463 954,2463 954,1072"/>
+            <TextLine id="r_22_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="975,1130 1824,1137 1824,1088 1726,1064 975,1084"/>
+                <Baseline points="982,1122 1020,1122 1065,1125 1110,1122 1155,1122 1199,1122 1244,1122 1289,1122 1334,1122 1378,1119 1423,1119 1468,1119 1513,1119 1558,1122 1602,1119 1647,1122 1692,1122 1737,1122 1781,1122 1826,1119"/>
+                <TextEquiv>
+                    <Unicode>Gesellschaft eingeschränkt, und dem höchsten Wesen eben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="976,1170 1825,1178 1825,1138 1791,1126 976,1132"/>
+                <Baseline points="984,1158 1029,1161 1074,1161 1119,1161 1164,1161 1208,1158 1253,1158 1298,1158 1343,1158 1387,1158 1432,1158 1477,1158 1522,1155 1567,1158 1611,1158 1656,1158 1701,1158 1746,1158 1790,1158 1829,1158"/>
+                <TextEquiv>
+                    <Unicode>so unanständig als unsere Gliedmaßen sind, in ein ko¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="971,1202 1826,1209 1826,1178 1779,1161 971,1166"/>
+                <Baseline points="979,1196 1023,1199 1068,1199 1113,1196 1158,1196 1202,1196 1247,1196 1292,1196 1337,1196 1381,1193 1426,1193 1471,1193 1516,1190 1561,1193 1605,1193 1650,1193 1695,1193 1740,1193 1784,1193 1829,1193"/>
+                <TextEquiv>
+                    <Unicode>loßisches Verhältniß gebracht und vergöttert worden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="976,1246 1825,1242 1826,1209 1772,1201 978,1204"/>
+                <Baseline points="984,1238 1023,1235 1068,1235 1113,1235 1158,1235 1202,1235 1247,1232 1292,1232 1337,1232 1381,1229 1426,1229 1471,1229 1516,1229 1561,1229 1605,1229 1650,1229 1695,1229 1740,1229 1784,1229 1829,1232"/>
+                <TextEquiv>
+                    <Unicode>Zu einem Schauspiel und Schlachtfelde dieser geistlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="968,1276 1824,1274 1824,1240 1580,1231 968,1258"/>
+                <Baseline points="976,1268 1020,1271 1065,1271 1110,1271 1155,1271 1199,1271 1244,1271 1289,1268 1334,1268 1378,1268 1423,1268 1468,1265 1513,1265 1558,1265 1602,1268 1647,1268 1692,1265 1737,1268 1781,1268 1826,1265"/>
+                <TextEquiv>
+                    <Unicode>Abgötterey ist diese Fortsetzung des Herrn Robinet be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="968,1319 1824,1314 1824,1274 1795,1270 968,1276"/>
+                <Baseline points="976,1310 1020,1307 1065,1307 1110,1307 1155,1307 1199,1307 1244,1307 1289,1307 1334,1307 1378,1304 1423,1304 1468,1301 1513,1301 1558,1301 1602,1304 1647,1304 1692,1304 1737,1304 1781,1304 1826,1307"/>
+                <TextEquiv>
+                    <Unicode>stimmt, der ja schon im 15ten Jahr seines Alters ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="968,1360 1824,1350 1824,1314 1726,1308 968,1319"/>
+                <Baseline points="976,1340 1020,1346 1065,1346 1110,1346 1155,1346 1199,1346 1244,1346 1289,1346 1334,1343 1378,1343 1423,1340 1468,1340 1513,1340 1558,1340 1602,1340 1647,1340 1692,1340 1737,1343 1781,1343 1826,1340"/>
+                <TextEquiv>
+                    <Unicode>philosophischer Fixstern erster Größe war, jetzt aber die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="975,1391 1825,1390 1825,1349 1696,1341 975,1357"/>
+                <Baseline points="982,1381 1023,1381 1068,1384 1113,1384 1158,1384 1202,1384 1247,1381 1292,1381 1337,1381 1381,1378 1426,1381 1471,1378 1516,1376 1561,1378 1605,1376 1650,1376 1695,1378 1740,1378 1784,1378 1829,1378"/>
+                <TextEquiv>
+                    <Unicode>Krücken eines Locke und Roußeau zu seinen Stelzen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="968,1427 1824,1431 1806,1384 968,1393"/>
+                <Baseline points="976,1420 1020,1420 1065,1420 1110,1420 1155,1420 1199,1420 1244,1417 1289,1417 1334,1420 1378,1417 1423,1417 1468,1417 1513,1414 1558,1417 1602,1414 1647,1414 1692,1417 1737,1417 1781,1414 1826,1414"/>
+                <TextEquiv>
+                    <Unicode>Waffen macht. — Fast eben so unvermuthet, als die Welt=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="968,1462 1817,1466 1786,1424 968,1427"/>
+                <Baseline points="976,1447 1020,1456 1065,1456 1110,1456 1155,1456 1199,1456 1244,1456 1289,1456 1334,1456 1378,1456 1423,1453 1468,1453 1513,1453 1558,1453 1602,1453 1647,1453 1692,1453 1737,1453 1781,1453 1820,1453"/>
+                <TextEquiv>
+                    <Unicode>Weisheit aus einer allgemeinen Wißenschaft des Mög¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="966,1499 1829,1501 1829,1462 966,1462"/>
+                <Baseline points="973,1486 1017,1489 1062,1492 1107,1489 1152,1486 1196,1486 1241,1489 1286,1489 1331,1489 1376,1489 1420,1492 1465,1489 1510,1489 1555,1489 1599,1489 1644,1489 1689,1492 1734,1492 1778,1489 1823,1492 1832,1492"/>
+                <TextEquiv>
+                    <Unicode>lichen zu einer allgemeinen Unwißenheit des Würcklichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="966,1537 1821,1535 1810,1499 966,1499"/>
+                <Baseline points="973,1522 1017,1525 1062,1525 1107,1525 1152,1525 1196,1525 1241,1525 1286,1525 1331,1525 1376,1522 1420,1525 1465,1522 1510,1522 1555,1522 1599,1528 1644,1525 1689,1525 1734,1525 1778,1528 1823,1528"/>
+                <TextEquiv>
+                    <Unicode>auszuarten anfängt, fast eben so unvermuthet werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="968,1565 1814,1569 1814,1538 1726,1530 968,1530"/>
+                <Baseline points="976,1561 1011,1564 1056,1564 1101,1561 1146,1564 1190,1561 1235,1561 1280,1561 1325,1561 1370,1561 1414,1561 1459,1558 1504,1558 1549,1558 1593,1555 1638,1558 1683,1558 1728,1558 1772,1561 1817,1558"/>
+                <TextEquiv>
+                    <Unicode>die Leser aus einem Irrgarten spitzfindiger Untersuchun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="966,1616 1821,1614 1821,1574 1772,1565 966,1575"/>
+                <Baseline points="973,1599 1017,1599 1062,1599 1107,1599 1152,1599 1196,1599 1241,1599 1286,1599 1331,1599 1376,1596 1420,1596 1465,1596 1510,1593 1555,1593 1599,1596 1644,1596 1689,1593 1734,1596 1778,1596 1823,1599"/>
+                <TextEquiv>
+                    <Unicode>gen des Unendlichen in das Zimmer des Autors versetzt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="968,1642 1820,1642 1802,1606 1696,1601 968,1613"/>
+                <Baseline points="976,1632 1020,1635 1065,1635 1110,1635 1155,1635 1199,1635 1244,1635 1289,1638 1334,1632 1378,1632 1423,1635 1468,1632 1513,1632 1558,1629 1602,1632 1647,1632 1692,1632 1737,1635 1781,1632 1823,1632"/>
+                <TextEquiv>
+                    <Unicode>und haben daselbst die Ehre dem Besuch eines Metaphy=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="966,1684 1821,1684 1822,1639 967,1643"/>
+                <Baseline points="973,1668 1017,1671 1062,1671 1107,1671 1152,1674 1196,1674 1241,1674 1286,1671 1331,1671 1376,1671 1420,1671 1465,1671 1510,1668 1555,1671 1599,1671 1644,1671 1689,1668 1734,1668 1778,1671 1823,1668"/>
+                <TextEquiv>
+                    <Unicode>sikers beyzuwohnen. — Auf einem so dornichten, aber auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="960,1716 1820,1718 1820,1682 1724,1674 960,1693"/>
+                <Baseline points="967,1707 1011,1707 1056,1710 1101,1710 1146,1710 1190,1710 1235,1710 1280,1710 1325,1713 1370,1710 1414,1707 1459,1707 1504,1707 1549,1707 1593,1707 1638,1704 1683,1707 1728,1704 1772,1707 1817,1707 1823,1707"/>
+                <TextEquiv>
+                    <Unicode>mit Blumen bestreuten Umwege vieler unnüͤtzen Fragen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="968,1757 1817,1754 1799,1714 968,1716"/>
+                <Baseline points="976,1743 1020,1746 1065,1746 1110,1746 1155,1746 1199,1746 1244,1746 1289,1746 1334,1746 1378,1743 1423,1746 1468,1746 1513,1743 1558,1743 1602,1743 1647,1743 1692,1743 1737,1743 1781,1746 1820,1743"/>
+                <TextEquiv>
+                    <Unicode>und Antworten, fährt der Verfaßer, unter abwechselndem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="966,1787 1829,1790 1829,1752 966,1754"/>
+                <Baseline points="973,1781 1017,1781 1062,1781 1107,1781 1152,1781 1196,1781 1241,1781 1286,1781 1331,1781 1376,1781 1420,1781 1465,1778 1510,1781 1555,1778 1599,1775 1644,1778 1689,1781 1734,1781 1778,1784 1823,1781 1832,1781"/>
+                <TextEquiv>
+                    <Unicode>Glücke, fort sich selbst zu überzeugen, daß es eine Läste¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="960,1828 1816,1833 1816,1790 960,1787"/>
+                <Baseline points="967,1817 1011,1820 1056,1817 1101,1817 1146,1817 1190,1820 1235,1820 1280,1817 1325,1817 1370,1817 1414,1817 1459,1814 1504,1817 1549,1814 1593,1814 1638,1811 1683,1817 1728,1817 1772,1820 1817,1820 1820,1817"/>
+                <TextEquiv>
+                    <Unicode>rung und Wiederspruch, wenigstens eine Thorheit und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="966,1865 1821,1871 1821,1837 1734,1824 966,1829"/>
+                <Baseline points="973,1853 1017,1856 1062,1856 1107,1856 1152,1856 1196,1853 1241,1856 1286,1853 1331,1853 1376,1853 1420,1853 1465,1853 1510,1850 1555,1850 1599,1853 1644,1853 1689,1853 1734,1853 1778,1856 1823,1856 1826,1853"/>
+                <TextEquiv>
+                    <Unicode>Vorurtheil sey, von Gott zu sagen: daß er denke, hande=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="960,1909 1817,1903 1807,1863 960,1865"/>
+                <Baseline points="967,1892 1011,1892 1056,1895 1101,1892 1146,1892 1190,1892 1235,1892 1280,1892 1325,1895 1370,1892 1414,1892 1459,1889 1504,1892 1549,1892 1593,1892 1638,1892 1683,1892 1728,1892 1772,1895 1817,1895 1820,1895"/>
+                <TextEquiv>
+                    <Unicode>le, weise, gütig und heilig sey. Weil dieser philosophische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="966,1942 1814,1945 1805,1901 966,1903"/>
+                <Baseline points="973,1931 1017,1934 1062,1931 1107,1931 1152,1931 1196,1928 1241,1931 1286,1931 1331,1931 1376,1931 1420,1928 1465,1928 1510,1931 1555,1928 1599,1928 1644,1928 1689,1931 1734,1931 1778,1931 1817,1931"/>
+                <TextEquiv>
+                    <Unicode>Bann nun die ganze menschliche Sprache unheilig macht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="963,1977 1820,1976 1820,1943 1716,1934 963,1941"/>
+                <Baseline points="970,1967 1014,1969 1059,1969 1104,1967 1149,1969 1193,1967 1238,1969 1283,1969 1328,1967 1373,1967 1417,1969 1462,1967 1507,1967 1552,1967 1596,1967 1641,1967 1686,1967 1731,1967 1775,1967 1820,1969 1823,1967"/>
+                <TextEquiv>
+                    <Unicode>und man gänzlich verzweifeln muß ein unentweyhtes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="960,2017 1817,2011 1790,1975 960,1976"/>
+                <Baseline points="967,2005 970,2005 1014,2005 1059,2005 1104,2002 1149,2002 1193,2005 1238,2005 1283,2005 1328,2005 1373,2005 1417,2005 1462,2002 1507,2002 1552,2002 1596,2005 1641,2002 1686,2002 1731,2002 1775,2005 1820,2002"/>
+                <TextEquiv>
+                    <Unicode>Beywort darinn zu finden, das dem Namen Gottes mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="963,2060 1814,2051 1798,2011 963,2022"/>
+                <Baseline points="970,2041 1014,2041 1059,2041 1104,2041 1149,2041 1193,2044 1238,2041 1283,2044 1328,2044 1373,2044 1417,2041 1462,2041 1507,2038 1552,2041 1596,2038 1641,2038 1686,2041 1731,2041 1775,2041 1817,2041"/>
+                <TextEquiv>
+                    <Unicode>gutem Gewißen zur Seiten stehen kann: so blieb nichts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="963,2090 1818,2090 1818,2054 1720,2044 963,2060"/>
+                <Baseline points="970,2080 1014,2080 1059,2077 1104,2077 1149,2080 1193,2080 1238,2080 1283,2080 1328,2080 1373,2080 1417,2080 1462,2080 1507,2080 1552,2077 1596,2077 1641,2074 1686,2077 1731,2080 1775,2077 1820,2080"/>
+                <TextEquiv>
+                    <Unicode>als das emphatische und eben so unschuldige Grundwort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="960,2128 1825,2131 1825,2090 1741,2085 960,2092"/>
+                <Baseline points="967,2113 1011,2116 1056,2116 1101,2116 1146,2116 1190,2116 1235,2116 1280,2119 1325,2119 1370,2119 1414,2116 1459,2116 1504,2116 1549,2116 1593,2113 1638,2113 1683,2113 1728,2116 1772,2116 1817,2119 1829,2119"/>
+                <TextEquiv>
+                    <Unicode>Etwas übrig, worinnen nach dem standhaften Bekennt¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="960,2161 1817,2164 1817,2131 1765,2123 960,2128"/>
+                <Baseline points="967,2152 1011,2152 1056,2152 1101,2152 1146,2152 1190,2155 1235,2155 1280,2155 1325,2155 1370,2152 1414,2152 1459,2152 1504,2152 1549,2152 1593,2152 1638,2149 1683,2149 1728,2155 1772,2155 1817,2155 1820,2155"/>
+                <TextEquiv>
+                    <Unicode>niß des Herrn Robinets die ganze Fülle der Gottheit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="960,2198 1816,2202 1803,2161 960,2162"/>
+                <Baseline points="967,2187 1011,2190 1056,2187 1101,2187 1146,2190 1190,2190 1235,2190 1280,2193 1325,2193 1370,2190 1414,2190 1459,2187 1504,2187 1549,2187 1593,2187 1638,2187 1683,2190 1728,2187 1772,2190 1817,2193 1820,2190"/>
+                <TextEquiv>
+                    <Unicode>wie in einer tauben Nußschaale, verborgen liegt. Daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="960,2237 1816,2234 1816,2200 1733,2188 960,2199"/>
+                <Baseline points="967,2226 1011,2223 1056,2226 1101,2226 1146,2226 1190,2226 1235,2229 1280,2229 1325,2229 1370,2226 1414,2226 1459,2223 1504,2223 1549,2226 1593,2223 1638,2226 1683,2226 1728,2226 1772,2226 1817,2226"/>
+                <TextEquiv>
+                    <Unicode>in den Neun und Achtzig Hauptstücken dieses Theils</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="963,2278 1814,2275 1814,2234 1776,2230 963,2237"/>
+                <Baseline points="970,2262 1014,2265 1059,2262 1104,2262 1149,2265 1193,2265 1238,2265 1283,2265 1328,2265 1373,2262 1417,2262 1462,2259 1507,2259 1552,2259 1596,2259 1641,2262 1686,2262 1731,2262 1775,2265 1817,2265"/>
+                <TextEquiv>
+                    <Unicode>nichts nachtheiliges gegen das Ansehen der heiligen Schrift</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="960,2316 1816,2316 1816,2275 1700,2267 960,2278"/>
+                <Baseline points="967,2301 1011,2301 1056,2301 1101,2301 1146,2301 1190,2301 1235,2304 1280,2304 1325,2301 1370,2301 1414,2298 1459,2298 1504,2298 1549,2298 1593,2298 1638,2298 1683,2301 1728,2301 1772,2301 1817,2298"/>
+                <TextEquiv>
+                    <Unicode>enthalten sey, wird noch in einem kleinen Anhange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="966,2349 1821,2346 1821,2307 1670,2301 966,2315"/>
+                <Baseline points="973,2337 1017,2337 1062,2337 1107,2340 1152,2340 1196,2340 1241,2340 1286,2340 1331,2340 1376,2337 1420,2337 1465,2334 1510,2337 1555,2337 1599,2337 1644,2337 1689,2337 1734,2337 1778,2340 1823,2340"/>
+                <TextEquiv>
+                    <Unicode>von zehn Absätzen worunter ein seltsames Gemälde vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="968,2396 1824,2387 1816,2346 968,2347"/>
+                <Baseline points="976,2378 1020,2375 1065,2375 1110,2375 1155,2378 1199,2378 1244,2378 1289,2378 1334,2378 1378,2378 1423,2375 1468,2375 1513,2375 1558,2375 1602,2375 1647,2378 1692,2378 1737,2378 1781,2375 1826,2375"/>
+                <TextEquiv>
+                    <Unicode>Gott der Juden, oben ein bewiesen. Die Bescheidenheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
