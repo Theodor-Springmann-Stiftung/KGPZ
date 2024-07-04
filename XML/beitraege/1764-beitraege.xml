@@ -1645,4 +1645,29 @@
         <kategorie ref="lotterie" />
         <anmerkung>Anzeige für eine Tontine zugunsten des Herzogtums Kleve und der Grafschaft Mark</anmerkung>
     </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="69" von="273" bis="274" />
+        <werk kat="rezension" ref="blakmore-schoepfung"></werk>
+        <ort ref="buetzow" />
+        <ort ref="wismar" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="69" von="274" />
+        <werk kat="rezension" ref="schlegel-trauerspiele"></werk>
+        <ort ref="kopenhagen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="69" von="274" bis="275" />
+        <werk kat="rezension" ref="zimmermann-arzneykunst"></werk>
+        <ort ref="zuerich" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="69" von="275" bis="276" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag> 
+    <beitrag>
+        <stueck datum="1764" nr="69" von="276" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
 </beitraege>

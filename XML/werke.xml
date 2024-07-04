@@ -949,5 +949,26 @@
         <url address="https://resolver.sub.uni-hamburg.de/kitodo/PPN885095790">Stabi Hamburg</url>
     </werk>
 
+    <werk id="blakmore-schoepfung">
+        <akteur ref="blackmore-r"></akteur>
+        <akteur ref="palthen-jf"></akteur>
+        <zitation>Die Schöpfung ein philosophisches Gedicht in sieben Büchern, aus dem Englischen des Herrn Richard Blakmore übersezt von Johann Franz von Palthen (Wismar, Bützow: Berger, Boedner 1764).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001BBFC00000000">Stabi Berlin</url>
+    </werk>
+
+    <werk id="schlegel-trauerspiele">
+        <akteur ref="schlegel-jh" />
+        <akteur ref="young-e" />
+        <akteur ref="thomson-j" />
+        <zitation>Trauerspiele aus dem Englischen übersetzt durch Johann Heinrich Schlegel (Kopenhagen, Leipzig: Pelt 1764).</zitation>
+        <url address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-280802">UB Heidelberg</url>
+    </werk>
+
+    <werk id="zimmermann-arzneykunst">
+        <akteur ref="zimmermann-jg" />
+        <zitation>Von der Erfahrung in der Arzneykunst (2 Bde., Zürich: Heidegger 1763–1764).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11107209-7">BSB München</url>
+    </werk>
+
 
 </werke>
