@@ -1594,7 +1594,7 @@
         <kategorie ref="gedicht" />
         <incipit>Contrabit vmbra diem, solisque remorior axit</incipit>
         <akteur ref="werner-jg"></akteur>
-        <ort ref="kgsb"></ort>
+        <ort ref="kgsb" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="67" von="266" />
@@ -1615,6 +1615,32 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="67" von="268" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="lotterie" />
+        <anmerkung>Anzeige für eine Tontine zugunsten des Herzogtums Kleve und der Grafschaft Mark</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="67" von="268" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="68" von="269" bis="270" />
+        <werk kat="rezension" ref="bock-soldaten"></werk>
+        <ort ref="hamburg" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="68" von="270" bis="271" />
+        <kategorie ref="aufsatz" />
+        <titel>Antwort auf das Schreiben im 59sten Stück der gelehrten und politischen Zeitung.</titel>
+        <anmerkung>Unterzeichnet mit „--|--“</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="68" von="271" bis="272" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="68" von="272" />
         <kategorie ref="avertissement" />
         <kategorie ref="lotterie" />
         <anmerkung>Anzeige für eine Tontine zugunsten des Herzogtums Kleve und der Grafschaft Mark</anmerkung>
