@@ -901,7 +901,7 @@
     </werk>
 
     <werk id="joachim-wahlrecht">
-        <akteur ref="joachim-jf"></akteur>
+        <akteur ref="joachim-jf" />
         <zitation>D. J. F. Joachim's Historische Abhandlung von dem Ursprunge des Wahlrechts im Königreiche Polen, und dessen bisherigen Gebrauch (Halle: Curt 1764).</zitation>
         <url address="https://books.google.de/books/about/D_J_F_Joachim_s_Historische_Abhandlung_v.html?id=tdRlAAAAcAAJ">Google Books</url>
     </werk>
@@ -916,22 +916,32 @@
     </werk>
 
     <werk id="muessiggänger-1764">
-        <akteur ref="johnson-s"></akteur>
+        <akteur ref="johnson-s" />
         <zitation>Der Müßiggänger, eine Sittenschrift, der Vernunft und Tugend gewiedmet. Aus dem Englischen übersetzt (2 Bde., Zittau, Leipzig: Schöpfens Wiwwe 1764).
         </zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10612950-2">BSB München</url>
     </werk>
 
     <werk id="arnaud-fanni">
-        <akteur ref="arnaud-ft"></akteur>
+        <akteur ref="arnaud-ft" />
         <zitation>Fanni, ou l’Heureux Repentir, Histoire Angloise (Dresden 1765).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3539906716">SLUB Dresden</url>
     </werk>
 
     <werk id="schroeckh-abbildungen3">
-        <akteur ref="schroeckh-jm"></akteur>
+        <akteur ref="schroeckh-jm" />
         <zitation>Abbildungen und Lebensbeschreibungen berühmter Gelehrten. Dritte Sammlung, mit welcher der Erste Band beschlossen, nebst 10 Kupfern (Leipzig: Hilscher 1765).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070899-0">BSB München</url>
+    </werk>
+
+    <werk id="beaumont-instructions">
+        <akteur ref="beaumont-jm" />
+        <zitation>Instructions pour les jeunes dames, qui entrent dans le Monde: se Marient: leurs devoirs dans cet Etat, et envers leurs Enfans. Tome 4 (Den Haag 1764).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11020597-0">BSB München</url>
+    </werk>
+
+    <werk id="schauplatz-liebe">
+        <zitation>Der Schauplatz der Liebe, ein Geschenk für mein Liebstes zum Neuen Jahr.</zitation>
     </werk>
 
 

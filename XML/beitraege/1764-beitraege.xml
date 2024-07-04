@@ -332,7 +332,7 @@
         <stueck datum="1764" nr="14" von="53" bis="54" />
         <kategorie ref="kommentar" />
         <kategorie ref="gedicht" />
-        <titel>Contrabit umbra diem, solique remorior axit</titel>
+        <titel>Jam cessere niues, cesserunt frigora brumse</titel>
         <akteur ref="werner-jg" />
         <ort ref="kgsb" />
     </beitrag>
@@ -1587,5 +1587,36 @@
         <stueck datum="1764" nr="66" von="264" />
         <kategorie ref="avertissement" />
         <kategorie ref="lotterie" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="67" von="265" bis="266"/>
+        <kategorie ref="gedicht" />
+        <incipit>Contrabit vmbra diem, solisque remorior axit</incipit>
+        <akteur ref="werner-jg"></akteur>
+        <ort ref="kgsb"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="67" von="266" />
+        <werk kat="rezension" ref="beaumont-instructions"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="67" von="266" bis="267"/>
+        <werk kat="rezension" ref="schauplatz-liebe"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="67" von="267" bis="268" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="67" von="268" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="67" von="268" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="lotterie" />
+        <anmerkung>Anzeige für eine Tontine zugunsten des Herzogtums Kleve und der Grafschaft Mark</anmerkung>
     </beitrag>
 </beitraege>
