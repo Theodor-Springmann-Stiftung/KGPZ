@@ -1548,7 +1548,7 @@
     <beitrag>
         <stueck datum="1764" nr="65" von="257"/>
         <titel>Das Lächerliche des Stolzes.</titel>
-        <werk kat="uebersetzung" ref="english-magazine"></werk>
+        <werk kat="uebersetzung" ref="english-magazine" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="65" von="259" bis="260" />
@@ -1599,11 +1599,11 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="67" von="266" />
-        <werk kat="rezension" ref="beaumont-instructions"></werk>
+        <werk kat="rezension" ref="beaumont-instructions" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="67" von="266" bis="267"/>
-        <werk kat="rezension" ref="schauplatz-liebe"></werk>
+        <werk kat="rezension" ref="schauplatz-liebe" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="67" von="267" bis="268" />
@@ -1627,7 +1627,7 @@
 
     <beitrag>
         <stueck datum="1764" nr="68" von="269" bis="270" />
-        <werk kat="rezension" ref="bock-soldaten"></werk>
+        <werk kat="rezension" ref="bock-soldaten" />
         <ort ref="hamburg" />
     </beitrag>
     <beitrag>
@@ -1650,18 +1650,18 @@
 
     <beitrag>
         <stueck datum="1764" nr="69" von="273" bis="274" />
-        <werk kat="rezension" ref="blakmore-schoepfung"></werk>
+        <werk kat="rezension" ref="blakmore-schoepfung" />
         <ort ref="buetzow" />
         <ort ref="wismar" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="69" von="274" />
-        <werk kat="rezension" ref="schlegel-trauerspiele"></werk>
+        <werk kat="rezension" ref="schlegel-trauerspiele" />
         <ort ref="kopenhagen" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="69" von="274" bis="275" />
-        <werk kat="rezension" ref="zimmermann-arzneykunst"></werk>
+        <werk kat="rezension" ref="zimmermann-arzneykunst" />
         <ort ref="zuerich" />
     </beitrag>
     <beitrag>
@@ -1681,18 +1681,18 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="70" von="277" bis="278" />
-        <werk kat="rezension" ref="recueil-esprit"></werk>
+        <werk kat="rezension" ref="recueil-esprit" />
         <ort ref="celle" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="70" von="274" />
-        <werk kat="rezension" ref="schubert-jugend"></werk>
+        <werk kat="rezension" ref="schubert-jugend" />
         <ort ref="helmstedt" />
         <ort ref="halle" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="70" von="274" bis="279" />
-        <werk kat="rezension" ref="arrian-hannon"></werk>
+        <werk kat="rezension" ref="arrian-hannon" />
         <ort ref="braunschweig" />
         <ort ref="wolfenbuettel" />
     </beitrag>
@@ -1714,12 +1714,12 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="71" von="282" />
-        <werk kat="rezension" ref="weidner-horaz"></werk>
+        <werk kat="rezension" ref="weidner-horaz" />
         <ort ref="leipzig" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="71" von="282" bis="283" />
-        <werk kat="rezension" ref="bodmer-cicero"></werk>
+        <werk kat="rezension" ref="bodmer-cicero" />
         <ort ref="zuerich" />
     </beitrag>
     <beitrag>
@@ -1751,7 +1751,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="73" von="290" />
-        <werk kat="rezension" ref="hofmann-antwort"></werk>
+        <werk kat="rezension" ref="hofmann-antwort" />
         <ort ref="wittenberg" />
     </beitrag>
     <beitrag>
@@ -1775,7 +1775,7 @@
 
     <beitrag>
         <stueck datum="1764" nr="74" von="294" />
-        <werk kat="rezension" ref="zueckert-reisebeschreibungen2"></werk>
+        <werk kat="rezension" ref="zueckert-reisebeschreibungen2" />
         <ort ref="berlin" />
     </beitrag>
     <beitrag>
@@ -1798,7 +1798,7 @@
         <stueck datum="1764" nr="76" von="301" bis="302" />
         <kategorie ref="kommentar" />
         <akteur ref="kanter" />
-        <werk kat="uebersetzung" ref="evrement-liebe"></werk>
+        <werk kat="uebersetzung" ref="evrement-liebe" />
         <akteur ref="hahn-e" unsicher="true" />
     </beitrag>
     
@@ -1814,5 +1814,63 @@
     <beitrag>
         <stueck datum="1764" nr="75" von="300" />
         <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="76" von="302" bis="303" />
+        <werk kat="rezension" ref="arist-frauenzimmer" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="76" von="303" bis="304" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="77" von="305" bis="307" />
+        <stueck datum="1764" nr="78" von="309" bis="311" />
+        <kategorie ref="aufsatz" />
+        <kategorie ref="uebersetzung" />
+        <titel>Von der Eitelkeit der Gelehrten. Aus dem Französischen.</titel>
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1764" nr="77" von="306" bis="307" />
+        <werk kat="rezension" ref="sturm-landleben" />
+        <ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="77" von="307" bis="308" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="77" von="308" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="proklamation" />
+        <anmerkung>Verordnung des Königlich Preußischen Hof-Postamts über die berliner reitende Post</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="77" von="308" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="78" von="310" bis="311" />
+        <werk kat="rezension" ref="cleone-elvire" />
+        <ort ref="zittau"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="78" von="311" bis="312" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="78" von="312" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="proklamation" />
+        <anmerkung>Verordnung des Königlich Preußischen Hof-Postamts über die berliner reitende Post</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="78" von="312" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
     </beitrag>
 </beitraege>
