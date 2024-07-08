@@ -1058,9 +1058,28 @@
     </werk>
 
     <werk id="buesching-nachrichten1">
-        <akteur ref="buesching"></akteur>
+        <akteur ref="buesching" />
         <zitation>Gelehrte Abhandlungen und Nachrichten aus und von Rußland, geliefert von der Schule der Sprachen, Künste und Wissenschaften bey der evangelischen St. Peterskirche zu St. Petersburg, und herausgegeben von derselben Director D. Anton Friedrich Büsching (2 Bde., Leipzig, Königsberg und Mitau: Kanter 1764–1765), Bd. 1.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10731616-0">BSB München</url>
+    </werk>
+
+    <werk id="bertram-gelahrtheit">
+        <akteur ref="bertram-pe" />
+        <zitation>Philipp Ernst Bertrams Entwurf einer Geschichte der Gelahrheit für diejenigen, welche sich den schönen Wissenschaften, der Weltweisheit und der Rechtsgelehrsamkeit widmen. Erster Theil (Halle: Gebauer 1764).</zitation>
+        <url address="https://books.google.de/books?id=ZsZbAAAAcAAJ">Google Books</url>
+    </werk>
+
+    <werk id="sturm-sonntag">
+        <akteur ref="sturm-cc"></akteur>
+        <zitation>Der Christ am Sonntage, eine moralische Wochenschrift zur Beförderung des innerlichen Gottesdienstes am Tage des Herrn (4 Bde., 1764–1766)., Bd. 1.</zitation>
+    </werk>
+
+    <werk id="sammlung-vermischter-kleiner-schriften">
+      <zitation>Sammlung vermischter kleiner Schriften. Erstes Stück (Bützow Wismar)</zitation>
+    </werk>
+
+    <werk id="fabeln-figuren">
+        <zitation>Fabeln und Erzählungen mit derselben Figuren (Berlin 1764).</zitation>
     </werk>
 
 

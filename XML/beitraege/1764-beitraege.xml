@@ -1955,14 +1955,16 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="80" von="317" bis="318" />
-        <werk kat="rezension" ref="" />
+        <stueck datum="1764" nr="82" von="326" bis="327" />
+        <stueck datum="1764" nr="83" von="329" bis="330" />
+        <werk kat="rezension" ref="sturm-sonntag" />
+        <akteur ref="herder">SWS I, 94–96</akteur>
         <ort ref="halle" />
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="80" von="317" bis="318" />
-        <werk kat="rezension" ref="" />
+        <stueck datum="1764" nr="82" von="325" />
+        <werk kat="rezension" ref="bertram-gelahrtheit" />
         <ort ref="halle" />
     </beitrag>
     <beitrag>
@@ -1978,6 +1980,31 @@
         <stueck datum="1764" nr="82" von="328" />
         <kategorie ref="avertissement" />
         <kategorie ref="proklamation" />
-        <anmerkung>Proklamation preußisch-polnischen Grenz-Postamts über den Postverkehr nach Warschau über Marienwerder</anmerkung>
+        <anmerkung>Proklamation des preußisch-polnischen Grenz-Postamts über den Postverkehr nach Warschau über Marienwerder</anmerkung>
     </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="83" von="330" />
+        <werk kat="rezension" ref="sammlung-vermischter-kleiner-schriften" />
+        <ort ref="buetzow" />
+        <ort ref="wismar" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="83" von="330" bis="331" />
+        <werk kat="rezension" ref="fabeln-figuren"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="83" von="331" bis="332" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="83" von="332" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="83" von="332" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
 </beitraege>
