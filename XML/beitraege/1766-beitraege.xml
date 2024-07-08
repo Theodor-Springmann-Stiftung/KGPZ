@@ -15,6 +15,7 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
 
+    <!-- 02 -->
     <beitrag>
         <stueck datum="1766" nr="2" von="7" bis="8" />
         <werk ref="belidor-lexicon" kat="rezension" />
@@ -35,6 +36,7 @@
         <kategorie ref="einkommende-fremde" />
     </beitrag>
 
+     <!-- 03 -->
     <beitrag>
         <stueck datum="1766" nr="3" von="11" />
         <werk kat="rezension" ref="fanny-histoire"></werk>
@@ -61,18 +63,17 @@
         <kategorie ref="wechselkurse" />
     </beitrag>
 
+     <!-- 04 -->
     <beitrag>
         <stueck datum="1766" nr="4" von="15" bis="16" />
-        <kategorie ref="gehlehrte-nachrichten"/>
-        <incipit>Jon. Christ. Alber, von der Klugheit des Bürgers...</incipit>
+        <werk kat="rezension" ref="klugheit-alber"></werk>
         <ort ref="leipzig" />
         <ort ref="helmstedt" />
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="4" von="16" bis="17" />
-        <kategorie ref="buecher"/>
-        <titel>Sören Abildgaards Abhandlung vom Dorf.</titel>
-        <ort ref="copenhagen" />
+        <werk kat="rezension" ref="abildgaard-abhandlung"></werk>
+        <ort ref="kopenhagen" /> 
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="4" von="17" bis="18"/>
