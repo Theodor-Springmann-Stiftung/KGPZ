@@ -50,7 +50,7 @@
     <beitrag>
         <stueck datum="1766" nr="3" von="12" bis="13" />
         <kategorie ref="gedicht"/>
-        <titel>Gedichte eines jungen Frauenzimmers </titel>
+        <titel>Gedichte eines jungen Frauenzimmers</titel>
         <ort ref="leipzig" />
         <ort ref="rinteln" />
     </beitrag>
@@ -67,7 +67,7 @@
     <beitrag>
         <stueck datum="1766" nr="4" von="15" bis="16" />
         <werk kat="rezension" ref="klugheit-alber"></werk>
-        <ort ref="leipzig" />
+        <ort ref="leipzig" /> 
         <ort ref="helmstedt" />
     </beitrag>
     <beitrag>
@@ -83,4 +83,20 @@
         <stueck datum="1766" nr="4" von="18"/>
         <kategorie ref="einkommende fremde" />
     </beitrag>
+
+<!-- 05 -->
+<beitrag>
+    <stueck datum="1766" nr="5" von="19" bis="20" />
+    <werk kat="rezension" ref="gruners-anweisung"></werk>
+    <ort ref="halle" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="5" von="20" bis="21" />
+    <werk kat="rezension" ref="hennings-abhandlung"></werk>
+    <ort ref="jena" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="5" von="21" />
+    <kategorie ref="weltnachrichten" />
+</beitrag>
 </beitraege>
