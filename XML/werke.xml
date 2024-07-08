@@ -922,8 +922,8 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10612950-2">BSB München</url>
     </werk>
 
-    <werk id="arnaud-fanni">
-        <akteur ref="arnaud-ft" />
+    <werk id="fanny-histoire">
+        <akteur ref="arnaud-ft" /> 
         <zitation>Fanni, ou l’Heureux Repentir, Histoire Angloise (Dresden 1765).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3539906716">SLUB Dresden</url>
     </werk>
@@ -931,13 +931,25 @@
     <werk id="klugheit-alber">
         <akteur ref="alber-jhn" />
         <zitation>Joh. Christ. Alber, von der Klugheit des Bürgers.</zitation>
-        <url address="https://katalog.slub-dresden.de/id/0-684226081">SLUB Dresden</url>
-    </werk>
+        <url address="https://www.google.de/books/edition/Von_der_Klugheit_des_Bürgers/8qbrrTTslUUC?hl=en&amp;gbpv=0">Google Books</url>
+    </werk> 
 
     <werk id="abildgaard-abhandlung">
         <akteur ref="abildgaard-s" /> 
-        <zitation>Sören Abildgaars Abhandlung vom Torf. Aus dem Dänischen. Kopenhagen (bei Mummens Witwe) 1765"</zitation>
-        <url address="https://katalog.slub-dresden.de/id/0-1087318157">SLUB Dresden</url>
+        <zitation>Sören Abildgaars Abhandlung vom Torf. Aus dem Dänischen. Kopenhagen (bei Mummens Witwe) 1765.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10293534-0">BSB München</url>
+    </werk>
+
+    <werk id="gruners-anweisung">
+        <akteur ref="gruners-jhn" /> 
+        <zitation>Gruners, Johann Friedrich, der Theologie ordentlichen Lehrer zu Halle. Anweisung zur geistlichen Beredsamkeit. Halle (bei Christoph Peter Franke).</zitation>
+    </werk>
+<!-- Ein Link muss hinzugefügt werden! -->
+
+    <werk id="hennings-abhandlung">
+        <akteur ref="hennings-jc" /> 
+        <zitation>Hennigs, J.C., moralisch und politisches Abhandlung von dem Weg zur Weisheit und Klugheit. Jena 1766.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043420-5">BSB München</url>
     </werk>
 
     <werk id="schroeckh-abbildungen3">
