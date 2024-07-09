@@ -93,19 +93,46 @@
 
     <!-- 04 -->
      <beitrag>
-        <stueck datum="1765" nr="4" von="13" bis="14" />
-        <werk ref="semler-beweisstellen" kat="rezension" />
+        <stueck datum="1765" nr="4" von="13" bis="14"/>
+        <werk ref="semler-beweisstellen" kat="rezension"/>
         <ort ref="halle"></ort>
      </beitrag>
      <beitrag>
         <stueck datum="1765" nr="4" von="14"/>
-        <werk ref="jacobi-abhandlungen" kat="rezension" />
+        <werk ref="jacobi-abhandlungen" kat="rezension"/>
         <ort ref="hannover"></ort>
      </beitrag>
      <beitrag>
         <stueck datum="1765" nr="4" von="14"/>
-        <werk ref="moser-schriften" kat="rezension" />
+        <werk ref="moser-schriften" kat="rezension"/>
         <ort ref="frankfurt"></ort>
      </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="4" von="14" bis="15"/>
+        <werk ref="mortimer-plutarch" kat="rezension"/>
+        <ort ref="leipzig"></ort>
+        <ort ref="zuellichau"></ort>
+     </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="4" von="15"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="neuchatel"></ort>
+        <anmerkung>Ankündigung der Werke Rousseaus</anmerkung>
+     </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="4" von="15"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="neuchatel"></ort>
+        <anmerkung>Ankündigung einer neuen Karte des Herzogtums Mecklenburg u.a.</anmerkung>
+     </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="4" von="15" bis="16"/>
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="4" von="16" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
 
 </beitraege>
