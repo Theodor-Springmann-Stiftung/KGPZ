@@ -230,8 +230,8 @@
     <beitrag>
         <stueck datum="1764" nr="9" von="34" bis="35" />
         <kategorie ref="gedicht" />
-        <werk ref="lenov-gedichte" kat="auszug" />
-        <werk ref="lenov-gedichte" kat="kommentar" />
+        <werk ref="gleim-gedichte" kat="auszug" />
+        <werk ref="gleim-gedichte" kat="kommentar" />
         <akteur ref="hamann" unsicher="true" />
         <ort ref="berlin" />
     </beitrag>
@@ -2109,6 +2109,102 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="87" von="348" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="88" von="349"/>
+        <werk kat="rezension" ref="lenov-zeitvertreib"></werk>
+        <ort ref="frankfurt"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="88" von="351" bis="352" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="88" von="352" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+
+
+    <beitrag>
+        <stueck datum="1764" nr="89" von="354" bis="355"/>
+        <stueck datum="1764" nr="91" von="362" bis="363"/>
+        <werk kat="rezension" ref="klotz-acta1"></werk>
+        <ort ref="altenburg"></ort>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="89" von="353" bis="354"/>
+        <kategorie ref="gedicht"></kategorie>
+        <kategorie ref="kommentar"></kategorie>
+        <titel>Ueber die Allwissenheit GOttes</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="89" von="354"/>
+        <werk kat="rezension" ref="stanislaus-philosophe"></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="89" von="355" bis="356" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="89" von="356" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="89" von="356" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="90" von="357" bis="358"/>
+        <kategorie ref="ineigenersache"></kategorie>
+        <akteur ref="kanter"></akteur>
+        <anmerkung>Über die Zukunft der Zeitung im nächsten Jahr, die Originalbeiträge und weitere Pläne Kanters.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="90" von="358"/>
+        <werk kat="rezension" ref="justi-handwerke1-3"></werk>
+        <ort ref="berlin"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="90" von="358" bis="359"/>
+        <werk kat="rezension" ref="neujahrsgeschenk-1765"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="90" von="359" bis="360" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="90" von="360" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+    
+    <beitrag>
+        <stueck datum="1764" nr="91" von="361"/>
+        <werk kat="rezension" ref="blainville-reisebeschreibung1-1"></werk>
+        <ort ref="lemgo"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="91" von="361" bis="362"/>
+        <werk kat="rezension" ref="vademecum-lustig"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="91" von="363" bis="364" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="91" von="364" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="91" von="364" />
         <kategorie ref="wechselkurse" />
     </beitrag>
 

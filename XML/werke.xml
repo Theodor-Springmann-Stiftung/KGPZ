@@ -77,8 +77,8 @@
         <url address="https://gdz.sub.uni-goettingen.de/id/PPN731784995">SUB Göttingen</url>
     </werk>
 
-    <werk id="lenov-gedichte">
-        <akteur ref="lenov" unsicher="true" />
+    <werk id="gleim-gedichte">
+        <akteur ref="gleim" unsicher="true" />
         <zitation>Sieben kleine Gedichte nach Anacreons Manier (Berlin 1764).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN637719743">SUB Göttingen</url>
     </werk>
@@ -1146,6 +1146,45 @@
     <werk id="gedichte-jungesfrauenzimmer">
         <zitation>Gedichte eines jungen Frauenzimmers (Leipzig, Rinteln: Barth 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10121948-6">BSB München</url>
+    </werk>
+
+    <werk id="lenov-zeitvertreib">
+        <akteur ref="lenov" />
+        <zitation>Zeitvertreib vor das Schöne Geschlecht (Frankfurt 1764).</zitation>
+    </werk>
+
+    <werk id="stanislaus-philosophe">
+        <akteur ref="stanislaus-i" />
+        <zitation>Œuvres Du Philosophe Bienfaisant (4 Bde., Leipzig 1764).</zitation>
+        <url address="http://dx.doi.org/10.25673/80774">ULB Halle</url>
+    </werk>
+
+    <werk id="klotz-acta1">
+        <akteur ref="klotz" />
+        <zitation>Acta litteraria. Scripsit Christ. Adolphvs Klotzivs, vol. 1, pars 1 (Altenburg 1764).</zitation>
+        <url address="https://books.google.de/books?id=3MdbAAAAcAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="justi-handwerke1-3">
+        <akteur ref="justi-jh" />
+        <zitation>Schauplatz der Künste und Handwerke, oder vollständige Beschreibung derselben, verfertiget oder gebilliget von denen Herren der Academie der Wissenschaften zu Paris. In das Teutsche übersetzt und mit Anmerkungen versehen von Johann Heinrich Gottlob von Justi, Bd. 1–3 (Berlin, Stettin, Leipzig: Rüdiger 1762–1764).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11224741-5" >BSB München, Bd. 1</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11224742-1" >BSB München, Bd. 2</url>
+        <url address="http://data.onb.ac.at/ABO/%2BZ158334600" >ÖNB, Bd. 3</url>
+    </werk>
+
+    <werk id="neujahrsgeschenk-1765">
+        <zitation>Neujahrsgeschenk für das schöne Geschlecht aufs Jahr 1765 (Berlin: Nicolai 1764).</zitation>
+    </werk>
+
+    <werk id="blainville-reisebeschreibung1-1">
+        <akteur ref="blainville-j" />
+        <zitation>Des Herrn von Blainville Reisebeschreibung durch Holland, Oberdeutschland und die Schweiz besonders aber durch Italien. Ersten Bandes erste Abtheilung (4 Bde., Lemgo: Meyer 1764–1767), Bd. 1, Abt. 1.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366570-5" >BSB München</url>
+    </werk>
+
+    <werk id="vademecum-lustig">
+        <zitation>Vade Mecum für lustige Leute, enthaltend eine Sammlung angenehmer Scherze, witziger Einfälle und spaßhafter kurzer Historien aus den besten Schriftstellern zusammengetragen (o.O. 1764).</zitation>
     </werk>
 
 
