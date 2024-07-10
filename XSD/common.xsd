@@ -106,7 +106,7 @@
     </xsd:attribute>
 
     <xsd:attribute name="beilage" type="xsd:positiveInteger"
-      use="required">
+      use="optional" default="1">
       <xsd:annotation>
         <xsd:documentation>Pflicht: Die Nummer der Beilage.</xsd:documentation>
       </xsd:annotation>
