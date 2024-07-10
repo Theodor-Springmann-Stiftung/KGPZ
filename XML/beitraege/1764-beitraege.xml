@@ -798,18 +798,20 @@
         <kategorie ref="avertissement" />
         <kategorie ref="buecher" />
     </beitrag>
-
-    <beitrag>
+    <beitrag id="klopstock-ode">
         <stueck datum="1764" nr="37" von="145" />
         <kategorie ref="gedicht" />
-        <kategorie ref="kommentar" />
         <titel>An Done, auf die Frage: Ob er sie wie Meta liebte?</titel>
         <akteur ref="klopstock" />
-        <akteur ref="lauson" unsicher="true" />
         <anmerkung>Erstdruck der Klopstock-Ode, vgl. Werke und Briefe. Historisch-kritische Ausgabe,
             begr. v. A. Beck, K. L. Schneider und H. Tiemann; hg. v. H. Gronemeyer, E.
             Höpker-Herberg, K. Hurlebusch und R.-M. Hurlebusch (bisher 42 Bde.; Berlin, New York
             1974ff.), I 2, S. 357f.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="37" von="145" />
+        <beitrag ref="klopstock-ode" kat="kommentar"/>
+        <akteur ref="lauson" unsicher="true" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="37" von="145" bis="146" />
