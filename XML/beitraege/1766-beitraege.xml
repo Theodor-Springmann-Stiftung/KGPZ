@@ -96,7 +96,28 @@
     <ort ref="jena" />
 </beitrag>
 <beitrag>
-    <stueck datum="1766" nr="5" von="21" />
+    <stueck datum="1766" nr="5" von="21" bis="22"/>
     <kategorie ref="weltnachrichten" />
+</beitrag>
+
+<!-- 06 -->
+<beitrag>
+    <stueck datum="1766" nr="6" von="23" bis="24" />
+    <werk kat="rezension" ref="vom-stande-briefe"></werk>
+    <ort ref="leipzig" />
+    <ort ref="breslau" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="6" von="24"/>
+    <werk kat="rezension" ref="nonnen-einleitung"></werk>
+    <ort ref="bremen" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="6" von="25" bis="26"/>
+    <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="6" von="26"/>
+    <kategorie ref="einkommende fremde" />
 </beitrag>
 </beitraege>
