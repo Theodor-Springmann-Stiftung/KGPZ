@@ -798,7 +798,7 @@
         <kategorie ref="avertissement" />
         <kategorie ref="buecher" />
     </beitrag>
-    <beitrag id="klopstock-ode">
+    <beitrag id="klopstock-done">
         <stueck datum="1764" nr="37" von="145" />
         <kategorie ref="gedicht" />
         <titel>An Done, auf die Frage: Ob er sie wie Meta liebte?</titel>
@@ -810,7 +810,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="37" von="145" />
-        <beitrag ref="klopstock-ode" kat="kommentar"/>
+        <beitrag ref="klopstock-done" kat="kommentar"/>
         <akteur ref="lauson" unsicher="true" />
     </beitrag>
     <beitrag>
@@ -940,8 +940,8 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="42" von="165" bis="167" />
-        <kategorie ref="leserbriefe" />
-        <anmerkung>von Vincenz Urban, V. U., vgl. ZH II, 263</anmerkung>
+        <kategorie ref="brief" />
+        <anmerkung>Leserbriefe von „Vincenz Urban“ und „V. U.“, vgl. ZH II, 263</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="42" von="167" bis="168" />
@@ -1386,10 +1386,9 @@
         <werk ref="crugot-abendgedanken" kat="anzeige" />
         <ort ref="sorau" />
     </beitrag>
-    <beitrag>
+    <beitrag id="schreiben-freund">
         <stueck datum="1764" nr="59" von="234" bis="235" />
         <kategorie ref="aufsatz" />
-        <kategorie ref="brief" />
         <titel>Schreiben an einen Freund.</titel>
         <anmerkung>Unterzeichnet „K.“</anmerkung>
     </beitrag>
@@ -1634,8 +1633,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="68" von="270" bis="271" />
-        <kategorie ref="aufsatz" />
-        <kategorie ref="brief" />
+        <beitrag kat="replik" ref="schreiben-freund"></beitrag>
         <titel>Antwort auf das Schreiben im 59sten Stück der gelehrten und politischen Zeitung.</titel>
         <anmerkung>Unterzeichnet mit „--|--“</anmerkung>
     </beitrag>
@@ -1733,7 +1731,7 @@
         <kategorie ref="wechselkurse" />
     </beitrag>
     
-    <beitrag>
+    <beitrag id="abhandlung-tanz">
         <stueck datum="1764" nr="72" von="285" bis="287" />
         <kategorie ref="aufsatz" />
         <titel>Abhandlung vom Tanze.</titel>
@@ -1795,13 +1793,19 @@
         <kategorie ref="buecher" />
     </beitrag>
     
-    <beitrag>
+    <beitrag id="hahn-evrement">
         <stueck datum="1764" nr="75" von="297" bis="299" />
-        <stueck datum="1764" nr="76" von="301" bis="302" />
-        <kategorie ref="kommentar" />
+        <stueck datum="1764" nr="76" von="302" bis="302" />
+        <werk kat="uebersetzung" ref="evrement-liebe" />
+        <akteur ref="hahn-e" unsicher="true">Von Kanter nur als eine „preußische Schöne“ bezeichnet.</akteur>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="75" von="297" />
+        <stueck datum="1764" nr="76" von="302" />
+        <beitrag kat="kommentar" ref="hahn-evrement"></beitrag>
         <akteur ref="kanter" />
         <werk kat="uebersetzung" ref="evrement-liebe" />
-        <akteur ref="hahn-e" unsicher="true" />
     </beitrag>
     
     <beitrag>
@@ -1880,8 +1884,8 @@
     <beitrag>
         <stueck datum="1764" nr="79" von="314" bis="315" />
         <stueck datum="1764" nr="81" von="321" bis="322" />
-        <kategorie ref="brief" />
-        <titel>Brief an den Verfasser der Abhandlung vom Tanze</titel>
+        <beitrag kat="replik" ref="abhandlung-tanz"></beitrag>
+        <titel>Brief an den Verfasser der Abhandlung vom Tanze.</titel>
         <anmerkung>Überschrift: Der folgende Brief an den Verfasser des 72sten Stücks unserer Zeitung, welches eine Abhandlung vom Tanze in sich begreift, ist uns von einer unbekannten Hand eingesendet worden; wir hoffen dadurch wenigstens einigen von unsern Lesern gefällig zu werden.</anmerkung>
     </beitrag>
     
