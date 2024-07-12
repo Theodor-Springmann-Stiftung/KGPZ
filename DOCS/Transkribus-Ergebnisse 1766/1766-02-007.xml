@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=12_07_2024_13:28</Creator>
+        <Created>2024-07-12T09:50:03.078+02:00</Created>
+        <LastChange>2024-07-12T13:32:53.375+02:00</LastChange>
+        <TranskribusMetadata docId="3247625" pageId="74850913" pageNr="5" tsid="177450042" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=NTICCKEDEGUFRXWCHAXBKHDU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=APZHLZNDJNYSLUUTRFJUQJKE" imageId="60645890"/>
+    </Metadata>
+    <Page imageFilename="74850913.jpg" imageWidth="2479" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1720783973375" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_23"/>
+                <RegionRefIndexed index="2" regionRef="r_24"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="693,1496 1768,1478 1775,1539 689,1556"/>
+            <TextLine id="r_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="794,1548 1641,1548 1673,1539 1675,1481 794,1500"/>
+                <Baseline points="806,1533 1275,1531 1319,1528 1364,1531 1409,1528 1454,1528 1499,1525 1543,1525 1588,1522 1633,1522 1678,1522"/>
+                <TextEquiv>
+                    <Unicode>2tes Stück. Montag, den 6. Jenner 1766.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_23" custom="readingOrder {index:1;}">
+            <Coords points="338,1608 1222,1586 1222,2682 367,2682"/>
+            <TextLine id="r_23_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="591,1638 626,1654 678,1641 706,1654 730,1638 816,1647 831,1634 846,1647 866,1636 939,1645 937,1595 898,1589 883,1602 786,1600 773,1610 747,1595 589,1604"/>
+                <Baseline points="603,1633 647,1633 692,1633 805,1638 944,1635"/>
+                <TextEquiv>
+                    <Unicode>Nürnberg 1765.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="386,1688 1192,1673 1192,1628 1066,1608 889,1647 389,1647"/>
+                <Baseline points="400,1684 409,1684 453,1684 498,1681 543,1681 588,1681 633,1678 677,1678 722,1678 767,1678 812,1675 1197,1668"/>
+                <TextEquiv>
+                    <Unicode>Von Belidors kurzgefaßtes Kriegs=Lexicor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="337,1740 1198,1716 1198,1673 451,1699 337,1669"/>
+                <Baseline points="349,1725 352,1725 397,1725 441,1725 486,1722 531,1722 576,1722 621,1719 665,1719 710,1716 755,1716 800,1716 845,1713 889,1713 1201,1705"/>
+                <TextEquiv>
+                    <Unicode>von den vornehmsten und gebräuchlichsten Kunst¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="350,1777 1051,1755 1136,1781 1192,1768 1194,1714 350,1736"/>
+                <Baseline points="361,1770 394,1767 438,1767 483,1764 528,1764 573,1764 618,1761 662,1758 707,1758 752,1758 797,1755 842,1755 886,1755 931,1752 976,1752 1021,1749 1066,1749 1110,1749 1155,1749 1200,1743"/>
+                <TextEquiv>
+                    <Unicode>wörtern der Kriegskunst, Fortification und Artille¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="341,1818 568,1805 611,1828 635,1805 969,1798 1002,1820 1077,1798 1077,1759 1049,1755 343,1777"/>
+                <Baseline points="352,1809 367,1809 412,1809 456,1806 501,1806 546,1806 591,1803 636,1803 680,1803 725,1800 770,1800 815,1800 859,1797 904,1794 949,1794 994,1794 1039,1791 1083,1788"/>
+                <TextEquiv>
+                    <Unicode>rie, übersetzt von Kratzenstein, mit Kupfern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="389,1859 1198,1837 1187,1768 1004,1818 391,1820"/>
+                <Baseline points="400,1845 441,1845 486,1845 531,1848 576,1845 621,1842 665,1842 710,1842 755,1839 800,1839 845,1836 889,1836 934,1833 979,1836 1024,1833 1069,1833 1113,1833 1158,1827 1203,1827"/>
+                <TextEquiv>
+                    <Unicode>Weitläuftige speculativische Werke und große</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="345,1900 630,1891 663,1915 697,1889 1198,1876 1164,1833 345,1854"/>
+                <Baseline points="358,1887 397,1887 441,1887 486,1887 531,1887 576,1887 621,1884 665,1884 710,1884 755,1881 800,1881 845,1878 889,1878 934,1875 979,1875 1024,1875 1069,1872 1113,1872 1158,1869 1203,1872"/>
+                <TextEquiv>
+                    <Unicode>Kriegsschulen sind nicht der rechte Weg, angehende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="345,1939 1207,1926 1207,1876 345,1900"/>
+                <Baseline points="358,1931 403,1928 447,1928 492,1928 537,1926 582,1926 627,1926 671,1923 716,1923 761,1923 806,1920 851,1920 895,1920 940,1920 985,1917 1030,1917 1074,1917 1119,1914 1164,1914 1209,1914"/>
+                <TextEquiv>
+                    <Unicode>Krieger zu bilden. Der Soldat ist in den meisten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="350,1986 1205,1967 1207,1923 350,1941"/>
+                <Baseline points="361,1970 403,1970 447,1970 492,1967 537,1967 582,1964 627,1964 671,1964 716,1964 761,1967 806,1964 851,1961 895,1961 940,1961 985,1958 1030,1958 1074,1955 1119,1955 1164,1952 1209,1958"/>
+                <TextEquiv>
+                    <Unicode>Diensten zu einem gewissen Mechanismus gewöhnt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="345,2025 1200,2010 1200,1967 1164,1958 345,1990"/>
+                <Baseline points="358,2015 400,2015 444,2015 489,2012 534,2009 579,2006 624,2006 668,2006 713,2006 758,2003 803,2003 848,2003 892,2003 937,2003 982,2003 1027,2000 1071,1997 1116,1997 1161,1994 1206,1997"/>
+                <TextEquiv>
+                    <Unicode>in dessen Genauigkeit oft die Unüberwindlichkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="341,2072 1196,2051 1198,2001 1146,1999 343,2029"/>
+                <Baseline points="352,2060 397,2057 441,2054 486,2054 531,2054 576,2051 621,2051 665,2051 710,2048 755,2045 800,2045 845,2042 889,2045 934,2045 979,2042 1024,2042 1069,2042 1113,2039 1158,2039 1203,2039"/>
+                <TextEquiv>
+                    <Unicode>ganzer Heere liegt. Herr von Belidor, dessen Na¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="345,2109 1198,2090 1198,2053 1131,2042 345,2070"/>
+                <Baseline points="358,2099 397,2099 441,2096 486,2096 531,2093 576,2093 621,2090 665,2090 710,2087 755,2087 800,2087 845,2084 889,2084 934,2084 979,2084 1024,2084 1069,2081 1113,2081 1158,2081 1203,2078"/>
+                <TextEquiv>
+                    <Unicode>me schon das Lob eines Buchs von der militairischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="345,2152 1196,2133 1198,2090 1144,2085 348,2109"/>
+                <Baseline points="358,2141 397,2141 441,2141 486,2138 531,2138 576,2135 621,2135 665,2132 710,2132 755,2129 800,2129 845,2126 889,2123 934,2126 979,2126 1024,2123 1069,2123 1113,2123 1158,2123 1203,2120"/>
+                <TextEquiv>
+                    <Unicode>Mathematik ausmacht, hat daher sehr rühmlich ge=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_16" custom="readingOrder {index:13;}">
+                <Coords points="350,2191 1202,2165 1202,2129 1133,2126 352,2157"/>
+                <Baseline points="364,2182 400,2182 444,2182 489,2179 534,2176 579,2176 624,2176 668,2173 713,2173 758,2170 803,2170 848,2164 892,2164 937,2164 982,2164 1027,2164 1071,2164 1116,2161 1161,2161 1206,2161"/>
+                <TextEquiv>
+                    <Unicode>than, daß er ein Dictionaire militaire herausgege¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_17" custom="readingOrder {index:14;}">
+                <Coords points="350,2239 1198,2206 1198,2165 352,2193"/>
+                <Baseline points="364,2224 397,2224 441,2224 486,2218 531,2218 576,2218 621,2215 665,2215 710,2215 755,2212 800,2209 845,2209 889,2209 934,2206 979,2206 1024,2206 1069,2206 1113,2203 1158,2203 1203,2203"/>
+                <TextEquiv>
+                    <Unicode>ben, so wie der Uebersetzer Dank verdient, daß er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_18" custom="readingOrder {index:15;}">
+                <Coords points="352,2273 1198,2256 1200,2219 352,2239"/>
+                <Baseline points="364,2263 397,2266 441,2266 486,2260 531,2260 576,2260 621,2260 665,2257 710,2257 755,2254 800,2254 845,2251 889,2251 934,2248 979,2248 1024,2245 1069,2245 1113,2245 1158,2242 1203,2242"/>
+                <TextEquiv>
+                    <Unicode>es dem Gebrauch der Soldaten einer Landmacht ac=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_19" custom="readingOrder {index:16;}">
+                <Coords points="358,2323 1205,2293 1179,2249 361,2280"/>
+                <Baseline points="370,2308 403,2308 447,2308 492,2305 537,2302 582,2302 627,2299 671,2302 716,2299 761,2296 806,2296 851,2296 895,2293 940,2290 985,2290 1030,2290 1074,2287 1119,2284 1164,2284 1209,2284"/>
+                <TextEquiv>
+                    <Unicode>comodiret. Die Leser vom Metier werden sich dar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_20" custom="readingOrder {index:17;}">
+                <Coords points="350,2360 2075,2327 2075,2282 1805,2275 350,2334"/>
+                <Baseline points="361,2350 400,2350 444,2350 489,2347 534,2344 579,2344 624,2341 668,2341 713,2341 758,2338 803,2338 848,2338 892,2335 937,2335 982,2332 1027,2332 1071,2329 1116,2329 1161,2326 1206,2329 1230,2326 1275,2329 1319,2326 1364,2326 1409,2326 1454,2326 1499,2326 1543,2323 1588,2323 1633,2320 1678,2320 1722,2320 1767,2320 1812,2317 1857,2317 1902,2317 1946,2317 1991,2314 2036,2314 2081,2314"/>
+                <TextEquiv>
+                    <Unicode>aus wohl unterrichten, sie werden Namens lernen, Kunstwörter keine Mühe gegeben, und wir glauben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_21" custom="readingOrder {index:18;}">
+                <Coords points="356,2448 1205,2422 1205,2381 1153,2372 358,2407"/>
+                <Baseline points="367,2436 403,2433 447,2430 492,2430 537,2427 582,2427 627,2427 671,2424 716,2424 761,2421 806,2421 851,2418 895,2418 940,2418 985,2415 1030,2415 1074,2415 1119,2412 1164,2412 1209,2415"/>
+                <TextEquiv>
+                    <Unicode>neten Dingen erhalten. Dieses ist für den Anfang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_22" custom="readingOrder {index:19;}">
+                <Coords points="352,2489 1205,2459 1177,2418 354,2450"/>
+                <Baseline points="364,2481 403,2475 447,2475 492,2472 537,2469 582,2469 627,2466 671,2466 716,2466 761,2463 806,2463 851,2463 895,2460 940,2460 985,2457 1030,2457 1074,2457 1119,2454 1164,2451 1209,2451"/>
+                <TextEquiv>
+                    <Unicode>genug. Wenn sie die Kunstwörterserst verstehen, wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_23" custom="readingOrder {index:20;}">
+                <Coords points="348,2524 1211,2508 1211,2457 1127,2454 350,2491"/>
+                <Baseline points="361,2517 364,2517 409,2517 453,2517 498,2514 543,2511 588,2511 633,2511 677,2508 722,2505 767,2505 812,2505 856,2505 901,2505 946,2499 991,2499 1036,2499 1080,2496 1125,2496 1170,2496 1215,2496"/>
+                <TextEquiv>
+                    <Unicode>ihnen das Lesen größerer Werke von der Kriegskunst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_24" custom="readingOrder {index:21;}">
+                <Coords points="356,2565 1205,2554 1181,2502 358,2524"/>
+                <Baseline points="367,2559 403,2559 447,2559 492,2556 537,2556 582,2553 627,2553 671,2550 716,2547 761,2547 806,2547 851,2544 895,2544 940,2541 985,2538 1030,2541 1074,2538 1119,2538 1164,2538 1209,2541"/>
+                <TextEquiv>
+                    <Unicode>weniger langweilig scheinen — Das angenehmste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_25" custom="readingOrder {index:22;}">
+                <Coords points="356,2610 1021,2606 1207,2584 1209,2554 356,2565"/>
+                <Baseline points="367,2597 406,2597 450,2597 495,2597 540,2594 585,2594 630,2591 674,2591 719,2588 764,2588 809,2585 854,2585 898,2585 943,2582 988,2582 1033,2582 1077,2582 1122,2579 1167,2579 1212,2576"/>
+                <TextEquiv>
+                    <Unicode>Buch in einer fremden Sprache ermüdet oft, wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_24" custom="readingOrder {index:2;}">
+            <Coords points="1222,1586 2151,1562 2171,2682 1222,2682"/>
+            <TextLine id="r_24_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1224,1630 1923,1634 2075,1623 2077,1578 1226,1580"/>
+                <Baseline points="1236,1621 1275,1621 1319,1621 1364,1621 1409,1621 1454,1621 1499,1621 1543,1618 1588,1618 1633,1615 1678,1615 1722,1615 1767,1615 1812,1612 1857,1612 1902,1612 1946,1612 1991,1612 2036,1612 2081,1615"/>
+                <TextEquiv>
+                    <Unicode>rien ziehen indessen weder Vaubans noch Turennen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1224,1680 2075,1662 2075,1623 2038,1617 1224,1636"/>
+                <Baseline points="1236,1663 1275,1663 1319,1663 1364,1663 1409,1663 1454,1663 1499,1660 1543,1660 1588,1660 1633,1657 1678,1657 1722,1657 1767,1654 1812,1654 1857,1651 1902,1654 1946,1651 1991,1651 2036,1651 2081,1651"/>
+                <TextEquiv>
+                    <Unicode>sie haben aber wenigstens den Vortheil, daß ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1222,1714 2083,1705 2085,1658 1919,1651 1224,1680"/>
+                <Baseline points="1233,1705 1236,1705 1281,1705 1325,1705 1370,1705 1415,1705 1460,1702 1504,1702 1549,1702 1594,1699 1639,1699 1684,1699 1728,1696 1773,1696 1818,1693 1863,1693 1908,1693 1952,1693 1997,1693 2042,1693 2087,1693"/>
+                <TextEquiv>
+                    <Unicode>Kenntniß für dem demüthigenden Lächerlichwerden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1226,1759 2046,1749 2070,1708 1228,1710"/>
+                <Baseline points="1239,1743 1269,1743 1313,1743 1358,1740 1403,1740 1448,1740 1493,1740 1537,1740 1582,1740 1627,1737 1672,1737 1716,1734 1761,1734 1806,1734 1851,1734 1896,1731 1940,1731 1985,1734 2030,1731 2075,1734"/>
+                <TextEquiv>
+                    <Unicode>bewahren. Ein gewisser General besah im Kriege</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1226,1798 2059,1787 2075,1749 1228,1749"/>
+                <Baseline points="1239,1785 1272,1785 1316,1782 1361,1782 1406,1782 1451,1782 1496,1782 1540,1782 1585,1779 1630,1776 1675,1776 1719,1776 1764,1776 1809,1776 1854,1773 1899,1773 1943,1773 1988,1773 2033,1773 2078,1770"/>
+                <TextEquiv>
+                    <Unicode>ein leichtes Retranchement und sagte, indem er ne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1230,1833 2072,1824 2072,1787 1967,1777 1233,1794"/>
+                <Baseline points="1242,1827 1272,1824 1316,1824 1361,1824 1406,1824 1451,1824 1496,1821 1540,1821 1585,1821 1630,1821 1675,1818 1719,1818 1764,1818 1809,1815 1854,1815 1899,1815 1943,1815 1988,1818 2033,1815 2078,1812"/>
+                <TextEquiv>
+                    <Unicode>ben der Wache und dem commandirenden Officier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1226,1880 2057,1867 2057,1833 2010,1822 1336,1848 1226,1828"/>
+                <Baseline points="1239,1872 1257,1869 1301,1869 1346,1866 1391,1866 1436,1866 1481,1866 1525,1866 1570,1863 1615,1863 1660,1860 1705,1860 1749,1860 1794,1857 1839,1857 1884,1857 1928,1857 1973,1857 2018,1857 2063,1857"/>
+                <TextEquiv>
+                    <Unicode>stand: die Schultern taugen den Teusel nicht -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1224,1915 2075,1906 2075,1872 2012,1861 1224,1880"/>
+                <Baseline points="1236,1911 1272,1911 1316,1911 1361,1911 1406,1908 1451,1908 1496,1908 1540,1908 1585,1905 1630,1905 1675,1905 1719,1902 1764,1902 1809,1899 1854,1899 1899,1899 1943,1899 1988,1902 2033,1899 2078,1899"/>
+                <TextEquiv>
+                    <Unicode>Der Officier hatte zum Unglück nur von Menschen=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1224,1962 2066,1954 2066,1906 1224,1917"/>
+                <Baseline points="1236,1955 1266,1955 1310,1952 1355,1952 1400,1949 1445,1949 1490,1949 1534,1949 1579,1949 1624,1946 1669,1946 1713,1943 1758,1943 1803,1943 1848,1940 1893,1940 1937,1937 1982,1940 2027,1940 2072,1940"/>
+                <TextEquiv>
+                    <Unicode>schultern reden gehört, und meynte der General</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1230,2005 2070,1997 2072,1956 1230,1962"/>
+                <Baseline points="1242,1997 1269,1994 1313,1994 1358,1991 1403,1991 1448,1991 1493,1991 1537,1991 1582,1988 1627,1988 1672,1988 1716,1985 1761,1985 1806,1982 1851,1982 1896,1982 1940,1982 1985,1982 2030,1982 2075,1979"/>
+                <TextEquiv>
+                    <Unicode>sprach von der Schildwache: hier ist seine Antwort:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1224,2040 2070,2034 2070,1995 2025,1988 1224,2005"/>
+                <Baseline points="1236,2036 1269,2036 1313,2036 1358,2036 1403,2033 1448,2033 1493,2033 1537,2033 1582,2030 1627,2030 1672,2030 1716,2027 1761,2024 1806,2024 1851,2024 1896,2024 1940,2021 1985,2021 2030,2021 2075,2021"/>
+                <TextEquiv>
+                    <Unicode>Gewiß Herr General, es ist eine Schande was die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1220,2094 2072,2075 2072,2034 1939,2027 1222,2038"/>
+                <Baseline points="1233,2081 1269,2078 1313,2078 1358,2075 1403,2075 1448,2075 1493,2075 1537,2075 1582,2072 1627,2072 1672,2069 1716,2069 1761,2069 1806,2066 1851,2066 1896,2066 1940,2066 1985,2063 2030,2063 2075,2063"/>
+                <TextEquiv>
+                    <Unicode>Regimenter den Grenadiren für schmales schwaches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1224,2124 1995,2124 2070,2116 2072,2075 1224,2088"/>
+                <Baseline points="1236,2120 1269,2120 1313,2117 1358,2117 1403,2117 1448,2117 1493,2114 1537,2117 1582,2114 1627,2114 1672,2111 1716,2111 1761,2108 1806,2108 1851,2108 1896,2108 1940,2108 1985,2108 2030,2108 2075,2108"/>
+                <TextEquiv>
+                    <Unicode>Krob abgeben — Der General wandte sich um, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1224,2174 2075,2157 2075,2118 2034,2111 1224,2129"/>
+                <Baseline points="1236,2164 1275,2161 1319,2161 1364,2161 1409,2158 1454,2158 1499,2158 1543,2155 1588,2155 1633,2155 1678,2152 1722,2152 1767,2149 1812,2149 1857,2149 1902,2146 1946,2146 1991,2146 2036,2146 2081,2146"/>
+                <TextEquiv>
+                    <Unicode>hätte gerne dem Officier Belidors Dictionaire mili¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1222,2208 2079,2200 2079,2154 1224,2174"/>
+                <Baseline points="1233,2203 1278,2203 1322,2206 1367,2203 1412,2200 1457,2200 1501,2200 1546,2197 1591,2197 1636,2197 1681,2194 1725,2194 1770,2191 1815,2191 1860,2191 1905,2191 1949,2191 1994,2188 2039,2188 2084,2188"/>
+                <TextEquiv>
+                    <Unicode>taire zum lesen geliehen, es war aber noch nicht über¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1226,2256 2077,2239 2077,2198 1990,2193 1226,2211"/>
+                <Baseline points="1239,2248 1278,2245 1322,2242 1367,2239 1391,2242 1409,2242 1454,2242 1499,2242 1543,2242 1588,2239 1633,2239 1678,2236 1722,2236 1767,2236 1812,2233 1857,2233 1902,2233 1946,2233 1991,2233 2036,2230 2081,2227"/>
+                <TextEquiv>
+                    <Unicode>setzt — Wir empfehlen gegenwärtige Schrift be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1230,2299 2075,2282 2075,2239 2016,2232 1230,2254"/>
+                <Baseline points="1242,2287 1275,2287 1319,2284 1364,2284 1409,2284 1454,2284 1499,2281 1543,2281 1588,2281 1633,2281 1678,2278 1722,2278 1767,2278 1812,2275 1857,2275 1902,2275 1946,2275 1991,2272 2036,2272 2081,2269"/>
+                <TextEquiv>
+                    <Unicode>stens, obgleich der Uebersetzer sich wegen deutscher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="356,2409 1971,2375 2072,2366 2075,2325 356,2364"/>
+                <Baseline points="367,2394 409,2391 453,2391 498,2388 543,2385 588,2385 633,2382 677,2382 722,2379 767,2379 812,2379 856,2376 901,2376 946,2373 991,2373 1036,2373 1080,2370 1125,2370 1170,2370 1215,2370 1236,2370 1275,2370 1319,2367 1364,2367 1409,2367 1454,2367 1499,2367 1543,2364 1588,2364 1633,2361 1678,2361 1722,2361 1767,2361 1812,2358 1857,2356 1902,2356 1946,2356 1991,2356 2036,2356 2081,2353"/>
+                <TextEquiv>
+                    <Unicode>und einen halb klaren Begrif von den damit bezeich: daß er sehr wohl gethan, weil ihm diese Arbeit mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="1226,2422 2075,2401 2075,2366 2031,2360 1453,2390 1228,2372"/>
+                <Baseline points="1239,2415 1275,2409 1319,2409 1364,2409 1409,2409 1454,2409 1499,2409 1543,2406 1588,2403 1633,2403 1678,2403 1722,2403 1767,2400 1812,2400 1857,2397 1902,2397 1946,2397 1991,2397 2036,2391 2081,2394"/>
+                <TextEquiv>
+                    <Unicode>gekostet hätte als sie nützlich geworden wäre. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1237,2457 2079,2450 2079,2401 1237,2416"/>
+                <Baseline points="1248,2451 1278,2451 1322,2451 1367,2448 1412,2451 1457,2448 1501,2448 1546,2448 1591,2448 1636,2445 1681,2445 1725,2445 1770,2445 1815,2442 1860,2439 1905,2439 1949,2439 1994,2436 2039,2436 2084,2433"/>
+                <TextEquiv>
+                    <Unicode>Theorie der Kriegskunst ist hauptsächlich französi=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1235,2504 2088,2489 2088,2452 2040,2442 1237,2457"/>
+                <Baseline points="1248,2493 1284,2493 1328,2493 1373,2493 1418,2493 1463,2493 1507,2490 1552,2490 1597,2487 1642,2487 1687,2487 1731,2484 1776,2484 1821,2484 1866,2481 1911,2478 1955,2478 2000,2478 2045,2478 2090,2478"/>
+                <TextEquiv>
+                    <Unicode>schen Ursprungs, man behalte aus Dankbarkeit ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1230,2543 2083,2537 2068,2487 1233,2504"/>
+                <Baseline points="1242,2535 1281,2535 1325,2535 1370,2535 1415,2535 1460,2532 1504,2532 1549,2532 1594,2529 1639,2529 1684,2526 1728,2526 1773,2523 1818,2523 1863,2520 1908,2520 1952,2520 1997,2520 2042,2520 2087,2520"/>
+                <TextEquiv>
+                    <Unicode>Kunstwörter, denn dadurch daß wir sie gut anwen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="1230,2586 2081,2573 2081,2537 2036,2526 1230,2543"/>
+                <Baseline points="1242,2576 1281,2576 1325,2576 1370,2576 1415,2576 1460,2573 1504,2573 1549,2573 1594,2570 1639,2570 1684,2570 1728,2568 1773,2565 1818,2565 1863,2562 1908,2562 1952,2562 1997,2562 2042,2565 2087,2562"/>
+                <TextEquiv>
+                    <Unicode>den lernen, thun wir ihren Helden eben keinen son¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="356,2647 781,2681 978,2651 1051,2688 1366,2625 1433,2673 1647,2653 1701,2688 1908,2616 2088,2619 2088,2571 1930,2565 356,2612"/>
+                <Baseline points="367,2642 409,2642 453,2642 498,2642 543,2642 588,2639 633,2636 677,2633 722,2633 767,2633 812,2630 856,2630 901,2627 946,2627 991,2627 1036,2624 1080,2624 1125,2621 1170,2621 1215,2618 1239,2621 1242,2621 1286,2618 1331,2621 1376,2618 1421,2618 1466,2618 1510,2618 1555,2615 1600,2615 1645,2612 1690,2612 1734,2609 1779,2609 1824,2606 1869,2606 1914,2606 1958,2606 2003,2603 2048,2603 2093,2603"/>
+                <TextEquiv>
+                    <Unicode>man zu ost zum Dietionaire laufen muß. Alle Theol derlichen Dienst. Man denke indessen nicht alles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_24_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="1958,2673 1969,2673 1977,2666 1993,2670 2010,2660 2055,2679 2062,2679 2070,2670 2085,2670 2085,2612 2046,2612 2034,2621 2018,2612 2003,2621 1958,2619"/>
+                <Baseline points="1970,2651 2000,2648 2045,2648 2090,2648"/>
+                <TextEquiv>
+                    <Unicode>gelernt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
