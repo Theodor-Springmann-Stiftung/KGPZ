@@ -39,14 +39,15 @@
         <titel>Nachricht.</titel>
         <akteur ref="hamann" />
         <akteur ref="kanter" />
-        <anmerkung>Anzeige und Beschreibung des Zeitungsprojekts</anmerkung>
+        <anmerkung>Anzeige und Beschreibung des Zeitungsprojekts, sechs Tage vor dem ersten Stück, am 28. Januar 1764 in Königsberg ausgegeben.</anmerkung>
     </beitrag>
 	<beitrag>
         <stueck datum="1764" />
         <kategorie ref="proklamation" />
         <titel>Wir Catharina die Zweyte, von Gottes Gnaden Kayserin und Selbstherrscherin aller Reußen thun hiemit jedermänniglich kund und zu wißen…</titel>
         <akteur ref="katharina-ii" />
-        <anmerkung>Bericht über den versuchten Aufstand zur Befreiung Iwans VI und dessen Ermordung.</anmerkung>
+        <anmerkung>Übersetzung eines Berichts über den versuchten Aufstand zur Befreiung Iwans VI und dessen Ermordung, gedruckt in St. Petersburg, 17. August 1764.</anmerkung>
+        <!-- unsicher, welchem Stück das beilag -->
     </beitrag>
 	
 	<!-- Jg. 1764: -->
@@ -2187,7 +2188,6 @@
         <kategorie ref="avertissement" />
         <kategorie ref="buecher" />
     </beitrag>
-
     
     <beitrag>
         <stueck datum="1764" nr="91" von="361"/>
@@ -2209,6 +2209,110 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="91" von="364" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="92" von="365" />
+        <werk kat="rezension" ref="meier-weltweisheit"></werk>
+        <ort ref="halle"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="92" von="365" bis="366"/>
+        <werk kat="rezension" ref="groeben-buechermanufactur"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="92" von="366" bis="367"/>
+        <werk kat="rezension" ref="grau-wundmittel"></werk>
+        <ort ref="lemgo"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="92" von="366" bis="367"/>
+        <kategorie ref="gedicht"></kategorie>
+        <titel>Der Mensch.</titel>
+        <anmerkung>Unterzeichnet „Y.“</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="92" von="367" bis="368" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="91" von="368" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1764" nr="93" von="369" bis="370"/>
+        <kategorie ref="gedicht"></kategorie>
+        <incipit>Floruit, incaluit, fructu maturuit annus</incipit>
+        <akteur ref="werner-jg"></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="93" von="370"/>
+        <kategorie ref="brief"></kategorie>
+        <incipit>Quem iudicem non feuerum mihi expetieram</incipit>
+        <akteur ref="werner-jg"></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="93" von="369" bis="370"/>
+        <kategorie ref="gedicht"></kategorie>
+        <titel>Der Abend.</titel>
+        <akteur ref="werner-jg"></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="93" von="370" bis="371"/>
+        <kategorie ref="aufsatz"></kategorie>
+        <incipit>Wir hoffen unsern Lesern ein wahres Vergnügen zu machen</incipit>
+        <anmerkung>Johann Gottfried von Werners</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="93" von="371" bis="372" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="93" von="372" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="93" von="372" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="94" von="373" bis="374"/>
+        <werk kat="rezension" ref="bar-babioles"></werk>
+        <ort ref="hamburg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="94" von="374" bis="375"/>
+        <kategorie ref="gedicht"></kategorie>
+        <titel>Der Neubekehrte. Eine Erzählung.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="94" von="375" bis="376" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="93" von="376" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="lokalanzeigen" />
+        <anmerkung>Für den englischen Pferdearzt Robertson in der vordersten Vorstadt.</anmerkung>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="95" von="377" bis="379"/>
+        <kategorie ref="aufsatz"></kategorie>
+        <titel>Prosaisches Gedicht über das Schicksal der Stadt Königsberg, den 11ten bis 13ten November, 1764, von J. F. Pelchau, aus Riga.</titel>
+        <akteur ref="poelchau-jf" unsicher="true" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="95" von="379" bis="380" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="95" von="380" />
         <kategorie ref="wechselkurse" />
     </beitrag>
 
