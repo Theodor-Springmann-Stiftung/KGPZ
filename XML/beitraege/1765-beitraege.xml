@@ -28,7 +28,7 @@
 
         ANMERKUNGEN etc. 
         <anmerkung>Anmerkung</anmerkung>
-        <vermerk>Bearbeitungsvermerk</vermerk>
+        <vermerk>Bearbeitungsvermerk</vermerk> = obsolet, ersetzt durch Kommentar-Tag
     </beitrag> -->
     
     <!-- Jahrgang 1765 -->
@@ -96,12 +96,12 @@
      <beitrag>
         <stueck datum="1765" nr="4" von="13" bis="14"/>
         <werk ref="semler-beweisstellen" kat="rezension"/>
-        <ort ref="halle"></ort>
+        <ort ref="halle"/>
      </beitrag>
      <beitrag>
         <stueck datum="1765" nr="4" von="14"/>
         <werk ref="jacobi-abhandlungen" kat="rezension"/>
-        <ort ref="hannover"></ort>
+        <ort ref="hannover"/>
      </beitrag>
      <beitrag>
         <stueck datum="1765" nr="4" von="14"/>
@@ -111,19 +111,19 @@
      <beitrag>
         <stueck datum="1765" nr="4" von="14" bis="15"/>
         <werk ref="mortimer-plutarch" kat="rezension"/>
-        <ort ref="leipzig"></ort>
+        <ort ref="leipzig"/>
         <ort ref="zuellichau"></ort>
      </beitrag>
      <beitrag>
         <stueck datum="1765" nr="4" von="15"/>
         <kategorie ref="gelehrte-nachrichten"/>
-        <ort ref="neuchatel"></ort>
+        <ort ref="neuchatel"/>
         <anmerkung>Ankündigung der Werke Rousseaus</anmerkung>
      </beitrag>
      <beitrag>
         <stueck datum="1765" nr="4" von="15"/>
         <kategorie ref="gelehrte-nachrichten"/>
-        <ort ref="neuchatel"></ort>
+        <ort ref="neuchatel"/> <!-- Ist hier auch ort = neuchatel, weil dieser Beitrag im Text durch Abteilungssternchen vom vorangehenden getrennt ist? -->
         <anmerkung>Ankündigung einer neuen Karte des Herzogtums Mecklenburg u.a.</anmerkung>
      </beitrag>
      <beitrag>
@@ -134,6 +134,26 @@
         <stueck datum="1765" nr="4" von="16" />
         <kategorie ref="avertissement" />
         <kategorie ref="buecher" />
+    </beitrag>
+
+    <!-- 05 -->
+    <beitrag>
+        <stueck datum="1765" nr="5" von="17" bis="19"/>
+        <kategorie ref="aufsatz"/>
+        <titel>Ob man aus der Vernunft die Verbesserung der Zeiten vermuthen könne</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="5" von="19" bis="20"/>
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="5" von="20" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="5" von="20" />
+        <kategorie ref="wechselkurse" />
     </beitrag>
 
 </beitraege>
