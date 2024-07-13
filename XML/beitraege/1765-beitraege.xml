@@ -31,8 +31,8 @@
         <vermerk>Bearbeitungsvermerk</vermerk> = obsolet, ersetzt durch Kommentar-Tag
     </beitrag> -->
     
-    <!-- Jahrgang 1765 -->
-    <!-- 01 -->
+    <!--Jahrgang 1765-->
+    <!--01-->
     <beitrag>
         <stueck datum="1765" nr="1" von="1" bis="2"/>
 		<stueck datum="1765" nr="2" von="5" bis="6"/>
@@ -55,7 +55,7 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <!-- 02 -->
+    <!--02-->
     <beitrag>
         <stueck datum="1765" nr="2" von="6" bis="7"/>
         <werk ref="nicolai-literaturbriefe-XIX" kat="rezension"/>
@@ -71,7 +71,7 @@
         <kategorie ref="buecher"/>
     </beitrag>
 
-    <!-- 03 -->
+    <!--03-->
     <beitrag>
         <stueck datum="1765" nr="3" von="9" bis="11"/>
         <kategorie ref="brief"/>
@@ -92,7 +92,7 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <!-- 04 -->
+    <!--04-->
      <beitrag>
         <stueck datum="1765" nr="4" von="13" bis="14"/>
         <werk ref="semler-beweisstellen" kat="rezension"/>
@@ -123,7 +123,7 @@
      <beitrag>
         <stueck datum="1765" nr="4" von="15"/>
         <kategorie ref="gelehrte-nachrichten"/>
-        <ort ref="neuchatel"/> <!-- Ist hier auch ort = neuchatel, weil dieser Beitrag im Text durch Abteilungssternchen vom vorangehenden getrennt ist? -->
+        <ort ref="neuchatel"/> <!-- Ist hier auch ort = neuchatel, weil dieser Beitrag im Text durch Abteilungssternchen vom vorangehenden getrennt ist? Oder gilt ort = unbekannt (also ohne ort-tag)? -->
         <anmerkung>Ankündigung einer neuen Karte des Herzogtums Mecklenburg u.a.</anmerkung>
      </beitrag>
      <beitrag>
@@ -136,7 +136,7 @@
         <kategorie ref="buecher"/>
     </beitrag>
 
-    <!-- 05 -->
+    <!--05-->
     <beitrag>
         <stueck datum="1765" nr="5" von="17" bis="19"/>
         <stueck datum="1765" nr="6" von="21" bis="23"/>
@@ -157,7 +157,7 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <!-- 06 -->
+    <!--06-->
     <beitrag>
         <stueck datum="1765" nr="6" von="23" bis="24"/>
         <kategorie ref="weltnachrichten"/>
@@ -168,7 +168,7 @@
         <kategorie ref="buecher"/>
     </beitrag>
 
-    <!-- 07 -->
+    <!--07-->
     <beitrag>
         <stueck datum="1765" nr="7" von="25" bis="26"/>
         <kategorie ref="panegyrik"/>
@@ -188,7 +188,32 @@
         <stueck datum="1765" nr="7" von="28"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
-        
-    <!-- 08 -->
+
+    <!--08-->
+    <beitrag>
+        <stueck datum="1765" nr="8" von="29" bis="30"/>
+        <werk ref="bremisches-magazin" kat="rezension"/>
+        <ort ref="bremen"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="8" von="30"/>
+        <werk ref="lange-sendschreiben" kat="rezension"/>
+        <!-- Wie oben: ort = unbekannt? -->
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="8" von="30" bis="31"/>
+        <werk ref="juengerer-eulenspiegel" kat="rezension"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="31" von="32"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="6" von="32"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
+        <kategorie ref="anzeige"/>
+    </beitrag>
 
 </beitraege>
