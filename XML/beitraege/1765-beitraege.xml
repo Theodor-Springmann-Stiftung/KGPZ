@@ -139,6 +139,7 @@
     <!-- 05 -->
     <beitrag>
         <stueck datum="1765" nr="5" von="17" bis="19"/>
+        <stueck datum="1765" nr="6" von="21" bis="23" />
         <kategorie ref="aufsatz"/>
         <titel>Ob man aus der Vernunft die Verbesserung der Zeiten vermuthen könne</titel>
     </beitrag>
@@ -154,6 +155,17 @@
     <beitrag>
         <stueck datum="1765" nr="5" von="20" />
         <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <!-- 06 -->
+    <beitrag>
+        <stueck datum="1765" nr="6" von="23" bis="24"/>
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="6" von="24" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
     </beitrag>
 
 </beitraege>
