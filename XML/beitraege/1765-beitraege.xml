@@ -8,11 +8,11 @@
         Es kann mehrere Kategorien geben
 
         ALLGEMEINE METADATEN
-        <stueck datum="1752" nr="23" von="2" bis="3" />
-        <stueck datum="1799" nr="12" von="5" />
-        <beilage datum="1752" nr="23" beilage="1" />
-        <kategorie ref="kategorie" />
-        <kategorie ref="kategorie2" />
+        <stueck datum="1752" nr="23" von="2" bis="3"/>
+        <stueck datum="1799" nr="12" von="5"/>
+        <beilage datum="1752" nr="23" beilage="1"/>
+        <kategorie ref="kategorie"/>
+        <kategorie ref="kategorie2"/>
 
         TITEL & INCIPIT 
         <titel>Was</titel>
@@ -22,7 +22,7 @@
         <ort ref="ort">Die Zuordung eines Beitrags zu einem Ort kann annotiert werden</ort>
         <akteur ref="akteur">Die Zuordnung eines Beitrags zu einem Akteur kann annotiert werden</akteur>
         oder auch nicht: 
-        <akteur ref="einstein" />
+        <akteur ref="einstein"/>
         <werk ref="werk" kat="rezension">Auch die Zuordnung zu einer Werkrezension kann annotiert
     werden</werk>
 
@@ -34,62 +34,62 @@
     <!-- Jahrgang 1765 -->
     <!-- 01 -->
     <beitrag>
-        <stueck datum="1765" nr="1" von="1" bis="2" />
-		<stueck datum="1765" nr="2" von="5" bis="6" />
-        <kategorie ref="aufsatz" />
+        <stueck datum="1765" nr="1" von="1" bis="2"/>
+		<stueck datum="1765" nr="2" von="5" bis="6"/>
+        <kategorie ref="aufsatz"/>
         <incipit>Unsere Leser werden nichts weniger als statt der gewöhnlichen Wünsche…</incipit>
         <anmerkung>An die Leser anstatt eines Neujahrswunsches</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="1" von="2" bis="3" />
-        <werk ref="toellner-gruende" kat="rezension" />
-        <ort ref="leipzig" />
-        <ort ref="zuellichau" />
+        <stueck datum="1765" nr="1" von="2" bis="3"/>
+        <werk ref="toellner-gruende" kat="rezension"/>
+        <ort ref="leipzig"/>
+        <ort ref="zuellichau"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="1" von="3" bis="4" />
-        <kategorie ref="weltnachrichten" />
+        <stueck datum="1765" nr="1" von="3" bis="4"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="1" von="4" />
-        <kategorie ref="wechselkurse" />
+        <stueck datum="1765" nr="1" von="4"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 02 -->
     <beitrag>
-        <stueck datum="1765" nr="2" von="6" bis="7" />
-        <werk ref="nicolai-literaturbriefe-XIX" kat="rezension" />
-        <ort ref="berlin" />
+        <stueck datum="1765" nr="2" von="6" bis="7"/>
+        <werk ref="nicolai-literaturbriefe-XIX" kat="rezension"/>
+        <ort ref="berlin"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="2" von="7" bis="8" />
-        <kategorie ref="weltnachrichten" />
+        <stueck datum="1765" nr="2" von="7" bis="8"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="2" von="8" />
-        <kategorie ref="avertissement" />
-        <kategorie ref="buecher" />
+        <stueck datum="1765" nr="2" von="8"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
     <!-- 03 -->
     <beitrag>
-        <stueck datum="1765" nr="3" von="9" bis="11" />
-        <kategorie ref="brief" />
+        <stueck datum="1765" nr="3" von="9" bis="11"/>
+        <kategorie ref="brief"/>
         <titel>Schreiben eines englischen jungen Geistlichen an einen deutschen Gelehrten. Aus dem Englischen übersetzt. London, den 9. März, 1764.</titel>
         <anmerkung>Unterzeichnet mit N. N.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="3" von="11" bis="12" />
-        <kategorie ref="weltnachrichten" />
+        <stueck datum="1765" nr="3" von="11" bis="12"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="3" von="12" />
-        <kategorie ref="avertissement" />
-        <kategorie ref="lokalanzeigen" />
+        <stueck datum="1765" nr="3" von="12"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="3" von="12" />
-        <kategorie ref="wechselkurse" />
+        <stueck datum="1765" nr="3" von="12"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 04 -->
@@ -128,44 +128,65 @@
      </beitrag>
      <beitrag>
         <stueck datum="1765" nr="4" von="15" bis="16"/>
-        <kategorie ref="weltnachrichten" />
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="4" von="16" />
-        <kategorie ref="avertissement" />
-        <kategorie ref="buecher" />
+        <stueck datum="1765" nr="4" von="16"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
     <!-- 05 -->
     <beitrag>
         <stueck datum="1765" nr="5" von="17" bis="19"/>
-        <stueck datum="1765" nr="6" von="21" bis="23" />
+        <stueck datum="1765" nr="6" von="21" bis="23"/>
         <kategorie ref="aufsatz"/>
         <titel>Ob man aus der Vernunft die Verbesserung der Zeiten vermuthen könne</titel>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="5" von="19" bis="20"/>
-        <kategorie ref="weltnachrichten" />
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="5" von="20" />
-        <kategorie ref="avertissement" />
-        <kategorie ref="buecher" />
+        <stueck datum="1765" nr="5" von="20"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="5" von="20" />
-        <kategorie ref="wechselkurse" />
+        <stueck datum="1765" nr="5" von="20"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 06 -->
     <beitrag>
         <stueck datum="1765" nr="6" von="23" bis="24"/>
-        <kategorie ref="weltnachrichten" />
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="6" von="24" />
-        <kategorie ref="avertissement" />
-        <kategorie ref="buecher" />
+        <stueck datum="1765" nr="6" von="24"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+
+    <!-- 07 -->
+    <beitrag>
+        <stueck datum="1765" nr="7" von="25" bis="26"/>
+        <kategorie ref="panegyrik"/>
+        <titel>Ode am Geburtstage des Königs</titel>
+        <akteur ref="hippel"></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="7" von="26" bis="27"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <anmerkung>Nachricht über die Feiern der Königsberger Akademie anlässlich der Krönung Friedrichs I. und des Geburtstages Friedrichs II.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="7" von="28"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="7" von="28"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 </beitraege>
