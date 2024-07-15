@@ -123,4 +123,56 @@
     <stueck datum="1766" nr="6" von="26"/>
     <kategorie ref="einkommende fremde" />
 </beitrag>
+
+<!-- 07 -->
+<beitrag>
+    <stueck datum="1766" nr="7" von="27" bis="28" />
+    <werk kat="rezension" ref="sendschreiben-abbt"></werk>
+    <ort ref="danzig" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="7" von="28" bis="29" />
+    <werk kat="rezension" ref="neue-bibliothek-weiße"></werk>
+    <ort ref="leipzig" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="7" von="29" bis="30"/>
+    <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="7" von="30"/>
+    <kategorie ref="wechselkurse" />
+</beitrag>
+
+<!-- 08 -->
+<beitrag>
+    <stueck datum="1766" nr="8" von="31" bis="32" />
+    <werk kat="rezension" ref="horams-morell"></werk>
+    <ort ref="leipzig" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="8" von="32" bis="33" />
+<kategorie ref="gelehrte-nachrichten"/>
+<ort ref="kgsb" />
+<anmerkung>Nachricht über die Feiern der Königsberger Akademie anläslich des Krönungstages Friedrichs I. und Geburtstage Friedrichs II.</anmerkung>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="8" von="33" />
+<kategorie ref="gelehrte-nachrichten"/>
+<ort ref="kgsb" />
+<anmerkung>Nachricht über der Königlich Deutschen Gesellschaft anläßlich des Geburtstages Friedrichs II.</anmerkung>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="8" von="33" bis="34"/>
+    <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="8" von="34"/>
+    <kategorie ref="avertissement" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="8" von="34" />
+    <kategorie ref="einkommende-fremde" />
+</beitrag>
+
 </beitraege>
