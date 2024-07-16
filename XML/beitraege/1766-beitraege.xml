@@ -193,4 +193,26 @@
     <kategorie ref="wechselkurse" />
 </beitrag>
 
+<!-- 10 -->
+<beitrag>
+    <stueck datum="1766" nr="10" von="39" bis="40" />
+    <werk kat="rezension" ref="schmidt-schreiben"></werk>
+    <ort ref="quedlinburg" />
+    <ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="10" von="40"/>
+        <werk ref="histoire-de-france" kat="anzeige" />
+        <anmerkung>Anzeiege von der deutschen Übersetzung des Abbé Velly histoire de France.</anmerkung>
+        </beitrag>
+        <beitrag>
+            <stueck datum="1766" nr="10" von="41" bis="42" />
+            <kategorie ref="weltnachrichten" />
+     </beitrag>
+    <beitrag>
+            <stueck datum="1766" nr="10" von="42" />
+            <kategorie ref="einkommende-fremde" />
+            <kategorie ref="avertissement" />
+     </beitrag>
+
 </beitraege>

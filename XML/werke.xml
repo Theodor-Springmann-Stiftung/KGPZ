@@ -312,13 +312,26 @@
         <akteur ref="herder" />
         <zitation>Die Hoffnung besserer Zeiten für die Schulen: eine Einladungsschrift, 
             womit zur feierlichen Begehung des zweiten Jubelfestes des evangelisch-lutherischen Gymnasii zu Halle.....einladet M. Joh. Pet. Miller, Halle 
-            bei Gebauer (Bd. 22., 1765).</zitation>
+            bei Gebauer (22. Bde., 1765).</zitation>
         <url address=""></url> <!-- Ressource hinzufügen! --> 
     </werk>
 
     <werk id="l'art-de-bien">
         <zitation>L'art de bien écrire des Lettres en toutes matieres (Brüssel 1765). </zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11761687-2">BSB München</url> 
+    </werk>
+
+    <werk id="histoire-de-france">
+        <akteur ref="velly-a" />
+        <zitation>von der deutschen Übersetzung des Abbé Velly histoire de France.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10419426-9">BSB München</url> <!-- Stimmt diese Ressource? --> 
+    </werk>
+
+    <werk id="schmidt-schreiben">
+        <akteur ref="schmidt-j" />
+        <zitation>Schreiben über die Frage: ob das Leben der Alten an dem Mangel der Original-Scribenten Schuld sey, 
+            abgefaßt von Joh. Jac. Rambach, Rektor des Quedlinburgschen Gymnasii, bei Biesterfeld (22. Bde., 1765).  </zitation>
+        <url address=""></url> <!-- Ressource hinzufügen! --> 
     </werk>
 
     <werk id="robinet-nature">
