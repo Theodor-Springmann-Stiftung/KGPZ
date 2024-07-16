@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=16_07_2024_15:30</Creator>
+        <Created>2024-07-16T14:44:26.299+02:00</Created>
+        <LastChange>2024-07-16T15:30:25.913+02:00</LastChange>
+        <TranskribusMetadata docId="3303387" pageId="75044049" pageNr="1" tsid="177978699" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=ZXOVSBAUPUQWQCTABHFEXWZX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QWOAHAHQAVUMLWURERHEKHCC" imageId="60812772"/>
+    </Metadata>
+    <Page imageFilename="75044049.jpg" imageWidth="2679" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721136625913" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_10"/>
+                <RegionRefIndexed index="1" regionRef="r_23"/>
+                <RegionRefIndexed index="2" regionRef="r_22"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_10" custom="readingOrder {index:0;}">
+            <Coords points="400,1392 2207,1392 2207,1493 400,1493"/>
+            <TextLine id="r_10_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1895,1433 1928,1439 1975,1432 1996,1441 2038,1434 2078,1445 2099,1431 2099,1356 2075,1349 2022,1360 1991,1348 1895,1362"/>
+                <Baseline points="1902,1427 1946,1427 1991,1427 2036,1427 2081,1427 2102,1427"/>
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="839,1466 1773,1490 1772,1410 838,1410"/>
+                <Baseline points="845,1451 889,1445 934,1445 979,1445 1024,1448 1069,1448 1113,1451 1158,1451 1203,1448 1248,1451 1292,1454 1337,1451 1382,1451 1427,1454 1472,1457 1516,1454 1561,1454 1606,1454 1651,1457 1696,1457 1740,1457 1776,1457"/>
+                <TextEquiv>
+                    <Unicode>1stes Stück. Freytag, den 4. Januar 1771.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_23" custom="readingOrder {index:1;}">
+            <Coords points="1317,2774 400,2774 416,1584 1314,1584"/>
+            <TextLine id="r_23_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="444,1695 774,1672 995,1715 1272,1702 1272,1615 1038,1636 685,1604 556,1646 444,1621"/>
+                <Baseline points="450,1681 495,1678 540,1678 585,1678 630,1678 674,1678 719,1675 764,1678 809,1675 854,1675 898,1675 943,1678 988,1678 1033,1675 1077,1678 1122,1678 1167,1678 1212,1678 1257,1684 1275,1687"/>
+                <TextEquiv>
+                    <Unicode>Heil uns! ein neues Jahr steigt wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="450,1767 603,1741 740,1774 870,1746 1045,1767 1085,1741 1194,1767 1194,1703 1144,1697 450,1710"/>
+                <Baseline points="456,1746 480,1743 525,1743 570,1740 615,1740 659,1740 704,1737 749,1737 794,1737 839,1737 883,1737 928,1737 973,1737 1018,1734 1063,1737 1107,1737 1152,1737 1197,1743"/>
+                <TextEquiv>
+                    <Unicode>Zu uns vom hoh'n Olymp hernieder!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="543,1827 1000,1834 1165,1809 1165,1767 1113,1758 543,1770"/>
+                <Baseline points="549,1800 585,1800 630,1800 674,1800 719,1800 764,1800 809,1797 854,1797 898,1797 943,1797 988,1794 1033,1797 1077,1797 1122,1797 1167,1797"/>
+                <TextEquiv>
+                    <Unicode>Dir! ruft ein jeder Jubel zu,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="444,1873 1293,1873 1278,1807 1120,1835 444,1824"/>
+                <Baseline points="450,1866 489,1863 534,1863 579,1863 624,1863 668,1860 713,1857 758,1857 803,1857 848,1857 892,1857 937,1854 982,1857 1027,1854 1071,1854 1116,1854 1161,1857 1206,1857 1251,1860 1295,1860"/>
+                <TextEquiv>
+                    <Unicode>Die Jugend hoft in dir verneute Freuden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="537,1953 1278,1948 1278,1876 1213,1869 629,1869 537,1900"/>
+                <Baseline points="543,1923 564,1923 609,1920 653,1920 698,1917 743,1917 788,1917 833,1917 877,1914 922,1917 967,1917 1012,1917 1057,1917 1101,1917 1146,1917 1191,1917 1236,1920 1281,1920"/>
+                <TextEquiv>
+                    <Unicode>Der Greiß die längst gewünschte Ruh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="446,2004 804,2011 883,1982 1170,1994 1230,2035 1307,2012 1307,1951 1262,1946 446,1946"/>
+                <Baseline points="453,1991 459,1994 504,1988 549,1988 594,1985 639,1985 683,1982 728,1982 773,1979 818,1979 862,1979 907,1979 952,1979 997,1979 1042,1979 1086,1982 1131,1982 1176,1982 1221,1985 1266,1985 1310,1985"/>
+                <TextEquiv>
+                    <Unicode>Und der Bedrängte winket dir bey seinen Leiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="549,2080 616,2061 677,2091 935,2080 1113,2099 1114,2022 1047,2001 550,2012"/>
+                <Baseline points="555,2051 600,2048 644,2045 689,2045 734,2045 779,2045 824,2045 868,2042 913,2042 958,2042 1003,2045 1048,2045 1092,2048 1116,2051"/>
+                <TextEquiv>
+                    <Unicode>Voll freudiger Erwartung zu,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="450,2274 1179,2279 1179,2207 1090,2191 450,2200"/>
+                <Baseline points="456,2260 501,2254 546,2254 591,2254 636,2254 680,2251 725,2251 770,2254 815,2254 859,2254 904,2257 949,2254 994,2254 1039,2251 1083,2251 1128,2254 1173,2260 1182,2260"/>
+                <TextEquiv>
+                    <Unicode>Fern von uns ist der Ruhe Stöhrer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="446,2354 496,2363 567,2318 915,2343 987,2317 1177,2325 1177,2282 1144,2272 446,2273"/>
+                <Baseline points="453,2320 462,2320 507,2314 552,2314 597,2317 642,2314 686,2314 731,2314 776,2314 821,2317 865,2317 910,2317 955,2317 1000,2317 1045,2317 1089,2314 1134,2317 1179,2317"/>
+                <TextEquiv>
+                    <Unicode>Fern ist der Würger, der Verheerer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="545,2385 1268,2401 1266,2316 1166,2354 1079,2323 818,2360 545,2324"/>
+                <Baseline points="552,2376 597,2376 642,2376 686,2376 731,2376 776,2376 821,2376 865,2379 910,2379 955,2379 1000,2379 1045,2376 1089,2376 1134,2376 1179,2379 1224,2376 1269,2379"/>
+                <TextEquiv>
+                    <Unicode>Den Schrecken, Fluch und Nacht gebar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="444,2467 877,2480 1307,2445 1307,2408 1250,2402 444,2393"/>
+                <Baseline points="450,2442 459,2439 504,2439 549,2442 594,2442 639,2442 683,2442 728,2442 773,2439 818,2439 862,2439 907,2439 952,2442 997,2439 1042,2439 1086,2442 1131,2442 1176,2439 1221,2439 1266,2439 1310,2439"/>
+                <TextEquiv>
+                    <Unicode>Dein Schutzgeist, Preußen, kommt vom Him¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="891,2521 917,2525 935,2514 975,2512 1055,2529 1075,2520 1087,2530 1107,2528 1107,2464 1061,2470 1047,2460 1003,2458 983,2470 947,2455 922,2474 891,2465"/>
+                <Baseline points="898,2499 943,2499 988,2502 1033,2499 1077,2499 1110,2502"/>
+                <TextEquiv>
+                    <Unicode>mel nieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="543,2565 1252,2569 1252,2529 1135,2516 543,2520"/>
+                <Baseline points="549,2562 594,2562 639,2559 683,2559 728,2562 773,2559 818,2559 862,2559 907,2559 952,2562 997,2562 1042,2562 1086,2562 1131,2562 1176,2562 1221,2565 1254,2568"/>
+                <TextEquiv>
+                    <Unicode>Und mit ihm ein beglücktes Jahr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="435,2652 1311,2643 1311,2584 1206,2566 968,2563 856,2598 435,2563"/>
+                <Baseline points="441,2636 462,2627 507,2624 552,2621 597,2621 642,2621 686,2621 731,2621 776,2621 821,2621 865,2621 910,2621 955,2621 1000,2621 1045,2627 1089,2624 1134,2627 1179,2627 1224,2627 1269,2624 1313,2630"/>
+                <TextEquiv>
+                    <Unicode>Er breitet über dich allnächtig sein Gefeder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="539,2697 951,2685 991,2723 1072,2726 1137,2686 1221,2691 1221,2646 1065,2633 783,2664 702,2639 539,2657"/>
+                <Baseline points="546,2684 591,2684 636,2684 680,2684 725,2687 770,2687 815,2684 859,2684 904,2684 949,2684 994,2687 1039,2687 1083,2687 1128,2687 1173,2684 1218,2687 1224,2687"/>
+                <TextEquiv>
+                    <Unicode>So mächtig, wie er vormals war.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_22" custom="readingOrder {index:2;}">
+            <Coords points="2207,1493 2174,2679 1317,2696 1317,1493"/>
+            <TextLine id="r_22_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1313,1559 2042,1566 2025,1511 1873,1531 1821,1509 1770,1540 1729,1517 1506,1520 1424,1477 1312,1485"/>
+                <Baseline points="1319,1546 1364,1549 1409,1549 1454,1549 1499,1549 1543,1549 1588,1552 1633,1552 1678,1555 1722,1555 1767,1555 1812,1555 1857,1558 1902,1558 1946,1558 1991,1561 2036,1564 2045,1558"/>
+                <TextEquiv>
+                    <Unicode>Da Weisheit auf dem Throne sitzer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1322,1641 2039,1637 2036,1567 2007,1561 1568,1559 1506,1586 1450,1556 1320,1554"/>
+                <Baseline points="1328,1606 1373,1609 1418,1609 1463,1612 1507,1612 1552,1615 1597,1618 1642,1615 1687,1618 1731,1618 1776,1618 1821,1618 1866,1621 1911,1621 1955,1621 2000,1624 2042,1627"/>
+                <TextEquiv>
+                    <Unicode>Da dich des Helden Rechte schützet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1418,1678 2024,1689 2007,1638 1417,1640"/>
+                <Baseline points="1424,1672 1469,1675 1513,1675 1558,1675 1603,1675 1648,1678 1693,1678 1737,1681 1782,1681 1827,1681 1872,1684 1917,1684 1961,1684 2006,1684 2027,1687"/>
+                <TextEquiv>
+                    <Unicode>Der Vaterhuld im Herzen hat;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1321,1763 2177,1775 2176,1703 2116,1678 1320,1678"/>
+                <Baseline points="1328,1737 1373,1734 1418,1737 1463,1737 1507,1737 1552,1740 1597,1740 1642,1740 1687,1740 1731,1743 1776,1740 1821,1743 1866,1743 1911,1743 1955,1746 2000,1746 2045,1749 2090,1749 2135,1749 2179,1755"/>
+                <TextEquiv>
+                    <Unicode>Maß dich ein ewig junges Licht unglänzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1403,1803 2078,1815 2069,1763 1826,1784 1766,1764 1403,1771"/>
+                <Baseline points="1409,1797 1454,1797 1499,1797 1543,1797 1588,1800 1633,1800 1678,1803 1722,1803 1767,1803 1812,1803 1857,1803 1902,1803 1946,1806 1991,1806 2036,1806 2081,1812"/>
+                <TextEquiv>
+                    <Unicode>Und Glück verfolget deinen Pfad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1320,1887 2170,1892 2161,1831 1923,1806 1319,1816"/>
+                <Baseline points="1325,1854 1370,1854 1415,1857 1460,1860 1504,1857 1549,1860 1594,1860 1639,1860 1684,1860 1728,1857 1773,1860 1818,1857 1863,1860 1908,1863 1952,1863 1997,1866 2042,1866 2087,1866 2132,1872 2173,1875"/>
+                <TextEquiv>
+                    <Unicode>Der Friede herrscht — Weh dem, der nut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1752,1930 1798,1936 1837,1921 1900,1936 1943,1923 2018,1940 2047,1929 2080,1954 2111,1954 2127,1950 2126,1893 2069,1898 2004,1874 1968,1893 1946,1872 1907,1887 1854,1873 1823,1887 1751,1885"/>
+                <Baseline points="1758,1923 1803,1920 1848,1920 1893,1923 1937,1923 1982,1923 2027,1923 2072,1928 2117,1928 2129,1931"/>
+                <TextEquiv>
+                    <Unicode>zu unsern Gränzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1413,2029 1527,2032 1618,1987 1794,1983 1996,2029 1994,1939 1943,1923 1878,1957 1605,1916 1492,1941 1412,1930"/>
+                <Baseline points="1418,1982 1463,1979 1507,1982 1552,1982 1597,1982 1642,1982 1687,1982 1731,1982 1776,1982 1821,1985 1866,1985 1911,1985 1955,1985 1997,1985"/>
+                <TextEquiv>
+                    <Unicode>Sich ohne Eherbietung nahet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1313,2158 2075,2159 2063,2113 1816,2095 1312,2109"/>
+                <Baseline points="1319,2143 1364,2146 1409,2146 1454,2146 1499,2146 1543,2146 1588,2146 1633,2146 1678,2149 1722,2149 1767,2152 1812,2152 1857,2152 1902,2155 1946,2155 1991,2155 2036,2155 2078,2164"/>
+                <TextEquiv>
+                    <Unicode>Ein daurend Glück auf unsern Fluren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1313,2240 1668,2230 1812,2255 2052,2238 2052,2202 1927,2153 1312,2156"/>
+                <Baseline points="1319,2212 1364,2206 1409,2209 1454,2209 1499,2209 1543,2209 1588,2209 1633,2209 1678,2209 1722,2212 1767,2212 1812,2215 1857,2218 1902,2215 1946,2215 1991,2218 2036,2221 2054,2224"/>
+                <TextEquiv>
+                    <Unicode>Des geldnen Friedens reiche Spuren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1418,2272 2001,2290 2036,2281 2036,2236 1810,2255 1788,2237 1417,2234"/>
+                <Baseline points="1424,2269 1469,2269 1513,2269 1558,2269 1603,2269 1648,2269 1693,2272 1737,2272 1782,2275 1827,2275 1872,2275 1917,2275 1961,2275 2006,2275 2039,2275"/>
+                <TextEquiv>
+                    <Unicode>Beglücken Kind und Kindeskind!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1307,2352 2121,2370 2158,2365 2158,2292 1306,2288"/>
+                <Baseline points="1313,2338 1358,2332 1403,2332 1448,2332 1493,2332 1537,2335 1582,2335 1627,2335 1672,2335 1716,2335 1761,2335 1806,2338 1851,2338 1896,2338 1940,2338 1985,2338 2030,2341 2075,2341 2120,2344 2161,2341"/>
+                <TextEquiv>
+                    <Unicode>und wenn die Nachwele einst in Frig,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1752,2405 2106,2405 2106,2363 2082,2358 1939,2356 1909,2368 1891,2357 1863,2373 1820,2352 1806,2363 1752,2359"/>
+                <Baseline points="1758,2394 1803,2397 1848,2397 1893,2397 1937,2400 1982,2400 2027,2400 2072,2400 2108,2403"/>
+                <TextEquiv>
+                    <Unicode>drichs Thaten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1412,2471 2130,2470 2117,2400 1858,2415 1645,2393 1412,2421"/>
+                <Baseline points="1418,2454 1463,2454 1507,2454 1552,2454 1597,2457 1642,2457 1687,2457 1731,2457 1776,2460 1821,2460 1866,2460 1911,2460 1955,2460 2000,2463 2045,2463 2090,2463 2132,2469"/>
+                <TextEquiv>
+                    <Unicode>Den Helden und den Weisen findt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1325,2564 1469,2569 1551,2522 2176,2533 2154,2463 1325,2479"/>
+                <Baseline points="1331,2517 1376,2520 1421,2520 1466,2520 1510,2520 1555,2520 1600,2520 1645,2520 1690,2520 1734,2520 1779,2520 1824,2523 1869,2523 1914,2523 1958,2526 2003,2526 2048,2523 2093,2526 2138,2526 2179,2526"/>
+                <TextEquiv>
+                    <Unicode>So rufe Sie: dreymal glückselig sind die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1753,2605 1789,2605 1799,2611 1834,2604 1861,2612 1888,2600 1906,2605 1902,2525 1866,2525 1849,2535 1841,2529 1823,2535 1800,2526 1787,2534 1772,2522 1750,2530"/>
+                <Baseline points="1758,2576 1803,2579 1848,2579 1893,2582 1908,2585"/>
+                <TextEquiv>
+                    <Unicode>Stgaten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1410,2673 1556,2702 1674,2652 1821,2649 1887,2689 2047,2697 2054,2607 1408,2601"/>
+                <Baseline points="1415,2645 1460,2642 1504,2642 1549,2645 1594,2642 1639,2642 1684,2642 1728,2642 1773,2645 1818,2645 1863,2645 1908,2648 1952,2648 1997,2648 2042,2648 2057,2651"/>
+                <TextEquiv>
+                    <Unicode>Die diesen Staten ähnlich sind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
