@@ -178,11 +178,12 @@
 <!-- 09 -->
 <beitrag>
 <stueck datum="1766" nr="9" von="35" bis="36" />
-<werk kat="rezension" ref="herder-einladungsschrift"></werk>
+<werk kat="rezension" ref="miller-einladungsschrift"></werk>
+<akteur ref="herder">SWS XXII, 51–54</akteur>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="9" von="36" bis="37" />
-    <werk kat="rezension" ref="l'art-de-bien"></werk>
+    <werk kat="rezension" ref="lart-de-bien"></werk>
     </beitrag>
 <beitrag>
         <stueck datum="1766" nr="9" von="37" bis="38" />
@@ -203,7 +204,7 @@
     <beitrag>
         <stueck datum="1766" nr="10" von="40"/>
         <werk ref="histoire-de-france" kat="anzeige" />
-        <anmerkung>Anzeiege von der deutschen Übersetzung des Abbé Velly histoire de France.</anmerkung>
+        <anmerkung>Anzeige von der deutschen Übersetzung des Abbé Velly histoire de France.</anmerkung>
         </beitrag>
         <beitrag>
             <stueck datum="1766" nr="10" von="41" bis="42" />
@@ -211,8 +212,8 @@
      </beitrag>
     <beitrag>
             <stueck datum="1766" nr="10" von="42" />
-            <kategorie ref="einkommende-fremde" />
             <kategorie ref="avertissement" />
+            <kategorie ref="einkommende-fremde" />
      </beitrag>
 
 </beitraege>

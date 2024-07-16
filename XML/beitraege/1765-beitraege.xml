@@ -123,7 +123,6 @@
      <beitrag>
         <stueck datum="1765" nr="4" von="15"/>
         <kategorie ref="gelehrte-nachrichten"/>
-        <ort ref="neuchatel"/> <!-- Ist hier auch ort = neuchatel, weil dieser Beitrag im Text durch Abteilungssternchen vom vorangehenden getrennt ist? Oder gilt ort = unbekannt (also ohne ort-tag)? -->
         <anmerkung>Ankündigung einer neuen Karte des Herzogtums Mecklenburg u.a.</anmerkung>
      </beitrag>
      <beitrag>
@@ -141,7 +140,7 @@
         <stueck datum="1765" nr="5" von="17" bis="19"/>
         <stueck datum="1765" nr="6" von="21" bis="23"/>
         <kategorie ref="aufsatz"/>
-        <titel>Ob man aus der Vernunft die Verbesserung der Zeiten vermuthen könne</titel>
+        <titel>Ob man aus der Vernunft die Verbesserung der Zeiten vermuthen könne.</titel>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="5" von="19" bis="20"/>
@@ -172,13 +171,13 @@
     <beitrag>
         <stueck datum="1765" nr="7" von="25" bis="26"/>
         <kategorie ref="panegyrik"/>
-        <titel>Ode am Geburtstage des Königs</titel>
+        <titel>Ode am Geburtstage des Königs, von T. G. Hippel.</titel>
         <akteur ref="hippel"></akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="7" von="26" bis="27"/>
         <kategorie ref="gelehrte-nachrichten"/>
-        <anmerkung>Nachricht über die Feiern der Königsberger Akademie anlässlich der Krönung Friedrichs I. und des Geburtstages Friedrichs II.</anmerkung>
+        <anmerkung>Nachricht über die Feiern der Königsberger Akademie anlässlich des Krönungsjubiläums Friedrichs I. und des Geburtstages Friedrichs II.</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="7" von="28"/>
