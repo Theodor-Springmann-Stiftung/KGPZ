@@ -217,31 +217,52 @@
     </beitrag>
 
     <!--09-->
-        <beitrag>
-            <stueck datum="1765" nr="9" von="33"/>
-            <kategorie ref="gelehrte-nachrichten"/>
-            <anmerkung>Doktorpromotion an der Königsberger Akademie</anmerkung>
-            <ort ref="kgsb"/>
-        </beitrag>
-        <beitrag>
-            <stueck datum="1765" nr="9" von="33" bis="34"/>
-            <werk ref="bianconi-sendschreiben" kat="rezension"/>
-            <ort ref="leipzig"/>
-        </beitrag>
-        <beitrag>
-            <stueck datum="1765" nr="9" von="34" bis="35"/>
-            <stueck datum="1765" nr="10" von="21" bis="23"/>
-            <kategorie ref="erzaehlung"/>
-            <titel>Der unglückliche Menschenfreund</titel>
-            <anmerkung>Ohne Unterzeichner</anmerkung>
-        </beitrag>
-        <beitrag>
-            <stueck datum="1765" nr="9" von="35" bis="36"/>
-            <kategorie ref="weltnachrichten"/>
-        </beitrag>
-        <beitrag>
-            <stueck datum="1765" nr="9" von="36"/>
-            <kategorie ref="wechselkurse"/>
-        </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="9" von="33"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <anmerkung>Doktorpromotion an der Königsberger Akademie</anmerkung>
+        <ort ref="kgsb"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="9" von="33" bis="34"/>
+        <werk ref="bianconi-sendschreiben" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="9" von="34" bis="35"/>
+        <stueck datum="1765" nr="10" von="38" bis="39"/>
+        <kategorie ref="erzaehlung"/>
+        <titel>Der unglückliche Menschenfreund</titel>
+        <anmerkung>Ohne Unterzeichner</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="9" von="35" bis="36"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="9" von="36"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <!--10-->
+    <beitrag>
+        <stueck datum="1765" nr="10" von="37" bis="38"/>
+        <werk ref="bahrdt-kanzelreden" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="10" von="38"/>
+        <werk ref="wilhelmi-hohelied" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="10" von="39" bis="40"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="10" von="40"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="anzeige"/>
+    </beitrag>
 
 </beitraege>
