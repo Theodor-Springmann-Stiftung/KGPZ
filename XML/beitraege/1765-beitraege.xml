@@ -231,6 +231,7 @@
     <beitrag>
         <stueck datum="1765" nr="9" von="34" bis="35"/>
         <stueck datum="1765" nr="10" von="38" bis="39"/>
+        <stueck datum="1765" nr="11" von="41" bis="43"/>
         <kategorie ref="erzaehlung"/>
         <titel>Der unglückliche Menschenfreund</titel>
         <anmerkung>Ohne Unterzeichner</anmerkung>
@@ -263,6 +264,21 @@
         <stueck datum="1765" nr="10" von="40"/>
         <kategorie ref="avertissement"/>
         <kategorie ref="anzeige"/>
+    </beitrag>
+
+    <!--11-->
+    <beitrag>
+        <stueck datum="1765" nr="11" von="41"/>
+        <werk ref="fielding-lissabon" kat="rezension"/>
+        <ort ref="altona"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="11" von="43" bis="44"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="11" von="44"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 </beitraege>
