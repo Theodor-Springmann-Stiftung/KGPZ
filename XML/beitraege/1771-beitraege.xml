@@ -392,9 +392,43 @@
         <kategorie ref="brief"></kategorie>
         <titel>Holländische Grenze.</titel>
     </beitrag>
+    <beitrag>
+        <beilage datum="1771" nr="89" von="1" bis="2" />
+        <kategorie ref="aufsatz"></kategorie>
+        <titel>Bemerkungen von der Natur des Thaues.</titel>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1771" nr="89" von="2" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1771" nr="89" von="2" />
+        <werk kat="auszug" ref="hamburgadresscomtoir1771"></werk>
+        <titel>Das berüchtigte Amerikanische Mittel wider den Rheumatismus oder die Gicht. Aus dem Hamb. Adreß-Nachrichten.</titel>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1771" nr="92" von="1" bis="4" />
+        <kategorie ref="weltnachrichten"></kategorie>
+        <anmerkung>Bericht über das Attentat und die Rettung von Stanislaus II August in Krakau.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1771" nr="92" von="4" />
+        <kategorie ref="desertionsliste"></kategorie>
+        <anmerkung>Desertionsliste für das Finckensteinsche Dragoner-Regiment, unterzeichnet de Pannwitz.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1771" nr="96" von="1" />
+        <kategorie ref="brief"></kategorie>
+        <titel>Schreiben des General Feld-Marschalls Romanzow an den Ruß. Ambassadeur von Saldern in Warschau, aus dem Lager zu Faldezti, den 7ten Nov. N. St. 1771.</titel>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1771" nr="96" von="1" bis="2" />
+        <beilage datum="1771" nr="100" von="1" bis="2" />
+        <beilage datum="1771" nr="102" von="1" bis="2" />
+        <kategorie ref="uebersetzung"></kategorie>
+        <titel>Jakob Swensons Abhandlung vom diätischen Gebrauche des Brodes, aus dem Schwedischen.</titel>
+    </beitrag>
     
-
-
     <!-- Stücke: -->
     <beitrag>
         <stueck datum="1771" nr="1" von="1"/>
@@ -408,6 +442,28 @@
     <beitrag>
         <stueck datum="1771" nr="1" von="4"/>
         <kategorie ref="wechselkurse" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="2" von="5"/>
+        <werk kat="rezension" ref="fleury-kirchengeschichte"></werk>
+        <ort ref="frankfurt"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="2" von="5"/>
+        <werk kat="rezension" ref="greis-beitraege"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="2" von="5"/>
+        <werk kat="rezension" ref="grot-blattereinimpfung"></werk>
+        <ort ref="mitau"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="2" von="6" bis="8"/>
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="2" von="8"/>
+        <kategorie ref="einkommende-fremde" />
     </beitrag>
 
 </beitraege>
