@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=16_07_2024_15:11</Creator>
+        <Created>2024-07-16T11:22:27.194+02:00</Created>
+        <LastChange>2024-07-16T15:11:39.779+02:00</LastChange>
+        <TranskribusMetadata docId="3300825" pageId="75035608" pageNr="1" tsid="177975014" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=QKPCCJXGYNFVLWYBBHVPYYIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LOKQAYOIMOZITLGBPPECXWFI" imageId="60804725"/>
+    </Metadata>
+    <Page imageFilename="75035608.jpg" imageWidth="2479" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721135499780" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_46"/>
+                <RegionRefIndexed index="2" regionRef="r_47"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="766,1473 1759,1473 1759,1532 766,1532"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="770,1531 1678,1527 1655,1448 1412,1448 1382,1478 1290,1452 1181,1488 770,1467"/>
+                <Baseline points="782,1519 788,1516 833,1513 877,1513 922,1513 967,1513 1012,1513 1057,1513 1101,1510 1146,1510 1191,1510 1236,1510 1281,1510 1325,1507 1370,1507 1415,1507 1460,1504 1504,1504 1549,1504 1594,1501 1639,1501 1684,1501"/>
+                <TextEquiv>
+                    <Unicode>9tes Stück. Freitag, den 31. Jenner 1766.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_46" custom="readingOrder {index:1;}">
+            <Coords points="321,1561 1211,1555 1211,2670 321,2670"/>
+            <TextLine id="r_46_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="350,1657 2054,1648 2054,1604 1738,1595 350,1610"/>
+                <Baseline points="361,1648 400,1651 444,1648 489,1648 534,1648 579,1648 624,1648 668,1648 713,1648 758,1648 803,1648 848,1645 892,1645 937,1645 982,1648 1027,1645 1071,1645 1116,1645 1161,1645 1206,1645 1251,1642 1295,1639 1340,1639 1385,1639 1430,1639 1475,1639 1519,1636 1564,1636 1609,1636 1654,1636 1699,1633 1743,1636 1788,1636 1833,1636 1878,1633 1923,1636 1967,1636 2012,1636 2057,1639"/>
+                <TextEquiv>
+                    <Unicode>len: eine Einladungsschrift, womit zur feierlichen die Hand, die aus den Wolken sich senkt und tausend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="345,1736 2060,1732 2054,1683 1828,1674 345,1691"/>
+                <Baseline points="358,1725 361,1725 406,1728 450,1731 495,1728 540,1728 585,1728 630,1728 674,1728 719,1728 764,1728 809,1725 854,1725 898,1725 943,1725 988,1725 1033,1725 1077,1722 1122,1722 1167,1722 1212,1719 1257,1719 1301,1719 1346,1719 1391,1719 1436,1716 1481,1716 1525,1716 1570,1716 1615,1716 1660,1716 1705,1713 1749,1713 1794,1713 1839,1713 1884,1713 1928,1713 1973,1716 2018,1716 2063,1716"/>
+                <TextEquiv>
+                    <Unicode>lutherischen Gymnasii zu Halle . . . .. einladet Schulen, Lehrer von großer Geschicklich¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="345,1849 405,1853 439,1819 505,1825 518,1815 544,1823 561,1815 599,1836 616,1832 616,1781 527,1776 493,1787 478,1776 452,1785 418,1772 345,1783"/>
+                <Baseline points="358,1815 403,1809 447,1812 492,1809 537,1812 582,1815 621,1818"/>
+                <TextEquiv>
+                    <Unicode>3 Bogen in 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="350,1938 2058,1934 2058,1889 1928,1883 350,1896"/>
+                <Baseline points="361,1931 403,1931 447,1928 492,1928 537,1928 582,1928 627,1931 671,1931 716,1934 761,1931 806,1931 851,1931 895,1931 940,1928 985,1928 1030,1926 1074,1926 1119,1926 1164,1926 1209,1926 1218,1926 1257,1926 1301,1923 1346,1926 1391,1926 1436,1920 1481,1920 1525,1920 1570,1923 1615,1920 1660,1920 1705,1917 1749,1920 1794,1920 1839,1920 1884,1920 1928,1920 1973,1920 2018,1920 2063,1923"/>
+                <TextEquiv>
+                    <Unicode>unser deutscher Rollin, giebt uns hier Erfahrungs= lich abgelegt, und nach zehn treuen Schuljahren mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="352,1975 2058,1977 2058,1934 1674,1917 352,1941"/>
+                <Baseline points="364,1970 406,1970 450,1970 495,1970 540,1970 585,1970 630,1970 674,1973 719,1973 764,1973 809,1973 854,1973 898,1973 943,1970 988,1967 1033,1967 1077,1964 1122,1964 1167,1964 1212,1967 1257,1964 1301,1964 1346,1964 1391,1964 1436,1964 1481,1961 1525,1964 1570,1961 1615,1961 1660,1961 1705,1958 1749,1961 1794,1961 1839,1961 1884,1961 1928,1961 1973,1961 2018,1961 2063,1967"/>
+                <TextEquiv>
+                    <Unicode>volle Vorschläge zur Verbesserung der Schulen, von den einträglichsten Pfarrstellen belohnt, oder wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="352,2019 2058,2015 2058,1975 1968,1966 352,1977"/>
+                <Baseline points="364,2009 406,2012 450,2012 495,2012 540,2012 585,2012 630,2012 674,2015 719,2012 764,2012 809,2015 854,2012 898,2015 943,2012 988,2012 1033,2009 1077,2006 1122,2006 1167,2006 1212,2009 1257,2006 1301,2009 1346,2006 1391,2006 1436,2003 1481,2003 1525,2003 1570,2003 1615,2003 1660,2003 1705,2000 1749,2003 1794,2000 1839,2000 1884,2000 1928,2003 1973,2003 2018,2003 2063,2003"/>
+                <TextEquiv>
+                    <Unicode>denen er nicht weiß, ob er sie Ahnung, Hofnung, sie außerordentliche Schultalente haben bey heran¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="352,2060 2060,2058 2060,2015 1885,2005 352,2017"/>
+                <Baseline points="364,2054 409,2054 453,2057 498,2054 543,2054 588,2054 633,2054 677,2057 722,2054 767,2054 812,2054 856,2054 901,2054 946,2054 991,2051 1036,2051 1080,2048 1125,2048 1170,2042 1215,2048 1260,2048 1304,2048 1349,2048 1394,2048 1439,2045 1484,2045 1528,2045 1573,2045 1618,2045 1663,2042 1708,2042 1752,2045 1797,2042 1842,2042 1887,2042 1931,2045 1976,2045 2021,2045 2066,2045"/>
+                <TextEquiv>
+                    <Unicode>Wunsch oder einen süssen Traum nennen soll. Er nahendem Alter in einem Stifte, (wie Sokrate im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="352,2182 2056,2179 2056,2137 2002,2132 352,2143"/>
+                <Baseline points="364,2176 403,2176 447,2176 492,2179 537,2176 582,2176 627,2179 671,2179 716,2179 761,2176 806,2176 851,2173 895,2173 940,2173 985,2170 1030,2170 1074,2170 1119,2170 1164,2170 1209,2167 1254,2170 1298,2170 1343,2170 1388,2170 1433,2170 1478,2170 1522,2170 1567,2167 1612,2170 1657,2167 1702,2164 1746,2170 1791,2167 1836,2167 1881,2167 1926,2167 1970,2167 2015,2167 2060,2170"/>
+                <TextEquiv>
+                    <Unicode>besserung der Landschulen, und durch den Eifer, durch den abgeschaft, und die schönen Jugendanstalten in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="358,2271 2058,2260 2058,2218 1913,2211 358,2224"/>
+                <Baseline points="370,2257 400,2257 444,2260 489,2266 534,2260 579,2260 624,2257 668,2260 713,2257 758,2257 803,2257 848,2257 892,2257 937,2254 982,2254 1027,2251 1071,2251 1116,2251 1161,2251 1206,2254 1218,2251 1257,2251 1301,2254 1346,2254 1391,2254 1436,2254 1481,2251 1525,2248 1570,2248 1615,2248 1660,2248 1705,2248 1749,2248 1794,2248 1839,2248 1884,2248 1928,2248 1973,2248 2018,2248 2063,2248"/>
+                <TextEquiv>
+                    <Unicode>worden. So wie wir wissen, daß seine Plane, len schlechten lateinischen Trivialschulen werden ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="358,2346 2058,2337 2060,2297 360,2307"/>
+                <Baseline points="370,2338 397,2338 441,2341 486,2344 531,2344 576,2344 621,2341 665,2341 710,2341 755,2341 800,2341 845,2341 889,2338 934,2338 979,2338 1024,2338 1069,2335 1113,2335 1158,2332 1203,2332 1224,2332 1257,2332 1301,2338 1346,2335 1391,2335 1436,2332 1481,2332 1525,2332 1570,2332 1615,2329 1660,2332 1705,2329 1749,2329 1794,2329 1839,2332 1884,2332 1928,2332 1973,2329 2018,2332 2063,2329"/>
+                <TextEquiv>
+                    <Unicode>dern Stückweise hin und wieder schon versucht wor= deutschen Schulen kleiner Städte schlägt er das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="358,2391 1201,2386 1184,2341 360,2346"/>
+                <Baseline points="373,2382 397,2379 441,2382 486,2382 531,2382 576,2382 621,2382 665,2382 710,2382 755,2382 800,2382 845,2382 889,2379 934,2379 979,2379 1024,2379 1069,2379 1113,2376 1158,2376 1203,2373"/>
+                <TextEquiv>
+                    <Unicode>den sind: so wünschen wir, daß sein Nachfolger, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="358,2467 1203,2472 1203,2433 1156,2423 358,2433"/>
+                <Baseline points="370,2460 403,2460 447,2463 492,2466 537,2463 582,2466 627,2463 671,2463 716,2463 761,2463 806,2463 851,2463 895,2463 940,2463 985,2460 1030,2463 1074,2460 1119,2460 1164,2460 1209,2457"/>
+                <TextEquiv>
+                    <Unicode>wird, schon Materie gnug von einer völlig erfüllten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_46_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="365,2593 1207,2597 1207,2553 1145,2544 365,2555"/>
+                <Baseline points="376,2582 421,2582 465,2585 510,2588 555,2588 600,2588 644,2588 689,2588 734,2588 779,2588 824,2588 868,2591 913,2588 958,2588 1003,2588 1048,2588 1092,2585 1137,2585 1182,2585 1212,2585"/>
+                <TextEquiv>
+                    <Unicode>unter dem Namen Gelon; — (denn zu allen Ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_47" custom="readingOrder {index:2;}">
+            <Coords points="1211,1555 2092,1549 2121,2670 1229,2670"/>
+            <TextLine id="r_47_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="373,1616 2060,1602 2060,1565 1930,1546 373,1563"/>
+                <Baseline points="385,1606 409,1606 453,1606 498,1609 543,1609 588,1609 633,1609 677,1609 722,1609 767,1606 812,1606 856,1606 901,1606 946,1606 991,1603 1036,1603 1080,1603 1125,1603 1170,1603 1215,1600 1260,1603 1304,1600 1349,1603 1394,1600 1439,1597 1484,1597 1528,1597 1573,1597 1618,1597 1663,1594 1708,1594 1752,1594 1797,1594 1842,1594 1887,1594 1931,1594 1976,1594 2021,1594 2066,1594"/>
+                <TextEquiv>
+                    <Unicode>Die Hofnung besserer Zeiten für die Schu= besserungen der Schulen ist der Arm des Regenten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="350,1691 2060,1683 2062,1646 1860,1638 352,1657"/>
+                <Baseline points="361,1687 364,1687 409,1687 453,1690 498,1690 543,1690 588,1687 633,1687 677,1687 722,1687 767,1687 812,1687 856,1687 901,1687 946,1687 991,1687 1036,1687 1080,1684 1125,1684 1170,1684 1215,1681 1260,1681 1304,1681 1349,1681 1394,1681 1439,1678 1484,1678 1528,1678 1573,1678 1618,1675 1663,1675 1708,1675 1752,1681 1797,1678 1842,1675 1887,1675 1931,1675 1976,1675 2021,1678 2066,1678"/>
+                <TextEquiv>
+                    <Unicode>Begehung des zweiten Jubelfestes des evangelisch= andre in Bewegung setzen muß.) Er fodert für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="350,1781 2058,1764 2015,1721 1798,1717 352,1736"/>
+                <Baseline points="364,1770 406,1770 450,1773 495,1770 540,1770 585,1770 630,1773 674,1770 719,1770 764,1770 809,1770 854,1767 898,1764 943,1764 988,1764 1033,1764 1077,1764 1122,1764 1167,1761 1212,1758 1257,1758 1301,1758 1346,1758 1391,1755 1436,1755 1481,1755 1525,1755 1570,1755 1615,1752 1660,1752 1705,1752 1749,1752 1794,1752 1839,1752 1884,1755 1928,1752 1973,1755 2018,1755 2063,1755"/>
+                <TextEquiv>
+                    <Unicode>M. Joh. Pet. Miller, Halle bey Gebauer, 765. keit und von den besten Willen. Zu diesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1203,1806 2060,1810 2060,1766 1992,1761 1203,1772"/>
+                <Baseline points="1215,1794 1260,1797 1304,1800 1349,1797 1394,1797 1439,1794 1484,1794 1528,1794 1573,1794 1618,1794 1663,1794 1708,1794 1752,1794 1797,1791 1842,1794 1887,1794 1931,1794 1976,1797 2021,1797 2066,1797"/>
+                <TextEquiv>
+                    <Unicode>wil er junge Gelehrte, die auf Akademien die Phi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1207,1855 2058,1849 2058,1810 2009,1802 1207,1806"/>
+                <Baseline points="1218,1839 1263,1842 1307,1839 1352,1839 1397,1839 1442,1836 1487,1836 1531,1839 1576,1836 1621,1836 1666,1836 1711,1833 1755,1833 1800,1833 1845,1833 1890,1836 1934,1836 1979,1836 2024,1839 2060,1842"/>
+                <TextEquiv>
+                    <Unicode>lologie und Philosophie als Privatdocenten gelehrt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="386,1892 2058,1889 2015,1842 386,1849"/>
+                <Baseline points="397,1884 406,1881 450,1887 495,1887 540,1887 585,1890 630,1890 674,1893 719,1893 764,1890 809,1890 854,1890 898,1890 943,1887 988,1887 1033,1884 1077,1884 1122,1884 1167,1884 1212,1881 1257,1881 1301,1884 1346,1881 1391,1881 1436,1881 1481,1881 1525,1878 1570,1878 1615,1875 1660,1875 1705,1875 1749,1875 1794,1878 1839,1878 1884,1878 1928,1878 1973,1878 2018,1881 2063,1881"/>
+                <TextEquiv>
+                    <Unicode>Der berühmte und verdiente Herr Rektor Miller, eine halbjährige Probe des Schulunterrichts glück¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="356,2101 2060,2098 2060,2058 2002,2047 356,2060"/>
+                <Baseline points="367,2096 409,2096 453,2096 498,2096 543,2096 588,2096 633,2093 677,2096 722,2096 767,2096 812,2096 856,2093 901,2093 946,2093 991,2093 1036,2090 1080,2090 1125,2087 1170,2087 1215,2087 1260,2087 1304,2087 1349,2090 1394,2090 1439,2087 1484,2087 1528,2087 1573,2084 1618,2084 1663,2084 1708,2084 1752,2084 1797,2084 1842,2084 1887,2084 1931,2084 1976,2087 2021,2087 2066,2087"/>
+                <TextEquiv>
+                    <Unicode>ist zu dieser Prophezeyung, wie er sagt, durch die Prytaneum) anständig versorgt werden sollen. Alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="356,2145 2058,2137 2058,2098 1894,2090 358,2103"/>
+                <Baseline points="370,2135 406,2138 450,2138 495,2138 540,2138 585,2138 630,2138 674,2138 719,2138 764,2138 809,2135 854,2135 898,2135 943,2135 988,2132 1033,2132 1077,2132 1122,2129 1167,2129 1212,2129 1257,2129 1301,2129 1346,2129 1391,2129 1436,2129 1481,2129 1525,2129 1570,2126 1615,2126 1660,2126 1705,2123 1749,2123 1794,2123 1839,2126 1884,2126 1928,2126 1973,2126 2018,2129 2063,2126"/>
+                <TextEquiv>
+                    <Unicode>Peterburgschen Anstalten, durch die Preußische Ver= niedrige Amtsverrichtungen der Schulmänner wer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="360,2228 2056,2220 2058,2179 1938,2173 363,2186"/>
+                <Baseline points="373,2218 412,2218 456,2221 501,2221 546,2221 591,2218 636,2218 680,2218 725,2218 770,2218 815,2218 859,2215 904,2215 949,2212 994,2212 1039,2212 1083,2209 1128,2209 1173,2212 1218,2209 1263,2209 1307,2212 1352,2212 1397,2212 1442,2212 1487,2209 1531,2209 1576,2209 1621,2206 1666,2206 1711,2206 1755,2206 1800,2206 1845,2206 1890,2209 1914,2209 1928,2206 1973,2206 2018,2209 2063,2206"/>
+                <TextEquiv>
+                    <Unicode>den Sachsen seine Schulen heilen will, veranlaßt Würtemberg zum Muster genommen. — Die vie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="358,2307 2066,2299 2013,2254 358,2271"/>
+                <Baseline points="370,2296 415,2302 459,2302 504,2302 549,2302 594,2299 639,2299 683,2302 728,2299 773,2302 818,2299 862,2299 907,2296 952,2296 997,2296 1042,2293 1086,2293 1131,2296 1176,2293 1221,2290 1266,2293 1310,2293 1355,2296 1400,2293 1445,2293 1490,2293 1534,2290 1579,2290 1624,2290 1669,2290 1713,2287 1758,2287 1803,2287 1848,2290 1893,2290 1937,2290 1982,2290 2027,2290 2072,2290"/>
+                <TextEquiv>
+                    <Unicode>nicht ganz mehr zu den Luftgebäuden gehören, son mindert und in größere zusammengezogen: in den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1222,2380 2062,2386 2062,2339 2030,2335 1222,2339"/>
+                <Baseline points="1233,2376 1260,2376 1304,2376 1349,2376 1394,2376 1439,2376 1484,2373 1528,2373 1573,2373 1618,2370 1663,2373 1708,2373 1752,2370 1797,2370 1842,2370 1887,2373 1931,2370 1976,2370 2021,2370 2066,2370"/>
+                <TextEquiv>
+                    <Unicode>Reccardsche Schulbuch, gründliche theologische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="365,2435 2071,2427 2071,2382 1998,2378 365,2393"/>
+                <Baseline points="376,2424 403,2421 447,2421 492,2424 537,2424 582,2421 627,2424 671,2424 716,2424 761,2421 806,2421 851,2421 895,2421 940,2421 985,2421 1030,2421 1074,2421 1119,2418 1164,2415 1209,2415 1230,2415 1269,2415 1313,2415 1358,2418 1403,2415 1448,2415 1493,2415 1537,2412 1582,2412 1627,2415 1672,2412 1716,2412 1761,2412 1806,2412 1851,2412 1896,2412 1940,2409 1985,2409 2030,2412 2075,2409"/>
+                <TextEquiv>
+                    <Unicode>zum dritten Jubelfeste das Programm schreiben Anweisungen, einen Auszug aus den Baumeister¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1228,2465 2058,2461 2058,2425 1964,2412 1228,2423"/>
+                <Baseline points="1239,2460 1257,2457 1301,2457 1346,2457 1391,2457 1436,2457 1481,2457 1525,2454 1570,2454 1615,2454 1660,2454 1705,2451 1749,2451 1794,2451 1839,2451 1884,2451 1928,2451 1973,2451 2018,2451 2063,2454"/>
+                <TextEquiv>
+                    <Unicode>schen, Gottschedischen oder Ernestischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="373,2512 2066,2501 2066,2463 1973,2455 373,2467"/>
+                <Baseline points="385,2505 412,2502 456,2502 501,2505 546,2505 591,2505 636,2505 680,2505 725,2505 770,2505 815,2505 859,2502 904,2505 949,2505 994,2502 1039,2505 1083,2502 1128,2502 1173,2499 1218,2499 1233,2502 1263,2499 1307,2499 1352,2499 1397,2499 1442,2499 1487,2496 1531,2496 1576,2496 1621,2493 1666,2496 1711,2493 1755,2493 1800,2493 1845,2493 1890,2490 1934,2490 1979,2493 2024,2496 2069,2493"/>
+                <TextEquiv>
+                    <Unicode>Hofnung besserer Schulen hätte. Herr Miller ers Philosophien, eine Kenntniß der Künste und Hand¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="371,2555 2066,2544 2066,2499 373,2510"/>
+                <Baseline points="385,2541 429,2544 474,2547 519,2547 564,2547 609,2547 653,2547 698,2547 743,2547 788,2547 833,2547 877,2547 922,2544 967,2547 1012,2544 1057,2544 1101,2544 1146,2541 1191,2544 1236,2538 1281,2538 1325,2541 1370,2538 1415,2538 1460,2541 1504,2538 1549,2538 1594,2538 1639,2535 1684,2535 1728,2535 1773,2535 1818,2532 1863,2532 1908,2532 1952,2532 1997,2535 2042,2538 2069,2541"/>
+                <TextEquiv>
+                    <Unicode>dichtet sich einen Fürsten, der ein Schulfreund ist, werker, und zum Nachschlagen das Jablonski¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1228,2595 2069,2591 2069,2553 1919,2536 1228,2546"/>
+                <Baseline points="1239,2588 1266,2585 1310,2582 1355,2582 1400,2582 1445,2582 1490,2582 1534,2582 1579,2579 1624,2579 1669,2579 1713,2576 1758,2576 1803,2573 1848,2573 1893,2573 1937,2573 1982,2576 2027,2576 2072,2576"/>
+                <TextEquiv>
+                    <Unicode>sche Lexicon vor, und rühmt die Gothaischen An¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_47_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1951,2649 1973,2651 1977,2646 1981,2651 1987,2644 2000,2640 2013,2644 2026,2636 2034,2644 2039,2640 2049,2646 2077,2642 2075,2591 2032,2591 2026,2585 2002,2591 1977,2580 1973,2585 1949,2585"/>
+                <Baseline points="1964,2621 2009,2621 2054,2624 2081,2624"/>
+                <TextEquiv>
+                    <Unicode>stalten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
