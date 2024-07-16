@@ -281,4 +281,21 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
+    <!--12-->
+    <beitrag>
+        <stueck datum="1765" nr="12" von="45"/>
+        <werk ref="liebenswuerdiger-mensch" kat="rezension"/>
+        <ort ref="magdeburg"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="12" von="46"/>
+        <kategorie ref="gedicht"/>
+        <titel>Begeisterung für die Wahrheit</titel>
+        <anmerkung>Ohne Unterzeichner</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="12" von="46" bis="48"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+
 </beitraege>
