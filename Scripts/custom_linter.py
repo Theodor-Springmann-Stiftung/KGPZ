@@ -26,7 +26,7 @@ def check_references(beitrag_root, reference_data, filepath):
             ref_id = ref.get('ref')
             if ref_id not in reference_data[ref_type]:
                 line_number = ref.sourceline
-                errors.append((relative_path, line_number, f"INVALID REFERENCE ({ref_type}:{ref_id})"))
+                errors.append(f"{relative_path}, Line {line_number}: INVALID REFERENCE ({ref_type}:{ref_id})")
     return errors
 
 def main():
@@ -48,15 +48,12 @@ def main():
                 errors = check_references(beitrag_root, reference_data, filepath)
                 all_errors.extend(errors)
 
-    all_errors.sort(key=lambda x: (x[0], x[1]))
-
-    with open('linter_results.txt', 'w') as f:
-        for filepath, line_number, error_message in all_errors:
-            f.write(f"{filepath}:{line_number}:{error_message}\n")
+    all_errors.sort()
 
     if all_errors:
-        for filepath, line_number, error_message in all_errors:
-            print(f"{filepath}, Line {line_number}: {error_message}")
+        print("Linter found the following errors:")
+        for error in all_errors:
+            print(error)
         exit(1)  # Exit with error code if there are any errors
     else:
         print("No errors found.")
