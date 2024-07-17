@@ -3,10 +3,10 @@
         "scope": "xml",
         "prefix": "akteur",
         "body": [
-            "<akteur id=\"${1:id}\">",
-            "\t<name>${2:Vollständiger Name}</name>",
-            "\t<lebensdaten>${3:Geburtsjahr}–${4:Sterbejahr}</lebensdaten>",
-            "\t<gnd>${5:GND-ID}</gnd>${6}",
+            "<akteur id=\"${1}\">",
+            "\t<name>${2}</name>",
+            "\t<lebensdaten>${3}</lebensdaten>",
+            "\t<gnd>${5}</gnd>",
             "</akteur>"
         ]
     },
@@ -36,10 +36,10 @@
         "scope": "xml",
         "prefix": "werk",
         "body": [
-            "<werk id=\"${1:id}\">",
-            "\t<akteur ref=\"${2:id}\" />",
-            "\t<zitation>${3:Volltext-Zitat}</zitation>",
-            "\t<url address=\"${4:id}\" >${5:URL-Text}</url>${6}",
+            "<werk id=\"${1}\">",
+            "\t<akteur ref=\"${2}\" />",
+            "\t<zitation>${3}</zitation>",
+            "\t<url address=\"${4}\" >${5}</url>${6}",
             "</werk>"
         ]
     },
