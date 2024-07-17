@@ -147,7 +147,7 @@
     <xsd:annotation>
       <xsd:documentation>Bezieht sich auf einen Beitrag und qualifiziert diese Beziehung. </xsd:documentation>
     </xsd:annotation>
-    <xsd:simpleContent>
+    <xsd:complexContent>
       <xsd:extension base="kgpz:ref">
         <xsd:attribute name="kat" use="required">
           <xsd:annotation>
@@ -167,14 +167,14 @@
           </xsd:annotation>
         </xsd:attribute>
       </xsd:extension>
-    </xsd:simpleContent>
+    </xsd:complexContent>
   </xsd:complexType>
 
   <xsd:complexType name="werkref">
     <xsd:annotation>
       <xsd:documentation> Bezieht sich auf ein Werk und qualifiziert diese Beziehung. </xsd:documentation>
     </xsd:annotation>
-    <xsd:simpleContent>
+    <xsd:complexContent>
       <xsd:extension base="kgpz:ref">
         <xsd:attribute name="kat" use="required">
           <xsd:annotation>
@@ -199,14 +199,14 @@
           </xsd:annotation>
         </xsd:attribute>
       </xsd:extension>
-    </xsd:simpleContent>
+    </xsd:complexContent>
   </xsd:complexType>
 
   <xsd:complexType name="akteurref">
     <xsd:annotation>
       <xsd:documentation> Bezieht sich auf einen Akteur und qualifiziert diese Beziehung. </xsd:documentation>
     </xsd:annotation>
-    <xsd:simpleContent>
+    <xsd:complexContent>
       <xsd:extension base="kgpz:ref">
         <xsd:attribute name="kat" use="optional" default="autor">
           <xsd:annotation>
@@ -226,14 +226,14 @@
           </xsd:simpleType>
         </xsd:attribute>
       </xsd:extension>
-    </xsd:simpleContent>
+    </xsd:complexContent>
   </xsd:complexType>
 
   <xsd:complexType name="ortref">
     <xsd:annotation>
       <xsd:documentation> Bezieht sich auf einen Ort und qualifiziert diese Beziehung. </xsd:documentation>
     </xsd:annotation>
-    <xsd:simpleContent>
+    <xsd:complexContent>
       <xsd:extension base="kgpz:ref">
         <xsd:attribute name="kat" use="optional" default="entstehungsort">
           <xsd:annotation>
@@ -246,7 +246,7 @@
           </xsd:simpleType>
         </xsd:attribute>
       </xsd:extension>
-    </xsd:simpleContent>
+    </xsd:complexContent>
   </xsd:complexType>
 
   <xsd:complexType name="wwwlink">
