@@ -36,7 +36,7 @@
         <kategorie ref="einkommende-fremde" />
     </beitrag>
 
-     <!-- 03 -->
+    <!-- 03 -->
     <beitrag>
         <stueck datum="1766" nr="3" von="11" />
         <werk kat="rezension" ref="fanny-histoire"></werk>
@@ -54,7 +54,7 @@
         <ort ref="rinteln" />
     </beitrag>
     <beitrag>
-        <stueck datum="1766" nr="3" von="13" bis="14"/>
+        <stueck datum="1766" nr="3" von="13" bis="14" />
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
@@ -62,147 +62,149 @@
         <kategorie ref="wechselkurse" />
     </beitrag>
 
-     <!-- 04 -->
+    <!-- 04 -->
     <beitrag>
         <stueck datum="1766" nr="4" von="15" bis="16" />
         <werk kat="rezension" ref="klugheit-alber"></werk>
-        <ort ref="leipzig" /> 
+        <ort ref="leipzig" />
         <ort ref="helmstedt" />
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="4" von="16" bis="17" />
         <werk kat="rezension" ref="abildgaard-abhandlung"></werk>
-        <ort ref="kopenhagen" /> 
+        <ort ref="kopenhagen" />
     </beitrag>
     <beitrag>
-        <stueck datum="1766" nr="4" von="17" bis="18"/>
+        <stueck datum="1766" nr="4" von="17" bis="18" />
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
-        <stueck datum="1766" nr="4" von="18"/>
+        <stueck datum="1766" nr="4" von="18" />
         <kategorie ref="einkommende fremde" />
     </beitrag>
 
-<!-- 05 -->
-<beitrag>
-    <stueck datum="1766" nr="5" von="19" bis="20" />
-    <werk kat="rezension" ref="gruner-anweisung"></werk>
-    <ort ref="halle" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="5" von="20" bis="21" />
-    <werk kat="rezension" ref="hennings-abhandlung"></werk>
-    <ort ref="jena" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="5" von="21" bis="22"/>
-    <kategorie ref="weltnachrichten" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="5" von="22" />
-    <kategorie ref="wechselkurse" />
-</beitrag>
-
-<!-- 06 -->
-<beitrag>
-    <stueck datum="1766" nr="6" von="23" bis="24" />
-    <werk kat="rezension" ref="vom-stande-briefe"></werk>
-    <ort ref="leipzig" />
-    <ort ref="breslau" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="6" von="24"/>
-    <werk kat="rezension" ref="nonnen-einleitung"></werk>
-    <ort ref="bremen" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="6" von="25" bis="26"/>
-    <kategorie ref="weltnachrichten" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="6" von="26"/>
-    <kategorie ref="einkommende fremde" />
-</beitrag>
-
-<!-- 07 -->
-<beitrag>
-    <stueck datum="1766" nr="7" von="27" bis="28" />
-    <werk kat="rezension" ref="sendschreiben-abbt"></werk>
-    <ort ref="danzig" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="7" von="28" bis="29" />
-    <werk kat="rezension" ref="neue-bibliothek-weiße"></werk>
-    <ort ref="leipzig" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="7" von="29" bis="30"/>
-    <kategorie ref="weltnachrichten" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="7" von="30"/>
-    <kategorie ref="wechselkurse" />
-</beitrag>
-
-<!-- 08 -->
-<beitrag>
-    <stueck datum="1766" nr="8" von="31" bis="32" />
-    <werk kat="rezension" ref="horams-morell"></werk>
-    <ort ref="leipzig" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="8" von="32" bis="33" />
-<kategorie ref="gelehrte-nachrichten"/>
-<ort ref="kgsb" />
-<anmerkung>Nachricht über die Feiern der Königsberger Akademie anläslich des Krönungstages Friedrichs I. und Geburtstage Friedrichs II.</anmerkung>
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="8" von="33" />
-<kategorie ref="gelehrte-nachrichten"/>
-<ort ref="kgsb" />
-<anmerkung>Nachricht über der Königlich Deutschen Gesellschaft anläßlich des Geburtstages Friedrichs II.</anmerkung>
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="8" von="33" bis="34"/>
-    <kategorie ref="weltnachrichten" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="8" von="34"/>
-    <kategorie ref="avertissement" />
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="8" von="34" />
-    <kategorie ref="einkommende-fremde" />
-</beitrag>
-
-<!-- 09 -->
-<beitrag>
-<stueck datum="1766" nr="9" von="35" bis="36" />
-<werk kat="rezension" ref="miller-einladungsschrift"></werk>
-<akteur ref="herder">SWS XXII, 51–54</akteur>
-</beitrag>
-<beitrag>
-    <stueck datum="1766" nr="9" von="36" bis="37" />
-    <werk kat="rezension" ref="lart-de-bien"></werk>
-    </beitrag>
-<beitrag>
-        <stueck datum="1766" nr="9" von="37" bis="38" />
-        <kategorie ref="weltnachrichten" />
- </beitrag>
- <beitrag>
-    <stueck datum="1766" nr="9" von="38" />
-    <kategorie ref="wechselkurse" />
-</beitrag>
-
-<!-- 10 -->
-<beitrag>
-    <stueck datum="1766" nr="10" von="39" bis="40" />
-    <werk kat="rezension" ref="schmidt-schreiben"></werk>
-    <ort ref="quedlinburg" />
-    <ort ref="leipzig" />
+    <!-- 05 -->
+    <beitrag>
+        <stueck datum="1766" nr="5" von="19" bis="20" />
+        <werk kat="rezension" ref="gruner-anweisung"></werk>
+        <ort ref="halle" />
     </beitrag>
     <beitrag>
-        <stueck datum="1766" nr="10" von="40"/>
+        <stueck datum="1766" nr="5" von="20" bis="21" />
+        <werk kat="rezension" ref="hennings-abhandlung"></werk>
+        <ort ref="jena" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="5" von="21" bis="22" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="5" von="22" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <!-- 06 -->
+    <beitrag>
+        <stueck datum="1766" nr="6" von="23" bis="24" />
+        <werk kat="rezension" ref="vom-stande-briefe"></werk>
+        <ort ref="leipzig" />
+        <ort ref="breslau" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="6" von="24" />
+        <werk kat="rezension" ref="nonnen-einleitung"></werk>
+        <ort ref="bremen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="6" von="25" bis="26" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="6" von="26" />
+        <kategorie ref="einkommende fremde" />
+    </beitrag>
+
+    <!-- 07 -->
+    <beitrag>
+        <stueck datum="1766" nr="7" von="27" bis="28" />
+        <werk kat="rezension" ref="sendschreiben-abbt"></werk>
+        <ort ref="danzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="7" von="28" bis="29" />
+        <werk kat="rezension" ref="neue-bibliothek-weiße"></werk>
+        <ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="7" von="29" bis="30" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="7" von="30" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <!-- 08 -->
+    <beitrag>
+        <stueck datum="1766" nr="8" von="31" bis="32" />
+        <werk kat="rezension" ref="horams-morell"></werk>
+        <ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="8" von="32" bis="33" />
+        <kategorie ref="gelehrte-nachrichten" />
+        <ort ref="kgsb" />
+        <anmerkung>Nachricht über die Feiern der Königsberger Akademie anläslich des Krönungstages
+            Friedrichs I. und Geburtstage Friedrichs II.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="8" von="33" />
+        <kategorie ref="gelehrte-nachrichten" />
+        <ort ref="kgsb" />
+        <anmerkung>Nachricht über der Königlich Deutschen Gesellschaft anläßlich des Geburtstages
+            Friedrichs II.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="8" von="33" bis="34" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="8" von="34" />
+        <kategorie ref="avertissement" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="8" von="34" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    <!-- 09 -->
+    <beitrag>
+        <stueck datum="1766" nr="9" von="35" bis="36" />
+        <werk kat="rezension" ref="miller-einladungsschrift"></werk>
+        <akteur ref="herder">SWS XXII, 51–54</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="9" von="36" bis="37" />
+        <werk kat="rezension" ref="lart-de-bien"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="9" von="37" bis="38" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="9" von="38" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <!-- 10 -->
+    <beitrag>
+        <stueck datum="1766" nr="10" von="39" bis="40" />
+        <werk kat="rezension" ref="schmidt-schreiben"></werk>
+        <ort ref="quedlinburg" />
+        <ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="10" von="40" />
         <werk ref="histoire-de-france" kat="anzeige" />
         <anmerkung>Anzeige von der deutschen Übersetzung des Abbé Velly histoire de France.</anmerkung>
         </beitrag>
@@ -220,30 +222,30 @@
             <kategorie ref="buecher" />
      </beitrag>
 
-     <!-- 11 -->
-     <beitrag>
+    <!-- 11 -->
+    <beitrag>
         <stueck datum="1766" nr="11" von="43" bis="44" />
         <werk kat="rezension" ref="mylius-versuche-ueber-verschiedene-gegenstaende"></werk>
         <ort ref="berlin" />
         <akteur ref="herder">SWS I, 123ff.</akteur>
-        </beitrag>
+    </beitrag>
     <beitrag>
-        <stueck datum="1766" nr="11" von="44"/>
+        <stueck datum="1766" nr="11" von="44" />
         <werk kat="rezension" ref="lange-scherze"></werk>
         <ort ref="berlin" />
         <ort ref="stralsund" />
-        </beitrag>
+    </beitrag>
     <beitrag>
         <stueck datum="1766" nr="11" von="44" bis="45" />
         <werk kat="rezension" ref="idyllen"></werk>
         <ort ref="berlin" />
         <ort ref="stralsund" />
-        </beitrag>
+    </beitrag>
     <beitrag>
         <stueck datum="1766" nr="11" von="44" bis="45" />
         <kategorie ref="weltnachrichten" />
-     </beitrag>
-     <beitrag>
+    </beitrag>
+    <beitrag>
         <stueck datum="1766" nr="11" von="45" />
         <kategorie ref="wechselkurse" />
     </beitrag>
