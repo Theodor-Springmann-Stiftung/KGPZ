@@ -567,4 +567,32 @@
         <kategorie ref="einkommende-fremde" />
     </beitrag>
 
+    <beitrag>
+        <stueck datum="1771" nr="9" von="33"/>
+        <werk kat="rezension" ref="pennyless-empfindsamegedanken"></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="9" von="33" bis="34"/>
+        <werk kat="rezension" ref="abdalli-gedanken"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="9" von="34" bis="36"/>
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="9" von="36"/>
+        <kategorie ref="avertissement" />
+        <kategorie ref="lokalanzeigen"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="9" von="36"/>
+        <kategorie ref="avertissement" />
+        <kategorie ref="lotterie"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="9" von="36"/>
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
 </beitraege>
