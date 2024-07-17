@@ -158,6 +158,7 @@
               <xsd:enumeration value="erwähnung" />
               <xsd:enumeration value="kommentar" />
               <xsd:enumeration value="replik" />
+              <xsd:enumeration value="nachtrag" />
             </xsd:restriction>
           </xsd:simpleType>
         </xsd:attribute>
