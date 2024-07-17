@@ -1,0 +1,40 @@
+name: Custom XML Linter
+
+on:
+  push:
+    paths:
+      - 'XML/**/*.xml'
+  pull_request:
+    paths:
+      - 'XML/**/*.xml'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install lxml
+    
+    - name: Run custom linter
+      run: python Scripts/custom_linter.py
+    
+    - name: Process linter output
+      if: failure()
+      run: |
+        python Scripts/process_linter_output.py
+
+    - name: Upload linter results
+      if: failure()
+      uses: actions/upload-artifact@v3
+      with:
+        name: linter-results
+        path: linter_results.txt
