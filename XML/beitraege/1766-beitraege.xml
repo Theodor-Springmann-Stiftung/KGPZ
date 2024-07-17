@@ -216,4 +216,32 @@
             <kategorie ref="einkommende-fremde" />
      </beitrag>
 
+     <!-- 11 -->
+     <beitrag>
+        <stueck datum="1766" nr="11" von="43" bis="44" />
+        <werk kat="rezension" ref="mylius-versuche-ueber-verschiedene-gegenstaende"></werk>
+        <ort ref="berlin" />
+        <akteur ref="herder">SWS I, 123ff.</akteur>
+        </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="11" von="44"/>
+        <werk kat="rezension" ref="lange-scherze"></werk>
+        <ort ref="berlin" />
+        <ort ref="stralsund" />
+        </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="11" von="44" bis="45" />
+        <werk kat="rezension" ref="idyllen"></werk>
+        <ort ref="berlin" />
+        <ort ref="stralsund" />
+        </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="11" von="44" bis="45" />
+        <kategorie ref="weltnachrichten" />
+     </beitrag>
+     <beitrag>
+        <stueck datum="1766" nr="11" von="45" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
 </beitraege>
