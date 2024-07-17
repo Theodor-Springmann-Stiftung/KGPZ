@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=16_07_2024_23:04</Creator>
+        <Created>2024-07-16T22:47:18.141+02:00</Created>
+        <LastChange>2024-07-16T23:04:33.112+02:00</LastChange>
+        <TranskribusMetadata docId="3309906" pageId="75105793" pageNr="5" tsid="178077519" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=IDIOOLMMOIPJRFHCPTAXXTDG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CZRGEKBGXWTOTCBLOLFJPWHI" imageId="60872829"/>
+    </Metadata>
+    <Page imageFilename="75105793.jpg" imageWidth="2679" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721163873113" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_10"/>
+                <RegionRefIndexed index="1" regionRef="r_23"/>
+                <RegionRefIndexed index="2" regionRef="r_22"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_10" custom="readingOrder {index:0;}">
+            <Coords points="467,505 2272,505 2272,706 467,706"/>
+            <TextLine id="r_10_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1039,577 1664,594 1664,520 1629,507 1039,514"/>
+                <Baseline points="1051,567 1095,564 1140,564 1185,564 1230,564 1275,564 1319,564 1364,561 1409,561 1454,561 1499,561 1543,561 1588,561 1633,564 1669,570"/>
+                <TextEquiv>
+                    <Unicode>Beylage zum 3ten Stück,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="518,679 797,712 1459,675 1714,716 2178,664 2178,601 2134,599 799,629 675,590 518,634"/>
+                <Baseline points="531,680 570,680 615,680 659,683 704,680 749,677 794,677 839,677 883,677 928,674 973,677 1018,674 1063,674 1107,674 1152,671 1197,671 1242,671 1286,671 1331,674 1376,668 1421,668 1466,668 1510,668 1555,668 1600,668 1645,668 1690,671 1734,668 1779,668 1824,665 1869,662 1914,662 1958,659 2003,662 2048,659 2093,659 2138,659 2182,656"/>
+                <TextEquiv>
+                    <Unicode>der Königsbergschen gelehrten und politischen Zeitung, 1771.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_23" custom="readingOrder {index:1;}">
+            <Coords points="1359,2879 467,2889 467,706 1354,706"/>
+            <TextLine id="r_23_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="483,845 2071,806 2230,793 2232,747 960,793 483,766"/>
+                <Baseline points="495,827 504,827 549,824 594,824 639,827 683,824 728,821 773,821 818,821 862,821 907,821 952,821 997,818 1042,818 1086,821 1131,818 1176,818 1221,815 1266,815 1310,815 1355,815 1379,815 1385,815 1430,812 1475,812 1519,812 1564,812 1609,809 1654,809 1699,806 1743,806 1788,803 1833,803 1878,800 1923,800 1967,797 2012,794 2057,791 2102,791 2146,788 2191,788 2236,785"/>
+                <TextEquiv>
+                    <Unicode>Fortsetzung der im 1sten Stück abgebrochenen 38000 deutschen Meilen beträgt. Der Durchmesser der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="836,871 854,867 869,878 878,873 886,880 906,880 919,867 928,875 941,869 958,880 980,875 999,882 999,830 982,832 969,823 960,830 947,823 917,832 908,825 888,834 880,825 836,825"/>
+                <Baseline points="848,859 892,862 937,862 982,862 1006,865"/>
+                <TextEquiv>
+                    <Unicode>Beylage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="540,919 1344,915 1344,864 1269,847 995,882 753,849 671,880 540,860"/>
+                <Baseline points="552,910 585,907 630,904 674,904 719,901 764,901 809,901 854,904 898,904 943,904 988,904 1033,907 1077,904 1122,904 1167,904 1212,901 1257,901 1301,901 1346,904"/>
+                <TextEquiv>
+                    <Unicode>Der berühmte Huygens hat gefunden, daß Sirius,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="479,949 1348,952 1348,915 1302,906 479,908"/>
+                <Baseline points="492,943 501,943 546,946 591,943 636,940 680,940 725,940 770,940 815,940 859,940 904,940 949,940 994,940 1039,943 1083,943 1128,940 1173,940 1218,940 1263,940 1307,940 1352,937"/>
+                <TextEquiv>
+                    <Unicode>der größte und der nachste unter den Fixsternen, dem An¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="494,989 1341,980 1341,945 494,949"/>
+                <Baseline points="507,982 540,982 585,979 630,979 674,976 719,976 764,976 809,979 854,979 898,979 943,979 988,979 1033,976 1077,979 1122,976 1167,979 1212,979 1257,979 1301,976 1346,976"/>
+                <TextEquiv>
+                    <Unicode>schein nach 27, 664mal kleiner als die Sonne ist. Da nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="486,1019 1344,1023 1344,980 486,984"/>
+                <Baseline points="498,1018 540,1018 585,1015 630,1015 674,1015 719,1015 764,1015 809,1015 854,1015 898,1015 943,1015 988,1015 1033,1015 1077,1012 1122,1015 1167,1015 1212,1015 1257,1015 1301,1015 1346,1015"/>
+                <TextEquiv>
+                    <Unicode>die Entfernung der Sterne von der Erde desto größer ist, je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="483,1067 1337,1054 1322,1021 483,1017"/>
+                <Baseline points="495,1057 537,1054 582,1054 627,1054 671,1054 716,1054 761,1054 806,1054 851,1054 895,1054 940,1051 985,1054 1030,1051 1074,1051 1119,1051 1164,1051 1209,1054 1254,1051 1298,1048 1343,1048"/>
+                <TextEquiv>
+                    <Unicode>kleiner sie erscheinen, so muß dieser Stern über 700, 00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="492,1095 1350,1093 1333,1054 492,1063"/>
+                <Baseline points="504,1092 549,1089 594,1089 639,1089 683,1089 728,1089 773,1089 818,1086 862,1089 907,1089 952,1086 997,1086 1042,1086 1086,1086 1131,1086 1176,1083 1221,1086 1266,1086 1310,1083 1355,1083"/>
+                <TextEquiv>
+                    <Unicode>Millionen Meilen von der Erde ent rnt seyn. Dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="492,1137 1352,1128 1352,1091 492,1095"/>
+                <Baseline points="504,1131 507,1128 552,1125 597,1125 642,1125 686,1122 731,1125 776,1125 821,1125 865,1122 910,1122 955,1122 1000,1122 1045,1122 1089,1119 1134,1122 1179,1122 1224,1122 1269,1119 1313,1119 1358,1119"/>
+                <TextEquiv>
+                    <Unicode>Abstand ist so groß, daß eine Kanonenkugel fast 700, 000</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="494,1174 1346,1165 1346,1126 494,1134"/>
+                <Baseline points="507,1167 546,1164 591,1161 636,1161 680,1161 725,1158 770,1161 815,1161 859,1161 904,1161 949,1161 994,1158 1039,1158 1083,1158 1128,1158 1173,1155 1218,1158 1263,1155 1307,1155 1352,1158"/>
+                <TextEquiv>
+                    <Unicode>Jahre zubringen müßte, ehe sie bis zum Sirius gelangte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="492,1209 1346,1226 1333,1161 492,1176"/>
+                <Baseline points="504,1200 546,1197 591,1200 636,1197 680,1197 725,1197 770,1197 815,1197 859,1197 904,1197 949,1197 994,1197 1039,1200 1083,1200 1128,1197 1173,1197 1218,1194 1263,1194 1307,1194 1352,1194"/>
+                <TextEquiv>
+                    <Unicode>Es ist sehr wahrscheinlich, daß all Fixsterne mehr oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="483,1256 538,1263 575,1239 1030,1246 1030,1211 989,1200 483,1202"/>
+                <Baseline points="495,1239 498,1239 543,1239 588,1236 633,1236 677,1236 722,1236 767,1233 812,1233 856,1233 901,1236 946,1233 991,1236 1036,1236"/>
+                <TextEquiv>
+                    <Unicode>weniger von einander entfernt sin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="533,1285 1348,1278 1348,1228 1230,1215 1113,1248 533,1256"/>
+                <Baseline points="546,1275 591,1275 636,1272 680,1272 725,1272 770,1272 815,1272 859,1272 904,1272 949,1275 994,1272 1039,1272 1083,1272 1128,1272 1173,1272 1218,1272 1263,1269 1307,1269 1352,1275"/>
+                <TextEquiv>
+                    <Unicode>Der Polarstern ist ein Stern von er zweyten Größe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="490,1317 1352,1311 1352,1280 1296,1274 560,1287 490,1256"/>
+                <Baseline points="501,1310 507,1310 552,1313 597,1313 642,1310 686,1310 731,1307 776,1310 821,1310 865,1310 910,1310 955,1310 1000,1310 1045,1307 1089,1307 1134,1307 1179,1307 1224,1307 1269,1304 1313,1304 1358,1304"/>
+                <TextEquiv>
+                    <Unicode>der sich am Ende des Schwanzes von dem kleinen Bären</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="492,1354 1346,1354 1346,1311 1320,1309 492,1317"/>
+                <Baseline points="504,1349 546,1349 591,1346 636,1346 680,1346 725,1346 770,1346 815,1346 859,1346 904,1346 949,1346 994,1346 1039,1346 1083,1346 1128,1343 1173,1346 1218,1343 1263,1343 1307,1343 1352,1346"/>
+                <TextEquiv>
+                    <Unicode>befindet. Er ist nur 2 Grade von dem Nordpol entfernt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="492,1389 1350,1391 1350,1354 1317,1348 492,1354"/>
+                <Baseline points="504,1388 549,1385 594,1385 639,1385 683,1385 728,1382 773,1382 818,1385 862,1382 907,1385 952,1382 997,1382 1042,1382 1086,1382 1131,1382 1176,1382 1221,1382 1266,1382 1310,1379 1355,1382"/>
+                <TextEquiv>
+                    <Unicode>Man kan ihn finden, wenn man seine Augen nach dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="492,1435 1344,1431 1330,1383 492,1389"/>
+                <Baseline points="504,1424 543,1424 588,1421 633,1421 677,1421 722,1421 767,1421 812,1421 856,1421 901,1421 946,1421 991,1418 1036,1418 1080,1418 1125,1418 1170,1418 1215,1418 1260,1418 1304,1418 1349,1415"/>
+                <TextEquiv>
+                    <Unicode>schönen Gestirn des großen Bären oder Heerwagen rich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="494,1463 1344,1461 1344,1428 1278,1420 494,1433"/>
+                <Baseline points="507,1457 543,1460 588,1457 633,1457 677,1457 722,1457 767,1457 812,1457 856,1457 901,1460 946,1457 991,1457 1036,1457 1080,1457 1125,1454 1170,1457 1215,1454 1260,1454 1304,1454 1349,1454"/>
+                <TextEquiv>
+                    <Unicode>tet, und in Gedanken eine gerade Linie durch die zweer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="490,1507 1348,1496 1348,1459 1304,1457 490,1463"/>
+                <Baseline points="501,1496 546,1496 591,1496 636,1496 680,1496 725,1496 770,1493 815,1493 859,1496 904,1496 949,1496 994,1496 1039,1493 1083,1493 1128,1493 1173,1493 1218,1493 1263,1490 1307,1490 1352,1490"/>
+                <TextEquiv>
+                    <Unicode>letzten Sterne des großen Baren zieht. Diese Linie wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="490,1542 1348,1533 1348,1496 1278,1489 490,1513"/>
+                <Baseline points="501,1534 546,1531 591,1531 636,1531 680,1531 725,1531 770,1528 815,1528 859,1531 904,1531 949,1531 994,1531 1039,1531 1083,1528 1128,1531 1173,1528 1218,1531 1263,1528 1307,1525 1352,1525"/>
+                <TextEquiv>
+                    <Unicode>gerade durch den Polarstern gehen. Der große Bär ent¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="490,1577 1348,1572 1348,1539 1293,1529 490,1544"/>
+                <Baseline points="501,1570 546,1570 591,1573 636,1567 680,1567 725,1567 770,1567 815,1567 859,1567 904,1567 949,1567 994,1567 1039,1567 1083,1567 1128,1564 1173,1564 1218,1564 1263,1564 1307,1564 1352,1564"/>
+                <TextEquiv>
+                    <Unicode>hält 7 große und helle Sterne, davon 4 in einem Viereck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="492,1618 1259,1616 1350,1607 1352,1577 494,1577"/>
+                <Baseline points="504,1612 549,1609 594,1606 639,1606 683,1606 728,1603 773,1603 818,1603 862,1603 907,1603 952,1603 997,1603 1042,1603 1086,1603 1131,1600 1176,1603 1221,1603 1266,1603 1310,1600 1355,1603"/>
+                <TextEquiv>
+                    <Unicode>stehn und den Leib bilden, und drey den Schwanz vorstellen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="553,1653 1350,1651 1350,1605 553,1614"/>
+                <Baseline points="564,1642 594,1642 639,1642 683,1642 728,1642 773,1639 818,1639 862,1639 907,1639 952,1639 997,1639 1042,1639 1086,1639 1131,1639 1176,1639 1221,1639 1266,1639 1310,1639 1355,1639"/>
+                <TextEquiv>
+                    <Unicode>Es ist zu bemerken, daß dieser Stern nicht immer die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="494,1681 1352,1683 1352,1651 1313,1642 771,1659 575,1653 494,1620"/>
+                <Baseline points="507,1678 552,1678 597,1678 642,1678 686,1678 731,1678 776,1678 821,1678 865,1678 910,1678 955,1681 1000,1678 1045,1678 1089,1675 1134,1675 1179,1675 1224,1675 1269,1675 1313,1675 1358,1675"/>
+                <TextEquiv>
+                    <Unicode>Ehre haben wird, unser Polarstern zu seyn. Es ist eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="492,1725 1352,1720 1352,1683 1239,1674 579,1701 492,1679"/>
+                <Baseline points="504,1716 507,1716 552,1713 597,1716 642,1716 686,1716 731,1716 776,1713 821,1716 865,1713 910,1713 955,1713 1000,1713 1045,1713 1089,1713 1134,1711 1179,1713 1224,1713 1269,1713 1313,1711 1358,1705"/>
+                <TextEquiv>
+                    <Unicode>Zeit gewesen, da er so weit von dem Pole sich entfernt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="483,1759 1344,1757 1344,1718 1304,1714 483,1731"/>
+                <Baseline points="495,1749 498,1749 543,1752 588,1752 633,1752 677,1752 722,1752 767,1752 812,1749 856,1752 901,1752 946,1749 991,1749 1036,1749 1080,1749 1125,1749 1170,1749 1215,1749 1260,1749 1304,1746 1349,1746"/>
+                <TextEquiv>
+                    <Unicode>befunden hat, daß der Stern, der auf der Schulter des klei=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="490,1794 1344,1794 1344,1757 1289,1751 490,1759"/>
+                <Baseline points="501,1785 546,1788 591,1788 636,1788 680,1788 725,1788 770,1785 815,1785 859,1785 904,1785 949,1788 994,1788 1039,1785 1083,1785 1128,1785 1173,1785 1218,1782 1263,1782 1307,1782 1349,1785"/>
+                <TextEquiv>
+                    <Unicode>nen Bären ist, sein Amt in Ansehung der Erde verwalte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="492,1831 1352,1820 1315,1788 492,1794"/>
+                <Baseline points="504,1824 507,1821 552,1824 597,1824 642,1821 686,1821 731,1821 776,1818 821,1818 865,1818 910,1821 955,1818 1000,1818 1045,1818 1089,1818 1134,1818 1179,1818 1224,1818 1269,1815 1313,1818 1358,1818"/>
+                <TextEquiv>
+                    <Unicode>hat. Tycho de Brahe hat gefunden, daß der heutige Po=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="490,1873 1344,1862 1344,1820 490,1829"/>
+                <Baseline points="501,1860 543,1860 588,1860 633,1860 677,1860 722,1857 767,1857 812,1854 856,1854 901,1854 946,1854 991,1854 1036,1854 1080,1854 1125,1851 1170,1851 1215,1854 1260,1851 1304,1854 1349,1851"/>
+                <TextEquiv>
+                    <Unicode>larstern alle Jahre um 20 Sekunden sich dem Nordpolt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="492,1905 1259,1903 1339,1897 1341,1866 494,1868"/>
+                <Baseline points="504,1899 540,1899 585,1899 630,1899 674,1896 719,1896 764,1893 809,1893 854,1893 898,1896 943,1893 988,1893 1033,1893 1077,1890 1122,1890 1167,1890 1212,1890 1257,1890 1301,1890 1346,1890"/>
+                <TextEquiv>
+                    <Unicode>nähert, so daß er in 2103 Jahren nicht weiter als um;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="490,1942 1344,1934 1324,1892 492,1907"/>
+                <Baseline points="501,1934 546,1937 591,1934 636,1934 680,1934 725,1934 770,1934 815,1931 859,1931 904,1931 949,1931 994,1931 1039,1931 1083,1928 1128,1928 1173,1928 1218,1928 1263,1926 1307,1926 1352,1926"/>
+                <TextEquiv>
+                    <Unicode>Minuten von demselben entfernt seyn wird. Alsdenn wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="490,1986 1348,1973 1348,1931 490,1945"/>
+                <Baseline points="501,1970 546,1973 591,1970 636,1970 680,1970 725,1970 770,1970 815,1967 859,1967 904,1970 949,1967 994,1967 1039,1967 1083,1967 1128,1967 1173,1967 1218,1964 1263,1967 1307,1964 1352,1964"/>
+                <TextEquiv>
+                    <Unicode>er zurück gehen, und nach Verlauf einiger Jahrhunderte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="490,2014 1348,2010 1348,1973 1298,1968 490,1986"/>
+                <Baseline points="501,2009 546,2009 591,2009 636,2009 680,2006 725,2009 770,2006 815,2006 859,2006 904,2006 949,2006 994,2006 1039,2006 1083,2006 1128,2003 1173,2003 1218,2003 1263,2003 1307,2003 1352,2003"/>
+                <TextEquiv>
+                    <Unicode>ausser Stande seyn, uns als Polarstern zu dienen. Ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="492,2058 1182,2073 1265,2049 1346,2073 1346,2010 1298,2005 492,2019"/>
+                <Baseline points="504,2048 546,2045 591,2045 636,2042 680,2042 725,2045 770,2045 815,2042 859,2042 904,2045 949,2045 994,2045 1039,2045 1083,2042 1128,2042 1173,2042 1218,2042 1263,2042 1307,2042 1352,2042"/>
+                <TextEquiv>
+                    <Unicode>anderer Stern wird diesen schönen Namen und diese wich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="492,2097 560,2112 692,2093 849,2112 962,2097 962,2056 943,2049 492,2056"/>
+                <Baseline points="504,2084 519,2084 564,2084 609,2084 653,2084 698,2084 743,2081 788,2081 833,2081 877,2081 922,2081 967,2081"/>
+                <TextEquiv>
+                    <Unicode>tige Verrichtung übernehmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="627,2143 662,2158 1204,2149 1204,2103 1056,2099 1034,2080 860,2112 627,2093"/>
+                <Baseline points="639,2141 671,2141 716,2141 761,2141 806,2141 851,2138 895,2141 940,2138 985,2138 1030,2138 1074,2135 1119,2135 1164,2138 1209,2138"/>
+                <TextEquiv>
+                    <Unicode>Die Sonne nebst den Planeten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="527,2186 1357,2182 1357,2149 1298,2136 686,2158 527,2138"/>
+                <Baseline points="540,2179 555,2176 600,2179 644,2179 689,2179 734,2182 779,2179 824,2179 868,2179 913,2179 958,2176 1003,2176 1048,2176 1092,2176 1137,2176 1182,2176 1227,2176 1272,2176 1316,2176 1361,2173"/>
+                <TextEquiv>
+                    <Unicode>Es sind nur sechs Planeten, die sich um die Sonne bewe=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="486,2241 1324,2223 1346,2186 488,2182"/>
+                <Baseline points="498,2224 543,2218 588,2218 633,2218 677,2218 722,2218 767,2215 812,2218 856,2215 901,2215 946,2215 991,2215 1036,2212 1080,2212 1125,2212 1170,2212 1215,2212 1260,2212 1304,2212 1349,2212"/>
+                <TextEquiv>
+                    <Unicode>gen: Merkur, Venus, die Erde, Mars, Jupiter u. Saturn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="549,2260 1344,2254 1344,2219 1224,2215 549,2230"/>
+                <Baseline points="561,2254 588,2254 633,2254 677,2254 722,2254 767,2254 812,2254 856,2254 901,2254 946,2251 991,2251 1036,2251 1080,2251 1125,2248 1170,2248 1215,2248 1260,2251 1304,2251 1349,2248"/>
+                <TextEquiv>
+                    <Unicode>Die Sonne ist die Quelle alles Lichts, das die Erde und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="490,2295 1350,2291 1350,2256 490,2249"/>
+                <Baseline points="501,2290 504,2290 549,2293 594,2290 639,2290 683,2293 728,2290 773,2290 818,2290 862,2290 907,2290 952,2290 997,2290 1042,2287 1086,2287 1131,2287 1176,2287 1221,2287 1266,2287 1310,2287 1355,2287"/>
+                <TextEquiv>
+                    <Unicode>die andern Planeten erleuchtet, und alles Feuers, das sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="490,2332 1352,2328 1352,2297 1285,2291 490,2295"/>
+                <Baseline points="501,2329 507,2329 552,2329 597,2329 642,2329 686,2329 731,2329 776,2329 821,2326 865,2329 910,2326 955,2326 1000,2326 1045,2326 1089,2323 1134,2323 1179,2326 1224,2326 1269,2323 1313,2323 1358,2320"/>
+                <TextEquiv>
+                    <Unicode>erwärmt. Die Materie, woraus dieselbe gebildet ist, be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="492,2373 1346,2367 1346,2334 1256,2328 492,2334"/>
+                <Baseline points="504,2367 546,2367 591,2364 636,2364 680,2364 725,2364 770,2364 815,2364 859,2364 904,2364 949,2364 994,2361 1039,2361 1083,2361 1128,2358 1173,2361 1218,2361 1263,2361 1307,2361 1352,2361"/>
+                <TextEquiv>
+                    <Unicode>steht nicht aus lauter ähnlichen Theilen. Man nimm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="490,2415 1302,2410 1352,2406 1354,2371 492,2371"/>
+                <Baseline points="501,2400 507,2403 552,2403 597,2403 642,2400 686,2400 731,2403 776,2400 821,2400 865,2400 910,2403 955,2400 1000,2400 1045,2397 1089,2397 1134,2397 1179,2397 1224,2397 1269,2400 1313,2397 1358,2394"/>
+                <TextEquiv>
+                    <Unicode>öfters schwarze Flecken in derselben wahr, davon einige ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="494,2443 1359,2443 1350,2402 494,2410"/>
+                <Baseline points="507,2439 513,2439 558,2436 603,2439 647,2439 692,2439 737,2439 782,2439 827,2436 871,2439 916,2439 961,2439 1006,2436 1051,2433 1095,2433 1140,2433 1185,2436 1230,2436 1275,2436 1319,2436 1364,2433"/>
+                <TextEquiv>
+                    <Unicode>schwinden, ehe sie noch ihre ganze Oberfläche durchgelaufen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="490,2519 1350,2517 1350,2476 1293,2471 490,2489"/>
+                <Baseline points="501,2514 504,2514 549,2514 594,2511 639,2511 683,2514 728,2514 773,2511 818,2511 862,2514 907,2514 952,2511 997,2508 1042,2511 1086,2508 1131,2508 1176,2508 1221,2508 1266,2511 1310,2508 1355,2508"/>
+                <TextEquiv>
+                    <Unicode>der so einfach zu seyn scheint, ist von sieben andern zusam=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="490,2572 1348,2552 1328,2515 490,2528"/>
+                <Baseline points="501,2553 546,2550 591,2550 636,2550 680,2547 725,2550 770,2550 815,2550 859,2550 904,2550 949,2550 994,2550 1039,2547 1083,2544 1128,2544 1173,2544 1218,2547 1263,2547 1307,2547 1352,2544"/>
+                <TextEquiv>
+                    <Unicode>men gesetzt, davon der eine roth, der andere pomeranzen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_47" custom="readingOrder {index:46;}">
+                <Coords points="486,2602 1344,2591 1333,2550 488,2574"/>
+                <Baseline points="498,2588 543,2588 588,2585 633,2585 677,2585 722,2585 767,2585 812,2585 856,2585 901,2585 946,2585 991,2585 1036,2582 1080,2582 1125,2582 1170,2582 1215,2582 1260,2582 1304,2582 1349,2579"/>
+                <TextEquiv>
+                    <Unicode>gelb, der dritte gelb der vierte grün, der fünfte blau, der sech¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_48" custom="readingOrder {index:47;}">
+                <Coords points="499,2635 1350,2626 1350,2593 1287,2583 499,2598"/>
+                <Baseline points="510,2621 549,2624 594,2621 639,2621 683,2621 728,2624 773,2621 818,2621 862,2621 907,2624 952,2621 997,2621 1042,2618 1086,2618 1131,2618 1176,2618 1221,2618 1266,2618 1310,2618 1355,2615"/>
+                <TextEquiv>
+                    <Unicode>ste purpurroth und der siebende violet ist, und deren Ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_49" custom="readingOrder {index:48;}">
+                <Coords points="494,2663 1352,2661 1352,2624 494,2635"/>
+                <Baseline points="507,2657 549,2660 594,2660 639,2660 683,2657 728,2660 773,2660 818,2660 862,2660 907,2660 952,2660 997,2657 1042,2657 1086,2657 1131,2654 1176,2657 1221,2657 1266,2657 1310,2657 1355,2654"/>
+                <TextEquiv>
+                    <Unicode>mischung diese verschiedene Farben unsern Augen entzie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_50" custom="readingOrder {index:49;}">
+                <Coords points="494,2702 1346,2702 1346,2663 494,2663"/>
+                <Baseline points="507,2696 546,2696 591,2696 636,2696 680,2696 725,2696 770,2696 815,2696 859,2696 904,2696 949,2696 994,2693 1039,2693 1083,2693 1128,2693 1173,2693 1218,2693 1263,2693 1307,2696 1352,2690"/>
+                <TextEquiv>
+                    <Unicode>hen. Die Geschwindigkeit des Lichtes ist so groß, daß es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_51" custom="readingOrder {index:50;}">
+                <Coords points="492,2831 1346,2811 1346,2772 492,2774"/>
+                <Baseline points="504,2809 546,2809 591,2806 636,2806 680,2806 725,2809 770,2809 815,2806 859,2809 904,2809 949,2809 994,2809 1039,2809 1083,2809 1128,2806 1173,2806 1218,2806 1263,2806 1307,2806 1352,2803"/>
+                <TextEquiv>
+                    <Unicode>det, welches in einer Sekunde einen Weg von mehr als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_22" custom="readingOrder {index:2;}">
+            <Coords points="2272,706 2272,2889 1381,2881 1382,706"/>
+            <TextLine id="r_22_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1374,851 2234,834 2219,790 1376,823"/>
+                <Baseline points="1385,848 1388,848 1433,848 1478,851 1522,848 1567,845 1612,845 1657,845 1702,845 1746,842 1791,842 1836,839 1881,836 1926,836 1970,833 2015,830 2060,827 2105,827 2149,824 2194,821 2239,821"/>
+                <TextEquiv>
+                    <Unicode>Sonne ist 180, 124 solcher Meilen. Sie ist eine nicht voll=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1376,893 2230,867 2199,827 1378,851"/>
+                <Baseline points="1388,886 1430,883 1475,883 1519,883 1564,883 1609,880 1654,880 1699,880 1743,880 1788,877 1833,874 1878,871 1923,871 1967,868 2012,868 2057,865 2102,862 2146,859 2191,859 2236,856"/>
+                <TextEquiv>
+                    <Unicode>kommen runde, sondern an den Polen etwas eingedrückte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1370,930 2191,912 2228,908 2230,867 1370,899"/>
+                <Baseline points="1382,925 1385,925 1430,922 1475,922 1519,922 1564,919 1609,919 1654,919 1699,919 1743,916 1788,916 1833,913 1878,910 1923,907 1967,907 2012,904 2057,901 2102,898 2146,898 2191,898 2236,892"/>
+                <TextEquiv>
+                    <Unicode>Kugel, wie alle diejenigen Sterne sind, welche sich um ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1374,967 2230,939 2210,904 1376,928"/>
+                <Baseline points="1385,961 1430,958 1475,958 1519,958 1564,958 1609,958 1654,955 1699,955 1743,955 1788,952 1833,949 1878,946 1923,946 1967,943 2012,943 2057,940 2102,937 2146,937 2191,934 2236,934"/>
+                <TextEquiv>
+                    <Unicode>Achse bewegen. Die Sonne bewegt sich um die ihrige in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1374,1002 2225,1002 2225,945 2197,939 1376,967"/>
+                <Baseline points="1388,997 1424,994 1469,994 1513,994 1558,994 1603,994 1648,994 1693,994 1737,991 1782,991 1827,988 1872,988 1917,985 1961,985 2006,982 2051,979 2096,976 2141,976 2185,973 2230,970"/>
+                <TextEquiv>
+                    <Unicode>25 Tagen und 6 Sekunden. Jhr Licht ist 90, 000 mal stär=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1367,1041 1910,1028 1912,997 1892,991 1370,1006"/>
+                <Baseline points="1379,1033 1421,1033 1466,1033 1510,1030 1555,1030 1600,1033 1645,1030 1690,1030 1734,1030 1779,1027 1824,1024 1869,1024 1914,1024"/>
+                <TextEquiv>
+                    <Unicode>ker, als das Licht des Vollmondes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1411,1074 2228,1047 2228,999 2201,991 1803,1039 1411,1043"/>
+                <Baseline points="1424,1069 1427,1069 1472,1066 1516,1069 1561,1066 1606,1066 1651,1066 1696,1066 1740,1063 1785,1063 1830,1060 1875,1060 1920,1057 1964,1054 2009,1051 2054,1051 2099,1048 2143,1042 2188,1045 2233,1042"/>
+                <TextEquiv>
+                    <Unicode>Der Durchgang der Venus durch die Sonne im Jahre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1378,1106 2230,1089 2230,1052 2145,1041 1777,1076 1381,1067"/>
+                <Baseline points="1391,1101 1430,1101 1475,1101 1519,1101 1564,1101 1609,1101 1654,1101 1699,1098 1743,1098 1788,1098 1833,1095 1878,1095 1923,1092 1967,1089 2012,1086 2057,1083 2102,1083 2146,1080 2191,1080 2236,1077"/>
+                <TextEquiv>
+                    <Unicode>1769. hat die Sternkundigen in Stand gesetzt, die Paral=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1378,1143 2201,1130 2223,1091 1378,1106"/>
+                <Baseline points="1391,1137 1421,1137 1466,1137 1510,1137 1555,1137 1600,1137 1645,1137 1690,1137 1734,1137 1779,1134 1824,1131 1869,1131 1914,1128 1958,1125 2003,1122 2048,1122 2093,1119 2138,1116 2182,1116 2227,1116"/>
+                <TextEquiv>
+                    <Unicode>laxe der Sonne genauer zu bestimmen, als es bisher hatt¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1376,1191 2230,1165 2212,1124 1378,1143"/>
+                <Baseline points="1388,1179 1430,1176 1475,1176 1519,1176 1564,1176 1609,1176 1654,1173 1699,1173 1743,1173 1788,1170 1833,1167 1878,1167 1923,1164 1967,1161 2012,1158 2057,1158 2102,1155 2146,1155 2191,1155 2236,1152"/>
+                <TextEquiv>
+                    <Unicode>geschehen können. Herr de la Lande hat die Beobachtun=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1378,1222 2182,1209 2232,1204 2234,1161 1378,1189"/>
+                <Baseline points="1391,1215 1433,1215 1478,1215 1522,1215 1567,1212 1612,1215 1657,1212 1702,1212 1746,1209 1791,1206 1836,1206 1881,1203 1926,1200 1970,1200 2015,1197 2060,1194 2105,1194 2149,1191 2194,1191 2239,1191"/>
+                <TextEquiv>
+                    <Unicode>gen der Herren Dymon und Wales, welche sie in dem Fort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1374,1254 2225,1235 2225,1204 2110,1195 1376,1222"/>
+                <Baseline points="1385,1251 1424,1251 1469,1251 1513,1251 1558,1251 1603,1251 1648,1251 1693,1251 1737,1248 1782,1245 1827,1242 1872,1242 1917,1239 1961,1239 2006,1236 2051,1233 2096,1230 2141,1230 2185,1230 2230,1227"/>
+                <TextEquiv>
+                    <Unicode>des Prinzen von Wallis in dem Hudsons Meerbusen ge=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1374,1296 2223,1278 2225,1237 1376,1254"/>
+                <Baseline points="1385,1286 1424,1289 1469,1289 1513,1289 1558,1289 1603,1289 1648,1289 1693,1286 1737,1286 1782,1284 1827,1281 1872,1281 1917,1278 1961,1275 2006,1275 2051,1272 2096,1269 2141,1266 2185,1266 2230,1266"/>
+                <TextEquiv>
+                    <Unicode>macht, mit den schwedischen Beobachtungen in Cajaneburg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1383,1330 2228,1315 2201,1272 1764,1304 1385,1293"/>
+                <Baseline points="1394,1325 1427,1325 1472,1325 1516,1325 1561,1325 1606,1325 1651,1325 1696,1325 1740,1325 1785,1319 1830,1319 1875,1316 1920,1313 1964,1313 2009,1310 2054,1307 2099,1304 2143,1304 2188,1301 2233,1301"/>
+                <TextEquiv>
+                    <Unicode>verglichen und gefunden, daß die Parallaxe in der mitt¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1376,1370 2236,1344 2223,1307 1378,1330"/>
+                <Baseline points="1388,1364 1433,1364 1478,1364 1522,1364 1567,1361 1612,1364 1657,1361 1702,1361 1746,1358 1791,1358 1836,1355 1881,1352 1926,1349 1970,1349 2015,1346 2060,1343 2105,1343 2149,1343 2194,1340 2239,1340"/>
+                <TextEquiv>
+                    <Unicode>lern Entfernung der Sonne von der Erde von neun Se¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1376,1411 2230,1387 2212,1346 1378,1367"/>
+                <Baseline points="1388,1400 1430,1400 1475,1400 1519,1400 1564,1400 1609,1400 1654,1400 1699,1397 1743,1397 1788,1397 1833,1394 1878,1391 1923,1388 1967,1388 2012,1385 2057,1382 2102,1379 2146,1379 2191,1376 2236,1373"/>
+                <TextEquiv>
+                    <Unicode>kunden und drey siebenzehnteln sey, welches eine Entfer=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1376,1444 2228,1424 2204,1383 1378,1411"/>
+                <Baseline points="1388,1436 1427,1436 1472,1436 1516,1436 1561,1436 1606,1436 1651,1436 1696,1436 1740,1433 1785,1433 1830,1430 1875,1427 1920,1427 1964,1427 2009,1421 2054,1418 2099,1418 2143,1415 2188,1415 2233,1412"/>
+                <TextEquiv>
+                    <Unicode>nung der Sonne von der Erde von 22, 477. halben Erddia=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1376,1485 2228,1461 2206,1420 1378,1446"/>
+                <Baseline points="1388,1472 1427,1472 1472,1472 1516,1472 1561,1472 1606,1472 1651,1472 1696,1472 1740,1472 1785,1469 1830,1466 1875,1466 1920,1463 1964,1460 2009,1460 2054,1457 2099,1454 2143,1454 2188,1451 2233,1451"/>
+                <TextEquiv>
+                    <Unicode>metern giebt. Auf diese Art wird unser Planetengebäude</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="1376,1518 2228,1498 2212,1457 1378,1485"/>
+                <Baseline points="1388,1510 1427,1507 1472,1510 1516,1510 1561,1507 1606,1510 1651,1510 1696,1510 1740,1507 1785,1504 1830,1504 1875,1501 1920,1501 1964,1496 2009,1496 2054,1493 2099,1493 2143,1490 2188,1490 2233,1487"/>
+                <TextEquiv>
+                    <Unicode>etwas kleiner in Ansehung derjenigtn, welche mit de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1376,1553 2225,1533 2193,1487 2027,1518 1378,1520"/>
+                <Baseline points="1388,1546 1424,1546 1469,1546 1513,1546 1558,1546 1603,1546 1648,1546 1693,1546 1737,1543 1782,1543 1827,1540 1872,1540 1917,1537 1961,1534 2006,1531 2051,1531 2096,1528 2141,1525 2185,1525 2230,1525"/>
+                <TextEquiv>
+                    <Unicode>Hire die Sonnenparallaxe zu 6 Sekunden angenommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1383,1594 2138,1581 2225,1570 2228,1533 1383,1553"/>
+                <Baseline points="1394,1582 1424,1582 1469,1585 1513,1585 1558,1582 1603,1582 1648,1582 1693,1582 1737,1582 1782,1579 1827,1579 1872,1576 1917,1573 1961,1570 2006,1567 2051,1564 2096,1561 2141,1561 2185,1561 2230,1564"/>
+                <TextEquiv>
+                    <Unicode>haben, und zwar in dem Verhältniß von 3" und 367.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1374,1624 2204,1611 2234,1570 1374,1592"/>
+                <Baseline points="1385,1621 1430,1621 1475,1621 1519,1621 1564,1621 1609,1621 1654,1618 1699,1621 1743,1618 1788,1615 1833,1615 1878,1612 1923,1609 1967,1609 2012,1606 2057,1603 2102,1600 2146,1600 2191,1600 2236,1600"/>
+                <TextEquiv>
+                    <Unicode>Hingegen erweitert es sich um 15, 17 Sekunden in Anse=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="1376,1674 2164,1651 2212,1644 2215,1614 1376,1624"/>
+                <Baseline points="1388,1657 1412,1657 1457,1657 1501,1657 1546,1657 1591,1657 1636,1657 1681,1657 1725,1654 1770,1654 1815,1651 1860,1651 1905,1648 1949,1645 1994,1645 2039,1642 2084,1639 2129,1639 2173,1636 2218,1633"/>
+                <TextEquiv>
+                    <Unicode>hung derjenigen, welche die Parallaxe mit Caßini auf 10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="1376,1707 2228,1685 2208,1640 1378,1672"/>
+                <Baseline points="1388,1699 1427,1696 1472,1696 1516,1693 1561,1693 1606,1696 1651,1693 1696,1693 1740,1693 1785,1690 1830,1687 1875,1687 1920,1684 1964,1681 2009,1681 2054,1678 2099,1678 2143,1675 2188,1675 2233,1672"/>
+                <TextEquiv>
+                    <Unicode>gesetzt hatten. Wir werden in dem Folgenden nach dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="1367,1738 2173,1733 2228,1725 2230,1683 1367,1712"/>
+                <Baseline points="1379,1731 1385,1731 1430,1731 1475,1731 1519,1731 1564,1731 1609,1731 1654,1731 1699,1731 1743,1728 1788,1728 1833,1725 1878,1722 1923,1719 1967,1719 2012,1716 2057,1716 2102,1713 2146,1713 2191,1711 2236,1711"/>
+                <TextEquiv>
+                    <Unicode>neuen Paralle von 9" 3/17 die Entfernungen der Sonne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="1374,1777 1879,1777 2047,1762 2049,1731 1376,1735"/>
+                <Baseline points="1385,1770 1427,1770 1472,1767 1516,1767 1561,1767 1606,1767 1651,1767 1696,1767 1740,1764 1785,1764 1830,1758 1875,1761 1920,1758 1964,1755 2009,1755 2054,1752"/>
+                <TextEquiv>
+                    <Unicode>und der Planeten von der Erde bestimmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="1431,1810 2230,1792 2215,1738 1875,1781 1433,1770"/>
+                <Baseline points="1442,1806 1475,1803 1519,1803 1564,1803 1609,1803 1654,1803 1699,1803 1743,1803 1788,1800 1833,1800 1878,1797 1923,1794 1967,1791 2012,1791 2057,1788 2102,1785 2146,1782 2191,1782 2236,1779"/>
+                <TextEquiv>
+                    <Unicode>Merkur ist der kleinste und am wenigsten von der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1376,1838 2230,1825 2204,1786 1755,1816 1376,1796"/>
+                <Baseline points="1388,1836 1430,1836 1475,1836 1519,1836 1564,1836 1609,1836 1654,1836 1699,1836 1743,1836 1788,1836 1833,1833 1878,1833 1923,1830 1967,1827 2012,1824 2057,1821 2102,1821 2146,1818 2191,1818 2236,1815"/>
+                <TextEquiv>
+                    <Unicode>Sonne entfernte Planet. Sein Durchmesser enthält nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="1374,1884 2225,1862 2225,1825 2162,1823 1376,1840"/>
+                <Baseline points="1388,1872 1424,1872 1469,1872 1513,1872 1558,1872 1603,1872 1648,1872 1693,1875 1737,1872 1782,1872 1827,1872 1872,1866 1917,1863 1961,1863 2006,1860 2051,1860 2096,1857 2141,1854 2185,1854 2230,1854"/>
+                <TextEquiv>
+                    <Unicode>mehr als 628 deutsche Meilen, deren 15 auf einen Crad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="1376,1927 2230,1901 2210,1860 1378,1881"/>
+                <Baseline points="1388,1917 1430,1911 1475,1911 1519,1911 1564,1911 1609,1914 1654,1911 1699,1911 1743,1911 1788,1908 1833,1908 1878,1905 1923,1902 1967,1896 2012,1896 2057,1896 2102,1893 2146,1893 2191,1893 2236,1896"/>
+                <TextEquiv>
+                    <Unicode>gehen. Sein größter Abstand von der Sonne ist 9, 076,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1374,1958 2234,1940 2208,1894 1376,1921"/>
+                <Baseline points="1385,1949 1388,1949 1433,1949 1478,1949 1522,1949 1567,1949 1612,1949 1657,1949 1702,1949 1746,1949 1791,1946 1836,1946 1881,1943 1926,1937 1970,1934 2015,1934 2060,1931 2105,1931 2149,1928 2194,1928 2239,1931"/>
+                <TextEquiv>
+                    <Unicode>504 Meilen, und sein kleinster 5, 926, 065. Man weiß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="1376,1992 2228,1979 2228,1940 2151,1931 1378,1960"/>
+                <Baseline points="1391,1985 1427,1985 1472,1985 1516,1985 1561,1985 1606,1985 1651,1988 1696,1985 1740,1985 1785,1985 1830,1982 1875,1982 1920,1979 1964,1976 2009,1970 2054,1970 2099,1970 2143,1970 2188,1967 2233,1964"/>
+                <TextEquiv>
+                    <Unicode>nicht, in wie viel Zeit er sich um seine Axe dreht. Aber er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="1374,2027 2230,2012 2230,1977 2178,1973 1376,1992"/>
+                <Baseline points="1385,2021 1430,2024 1475,2024 1519,2024 1564,2024 1609,2024 1654,2024 1699,2021 1743,2021 1788,2021 1833,2021 1878,2018 1923,2015 1967,2012 2012,2012 2057,2009 2102,2006 2146,2006 2191,2003 2236,2003"/>
+                <TextEquiv>
+                    <Unicode>vollbringt seinen Lauf um die Sonne in 85 Tagen, 23 Stun=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="1370,2062 2241,2049 2228,2005 1372,2029"/>
+                <Baseline points="1382,2060 1394,2060 1439,2063 1484,2063 1528,2063 1573,2060 1618,2060 1663,2060 1708,2060 1752,2060 1797,2057 1842,2057 1887,2057 1931,2051 1976,2051 2021,2051 2066,2048 2111,2045 2155,2042 2200,2039 2245,2039"/>
+                <TextEquiv>
+                    <Unicode>den, 15 Minuten, 37 Sekunden. Da er nun eine Laufbahn=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="1376,2110 2162,2093 2234,2086 2236,2053 1376,2069"/>
+                <Baseline points="1388,2099 1433,2099 1478,2102 1522,2099 1567,2099 1612,2099 1657,2099 1702,2096 1746,2099 1791,2096 1836,2096 1881,2093 1926,2090 1970,2090 2015,2087 2060,2084 2105,2078 2149,2078 2194,2078 2239,2078"/>
+                <TextEquiv>
+                    <Unicode>von 47, 151, 928 Meilen zu durchgehen hat, so legt er in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="1376,2140 2140,2134 2230,2121 2232,2086 1376,2106"/>
+                <Baseline points="1388,2135 1430,2135 1475,2135 1519,2135 1564,2135 1609,2135 1654,2135 1699,2135 1743,2135 1788,2135 1833,2132 1878,2132 1923,2129 1967,2126 2012,2126 2057,2123 2102,2120 2146,2117 2191,2114 2236,2114"/>
+                <TextEquiv>
+                    <Unicode>einer Sekunde einen Weg von mehr als 6 Meilen zuruck.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="1376,2175 2123,2169 2228,2156 2230,2121 1376,2140"/>
+                <Baseline points="1388,2173 1427,2170 1472,2173 1516,2170 1561,2170 1606,2170 1651,2170 1696,2170 1740,2170 1785,2170 1830,2170 1875,2167 1920,2164 1964,2161 2009,2158 2054,2158 2099,2155 2143,2155 2188,2152 2233,2149"/>
+                <TextEquiv>
+                    <Unicode>Er isi drey und zwanzig mal kleiner als die Erde, da seine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="1367,2221 2186,2204 2228,2199 2230,2158 1367,2186"/>
+                <Baseline points="1379,2212 1382,2212 1427,2209 1472,2209 1516,2209 1561,2209 1606,2209 1651,2209 1696,2209 1740,2206 1785,2206 1830,2206 1875,2203 1920,2203 1964,2200 2009,2200 2054,2197 2099,2194 2143,2191 2188,2191 2233,2188"/>
+                <TextEquiv>
+                    <Unicode>ganze Kugel nicht mehr als den vier und zwanzigsten Theil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="1376,2247 2234,2238 2219,2195 1378,2219"/>
+                <Baseline points="1388,2245 1433,2245 1478,2245 1522,2245 1567,2245 1612,2248 1657,2245 1702,2245 1746,2245 1791,2245 1836,2245 1881,2242 1926,2239 1970,2236 2015,2236 2060,2233 2105,2230 2149,2227 2194,2227 2239,2227"/>
+                <TextEquiv>
+                    <Unicode>von unserer Erde ausmacht. Wenn er am weitesten vols</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="1374,2282 1962,2295 2236,2275 2238,2243 1376,2245"/>
+                <Baseline points="1385,2281 1391,2281 1436,2281 1481,2281 1525,2284 1570,2284 1615,2284 1660,2284 1705,2284 1749,2281 1794,2281 1839,2281 1884,2278 1928,2278 1973,2278 2018,2272 2063,2269 2108,2269 2152,2266 2197,2263 2242,2266"/>
+                <TextEquiv>
+                    <Unicode>der Erde entfernt ist, so beträgt es 28, 754, 667 Meilen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="1383,2323 2236,2313 2217,2271 1385,2286"/>
+                <Baseline points="1394,2320 1436,2317 1481,2320 1525,2320 1570,2323 1615,2320 1660,2320 1705,2320 1749,2320 1794,2320 1839,2317 1884,2317 1928,2317 1973,2314 2018,2311 2063,2308 2108,2305 2152,2302 2197,2302 2242,2299"/>
+                <TextEquiv>
+                    <Unicode>Sein kleinster Abstand hingegen ist 9, 905, 772 Meilen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="1376,2363 2236,2352 2223,2308 1376,2319"/>
+                <Baseline points="1388,2356 1391,2356 1436,2353 1481,2356 1525,2356 1570,2356 1615,2358 1660,2358 1705,2356 1749,2356 1794,2356 1839,2356 1884,2353 1928,2350 1973,2350 2018,2347 2063,2347 2108,2341 2152,2341 2197,2338 2242,2335"/>
+                <TextEquiv>
+                    <Unicode>Er hat Abwechslungen des Lichts, wie der Mond. Man=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="1376,2400 2053,2400 2234,2389 2236,2350 1378,2360"/>
+                <Baseline points="1388,2394 1433,2391 1478,2391 1522,2394 1567,2394 1612,2394 1657,2394 1702,2394 1746,2391 1791,2391 1836,2391 1881,2388 1926,2388 1970,2385 2015,2385 2060,2382 2105,2379 2149,2376 2194,2376 2239,2376"/>
+                <TextEquiv>
+                    <Unicode>hat ihn verschiedene male durch die Sonne gehen sehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="1383,2434 2241,2424 2241,2389 2208,2384 1383,2397"/>
+                <Baseline points="1394,2433 1439,2427 1484,2427 1528,2430 1573,2430 1618,2433 1663,2430 1708,2430 1752,2427 1797,2427 1842,2430 1887,2427 1931,2424 1976,2421 2021,2418 2066,2418 2111,2415 2155,2412 2200,2412 2245,2412"/>
+                <TextEquiv>
+                    <Unicode>Dieses wird sich auch den 12 Nov. 1782. wieder zutragen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="492,2485 2234,2463 2219,2417 492,2441"/>
+                <Baseline points="504,2475 510,2478 555,2475 600,2475 644,2475 689,2475 734,2475 779,2475 824,2475 868,2475 913,2475 958,2475 1003,2472 1048,2472 1092,2472 1137,2472 1182,2472 1227,2472 1272,2472 1316,2472 1361,2472 1385,2469 1388,2469 1433,2466 1478,2466 1522,2466 1567,2469 1612,2469 1657,2466 1702,2466 1746,2466 1791,2466 1836,2466 1881,2466 1926,2463 1970,2460 2015,2457 2060,2457 2105,2454 2149,2451 2194,2448 2239,2451"/>
+                <TextEquiv>
+                    <Unicode>haben. Ein jeder Strahl, den sie auf die Erde schießt, und Jn Thüringen wird man diesen Durchgang um 2 Uhr 15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="1372,2524 2232,2498 2232,2463 2125,2452 1374,2474"/>
+                <Baseline points="1385,2505 1430,2505 1475,2505 1519,2505 1564,2505 1609,2508 1654,2505 1699,2505 1743,2505 1788,2505 1833,2502 1878,2502 1923,2499 1967,2499 2012,2496 2057,2493 2102,2493 2146,2490 2191,2487 2236,2484"/>
+                <TextEquiv>
+                    <Unicode>Min. Nachmittags an beagtem Tage beobachten können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_47" custom="readingOrder {index:46;}">
+                <Coords points="1426,2543 1794,2559 2230,2535 2230,2495 2199,2493 1426,2517"/>
+                <Baseline points="1439,2538 1475,2541 1519,2541 1564,2544 1609,2544 1654,2544 1699,2544 1743,2541 1788,2541 1833,2541 1878,2538 1923,2538 1967,2535 2012,2535 2057,2532 2102,2529 2146,2526 2191,2523 2236,2520"/>
+                <TextEquiv>
+                    <Unicode>Venus bewegt sich zwischen der Erde und dem Mer=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_48" custom="readingOrder {index:47;}">
+                <Coords points="1374,2580 2108,2583 2228,2567 2230,2530 1792,2561 1376,2539"/>
+                <Baseline points="1385,2576 1430,2576 1475,2576 1519,2579 1564,2579 1609,2579 1654,2579 1699,2579 1743,2579 1788,2576 1833,2579 1878,2576 1923,2573 1967,2573 2012,2570 2057,2570 2102,2568 2146,2565 2191,2559 2236,2559"/>
+                <TextEquiv>
+                    <Unicode>tur um die Sonne herum. Sie ist um den achtzehenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_49" custom="readingOrder {index:48;}">
+                <Coords points="1376,2617 2230,2609 2230,2565 1378,2583"/>
+                <Baseline points="1391,2612 1430,2612 1475,2615 1519,2618 1564,2618 1609,2618 1654,2615 1699,2615 1743,2615 1788,2615 1833,2615 1878,2612 1923,2612 1967,2612 2012,2609 2057,2606 2102,2606 2146,2600 2191,2597 2236,2594"/>
+                <TextEquiv>
+                    <Unicode>Theil kleiner als die Erde. Jhr Durchmesser hält 1566</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_50" custom="readingOrder {index:49;}">
+                <Coords points="1383,2659 2230,2641 2206,2604 1383,2620"/>
+                <Baseline points="1394,2654 1427,2651 1472,2654 1516,2654 1561,2654 1606,2654 1651,2654 1696,2654 1740,2651 1785,2651 1830,2651 1875,2651 1920,2648 1964,2648 2009,2645 2054,2642 2099,2642 2143,2639 2188,2633 2233,2630"/>
+                <TextEquiv>
+                    <Unicode>Meilen. Sie dreht sich um ihre Axe in 23 Stunden, 20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_51" custom="readingOrder {index:50;}">
+                <Coords points="1376,2696 2234,2678 2234,2637 1376,2654"/>
+                <Baseline points="1388,2690 1433,2690 1478,2693 1522,2690 1567,2690 1612,2690 1657,2690 1702,2690 1746,2687 1791,2687 1836,2687 1881,2687 1926,2687 1970,2684 2015,2681 2060,2678 2105,2678 2149,2675 2194,2672 2239,2672"/>
+                <TextEquiv>
+                    <Unicode>Min. Jhren Lauf um die Sonne vollbringt sie in 224 Ta=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_52" custom="readingOrder {index:51;}">
+                <Coords points="494,2737 2236,2724 2221,2676 494,2702"/>
+                <Baseline points="507,2732 549,2732 594,2732 639,2732 683,2732 728,2732 773,2732 818,2732 862,2732 907,2732 952,2732 997,2732 1042,2732 1086,2732 1131,2732 1176,2732 1221,2732 1266,2732 1310,2732 1355,2729 1379,2729 1391,2729 1436,2729 1481,2726 1525,2729 1570,2729 1615,2729 1660,2729 1705,2726 1749,2726 1794,2726 1839,2726 1884,2726 1928,2723 1973,2720 2018,2720 2063,2720 2108,2714 2152,2711 2197,2711 2242,2708"/>
+                <TextEquiv>
+                    <Unicode>in acht Minuten u. 30 Sekunden den unermeßlichen Raum gen, 16 St. 49 Min. 14. 5,10. Sek. Jhre Laufbahn ist vol=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_53" custom="readingOrder {index:52;}">
+                <Coords points="494,2774 2236,2759 2201,2718 494,2739"/>
+                <Baseline points="507,2768 549,2768 594,2768 639,2768 683,2768 728,2771 773,2771 818,2771 862,2771 907,2771 952,2768 997,2768 1042,2768 1086,2768 1131,2768 1176,2768 1221,2768 1266,2768 1310,2768 1355,2765 1379,2765 1391,2765 1436,2765 1481,2765 1525,2768 1570,2768 1615,2765 1660,2765 1705,2765 1749,2765 1794,2765 1839,2765 1884,2762 1928,2762 1973,2759 2018,2759 2063,2756 2108,2756 2152,2756 2197,2753 2242,2753"/>
+                <TextEquiv>
+                    <Unicode>durchläuft, der sich zwischen der Erde und der Sonne befin= 87,654, 782 Meilen, so daß sie ohngefahr 4 Meilen in einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_54" custom="readingOrder {index:53;}">
+                <Coords points="1365,2820 1849,2835 1962,2809 2051,2835 2123,2811 2228,2839 2230,2768 2204,2759 1367,2770"/>
+                <Baseline points="1379,2803 1385,2803 1430,2803 1475,2803 1519,2806 1564,2806 1609,2803 1654,2806 1699,2806 1743,2806 1788,2803 1833,2803 1878,2803 1923,2800 1967,2800 2012,2797 2057,2797 2102,2794 2146,2797 2191,2794 2236,2788"/>
+                <TextEquiv>
+                    <Unicode>Sekunde durchläuft. Jhr größter Abstand von der Sonne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

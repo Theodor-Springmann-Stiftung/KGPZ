@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=17_07_2024_23:19</Creator>
+        <Created>2024-07-16T22:52:17.742+02:00</Created>
+        <LastChange>2024-07-17T23:19:15.740+02:00</LastChange>
+        <TranskribusMetadata docId="3310004" pageId="75106249" pageNr="1" tsid="178235970" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=YOQZUBCQFJYKQDZIFCRJIFEG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OBFNGXZPWYZLGMSQQCJRTQQE" imageId="60872833"/>
+    </Metadata>
+    <Page imageFilename="75106249.jpg" imageWidth="2679" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721251155741" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1430"/>
+                <RegionRefIndexed index="1" regionRef="r_1443"/>
+                <RegionRefIndexed index="2" regionRef="r_1442"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_1430" custom="readingOrder {index:0;}">
+            <Coords points="480,1369 2225,1369 2225,1442 480,1442"/>
+            <TextLine id="r_1430_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="861,1440 1200,1420 1539,1451 1591,1416 1820,1414 1820,1375 1740,1360 861,1373"/>
+                <Baseline points="874,1415 883,1415 928,1415 973,1415 1018,1415 1063,1415 1107,1418 1152,1418 1197,1418 1242,1418 1286,1418 1331,1418 1376,1415 1421,1415 1466,1415 1510,1415 1555,1412 1600,1412 1645,1409 1690,1409 1734,1409 1779,1409 1824,1409"/>
+                <TextEquiv>
+                    <Unicode>5tes Stück. Freytag, den 18. Januar 1771.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1443" custom="readingOrder {index:1;}">
+            <Coords points="1360,2752 480,2752 480,1442 1344,1443"/>
+            <TextLine id="r_1443_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="822,1522 855,1518 861,1511 881,1522 902,1513 924,1513 935,1522 952,1513 989,1518 984,1429 967,1427 950,1444 920,1429 883,1438 835,1431 829,1440 818,1440"/>
+                <Baseline points="833,1493 877,1493 922,1496 967,1496 991,1499"/>
+                <TextEquiv>
+                    <Unicode>Leipzig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="516,1569 1328,1565 1328,1509 641,1528 516,1507"/>
+                <Baseline points="528,1555 573,1552 618,1552 662,1552 707,1552 752,1552 797,1552 842,1552 886,1552 931,1552 976,1552 1021,1552 1066,1555 1110,1555 1155,1555 1200,1555 1245,1552 1289,1552 1334,1555"/>
+                <TextEquiv>
+                    <Unicode>Anekdoten zur Lebensgeschichte großer Regenten und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="475,1617 812,1600 855,1621 905,1597 1114,1613 1107,1559 518,1572 475,1546"/>
+                <Baseline points="486,1597 531,1597 576,1597 621,1597 665,1594 710,1594 755,1594 800,1594 845,1594 889,1597 934,1597 979,1594 1024,1594 1069,1594 1113,1597 1119,1600"/>
+                <TextEquiv>
+                    <Unicode>berühmter Staatsmänner, achter Theil,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="486,1749 1328,1751 1308,1701 486,1714"/>
+                <Baseline points="498,1740 543,1737 588,1737 633,1737 677,1737 722,1737 767,1737 812,1737 856,1737 901,1740 946,1740 991,1740 1036,1737 1080,1737 1125,1737 1170,1740 1215,1737 1260,1740 1304,1737 1334,1740"/>
+                <TextEquiv>
+                    <Unicode>mählde, und Anekdoten der Könige in Frankreich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="477,2038 2200,2016 2200,1975 1960,1964 479,1995"/>
+                <Baseline points="492,2024 504,2024 549,2024 594,2024 639,2027 683,2027 728,2024 773,2024 818,2024 862,2024 907,2024 952,2024 997,2024 1042,2027 1086,2024 1131,2027 1176,2024 1221,2024 1266,2027 1310,2024 1355,2024 1400,2021 1445,2021 1490,2021 1534,2021 1579,2018 1624,2018 1669,2015 1713,2012 1758,2012 1803,2012 1848,2009 1893,2009 1937,2009 1982,2009 2027,2009 2072,2006 2117,2006 2161,2003 2206,2003"/>
+                <TextEquiv>
+                    <Unicode>Gassen zu Paris lesen will, um in Gesellschaften, wo er aus der Oper in Paris gefänglich eingezogen, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="477,2088 2200,2053 2200,2012 2137,2003 479,2038"/>
+                <Baseline points="492,2069 504,2066 549,2066 594,2066 639,2066 683,2066 728,2066 773,2066 818,2066 862,2066 907,2066 952,2066 997,2066 1042,2066 1086,2066 1131,2066 1176,2066 1221,2066 1266,2066 1310,2066 1355,2063 1400,2063 1445,2063 1490,2063 1534,2063 1579,2060 1624,2060 1669,2060 1713,2057 1758,2054 1803,2054 1848,2051 1893,2051 1937,2048 1982,2051 2027,2051 2072,2048 2117,2045 2161,2045 2206,2048"/>
+                <TextEquiv>
+                    <Unicode>es besser ist, zu reden, als stumm zu seyn, etwas spre= aus Frankreich geschaft werden mußte. Noch eins.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="477,2122 1233,2111 1218,2070 477,2085"/>
+                <Baseline points="489,2108 534,2108 579,2108 624,2105 668,2105 713,2108 758,2108 803,2105 848,2105 892,2108 937,2108 982,2105 1027,2105 1071,2105 1116,2105 1161,2105 1206,2108 1239,2108"/>
+                <TextEquiv>
+                    <Unicode>chen zu können, der wird gnung lernen können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="477,2191 2185,2185 2208,2137 477,2152"/>
+                <Baseline points="489,2188 495,2188 540,2191 585,2188 630,2188 674,2188 719,2188 764,2191 809,2191 854,2188 898,2188 943,2188 988,2191 1033,2188 1077,2188 1122,2188 1167,2188 1212,2188 1257,2191 1301,2188 1346,2185 1361,2191 1406,2188 1451,2188 1496,2185 1540,2185 1585,2185 1630,2182 1675,2182 1719,2179 1764,2179 1809,2176 1854,2176 1899,2173 1943,2173 1988,2170 2033,2170 2078,2170 2123,2170 2167,2170 2212,2170"/>
+                <TextEquiv>
+                    <Unicode>Anekdoten von Ludwig dem 15ten sind bloß ein Aus= schlägen der Höfe zu Wien und Petersburg, daß man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="477,2290 2206,2258 2170,2217 477,2245"/>
+                <Baseline points="489,2272 534,2272 579,2275 624,2272 668,2272 713,2272 758,2272 803,2272 848,2272 892,2272 937,2272 982,2272 1027,2272 1071,2272 1116,2272 1161,2269 1206,2272 1251,2272 1295,2272 1340,2272 1364,2272 1406,2269 1451,2269 1496,2269 1540,2269 1585,2266 1630,2269 1675,2263 1719,2263 1764,2260 1809,2260 1854,2260 1899,2257 1943,2257 1988,2257 2033,2254 2078,2254 2123,2254 2167,2251 2212,2251"/>
+                <TextEquiv>
+                    <Unicode>taire. Wir nehmen uns doch die Mühe es hier noch zudringen, nicht anders, als gerecht finden kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="481,2372 2208,2342 2193,2297 484,2316"/>
+                <Baseline points="495,2356 510,2358 555,2356 600,2356 644,2353 689,2356 734,2356 779,2356 824,2356 868,2356 913,2356 958,2356 1003,2356 1048,2356 1092,2356 1137,2353 1182,2353 1227,2353 1272,2353 1316,2353 1361,2353 1406,2350 1451,2350 1496,2350 1540,2350 1585,2350 1630,2350 1675,2347 1719,2344 1764,2344 1809,2341 1854,2341 1899,2341 1943,2338 1988,2338 2033,2338 2078,2335 2123,2335 2167,2332 2212,2332"/>
+                <TextEquiv>
+                    <Unicode>cherey und überhüpsende Erzählungsart des Voltaire lieset, worinn die Originalbriefe der sächsischen Mini¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="484,2450 2200,2424 2172,2381 484,2409"/>
+                <Baseline points="495,2442 504,2442 549,2439 594,2436 639,2436 683,2439 728,2436 773,2436 818,2436 862,2439 907,2436 952,2439 997,2439 1042,2436 1086,2436 1131,2433 1176,2436 1221,2436 1266,2436 1310,2436 1355,2439 1400,2433 1445,2433 1490,2433 1534,2433 1579,2430 1624,2430 1669,2427 1713,2427 1758,2427 1803,2424 1848,2424 1893,2421 1937,2421 1982,2421 2027,2418 2072,2418 2117,2415 2161,2418 2206,2421"/>
+                <TextEquiv>
+                    <Unicode>spruch alle Menschen Lügner sind, so ists der V. noch viel ganz blind seyn, um dieß zu läugnen. Aber Voltaire,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="486,2483 2200,2467 2200,2424 486,2450"/>
+                <Baseline points="498,2481 504,2478 549,2478 594,2478 639,2478 683,2481 728,2478 773,2478 818,2478 862,2478 907,2481 952,2481 997,2481 1042,2478 1086,2478 1131,2478 1176,2478 1221,2478 1266,2478 1310,2478 1355,2478 1400,2475 1445,2475 1490,2472 1534,2472 1579,2472 1624,2472 1669,2469 1713,2469 1758,2469 1803,2466 1848,2466 1893,2463 1937,2463 1982,2460 2027,2460 2072,2460 2117,2457 2161,2460 2206,2460"/>
+                <TextEquiv>
+                    <Unicode>eigentlicher. Wer die neueste Staatsgeschichte von um dem Könige von Preußen, seinen ehemaligen so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="481,2532 2208,2511 2202,2463 484,2480"/>
+                <Baseline points="495,2523 510,2523 555,2520 600,2520 644,2520 689,2520 734,2520 779,2520 824,2520 868,2520 913,2520 958,2520 1003,2523 1048,2520 1092,2517 1137,2520 1182,2517 1227,2517 1272,2520 1316,2520 1361,2520 1406,2517 1451,2517 1496,2514 1540,2514 1585,2514 1630,2511 1675,2511 1719,2511 1764,2508 1809,2508 1854,2505 1899,2505 1943,2502 1988,2502 2033,2499 2078,2499 2123,2499 2167,2499 2212,2502"/>
+                <TextEquiv>
+                    <Unicode>Frankreich besonders von den Jahren 1740-1748. großen Wohlthäter, einen Stich der Undankbarkeit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="479,2582 2206,2547 2191,2506 479,2537"/>
+                <Baseline points="492,2565 510,2562 555,2562 600,2562 644,2562 689,2559 734,2562 779,2562 824,2562 868,2562 913,2562 958,2562 1003,2562 1048,2562 1092,2559 1137,2559 1182,2559 1227,2559 1272,2559 1316,2559 1361,2559 1406,2556 1451,2556 1496,2556 1540,2556 1585,2556 1630,2556 1675,2553 1719,2553 1764,2550 1809,2547 1854,2547 1899,2547 1943,2544 1988,2544 2033,2544 2078,2544 2123,2541 2167,2538 2212,2538"/>
+                <TextEquiv>
+                    <Unicode>kennt, wird hier bey Voltairen überall historische Ge= auch bey dieser Gelegenheit beizubringen, hat dies al¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="477,2614 2161,2595 2208,2545 477,2580"/>
+                <Baseline points="489,2600 510,2603 555,2603 600,2603 644,2600 689,2600 734,2603 779,2603 824,2603 868,2600 913,2600 958,2603 1003,2603 1048,2603 1092,2600 1137,2600 1182,2600 1227,2600 1272,2600 1316,2600 1361,2600 1406,2597 1451,2597 1496,2597 1540,2597 1585,2597 1630,2597 1675,2597 1719,2594 1764,2591 1809,2588 1854,2588 1899,2585 1943,2585 1988,2585 2033,2585 2078,2582 2123,2579 2167,2576 2212,2576"/>
+                <TextEquiv>
+                    <Unicode>nauigkeit vermissen. Er schreibt oft mehr, wie er les nicht bedacht. Daher sagt er S. 20j. "Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="479,2655 2154,2638 2211,2632 2213,2588 479,2614"/>
+                <Baseline points="492,2639 513,2642 558,2642 603,2642 647,2642 692,2642 737,2642 782,2642 827,2645 871,2645 916,2645 961,2645 1006,2645 1051,2645 1095,2642 1140,2642 1185,2642 1230,2639 1275,2642 1319,2642 1364,2639 1409,2639 1454,2639 1499,2639 1543,2639 1588,2636 1633,2636 1678,2636 1722,2633 1767,2633 1812,2630 1857,2630 1902,2627 1946,2624 1991,2624 2036,2624 2081,2624 2126,2621 2170,2621 2215,2621"/>
+                <TextEquiv>
+                    <Unicode>denkt, als wie er ein Faktum, nach dem es geschehen König brach die Thüre des Archives in Dresden mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1443_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="479,2703 1077,2727 1207,2690 2044,2705 2206,2670 2133,2627 479,2657"/>
+                <Baseline points="492,2690 510,2690 555,2687 600,2687 644,2687 689,2687 734,2687 779,2687 824,2687 868,2690 913,2690 958,2690 1003,2690 1048,2690 1092,2687 1137,2687 1182,2687 1227,2684 1272,2684 1316,2684 1361,2684 1406,2684 1451,2684 1496,2684 1540,2684 1585,2681 1630,2681 1675,2678 1719,2678 1764,2675 1809,2675 1854,2675 1899,2675 1943,2669 1988,2669 2033,2666 2078,2663 2123,2663 2167,2663 2212,2660"/>
+                <TextEquiv>
+                    <Unicode>ist, beurtheilen und erzählen soll. Den Anfangern in Gewalt auf, ohne Chrerbietung gegen die Person der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1442" custom="readingOrder {index:2;}">
+            <Coords points="2225,1442 2225,2752 1360,2752 1341,1442"/>
+            <TextLine id="r_1442_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1349,1494 2200,1487 2189,1412 1351,1449"/>
+                <Baseline points="1361,1487 1400,1487 1445,1487 1490,1487 1534,1487 1579,1487 1624,1484 1669,1484 1713,1481 1758,1481 1803,1481 1848,1478 1893,1478 1937,1475 1982,1475 2027,1475 2072,1475 2117,1472 2161,1472 2206,1475"/>
+                <TextEquiv>
+                    <Unicode>der Geschichte, die etwa noch nicht die Quellen kennen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1351,1537 2211,1526 2211,1485 2178,1479 1354,1496"/>
+                <Baseline points="1364,1528 1409,1528 1454,1528 1499,1528 1543,1528 1588,1525 1633,1525 1678,1525 1722,1525 1767,1522 1812,1519 1857,1519 1902,1516 1946,1516 1991,1513 2036,1513 2081,1513 2126,1513 2170,1513 2215,1513"/>
+                <TextEquiv>
+                    <Unicode>aus welchen man die Voltairischen Schnitzer berichtigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1349,1578 2213,1563 2195,1518 1351,1537"/>
+                <Baseline points="1364,1567 1409,1570 1454,1570 1499,1570 1543,1567 1588,1567 1633,1567 1678,1564 1722,1564 1767,1564 1812,1561 1857,1561 1902,1558 1946,1555 1991,1555 2036,1555 2081,1555 2126,1555 2170,1555 2215,1552"/>
+                <TextEquiv>
+                    <Unicode>kann, empfehlen wir bloß Adelungs Staatsgeschichte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1354,1619 2206,1606 2206,1561 1356,1580"/>
+                <Baseline points="1367,1609 1406,1609 1451,1612 1496,1612 1540,1609 1585,1609 1630,1609 1675,1609 1719,1606 1764,1606 1809,1603 1854,1600 1899,1600 1943,1600 1988,1597 2033,1597 2078,1597 2123,1594 2167,1594 2212,1597"/>
+                <TextEquiv>
+                    <Unicode>6ten Theil nachzuschlagen, um die Nachrichten und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="522,1660 2206,1647 2187,1602 525,1617"/>
+                <Baseline points="534,1654 579,1654 624,1654 668,1654 713,1654 758,1657 803,1654 848,1654 892,1657 937,1654 982,1657 1027,1657 1071,1657 1116,1657 1161,1657 1206,1657 1251,1657 1295,1657 1340,1657 1361,1654 1406,1654 1451,1651 1496,1651 1540,1651 1585,1651 1630,1651 1675,1648 1719,1648 1764,1645 1809,1645 1854,1642 1899,1642 1943,1639 1988,1639 2033,1639 2078,1636 2123,1636 2167,1636 2212,1639"/>
+                <TextEquiv>
+                    <Unicode>Dieser Theil ist ein bloßer Abdruck eines andern Urtheile über den Krieg bis zum Aachner Frieden mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="484,1708 2085,1703 2204,1686 2206,1643 484,1662"/>
+                <Baseline points="495,1696 540,1696 585,1699 630,1699 674,1699 719,1699 764,1699 809,1699 854,1699 898,1699 943,1699 988,1699 1033,1699 1077,1699 1122,1699 1167,1699 1212,1699 1257,1699 1301,1696 1343,1696 1361,1696 1403,1693 1448,1693 1493,1693 1537,1693 1582,1693 1627,1693 1672,1690 1716,1687 1761,1687 1806,1684 1851,1684 1896,1681 1940,1681 1985,1681 2030,1678 2075,1681 2120,1678 2164,1678 2209,1681"/>
+                <TextEquiv>
+                    <Unicode>Werks, nämlich des vierten Theils der historischen Ge= den Voltairischen zu vergleichen. Wir wollen ein paar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1356,1749 2208,1731 2206,1688 2126,1680 2085,1703 1358,1701"/>
+                <Baseline points="1367,1734 1406,1734 1451,1734 1496,1734 1540,1734 1585,1731 1630,1731 1675,1731 1719,1728 1764,1725 1809,1725 1854,1722 1899,1722 1943,1722 1988,1722 2033,1722 2078,1719 2123,1716 2167,1716 2212,1719"/>
+                <TextEquiv>
+                    <Unicode>Proben angeben. Den Prinzen Carl Eduard, Sohn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="484,1785 2208,1764 2208,1729 2105,1723 484,1746"/>
+                <Baseline points="495,1776 540,1779 585,1779 630,1776 674,1776 719,1776 764,1779 809,1779 854,1779 898,1779 943,1779 988,1779 1033,1779 1077,1779 1122,1779 1167,1779 1212,1779 1257,1779 1301,1779 1343,1776 1355,1773 1361,1773 1406,1773 1451,1773 1496,1773 1540,1773 1585,1770 1630,1770 1675,1770 1719,1770 1764,1767 1809,1767 1854,1764 1899,1764 1943,1761 1988,1761 2033,1758 2078,1758 2123,1758 2167,1758 2212,1755"/>
+                <TextEquiv>
+                    <Unicode>Mean hüte sich also einerley unter zween Titeln zu kau= des Prätendenten, der die berühmte Unruhen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="486,1831 2204,1809 2187,1762 486,1787"/>
+                <Baseline points="498,1821 534,1821 579,1818 624,1815 668,1818 713,1818 758,1818 803,1818 848,1818 892,1818 937,1818 982,1818 1027,1818 1071,1818 1116,1818 1161,1815 1206,1815 1251,1815 1295,1815 1340,1812 1361,1812 1403,1812 1448,1812 1493,1812 1537,1812 1582,1812 1627,1809 1672,1812 1716,1809 1761,1809 1806,1806 1851,1806 1896,1803 1940,1803 1985,1800 2030,1800 2075,1800 2120,1800 2164,1797 2209,1794"/>
+                <TextEquiv>
+                    <Unicode>fen. Es enthält dieser achte Theil der Anekdoten das Schottland erregte, schildert Herr von Voltaire als ei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="477,1878 2170,1852 2208,1811 477,1826"/>
+                <Baseline points="489,1857 531,1860 576,1857 621,1857 665,1857 710,1857 755,1857 800,1857 845,1857 889,1854 934,1857 979,1857 1024,1854 1069,1854 1113,1857 1158,1857 1203,1854 1248,1857 1292,1854 1337,1854 1358,1854 1361,1854 1406,1854 1451,1854 1496,1854 1540,1851 1585,1851 1630,1851 1675,1848 1719,1848 1764,1845 1809,1845 1854,1842 1899,1842 1943,1842 1988,1839 2033,1839 2078,1839 2123,1839 2167,1839 2212,1836"/>
+                <TextEquiv>
+                    <Unicode>Merkwürdigste aus dem Leben Heinrichs des 4ten, nen großen Prinzen, und wer die wahre Geschichte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="484,1908 2206,1885 2206,1850 2044,1841 486,1876"/>
+                <Baseline points="495,1905 510,1902 555,1902 600,1902 644,1902 689,1899 734,1899 779,1899 824,1899 868,1899 913,1899 958,1899 1003,1899 1048,1899 1092,1899 1137,1896 1182,1896 1227,1899 1272,1899 1316,1896 1361,1896 1406,1896 1451,1896 1496,1893 1540,1893 1585,1890 1630,1890 1675,1887 1719,1887 1764,1887 1809,1884 1854,1884 1899,1881 1943,1881 1988,1881 2033,1878 2078,1878 2123,1878 2167,1878 2212,1878"/>
+                <TextEquiv>
+                    <Unicode>und der Ludwige von Frankreich vom 13- 15ten. Com= weiß, und sich aufs Karakterisiren der Menschen ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="479,1958 2200,1930 2200,1887 2135,1882 479,1902"/>
+                <Baseline points="492,1943 534,1943 579,1943 624,1943 668,1943 713,1943 758,1943 803,1940 848,1940 892,1943 937,1943 982,1943 1027,1940 1071,1940 1116,1940 1161,1940 1206,1940 1251,1940 1295,1940 1340,1937 1364,1940 1400,1937 1445,1937 1490,1937 1534,1934 1579,1934 1624,1931 1669,1931 1713,1931 1758,1928 1803,1928 1848,1926 1893,1926 1937,1923 1982,1923 2027,1923 2072,1923 2117,1920 2161,1923 2206,1920"/>
+                <TextEquiv>
+                    <Unicode>pilationen findet man hier gnung, und wer bloße Ein- steht, muß ihm bloß Verwegenheit und blinde Hart¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="484,1999 2133,1984 2200,1973 2202,1932 484,1956"/>
+                <Baseline points="495,1985 498,1985 543,1985 588,1985 633,1985 677,1982 722,1982 767,1982 812,1982 856,1982 901,1985 946,1982 991,1982 1036,1982 1080,1982 1125,1982 1170,1982 1215,1982 1260,1985 1304,1982 1349,1982 1355,1979 1400,1979 1445,1979 1490,1979 1534,1982 1579,1979 1624,1976 1669,1973 1713,1973 1758,1970 1803,1970 1848,1967 1893,1967 1937,1964 1982,1964 2027,1964 2072,1964 2117,1964 2161,1964 2206,1961"/>
+                <TextEquiv>
+                    <Unicode>fälle, kleine Historietten aus dem Louvre und von den näckigkeit zuschreiben, die er besonders da bewieß, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1254,2109 2204,2103 2182,2051 1256,2072"/>
+                <Baseline points="1266,2105 1269,2105 1313,2105 1358,2105 1403,2105 1448,2105 1493,2105 1537,2105 1582,2102 1627,2102 1672,2099 1716,2096 1761,2096 1806,2093 1851,2093 1896,2093 1940,2090 1985,2090 2030,2087 2075,2087 2120,2087 2164,2087 2209,2087"/>
+                <TextEquiv>
+                    <Unicode>Vie= Im letzten schlesischen Kriege hatte der Hof zu Dres¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="477,2154 2213,2137 2213,2096 2161,2090 477,2124"/>
+                <Baseline points="489,2149 495,2149 540,2149 585,2149 630,2146 674,2146 719,2146 764,2146 809,2149 854,2146 898,2146 943,2149 988,2146 1033,2149 1077,2146 1122,2146 1167,2146 1212,2146 1257,2146 1269,2146 1275,2146 1319,2143 1364,2146 1409,2146 1454,2146 1499,2146 1543,2146 1588,2143 1633,2141 1678,2141 1722,2138 1767,2138 1812,2135 1857,2135 1902,2132 1946,2132 1991,2132 2036,2129 2081,2129 2126,2129 2170,2129 2215,2126"/>
+                <TextEquiv>
+                    <Unicode>les ist so bekannt, daß wir es übergehen können. Die den gewiß so viel bösen Antheil an den geheimen An¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="486,2247 2211,2230 2211,2182 2131,2176 486,2198"/>
+                <Baseline points="498,2236 513,2233 558,2233 603,2230 647,2230 692,2230 737,2230 782,2230 827,2230 871,2230 916,2230 961,2230 1006,2230 1051,2230 1095,2227 1140,2227 1185,2227 1230,2230 1275,2230 1319,2230 1364,2227 1409,2227 1454,2227 1499,2230 1543,2227 1588,2224 1633,2224 1678,2224 1722,2221 1767,2221 1812,2218 1857,2218 1902,2215 1946,2215 1991,2212 2036,2212 2081,2212 2126,2212 2170,2212 2215,2212"/>
+                <TextEquiv>
+                    <Unicode>zug aus dem Precis du Siecle de Louis XV. von Vol= den Einfall des Königs von Preußen, in Sachsen ein¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="484,2316 2204,2301 2206,2256 486,2286"/>
+                <Baseline points="495,2314 510,2314 555,2314 600,2314 644,2314 689,2314 734,2314 779,2314 824,2314 868,2314 913,2314 958,2314 1003,2314 1048,2314 1092,2311 1137,2314 1182,2314 1227,2314 1272,2314 1316,2311 1361,2311 1406,2311 1451,2308 1496,2308 1540,2308 1585,2308 1630,2308 1675,2305 1719,2305 1764,2302 1809,2302 1854,2299 1899,2299 1943,2296 1988,2296 2033,2296 2078,2296 2123,2293 2167,2293 2212,2290"/>
+                <TextEquiv>
+                    <Unicode>einmal durchzulesen, bloß um die historische Windma= Man mußte, wenn man nur das Memoire raisonné</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="486,2407 2206,2388 2206,2340 2103,2338 488,2368"/>
+                <Baseline points="498,2397 543,2397 588,2397 633,2397 677,2397 722,2397 767,2397 812,2397 856,2394 901,2397 946,2394 991,2397 1036,2397 1080,2394 1125,2394 1170,2394 1215,2394 1260,2394 1304,2394 1349,2394 1358,2394 1361,2394 1406,2391 1451,2391 1496,2391 1540,2391 1585,2391 1630,2388 1675,2388 1719,2385 1764,2385 1809,2382 1854,2379 1899,2379 1943,2379 1988,2379 2033,2376 2078,2376 2123,2376 2167,2376 2212,2379"/>
+                <TextEquiv>
+                    <Unicode>aufs neue zu empfinden. So wie nach Davids Aus= ster an die Minister zu Wien und Petersburg stehen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1442_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="2049,2720 2081,2727 2113,2718 2131,2735 2146,2727 2174,2735 2193,2722 2204,2722 2206,2668 2193,2666 2185,2675 2174,2666 2159,2677 2148,2668 2129,2677 2122,2670 2098,2675 2090,2668 2081,2675 2072,2670 2051,2677"/>
+                <Baseline points="2060,2708 2105,2708 2149,2705 2194,2708 2209,2708"/>
+                <TextEquiv>
+                    <Unicode>Königin,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
