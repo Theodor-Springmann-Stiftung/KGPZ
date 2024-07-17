@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="https://www.koenigsberger-zeitungen.de"
+    xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:kgpz="https://www.koenigsberger-zeitungen.de" 
+    elementFormDefault="qualified">
+
+    <xsd:include schemaLocation="akteure.xsd" />
+    <xsd:include schemaLocation="orte.xsd" />
+    <xsd:include schemaLocation="kategorien.xsd" />
+    <xsd:include schemaLocation="werke.xsd" />
+    <xsd:include schemaLocation="stuecke.xsd" />
+    <xsd:include schemaLocation="beitraege.xsd" />
+</xsd:schema>
