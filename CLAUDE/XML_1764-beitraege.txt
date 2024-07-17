@@ -1,0 +1,627 @@
+<?xml version="1.0"?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+    <!-- <beitrag>
+         Beispiel für einen Beitrag in zwei Stücken
+        Das bis-Attribut ist erforderlich falls der Beitrag Seitengrenzen überschreitet
+        Es kann mehrere Kategorien geben
+
+        ALLGEMEINE METADATEN
+        <stueck datum="1752" nr="23" von="2" bis="3" />
+        <stueck datum="1799" nr="12" von="5" />
+        <beilage datum="1752" nr="23" beilage="1" />
+        <kategorie ref="kategorie" />
+        <kategorie ref="kategorie2" />
+
+        TITEL & INCIPIT 
+        <titel>Was</titel>
+        <incipit>Incipit</incipit>
+
+        VERWEISE 
+        <ort ref="ort">Die Zuordung eines Beitrags zu einem Ort kann annotiert werden</ort>
+        <akteur ref="akteur">Die Zuordnung eines Beitrags zu einem Akteur kann annotiert werden</akteur>
+        oder auch nicht: 
+        <akteur ref="einstein" />
+        <werk ref="werk" kat="rezension">Auch die Zuordnung zu einer Werkrezension kann annotiert
+    werden</werk>
+
+        ANMERKUNGEN etc. 
+        <anmerkung>Anmerkung</anmerkung>
+        <vermerk>Bearbeitungsvermerk</vermerk>
+    </beitrag> -->
+    
+<!-- Sonderfälle: -->
+    <beitrag>
+        <stueck datum="1764" />
+        <kategorie ref="ineigenersache" />
+        <datum when="1764-01-28" />
+        <titel>Nachricht.</titel>
+        <akteur ref="hamann" />
+        <akteur ref="kanter" />
+        <anmerkung>Anzeige und Beschreibung des Zeitungsprojekts, sechs Tage vor dem ersten Stück, am 28. Januar 1764 in Königsberg ausgegeben.</anmerkung>
+    </beitrag>
+	<beitrag>
+        <stueck datum="1764" />
+        <kategorie ref="proklamation" />
+        <titel>Wir Catharina die Zweyte, von Gottes Gnaden Kayserin und Selbstherrscherin aller Reußen thun hiemit jedermänniglich kund und zu wißen…</titel>
+        <akteur ref="katharina-ii" />
+        <anmerkung>Übersetzung eines Berichts über den versuchten Aufstand zur Befreiung Iwans VI und dessen Ermordung, gedruckt in St. Petersburg, 17. August 1764.</anmerkung>
+        <!-- unsicher, welchem Stück das beilag -->
+    </beitrag>
+	
+	<!-- Jg. 1764: -->
+    <beitrag>
+        <stueck datum="1764" nr="1" von="1" bis="2" />
+        <kategorie ref="ineigenersache" />
+        <incipit>„So sag ers ja den Klugen nicht…</incipit>
+        <akteur ref="hamann" />
+        <akteur ref="kanter" />
+        <ort ref="kgsb" />
+        <anmerkung>Programmatisches Vorwort</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="1" von="2" bis="3" />
+        <kategorie ref="panegyrik" />
+        <akteur ref="braxein-f" />
+        <anmerkung>Lobreden auf Friedrich II., anlässlich der Feierlichkeiten an der Königsberger
+            Akademie zu dessen Geburtstag</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="1" von="3" bis="4" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="1" von="4" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="1" von="4" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="2" von="5" bis="6" />
+        <werk ref="philippi-briefe" kat="rezension" />
+        <akteur ref="lauson">vgl. ZH II, 234</akteur>
+        <ort ref="koeln" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="2" von="6" bis="7" />
+        <werk ref="buesching-denkmal-stegelmann" kat="rezension" />
+        <akteur ref="lindner-jg">vgl. ZH II, 242</akteur>
+        <ort ref="stpetersburg" />
+    </beitrag>
+   
+
+    <beitrag>
+        <stueck datum="1764" nr="4" von="14" bis="15" />
+        <stueck datum="1764" nr="5" von="17" bis="18" />
+        <stueck datum="1764" nr="6" von="22" bis="23" />
+        <stueck datum="1764" nr="7" von="25" bis="26" />
+        <stueck datum="1764" nr="8" von="29" bis="30" />
+        <kategorie ref="aufsatz" />
+        <titel>Versuch über die Krankheiten des Kopfes</titel>
+        <akteur ref="kant">vgl. ZH II, 239</akteur>
+        <ort ref="kgsb" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="4" von="13" bis="14" />
+        <werk ref="robinet-nature" kat="rezension" />
+        <akteur ref="hamann">Roth III, 241–245</akteur>
+        <ort ref="amsterdam" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="4" von="15" bis="16" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="4" von="16" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+  
+    <beitrag>
+        <stueck datum="1764" nr="6" von="20" bis="21" />
+        <kategorie ref="gedicht" />
+        <werk ref="ramler-hymen" kat="auszug" />
+        <werk ref="ramler-hymen" kat="kommentar" />
+        <akteur ref="hamann">ZH II, 239</akteur>
+        <ort ref="kgsb" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="6" von="23" bis="24" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="6" von="24" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="7" von="27" bis="28" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="7" von="28" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="7" von="28" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="8" von="30" bis="31" />
+        <werk ref="gellius-geschichte" kat="rezension" />
+        <akteur ref="hamann">vgl. ZH II, 239</akteur>
+        <ort ref="frankfurt" />
+        <ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="8" von="31" bis="32" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="8" von="32" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="9" von="33" bis="34" />
+        <werk ref="ausfuehrliche-kritische-nachrichten" kat="rezension" />
+        <akteur ref="hamann">vgl. ZH II, 239</akteur>
+        <ort ref="lindau" />
+        <ort ref="frankfurt" />
+        <ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="9" von="34" bis="35" />
+        <kategorie ref="gedicht" />
+        <werk ref="gleim-gedichte" kat="auszug" />
+        <werk ref="gleim-gedichte" kat="kommentar" />
+        <akteur ref="hamann" unsicher="true" />
+        <ort ref="berlin" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="9" von="35" bis="36" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="9" von="36" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="9" von="36" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="10" von="37" bis="38" />
+        <werk ref="argens-beytrage" kat="rezension" />
+        <akteur ref="hamann">vgl. ZH II, 239</akteur>
+        <ort ref="berlin" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="10" von="38" bis="39" />
+        <werk ref="home-critick" kat="rezension" />
+        <ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="10" von="39" bis="40" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="10" von="40" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="11" von="41" bis="42" />
+        <werk ref="karsch-gedichte" kat="rezension" />
+        <ort ref="berlin" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="11" von="43" bis="44" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="11" von="44" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+
+    <beitrag>
+        <stueck datum="1764" nr="14" von="53" bis="54" />
+        <kategorie ref="kommentar" />
+        <kategorie ref="gedicht" />
+        <titel>Jam cessere niues, cesserunt frigora brumse</titel>
+        <akteur ref="werner-jg" />
+        <ort ref="kgsb" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="14" von="55" bis="56" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="14" von="56" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="15" von="57" bis="58" />
+        <werk ref="silberschlag-feuerkugel" kat="rezension" />
+        <akteur ref="kant">vgl. ZH II, 246</akteur>
+        <ort ref="magdeburg" />
+        <ort ref="stendal" />
+        <ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="15" von="59" bis="60" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="15" von="60" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="15" von="60" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="15" von="58" bis="59" />
+        <stueck datum="1764" nr="16" von="61" bis="62" />
+        <stueck datum="1764" nr="33" von="129" bis="130" />
+        <werk ref="hirzel-bauer" kat="auszug" />
+    </beitrag>
+
+   
+
+    <beitrag>
+        <stueck datum="1764" nr="25" von="98" bis="99" />
+        <kategorie ref="kurztext" />
+        <titel>Berlocken</titel>
+        <akteur ref="hamann" unsicher="true" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="25" von="99" bis="100" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="25" von="100" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="25" von="100" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="26" von="101" bis="103" />
+        <werk ref="kant-beobachtungen" kat="rezension" />
+        <akteur ref="hamann">ZH II, 239</akteur>
+        <ort ref="kgsb" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="26" von="103" bis="104" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="26" von="104" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="27" von="105" bis="106" />
+        <werk ref="wegelin-todtengesprache" kat="rezension" />
+        <akteur ref="hamann">ZH II, 253</akteur>
+        <ort ref="frankfurt" />
+        <ort ref="leipzig" />
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1764" nr="32" von="127" bis="128" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="32" von="124" />
+        <kategorie ref="wechselkurse" />
+        <anmerkung>Tabelle, wornach die Zahlungen nach Verschiedenheit der bisherigen Münz-Sorten
+            vom 1ten Junii 1764 an in dem jetzt nach wieder hergestellten Münz-Fuß geprägtem Gold-
+            und Silber-Gelde geschehen sollen.</anmerkung>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="33" von="131" bis="132" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="33" von="132" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="34" von="133" bis="135" />
+        <stueck datum="1764" nr="35" von="137" bis="138" />
+        <stueck datum="1764" nr="36" von="141" bis="142" />
+        <kategorie ref="aufsatz" />
+        <incipit>Wohlgeordnete Naturalienbehältnisse…</incipit>
+        <ort ref="kgsb" />
+        <akteur ref="bock">vgl. ZH II, 246</akteur>
+        <anmerkung>Beschreibung des Naturalienkabinetts von Friedrich Franz Saturgus, ausführlicher
+            in <wwwlink address="https://books.google.de/books?id=MHw_rfdwQYMC">Friedrich Samuel
+            Bock: Nachricht von einem Preußischen Naturaliencabinet so sich dem Saturguschen Garten
+            zu Königsberg befindet (Königsberg: Kanter 1764)</wwwlink>.</anmerkung>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="34" von="135" bis="136" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="35" von="138" bis="139" />
+        <kategorie ref="gelehrte-nachrichten" />
+        <ort ref="kgsb" />
+        <anmerkung>Bericht über die Königsberger Akademie</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="35" von="139" bis="140" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="35" von="140" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="35" von="140" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="36" von="142" bis="143" />
+        <werk ref="klopstock-salomo" kat="rezension" />
+        <ort ref="magdeburg" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="36" von="143" bis="144" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="36" von="144" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag id="klopstock-done">
+        <stueck datum="1764" nr="37" von="145" />
+        <kategorie ref="gedicht" />
+        <titel>An Done, auf die Frage: Ob er sie wie Meta liebte?</titel>
+        <akteur ref="klopstock" />
+        <anmerkung>Erstdruck der Klopstock-Ode, vgl. Werke und Briefe. Historisch-kritische Ausgabe,
+            begr. v. A. Beck, K. L. Schneider und H. Tiemann; hg. v. H. Gronemeyer, E.
+            Höpker-Herberg, K. Hurlebusch und R.-M. Hurlebusch (bisher 42 Bde.; Berlin, New York
+            1974ff.), I 2, S. 357f.</anmerkung>
+    </beitrag>
+   
+
+    <beitrag>
+        <stueck datum="1764" nr="43" von="168" />
+        <kategorie ref="gelehrte-nachrichten" />
+        <ort ref="kgsb" />
+        <anmerkung>Bericht über Veröffentlichungen der Königsberger Akademie</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="43" von="169" bis="170" />
+        <stueck datum="1764" nr="44" von="173" bis="174" />
+        <werk ref="basedow-unterricht" kat="rezension" />
+        <akteur ref="trescho">HBGA, I 26f. und X 579</akteur>
+        <ort ref="altona" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="43" von="171" bis="172" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="43" von="172" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="43" von="172" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="44" von="174" bis="175" />
+        <werk ref="hippel-rhapsodie" kat="auszug" />
+        <werk ref="hippel-rhapsodie" kat="kommentar" />
+        <ort ref="kgsb" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="44" von="175" bis="176" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="45" von="177" bis="179" />
+        <kategorie ref="aufsatz" />
+        <titel>Von der Handlung</titel>
+        <anmerkung>Unterzeichnet mit „K.“ (aber wohl nicht Kant, vgl. HBGA, X 300)</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="45" von="179" bis="180" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="45" von="180" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="45" von="180" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="45" von="180" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="46" von="181" bis="182" />
+        <werk ref="willamovius-mode" kat="rezension" />
+        <akteur ref="lauson">HBGA, I 27 und X 339</akteur>
+        <ort ref="breslau" />
+        <ort ref="leipzig" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="46" von="183" bis="184" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="46" von="182" bis="183" />
+        <stueck datum="1764" nr="47" von="185" bis="187" />
+        <stueck datum="1764" nr="48" von="189" bis="191" />
+        <kategorie ref="aufsatz" />
+        <titel>Gedanken über die Ausbreitung der Wissenschaften, und einer verbesserten Erkänntniß</titel>
+        <akteur ref="trescho" unsicher="true">ZH II, 263</akteur>
+        <anmerkung>Unterzeichnet mit „T.“</anmerkung>
+    </beitrag>
+
+    
+    <beitrag>
+        <stueck datum="1764" nr="50" von="197" />
+        <werk ref="brautbisinsalter" kat="rezension" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="50" von="197" bis="199" />
+        <stueck datum="1764" nr="51" von="201" bis="202" />
+        <titel>Von der Art, wie die Schalen der Schnecken entstehen.</titel>
+        <anmerkung>Aus dem Universalmagazin, Juli 1756, S.&#x202F;13.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="50" von="199" bis="200" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="50" von="200" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+
+    <beitrag>
+        <stueck datum="1764" nr="53" von="209" bis="211" />
+        <titel>Ueber das Denken der Seele vor der Geburt.</titel>
+        <akteur ref="trescho" unsicher="true">ZH II, 263</akteur>
+        <anmerkung>Unterzeichnet mit „T.“</anmerkung>
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1764" nr="54" von="216" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+        <anmerkung>Für den Catalog der Ostermesse</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="54" von="216" />
+        <kategorie ref="wechselkurse" />
+        <anmerkung>Declaration des neuen Müntz-Edicts vom 29. Martii 1764 in Ansehung des
+            Königreichs Preussen, wegen der in Preußischen Sechsern seit den 21. April 1763
+            getroffenen Contracte.</anmerkung>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="55" von="217" />
+        <werk ref="glaser-feuersbrunst" kat="rezension" />
+        <ort ref="hildburghausen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="55" von="217" bis="219" />
+        <kategorie ref="erzaehlung" />
+        <titel>Das Gesicht des Einsiedlers Abdallah. Eine morgenländische Erzählung.</titel>
+        <anmerkung>Unterzeichnet „K.“, meint aber nicht Kant (vgl. HBGA X, 300)</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="55" von="219" bis="220" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1764" nr="66" von="262" />
+        <kategorie ref="aufsatz" />
+        <titel>Chimische Untersuchung einer Salzquelle in dem Dorfe Ponnau.</titel>
+        <akteur ref="hagen-h">Unterzeichnet mit „H.“, wohl für den Königsberger Apotheker Heinrich Hagen, Vater von Karl Gottfried Hagen, siehe  <wwwlink address="https://books.google.de/books?id=Bal-b4Hpp7AC">Neue Preußische Provinzial-Blätter 9 (1850), S. 51.</wwwlink></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="66" von="263" bis="264" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="66" von="264" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="66" von="264" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+
+   
+    <beitrag>
+        <stueck datum="1764" nr="70" von="274" bis="279" />
+        <werk kat="rezension" ref="arrian-hannon" />
+        <ort ref="braunschweig" />
+        <ort ref="wolfenbuettel" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="70" von="279" bis="280" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag> 
+    <beitrag>
+        <stueck datum="1764" nr="70" von="280" />
+        <kategorie ref="avertissement" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1764" nr="71" von="281" bis="282" />
+        <kategorie ref="aufsatz" />
+        <titel>Der Character des Menschenfeindes.</titel>
+        <anmerkung>Unterzeichnet „B.“</anmerkung>
+    </beitrag>
+    
+
+    <beitrag>
+        <stueck datum="1764" nr="94" von="373" bis="374"/>
+        <werk kat="rezension" ref="bar-babioles"></werk>
+        <ort ref="hamburg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="94" von="374" bis="375"/>
+        <kategorie ref="gedicht"></kategorie>
+        <titel>Der Neubekehrte. Eine Erzählung.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="94" von="375" bis="376" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+
+</beitraege>

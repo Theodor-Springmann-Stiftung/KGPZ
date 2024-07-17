@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<akteure xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../XSD/KGPZ.xsd">
+    <!--
+    <akteur id="einstein">
+        Pflicht sind: das Attribut id und <name>
+        <name>Albert Einstein</name>
+        Für mehrere mögliche Namen sind mehrere Namen-Tags möglich: 
+        <name>Ainshutain, A.</name>
+        <sortiername>Einstein, Albert</sortiername>
+        <lebensdaten>1889-1951</lebensdaten>
+        Die GND-Angabe muss, falls angegeben, einmalig sein 
+        <gnd>https://d-nb.info/gnd/118529579</gnd>
+        Anmerkungen sind öffentlich, Vermerke sind intern 
+        <anmerkung>Dies ist eine Anmerkung</anmerkung>
+        <anmerkung>Dies ist eine zweite Anmerkung</anmerkung>
+        <vermerk>Das ist ein Bearbeitungvermerk!</vermerk>
+    </akteur>
+    -->
+
+    <akteur id="hamann">
+        <name>Johann Georg Hamann</name>
+        <lebensdaten>1730–1788</lebensdaten>
+        <gnd>https://d-nb.info/gnd/11854523X</gnd>
+    </akteur>
+
+    <akteur id="mylius">
+        <name>August Mylius</name>
+        <lebensdaten>1763–1846 </lebensdaten>
+        <gnd>https://d-nb.info/gnd/138422230</gnd>
+    </akteur>
+
+    <akteur id="nonnen-n">
+        <name>Nicolaus Nonnen</name>
+        <lebensdaten>1701–1772</lebensdaten>
+        <gnd>https://d-nb.info/gnd/136853323</gnd>
+    </akteur>
+
+    <akteur id="lange-ag">
+        <name>Gottlieb August Lange</name>
+        <lebensdaten>–1796</lebensdaten>
+        <gnd>https://d-nb.info/gnd/12972646X</gnd>
+    </akteur>
+    
+    <akteur id="velly-pf">
+        <name>Paul François Velly</name>
+        <lebensdaten>1690–1759</lebensdaten>
+        <gnd>https://d-nb.info/gnd/100654045</gnd>
+    </akteur>
+
+    <akteur id="kanter">
+        <name>Johann Jakob Kanter</name>
+        <lebensdaten>1738–1786</lebensdaten>
+        <gnd>https://d-nb.info/gnd/103759972</gnd>
+    </akteur>
+
+</akteure>
