@@ -14,15 +14,15 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     
-    - name: Set up Python
+    - name: Python-Setup
       uses: actions/setup-python@v5
       with:
         python-version: '3.x'
     
-    - name: Install dependencies
+    - name: Abhängigkeiten installieren
       run: |
         python -m pip install --upgrade pip
         pip install lxml
     
-    - name: Run custom linter
-      run: python Scripts/custom_linter.py
+    - name: Verweise prüfen 
+      run: python Scripts/lint_verweise.py
