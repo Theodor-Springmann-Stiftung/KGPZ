@@ -26,16 +26,3 @@ jobs:
     
     - name: Run custom linter
       run: python Scripts/custom_linter.py
-    
-    - name: Process linter output
-      if: failure()
-      run: |
-        python Scripts/process_linter_output.py
-
-    - name: Upload linter results
-      if: failure()
-      uses: actions/upload-artifact@v4
-      with:
-        name: linter-results
-        path: linter_results.txt
-        if-no-files-found: warn
