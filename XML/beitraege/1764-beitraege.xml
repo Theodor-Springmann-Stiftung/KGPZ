@@ -30,27 +30,30 @@
         <anmerkung>Anmerkung</anmerkung>
         <vermerk>Bearbeitungsvermerk</vermerk>
     </beitrag> -->
-    
-<!-- Sonderfälle: -->
+
+    <!-- Sonderfälle: -->
     <beitrag>
         <stueck datum="1764" />
-        <kategorie ref="ineigenersache" />
+        <kategorie ref="ineigenersachea" />
         <datum when="1764-01-28" />
         <titel>Nachricht.</titel>
         <akteur ref="hamann" />
         <akteur ref="kanter" />
-        <anmerkung>Anzeige und Beschreibung des Zeitungsprojekts, sechs Tage vor dem ersten Stück, am 28. Januar 1764 in Königsberg ausgegeben.</anmerkung>
+        <anmerkung>Anzeige und Beschreibung des Zeitungsprojekts, sechs Tage vor dem ersten Stück,
+            am 28. Januar 1764 in Königsberg ausgegeben.</anmerkung>
     </beitrag>
-	<beitrag>
+    <beitrag>
         <stueck datum="1764" />
-        <kategorie ref="proklamation" />
-        <titel>Wir Catharina die Zweyte, von Gottes Gnaden Kayserin und Selbstherrscherin aller Reußen thun hiemit jedermänniglich kund und zu wißen…</titel>
+        <kategorie ref="proklamationa" />
+        <titel>Wir Catharina die Zweyte, von Gottes Gnaden Kayserin und Selbstherrscherin aller
+            Reußen thun hiemit jedermänniglich kund und zu wißen…</titel>
         <akteur ref="katharina-ii" />
-        <anmerkung>Übersetzung eines Berichts über den versuchten Aufstand zur Befreiung Iwans VI und dessen Ermordung, gedruckt in St. Petersburg, 17. August 1764.</anmerkung>
+        <anmerkung>Übersetzung eines Berichts über den versuchten Aufstand zur Befreiung Iwans VI
+            und dessen Ermordung, gedruckt in St. Petersburg, 17. August 1764.</anmerkung>
         <!-- unsicher, welchem Stück das beilag -->
     </beitrag>
-	
-	<!-- Jg. 1764: -->
+
+    <!-- Jg. 1764: -->
     <beitrag>
         <stueck datum="1764" nr="1" von="1" bis="2" />
         <kategorie ref="ineigenersache" />
@@ -811,7 +814,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="37" von="145" />
-        <beitrag ref="klopstock-done" kat="kommentar"/>
+        <beitrag ref="klopstock-done" kat="kommentar" />
         <akteur ref="lauson" unsicher="true" />
     </beitrag>
     <beitrag>
@@ -1463,7 +1466,7 @@
         <kategorie ref="wechselkurse" />
     </beitrag>
 
-    
+
     <beitrag>
         <stueck datum="1764" nr="62" von="245" />
         <werk ref="greis-5" kat="rezension" />
@@ -1521,7 +1524,7 @@
         <kategorie ref="wechselkurse" />
     </beitrag>
 
-    
+
     <beitrag>
         <stueck datum="1764" nr="64" von="253" />
         <werk ref="brooke-mandeville" kat="rezension" />
@@ -1541,14 +1544,14 @@
         <kategorie ref="avertissement" />
         <kategorie ref="buecher" />
     </beitrag>
-    
+
     <beitrag>
         <stueck datum="1764" nr="65" von="257" />
         <werk ref="joachim-wahlrecht" kat="rezension" />
         <ort ref="halle" />
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="65" von="257"/>
+        <stueck datum="1764" nr="65" von="257" />
         <titel>Das Lächerliche des Stolzes.</titel>
         <werk kat="uebersetzung" ref="english-magazine" />
     </beitrag>
@@ -1560,7 +1563,7 @@
         <stueck datum="1764" nr="65" von="260" />
         <kategorie ref="wechselkurse" />
     </beitrag>
-    
+
     <beitrag>
         <stueck datum="1764" nr="66" von="261" />
         <werk ref="glueckselige-1764" kat="rezension" />
@@ -1575,7 +1578,10 @@
         <stueck datum="1764" nr="66" von="262" />
         <kategorie ref="aufsatz" />
         <titel>Chimische Untersuchung einer Salzquelle in dem Dorfe Ponnau.</titel>
-        <akteur ref="hagen-h">Unterzeichnet mit „H.“, wohl für den Königsberger Apotheker Heinrich Hagen, Vater von Karl Gottfried Hagen, siehe  <wwwlink address="https://books.google.de/books?id=Bal-b4Hpp7AC">Neue Preußische Provinzial-Blätter 9 (1850), S. 51.</wwwlink></akteur>
+        <akteur ref="hagen-h">Unterzeichnet mit „H.“, wohl für den Königsberger Apotheker Heinrich
+            Hagen, Vater von Karl Gottfried Hagen, siehe <wwwlink
+                address="https://books.google.de/books?id=Bal-b4Hpp7AC">Neue Preußische
+            Provinzial-Blätter 9 (1850), S. 51.</wwwlink></akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="66" von="263" bis="264" />
@@ -1593,7 +1599,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="67" von="265" bis="266"/>
+        <stueck datum="1764" nr="67" von="265" bis="266" />
         <kategorie ref="gedicht" />
         <incipit>Contrabit vmbra diem, solisque remorior axit</incipit>
         <akteur ref="werner-jg"></akteur>
@@ -1604,7 +1610,7 @@
         <werk kat="rezension" ref="beaumont-instructions" />
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="67" von="266" bis="267"/>
+        <stueck datum="1764" nr="67" von="266" bis="267" />
         <werk kat="rezension" ref="schauplatz-liebe" />
     </beitrag>
     <beitrag>
@@ -1668,13 +1674,13 @@
     <beitrag>
         <stueck datum="1764" nr="69" von="275" bis="276" />
         <kategorie ref="weltnachrichten" />
-    </beitrag> 
+    </beitrag>
     <beitrag>
         <stueck datum="1764" nr="69" von="276" />
         <kategorie ref="wechselkurse" />
     </beitrag>
 
-    
+
     <beitrag>
         <stueck datum="1764" nr="69" von="277" />
         <kategorie ref="gelehrte-nachrichten" />
@@ -1700,7 +1706,7 @@
     <beitrag>
         <stueck datum="1764" nr="70" von="279" bis="280" />
         <kategorie ref="weltnachrichten" />
-    </beitrag> 
+    </beitrag>
     <beitrag>
         <stueck datum="1764" nr="70" von="280" />
         <kategorie ref="avertissement" />
@@ -1726,17 +1732,18 @@
     <beitrag>
         <stueck datum="1764" nr="71" von="283" bis="284" />
         <kategorie ref="weltnachrichten" />
-    </beitrag> 
+    </beitrag>
     <beitrag>
         <stueck datum="1764" nr="71" von="284" />
         <kategorie ref="wechselkurse" />
     </beitrag>
-    
+
     <beitrag id="abhandlung-tanz">
         <stueck datum="1764" nr="72" von="285" bis="287" />
         <kategorie ref="aufsatz" />
         <titel>Abhandlung vom Tanze.</titel>
-        <anmerkung>Im Anschluss Mitteilung von zwölf englischen Tänzen und deren Choreographie, „Berloque Dansante London 1764.“</anmerkung>
+        <anmerkung>Im Anschluss Mitteilung von zwölf englischen Tänzen und deren Choreographie,
+            „Berloque Dansante London 1764.“</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="72" von="288" />
@@ -1747,7 +1754,8 @@
         <stueck datum="1764" nr="73" von="289" bis="290" />
         <kategorie ref="gedicht" />
         <titel>Einladung aufs Land, an meinen Freund, nach dem Horaz.</titel>
-        <akteur ref="scheffner">Briefe von und an Johann George Scheffner (hg. v. Arthur Warda, München, Leipzig 1916–1931), I 446</akteur>
+        <akteur ref="scheffner">Briefe von und an Johann George Scheffner (hg. v. Arthur Warda,
+            München, Leipzig 1916–1931), I 446</akteur>
         <anmerkung>Unterzeichnet S**r.</anmerkung>
     </beitrag>
     <beitrag>
@@ -1758,7 +1766,7 @@
     <beitrag>
         <stueck datum="1764" nr="73" von="291" bis="292" />
         <kategorie ref="weltnachrichten" />
-    </beitrag> 
+    </beitrag>
     <beitrag>
         <stueck datum="1764" nr="73" von="292" />
         <kategorie ref="avertissement" />
@@ -1782,18 +1790,19 @@
     <beitrag>
         <stueck datum="1764" nr="74" von="293" bis="295" />
         <kategorie ref="brief" />
-        <titel>Folgendes Schreiben eines Vaters an seinen Sohn, der in üble Gesellschaft gerathen, ist uns von vornehmer Hand aus Curland eingesandt worden.</titel>
+        <titel>Folgendes Schreiben eines Vaters an seinen Sohn, der in üble Gesellschaft gerathen,
+            ist uns von vornehmer Hand aus Curland eingesandt worden.</titel>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="74" von="295" bis="296" />
         <kategorie ref="weltnachrichten" />
-    </beitrag> 
+    </beitrag>
     <beitrag>
         <stueck datum="1764" nr="74" von="296" />
         <kategorie ref="avertissement" />
         <kategorie ref="buecher" />
     </beitrag>
-    
+
     <beitrag id="hahn-evrement">
         <stueck datum="1764" nr="75" von="297" bis="299" />
         <stueck datum="1764" nr="76" von="302" bis="302" />
@@ -1808,11 +1817,11 @@
         <akteur ref="kanter" />
         <werk kat="uebersetzung" ref="evrement-liebe" />
     </beitrag>
-    
+
     <beitrag>
         <stueck datum="1764" nr="75" von="299" bis="300" />
         <kategorie ref="weltnachrichten" />
-    </beitrag> 
+    </beitrag>
     <beitrag>
         <stueck datum="1764" nr="75" von="300" />
         <kategorie ref="avertissement" />
@@ -1839,7 +1848,7 @@
         <kategorie ref="uebersetzung" />
         <titel>Von der Eitelkeit der Gelehrten. Aus dem Französischen.</titel>
     </beitrag>
-    
+
     <beitrag>
         <stueck datum="1764" nr="77" von="306" bis="307" />
         <werk kat="rezension" ref="sturm-landleben" />
@@ -1881,15 +1890,18 @@
         <kategorie ref="buecher" />
     </beitrag>
 
-    
+
     <beitrag>
         <stueck datum="1764" nr="79" von="314" bis="315" />
         <stueck datum="1764" nr="81" von="321" bis="322" />
         <titel>Brief an den Verfasser der Abhandlung vom Tanze.</titel>
         <beitrag kat="replik" ref="abhandlung-tanz"></beitrag>
-        <anmerkung>Überschrift: Der folgende Brief an den Verfasser des 72sten Stücks unserer Zeitung, welches eine Abhandlung vom Tanze in sich begreift, ist uns von einer unbekannten Hand eingesendet worden; wir hoffen dadurch wenigstens einigen von unsern Lesern gefällig zu werden.</anmerkung>
+        <anmerkung>Überschrift: Der folgende Brief an den Verfasser des 72sten Stücks unserer
+            Zeitung, welches eine Abhandlung vom Tanze in sich begreift, ist uns von einer
+            unbekannten Hand eingesendet worden; wir hoffen dadurch wenigstens einigen von unsern
+            Lesern gefällig zu werden.</anmerkung>
     </beitrag>
-    
+
     <beitrag>
         <stueck datum="1764" nr="79" von="310" bis="311" />
         <werk kat="rezension" ref="chrysostomus-sorgfalt" />
@@ -1915,7 +1927,7 @@
         <kategorie ref="wechselkurse" />
     </beitrag>
 
-    
+
     <beitrag>
         <stueck datum="1764" nr="80" von="317" bis="318" />
         <werk kat="rezension" ref="buesching-nachrichten1" />
@@ -1927,7 +1939,7 @@
         <titel>Auf einen stolzen Thoren.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="80" von="318"/>
+        <stueck datum="1764" nr="80" von="318" />
         <kategorie ref="gedicht" />
         <titel>Fatill.</titel>
     </beitrag>
@@ -1939,11 +1951,12 @@
         <stueck datum="1764" nr="80" von="320" />
         <kategorie ref="avertissement" />
         <kategorie ref="proklamation" />
-        <anmerkung>Proklamation über die Errichtung einer öffentlichen Bank in Berlin durch Friedrich II., gez. v. Hagen (Banco-Commission)</anmerkung>
+        <anmerkung>Proklamation über die Errichtung einer öffentlichen Bank in Berlin durch
+            Friedrich II., gez. v. Hagen (Banco-Commission)</anmerkung>
     </beitrag>
-    
+
     <beitrag>
-        <stueck datum="1764" nr="81" von="322"/>
+        <stueck datum="1764" nr="81" von="322" />
         <kategorie ref="gedicht" />
         <titel>Der Tobacksraucher.</titel>
     </beitrag>
@@ -1987,7 +2000,8 @@
         <stueck datum="1764" nr="82" von="328" />
         <kategorie ref="avertissement" />
         <kategorie ref="proklamation" />
-        <anmerkung>Proklamation des preußisch-polnischen Grenz-Postamts über den Postverkehr nach Warschau über Marienwerder</anmerkung>
+        <anmerkung>Proklamation des preußisch-polnischen Grenz-Postamts über den Postverkehr nach
+            Warschau über Marienwerder</anmerkung>
     </beitrag>
 
     <beitrag>
@@ -2038,7 +2052,8 @@
         <stueck datum="1764" nr="84" von="336" />
         <kategorie ref="avertissement" />
         <kategorie ref="proklamation" />
-        <anmerkung>Aufforderung des Königl. Preuß. Armen-Collegiums, die privat untergebrachten Verletzten des Königsberger Brandes zu melden</anmerkung>
+        <anmerkung>Aufforderung des Königl. Preuß. Armen-Collegiums, die privat untergebrachten
+            Verletzten des Königsberger Brandes zu melden</anmerkung>
     </beitrag>
 
     <beitrag>
@@ -2072,7 +2087,7 @@
         <kategorie ref="wechselkurse" />
     </beitrag>
 
-    
+
     <beitrag>
         <stueck datum="1764" nr="86" von="341" bis="342" />
         <werk kat="rezension" ref="trescho-theologischelitteratur" />
@@ -2091,7 +2106,7 @@
     <beitrag>
         <stueck datum="1764" nr="87" von="345" />
         <kategorie ref="gedicht" />
-        <titel>Der verunglückte Hund.</titel>        
+        <titel>Der verunglückte Hund.</titel>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="87" von="345" bis="346" />
@@ -2118,7 +2133,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="88" von="349"/>
+        <stueck datum="1764" nr="88" von="349" />
         <werk kat="rezension" ref="lenov-zeitvertreib"></werk>
         <ort ref="frankfurt"></ort>
     </beitrag>
@@ -2133,20 +2148,20 @@
 
 
     <beitrag>
-        <stueck datum="1764" nr="89" von="354" bis="355"/>
-        <stueck datum="1764" nr="91" von="362" bis="363"/>
+        <stueck datum="1764" nr="89" von="354" bis="355" />
+        <stueck datum="1764" nr="91" von="362" bis="363" />
         <werk kat="rezension" ref="klotz-acta1"></werk>
         <ort ref="altenburg"></ort>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="89" von="353" bis="354"/>
+        <stueck datum="1764" nr="89" von="353" bis="354" />
         <kategorie ref="gedicht"></kategorie>
         <kategorie ref="kommentar"></kategorie>
         <titel>Ueber die Allwissenheit GOttes</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="89" von="354"/>
+        <stueck datum="1764" nr="89" von="354" />
         <werk kat="rezension" ref="stanislaus-philosophe"></werk>
         <ort ref="leipzig"></ort>
     </beitrag>
@@ -2165,18 +2180,19 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="90" von="357" bis="358"/>
+        <stueck datum="1764" nr="90" von="357" bis="358" />
         <kategorie ref="ineigenersache"></kategorie>
         <akteur ref="kanter"></akteur>
-        <anmerkung>Über die Zukunft der Zeitung im nächsten Jahr, die Originalbeiträge und weitere Pläne Kanters.</anmerkung>
+        <anmerkung>Über die Zukunft der Zeitung im nächsten Jahr, die Originalbeiträge und weitere
+            Pläne Kanters.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="90" von="358"/>
+        <stueck datum="1764" nr="90" von="358" />
         <werk kat="rezension" ref="justi-handwerke1-3"></werk>
         <ort ref="berlin"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="90" von="358" bis="359"/>
+        <stueck datum="1764" nr="90" von="358" bis="359" />
         <werk kat="rezension" ref="neujahrsgeschenk-1765"></werk>
     </beitrag>
     <beitrag>
@@ -2188,14 +2204,14 @@
         <kategorie ref="avertissement" />
         <kategorie ref="buecher" />
     </beitrag>
-    
+
     <beitrag>
-        <stueck datum="1764" nr="91" von="361"/>
+        <stueck datum="1764" nr="91" von="361" />
         <werk kat="rezension" ref="blainville-reisebeschreibung1-1"></werk>
         <ort ref="lemgo"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="91" von="361" bis="362"/>
+        <stueck datum="1764" nr="91" von="361" bis="362" />
         <werk kat="rezension" ref="vademecum-lustig"></werk>
     </beitrag>
     <beitrag>
@@ -2218,16 +2234,16 @@
         <ort ref="halle"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="92" von="365" bis="366"/>
+        <stueck datum="1764" nr="92" von="365" bis="366" />
         <werk kat="rezension" ref="groeben-buechermanufactur"></werk>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="92" von="366" bis="367"/>
+        <stueck datum="1764" nr="92" von="366" bis="367" />
         <werk kat="rezension" ref="grau-wundmittel"></werk>
         <ort ref="lemgo"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="92" von="366" bis="367"/>
+        <stueck datum="1764" nr="92" von="366" bis="367" />
         <kategorie ref="gedicht"></kategorie>
         <titel>Der Mensch.</titel>
         <anmerkung>Unterzeichnet „Y.“</anmerkung>
@@ -2241,27 +2257,27 @@
         <kategorie ref="avertissement" />
         <kategorie ref="buecher" />
     </beitrag>
-    
+
     <beitrag>
-        <stueck datum="1764" nr="93" von="369" bis="370"/>
+        <stueck datum="1764" nr="93" von="369" bis="370" />
         <kategorie ref="gedicht"></kategorie>
         <incipit>Floruit, incaluit, fructu maturuit annus</incipit>
         <akteur ref="werner-jg"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="93" von="370"/>
+        <stueck datum="1764" nr="93" von="370" />
         <kategorie ref="brief"></kategorie>
         <incipit>Quem iudicem non feuerum mihi expetieram</incipit>
         <akteur ref="werner-jg"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="93" von="369" bis="370"/>
+        <stueck datum="1764" nr="93" von="369" bis="370" />
         <kategorie ref="gedicht"></kategorie>
         <titel>Der Abend.</titel>
         <akteur ref="werner-jg"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="93" von="370" bis="371"/>
+        <stueck datum="1764" nr="93" von="370" bis="371" />
         <kategorie ref="aufsatz"></kategorie>
         <incipit>Wir hoffen unsern Lesern ein wahres Vergnügen zu machen</incipit>
         <anmerkung>Johann Gottfried von Werners</anmerkung>
@@ -2281,12 +2297,12 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="94" von="373" bis="374"/>
+        <stueck datum="1764" nr="94" von="373" bis="374" />
         <werk kat="rezension" ref="bar-babioles"></werk>
         <ort ref="hamburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="94" von="374" bis="375"/>
+        <stueck datum="1764" nr="94" von="374" bis="375" />
         <kategorie ref="gedicht"></kategorie>
         <titel>Der Neubekehrte. Eine Erzählung.</titel>
     </beitrag>
@@ -2302,9 +2318,10 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="95" von="377" bis="379"/>
+        <stueck datum="1764" nr="95" von="377" bis="379" />
         <kategorie ref="aufsatz"></kategorie>
-        <titel>Prosaisches Gedicht über das Schicksal der Stadt Königsberg, den 11ten bis 13ten November, 1764, von J. F. Pelchau, aus Riga.</titel>
+        <titel>Prosaisches Gedicht über das Schicksal der Stadt Königsberg, den 11ten bis 13ten
+            November, 1764, von J. F. Pelchau, aus Riga.</titel>
         <akteur ref="poelchau-jf" unsicher="true" />
     </beitrag>
     <beitrag>
