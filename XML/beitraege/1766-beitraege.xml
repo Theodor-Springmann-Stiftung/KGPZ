@@ -253,14 +253,23 @@
 
     <!-- 12 -->
     <beitrag>
-        <stueck datum="1766" nr="12" von="46" bis="47" />
+        <stueck datum="1766" nr="12" von="47" bis="48" />
         <werk kat="rezension" ref="iversen-geschichte"></werk>
         <ort ref="altona" />
         <akteur ref="buesching"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1766" nr="12" von="47" bis="48" />
+        <stueck datum="1766" nr="12" von="48" bis="49" />
         <werk kat="rezension" ref="unzer-fortgesetzte-versuche"></werk>
         <ort ref="rinteln" />
         </beitrag>
+        <beitrag>
+            <stueck datum="1766" nr="12" von="49" bis="50" />
+            <kategorie ref="weltnachrichten" />
+        </beitrag>
+        <beitrag>
+            <stueck datum="1766" nr="12" von="50" />
+            <kategorie ref="einkommende-fremde" />
+        </beitrag>
+
 </beitraege>
