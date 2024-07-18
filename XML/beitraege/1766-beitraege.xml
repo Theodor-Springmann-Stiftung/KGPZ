@@ -247,8 +247,16 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
-        <stueck datum="1766" nr="11" von="45" />
+        <stueck datum="1766" nr="11" von="46" />
         <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <!-- 12 -->
+    <beitrag>
+        <stueck datum="1766" nr="12" von="46" bis="47" />
+        <werk kat="rezension" ref="iversen-geschichte"></werk>
+        <ort ref="altona" />
+        <akteur ref="buesching"></akteur>
     </beitrag>
 
 </beitraege>
