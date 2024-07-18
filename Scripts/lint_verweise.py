@@ -11,7 +11,7 @@ def parse_xml_file(filepath):
         tree = etree.parse(filepath, parser)
         return tree.getroot()
     except etree.ParseError as e:
-        print(f"Error parsing {filepath}: {e}")
+        print(f"Fehler beim Parsen von {filepath}: {e}")
         return None
 
 def get_all_ids(root, tag):
@@ -26,7 +26,7 @@ def check_references(beitrag_root, reference_data, filepath):
             ref_id = ref.get('ref')
             if ref_id not in reference_data[ref_type]:
                 line_number = ref.sourceline
-                errors.append(f"{relative_path}, Line {line_number}: INVALID REFERENCE ({ref_type}:{ref_id})")
+                errors.append(f"{relative_path}, Zeile {line_number}: UNGÜLTIGER VERWEIS ({ref_type}:{ref_id})")
     return errors
 
 def main():
@@ -51,12 +51,15 @@ def main():
     all_errors.sort()
 
     if all_errors:
-        print("Linter found the following errors:")
+        print("Der Linter hat folgende Fehler gefunden:")
         for error in all_errors:
             print(error)
-        exit(1)  # Exit with error code if there are any errors
+        with open('reference_check_errors.txt', 'w') as f:
+            for error in all_errors:
+                f.write(f"{error}\n")
+        exit(1)  # Beenden mit Fehlercode, wenn Fehler gefunden wurden
     else:
-        print("No errors found.")
+        print("Keine Fehler gefunden.")
 
 if __name__ == "__main__":
     main()
