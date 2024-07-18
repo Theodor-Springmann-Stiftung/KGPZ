@@ -34,7 +34,7 @@
     <!-- Sonderfälle: -->
     <beitrag>
         <stueck datum="1764" />
-        <kategorie ref="ineigenersachea" />
+        <kategorie ref="ineigenersache" />
         <datum when="1764-01-28" />
         <titel>Nachricht.</titel>
         <akteur ref="hamann" />
@@ -44,7 +44,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" />
-        <kategorie ref="proklamationa" />
+        <kategorie ref="proklamation" />
         <titel>Wir Catharina die Zweyte, von Gottes Gnaden Kayserin und Selbstherrscherin aller
             Reußen thun hiemit jedermänniglich kund und zu wißen…</titel>
         <akteur ref="katharina-ii" />
@@ -65,7 +65,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="1" von="2" bis="3" />
-        <kategorie ref="panegyrik" />
+        <kategorie ref="panegyrikt" />
         <akteur ref="braxein-f" />
         <anmerkung>Lobreden auf Friedrich II., anlässlich der Feierlichkeiten an der Königsberger
             Akademie zu dessen Geburtstag</anmerkung>
