@@ -26,6 +26,10 @@ jobs:
     
     - name: XSD-Schema-Validierung
       run: python Scripts/lint_validation.py
+    
+    - name: GitHub-Anmerkungen für XSD-Validierung erstellen
+      if: failure()
+      run: python Scripts/annotations_validation.py
       
   Verweise:
     runs-on: ubuntu-latest
@@ -44,3 +48,7 @@ jobs:
       
     - name: Verweise prüfen 
       run: python Scripts/lint_verweise.py
+      
+    - name: GitHub-Anmerkungen für Referenzprüfung erstellen
+      if: failure()
+      run: python Scripts/annotations_references.py

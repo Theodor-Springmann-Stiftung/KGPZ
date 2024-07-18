@@ -171,6 +171,7 @@
     <beitrag>
         <stueck datum="1766" nr="8" von="34" />
         <kategorie ref="avertissement" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="8" von="34" />
@@ -185,7 +186,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="9" von="36" bis="37" />
-        <werk kat="rezension" ref="lart-de-bien"></werk>
+        <werk kat="rezension" ref="art-de-bien"></werk>
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="9" von="37" bis="38" />
@@ -237,7 +238,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="11" von="44" bis="45" />
-        <werk kat="rezension" ref="idyllen"></werk>
+        <werk kat="rezension" ref="idyllen-erzaehlen"></werk>
         <ort ref="berlin" />
         <ort ref="stralsund" />
     </beitrag>
@@ -246,8 +247,29 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
-        <stueck datum="1766" nr="11" von="45" />
+        <stueck datum="1766" nr="11" von="46" />
         <kategorie ref="wechselkurse" />
     </beitrag>
+
+    <!-- 12 -->
+    <beitrag>
+        <stueck datum="1766" nr="12" von="47" bis="48" />
+        <werk kat="rezension" ref="iversen-geschichte"></werk>
+        <ort ref="altona" />
+        <akteur ref="buesching"></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="12" von="48" bis="49" />
+        <werk kat="rezension" ref="unzer-fortgesetzte-versuche"></werk>
+        <ort ref="rinteln" />
+        </beitrag>
+        <beitrag>
+            <stueck datum="1766" nr="12" von="49" bis="50" />
+            <kategorie ref="weltnachrichten" />
+        </beitrag>
+        <beitrag>
+            <stueck datum="1766" nr="12" von="50" />
+            <kategorie ref="einkommende-fremde" />
+        </beitrag>
 
 </beitraege>
