@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=18_07_2024_23:52</Creator>
+        <Created>2024-07-18T23:50:13.070+02:00</Created>
+        <LastChange>2024-07-18T23:52:24.393+02:00</LastChange>
+        <TranskribusMetadata docId="3339668" pageId="75224007" pageNr="1" tsid="178415803" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=OZRVRZXXMAQKVVWOXXXLDSJE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GPOLSKDUCNYADSHHXOFPKVLG" imageId="60986890"/>
+    </Metadata>
+    <Page imageFilename="75224007.jpg" imageWidth="2679" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721339544394" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_10"/>
+                <RegionRefIndexed index="1" regionRef="r_23"/>
+                <RegionRefIndexed index="2" regionRef="r_22"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_10" custom="readingOrder {index:0;}">
+            <Coords points="424,1328 2199,1328 2199,1405 424,1405"/>
+            <TextLine id="r_10_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1132,1413 1228,1388 1280,1413 1323,1388 1792,1394 1792,1336 1766,1332 1360,1334 1319,1355 1267,1329 1132,1334"/>
+                <Baseline points="1143,1385 1170,1382 1215,1382 1260,1382 1304,1382 1349,1382 1394,1379 1439,1379 1484,1379 1528,1379 1573,1376 1618,1376 1663,1373 1708,1373 1752,1376 1797,1376"/>
+                <TextEquiv>
+                    <Unicode>Montag, den 4. Februar 1771.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="839,1413 897,1418 925,1403 979,1418 1052,1405 1065,1418 1108,1411 1108,1342 1078,1332 1052,1327 998,1340 979,1329 959,1345 921,1329 839,1336"/>
+                <Baseline points="851,1388 895,1385 940,1388 985,1388 1030,1385 1074,1388 1113,1388"/>
+                <TextEquiv>
+                    <Unicode>10tes Stück,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_23" custom="readingOrder {index:1;}">
+            <Coords points="1322,2713 424,2713 424,1405 1322,1405"/>
+            <TextLine id="r_23_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="820,1484 835,1489 856,1484 865,1489 880,1474 899,1471 914,1484 951,1489 949,1422 921,1426 910,1418 899,1424 882,1411 871,1420 841,1411 815,1413"/>
+                <Baseline points="830,1460 874,1463 919,1463 955,1466"/>
+                <TextEquiv>
+                    <Unicode>Halle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="499,1536 1332,1519 1332,1467 1254,1448 977,1454 865,1489 815,1452 499,1469"/>
+                <Baseline points="510,1528 531,1528 576,1528 621,1531 665,1528 710,1525 755,1525 800,1525 845,1525 889,1525 934,1525 979,1525 1024,1525 1069,1519 1113,1519 1158,1522 1203,1522 1248,1519 1292,1519 1337,1513"/>
+                <TextEquiv>
+                    <Unicode>Bey J. J. Gebauer ist herausgekommen: Biogra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="456,1684 568,1665 594,1678 675,1661 714,1680 764,1680 794,1661 856,1663 856,1626 796,1631 742,1616 654,1631 596,1620 456,1631"/>
+                <Baseline points="468,1660 504,1657 549,1657 594,1657 639,1654 683,1654 728,1651 773,1651 818,1657 862,1657"/>
+                <TextEquiv>
+                    <Unicode>fahrt 1770, in 8vo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="484,1715 1334,1719 1336,1656 486,1678"/>
+                <Baseline points="495,1711 534,1713 579,1713 624,1711 668,1711 713,1711 758,1711 803,1711 848,1711 892,1711 937,1711 982,1708 1027,1711 1071,1711 1116,1711 1161,1708 1206,1708 1251,1705 1295,1708 1340,1705"/>
+                <TextEquiv>
+                    <Unicode>Allen die den Le Clerc nicht lesen können, oder sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="447,1766 2171,1738 2153,1695 447,1717"/>
+                <Baseline points="459,1755 474,1755 519,1752 564,1752 609,1752 653,1752 698,1749 743,1749 788,1749 833,1749 877,1746 922,1749 967,1746 1012,1746 1057,1743 1101,1746 1146,1743 1191,1743 1236,1740 1281,1740 1325,1740 1370,1740 1415,1740 1460,1740 1504,1740 1549,1737 1594,1737 1639,1734 1684,1734 1728,1734 1773,1734 1818,1734 1863,1731 1908,1731 1952,1731 1997,1731 2042,1731 2087,1731 2132,1731 2176,1728"/>
+                <TextEquiv>
+                    <Unicode>nicht die Mühe geben wollen, ihn ganz zu lesen, und ein Beysall, bey dem noch selten ein Künstler gleich¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="447,1848 2173,1824 2173,1781 2113,1770 447,1796"/>
+                <Baseline points="459,1839 477,1836 522,1836 567,1836 612,1833 656,1833 701,1830 746,1830 791,1830 836,1830 880,1830 925,1827 970,1827 1015,1827 1060,1824 1104,1824 1149,1824 1194,1821 1239,1821 1284,1821 1328,1821 1373,1821 1418,1818 1463,1818 1507,1818 1552,1818 1597,1818 1642,1818 1687,1815 1731,1815 1776,1815 1821,1812 1866,1812 1911,1809 1955,1809 2000,1809 2045,1809 2090,1809 2135,1809 2179,1812"/>
+                <TextEquiv>
+                    <Unicode>Kenntniß haben wollen, allen diesen hat Herr W. mit er ihre Geschichte geschrieben, und der Zeit, die es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="450,1882 2173,1859 2140,1816 1904,1811 452,1850"/>
+                <Baseline points="462,1875 477,1878 522,1875 567,1875 612,1875 656,1875 701,1875 746,1872 791,1872 836,1872 880,1869 925,1869 970,1869 1015,1866 1060,1866 1104,1866 1149,1866 1194,1866 1239,1863 1284,1863 1328,1860 1373,1860 1418,1860 1463,1860 1507,1860 1552,1860 1597,1857 1642,1857 1687,1857 1731,1854 1776,1854 1821,1854 1866,1851 1911,1851 1955,1851 2000,1851 2045,1851 2090,1851 2135,1851 2179,1854"/>
+                <TextEquiv>
+                    <Unicode>diesem Werkchen einen angenehmen Dienst geleistet. ihnen vorbehalten hat, von ihm beurtheilt zu werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="454,1928 2106,1904 2173,1900 2175,1859 454,1889"/>
+                <Baseline points="465,1917 474,1917 519,1917 564,1920 609,1917 653,1917 698,1917 743,1914 788,1914 833,1914 877,1911 922,1911 967,1911 1012,1911 1057,1911 1101,1911 1146,1908 1191,1908 1236,1908 1281,1905 1325,1905 1370,1902 1415,1905 1460,1905 1504,1902 1549,1902 1594,1899 1639,1899 1684,1899 1728,1899 1773,1896 1818,1896 1863,1896 1908,1893 1952,1893 1997,1893 2042,1893 2087,1893 2132,1893 2176,1896"/>
+                <TextEquiv>
+                    <Unicode>Die sechs ersten Capitel begreifen die Geschichte solcher Die Werke der Griechen und Römer, die die Zeit uns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="454,1964 2168,1945 2162,1897 456,1928"/>
+                <Baseline points="465,1958 471,1958 516,1961 561,1958 606,1961 650,1958 695,1955 740,1958 785,1955 830,1952 874,1952 919,1952 964,1952 1009,1952 1054,1949 1098,1949 1143,1949 1188,1949 1233,1946 1278,1946 1322,1949 1367,1946 1412,1949 1457,1946 1501,1946 1546,1943 1591,1943 1636,1943 1681,1940 1725,1940 1770,1940 1815,1937 1860,1934 1905,1934 1949,1931 1994,1931 2039,1931 2084,1934 2129,1934 2173,1931"/>
+                <TextEquiv>
+                    <Unicode>Aerzte, die in die Zeiten der Fabel gehören, als Me= entrissen, leben auf im Pausanias und Plinius, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="456,2020 2168,1979 2113,1936 458,1964"/>
+                <Baseline points="468,2003 471,2003 516,2000 561,2000 606,2000 650,2000 695,1997 740,1997 785,1997 830,1994 874,1994 919,1994 964,1991 1009,1991 1054,1991 1098,1991 1143,1991 1188,1991 1233,1988 1278,1988 1322,1988 1367,1988 1412,1988 1457,1988 1501,1985 1546,1985 1591,1985 1636,1982 1681,1982 1725,1979 1770,1979 1815,1976 1860,1973 1905,1973 1949,1973 1994,1973 2039,1973 2084,1973 2129,1973 2173,1973"/>
+                <TextEquiv>
+                    <Unicode>lampus, Chiron, Aesculap, und dessen Söhne, Hy= wenn in den Cabinettern der Kunst kein Wert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="454,2061 2149,2031 2175,1981 454,2020"/>
+                <Baseline points="465,2048 474,2045 519,2042 564,2042 609,2042 653,2042 698,2042 743,2039 788,2036 833,2036 877,2036 922,2033 967,2030 1012,2030 1057,2030 1101,2030 1146,2033 1191,2033 1236,2030 1281,2030 1325,2030 1370,2027 1415,2027 1460,2027 1504,2027 1549,2027 1594,2024 1639,2024 1684,2021 1728,2021 1773,2018 1818,2018 1863,2018 1908,2015 1952,2015 1997,2015 2042,2015 2087,2015 2132,2015 2176,2015"/>
+                <TextEquiv>
+                    <Unicode>giäa, Diana, Pallas, und andere Göttinnen, die an von diesen berühmten Künstlern der Schweiz mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="454,2097 2168,2061 2134,2022 1932,2018 456,2061"/>
+                <Baseline points="468,2084 471,2084 516,2081 561,2081 606,2081 650,2081 695,2081 740,2078 785,2078 830,2078 874,2075 919,2075 964,2075 1009,2075 1054,2072 1098,2072 1143,2069 1188,2072 1233,2069 1278,2069 1322,2069 1367,2069 1412,2069 1457,2069 1501,2069 1546,2066 1591,2066 1636,2063 1681,2063 1725,2063 1770,2060 1815,2060 1860,2060 1905,2060 1949,2060 1994,2057 2039,2057 2084,2057 2129,2057 2173,2057"/>
+                <TextEquiv>
+                    <Unicode>der Erfindung der Medicin Antheil genommen. Alles übrig seyn wird, denn wird man sie im Fueslin finden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="456,2134 2168,2104 2151,2061 458,2100"/>
+                <Baseline points="468,2126 471,2123 516,2123 561,2123 606,2123 650,2123 695,2123 740,2120 785,2123 830,2120 874,2117 919,2117 964,2117 1009,2114 1054,2114 1098,2114 1143,2111 1188,2111 1233,2111 1278,2111 1322,2108 1367,2111 1412,2108 1457,2111 1501,2108 1546,2108 1591,2105 1636,2105 1681,2105 1725,2105 1770,2105 1815,2102 1860,2102 1905,2099 1949,2099 1994,2099 2039,2096 2084,2096 2129,2099 2173,2099"/>
+                <TextEquiv>
+                    <Unicode>was hier gesagt wird, ist so beschaffen, daß man es zur und bewundern können. Dies ist ein Lob, welches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="454,2270 2138,2242 2166,2184 454,2207"/>
+                <Baseline points="465,2248 468,2248 513,2248 558,2248 603,2248 647,2248 692,2248 737,2248 782,2245 827,2245 871,2245 916,2245 961,2242 1006,2239 1051,2239 1095,2236 1140,2236 1185,2236 1230,2236 1275,2239 1319,2239 1364,2236 1409,2236 1454,2233 1499,2233 1543,2233 1588,2230 1633,2230 1678,2230 1722,2227 1767,2227 1812,2227 1857,2224 1902,2224 1946,2224 1991,2221 2036,2221 2081,2221 2126,2221 2170,2221"/>
+                <TextEquiv>
+                    <Unicode>Die folgenden Capitel betreffen das Leben der Aerzte Künstler, welches wegen der hin und her vorkommen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="454,2306 1857,2289 2164,2276 2166,2235 454,2270"/>
+                <Baseline points="465,2290 468,2290 513,2290 558,2290 603,2287 647,2287 692,2287 737,2287 782,2287 827,2284 871,2284 916,2284 961,2284 1006,2281 1051,2278 1095,2278 1140,2278 1185,2278 1230,2278 1275,2278 1319,2278 1364,2278 1409,2275 1454,2275 1499,2272 1543,2272 1588,2272 1633,2272 1678,2272 1722,2269 1767,2269 1812,2272 1857,2266 1902,2266 1946,2266 1991,2263 2036,2263 2081,2263 2126,2263 2170,2263"/>
+                <TextEquiv>
+                    <Unicode>vom Thales, bis auf den Andromachus, den Erfinder den Anekdoten angenehm genug zu lesen ist, sondern er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="454,2338 2173,2321 2173,2276 2072,2270 454,2304"/>
+                <Baseline points="465,2335 474,2335 519,2329 564,2329 609,2329 653,2329 698,2329 743,2329 788,2329 833,2329 877,2326 922,2326 967,2323 1012,2323 1057,2320 1101,2320 1146,2320 1191,2320 1236,2320 1281,2320 1325,2320 1370,2317 1415,2317 1460,2317 1504,2314 1549,2314 1594,2314 1639,2314 1684,2311 1728,2311 1773,2314 1818,2308 1863,2308 1908,2305 1952,2305 1997,2305 2042,2305 2087,2302 2132,2305 2176,2302"/>
+                <TextEquiv>
+                    <Unicode>des Theriacs, der zu den Zeiten des Nero lebte. Wi= beurtheilt ihre Werke, und giebt uns davon eine ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="454,2392 2168,2356 2168,2317 2044,2304 456,2341"/>
+                <Baseline points="465,2373 471,2373 516,2370 561,2370 606,2370 650,2370 695,2370 740,2370 785,2370 830,2367 874,2367 919,2367 964,2367 1009,2364 1054,2361 1098,2361 1143,2361 1188,2358 1233,2358 1278,2361 1322,2361 1367,2358 1412,2358 1457,2358 1501,2356 1546,2356 1591,2356 1636,2353 1681,2353 1725,2353 1770,2353 1815,2350 1860,2350 1905,2350 1949,2347 1994,2347 2039,2344 2084,2344 2129,2344 2173,2344"/>
+                <TextEquiv>
+                    <Unicode>der den ersten Anfall der Neugierde, mag die Mühe naue Nachricht, und dieses mit Geschmack und Ein¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="456,2461 2149,2448 2171,2401 456,2424"/>
+                <Baseline points="468,2460 507,2454 552,2454 597,2454 642,2454 686,2451 731,2454 776,2454 821,2448 865,2448 910,2448 955,2448 1000,2448 1045,2445 1089,2442 1134,2442 1179,2442 1224,2442 1269,2442 1313,2445 1322,2442 1367,2442 1412,2439 1457,2439 1501,2436 1546,2439 1591,2439 1636,2436 1681,2436 1725,2433 1770,2433 1815,2430 1860,2430 1905,2427 1949,2427 1994,2427 2039,2427 2084,2427 2129,2427 2173,2427"/>
+                <TextEquiv>
+                    <Unicode>Alten selbst kennet, wird immer die Geschichte der beyden Freys, Martin, Hunkeler, Staffelbach, Beutt¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="454,2515 2134,2452 454,2461"/>
+                <Baseline points="465,2502 480,2499 525,2496 570,2493 615,2493 659,2496 704,2493 749,2493 794,2493 839,2490 883,2490 928,2490 973,2490 1018,2487 1063,2487 1107,2484 1152,2484 1197,2484 1242,2484 1286,2487 1331,2487 1376,2484 1421,2481 1466,2478 1510,2478 1555,2481 1600,2478 1645,2478 1690,2475 1734,2475 1779,2472 1824,2472 1869,2472 1914,2472 1958,2469 2003,2469 2048,2469 2093,2469 2138,2466"/>
+                <TextEquiv>
+                    <Unicode>großen Männer, die sich um die Heilungskunst ver= ler, und viele andere kommen in diesem Theile vor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="458,2551 2102,2526 2166,2521 2168,2480 458,2513"/>
+                <Baseline points="471,2541 513,2538 558,2538 603,2535 647,2535 692,2535 737,2535 782,2535 827,2532 871,2532 916,2532 961,2532 1006,2529 1051,2529 1095,2526 1140,2526 1185,2526 1230,2526 1275,2526 1319,2526 1364,2523 1409,2523 1454,2520 1499,2520 1543,2520 1588,2520 1633,2520 1678,2517 1722,2517 1767,2514 1812,2514 1857,2514 1902,2514 1946,2511 1991,2511 2036,2511 2081,2511 2126,2511 2170,2511"/>
+                <TextEquiv>
+                    <Unicode>dient gemacht haben, besser kennen als man sie aus Die Vorrede, ist nicht wie die gewöhnlichen Vorreden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="456,2592 2147,2569 2166,2519 456,2549"/>
+                <Baseline points="468,2585 513,2582 558,2582 603,2579 647,2579 692,2579 737,2576 782,2576 827,2576 871,2576 916,2573 961,2573 1006,2570 1051,2570 1095,2568 1140,2568 1185,2568 1230,2568 1275,2568 1319,2568 1340,2568 1364,2565 1409,2562 1454,2562 1499,2562 1543,2562 1588,2559 1633,2559 1678,2559 1722,2559 1767,2556 1812,2556 1857,2556 1902,2553 1946,2553 1991,2553 2036,2550 2081,2550 2126,2550 2170,2550"/>
+                <TextEquiv>
+                    <Unicode>dieser ziemlich unbeträgtlichen Compilation erlernen sie ist vielmehr eine geschickte Abhandlung über die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="454,2644 1022,2663 1187,2616 2168,2605 2171,2562 454,2586"/>
+                <Baseline points="465,2627 507,2624 552,2624 597,2621 642,2621 686,2621 731,2621 776,2621 821,2621 865,2618 910,2618 955,2618 1000,2618 1045,2615 1089,2615 1134,2615 1179,2612 1224,2612 1269,2612 1313,2612 1331,2606 1367,2606 1412,2606 1457,2603 1501,2603 1546,2603 1591,2603 1636,2600 1681,2600 1725,2600 1770,2597 1815,2597 1860,2594 1905,2594 1949,2591 1994,2591 2039,2594 2084,2591 2129,2591 2173,2594"/>
+                <TextEquiv>
+                    <Unicode>kann. Kostet in der Kanterschen Buchhandlung Wege durch welche hin und wieder große Männer zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="456,2674 475,2674 495,2687 508,2685 518,2676 525,2683 561,2680 561,2627 546,2629 521,2646 510,2640 486,2644 480,2637 469,2644 456,2644"/>
+                <Baseline points="468,2672 477,2669 522,2672 567,2666"/>
+                <TextEquiv>
+                    <Unicode>24 gr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_22" custom="readingOrder {index:2;}">
+            <Coords points="2199,1405 2199,2713 1322,2713 1322,1405"/>
+            <TextLine id="r_22_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1672,1478 1723,1474 1764,1484 1786,1476 1798,1463 1809,1469 1820,1459 1831,1459 1831,1403 1783,1403 1770,1394 1738,1403 1725,1392 1672,1392"/>
+                <Baseline points="1684,1454 1728,1448 1773,1451 1818,1451 1833,1454"/>
+                <TextEquiv>
+                    <Unicode>Zürich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1362,1523 2173,1510 2173,1448 2113,1439 1876,1435 1710,1480 1613,1437 1514,1439 1362,1476"/>
+                <Baseline points="1373,1516 1418,1516 1463,1516 1507,1516 1552,1516 1597,1513 1642,1513 1687,1513 1731,1510 1776,1507 1821,1507 1866,1507 1911,1507 1955,1504 2000,1504 2045,1504 2090,1504 2135,1504 2179,1501"/>
+                <TextEquiv>
+                    <Unicode>Bey Orell, Geßner, Fuesli und Comp. ist heraus=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="458,1585 2125,1562 2173,1510 564,1551 460,1512"/>
+                <Baseline points="471,1573 477,1573 522,1570 567,1570 612,1570 656,1570 701,1567 746,1567 791,1567 836,1567 880,1567 925,1567 970,1564 1015,1564 1060,1564 1104,1561 1149,1561 1194,1561 1239,1561 1284,1561 1328,1561 1373,1558 1418,1558 1463,1558 1507,1561 1552,1558 1597,1555 1642,1555 1687,1555 1731,1552 1776,1549 1821,1549 1866,1546 1911,1546 1955,1546 2000,1546 2045,1543 2090,1543 2135,1543 2179,1540"/>
+                <TextEquiv>
+                    <Unicode>phien griechischer Aerzte zusammengetragen aus der gekommen: Joh. Caspar Fueslins Geschichte der besten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="463,1622 2177,1618 2151,1549 463,1583"/>
+                <Baseline points="474,1612 480,1612 525,1612 570,1612 615,1609 659,1609 704,1609 749,1609 794,1609 839,1609 883,1609 928,1609 973,1609 1018,1609 1063,1609 1107,1609 1152,1609 1197,1606 1242,1606 1286,1603 1331,1603 1376,1603 1421,1600 1466,1600 1510,1600 1555,1597 1600,1597 1645,1597 1690,1597 1734,1594 1779,1594 1824,1594 1869,1591 1914,1588 1958,1588 2003,1588 2048,1588 2093,1588 2138,1588 2182,1585"/>
+                <TextEquiv>
+                    <Unicode>Geschichte der Medicin des Le Clerc, von J. A. Wohl= Künstler in der Schweiz, nebst ihren Bildnissen, drit¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1323,1659 1347,1672 1400,1659 1463,1667 1527,1648 1577,1667 1628,1644 1644,1656 1732,1646 1732,1609 1684,1601 1323,1611"/>
+                <Baseline points="1334,1645 1379,1642 1424,1645 1469,1645 1513,1645 1558,1642 1603,1639 1648,1639 1693,1639 1737,1636"/>
+                <TextEquiv>
+                    <Unicode>ter Band, 1770, in 8vo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1355,1717 2173,1697 2173,1656 2097,1644 1357,1667"/>
+                <Baseline points="1367,1705 1370,1705 1415,1702 1460,1702 1504,1702 1549,1699 1594,1699 1639,1699 1684,1696 1728,1696 1773,1693 1818,1693 1863,1693 1908,1690 1952,1690 1997,1687 2042,1687 2087,1690 2132,1690 2176,1693"/>
+                <TextEquiv>
+                    <Unicode>Wenn Fueslin die Werke der Künstler bewundert,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="454,1803 2173,1781 2173,1736 2054,1734 454,1768"/>
+                <Baseline points="465,1797 477,1794 522,1794 567,1794 612,1791 656,1791 701,1794 746,1791 791,1791 836,1791 880,1788 925,1788 970,1788 1015,1785 1060,1782 1104,1782 1149,1782 1194,1782 1239,1779 1284,1779 1328,1782 1373,1779 1418,1779 1463,1779 1507,1776 1552,1776 1597,1779 1642,1779 1687,1773 1731,1776 1776,1773 1821,1770 1866,1770 1911,1770 1955,1770 2000,1770 2045,1770 2090,1770 2135,1770 2179,1770"/>
+                <TextEquiv>
+                    <Unicode>dennoch von dem Leben der griechischen Aerzte eine gültig geblieben ist, so müssen sie es ihm danken, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="456,2175 2171,2149 2151,2106 2011,2102 458,2134"/>
+                <Baseline points="468,2167 474,2167 519,2164 564,2164 609,2164 653,2164 698,2164 743,2161 788,2161 833,2161 877,2161 922,2158 967,2155 1012,2155 1057,2155 1101,2152 1146,2152 1191,2152 1236,2152 1281,2152 1325,2152 1370,2149 1415,2152 1460,2152 1504,2152 1549,2149 1594,2149 1639,2149 1684,2146 1728,2143 1773,2143 1818,2146 1863,2143 1908,2141 1952,2141 1997,2138 2042,2138 2087,2138 2132,2141 2176,2141"/>
+                <TextEquiv>
+                    <Unicode>Noth aus Hederichs Mythologischen Lexico und andern wir diesem vortreflichen Werke zu geben uns verbunden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="456,2209 2130,2192 2173,2145 456,2175"/>
+                <Baseline points="468,2206 474,2206 519,2206 564,2206 609,2203 653,2203 698,2203 743,2203 788,2203 833,2203 877,2203 922,2200 967,2200 1012,2197 1057,2197 1101,2194 1146,2194 1191,2194 1236,2194 1281,2194 1325,2194 1370,2194 1415,2194 1460,2194 1504,2191 1549,2191 1594,2191 1639,2191 1684,2188 1728,2188 1773,2185 1818,2185 1863,2182 1908,2182 1952,2182 1997,2179 2042,2179 2087,2179 2132,2179 2176,2185"/>
+                <TextEquiv>
+                    <Unicode>vergleichen Büchern weit vollständiger liefern könnte, achten. Der Verf, beschreibt nicht bloß das Leben der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="463,2424 2171,2390 2153,2353 2026,2347 463,2386"/>
+                <Baseline points="474,2418 507,2412 552,2409 597,2412 642,2412 686,2412 731,2412 776,2409 821,2409 865,2406 910,2409 955,2409 1000,2406 1045,2403 1089,2400 1134,2400 1179,2400 1224,2400 1269,2403 1313,2403 1331,2403 1370,2400 1415,2397 1460,2400 1504,2394 1549,2394 1594,2397 1639,2397 1684,2397 1728,2394 1773,2391 1818,2391 1863,2391 1908,2388 1952,2388 1997,2388 2042,2385 2087,2385 2132,2385 2176,2385"/>
+                <TextEquiv>
+                    <Unicode>des Herrn W. einigen Nutzen haben; wer aber die sichten. — Schärer, Grimoux, Anna Waser, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1323,2661 1880,2674 2173,2640 2175,2603 1323,2616"/>
+                <Baseline points="1334,2654 1373,2654 1418,2651 1463,2648 1507,2645 1552,2648 1597,2648 1642,2648 1687,2648 1731,2645 1776,2645 1821,2642 1866,2642 1911,2642 1955,2636 2000,2636 2045,2636 2090,2633 2135,2630 2179,2630"/>
+                <TextEquiv>
+                    <Unicode>derjenigen Stuffe der Kunst gestiegen sind, welche sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_22_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="2044,2698 2063,2702 2076,2696 2091,2704 2117,2698 2140,2715 2171,2717 2177,2640 2164,2637 2136,2644 2128,2637 2121,2644 2110,2637 2100,2648 2089,2642 2059,2657 2048,2655"/>
+                <Baseline points="2057,2684 2090,2678 2135,2678 2179,2672"/>
+                <TextEquiv>
+                    <Unicode>erreicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
