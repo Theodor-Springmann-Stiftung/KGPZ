@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=19_07_2024_23:41</Creator>
+        <Created>2024-07-19T23:32:48.711+02:00</Created>
+        <LastChange>2024-07-19T23:41:39.032+02:00</LastChange>
+        <TranskribusMetadata docId="3352790" pageId="75268675" pageNr="1" tsid="178560138" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=IIZJPJHLRBMFQQGBZEFYRCVW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UNGKPOZRMJNXKNNUZDCYKDOP" imageId="61027772"/>
+    </Metadata>
+    <Page imageFilename="75268675.jpg" imageWidth="2679" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721425299033" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_26"/>
+                <RegionRefIndexed index="1" regionRef="r_39"/>
+                <RegionRefIndexed index="2" regionRef="r_38"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_26" custom="readingOrder {index:0;}">
+            <Coords points="449,1366 2233,1366 2233,1437 449,1437"/>
+            <TextLine id="r_26_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="835,1425 1774,1433 1805,1425 1807,1360 835,1384"/>
+                <Baseline points="848,1412 892,1412 937,1412 982,1412 1027,1412 1071,1412 1116,1415 1161,1412 1206,1412 1251,1412 1295,1415 1313,1415 1328,1412 1361,1409 1406,1409 1451,1409 1496,1409 1540,1409 1585,1406 1630,1403 1675,1403 1719,1403 1764,1406 1809,1409"/>
+                <TextEquiv>
+                    <Unicode>12tes Stück. Montag, den 11. Februar 1771.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_39" custom="readingOrder {index:1;}">
+            <Coords points="1333,2758 449,2758 449,1437 1333,1437"/>
+            <TextLine id="r_39_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="810,1507 835,1515 870,1509 881,1498 905,1515 933,1500 956,1518 967,1518 969,1429 894,1425 872,1436 848,1427 835,1440 810,1442"/>
+                <Baseline points="821,1493 865,1493 910,1490 955,1490 973,1493"/>
+                <TextEquiv>
+                    <Unicode>Lübeck.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="499,1563 1306,1563 1306,1518 1105,1485 1006,1520 499,1515"/>
+                <Baseline points="510,1558 549,1558 594,1555 639,1555 683,1555 728,1555 773,1552 818,1552 862,1552 907,1552 952,1552 997,1549 1042,1549 1086,1549 1131,1549 1176,1549 1221,1549 1266,1549 1310,1552"/>
+                <TextEquiv>
+                    <Unicode>Entwurf einer Theodicee der göttlichen Offenbarung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="453,1610 1202,1593 1261,1634 1304,1610 1304,1563 1259,1554 453,1565"/>
+                <Baseline points="465,1603 504,1603 549,1600 594,1600 639,1600 683,1597 728,1597 773,1597 818,1597 862,1594 907,1594 952,1594 997,1594 1042,1591 1086,1591 1131,1591 1176,1591 1221,1591 1266,1591 1310,1591"/>
+                <TextEquiv>
+                    <Unicode>oder Darlegung der hohen Weisheit und Liebe Gotte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="453,1654 615,1671 887,1641 1012,1671 1177,1641 1177,1600 1101,1593 455,1613"/>
+                <Baseline points="468,1645 510,1645 555,1645 600,1642 644,1642 689,1639 734,1639 779,1639 824,1639 868,1639 913,1639 958,1639 1003,1639 1048,1636 1092,1636 1137,1636 1182,1636"/>
+                <TextEquiv>
+                    <Unicode>in Kundmachung seines Worts und Willens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="501,1714 1274,1708 1308,1703 1310,1643 889,1677 697,1647 501,1664"/>
+                <Baseline points="513,1705 552,1702 597,1702 642,1702 686,1702 731,1702 776,1702 821,1702 865,1702 910,1699 955,1699 1000,1699 1045,1699 1089,1699 1134,1699 1179,1699 1224,1696 1269,1699 1313,1699"/>
+                <TextEquiv>
+                    <Unicode>Man vergesse es nicht, daß hier bloß der Entwur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="453,1757 1310,1749 1310,1703 453,1708"/>
+                <Baseline points="465,1746 510,1746 555,1743 600,1743 644,1743 689,1743 734,1743 779,1743 824,1743 868,1740 913,1740 958,1740 1003,1740 1048,1740 1092,1737 1137,1737 1182,1737 1227,1737 1272,1737 1316,1737"/>
+                <TextEquiv>
+                    <Unicode>eines Buchs, und nicht das Buch selbst geliefert wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="462,1794 1313,1790 1313,1753 1243,1742 462,1753"/>
+                <Baseline points="474,1788 510,1788 555,1785 600,1788 644,1782 689,1782 734,1782 779,1785 824,1785 868,1782 913,1782 958,1779 1003,1779 1048,1779 1092,1776 1137,1776 1182,1776 1227,1776 1272,1776 1316,1773"/>
+                <TextEquiv>
+                    <Unicode>Des V. Zweck ist, zu zeigen, wie besonders das Evan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="468,1837 1237,1833 1310,1822 1313,1787 468,1796"/>
+                <Baseline points="480,1833 510,1830 555,1827 600,1827 644,1824 689,1824 734,1824 779,1821 824,1824 868,1821 913,1821 958,1821 1003,1818 1048,1818 1092,1818 1137,1818 1182,1818 1227,1818 1272,1818 1316,1815"/>
+                <TextEquiv>
+                    <Unicode>gelium, und dessen Entdeckung nach den Regeln der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="468,2044 1315,2038 1315,1999 1233,1993 468,2008"/>
+                <Baseline points="480,2036 513,2036 558,2039 603,2039 647,2039 692,2033 737,2033 782,2033 827,2033 871,2030 916,2030 961,2030 1006,2030 1051,2030 1095,2027 1140,2027 1185,2027 1230,2027 1275,2027 1319,2024"/>
+                <TextEquiv>
+                    <Unicode>lich nichts zur Allgemeinmachung der Religion versaumt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="468,2085 1315,2081 1317,2038 1291,2036 471,2042"/>
+                <Baseline points="480,2081 513,2078 558,2081 603,2075 647,2072 692,2072 737,2072 782,2072 827,2072 871,2072 916,2072 961,2072 1006,2072 1051,2069 1095,2069 1140,2069 1185,2069 1230,2069 1275,2069 1319,2069"/>
+                <TextEquiv>
+                    <Unicode>habe. — Ehe nun der V. dies Werk herausgiebt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="464,2129 1310,2124 1310,2079 1226,2075 464,2085"/>
+                <Baseline points="477,2120 510,2120 555,2120 600,2117 644,2117 689,2117 734,2117 779,2117 824,2114 868,2114 913,2114 958,2114 1003,2111 1048,2111 1092,2111 1137,2111 1182,2108 1227,2111 1272,2108 1316,2111"/>
+                <TextEquiv>
+                    <Unicode>will er erst die Urtheile der Leser über seinen Entwur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="462,2172 2182,2152 2182,2107 1932,2100 464,2129"/>
+                <Baseline points="474,2158 477,2158 522,2161 567,2161 612,2158 656,2158 701,2158 746,2158 791,2155 836,2158 880,2155 925,2155 970,2155 1015,2152 1060,2152 1104,2152 1149,2152 1194,2152 1239,2152 1284,2152 1328,2152 1343,2152 1382,2149 1427,2149 1472,2149 1516,2149 1561,2146 1606,2146 1651,2143 1696,2143 1740,2141 1785,2141 1830,2141 1875,2138 1920,2138 1964,2138 2009,2138 2054,2138 2099,2138 2143,2138 2188,2141"/>
+                <TextEquiv>
+                    <Unicode>wissen, und hat also bloß den sämtlichen Inhalt aller vom Buch Hiob Nachricht gehabt habe, da sie bloß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="464,2260 1045,2245 1045,2202 464,2208"/>
+                <Baseline points="477,2248 513,2242 558,2242 603,2242 647,2242 692,2242 737,2239 782,2239 827,2242 871,2242 916,2239 961,2239 1006,2239 1051,2236"/>
+                <TextEquiv>
+                    <Unicode>führung auf das Buch selbst gespart.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_38" custom="readingOrder {index:2;}">
+            <Coords points="2233,1437 2233,2758 1333,2758 1333,1437"/>
+            <TextLine id="r_38_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1332,1502 2185,1485 2159,1429 1332,1440"/>
+                <Baseline points="1343,1484 1385,1484 1430,1484 1475,1484 1519,1481 1564,1481 1609,1478 1654,1478 1699,1478 1743,1478 1788,1478 1833,1478 1878,1475 1923,1475 1967,1475 2012,1472 2057,1472 2102,1475 2146,1475 2191,1472"/>
+                <TextEquiv>
+                    <Unicode>daß vom 7—17ten Abschnitt, falls er alles gehörig be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1332,1535 2182,1528 2159,1477 1332,1483"/>
+                <Baseline points="1343,1525 1382,1525 1427,1525 1472,1525 1516,1525 1561,1522 1606,1522 1651,1519 1696,1519 1740,1519 1785,1519 1830,1516 1875,1516 1920,1516 1964,1516 2009,1513 2054,1513 2099,1513 2143,1516 2188,1519"/>
+                <TextEquiv>
+                    <Unicode>weisen wird, was die Paragraphen ankündigen, sehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1341,1585 2189,1565 2189,1531 2144,1520 1343,1533"/>
+                <Baseline points="1352,1567 1388,1567 1433,1567 1478,1567 1522,1567 1567,1564 1612,1564 1657,1561 1702,1558 1746,1561 1791,1558 1836,1561 1881,1558 1926,1558 1970,1555 2015,1555 2060,1555 2105,1555 2149,1555 2194,1558"/>
+                <TextEquiv>
+                    <Unicode>viel Licht über die Wahrscheinlichkeit, daß während der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1332,1626 2182,1613 2185,1563 1334,1582"/>
+                <Baseline points="1343,1615 1385,1609 1430,1609 1475,1609 1519,1609 1564,1609 1609,1606 1654,1603 1699,1603 1743,1600 1788,1600 1833,1600 1878,1600 1923,1597 1967,1597 2012,1597 2057,1597 2102,1597 2146,1597 2191,1597"/>
+                <TextEquiv>
+                    <Unicode>ganzen Geschichte der jüdischen Kirche benachbarte Hei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1332,1669 2189,1654 2189,1613 2150,1604 1332,1626"/>
+                <Baseline points="1343,1651 1388,1651 1433,1651 1478,1651 1522,1651 1567,1648 1612,1648 1657,1648 1702,1645 1746,1645 1791,1642 1836,1642 1881,1639 1926,1639 1970,1639 2015,1639 2060,1639 2105,1639 2149,1642 2194,1639"/>
+                <TextEquiv>
+                    <Unicode>den von einer evangelischen Offenbarung vieles haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1334,1699 2189,1690 2189,1654 2124,1645 1334,1667"/>
+                <Baseline points="1346,1696 1388,1693 1433,1693 1478,1693 1522,1693 1567,1693 1612,1690 1657,1687 1702,1687 1746,1684 1791,1684 1836,1684 1881,1681 1926,1681 1970,1684 2015,1681 2060,1681 2105,1681 2149,1681 2194,1681"/>
+                <TextEquiv>
+                    <Unicode>erfahren koͤnnen, verbreitet werden wird. Denn der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1332,1740 2185,1729 2185,1688 2029,1675 1969,1699 1334,1699"/>
+                <Baseline points="1343,1734 1385,1734 1430,1734 1475,1734 1519,1734 1564,1734 1609,1731 1654,1731 1699,1731 1743,1728 1788,1725 1833,1725 1878,1722 1923,1722 1967,1725 2012,1722 2057,1722 2102,1722 2146,1722 2191,1722"/>
+                <TextEquiv>
+                    <Unicode>V. will sich bemühen zu zeigen, wie alle zufällige Ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1332,1783 2182,1777 2182,1729 2146,1727 1332,1740"/>
+                <Baseline points="1343,1773 1379,1773 1424,1773 1469,1773 1513,1773 1558,1773 1603,1773 1648,1770 1693,1770 1737,1767 1782,1767 1827,1764 1872,1764 1917,1761 1961,1761 2006,1761 2051,1761 2096,1761 2141,1764 2185,1764"/>
+                <TextEquiv>
+                    <Unicode>bindungen der Juden mit heidnischen Völkern, ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1341,1822 2191,1816 2191,1777 2131,1766 1341,1781"/>
+                <Baseline points="1352,1815 1388,1815 1433,1812 1478,1812 1522,1812 1567,1812 1612,1812 1657,1812 1702,1809 1746,1806 1791,1806 1836,1803 1881,1803 1926,1803 1970,1803 2015,1800 2060,1800 2105,1803 2149,1803 2194,1803"/>
+                <TextEquiv>
+                    <Unicode>Migrationen in Egypten, ihr Handel, ihre Gefäng¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="460,1885 2092,1859 2189,1854 2191,1816 460,1841"/>
+                <Baseline points="471,1872 516,1872 561,1872 606,1869 650,1866 695,1866 740,1866 785,1866 830,1866 874,1863 919,1863 964,1863 1009,1860 1054,1860 1098,1860 1143,1860 1188,1857 1233,1857 1278,1857 1322,1857 1343,1857 1388,1857 1433,1854 1478,1854 1522,1854 1567,1854 1612,1851 1657,1851 1702,1848 1746,1848 1791,1848 1836,1848 1881,1845 1926,1845 1970,1842 2015,1842 2060,1842 2105,1845 2149,1845 2194,1848"/>
+                <TextEquiv>
+                    <Unicode>Weisheit und Liebe Gottes eingerichtet ist, und wie es nisse unter den Heiden das zur Folge hatten, daß die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="460,1915 2021,1906 2189,1893 2191,1852 460,1882"/>
+                <Baseline points="471,1914 474,1914 519,1914 564,1914 609,1911 653,1911 698,1908 743,1908 788,1908 833,1908 877,1908 922,1908 967,1908 1012,1905 1057,1902 1101,1902 1146,1902 1191,1902 1236,1899 1281,1899 1325,1899 1343,1899 1346,1899 1391,1899 1436,1899 1481,1899 1525,1899 1570,1896 1615,1896 1660,1893 1705,1890 1749,1890 1794,1890 1839,1887 1884,1887 1928,1887 1973,1887 2018,1884 2063,1884 2108,1887 2152,1887 2197,1890"/>
+                <TextEquiv>
+                    <Unicode>uns noch besonders dünkt, hat er vornehmlich dahin Offenbarung auch diesen Heiden dadurch näher bekannt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="468,1967 2185,1943 2178,1893 1967,1889 1479,1930 471,1921"/>
+                <Baseline points="480,1958 519,1955 564,1955 609,1955 653,1952 698,1949 743,1949 788,1949 833,1949 877,1949 922,1949 967,1949 1012,1946 1057,1946 1101,1946 1146,1943 1191,1943 1236,1943 1281,1943 1325,1940 1337,1940 1340,1940 1385,1940 1430,1943 1475,1943 1519,1943 1564,1940 1609,1937 1654,1934 1699,1934 1743,1931 1788,1931 1833,1931 1878,1931 1923,1928 1967,1931 2012,1928 2057,1928 2102,1928 2146,1928 2191,1931"/>
+                <TextEquiv>
+                    <Unicode>gezielt, zu überzeugen, daß Gott in der Art seiner Of= wurde. Zweierley bitten wir ihn, bey der Ausfüh¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="460,2005 2189,1982 2189,1936 1852,1932 462,1971"/>
+                <Baseline points="474,1997 519,1997 564,1994 609,1997 653,1994 698,1991 743,1991 788,1991 833,1991 877,1991 922,1991 967,1991 1012,1988 1057,1988 1101,1985 1146,1985 1191,1985 1236,1985 1281,1985 1325,1985 1346,1985 1388,1982 1433,1985 1478,1982 1522,1982 1567,1982 1612,1979 1657,1979 1702,1976 1746,1973 1791,1976 1836,1973 1881,1970 1926,1973 1970,1970 2015,1970 2060,1970 2105,1970 2149,1970 2194,1973"/>
+                <TextEquiv>
+                    <Unicode>fenbarung alle Völker mit eingeschlossen, und vorsatz= rung des Werks vor Augen zu haben. Erstlich, uns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1334,2040 2185,2025 2187,1986 1334,1997"/>
+                <Baseline points="1346,2027 1382,2027 1427,2024 1472,2024 1516,2024 1561,2024 1606,2021 1651,2021 1696,2018 1740,2018 1785,2015 1830,2015 1875,2015 1920,2012 1964,2012 2009,2012 2054,2012 2099,2012 2143,2012 2188,2015"/>
+                <TextEquiv>
+                    <Unicode>nicht mit bloßen, unerweißlichen Vermuthungen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1334,2079 2172,2066 2191,2025 1336,2034"/>
+                <Baseline points="1346,2069 1391,2066 1436,2066 1481,2066 1525,2069 1570,2066 1615,2063 1660,2063 1705,2060 1749,2057 1794,2057 1839,2057 1884,2054 1928,2057 1973,2054 2018,2057 2063,2054 2108,2054 2152,2054 2197,2054"/>
+                <TextEquiv>
+                    <Unicode>wie die Offenbarung den Heiden bekannt geworden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1336,2124 2161,2111 2191,2066 1338,2075"/>
+                <Baseline points="1349,2114 1388,2111 1433,2111 1478,2111 1522,2108 1567,2108 1612,2105 1657,2105 1702,2099 1746,2099 1791,2099 1836,2099 1881,2096 1926,2096 1970,2096 2015,2096 2060,2096 2105,2096 2149,2096 2194,2099"/>
+                <TextEquiv>
+                    <Unicode>sey, zu qualen, wie z. E diese ist, daß etwa Bileam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="462,2208 2053,2202 2189,2189 2191,2150 462,2165"/>
+                <Baseline points="474,2203 492,2200 537,2200 582,2200 627,2200 671,2200 716,2200 761,2200 806,2200 851,2200 895,2197 940,2197 985,2197 1030,2197 1074,2194 1119,2194 1164,2194 1209,2194 1254,2194 1298,2194 1343,2191 1388,2194 1433,2191 1478,2191 1522,2188 1567,2188 1612,2188 1657,2185 1702,2185 1746,2182 1791,2182 1836,2179 1881,2179 1926,2179 1970,2179 2015,2179 2060,2179 2105,2179 2149,2179 2194,2179"/>
+                <TextEquiv>
+                    <Unicode>Abschnitte und Paragraphen hingesetzt; und ihre Aus= auf der Voraussetzung des hohen Alterthums Hiobs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1228,2249 2185,2239 2165,2185 1230,2204"/>
+                <Baseline points="1242,2236 1286,2233 1331,2236 1352,2236 1385,2233 1430,2233 1475,2230 1519,2230 1564,2230 1609,2230 1654,2227 1699,2227 1743,2224 1788,2224 1833,2224 1878,2221 1923,2221 1967,2221 2012,2221 2057,2221 2102,2221 2146,2221 2191,2221"/>
+                <TextEquiv>
+                    <Unicode>Nun und seines Gedichts beruht, so wie wir auch anräthig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="468,2290 2150,2284 2189,2234 1256,2252 1133,2206 1021,2256 468,2256"/>
+                <Baseline points="480,2287 519,2284 564,2284 609,2284 653,2284 698,2284 743,2284 788,2281 833,2284 877,2284 922,2284 967,2281 1012,2281 1057,2278 1101,2278 1146,2275 1191,2278 1236,2278 1281,2278 1325,2278 1349,2278 1388,2278 1433,2275 1478,2275 1522,2275 1567,2275 1612,2272 1657,2272 1702,2269 1746,2266 1791,2266 1836,2266 1881,2266 1926,2263 1970,2263 2015,2263 2060,2263 2105,2263 2149,2263 2194,2266"/>
+                <TextEquiv>
+                    <Unicode>müssen wir zwar überhaupt sagen, daß es wohl in die sind, nicht gar zu viel Gebrauch in dieser Sache aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="471,2338 2185,2316 2182,2275 2005,2262 471,2293"/>
+                <Baseline points="483,2329 489,2329 534,2326 579,2323 624,2326 668,2326 713,2326 758,2326 803,2323 848,2326 892,2326 937,2323 982,2323 1027,2320 1071,2317 1116,2317 1161,2317 1206,2317 1251,2320 1295,2317 1340,2317 1385,2317 1430,2317 1475,2314 1519,2314 1564,2314 1609,2314 1654,2314 1699,2311 1743,2308 1788,2308 1833,2308 1878,2305 1923,2305 1967,2305 2012,2308 2057,2305 2102,2305 2146,2308 2191,2308"/>
+                <TextEquiv>
+                    <Unicode>ser Welt nicht möglich seyn wird, eine vollkommne den Büchern der Maccabäer und dem Josephus zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="464,2375 2189,2360 2146,2308 464,2338"/>
+                <Baseline points="477,2367 492,2367 537,2367 582,2364 627,2364 671,2367 716,2367 761,2367 806,2367 851,2364 895,2367 940,2364 985,2364 1030,2361 1074,2361 1119,2361 1164,2358 1209,2358 1254,2361 1298,2361 1343,2358 1388,2358 1433,2356 1478,2356 1522,2356 1567,2356 1612,2356 1657,2353 1702,2353 1746,2350 1791,2350 1836,2350 1881,2347 1926,2347 1970,2347 2015,2347 2060,2347 2105,2347 2149,2347 2194,2347"/>
+                <TextEquiv>
+                    <Unicode>Theodicee und Vertheidigung Gottes zu machen, in= machen, wie es der V. vom 18ten Abschnitt an im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="466,2420 2185,2401 2185,2364 2042,2353 468,2377"/>
+                <Baseline points="480,2412 489,2409 534,2409 579,2409 624,2409 668,2409 713,2409 758,2409 803,2409 848,2409 892,2409 937,2409 982,2406 1027,2403 1071,2400 1116,2400 1161,2400 1206,2400 1251,2400 1295,2400 1340,2400 1385,2400 1430,2397 1475,2400 1519,2397 1564,2397 1609,2397 1654,2397 1699,2397 1743,2397 1788,2394 1833,2391 1878,2388 1923,2388 1967,2388 2012,2388 2057,2388 2102,2388 2146,2388 2191,2388"/>
+                <TextEquiv>
+                    <Unicode>dem bis jetzt, und ohngeachtet alles dessen, was von Sinne zu haben scheint. Zweitens bitten wir, darauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="468,2459 2185,2446 2185,2403 2131,2394 468,2420"/>
+                <Baseline points="480,2457 489,2454 534,2451 579,2451 624,2451 668,2451 713,2451 758,2451 803,2448 848,2448 892,2448 937,2448 982,2448 1027,2445 1071,2445 1116,2442 1161,2442 1206,2442 1251,2442 1295,2442 1340,2442 1385,2439 1430,2439 1475,2439 1519,2439 1564,2439 1609,2439 1654,2439 1699,2439 1743,2439 1788,2433 1833,2433 1878,2430 1923,2430 1967,2430 2012,2430 2057,2427 2102,2427 2146,2427 2191,2430"/>
+                <TextEquiv>
+                    <Unicode>der Allgemeinmachung der Offenbarung gesagt werden ein besonderes Augenmerk zu nehmen, wie denn Gott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="468,2502 2189,2485 2189,2442 2090,2435 468,2459"/>
+                <Baseline points="480,2496 492,2493 537,2493 582,2493 627,2493 671,2493 716,2493 761,2493 806,2493 851,2493 895,2493 940,2493 985,2490 1030,2487 1074,2487 1119,2484 1164,2484 1209,2484 1254,2484 1298,2487 1343,2487 1388,2484 1433,2484 1478,2481 1522,2481 1567,2481 1612,2481 1657,2481 1702,2481 1746,2478 1791,2475 1836,2475 1881,2472 1926,2472 1970,2472 2015,2472 2060,2472 2105,2472 2149,2472 2194,2472"/>
+                <TextEquiv>
+                    <Unicode>wird, noch immer die Einwürfe des Hrn. Töllners, wie doch darüber vertheidigt werden könne, wenn man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="475,2554 2107,2534 2189,2526 2191,2483 477,2502"/>
+                <Baseline points="486,2538 492,2535 537,2535 582,2535 627,2535 671,2535 716,2535 761,2535 806,2535 851,2535 895,2532 940,2535 985,2532 1030,2529 1074,2529 1119,2526 1164,2526 1209,2526 1254,2526 1298,2526 1343,2526 1388,2526 1433,2523 1478,2523 1522,2523 1567,2523 1612,2523 1657,2523 1702,2520 1746,2520 1791,2517 1836,2517 1881,2514 1926,2514 1970,2514 2015,2514 2060,2514 2105,2514 2149,2514 2194,2514"/>
+                <TextEquiv>
+                    <Unicode>sie, auch nur menschlicher Weise, noch allgemeiner hätte sieht, daß die heutige Christen bey der Annehmung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="462,2597 2189,2565 2189,2526 2070,2519 462,2562"/>
+                <Baseline points="474,2582 492,2579 537,2576 582,2576 627,2576 671,2576 716,2576 761,2576 806,2576 851,2576 895,2573 940,2573 985,2573 1030,2570 1074,2570 1119,2568 1164,2568 1209,2568 1254,2570 1298,2568 1343,2568 1388,2568 1433,2568 1478,2565 1522,2565 1567,2565 1612,2565 1657,2565 1702,2565 1746,2562 1791,2559 1836,2559 1881,2556 1926,2556 1970,2556 2015,2556 2060,2556 2105,2556 2149,2556 2194,2553"/>
+                <TextEquiv>
+                    <Unicode>gemacht werden können, sehr viel Gewicht haben. In= der Offenbarung vielmehr Widerstand beweisen, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="464,2627 2191,2606 2129,2558 464,2595"/>
+                <Baseline points="477,2618 495,2621 540,2618 585,2618 630,2618 674,2618 719,2618 764,2618 809,2618 854,2615 898,2615 943,2615 988,2615 1033,2615 1077,2612 1122,2609 1167,2609 1212,2609 1257,2609 1301,2612 1346,2609 1391,2609 1436,2609 1481,2606 1525,2606 1570,2606 1615,2606 1660,2606 1705,2606 1749,2603 1794,2600 1839,2600 1884,2597 1928,2597 1973,2597 2018,2597 2063,2597 2108,2597 2152,2597 2197,2597"/>
+                <TextEquiv>
+                    <Unicode>dessen hat der V. in seinem Entwurf sehr viel Aussich= einige heidnische Völker bewiesen haben, und wie denn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="464,2670 2189,2642 2189,2606 2085,2601 464,2627"/>
+                <Baseline points="477,2663 492,2660 537,2660 582,2660 627,2660 671,2657 716,2660 761,2660 806,2660 851,2657 895,2657 940,2657 985,2660 1030,2657 1074,2654 1119,2654 1164,2651 1209,2651 1254,2651 1298,2651 1343,2651 1388,2651 1433,2648 1478,2648 1522,2648 1567,2651 1612,2648 1657,2648 1702,2648 1746,2645 1791,2642 1836,2642 1881,2642 1926,2642 1970,2639 2015,2636 2060,2639 2105,2639 2149,2639 2194,2633"/>
+                <TextEquiv>
+                    <Unicode>ten gezeigt, die doch mehreres, als gewöhnlich über doch Gott mehr fortgesetzte Wirksamkeit beweiset, sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="468,2729 1226,2711 1313,2750 1453,2711 1861,2750 2193,2681 2172,2642 468,2668"/>
+                <Baseline points="480,2708 495,2705 540,2705 585,2705 630,2702 674,2702 719,2702 764,2702 809,2702 854,2702 898,2702 943,2702 988,2702 1033,2699 1077,2699 1122,2699 1167,2696 1212,2696 1257,2696 1301,2699 1346,2702 1391,2696 1436,2696 1481,2696 1525,2696 1570,2693 1615,2693 1660,2696 1705,2693 1749,2693 1794,2693 1839,2690 1884,2690 1928,2687 1973,2687 2018,2684 2063,2681 2108,2678 2152,2678 2197,2678"/>
+                <TextEquiv>
+                    <Unicode>diesen Punkt entdecken werden. Wir glauben daher, genau zuzuwenden, und noch zu lassen, als er ange¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="2075,2752 2100,2746 2120,2752 2157,2752 2182,2737 2195,2737 2193,2683 2178,2681 2154,2694 2139,2683 2107,2692 2072,2690"/>
+                <Baseline points="2087,2717 2132,2720 2176,2720 2200,2720"/>
+                <TextEquiv>
+                    <Unicode>wandt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

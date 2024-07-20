@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=19_07_2024_23:39</Creator>
+        <Created>2024-07-19T23:31:54.472+02:00</Created>
+        <LastChange>2024-07-19T23:39:38.903+02:00</LastChange>
+        <TranskribusMetadata docId="3352807" pageId="75268674" pageNr="5" tsid="178560175" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=WPYBUVPRMNWOEUYTLOBGWZKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EHAJQESYWKOZPJMULWBHPWDS" imageId="61027771"/>
+    </Metadata>
+    <Page imageFilename="75268674.jpg" imageWidth="2679" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721425178903" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_26"/>
+                <RegionRefIndexed index="1" regionRef="r_39"/>
+                <RegionRefIndexed index="2" regionRef="r_38"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_26" custom="readingOrder {index:0;}">
+            <Coords points="562,433 2402,433 2402,667 562,667"/>
+            <TextLine id="r_26_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1128,524 1320,543 1505,530 1577,500 1629,534 1741,537 1760,462 1555,445 1457,469 1374,445 1313,469 1130,447"/>
+                <Baseline points="1140,513 1182,513 1227,510 1272,510 1316,510 1361,510 1406,507 1451,510 1496,507 1540,501 1585,501 1630,501 1675,504 1719,507 1764,510"/>
+                <TextEquiv>
+                    <Unicode>Beylage zum 11ten Stück,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="630,643 2277,628 2279,569 2214,550 633,576"/>
+                <Baseline points="642,636 671,636 716,636 761,633 806,633 851,630 895,627 940,627 985,624 1030,624 1074,621 1119,621 1164,621 1209,621 1254,618 1298,615 1343,615 1388,615 1433,615 1478,612 1522,612 1567,609 1612,609 1657,612 1702,612 1746,612 1791,612 1836,609 1881,612 1926,612 1970,612 2015,609 2060,609 2105,612 2149,612 2194,609 2239,609 2284,606"/>
+                <TextEquiv>
+                    <Unicode>der Königsbergschen gelehrten und politischen Zeitung, 1771.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_39" custom="readingOrder {index:1;}">
+            <Coords points="1517,2835 562,2837 562,667 1462,667"/>
+            <TextLine id="r_39_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="641,772 1442,761 1442,698 1357,720 1169,691 1030,722 920,698 641,729"/>
+                <Baseline points="653,773 686,770 731,770 776,767 821,764 865,764 910,761 955,761 1000,761 1045,758 1089,758 1134,758 1179,758 1224,758 1269,755 1313,758 1358,755 1403,755 1448,752"/>
+                <TextEquiv>
+                    <Unicode>Die Anzahl der in einem Lande lebenden Menschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="589,818 1440,805 1442,761 707,787 591,759"/>
+                <Baseline points="600,812 642,812 686,809 731,806 776,806 821,800 865,800 910,800 955,800 1000,797 1045,800 1089,797 1134,797 1179,797 1224,797 1269,794 1313,794 1358,794 1403,794 1448,791"/>
+                <TextEquiv>
+                    <Unicode>verhält sich zu der Anzahl der Kinder, die jährlich geboh¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="578,853 1206,833 1440,857 1440,805 1383,796 578,820"/>
+                <Baseline points="591,845 594,845 639,845 683,842 728,842 773,842 818,839 862,836 907,836 952,836 997,836 1042,836 1086,833 1131,833 1176,833 1221,833 1266,833 1310,833 1355,830 1400,830 1445,827"/>
+                <TextEquiv>
+                    <Unicode>ren werden, gemeiniglich wie 1 zu 26, 27, 28, nachden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="589,910 737,879 1202,883 1267,875 1269,851 1206,833 589,853"/>
+                <Baseline points="600,883 644,880 689,877 734,877 779,874 824,874 868,871 913,871 958,871 1003,871 1048,871 1092,871 1137,871 1182,868 1227,868 1272,871"/>
+                <TextEquiv>
+                    <Unicode>die Ehen fruchtbar oder nicht fruchtbar sind.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="589,968 929,949 1067,960 1121,953 1123,925 934,931 901,912 654,934 591,914"/>
+                <Baseline points="600,958 633,955 677,952 722,949 767,949 812,949 856,946 901,946 946,946 991,946 1036,946 1080,943 1125,946"/>
+                <TextEquiv>
+                    <Unicode>ner eines Landes wie 175 zu 1000.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="665,1006 1448,982 1448,944 1333,931 1067,960 665,955"/>
+                <Baseline points="677,985 692,985 737,988 782,988 827,985 871,985 916,985 961,982 1006,982 1051,982 1095,982 1140,979 1185,979 1230,976 1275,976 1319,976 1364,976 1409,976 1454,973"/>
+                <TextEquiv>
+                    <Unicode>Jn einem wohlbevolkerten Lande kan man unter 50</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="589,1093 683,1067 982,1067 979,1025 591,1032"/>
+                <Baseline points="603,1071 630,1066 674,1063 719,1063 764,1063 809,1060 854,1057 898,1057 943,1057 988,1057"/>
+                <TextEquiv>
+                    <Unicode>sich jährlich verheurathet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="652,1108 1453,1093 1455,1036 1400,1054 1352,1030 654,1069"/>
+                <Baseline points="665,1098 698,1098 743,1098 788,1098 833,1092 877,1092 922,1092 967,1092 1012,1089 1057,1089 1101,1086 1146,1083 1191,1083 1236,1083 1281,1080 1325,1080 1370,1080 1415,1080 1460,1080"/>
+                <TextEquiv>
+                    <Unicode>Die Anzahl der Verheuratheten in einem Lande ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="589,1167 700,1134 1379,1134 1444,1128 1446,1091 591,1095"/>
+                <Baseline points="600,1146 644,1137 689,1134 734,1131 779,1134 824,1131 868,1128 913,1128 958,1125 1003,1125 1048,1125 1092,1125 1137,1122 1182,1119 1227,1119 1272,1119 1316,1116 1361,1116 1406,1116 1451,1113"/>
+                <TextEquiv>
+                    <Unicode>gleich der Hälfte der in einem Jahre getauften Kinder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="650,1180 1387,1165 1451,1160 1453,1123 650,1143"/>
+                <Baseline points="662,1176 695,1170 740,1167 785,1164 830,1167 874,1164 919,1161 964,1161 1009,1161 1054,1161 1098,1158 1143,1158 1188,1155 1233,1155 1278,1152 1322,1152 1367,1152 1412,1152 1457,1155"/>
+                <TextEquiv>
+                    <Unicode>In einem ganzen Lande kann man nicht mehr als 4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="591,1215 1464,1206 1464,1163 1431,1154 1073,1182 593,1165"/>
+                <Baseline points="603,1209 615,1209 659,1206 704,1203 749,1203 794,1203 839,1200 883,1203 928,1200 973,1197 1018,1197 1063,1197 1107,1197 1152,1197 1197,1194 1242,1194 1286,1194 1331,1191 1376,1191 1421,1191 1466,1191"/>
+                <TextEquiv>
+                    <Unicode>Kinder auf eine Ehe rechnen. Jn den Städten rechnet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="593,1274 683,1245 881,1259 905,1243 1104,1241 1104,1213 1056,1198 593,1217"/>
+                <Baseline points="606,1248 615,1245 659,1245 704,1242 749,1239 794,1242 839,1239 883,1239 928,1239 973,1239 1018,1236 1063,1233 1107,1236"/>
+                <TextEquiv>
+                    <Unicode>man auf 10 Ehen nur 35 Kinder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="650,1285 1461,1267 1461,1232 1339,1239 1307,1213 652,1256"/>
+                <Baseline points="662,1284 704,1281 749,1281 794,1278 839,1278 883,1278 928,1275 973,1275 1018,1275 1063,1272 1107,1272 1152,1269 1197,1269 1242,1266 1286,1266 1331,1266 1376,1263 1421,1263 1466,1260"/>
+                <TextEquiv>
+                    <Unicode>Die Männer, die im Stande sind Wassen zu tragen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="591,1320 905,1317 1014,1348 1278,1311 1461,1331 1461,1269 591,1280"/>
+                <Baseline points="603,1316 615,1316 659,1319 704,1316 749,1316 794,1316 839,1313 883,1316 928,1313 973,1313 1018,1310 1063,1310 1107,1310 1152,1310 1197,1307 1242,1307 1286,1304 1331,1301 1376,1301 1421,1301 1466,1298"/>
+                <TextEquiv>
+                    <Unicode>machen in einem ganzen Lande allezeit den vierten Theil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="593,1381 624,1383 670,1357 925,1357 927,1322 896,1317 846,1333 774,1315 757,1326 654,1331 595,1322"/>
+                <Baseline points="606,1352 618,1355 662,1352 707,1352 752,1349 797,1349 842,1349 886,1349 931,1349"/>
+                <TextEquiv>
+                    <Unicode>der Einwohner aus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="652,1396 1440,1385 1459,1348 1372,1322 1293,1350 1241,1326 652,1352"/>
+                <Baseline points="665,1391 701,1388 746,1388 791,1388 836,1385 880,1385 925,1385 970,1382 1015,1382 1060,1379 1104,1379 1149,1379 1194,1379 1239,1376 1284,1376 1328,1376 1373,1373 1418,1373 1463,1373"/>
+                <TextEquiv>
+                    <Unicode>Die Anzahl der Wittwen verhält sich gemeiniglich zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="598,1435 1461,1411 1461,1376 801,1403 600,1383"/>
+                <Baseline points="609,1427 615,1427 659,1427 704,1427 749,1424 794,1424 839,1424 883,1421 928,1421 973,1418 1018,1418 1063,1418 1107,1415 1152,1415 1197,1412 1242,1412 1286,1412 1331,1412 1376,1409 1421,1409 1466,1409"/>
+                <TextEquiv>
+                    <Unicode>der Anzahl der Wittwer wie 3 zu 1. Aber die Anzahl der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="598,1477 1457,1457 1459,1411 600,1433"/>
+                <Baseline points="609,1466 612,1466 656,1463 701,1463 746,1463 791,1460 836,1460 880,1457 925,1457 970,1454 1015,1454 1060,1454 1104,1451 1149,1451 1194,1451 1239,1451 1284,1448 1328,1448 1373,1445 1418,1445 1463,1442"/>
+                <TextEquiv>
+                    <Unicode>Wittwen, die sich wieder verheurathen, ist zu der Anzah=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="606,1516 779,1501 892,1533 1043,1507 1178,1533 1341,1490 1461,1512 1464,1455 606,1472"/>
+                <Baseline points="618,1499 659,1501 704,1501 749,1499 794,1499 839,1499 883,1496 928,1496 973,1493 1018,1493 1063,1490 1107,1490 1152,1490 1197,1487 1242,1487 1286,1487 1331,1484 1376,1481 1421,1481 1466,1481"/>
+                <TextEquiv>
+                    <Unicode>der Wittwer, die wieder heurathen, wie 100 zu 126 oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="606,1544 635,1542 643,1553 681,1538 696,1544 713,1538 733,1551 748,1540 792,1544 792,1503 779,1501 766,1512 702,1507 685,1516 667,1501 646,1512 630,1507 606,1516"/>
+                <Baseline points="618,1537 662,1537 707,1537 752,1537 797,1534"/>
+                <TextEquiv>
+                    <Unicode>wie 4 zu 5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="650,1584 1472,1566 1472,1509 1409,1496 652,1547"/>
+                <Baseline points="662,1573 671,1573 716,1570 761,1570 806,1570 851,1567 895,1567 940,1567 985,1564 1030,1561 1074,1561 1119,1561 1164,1558 1209,1558 1254,1558 1298,1555 1343,1555 1388,1555 1433,1552 1478,1552"/>
+                <TextEquiv>
+                    <Unicode>Die Anzahl der Wittwer in einem Lande ist zu der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="606,1612 1466,1599 1464,1562 1315,1553 609,1568"/>
+                <Baseline points="618,1609 621,1609 665,1612 710,1606 755,1606 800,1603 845,1603 889,1603 934,1603 979,1600 1024,1600 1069,1597 1113,1597 1158,1597 1203,1594 1248,1594 1292,1591 1337,1591 1382,1591 1427,1591 1472,1591"/>
+                <TextEquiv>
+                    <Unicode>Anzahl aller Einwohner, wie 1 zu 51. Die Anzahl der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="606,1673 691,1649 1411,1645 1435,1592 606,1612"/>
+                <Baseline points="618,1651 630,1648 674,1645 719,1642 764,1645 809,1642 854,1639 898,1639 943,1639 988,1639 1033,1639 1077,1636 1122,1633 1167,1633 1212,1633 1257,1630 1301,1630 1346,1630 1391,1627 1436,1627"/>
+                <TextEquiv>
+                    <Unicode>Wittwen hingegen verhält sich zu derselben wie 1 zu 15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="667,1690 1324,1673 1363,1701 1464,1697 1466,1632 670,1651"/>
+                <Baseline points="680,1681 710,1681 755,1681 800,1681 845,1678 889,1675 934,1675 979,1675 1024,1672 1069,1672 1113,1672 1158,1672 1203,1672 1248,1669 1292,1669 1337,1669 1382,1666 1427,1666 1472,1666"/>
+                <TextEquiv>
+                    <Unicode>Die Anzahl der Wittwer und Wittwen verhält sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="606,1749 722,1719 1222,1719 1224,1677 691,1695 609,1675"/>
+                <Baseline points="618,1728 647,1719 692,1719 737,1716 782,1716 827,1716 871,1713 916,1713 961,1711 1006,1711 1051,1708 1095,1708 1140,1708 1185,1708 1230,1708"/>
+                <TextEquiv>
+                    <Unicode>zu den Ehen in einem Lande wie 3 zu 7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="659,1765 1475,1743 1475,1710 1403,1695 659,1725"/>
+                <Baseline points="671,1752 674,1755 719,1755 764,1752 809,1749 854,1749 898,1749 943,1746 988,1746 1033,1743 1077,1743 1122,1743 1167,1740 1212,1740 1257,1740 1301,1737 1346,1737 1391,1734 1436,1734 1481,1734"/>
+                <TextEquiv>
+                    <Unicode>Die Anzaht der Wittwer ist zu der Anzahl der ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="613,1795 1359,1791 1466,1778 1468,1747 805,1769 613,1745"/>
+                <Baseline points="624,1791 665,1788 710,1788 755,1788 800,1785 845,1785 889,1782 934,1779 979,1779 1024,1779 1069,1779 1113,1776 1158,1776 1203,1776 1248,1773 1292,1773 1337,1773 1382,1770 1427,1770 1472,1770"/>
+                <TextEquiv>
+                    <Unicode>heuratheten Männer wie 1 zu 10, und die Anzahl der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="600,1856 698,1828 1455,1817 1475,1780 602,1791"/>
+                <Baseline points="615,1827 624,1830 668,1827 713,1824 758,1824 803,1824 848,1818 892,1818 937,1818 982,1815 1027,1815 1071,1812 1116,1812 1161,1812 1206,1809 1251,1809 1295,1806 1340,1806 1385,1809 1430,1806 1475,1806"/>
+                <TextEquiv>
+                    <Unicode>Wittwen ist zu den verheuratheten Weibern wie 3 zu 7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="667,1867 1475,1848 1475,1810 670,1830"/>
+                <Baseline points="680,1863 716,1860 761,1860 806,1860 851,1857 895,1854 940,1854 985,1851 1030,1851 1074,1848 1119,1848 1164,1848 1209,1845 1254,1845 1298,1845 1343,1842 1388,1842 1433,1839 1478,1839"/>
+                <TextEquiv>
+                    <Unicode>Unter dem ganzen weiblichen Geschlechte in einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="613,1906 1466,1891 1468,1850 702,1876 613,1854"/>
+                <Baseline points="624,1905 665,1902 710,1899 755,1899 800,1896 845,1896 889,1893 934,1893 979,1890 1024,1887 1069,1887 1113,1887 1158,1884 1203,1884 1248,1884 1292,1881 1337,1878 1382,1878 1427,1878 1472,1878"/>
+                <TextEquiv>
+                    <Unicode>Lande gebiehrt jährlich nur die achtzehende. Unter allen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="609,1941 1139,1946 1472,1924 1475,1891 609,1906"/>
+                <Baseline points="621,1937 627,1937 671,1937 716,1937 761,1934 806,1934 851,1931 895,1931 940,1928 985,1926 1030,1926 1074,1923 1119,1926 1164,1923 1209,1923 1254,1920 1298,1920 1343,1917 1388,1917 1433,1914 1478,1914"/>
+                <TextEquiv>
+                    <Unicode>Weibspersonen, sowohl verheuratheten als unverheura=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="609,1978 1283,1959 1475,1983 1475,1922 609,1941"/>
+                <Baseline points="621,1973 630,1973 674,1973 719,1973 764,1970 809,1967 854,1967 898,1967 943,1967 988,1967 1033,1961 1077,1961 1122,1964 1167,1961 1212,1958 1257,1958 1301,1958 1346,1961 1391,1955 1436,1955 1481,1955"/>
+                <TextEquiv>
+                    <Unicode>theten, welche über 13 Jahre sind, gebiehrt die zwölfte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="604,2020 1239,2009 1239,1972 1208,1963 606,1985"/>
+                <Baseline points="618,2012 662,2009 707,2009 752,2006 797,2006 842,2003 886,2003 931,2003 976,2000 1021,2000 1066,1997 1110,1997 1155,1997 1200,1997 1245,1994"/>
+                <TextEquiv>
+                    <Unicode>und unter den verheuratheten die sechste.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="672,2057 1472,2039 1475,1985 672,2011"/>
+                <Baseline points="683,2045 716,2045 761,2042 806,2042 851,2039 895,2039 940,2039 985,2036 1030,2036 1074,2036 1119,2036 1164,2036 1209,2033 1254,2033 1298,2033 1343,2030 1388,2027 1433,2027 1478,2027"/>
+                <TextEquiv>
+                    <Unicode>Die Geburten, welche vor 9 Monaten geschehen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="609,2101 774,2085 827,2111 875,2083 1180,2111 1232,2074 1475,2098 1455,2033 609,2042"/>
+                <Baseline points="621,2084 630,2084 674,2081 719,2081 764,2081 809,2081 854,2078 898,2075 943,2075 988,2075 1033,2075 1077,2072 1122,2072 1167,2072 1212,2072 1257,2072 1301,2072 1346,2069 1391,2066 1436,2066 1481,2069"/>
+                <TextEquiv>
+                    <Unicode>sind gemeiner als diejenigen, welche nach 9 Monaten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="613,2151 633,2151 641,2142 661,2146 698,2122 733,2131 742,2122 759,2127 777,2118 820,2120 822,2096 774,2098 750,2087 720,2087 707,2096 685,2085 615,2098"/>
+                <Baseline points="627,2126 644,2123 689,2120 734,2117 779,2117 824,2114"/>
+                <TextEquiv>
+                    <Unicode>geschehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="667,2159 1472,2142 1472,2098 1437,2083 667,2129"/>
+                <Baseline points="680,2158 713,2155 758,2152 803,2152 848,2149 892,2146 937,2146 982,2143 1027,2143 1071,2141 1116,2141 1161,2143 1206,2141 1251,2141 1295,2141 1340,2141 1385,2138 1430,2138 1475,2138"/>
+                <TextEquiv>
+                    <Unicode>In Eengeland wird dasjenige, was ein Mensch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="613,2205 1444,2181 1466,2144 615,2149"/>
+                <Baseline points="624,2197 665,2194 710,2191 755,2188 800,2188 845,2185 889,2185 934,2182 979,2182 1024,2179 1069,2179 1113,2182 1158,2179 1203,2176 1248,2176 1292,2176 1337,2176 1382,2173 1427,2173 1472,2173"/>
+                <TextEquiv>
+                    <Unicode>jährlich zu seiner nothdürftigen Unterhaltung braucht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="617,2231 707,2251 1479,2216 1461,2177 619,2207"/>
+                <Baseline points="630,2230 633,2227 677,2230 722,2227 767,2224 812,2224 856,2224 901,2221 946,2221 991,2218 1036,2218 1080,2215 1125,2215 1170,2218 1215,2218 1260,2215 1304,2212 1349,2212 1394,2212 1439,2209 1484,2206"/>
+                <TextEquiv>
+                    <Unicode>auf 7 Pfund Sterling gerechnet. Jn Frankreich schätzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="622,2275 1444,2258 1477,2218 622,2236"/>
+                <Baseline points="633,2266 674,2266 719,2260 764,2260 809,2260 854,2260 898,2257 943,2254 988,2257 1033,2254 1077,2254 1122,2257 1167,2254 1212,2251 1257,2251 1301,2248 1346,2248 1391,2245 1436,2245 1481,2245"/>
+                <TextEquiv>
+                    <Unicode>man es nur auf 100 Livres. In Deutschland rechnet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="609,2308 1472,2288 1472,2251 1389,2249 609,2284"/>
+                <Baseline points="621,2299 627,2299 671,2302 716,2299 761,2299 806,2296 851,2296 895,2293 940,2293 985,2293 1030,2290 1074,2290 1119,2290 1164,2287 1209,2287 1254,2287 1298,2287 1343,2284 1388,2284 1433,2281 1478,2281"/>
+                <TextEquiv>
+                    <Unicode>man ohngefehr 30 Thaler. Da aber diese Berechnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="617,2343 1479,2321 1459,2286 619,2306"/>
+                <Baseline points="630,2341 633,2338 677,2338 722,2338 767,2335 812,2332 856,2332 901,2329 946,2329 991,2329 1036,2326 1080,2326 1125,2323 1170,2323 1215,2323 1260,2323 1304,2323 1349,2320 1394,2320 1439,2317 1484,2317"/>
+                <TextEquiv>
+                    <Unicode>blos die Landleute und die ärmsten Einwohner der Städte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="622,2380 1477,2362 1459,2319 624,2345"/>
+                <Baseline points="633,2373 677,2373 722,2373 767,2370 812,2370 856,2367 901,2367 946,2367 991,2367 1036,2361 1080,2361 1125,2361 1170,2361 1215,2361 1260,2361 1304,2358 1349,2358 1394,2356 1439,2353 1484,2353"/>
+                <TextEquiv>
+                    <Unicode>betrifft, so hat einer, Nahmens Unger, in einer Schrift,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="617,2419 1455,2402 1479,2362 617,2382"/>
+                <Baseline points="630,2412 674,2409 719,2409 764,2406 809,2406 854,2406 898,2403 943,2403 988,2400 1033,2400 1077,2400 1122,2400 1167,2397 1212,2397 1257,2400 1301,2397 1346,2397 1391,2394 1436,2391 1481,2391"/>
+                <TextEquiv>
+                    <Unicode>von dem Preiß des Getreydes, sich bemühet, eine Rege</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="624,2452 1479,2439 1472,2393 626,2419"/>
+                <Baseline points="636,2448 680,2445 725,2445 770,2445 815,2442 859,2442 904,2442 949,2439 994,2436 1039,2436 1083,2433 1128,2433 1173,2433 1218,2436 1263,2433 1307,2433 1352,2430 1397,2427 1442,2427 1487,2427"/>
+                <TextEquiv>
+                    <Unicode>ausfündig zu machen, welche auch auf Personen mittlern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="624,2489 1488,2469 1488,2432 1444,2430 626,2452"/>
+                <Baseline points="636,2484 642,2484 686,2484 731,2481 776,2481 821,2481 865,2478 910,2478 955,2475 1000,2475 1045,2472 1089,2472 1134,2472 1179,2472 1224,2472 1269,2469 1313,2469 1358,2469 1403,2463 1448,2463 1493,2463"/>
+                <TextEquiv>
+                    <Unicode>Standes in mirtelmäßigen Städten anzuwenden wäre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_47" custom="readingOrder {index:46;}">
+                <Coords points="624,2532 1324,2522 1483,2504 1485,2469 624,2491"/>
+                <Baseline points="636,2526 639,2523 683,2520 728,2520 773,2517 818,2517 862,2517 907,2514 952,2514 997,2511 1042,2508 1086,2508 1131,2508 1176,2508 1221,2508 1266,2508 1310,2505 1355,2505 1400,2505 1445,2499 1490,2496"/>
+                <TextEquiv>
+                    <Unicode>Nach dieser Regel muß man zuerst wissen, wie viel Malter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_48" custom="readingOrder {index:47;}">
+                <Coords points="624,2563 1490,2541 1490,2506 1459,2504 624,2530"/>
+                <Baseline points="636,2559 644,2559 689,2556 734,2556 779,2556 824,2553 868,2553 913,2550 958,2550 1003,2547 1048,2547 1092,2544 1137,2544 1182,2544 1227,2544 1272,2547 1316,2544 1361,2541 1406,2538 1451,2535 1496,2532"/>
+                <TextEquiv>
+                    <Unicode>Korn in einem Lande eine Person jährlich zu ihrem Un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_49" custom="readingOrder {index:48;}">
+                <Coords points="626,2600 1496,2580 1483,2539 626,2565"/>
+                <Baseline points="639,2594 647,2594 692,2594 737,2591 782,2588 827,2588 871,2588 916,2588 961,2588 1006,2585 1051,2582 1095,2582 1140,2582 1185,2579 1230,2579 1275,2579 1319,2579 1364,2576 1409,2576 1454,2573 1499,2570"/>
+                <TextEquiv>
+                    <Unicode>terhalte nöthig hat. Hierauf macht man den Preiß dieses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_50" custom="readingOrder {index:49;}">
+                <Coords points="622,2635 1494,2618 1481,2578 622,2598"/>
+                <Baseline points="633,2633 647,2633 692,2630 737,2630 782,2627 827,2624 871,2624 916,2624 961,2621 1006,2621 1051,2618 1095,2618 1140,2618 1185,2615 1230,2615 1275,2615 1319,2615 1364,2612 1409,2612 1454,2612 1499,2612"/>
+                <TextEquiv>
+                    <Unicode>Korns zu Pfenningen, und dividirt die Summe mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_51" custom="readingOrder {index:50;}">
+                <Coords points="622,2676 1448,2663 1494,2657 1496,2618 622,2635"/>
+                <Baseline points="633,2666 647,2666 692,2666 737,2666 782,2663 827,2663 871,2660 916,2660 961,2657 1006,2657 1051,2654 1095,2654 1140,2654 1185,2651 1230,2654 1275,2654 1319,2654 1364,2651 1409,2651 1454,2648 1499,2648"/>
+                <TextEquiv>
+                    <Unicode>64. Der Quotient wird alsdenn so viele Thaler anzeigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_52" custom="readingOrder {index:51;}">
+                <Coords points="624,2711 1496,2696 1481,2652 626,2672"/>
+                <Baseline points="639,2702 647,2702 692,2702 737,2702 782,2699 827,2699 871,2696 916,2699 961,2696 1006,2696 1051,2696 1095,2693 1140,2690 1185,2690 1230,2687 1275,2690 1319,2690 1364,2687 1409,2687 1454,2684 1499,2684"/>
+                <TextEquiv>
+                    <Unicode>als man für den jährlichen Unterhalt einer Person in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_39_tl_53" custom="readingOrder {index:52;}">
+                <Coords points="626,2757 1477,2757 1501,2692 626,2709"/>
+                <Baseline points="639,2741 653,2741 698,2744 743,2741 788,2741 833,2738 877,2738 922,2735 967,2735 1012,2735 1057,2738 1101,2732 1146,2732 1191,2729 1236,2729 1281,2729 1325,2729 1370,2726 1415,2726 1460,2726 1504,2726"/>
+                <TextEquiv>
+                    <Unicode>diesem Lande rechnen muß. Z. E. in den Ländern, wo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_38" custom="readingOrder {index:2;}">
+            <Coords points="2402,667 2402,2837 1515,2839 1462,667"/>
+            <TextLine id="r_38_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1472,759 2284,753 2336,742 2338,683 2116,709 1817,681 1728,715 1472,724"/>
+                <Baseline points="1484,755 1490,752 1534,749 1579,749 1624,749 1669,749 1713,749 1758,749 1803,749 1848,749 1893,746 1937,743 1982,743 2027,743 2072,743 2117,740 2161,740 2206,740 2251,740 2296,737 2341,737"/>
+                <TextEquiv>
+                    <Unicode>man 2. 1,2 Malter Korn auf die Person rechnet und das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1472,790 2336,781 2336,742 1472,759"/>
+                <Baseline points="1484,788 1490,791 1534,788 1579,788 1624,785 1669,788 1713,785 1758,785 1803,785 1848,785 1893,782 1937,782 1982,779 2027,779 2072,779 2117,779 2161,779 2206,776 2251,773 2296,776 2341,776"/>
+                <TextEquiv>
+                    <Unicode>Malter 3 Thaler 8 gl. gilt, wird die Summe 2400 pf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1466,838 2338,818 2338,783 2266,777 1468,792"/>
+                <Baseline points="1481,827 1490,827 1534,827 1579,824 1624,824 1669,824 1713,824 1758,821 1803,824 1848,821 1893,821 1937,821 1982,818 2027,815 2072,815 2117,815 2161,815 2206,812 2251,812 2296,812 2341,809"/>
+                <TextEquiv>
+                    <Unicode>machen: diese mit 64 dividirt, geben 37. 1,2. welche so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1475,870 2338,855 2316,814 1475,833"/>
+                <Baseline points="1487,862 1493,862 1537,862 1582,862 1627,859 1672,859 1716,862 1761,859 1806,859 1851,856 1896,856 1940,856 1985,854 2030,854 2075,854 2120,851 2164,851 2209,851 2254,848 2299,848 2344,848"/>
+                <TextEquiv>
+                    <Unicode>viele Thaler anzeigen, die man zum jährlichen Unterhalt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="635,927 1269,912 1389,949 1570,899 2338,896 2295,851 1464,879 1383,846 637,888"/>
+                <Baseline points="647,916 650,916 695,913 740,913 785,910 830,910 874,910 919,910 964,910 1009,910 1054,907 1098,907 1143,910 1188,907 1233,907 1278,904 1322,904 1367,901 1412,904 1457,901 1481,898 1493,898 1537,898 1582,898 1627,898 1672,895 1716,898 1761,895 1806,895 1851,895 1896,895 1940,895 1985,892 2030,889 2075,889 2120,886 2164,886 2209,886 2254,883 2299,883 2344,883"/>
+                <TextEquiv>
+                    <Unicode>Die Anzahl der Ehen ist zu der Anzahl der Einwoh= einer Person rechnen muß. Dieser Schriftsteller hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1475,949 2306,934 2340,896 1475,907"/>
+                <Baseline points="1487,937 1493,937 1537,937 1582,937 1627,937 1672,934 1716,934 1761,934 1806,931 1851,931 1896,931 1940,931 1985,928 2030,928 2075,928 2120,925 2164,922 2209,922 2254,922 2299,919 2344,916"/>
+                <TextEquiv>
+                    <Unicode>seine Regel auch auf die vergangene Jahrhunderte ange=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1481,982 2340,962 2340,925 1481,949"/>
+                <Baseline points="1493,973 1537,973 1582,973 1627,973 1672,970 1716,970 1761,970 1806,970 1851,967 1896,967 1940,967 1985,967 2030,967 2075,964 2120,961 2164,964 2209,961 2254,958 2299,955 2344,955"/>
+                <TextEquiv>
+                    <Unicode>wandt, und vermittelst der Vergleichung des Preißes des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="591,1034 1043,1023 1128,1060 2340,1003 2321,958 593,995"/>
+                <Baseline points="603,1027 612,1027 656,1027 701,1024 746,1024 791,1024 836,1024 880,1021 925,1021 970,1021 1015,1021 1060,1018 1104,1018 1149,1018 1194,1015 1239,1015 1284,1015 1328,1012 1373,1012 1418,1012 1463,1012 1487,1009 1496,1009 1540,1009 1585,1009 1630,1006 1675,1006 1719,1009 1764,1006 1809,1003 1854,1003 1899,1003 1943,1003 1988,1006 2033,1006 2078,1000 2123,1000 2167,1000 2212,997 2257,997 2302,994 2347,991"/>
+                <TextEquiv>
+                    <Unicode>oder 54 Personen nicht mehr als eine Person rechnen, die Getreydes in jenen Zeiten die Rechnung gemacht, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1481,1054 2340,1060 2340,1003 2282,997 1481,1019"/>
+                <Baseline points="1493,1045 1496,1045 1540,1045 1585,1045 1630,1045 1675,1042 1719,1042 1764,1042 1809,1042 1854,1042 1899,1042 1943,1039 1988,1039 2033,1042 2078,1039 2123,1039 2167,1039 2212,1039 2257,1036 2302,1030 2347,1027"/>
+                <TextEquiv>
+                    <Unicode>in Deutschland eine Familie von 5 Personen zu ihrem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1483,1104 1634,1082 1752,1102 1793,1082 2129,1091 2129,1045 2081,1040 1483,1056"/>
+                <Baseline points="1496,1086 1507,1083 1552,1080 1597,1080 1642,1080 1687,1077 1731,1077 1776,1077 1821,1077 1866,1077 1911,1077 1955,1077 2000,1077 2045,1077 2090,1077 2135,1077"/>
+                <TextEquiv>
+                    <Unicode>jährlichen Unterhalte hätte nöthig gehabt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1516,1132 1542,1126 1573,1145 1584,1134 1616,1147 1636,1141 1660,1117 1682,1128 1743,1123 1745,1093 1723,1086 1647,1091 1634,1082 1579,1086 1573,1093 1538,1086 1518,1095"/>
+                <Baseline points="1528,1116 1570,1119 1615,1116 1660,1113 1705,1110 1749,1113"/>
+                <TextEquiv>
+                    <Unicode>im Jahr 1500</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1854,1126 1906,1134 1933,1119 1972,1117 1989,1132 2013,1130 2024,1119 2087,1119 2087,1088 2057,1082 2046,1088 2037,1080 2015,1091 2002,1080 1961,1091 1896,1080 1887,1088 1854,1088"/>
+                <Baseline points="1866,1116 1869,1113 1914,1113 1958,1113 2003,1113 2048,1113 2093,1113"/>
+                <TextEquiv>
+                    <Unicode>5. 5, 8 Thaler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1850,1165 1867,1165 1876,1156 1887,1160 1891,1154 1909,1163 1922,1160 1930,1167 1957,1163 1954,1121 1917,1123 1904,1134 1889,1126 1848,1123"/>
+                <Baseline points="1860,1152 1905,1149 1949,1155 1958,1155"/>
+                <TextEquiv>
+                    <Unicode>33. 34</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1854,1198 1865,1198 1869,1193 1878,1200 1885,1195 1893,1200 1898,1195 1906,1204 1924,1198 1937,1208 1943,1202 1957,1202 1954,1165 1937,1169 1920,1160 1909,1163 1896,1154 1885,1160 1876,1156 1865,1165 1850,1165"/>
+                <Baseline points="1863,1185 1908,1188 1952,1194 1961,1191"/>
+                <TextEquiv>
+                    <Unicode>63.3,4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1653,1198 1673,1200 1677,1204 1695,1195 1699,1198 1708,1195 1719,1202 1723,1198 1734,1198 1734,1154 1717,1154 1708,1163 1699,1160 1690,1163 1684,1156 1653,1156"/>
+                <Baseline points="1666,1188 1711,1188 1740,1188"/>
+                <TextEquiv>
+                    <Unicode>1600</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1651,1245 1664,1245 1682,1232 1701,1241 1708,1239 1714,1232 1721,1239 1732,1239 1732,1200 1719,1202 1708,1195 1706,1198 1695,1195 1677,1204 1673,1200 1651,1198"/>
+                <Baseline points="1663,1224 1708,1224 1737,1224"/>
+                <TextEquiv>
+                    <Unicode>1650</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1848,1237 1869,1235 1876,1239 1885,1230 1893,1239 1911,1232 1941,1252 1948,1241 1959,1241 1957,1202 1946,1202 1939,1208 1928,1200 1911,1200 1904,1208 1885,1195 1876,1198 1869,1193 1861,1200 1843,1202"/>
+                <Baseline points="1857,1224 1902,1227 1946,1233 1964,1233"/>
+                <TextEquiv>
+                    <Unicode>82, 1,4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1841,1278 1863,1274 1869,1267 1882,1269 1917,1289 1922,1285 1935,1289 1946,1278 1970,1278 1965,1239 1930,1243 1922,1235 1874,1239 1858,1235 1850,1226 1834,1230"/>
+                <Baseline points="1851,1260 1896,1266 1940,1272 1976,1272"/>
+                <TextEquiv>
+                    <Unicode>123. 3,4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="1658,1269 1675,1269 1686,1278 1701,1274 1710,1278 1714,1274 1721,1276 1725,1272 1743,1272 1743,1235 1732,1235 1721,1230 1717,1235 1714,1232 1708,1239 1701,1241 1693,1239 1686,1232 1680,1235 1658,1235"/>
+                <Baseline points="1669,1263 1713,1263 1746,1263"/>
+                <TextEquiv>
+                    <Unicode>1700</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1531,1348 2345,1339 2345,1278 2290,1274 1972,1283 1882,1315 1732,1272 1533,1300"/>
+                <Baseline points="1546,1337 1588,1340 1633,1337 1678,1340 1722,1337 1767,1337 1812,1337 1857,1337 1902,1337 1946,1337 1991,1334 2036,1334 2081,1334 2126,1334 2170,1331 2215,1331 2260,1331 2305,1328 2350,1325"/>
+                <TextEquiv>
+                    <Unicode>Eben dieser Regel hat er sich auch bedient, die Menge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1483,1385 1946,1374 2000,1400 2063,1372 2347,1374 2347,1337 1555,1359 1483,1333"/>
+                <Baseline points="1496,1376 1501,1379 1546,1376 1591,1376 1636,1373 1681,1373 1725,1376 1770,1373 1815,1376 1860,1376 1905,1373 1949,1373 1994,1373 2039,1373 2084,1370 2129,1367 2173,1367 2218,1367 2263,1364 2308,1364 2353,1361"/>
+                <TextEquiv>
+                    <Unicode>des Geldes zu bestimmen, welches zu verschiedenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1481,1429 2205,1405 2345,1446 2323,1370 1481,1379"/>
+                <Baseline points="1493,1421 1499,1421 1543,1415 1588,1412 1633,1412 1678,1412 1722,1412 1767,1412 1812,1412 1857,1412 1902,1412 1946,1412 1991,1409 2036,1409 2081,1409 2126,1406 2170,1406 2215,1403 2260,1406 2305,1403 2350,1400"/>
+                <TextEquiv>
+                    <Unicode>Zeiten in Deutschland gewesen ist. Diesemnach rechnet er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="1878,1459 1948,1464 1981,1448 2037,1472 2083,1459 2155,1472 2282,1459 2282,1409 2120,1422 2009,1407 1976,1424 1880,1424"/>
+                <Baseline points="1893,1451 1928,1451 1973,1448 2018,1448 2063,1445 2108,1445 2152,1445 2197,1442 2242,1442 2287,1442"/>
+                <TextEquiv>
+                    <Unicode>7. 3,7 Millionen Thaler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="1523,1475 1575,1472 1588,1483 1603,1472 1616,1481 1627,1472 1658,1475 1693,1457 1708,1461 1758,1448 1758,1427 1736,1418 1690,1420 1677,1429 1645,1416 1525,1422"/>
+                <Baseline points="1534,1454 1540,1454 1585,1454 1630,1451 1675,1448 1719,1445 1764,1448"/>
+                <TextEquiv>
+                    <Unicode>im Jahr 1500</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="1675,1496 1688,1499 1701,1494 1704,1499 1719,1492 1723,1499 1734,1492 1741,1499 1754,1499 1758,1448 1747,1448 1743,1453 1732,1448 1701,1464 1693,1457 1677,1459"/>
+                <Baseline points="1690,1484 1716,1484 1761,1481"/>
+                <TextEquiv>
+                    <Unicode>1550</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="1872,1494 1904,1496 1920,1503 1928,1496 1961,1499 1965,1494 1985,1494 1987,1459 1954,1457 1950,1461 1917,1455 1913,1459 1906,1455 1902,1459 1889,1459 1885,1464 1874,1464"/>
+                <Baseline points="1884,1490 1902,1487 1946,1484 1991,1484"/>
+                <TextEquiv>
+                    <Unicode>45. 9,14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="1677,1531 1688,1531 1693,1536 1699,1529 1717,1527 1738,1533 1745,1527 1762,1529 1762,1494 1747,1494 1743,1499 1734,1496 1723,1499 1714,1492 1701,1499 1695,1496 1688,1501 1677,1501"/>
+                <Baseline points="1690,1519 1734,1519 1767,1519"/>
+                <TextEquiv>
+                    <Unicode>1600</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1865,1531 1913,1536 1930,1531 1939,1538 1963,1525 1983,1531 1985,1494 1972,1492 1952,1501 1930,1496 1920,1503 1909,1496 1885,1499 1878,1490 1867,1490"/>
+                <Baseline points="1878,1525 1902,1522 1946,1519 1991,1519"/>
+                <TextEquiv>
+                    <Unicode>99.5,28</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="1675,1562 1690,1564 1695,1568 1701,1564 1712,1564 1728,1573 1736,1568 1743,1573 1745,1570 1760,1570 1762,1527 1747,1527 1741,1533 1732,1533 1725,1527 1714,1527 1699,1529 1693,1536 1688,1531 1677,1529"/>
+                <Baseline points="1687,1558 1719,1558 1764,1555"/>
+                <TextEquiv>
+                    <Unicode>1650</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="1861,1570 1874,1573 1878,1566 1885,1566 1909,1573 1920,1562 1946,1570 1952,1564 1987,1570 1987,1527 1957,1525 1943,1540 1928,1531 1924,1536 1889,1531 1858,1536"/>
+                <Baseline points="1872,1555 1917,1558 1961,1561 1994,1561"/>
+                <TextEquiv>
+                    <Unicode>153. 3,14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1682,1605 1710,1610 1717,1610 1721,1605 1732,1610 1736,1605 1741,1605 1745,1610 1760,1610 1760,1570 1745,1570 1743,1573 1734,1568 1728,1573 1723,1568 1717,1570 1708,1566 1699,1573 1680,1575"/>
+                <Baseline points="1693,1594 1737,1597 1767,1597"/>
+                <TextEquiv>
+                    <Unicode>1700</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="1852,1599 1863,1599 1878,1612 1885,1612 1893,1603 1902,1608 1917,1603 1930,1614 1935,1608 1954,1612 1970,1608 1970,1570 1948,1573 1939,1564 1930,1568 1922,1562 1909,1570 1900,1564 1896,1568 1885,1564 1872,1566 1863,1575 1852,1575"/>
+                <Baseline points="1863,1594 1908,1594 1952,1597 1973,1600"/>
+                <TextEquiv>
+                    <Unicode>283.6,7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="1686,1642 1701,1645 1706,1640 1710,1645 1721,1642 1732,1647 1741,1638 1786,1640 1800,1632 1817,1642 1830,1642 1830,1612 1815,1612 1808,1605 1797,1610 1780,1597 1767,1599 1756,1610 1743,1610 1738,1603 1734,1608 1686,1608"/>
+                <Baseline points="1699,1633 1702,1630 1746,1633 1791,1630 1836,1630"/>
+                <TextEquiv>
+                    <Unicode>1750</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="1852,1645 1887,1645 1902,1636 1917,1645 1924,1638 1935,1636 1943,1642 1970,1638 1970,1608 1954,1612 1937,1608 1930,1612 1924,1605 1898,1605 1878,1610 1863,1599 1850,1601"/>
+                <Baseline points="1863,1633 1908,1633 1952,1636 1976,1636"/>
+                <TextEquiv>
+                    <Unicode>428.4,7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="1549,1680 2354,1660 2354,1605 2321,1603 2044,1608 1959,1647 1549,1627"/>
+                <Baseline points="1561,1672 1594,1669 1639,1672 1684,1669 1728,1669 1773,1669 1818,1669 1863,1669 1908,1669 1952,1669 1997,1666 2042,1663 2087,1663 2132,1663 2176,1663 2221,1663 2266,1660 2311,1660 2356,1657"/>
+                <TextEquiv>
+                    <Unicode>Die Arbeit von 25 erwachsenen Personen ist hinläng=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="1501,1717 2351,1706 2351,1660 1501,1675"/>
+                <Baseline points="1513,1711 1549,1711 1594,1711 1639,1708 1684,1708 1728,1708 1773,1705 1818,1708 1863,1705 1908,1705 1952,1705 1997,1705 2042,1702 2087,1702 2132,1699 2176,1699 2221,1699 2266,1696 2311,1696 2356,1693"/>
+                <TextEquiv>
+                    <Unicode>lich, hundert andern erwachsenen Personen die Nothdurft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="1494,1754 1832,1745 2083,1782 2303,1752 2334,1780 2354,1701 1494,1719"/>
+                <Baseline points="1507,1749 1549,1743 1594,1743 1639,1743 1684,1743 1728,1743 1773,1743 1818,1743 1863,1743 1908,1743 1952,1743 1997,1740 2042,1740 2087,1737 2132,1737 2176,1737 2221,1734 2266,1734 2311,1734 2356,1734"/>
+                <TextEquiv>
+                    <Unicode>zu verschaffen, die zum Unterhalt des Lebens in unserm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="1499,1797 1540,1800 1568,1784 1592,1793 1695,1782 1728,1793 1771,1780 1856,1782 1856,1749 1834,1745 1776,1758 1738,1745 1699,1756 1675,1747 1499,1758"/>
+                <Baseline points="1510,1779 1546,1782 1591,1779 1636,1779 1681,1779 1725,1779 1770,1776 1815,1776 1860,1776"/>
+                <TextEquiv>
+                    <Unicode>Europa erfordert wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="1553,1821 2358,1832 2358,1773 2301,1752 1553,1786"/>
+                <Baseline points="1564,1815 1600,1815 1645,1812 1690,1812 1734,1815 1779,1815 1824,1815 1869,1815 1914,1815 1958,1812 2003,1809 2048,1809 2093,1809 2138,1809 2182,1806 2227,1806 2272,1806 2317,1806 2361,1806"/>
+                <TextEquiv>
+                    <Unicode>Auf einer deutschen Quadratmeile können 3000</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="1501,1880 1570,1856 1590,1863 1627,1854 1671,1863 1680,1854 1765,1858 1760,1817 1616,1826 1610,1819 1568,1824 1529,1808 1501,1813"/>
+                <Baseline points="1513,1854 1546,1851 1591,1851 1636,1848 1681,1848 1725,1848 1770,1848"/>
+                <TextEquiv>
+                    <Unicode>Menschen leben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="1555,1896 2356,1885 2356,1832 2288,1819 1555,1858"/>
+                <Baseline points="1567,1893 1600,1890 1645,1890 1690,1887 1734,1887 1779,1887 1824,1887 1869,1884 1914,1884 1958,1881 2003,1881 2048,1881 2093,1878 2138,1878 2182,1881 2227,1878 2272,1878 2317,1878 2361,1875"/>
+                <TextEquiv>
+                    <Unicode>Funfzig Tage, an welchen die Engeländer jähr¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="1501,1933 2356,1928 2356,1882 1793,1906 1501,1882"/>
+                <Baseline points="1513,1928 1555,1926 1600,1926 1645,1926 1690,1926 1734,1926 1779,1926 1824,1923 1869,1923 1914,1923 1958,1923 2003,1920 2048,1920 2093,1920 2138,1920 2182,1917 2227,1917 2272,1917 2317,1917 2361,1920"/>
+                <TextEquiv>
+                    <Unicode>lich mehr arbeiten als die Franzosen, weil diese fünfzig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="1501,1972 2035,1954 2164,1976 2332,1965 2358,1928 1503,1930"/>
+                <Baseline points="1513,1970 1555,1964 1600,1961 1645,1961 1690,1964 1734,1961 1779,1961 1824,1961 1869,1961 1914,1958 1958,1958 2003,1955 2048,1955 2093,1955 2138,1955 2182,1955 2227,1952 2272,1952 2317,1952 2361,1952"/>
+                <TextEquiv>
+                    <Unicode>Festage mehr haben, bringen den Engelländern einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="1505,2009 2364,1998 2364,1965 2260,1950 2166,1976 1505,1976"/>
+                <Baseline points="1516,2000 1561,2003 1606,2003 1651,2003 1696,2000 1740,2000 1785,2000 1830,1997 1875,1997 1920,1997 1964,1994 2009,1994 2054,1991 2099,1991 2143,1991 2188,1991 2233,1991 2278,1988 2323,1988 2367,1988"/>
+                <TextEquiv>
+                    <Unicode>Gewinn von 12 Millionen Pfund Sterling. Wenn man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="1505,2046 2364,2033 2364,1996 2266,1991 1505,2013"/>
+                <Baseline points="1516,2036 1519,2036 1564,2039 1609,2039 1654,2039 1699,2039 1743,2036 1788,2036 1833,2036 1878,2033 1923,2033 1967,2030 2012,2030 2057,2030 2102,2030 2146,2027 2191,2027 2236,2030 2281,2027 2326,2024 2370,2021"/>
+                <TextEquiv>
+                    <Unicode>nun 17 Millionen Seelen in Frankreich und 8 Millionen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="1501,2085 2288,2077 2362,2070 2364,2035 1501,2044"/>
+                <Baseline points="1513,2078 1516,2075 1561,2078 1606,2075 1651,2075 1696,2075 1740,2072 1785,2072 1830,2072 1875,2069 1920,2069 1964,2069 2009,2066 2054,2066 2099,2063 2143,2063 2188,2063 2233,2063 2278,2063 2323,2060 2367,2060"/>
+                <TextEquiv>
+                    <Unicode>in Engelland rechnet, so erhellet, daß der Gewinn, den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_47" custom="readingOrder {index:46;}">
+                <Coords points="1499,2118 2369,2111 2369,2072 2314,2066 1499,2085"/>
+                <Baseline points="1510,2114 1522,2114 1567,2114 1612,2111 1657,2111 1702,2111 1746,2111 1791,2111 1836,2108 1881,2108 1926,2105 1970,2105 2015,2102 2060,2102 2105,2102 2149,2102 2194,2102 2239,2099 2284,2099 2329,2099 2373,2099"/>
+                <TextEquiv>
+                    <Unicode>die Franzosen durch Abschaffung 50 Festage machen würden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_48" custom="readingOrder {index:47;}">
+                <Coords points="1505,2168 2288,2142 2288,2109 2247,2103 1505,2120"/>
+                <Baseline points="1516,2155 1531,2152 1576,2146 1621,2146 1666,2149 1711,2146 1755,2146 1800,2146 1845,2143 1890,2143 1934,2141 1979,2141 2024,2141 2069,2141 2114,2138 2158,2138 2203,2138 2248,2135 2293,2135"/>
+                <TextEquiv>
+                    <Unicode>gegen 26 Millionen Pf. Sterling betragen würde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_49" custom="readingOrder {index:48;}">
+                <Coords points="1555,2190 2362,2177 2362,2142 2308,2127 1887,2166 1557,2155"/>
+                <Baseline points="1570,2182 1606,2182 1651,2185 1696,2185 1740,2185 1785,2185 1830,2182 1875,2182 1920,2179 1964,2176 2009,2176 2054,2176 2099,2176 2143,2176 2188,2173 2233,2176 2278,2173 2323,2170 2367,2170"/>
+                <TextEquiv>
+                    <Unicode>Ein Pfund Flachs, woraus die feinen Brüßler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_50" custom="readingOrder {index:49;}">
+                <Coords points="1507,2229 2349,2221 2369,2181 1507,2188"/>
+                <Baseline points="1519,2224 1522,2221 1567,2221 1612,2221 1657,2221 1702,2221 1746,2221 1791,2218 1836,2218 1881,2218 1926,2218 1970,2215 2015,2212 2060,2212 2105,2212 2149,2212 2194,2212 2239,2209 2284,2209 2329,2206 2373,2206"/>
+                <TextEquiv>
+                    <Unicode>Spitzen verfertiget werden, vererbeiten 14 Personen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_51" custom="readingOrder {index:50;}">
+                <Coords points="1505,2264 2367,2258 2367,2216 2330,2214 1507,2225"/>
+                <Baseline points="1516,2260 1522,2260 1567,2260 1612,2260 1657,2257 1702,2257 1746,2257 1791,2254 1836,2254 1881,2257 1926,2254 1970,2251 2015,2251 2060,2251 2105,2248 2149,2248 2194,2248 2239,2245 2284,2245 2329,2245 2373,2245"/>
+                <TextEquiv>
+                    <Unicode>einem Jahre, oder eine Person verarbeitet dasselbe in 14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_52" custom="readingOrder {index:51;}">
+                <Coords points="1507,2288 2133,2306 2367,2292 2369,2258 1507,2264"/>
+                <Baseline points="1519,2287 1564,2293 1609,2296 1654,2296 1699,2293 1743,2293 1788,2293 1833,2293 1878,2290 1923,2290 1967,2287 2012,2287 2057,2287 2102,2287 2146,2284 2191,2284 2236,2284 2281,2281 2326,2281 2370,2284"/>
+                <TextEquiv>
+                    <Unicode>Jahren. Das, was also aus diesen Spitzen gelöset wird,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_53" custom="readingOrder {index:52;}">
+                <Coords points="1514,2340 2362,2327 2362,2290 2319,2284 1754,2312 1514,2290"/>
+                <Baseline points="1525,2335 1561,2332 1606,2332 1651,2332 1696,2332 1740,2332 1785,2332 1830,2329 1875,2329 1920,2326 1964,2326 2009,2323 2054,2323 2099,2323 2143,2326 2188,2323 2233,2320 2278,2317 2323,2317 2367,2320"/>
+                <TextEquiv>
+                    <Unicode>ist hinreichend, den Unterhalt für eine Person auf 14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_54" custom="readingOrder {index:53;}">
+                <Coords points="1516,2380 2364,2362 2367,2330 1516,2338"/>
+                <Baseline points="1528,2367 1564,2367 1609,2367 1654,2370 1699,2367 1743,2367 1788,2367 1833,2364 1878,2364 1923,2364 1967,2361 2012,2361 2057,2358 2102,2358 2146,2358 2191,2358 2236,2356 2281,2356 2326,2353 2370,2356"/>
+                <TextEquiv>
+                    <Unicode>Jahre oder für 14 Personen auf ein Jahr zu verschaffen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_55" custom="readingOrder {index:54;}">
+                <Coords points="1507,2417 2367,2393 2343,2358 1507,2382"/>
+                <Baseline points="1519,2409 1522,2406 1567,2406 1612,2406 1657,2406 1702,2403 1746,2403 1791,2403 1836,2400 1881,2400 1926,2400 1970,2397 2015,2397 2060,2397 2105,2397 2149,2397 2194,2394 2239,2394 2284,2391 2329,2391 2373,2388"/>
+                <TextEquiv>
+                    <Unicode>dabey auch noch der Handelsmann seinen Vortheil erhält.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_56" custom="readingOrder {index:55;}">
+                <Coords points="1577,2456 2367,2450 2367,2395 1577,2410"/>
+                <Baseline points="1588,2448 1612,2445 1657,2445 1702,2442 1746,2439 1791,2439 1836,2436 1881,2436 1926,2439 1970,2439 2015,2436 2060,2439 2105,2436 2149,2433 2194,2433 2239,2430 2284,2430 2329,2427 2373,2424"/>
+                <TextEquiv>
+                    <Unicode>Jm Jahre 1600 belief sich der Reichthum von Engel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_57" custom="readingOrder {index:56;}">
+                <Coords points="1514,2500 1612,2504 1645,2489 1706,2504 1804,2484 1941,2502 1941,2450 1920,2443 1614,2450 1594,2463 1551,2434 1514,2441"/>
+                <Baseline points="1525,2484 1543,2481 1588,2484 1633,2481 1678,2481 1722,2478 1767,2481 1812,2478 1857,2478 1902,2475 1946,2475"/>
+                <TextEquiv>
+                    <Unicode>land an gemünztem Silber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_58" custom="readingOrder {index:57;}">
+                <Coords points="1920,2524 1985,2530 2000,2515 2042,2532 2144,2524 2223,2539 2262,2522 2314,2526 2316,2456 2295,2452 2214,2452 2197,2465 2090,2456 2020,2480 1963,2467 1922,2480"/>
+                <Baseline points="1931,2511 1961,2511 2006,2511 2051,2511 2096,2508 2141,2508 2185,2505 2230,2505 2275,2502 2320,2505"/>
+                <TextEquiv>
+                    <Unicode>auf 6,500,000 Pf. Sterl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_59" custom="readingOrder {index:58;}">
+                <Coords points="1555,2563 1920,2552 1922,2498 1861,2491 1832,2491 1804,2517 1645,2489 1557,2517"/>
+                <Baseline points="1567,2556 1612,2553 1657,2553 1702,2550 1746,2550 1791,2550 1836,2547 1881,2547 1926,2550"/>
+                <TextEquiv>
+                    <Unicode>an beweglichen Gütern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_60" custom="readingOrder {index:59;}">
+                <Coords points="1590,2591 1738,2602 1749,2591 1821,2587 1874,2596 1898,2615 1933,2613 1933,2561 1902,2550 1695,2565 1590,2559"/>
+                <Baseline points="1603,2588 1648,2588 1693,2588 1737,2585 1782,2585 1827,2585 1872,2588 1917,2585 1937,2588"/>
+                <TextEquiv>
+                    <Unicode>die Schiffe und Häuser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_61" custom="readingOrder {index:60;}">
+                <Coords points="1943,2626 1994,2626 2005,2633 2015,2624 2061,2624 2074,2633 2094,2620 2138,2622 2140,2567 2109,2565 2098,2574 2063,2561 2031,2578 2015,2563 1996,2574 1946,2565"/>
+                <Baseline points="1955,2621 1964,2618 2009,2621 2054,2618 2099,2618 2143,2615"/>
+                <TextEquiv>
+                    <Unicode>Vo 600 00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_62" custom="readingOrder {index:61;}">
+                <Coords points="1588,2631 1891,2635 1891,2602 1839,2591 1749,2594 1738,2604 1588,2594"/>
+                <Baseline points="1600,2627 1627,2624 1672,2624 1716,2624 1761,2624 1806,2624 1851,2624 1896,2624"/>
+                <TextEquiv>
+                    <Unicode>darunter begriffen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_63" custom="readingOrder {index:62;}">
+                <Coords points="1950,2661 1985,2661 1998,2668 2055,2659 2063,2665 2118,2657 2135,2661 2138,2622 2094,2620 2077,2633 2061,2622 2018,2624 2007,2633 1994,2626 1952,2628"/>
+                <Baseline points="1961,2660 2006,2660 2051,2657 2096,2654 2141,2651"/>
+                <TextEquiv>
+                    <Unicode>30, 166,666</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_64" custom="readingOrder {index:63;}">
+                <Coords points="1555,2674 1597,2689 1649,2674 1732,2670 1767,2685 1800,2672 1841,2687 1896,2668 1926,2683 1926,2626 1769,2637 1555,2628"/>
+                <Baseline points="1567,2666 1573,2666 1618,2666 1663,2666 1708,2666 1752,2663 1797,2663 1842,2663 1887,2660 1931,2660"/>
+                <TextEquiv>
+                    <Unicode>an liegenden Gründen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_65" custom="readingOrder {index:64;}">
+                <Coords points="1930,2729 1981,2746 2005,2729 2033,2744 2074,2724 2122,2748 2188,2748 2258,2711 2312,2720 2312,2663 2275,2652 2190,2672 2151,2646 2125,2661 2005,2668 1933,2652"/>
+                <Baseline points="1943,2717 1958,2714 2003,2714 2048,2714 2093,2714 2138,2711 2182,2708 2227,2708 2272,2708 2317,2705"/>
+                <TextEquiv>
+                    <Unicode>216.23 Million. Pf. St.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_38_tl_66" custom="readingOrder {index:65;}">
+                <Coords points="2303,2759 2316,2764 2319,2761 2336,2764 2343,2757 2356,2753 2380,2753 2386,2694 2371,2692 2367,2696 2358,2685 2343,2694 2338,2689 2332,2692 2312,2687"/>
+                <Baseline points="2317,2750 2344,2747 2388,2741"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=20_07_2024_16:36</Creator>
+        <Created>2024-07-20T15:50:58.938+02:00</Created>
+        <LastChange>2024-07-20T16:36:57.583+02:00</LastChange>
+        <TranskribusMetadata docId="3358888" pageId="75285615" pageNr="5" tsid="178615928" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=LWYMPNOGDZWNSCEXHPPFQOUS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PQXAVSBTLGQHZISXEWSADSRL" imageId="61043402"/>
+    </Metadata>
+    <Page imageFilename="75285615.jpg" imageWidth="2679" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721486217584" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_26"/>
+                <RegionRefIndexed index="1" regionRef="r_63"/>
+                <RegionRefIndexed index="2" regionRef="r_62"/>
+                <RegionRefIndexed index="3" regionRef="r_74"/>
+                <RegionRefIndexed index="4" regionRef="r_75"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_26" custom="readingOrder {index:0;}">
+            <Coords points="550,518 2368,518 2368,723 550,723"/>
+            <TextLine id="r_26_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1114,623 1230,603 1354,623 1414,593 1486,610 1548,584 1605,621 1641,595 1734,618 1734,534 1708,525 1466,545 1114,532"/>
+                <Baseline points="1125,588 1170,585 1215,585 1260,588 1304,588 1349,585 1394,585 1439,585 1484,585 1528,582 1573,582 1618,585 1663,588 1708,594 1740,594"/>
+                <TextEquiv>
+                    <Unicode>Beylage zum 17ten Stück,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="595,705 2258,711 2258,638 2199,627 595,631"/>
+                <Baseline points="606,698 650,698 695,698 740,698 785,695 830,698 874,698 919,695 964,698 1009,698 1054,698 1098,695 1143,695 1188,698 1233,695 1278,695 1322,695 1367,695 1412,695 1457,695 1501,695 1546,695 1591,695 1636,695 1681,698 1725,698 1770,698 1815,698 1860,701 1905,698 1949,695 1994,692 2039,695 2084,692 2129,692 2173,689 2218,686 2263,683"/>
+                <TextEquiv>
+                    <Unicode>der Königsbergschen gelehrten und politischen Zeitung, 1771.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_63" custom="readingOrder {index:1;}">
+            <Coords points="550,940 550,816 1441,816 1441,940"/>
+            <TextLine id="r_63_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="595,893 841,897 945,867 1382,895 1365,828 595,820"/>
+                <Baseline points="606,871 624,871 668,871 713,868 758,868 803,865 848,865 892,865 937,868 982,868 1027,865 1071,868 1116,868 1161,868 1206,868 1251,868 1295,868 1340,868 1385,868"/>
+                <TextEquiv>
+                    <Unicode>Fortsetzung der im 15ten St. abgebrochenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_63_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="856,936 973,936 993,923 1051,939 1157,932 1155,874 1137,867 1090,889 1055,876 1001,880 990,891 943,867 919,880 882,867 854,876"/>
+                <Baseline points="868,913 913,916 958,916 1003,919 1048,919 1092,916 1137,919 1161,922"/>
+                <TextEquiv>
+                    <Unicode>Beylage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_62" custom="readingOrder {index:2;}">
+            <Coords points="1441,2882 550,2882 550,940 1441,940"/>
+            <TextLine id="r_62_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="926,984 977,984 997,997 1014,997 1029,984 1075,984 1075,932 1055,930 1036,936 1016,930 1003,939 986,930 973,936 926,936"/>
+                <Baseline points="937,979 982,979 1027,979 1071,979 1080,979"/>
+                <TextEquiv>
+                    <Unicode>Augen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="627,1047 1419,1036 1419,997 1237,973 1142,1001 917,993 884,969 822,995 627,986"/>
+                <Baseline points="639,1036 662,1036 707,1036 752,1039 797,1039 842,1039 886,1039 931,1039 976,1036 1021,1036 1066,1036 1110,1036 1155,1036 1200,1036 1245,1033 1289,1033 1334,1033 1379,1033 1424,1030"/>
+                <TextEquiv>
+                    <Unicode>Die gewöhnlichsten Farben der Augen sind dunkelpo=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="567,1083 1419,1073 1419,1036 567,1047"/>
+                <Baseline points="579,1071 618,1074 662,1074 707,1074 752,1074 797,1077 842,1074 886,1074 931,1074 976,1071 1021,1071 1066,1071 1110,1071 1155,1069 1200,1071 1245,1069 1289,1069 1334,1069 1379,1069 1424,1069"/>
+                <TextEquiv>
+                    <Unicode>meranzenfarb, gelb, grün, blau, grau, und grau mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="567,1114 1419,1118 1419,1075 567,1077"/>
+                <Baseline points="579,1107 624,1110 668,1110 713,1110 758,1110 803,1110 848,1110 892,1110 937,1107 982,1107 1027,1107 1071,1107 1116,1104 1161,1104 1206,1107 1251,1104 1295,1104 1340,1104 1385,1104 1424,1107"/>
+                <TextEquiv>
+                    <Unicode>weiß vermischt. Die blauen und pomeranzengelben trift</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="573,1153 822,1174 891,1148 1419,1148 1419,1116 1382,1109 573,1116"/>
+                <Baseline points="585,1146 618,1146 662,1146 707,1146 752,1146 797,1146 842,1146 886,1146 931,1146 976,1143 1021,1143 1066,1143 1110,1143 1155,1143 1200,1143 1245,1143 1289,1140 1334,1143 1379,1140 1424,1143"/>
+                <TextEquiv>
+                    <Unicode>man am meisten an. Oefters befinden sich beyde Farben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="571,1185 1412,1185 1390,1144 571,1155"/>
+                <Baseline points="582,1185 609,1182 653,1182 698,1185 743,1185 788,1182 833,1182 877,1182 922,1185 967,1182 1012,1179 1057,1182 1101,1182 1146,1182 1191,1179 1236,1179 1281,1179 1325,1179 1370,1179 1415,1179"/>
+                <TextEquiv>
+                    <Unicode>in einem Auge. Die Farbe derjenigen, welche man fü</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="567,1230 1425,1226 1425,1192 1367,1181 921,1207 567,1185"/>
+                <Baseline points="579,1221 624,1218 668,1218 713,1221 758,1221 803,1221 848,1221 892,1221 937,1221 982,1218 1027,1218 1071,1218 1116,1218 1161,1215 1206,1215 1251,1215 1295,1218 1340,1215 1385,1215 1430,1215"/>
+                <TextEquiv>
+                    <Unicode>schwarze Augen hält, ist nichts anders, als gelbbraun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="567,1263 1419,1261 1419,1222 1375,1220 567,1230"/>
+                <Baseline points="579,1254 624,1257 668,1257 713,1257 758,1257 803,1257 848,1257 892,1257 937,1257 982,1257 1027,1257 1071,1257 1116,1257 1161,1257 1206,1254 1251,1257 1295,1254 1340,1254 1385,1254 1424,1254"/>
+                <TextEquiv>
+                    <Unicode>oder dunkelpomeranzenfarb. Um sich hievon zu überzeu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="567,1300 1421,1298 1421,1263 1352,1256 567,1263"/>
+                <Baseline points="579,1295 621,1292 665,1292 710,1295 755,1295 800,1295 845,1295 889,1292 934,1292 979,1292 1024,1292 1069,1292 1113,1292 1158,1292 1203,1292 1248,1292 1292,1292 1337,1292 1382,1289 1427,1292"/>
+                <TextEquiv>
+                    <Unicode>gen, darf man nur diese Augen in der Nähe betrachten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="575,1341 1427,1332 1427,1298 1397,1295 575,1298"/>
+                <Baseline points="588,1331 627,1328 671,1331 716,1331 761,1331 806,1331 851,1331 895,1331 940,1328 985,1328 1030,1328 1074,1328 1119,1328 1164,1328 1209,1328 1254,1328 1298,1325 1343,1325 1388,1325 1433,1325"/>
+                <TextEquiv>
+                    <Unicode>In der Ferve oder gegen das Licht, scheinen sie blos des¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="567,1375 1425,1371 1425,1330 1365,1328 567,1345"/>
+                <Baseline points="579,1364 624,1364 668,1367 713,1370 758,1370 803,1370 848,1367 892,1367 937,1367 982,1364 1027,1364 1071,1364 1116,1364 1161,1364 1206,1364 1251,1364 1295,1364 1340,1361 1385,1364 1430,1364"/>
+                <TextEquiv>
+                    <Unicode>wegen schwarz, weil die braungelbe Farbe so sehr mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="560,1412 1425,1412 1425,1371 1365,1360 1066,1386 560,1371"/>
+                <Baseline points="573,1403 579,1403 624,1403 668,1403 713,1403 758,1403 803,1406 848,1406 892,1403 937,1403 982,1403 1027,1403 1071,1400 1116,1400 1161,1400 1206,1400 1251,1400 1295,1400 1340,1400 1385,1400 1430,1400"/>
+                <TextEquiv>
+                    <Unicode>dem weissen im Auge absticht, daß man sie in Absicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="567,1447 1378,1449 1425,1440 1427,1412 569,1414"/>
+                <Baseline points="579,1439 624,1439 668,1442 713,1442 758,1442 803,1442 848,1442 892,1442 937,1442 982,1442 1027,1439 1071,1439 1116,1439 1161,1436 1206,1436 1251,1436 1295,1436 1340,1436 1385,1436 1430,1436"/>
+                <TextEquiv>
+                    <Unicode>auf das weisse für schwarz hält. Die Augen, welche we¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="573,1481 1425,1479 1425,1440 1397,1436 573,1451"/>
+                <Baseline points="585,1478 624,1478 668,1478 713,1478 758,1478 803,1478 848,1481 892,1481 937,1478 982,1478 1027,1475 1071,1475 1116,1475 1161,1472 1206,1475 1251,1475 1295,1475 1340,1472 1385,1475 1430,1472"/>
+                <TextEquiv>
+                    <Unicode>niger braungelb sind, werden auch unter die schwarzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="571,1516 1224,1525 1425,1514 1427,1483 573,1481"/>
+                <Baseline points="582,1510 627,1516 671,1516 716,1516 761,1513 806,1513 851,1516 895,1513 940,1513 985,1513 1030,1513 1074,1510 1119,1510 1164,1510 1209,1507 1254,1507 1298,1510 1343,1507 1388,1507 1430,1510"/>
+                <TextEquiv>
+                    <Unicode>Augen gerechnet, sie sind aber nicht so schön als die an¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="571,1555 1427,1563 1429,1512 1373,1507 573,1516"/>
+                <Baseline points="582,1549 627,1549 671,1552 716,1552 761,1552 806,1552 851,1552 895,1552 940,1549 985,1549 1030,1549 1074,1549 1119,1546 1164,1546 1209,1546 1254,1546 1298,1546 1343,1543 1388,1546 1433,1549"/>
+                <TextEquiv>
+                    <Unicode>dern, weil diese Farbe gegen das weisse nicht so hoch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="567,1598 1421,1596 1421,1557 1358,1548 567,1561"/>
+                <Baseline points="579,1588 621,1588 665,1588 710,1588 755,1588 800,1588 845,1588 889,1588 934,1588 979,1588 1024,1588 1069,1585 1113,1585 1158,1582 1203,1585 1248,1582 1292,1582 1337,1582 1382,1582 1427,1585"/>
+                <TextEquiv>
+                    <Unicode>ausfallt. Es giebt auch gelbe und hellgelbe Augen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="567,1633 1425,1633 1412,1585 567,1600"/>
+                <Baseline points="579,1627 624,1627 668,1627 713,1627 758,1624 803,1624 848,1624 892,1624 937,1624 982,1624 1027,1621 1071,1621 1116,1621 1161,1621 1206,1621 1251,1621 1295,1621 1340,1618 1385,1621 1430,1621"/>
+                <TextEquiv>
+                    <Unicode>Diese fallen gar nicht schwarz aus, weil dergleichen Farben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="560,1680 2297,1659 2243,1618 562,1628"/>
+                <Baseline points="573,1663 582,1663 627,1663 671,1663 716,1663 761,1663 806,1663 851,1663 895,1663 940,1660 985,1660 1030,1660 1074,1660 1119,1660 1164,1657 1209,1657 1254,1657 1298,1657 1343,1657 1388,1657 1433,1657 1451,1657 1496,1657 1540,1657 1585,1657 1630,1660 1675,1657 1719,1657 1764,1657 1809,1657 1854,1660 1899,1660 1943,1657 1988,1657 2033,1654 2078,1657 2123,1657 2167,1657 2212,1654 2257,1654 2302,1654"/>
+                <TextEquiv>
+                    <Unicode>nicht dunkel genug sind, um si in Scharten zu verliehren, fast so diel Gehirn als der Mensch, nemlich den fünf und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="614,1713 1274,1713 1419,1702 1421,1665 614,1685"/>
+                <Baseline points="627,1705 662,1702 707,1699 752,1699 797,1699 842,1699 886,1699 931,1699 976,1696 1021,1696 1066,1696 1110,1696 1155,1696 1200,1693 1245,1696 1289,1693 1334,1693 1379,1693 1424,1696"/>
+                <TextEquiv>
+                    <Unicode>Man sieht sehr oft in dem nemlichen Ange Anstriche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="567,1784 1401,1778 1421,1732 567,1739"/>
+                <Baseline points="579,1770 618,1773 662,1773 707,1773 752,1773 797,1770 842,1770 886,1770 931,1770 976,1770 1021,1770 1066,1770 1110,1767 1155,1767 1200,1767 1245,1767 1289,1767 1334,1764 1379,1767 1424,1767"/>
+                <TextEquiv>
+                    <Unicode>So bald etwas blaues sich darunter befindet, es mag so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="573,1814 1421,1806 1421,1775 1317,1767 575,1782"/>
+                <Baseline points="585,1809 621,1812 665,1812 710,1812 755,1809 800,1809 845,1809 889,1809 934,1806 979,1806 1024,1806 1069,1806 1113,1806 1158,1803 1203,1800 1248,1800 1292,1803 1337,1800 1382,1800 1427,1800"/>
+                <TextEquiv>
+                    <Unicode>wenig seyn als es will, so wird diese Farbe die herrschende.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="564,1849 1419,1849 1399,1804 567,1819"/>
+                <Baseline points="579,1845 618,1848 662,1848 707,1848 752,1848 797,1848 842,1848 886,1845 931,1845 976,1842 1021,1842 1066,1839 1110,1839 1155,1836 1200,1836 1245,1836 1289,1839 1334,1836 1379,1839 1424,1836"/>
+                <TextEquiv>
+                    <Unicode>Sie zeigt sich in Fäserchen durch den ganzen Umfang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="564,1881 696,1903 1419,1884 1395,1840 564,1855"/>
+                <Baseline points="576,1881 618,1884 662,1887 707,1884 752,1884 797,1881 842,1881 886,1881 931,1881 976,1878 1021,1878 1066,1878 1110,1875 1155,1875 1200,1872 1245,1875 1289,1875 1334,1875 1379,1875 1424,1872"/>
+                <TextEquiv>
+                    <Unicode>des Regenbogens, und das pomeranzenfarbige steht in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="571,1927 1419,1920 1419,1884 1380,1877 571,1890"/>
+                <Baseline points="582,1926 618,1923 662,1923 707,1923 752,1923 797,1923 842,1920 886,1920 931,1920 976,1920 1021,1917 1066,1914 1110,1914 1155,1911 1200,1911 1245,1911 1289,1914 1334,1914 1379,1911 1424,1914"/>
+                <TextEquiv>
+                    <Unicode>Flocken in einer kleinen Entfernung von dem Stern um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="567,1959 1425,1961 1425,1920 1371,1912 567,1925"/>
+                <Baseline points="579,1958 624,1958 668,1958 713,1958 758,1958 803,1958 848,1955 892,1955 937,1955 982,1955 1027,1955 1071,1952 1116,1949 1161,1949 1206,1949 1251,1949 1295,1949 1340,1949 1385,1949 1430,1949"/>
+                <TextEquiv>
+                    <Unicode>dasselbe herum. Das blaue verdrängt diese Farhe so sehr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="573,2011 1419,1992 1406,1955 573,1966"/>
+                <Baseline points="585,1997 618,1997 662,1997 707,1994 752,1994 797,1994 842,1991 886,1991 931,1991 976,1991 1021,1991 1066,1988 1110,1988 1155,1988 1200,1988 1245,1988 1289,1985 1334,1988 1379,1988 1424,1985"/>
+                <TextEquiv>
+                    <Unicode>daß das ganze Auge blau aussieht, und man wird die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="567,2037 1685,2039 1685,2005 1598,1992 567,2005"/>
+                <Baseline points="579,2033 621,2033 665,2033 710,2033 755,2030 800,2030 845,2030 889,2030 934,2027 979,2027 1024,2024 1069,2027 1113,2027 1158,2024 1203,2027 1248,2027 1292,2024 1337,2027 1382,2027 1427,2027 1451,2030 1466,2030 1510,2027 1555,2024 1600,2027 1645,2027 1690,2027"/>
+                <TextEquiv>
+                    <Unicode>eingemischte Pomeranzenfarbe nicht eher gewahr, als gestorben sind.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="571,2082 1146,2070 1146,2037 1055,2024 772,2033 746,2050 571,2039"/>
+                <Baseline points="582,2072 615,2072 659,2069 704,2069 749,2066 794,2066 839,2066 883,2066 928,2066 973,2063 1018,2063 1063,2060 1107,2060 1152,2063"/>
+                <TextEquiv>
+                    <Unicode>wenn man es in der Naͤhe betrachtet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="614,2111 1425,2111 1425,2063 1382,2050 1181,2078 614,2076"/>
+                <Baseline points="627,2105 668,2105 713,2105 758,2105 803,2105 848,2105 892,2102 937,2099 982,2099 1027,2099 1071,2099 1116,2099 1161,2099 1206,2096 1251,2096 1295,2099 1340,2096 1385,2099 1430,2099"/>
+                <TextEquiv>
+                    <Unicode>Die schönsten Augen sind diejenigen, welche schwarz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="567,2150 1419,2143 1419,2113 1306,2098 567,2102"/>
+                <Baseline points="579,2143 618,2143 662,2141 707,2141 752,2141 797,2141 842,2138 886,2138 931,2138 976,2135 1021,2135 1066,2135 1110,2135 1155,2135 1200,2135 1245,2132 1289,2132 1334,2135 1379,2135 1424,2135"/>
+                <TextEquiv>
+                    <Unicode>oder blau aussehen. Die Lebhaftigkeit und das Feuer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="573,2221 1358,2221 1416,2212 1419,2173 575,2184"/>
+                <Baseline points="585,2218 618,2218 662,2215 707,2215 752,2212 797,2212 842,2212 886,2212 931,2212 976,2209 1021,2209 1066,2209 1110,2206 1155,2206 1200,2206 1245,2206 1289,2206 1334,2206 1379,2206 1424,2203"/>
+                <TextEquiv>
+                    <Unicode>Augen allsmachen, herrschen stärker in den starkgefarb¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="575,2262 1427,2247 1427,2214 1397,2210 575,2221"/>
+                <Baseline points="588,2257 624,2254 668,2251 713,2251 758,2251 803,2251 848,2248 892,2248 937,2248 982,2245 1027,2245 1071,2245 1116,2245 1161,2242 1206,2242 1251,2242 1295,2245 1340,2242 1385,2245 1430,2242"/>
+                <TextEquiv>
+                    <Unicode>ten als in denjenigen Augen, die nur einen leichten An=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="582,2338 1419,2323 1419,2286 1313,2279 582,2299"/>
+                <Baseline points="594,2329 618,2326 662,2326 707,2326 752,2326 797,2323 842,2320 886,2320 931,2320 976,2320 1021,2320 1066,2317 1110,2317 1155,2317 1200,2317 1245,2317 1289,2317 1334,2317 1379,2317 1424,2317"/>
+                <TextEquiv>
+                    <Unicode>sich daher stärker und lebhaft aus; aber in den blauen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="575,2405 1349,2405 1419,2396 1421,2364 575,2370"/>
+                <Baseline points="588,2400 618,2400 662,2400 707,2400 752,2397 797,2394 842,2394 886,2394 931,2391 976,2391 1021,2391 1066,2388 1110,2388 1155,2388 1200,2388 1245,2388 1289,2391 1334,2391 1379,2388 1424,2391"/>
+                <TextEquiv>
+                    <Unicode>auch ihr Ausdruck feiner. Es blickt in den ersten ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="573,2444 1313,2441 1419,2431 1421,2396 573,2405"/>
+                <Baseline points="585,2439 618,2439 662,2436 707,2436 752,2433 797,2433 842,2430 886,2430 931,2430 976,2430 1021,2427 1066,2427 1110,2424 1155,2424 1200,2424 1245,2427 1289,2427 1334,2427 1379,2427 1424,2424"/>
+                <TextEquiv>
+                    <Unicode>Feuer, das gleichförmig funkelt, weil der Grund, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="575,2480 1412,2470 1412,2435 1371,2424 575,2448"/>
+                <Baseline points="588,2475 612,2472 656,2472 701,2472 746,2469 791,2469 836,2469 880,2466 925,2466 970,2469 1015,2466 1060,2463 1104,2463 1149,2463 1194,2463 1239,2463 1284,2463 1328,2463 1373,2463 1418,2463"/>
+                <TextEquiv>
+                    <Unicode>uns von einerley Farbe zu seyn scheint, überall einerler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="567,2521 1419,2504 1419,2474 1367,2465 567,2472"/>
+                <Baseline points="579,2511 615,2511 659,2511 704,2511 749,2511 794,2508 839,2505 883,2502 928,2502 973,2502 1018,2502 1063,2502 1107,2499 1152,2499 1197,2499 1242,2499 1286,2502 1331,2499 1376,2499 1421,2499"/>
+                <TextEquiv>
+                    <Unicode>Lichtstrahlen zuruck wirft. Jn den Lichtstrahlen hinge=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="573,2560 1419,2545 1419,2504 575,2519"/>
+                <Baseline points="585,2550 618,2547 662,2547 707,2547 752,2547 797,2544 842,2541 886,2541 931,2541 976,2541 1021,2538 1066,2538 1110,2538 1155,2535 1200,2538 1245,2538 1289,2538 1334,2538 1379,2538 1424,2538"/>
+                <TextEquiv>
+                    <Unicode>gen, welche die blauen Augen beleben, herrscht eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="575,2591 1419,2578 1419,2547 1360,2537 577,2560"/>
+                <Baseline points="588,2588 615,2585 659,2582 704,2582 749,2582 794,2579 839,2579 883,2576 928,2576 973,2579 1018,2576 1063,2573 1107,2573 1152,2573 1197,2570 1242,2570 1286,2573 1331,2573 1376,2573 1421,2573"/>
+                <TextEquiv>
+                    <Unicode>Mannigfaltigkeit der Veränderung. Denn da sich in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="573,2632 1416,2621 1416,2578 1386,2571 573,2591"/>
+                <Baseline points="585,2621 615,2621 659,2621 704,2618 749,2618 794,2615 839,2615 883,2615 928,2615 973,2615 1018,2612 1063,2612 1107,2612 1152,2609 1197,2609 1242,2609 1286,2609 1331,2609 1376,2609 1421,2609"/>
+                <TextEquiv>
+                    <Unicode>denselben mehrere Anstriche von Farben befinden, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="567,2664 1419,2669 1419,2619 1388,2608 567,2640"/>
+                <Baseline points="579,2657 618,2660 662,2657 707,2657 752,2657 797,2657 842,2654 886,2654 931,2654 976,2654 1021,2654 1066,2651 1110,2651 1155,2651 1200,2648 1245,2648 1289,2651 1334,2648 1379,2648 1424,2642"/>
+                <TextEquiv>
+                    <Unicode>werden auch mehrere Arten von Lichtstralen zurückge=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="571,2714 582,2714 590,2705 599,2712 608,2707 614,2714 627,2705 644,2705 660,2697 690,2701 692,2664 644,2662 638,2666 627,2664 612,2673 601,2666 573,2669"/>
+                <Baseline points="582,2699 606,2699 650,2693 695,2696"/>
+                <TextEquiv>
+                    <Unicode>worfen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="631,2731 1425,2731 1425,2682 1345,2664 1308,2690 774,2662 631,2705"/>
+                <Baseline points="644,2729 668,2729 713,2729 758,2726 803,2726 848,2726 892,2726 937,2723 982,2723 1027,2726 1071,2723 1116,2720 1161,2720 1206,2723 1251,2720 1295,2720 1340,2720 1385,2720 1430,2720"/>
+                <TextEquiv>
+                    <Unicode>Es giebt Augen, in welchen man so zu reden keine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="580,2781 1393,2766 1425,2731 813,2749 582,2727"/>
+                <Baseline points="591,2774 624,2771 668,2768 713,2768 758,2765 803,2762 848,2762 892,2759 937,2762 982,2759 1027,2762 1071,2762 1116,2762 1161,2759 1206,2756 1251,2756 1295,2756 1340,2756 1385,2756 1430,2756"/>
+                <TextEquiv>
+                    <Unicode>Farbe bemerkt. Sie scheinen ganz anders als andere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_62_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="573,2835 897,2837 1029,2807 1159,2852 1272,2820 1427,2829 1412,2759 573,2779"/>
+                <Baseline points="585,2815 627,2809 671,2806 716,2806 761,2803 806,2803 851,2803 895,2800 940,2803 985,2800 1030,2800 1074,2800 1119,2800 1164,2797 1209,2797 1254,2797 1298,2797 1343,2797 1388,2797 1433,2794"/>
+                <TextEquiv>
+                    <Unicode>gebaut zu seyn. Der Regenbogen hat nur einige so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_74" custom="readingOrder {index:3;}">
+            <Coords points="2368,816 2368,1395 1441,1395 1441,816"/>
+            <TextLine id="r_74_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1451,874 2199,865 2310,856 2312,815 1451,813"/>
+                <Baseline points="1463,862 1507,862 1552,862 1597,862 1642,862 1687,862 1731,859 1776,862 1821,862 1866,862 1911,862 1955,862 2000,859 2045,859 2090,856 2135,854 2179,854 2224,851 2269,851 2314,848"/>
+                <TextEquiv>
+                    <Unicode>schwache Anstriche von blau oder grau, daß dieselben an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1445,910 2303,895 2305,856 2255,848 1447,876"/>
+                <Baseline points="1457,901 1460,901 1504,898 1549,898 1594,898 1639,898 1684,898 1728,898 1773,898 1818,898 1863,898 1908,898 1952,898 1997,898 2042,898 2087,895 2132,892 2176,889 2221,889 2266,886 2311,886"/>
+                <TextEquiv>
+                    <Unicode>einigen fast weiß sind. Die Schattierung von Pomeran¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1445,947 2303,932 2281,893 1445,908"/>
+                <Baseline points="1457,940 1501,937 1546,934 1591,937 1636,934 1681,934 1725,937 1770,934 1815,937 1860,937 1905,937 1949,937 1994,937 2039,934 2084,934 2129,931 2173,931 2218,928 2263,925 2308,928"/>
+                <TextEquiv>
+                    <Unicode>zenfarb ist so leicht, daß man sie mit Mühe vom grauen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1445,980 2297,969 2297,932 1445,947"/>
+                <Baseline points="1457,973 1496,970 1540,970 1585,973 1630,970 1675,973 1719,973 1764,973 1809,973 1854,973 1899,973 1943,973 1988,970 2033,970 2078,973 2123,970 2167,967 2212,967 2257,967 2302,961"/>
+                <TextEquiv>
+                    <Unicode>und weissen unterscheidet. Das schwarze des Sterns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1449,1012 2305,1014 2284,967 1449,980"/>
+                <Baseline points="1460,1009 1504,1006 1549,1006 1594,1009 1639,1006 1684,1009 1728,1009 1773,1012 1818,1009 1863,1009 1908,1009 1952,1009 1997,1009 2042,1009 2087,1009 2132,1006 2176,1006 2221,1006 2266,1006 2311,1003"/>
+                <TextEquiv>
+                    <Unicode>nimmt sich in diesem Falle allzusehr aus, weil die Farbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1445,1049 2297,1055 2297,1012 2258,1008 1445,1010"/>
+                <Baseline points="1457,1042 1501,1042 1546,1042 1591,1042 1636,1042 1681,1042 1725,1045 1770,1045 1815,1045 1860,1045 1905,1045 1949,1045 1994,1045 2039,1045 2084,1045 2129,1045 2173,1042 2218,1042 2263,1045 2302,1048"/>
+                <TextEquiv>
+                    <Unicode>des Regenbogens nicht dunkel genug ist. Man sieht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1445,1086 2297,1090 2297,1053 2249,1047 1445,1049"/>
+                <Baseline points="1457,1077 1501,1080 1546,1077 1591,1077 1636,1077 1681,1077 1725,1077 1770,1077 1815,1077 1860,1080 1905,1080 1949,1080 1994,1080 2039,1080 2084,1077 2129,1080 2173,1077 2218,1077 2263,1077 2302,1077"/>
+                <TextEquiv>
+                    <Unicode>so zu reden, nichts als den Stern, der mitten im Auge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1445,1120 2303,1144 2303,1088 2262,1083 1445,1086"/>
+                <Baseline points="1457,1116 1501,1116 1546,1113 1591,1113 1636,1113 1681,1116 1725,1116 1770,1116 1815,1116 1860,1119 1905,1119 1949,1122 1994,1119 2039,1119 2084,1119 2129,1119 2173,1116 2218,1116 2263,1116 2308,1119"/>
+                <TextEquiv>
+                    <Unicode>einzeln da steht. Diese Angen sprechen nichts, und ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1449,1172 1494,1181 1533,1155 1639,1168 1698,1153 1717,1166 1918,1159 1918,1127 1892,1120 1449,1120"/>
+                <Baseline points="1460,1155 1504,1152 1549,1152 1594,1152 1639,1152 1684,1152 1728,1152 1773,1152 1818,1155 1863,1155 1908,1158 1923,1155"/>
+                <TextEquiv>
+                    <Unicode>Blick fällt steif und todt aus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1505,1200 2297,1196 2297,1140 2271,1137 1505,1159"/>
+                <Baseline points="1516,1188 1561,1191 1606,1191 1651,1191 1696,1191 1740,1194 1785,1191 1830,1194 1875,1191 1920,1191 1964,1191 2009,1191 2054,1191 2099,1191 2143,1188 2188,1188 2233,1185 2278,1188 2302,1191"/>
+                <TextEquiv>
+                    <Unicode>Es giebt auch Augen, in welchen der Regenbogen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1445,1233 2297,1235 2297,1196 2266,1192 1708,1213 1445,1192"/>
+                <Baseline points="1457,1227 1501,1227 1546,1227 1591,1230 1636,1230 1681,1230 1725,1230 1770,1230 1815,1230 1860,1230 1905,1230 1949,1230 1994,1230 2039,1227 2084,1227 2129,1227 2173,1224 2218,1224 2263,1224 2299,1227"/>
+                <TextEquiv>
+                    <Unicode>das grüne fällt. Diese Farbe ist seltener als das blaue,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1445,1274 2299,1267 2279,1228 1445,1235"/>
+                <Baseline points="1457,1263 1501,1263 1546,1266 1591,1266 1636,1266 1681,1266 1725,1266 1770,1266 1815,1266 1860,1266 1905,1266 1949,1266 1994,1266 2039,1263 2084,1263 2129,1263 2173,1263 2218,1263 2263,1263 2305,1263"/>
+                <TextEquiv>
+                    <Unicode>das graue, das gelbe und das braungelbe. Man sieht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1451,1308 2297,1308 2297,1269 2268,1265 1451,1274"/>
+                <Baseline points="1463,1301 1496,1301 1540,1301 1585,1301 1630,1301 1675,1301 1719,1301 1764,1301 1809,1304 1854,1304 1899,1301 1943,1304 1988,1301 2033,1301 2078,1301 2123,1298 2167,1298 2212,1298 2257,1298 2302,1298"/>
+                <TextEquiv>
+                    <Unicode>nicht weniger Leute, deren beyde Augen nicht von einerley</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1453,1349 2305,1362 2305,1306 2275,1304 1453,1306"/>
+                <Baseline points="1466,1343 1501,1340 1546,1337 1591,1337 1636,1337 1681,1340 1725,1340 1770,1340 1815,1340 1860,1340 1905,1340 1949,1340 1994,1340 2039,1340 2084,1340 2129,1340 2173,1337 2218,1340 2263,1337 2308,1340"/>
+                <TextEquiv>
+                    <Unicode>Farbe sind. Dieses ist besonders dem Menschen, dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_74_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1458,1388 1559,1403 1631,1382 1680,1401 1920,1390 1920,1349 1879,1343 1827,1360 1741,1343 1713,1362 1650,1339 1458,1352"/>
+                <Baseline points="1469,1379 1513,1376 1558,1376 1603,1376 1648,1376 1693,1376 1737,1379 1782,1376 1827,1376 1872,1379 1917,1379 1926,1379"/>
+                <TextEquiv>
+                    <Unicode>Pferde und dem Hunde eigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_75" custom="readingOrder {index:4;}">
+            <Coords points="2368,1395 2368,2882 1441,2882 1441,1395"/>
+            <TextLine id="r_75_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1791,1440 1814,1447 1862,1442 1875,1451 1899,1440 1955,1445 1955,1390 1931,1386 1914,1393 1886,1380 1866,1397 1791,1390"/>
+                <Baseline points="1803,1439 1848,1436 1893,1439 1937,1439 1961,1439"/>
+                <TextEquiv>
+                    <Unicode>Gehirn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1499,1475 2297,1477 2297,1440 2212,1419 2065,1414 1968,1455 1631,1419 1563,1449 1499,1423"/>
+                <Baseline points="1510,1472 1555,1472 1600,1478 1645,1475 1690,1478 1734,1475 1779,1475 1824,1475 1869,1475 1914,1475 1958,1475 2003,1475 2048,1475 2093,1475 2138,1472 2182,1472 2227,1472 2272,1472 2302,1472"/>
+                <TextEquiv>
+                    <Unicode>Der Mensch hat mehr Gehirn als andere Thiere von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1451,1522 2303,1514 2303,1481 2240,1470 1451,1481"/>
+                <Baseline points="1463,1510 1507,1510 1552,1510 1597,1510 1642,1513 1687,1513 1731,1513 1776,1513 1821,1510 1866,1510 1911,1510 1955,1510 2000,1510 2045,1510 2090,1510 2135,1507 2179,1507 2224,1507 2269,1507 2308,1510"/>
+                <TextEquiv>
+                    <Unicode>gleicher Größe, ja mehr als das Pferd und der Ochs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1453,1551 2240,1557 2297,1548 2299,1512 1453,1520"/>
+                <Baseline points="1466,1546 1496,1546 1540,1546 1585,1549 1630,1549 1675,1549 1719,1549 1764,1549 1809,1546 1854,1549 1899,1546 1943,1549 1988,1546 2033,1549 2078,1546 2123,1546 2167,1546 2212,1543 2257,1543 2302,1543"/>
+                <TextEquiv>
+                    <Unicode>Ein Mensch der 100 Pfunde wiegt, hat gemeiniglich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1449,1589 2294,1592 2294,1548 1449,1555"/>
+                <Baseline points="1460,1582 1493,1582 1537,1582 1582,1585 1627,1585 1672,1585 1716,1585 1761,1585 1806,1585 1851,1585 1896,1585 1940,1585 1985,1585 2030,1585 2075,1582 2120,1582 2164,1582 2209,1582 2254,1579 2299,1579"/>
+                <TextEquiv>
+                    <Unicode>vier Pfunde Gehirn. Ein Ochs von 800 oder 900 Pf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1445,1628 2297,1624 2297,1592 2253,1585 1445,1589"/>
+                <Baseline points="1457,1621 1496,1621 1540,1621 1585,1621 1630,1621 1675,1621 1719,1621 1764,1621 1809,1621 1854,1621 1899,1624 1943,1624 1988,1621 2033,1621 2078,1621 2123,1621 2167,1621 2212,1618 2257,1618 2302,1618"/>
+                <TextEquiv>
+                    <Unicode>hat nur ein Pfund Gehirn. Der einzige Delphin hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1449,1702 2301,1695 2301,1659 1449,1667"/>
+                <Baseline points="1460,1696 1499,1693 1543,1696 1588,1696 1633,1693 1678,1696 1722,1696 1767,1696 1812,1696 1857,1696 1902,1693 1946,1693 1991,1693 2036,1693 2081,1693 2126,1693 2170,1693 2215,1690 2260,1690 2305,1687"/>
+                <TextEquiv>
+                    <Unicode>zwanzigsten Theil seines ganzen Gewichts. Die jungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="571,1741 2299,1732 2243,1693 731,1717 571,1682"/>
+                <Baseline points="582,1734 627,1737 671,1737 716,1734 761,1734 806,1737 851,1737 895,1734 940,1734 985,1734 1030,1734 1074,1734 1119,1734 1164,1731 1209,1728 1254,1731 1298,1731 1343,1728 1388,1731 1433,1731 1457,1728 1496,1728 1540,1731 1585,1731 1630,1731 1675,1731 1719,1731 1764,1731 1809,1731 1854,1731 1899,1731 1943,1731 1988,1728 2033,1728 2078,1728 2123,1728 2167,1728 2212,1725 2257,1725 2302,1725"/>
+                <TextEquiv>
+                    <Unicode>von Pomeranzfarb, von gelb, von grau und von blau. Thiere haben in Verhältniß mit ihrem ganzen Gewichte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1442,1771 2297,1771 2297,1730 1442,1736"/>
+                <Baseline points="1454,1767 1496,1767 1540,1767 1585,1767 1630,1767 1675,1767 1719,1767 1764,1770 1809,1767 1854,1767 1899,1767 1943,1767 1988,1767 2033,1767 2078,1764 2123,1764 2167,1761 2212,1758 2257,1761 2302,1758"/>
+                <TextEquiv>
+                    <Unicode>mehr Gehirn als die Thiere, die schon ihr völliges Wachs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1445,1808 2297,1810 2297,1771 2225,1765 1445,1773"/>
+                <Baseline points="1457,1800 1501,1800 1546,1803 1591,1803 1636,1803 1681,1803 1725,1803 1770,1803 1815,1806 1860,1806 1905,1803 1949,1803 1994,1803 2039,1800 2084,1800 2129,1797 2173,1797 2218,1797 2263,1797 2302,1800"/>
+                <TextEquiv>
+                    <Unicode>thum erreicht haben. Ein junger Ochs von 200 Pfunden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1445,1842 2297,1858 2297,1810 2249,1806 1445,1808"/>
+                <Baseline points="1457,1839 1496,1836 1540,1839 1585,1842 1630,1842 1675,1839 1719,1842 1764,1842 1809,1842 1854,1839 1899,1839 1943,1842 1988,1842 2033,1839 2078,1839 2123,1839 2167,1836 2212,1836 2257,1836 2302,1836"/>
+                <TextEquiv>
+                    <Unicode>hat ein Pfund Gehirn, so wie einer von acht hundert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1451,1886 1481,1899 1499,1899 1520,1879 1542,1877 1557,1879 1563,1886 1576,1881 1600,1888 1600,1851 1585,1845 1572,1849 1542,1842 1525,1847 1516,1838 1492,1845 1477,1842 1466,1849 1451,1842"/>
+                <Baseline points="1463,1878 1469,1878 1513,1875 1558,1875 1603,1875"/>
+                <TextEquiv>
+                    <Unicode>Pfunden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1499,1916 2297,1916 2297,1860 2078,1888 1920,1858 1773,1890 1717,1855 1680,1886 1499,1881"/>
+                <Baseline points="1510,1914 1540,1914 1585,1914 1630,1914 1675,1914 1719,1914 1764,1914 1809,1914 1854,1914 1899,1917 1943,1914 1988,1914 2033,1914 2078,1914 2123,1911 2167,1911 2212,1908 2257,1908 2302,1905"/>
+                <TextEquiv>
+                    <Unicode>Man hat angemerkt, daß das Gehirnmark bey blöd=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1442,1961 2299,1959 2299,1916 1739,1935 1445,1907"/>
+                <Baseline points="1457,1952 1499,1949 1543,1952 1588,1952 1633,1952 1678,1952 1722,1952 1767,1952 1812,1952 1857,1955 1902,1952 1946,1952 1991,1949 2036,1949 2081,1949 2126,1949 2170,1946 2215,1946 2260,1946 2305,1946"/>
+                <TextEquiv>
+                    <Unicode>sinnigen Personen nach ihrem Tode beständig leichter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1438,1998 2297,2007 2297,1953 1438,1961"/>
+                <Baseline points="1451,1988 1496,1988 1540,1988 1585,1991 1630,1991 1675,1991 1719,1994 1764,1994 1809,1991 1854,1991 1899,1991 1943,1991 1988,1991 2033,1988 2078,1988 2123,1988 2167,1985 2212,1985 2257,1985 2302,1982"/>
+                <TextEquiv>
+                    <Unicode>gewesen ist als bey Leuten, die bey gutem Verstande</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1505,2065 1816,2063 1855,2089 1886,2067 2286,2067 2301,2013 2044,2028 1881,2000 1819,2035 1732,2005 1672,2039 1505,2033"/>
+                <Baseline points="1516,2060 1543,2063 1588,2063 1633,2063 1678,2063 1722,2063 1767,2063 1812,2063 1857,2063 1902,2060 1946,2060 1991,2060 2036,2060 2081,2060 2126,2060 2170,2060 2215,2057 2260,2057 2305,2057"/>
+                <TextEquiv>
+                    <Unicode>Ueberhaupt hat das Gehirn verschiedene Verhältnisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1453,2106 2299,2098 2277,2063 1849,2089 1453,2048"/>
+                <Baseline points="1466,2099 1499,2099 1543,2099 1588,2099 1633,2099 1678,2099 1722,2102 1767,2102 1812,2102 1857,2102 1902,2102 1946,2099 1991,2099 2036,2099 2081,2096 2126,2096 2170,2096 2215,2093 2260,2093 2305,2096"/>
+                <TextEquiv>
+                    <Unicode>bey verschiedenen Thieren. Bey den Vögeln ist es klein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1445,2143 2299,2141 2299,2098 1445,2104"/>
+                <Baseline points="1457,2135 1501,2135 1546,2135 1591,2135 1636,2138 1681,2138 1725,2138 1770,2138 1815,2138 1860,2138 1905,2138 1949,2135 1994,2135 2039,2135 2084,2135 2129,2135 2173,2132 2218,2132 2263,2132 2305,2135"/>
+                <TextEquiv>
+                    <Unicode>in Vergleichung mit ihrem Körper. Dieses Verhältniß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="571,2186 2299,2175 2299,2141 2130,2134 571,2147"/>
+                <Baseline points="582,2176 627,2179 671,2179 716,2176 761,2176 806,2176 851,2176 895,2173 940,2173 985,2170 1030,2170 1074,2170 1119,2170 1164,2170 1209,2170 1254,2170 1298,2170 1343,2170 1388,2170 1433,2170 1451,2170 1496,2170 1540,2170 1585,2170 1630,2173 1675,2173 1719,2173 1764,2173 1809,2173 1854,2173 1899,2173 1943,2173 1988,2173 2033,2170 2078,2170 2123,2170 2167,2170 2212,2167 2257,2170 2302,2167"/>
+                <TextEquiv>
+                    <Unicode>welche die vornehmste und bestimmende Eigenschaft der ist noch kteiner bey dem Pferde und bey dem Ochsen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1447,2214 2297,2210 2297,2175 2182,2169 1711,2195 1449,2175"/>
+                <Baseline points="1460,2206 1496,2206 1540,2206 1585,2209 1630,2209 1675,2209 1719,2212 1764,2212 1809,2212 1854,2209 1899,2209 1943,2206 1988,2209 2033,2209 2078,2206 2123,2209 2167,2206 2212,2206 2257,2206 2302,2203"/>
+                <TextEquiv>
+                    <Unicode>Der listige und geschickte Affe hat ein großes Gehirn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1451,2253 2297,2245 2297,2208 1451,2217"/>
+                <Baseline points="1463,2242 1496,2245 1540,2245 1585,2245 1630,2245 1675,2248 1719,2248 1764,2245 1809,2245 1854,2248 1899,2248 1943,2245 1988,2245 2033,2248 2078,2245 2123,2245 2167,2242 2212,2242 2257,2242 2302,2239"/>
+                <TextEquiv>
+                    <Unicode>Die wiederkäuenden Thiere haben weniger Gehirn als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="575,2301 2297,2290 2284,2245 575,2260"/>
+                <Baseline points="588,2293 627,2290 671,2290 716,2287 761,2287 806,2287 851,2284 895,2284 940,2284 985,2284 1030,2284 1074,2281 1119,2281 1164,2278 1209,2281 1254,2281 1298,2281 1343,2281 1388,2281 1433,2278 1457,2281 1496,2281 1540,2281 1585,2284 1630,2287 1675,2284 1719,2284 1764,2284 1809,2284 1854,2284 1899,2284 1943,2281 1988,2284 2033,2284 2078,2284 2123,2281 2167,2281 2212,2275 2257,2278 2302,2275"/>
+                <TextEquiv>
+                    <Unicode>strich von Farbe haben. Die schwarzen Augen drücken der Mensch, aber mehr als die andern Thiere. Es ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="1445,2320 2299,2327 2299,2290 2253,2279 1445,2279"/>
+                <Baseline points="1457,2317 1499,2317 1543,2317 1588,2320 1633,2320 1678,2323 1722,2323 1767,2323 1812,2323 1857,2323 1902,2320 1946,2323 1991,2320 2036,2320 2081,2320 2126,2320 2170,2317 2215,2317 2260,2314 2305,2314"/>
+                <TextEquiv>
+                    <Unicode>klein bey den Thieren, die sich schlagen, denn sie haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="567,2374 2299,2357 2299,2318 567,2333"/>
+                <Baseline points="579,2364 582,2364 627,2364 671,2361 716,2361 761,2358 806,2358 851,2358 895,2356 940,2356 985,2356 1030,2356 1074,2356 1119,2353 1164,2353 1209,2353 1254,2353 1298,2356 1343,2353 1388,2356 1433,2353 1457,2353 1501,2353 1546,2356 1591,2356 1636,2358 1681,2358 1725,2358 1770,2358 1815,2358 1860,2358 1905,2356 1949,2356 1994,2356 2039,2358 2084,2356 2129,2356 2173,2353 2218,2353 2263,2353 2305,2353"/>
+                <TextEquiv>
+                    <Unicode>Augen findet sich mehr sanfte Anmuth, und vielleicht ist die Schlafmuskein sehr dick, welche die Hirnschale klein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="1445,2396 2288,2394 2288,2359 2247,2355 1445,2359"/>
+                <Baseline points="1457,2388 1501,2391 1546,2391 1591,2394 1636,2394 1681,2394 1725,2394 1770,2394 1815,2397 1860,2394 1905,2394 1949,2394 1994,2397 2039,2394 2084,2391 2129,2391 2173,2391 2218,2388 2263,2388 2293,2388"/>
+                <TextEquiv>
+                    <Unicode>machen, indem sie die beyden Seiten zusammen drücken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="1445,2433 2297,2431 2277,2392 1648,2411 1445,2387"/>
+                <Baseline points="1457,2424 1501,2427 1546,2427 1591,2427 1636,2430 1681,2433 1725,2433 1770,2433 1815,2433 1860,2430 1905,2433 1949,2430 1994,2433 2039,2433 2084,2430 2129,2427 2173,2427 2218,2427 2263,2427 2299,2427"/>
+                <TextEquiv>
+                    <Unicode>die wir rund und ausgebogen haben. Daher man nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="1438,2474 2290,2476 2290,2431 2221,2426 1438,2426"/>
+                <Baseline points="1451,2463 1496,2463 1540,2466 1585,2469 1630,2469 1675,2469 1719,2469 1764,2469 1809,2469 1854,2469 1899,2469 1943,2469 1988,2469 2033,2466 2078,2469 2123,2469 2167,2466 2212,2466 2257,2466 2296,2463"/>
+                <TextEquiv>
+                    <Unicode>ohne Ursache sagen kan, daß ein kleines Gehirn ein Merk¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1442,2513 1704,2539 1767,2515 2100,2532 2100,2480 2070,2474 1442,2476"/>
+                <Baseline points="1454,2502 1499,2505 1543,2505 1588,2508 1633,2508 1678,2508 1722,2511 1767,2508 1812,2508 1857,2508 1902,2508 1946,2508 1991,2508 2036,2508 2081,2508 2105,2511"/>
+                <TextEquiv>
+                    <Unicode>mal von Dumheit und wildem Wesen sey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="1780,2556 1812,2567 1853,2558 1864,2567 1881,2558 1897,2567 1920,2558 1933,2565 1961,2563 1964,2519 1909,2524 1897,2517 1866,2517 1855,2524 1836,2519 1829,2524 1782,2517"/>
+                <Baseline points="1791,2556 1833,2556 1878,2553 1923,2553 1967,2553"/>
+                <TextEquiv>
+                    <Unicode>Knochen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="1499,2614 2230,2604 2290,2595 2292,2545 2214,2530 2130,2567 2063,2545 1918,2569 1754,2539 1711,2565 1639,2530 1501,2552"/>
+                <Baseline points="1510,2597 1534,2600 1579,2603 1624,2603 1669,2603 1713,2603 1758,2600 1803,2600 1848,2600 1893,2600 1937,2600 1982,2597 2027,2597 2072,2594 2117,2591 2161,2591 2206,2588 2251,2588 2296,2588"/>
+                <TextEquiv>
+                    <Unicode>Man zählt in dem menschlichen Körper 245 bis 249.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1445,2647 2294,2636 2294,2595 1602,2621 1447,2593"/>
+                <Baseline points="1457,2639 1493,2639 1537,2639 1582,2639 1627,2639 1672,2642 1716,2639 1761,2639 1806,2636 1851,2639 1896,2639 1940,2636 1985,2636 2030,2633 2075,2633 2120,2630 2164,2630 2209,2627 2254,2624 2299,2624"/>
+                <TextEquiv>
+                    <Unicode>Knochen, nemlich: an der Hirnschale 14, in dem übrigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="1445,2679 2299,2675 2284,2630 1447,2643"/>
+                <Baseline points="1457,2678 1496,2675 1540,2675 1585,2675 1630,2678 1675,2675 1719,2678 1764,2675 1809,2675 1854,2675 1899,2675 1943,2672 1988,2672 2033,2672 2078,2669 2123,2666 2167,2666 2212,2663 2257,2660 2302,2660"/>
+                <TextEquiv>
+                    <Unicode>Kopfe und in dem Halse 46, in dem Rumpfe 67, in den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="1451,2716 2292,2701 2292,2673 2199,2662 1451,2682"/>
+                <Baseline points="1463,2714 1490,2714 1534,2714 1579,2714 1624,2714 1669,2714 1713,2714 1758,2714 1803,2711 1848,2714 1893,2708 1937,2711 1982,2708 2027,2708 2072,2705 2117,2705 2161,2702 2206,2699 2251,2696 2296,2696"/>
+                <TextEquiv>
+                    <Unicode>Armen und Händen 62, in den Beinen und Füßen 60.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="1445,2755 1933,2757 2022,2790 2078,2751 2275,2753 2299,2705 1447,2712"/>
+                <Baseline points="1457,2753 1493,2750 1537,2750 1582,2750 1627,2750 1672,2750 1716,2750 1761,2750 1806,2750 1851,2750 1896,2750 1940,2750 1985,2750 2030,2747 2075,2744 2120,2741 2164,2741 2209,2735 2254,2735 2299,2735"/>
+                <TextEquiv>
+                    <Unicode>Die Knochen machen den dritten Theil von dem Gewichte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="1449,2816 1522,2818 1561,2800 1596,2811 1644,2803 1687,2820 1728,2794 1832,2805 1832,2753 1758,2764 1449,2755"/>
+                <Baseline points="1460,2791 1504,2791 1549,2791 1594,2791 1639,2791 1684,2788 1728,2788 1773,2788 1818,2788 1836,2791"/>
+                <TextEquiv>
+                    <Unicode>des ganzen Körpers aus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_75_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="2143,2826 2160,2824 2175,2831 2193,2824 2221,2839 2249,2820 2264,2835 2286,2839 2290,2774 2258,2779 2243,2770 2223,2787 2180,2764 2169,2772 2143,2774"/>
+                <Baseline points="2155,2818 2158,2818 2203,2815 2248,2815 2293,2812"/>
+                <TextEquiv>
+                    <Unicode>Wirbel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
