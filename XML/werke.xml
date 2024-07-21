@@ -249,6 +249,12 @@
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3366568077">SLUB Dresden</url>
     </werk>
 
+    <werk id="damm-testament">
+        <akteur ref="damm-ct" />
+        <zitation>Des Neuen Testamentes Unsers Herrn Jesu Christi von neuem übersetzet, und mit einigen Anmerkungen für sorgfältige Leser begleitet (3 Bde., o. O. [Berlin] 1765).</zitation> <!-- Ortsangabe gemäß ZB Zürich -->
+        <url address="https://books.google.de/books?id=oUahAPY4pEYC">ZB Zürich</url>
+    </werk>
+
     <werk id="miller-anweisung">
         <akteur ref="miller-jp1725" />
         <zitation>M. Johann Peter Millers Anweisung zur Wohlredenheit nach den auserlesensten
@@ -1026,6 +1032,11 @@
     <werk id="jussy-lettres">
         <akteur ref="jussy" />
         <zitation>Lettres de Mademiselle de Jussy à Mademoiselle de *** (Amsterdam 1762).</zitation>
+    </werk>
+
+    <werk id="schoenfeldt-anweisung">
+        <akteur ref="schoenfeldt-dn" />
+        <zitation>Anweisung zur Erkänntniß sein selbst, nach des natürlichen Beschaffenheit seiner Seele, von D. N. Schönfeldt, Pastor zu Bergen (o. O. 1764).</zitation>
     </werk>
 
     <werk id="joachim-wahlrecht">

@@ -296,7 +296,7 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
 
-    <!-- 13-->
+    <!-- 13 -->
     <beitrag>
         <stueck datum="1765" nr="13" von="49"/>
         <werk ref="schmidt-religion" kat="rezension"/>
@@ -317,6 +317,28 @@
     <beitrag>
         <stueck datum="1765" nr="13" von="52"/>
         <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <!-- 14 -->
+    <beitrag>
+        <stueck datum="1765" nr="14" von="53" bis="54"/>
+        <werk ref="damm-testament" kat="rezension"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="14" von="54" bis="55"/>
+        <werk ref="schoenfeldt-anweisung" kat="rezension"/>
+        <ort ref="buetzow"></ort>
+        <ort ref="wismar"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="14" von="55" bis="56"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="13" von="56"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
 
 </beitraege>
