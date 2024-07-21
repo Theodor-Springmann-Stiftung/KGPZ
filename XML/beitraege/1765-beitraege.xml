@@ -31,8 +31,8 @@
         <vermerk>Bearbeitungsvermerk</vermerk> = obsolet, ersetzt durch Kommentar-Tag
     </beitrag> -->
     
-    <!--Jahrgang 1765-->
-    <!--01-->
+    <!-- Jahrgang 1765 -->
+    <!-- 01 -->
     <beitrag>
         <stueck datum="1765" nr="1" von="1" bis="2"/>
 		<stueck datum="1765" nr="2" von="5" bis="6"/>
@@ -55,7 +55,7 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <!--02-->
+    <!-- 02 -->
     <beitrag>
         <stueck datum="1765" nr="2" von="6" bis="7"/>
         <werk ref="nicolai-literaturbriefe-XIX" kat="rezension"/>
@@ -71,7 +71,7 @@
         <kategorie ref="buecher"/>
     </beitrag>
 
-    <!--03-->
+    <!-- 03 -->
     <beitrag>
         <stueck datum="1765" nr="3" von="9" bis="11"/>
         <kategorie ref="brief"/>
@@ -92,7 +92,7 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <!--04-->
+    <!-- 04 -->
      <beitrag>
         <stueck datum="1765" nr="4" von="13" bis="14"/>
         <werk ref="semler-beweisstellen" kat="rezension"/>
@@ -135,7 +135,7 @@
         <kategorie ref="buecher"/>
     </beitrag>
 
-    <!--05-->
+    <!-- 05 -->
     <beitrag>
         <stueck datum="1765" nr="5" von="17" bis="19"/>
         <stueck datum="1765" nr="6" von="21" bis="23"/>
@@ -156,7 +156,7 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <!--06-->
+    <!-- 06 -->
     <beitrag>
         <stueck datum="1765" nr="6" von="23" bis="24"/>
         <kategorie ref="weltnachrichten"/>
@@ -167,7 +167,7 @@
         <kategorie ref="buecher"/>
     </beitrag>
 
-    <!--07-->
+    <!-- 07 -->
     <beitrag>
         <stueck datum="1765" nr="7" von="25" bis="26"/>
         <kategorie ref="panegyrik"/>
@@ -188,7 +188,7 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <!--08-->
+    <!-- 08 -->
     <beitrag>
         <stueck datum="1765" nr="8" von="29" bis="30"/>
         <werk ref="bremisches-magazin" kat="rezension"/>
@@ -198,7 +198,6 @@
     <beitrag>
         <stueck datum="1765" nr="8" von="30"/>
         <werk ref="lange-sendschreiben" kat="rezension"/>
-        <!-- Wie oben: ort = unbekannt? -->
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="8" von="30" bis="31"/>
@@ -215,7 +214,7 @@
         <kategorie ref="anzeige"/>
     </beitrag>
 
-    <!--09-->
+    <!-- 09 -->
     <beitrag>
         <stueck datum="1765" nr="9" von="33"/>
         <kategorie ref="gelehrte-nachrichten"/>
@@ -244,7 +243,7 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <!--10-->
+    <!-- 10 -->
     <beitrag>
         <stueck datum="1765" nr="10" von="37" bis="38"/>
         <werk ref="bahrdt-kanzelreden" kat="rezension"/>
@@ -265,7 +264,7 @@
         <kategorie ref="anzeige"/>
     </beitrag>
 
-    <!--11-->
+    <!-- 11 -->
     <beitrag>
         <stueck datum="1765" nr="11" von="41"/>
         <werk ref="fielding-lissabon" kat="rezension"/>
@@ -280,7 +279,7 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <!--12-->
+    <!-- 12 -->
     <beitrag>
         <stueck datum="1765" nr="12" von="45"/>
         <werk ref="liebenswuerdiger-mensch" kat="rezension"/>
@@ -295,6 +294,29 @@
     <beitrag>
         <stueck datum="1765" nr="12" von="46" bis="48"/>
         <kategorie ref="weltnachrichten"/>
+    </beitrag>
+
+    <!-- 13-->
+    <beitrag>
+        <stueck datum="1765" nr="13" von="49"/>
+        <werk ref="schmidt-religion" kat="rezension"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="13" von="49" bis="50"/>
+        <werk ref="eller-abhandlungen" kat="rezension"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="13" von="51" bis="52"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="13" von="52"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="13" von="52"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 </beitraege>

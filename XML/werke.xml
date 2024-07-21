@@ -41,6 +41,7 @@
 
     <werk id="bianconi-sendschreiben">
         <akteur ref="bianconi-gl"></akteur>
+        <akteur ref="runckel-dh"></akteur> <!-- Die Übersetzerin; gibt es dafür eine Kategorie? -->
         <zitation>Herrn Johann Ludwigs Bianconi Zehn Sendschreiben an Herrn Marchese Philippo Hercolani die Merkwürdigkeiten des Churbayerischen Hofes und der Residenz-Stadt München betreffend. Aus dem Italienischen übersetzt (Leipzig: Janius 1764).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10371459-2">BSB München</url>
     </werk>
@@ -68,7 +69,8 @@
     </werk>
     
     <werk id="mortimer-plutarch">
-        <akteur ref="mortimer-t" />
+        <akteur ref="mortimer-t"/>
+        <akteur ref="teubern-he"/>
         <zitation>Der Brittische Plutarch oder Lebensbeschreibungen der größten Männer in England und Irrland seit den Zeiten Heinrichs VIII. bis unter George II. […], aus dem Englischen übersetzt (6 Bde., Leipzig und Züllichau: Waysenhaus und Frommann 1764–1768), Bd. 1.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070725-7">BSB München</url>
     </werk>
@@ -373,6 +375,19 @@
         <zitation>Schreiben über die Frage: ob das Leben der Alten an dem Mangel der Original-Scribenten Schuld sey, 
             abgefaßt von Joh. Jac. Rambach, Rektor des Quedlinburgschen Gymnasii, bei Biesterfeld (22. Bde., 1765).  </zitation>
         <url address=""></url> <!-- Ressource hinzufügen! --> 
+    </werk>
+
+    <werk id="schmidt-religion">
+        <akteur ref="schmidt-jf" />
+        <zitation>Von der Religion (Königsberg, Leipzig, Mitau: Kanter 1764).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bsz:24-digibib-kxp18333405077">WLB Stuttgart</url>
+    </werk>
+
+    <werk id="eller-abhandlungen">
+        <akteur ref="eller-jt"/>
+        <akteur ref="gerhard-ca"/>
+        <zitation>Johann Theodor Ellers Physikalisch-Chymisch-Medicinische Abhandlungen, aus den Gedenkschriften der königl. Akademie der Wissenschaften herausgezogen und übersetzt von D. Carl Abraham Gerhard (Berlin, Stettin, Leipzig: Rüdiger 1764).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10130957-6">WLB Stuttgart</url>
     </werk>
 
     <werk id="robinet-nature">
