@@ -272,4 +272,30 @@
             <kategorie ref="einkommende-fremde" />
         </beitrag>
 
+   <!-- 13 -->
+   <beitrag>
+    <stueck datum="1766" nr="13" von="51" bis="52" />
+    <werk kat="rezension" ref="bock-parodie-einer-ode"></werk>
+    <ort ref="kgsb" />
+    <akteur ref="scheffner"></akteur>
+    <akteur ref="herder"></akteur>
+</beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="13" von="52"/>
+        <werk kat="rezension" ref="briefe-des-osmans"></werk>
+        <ort ref="bayreuth" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="13" von="52" bis="53"/>
+        <werk kat="rezension" ref="lyrische-versuche"></werk>
+        <ort ref="berlin" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="13" von="53" bis="54" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="9" von="54" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
 </beitraege>
