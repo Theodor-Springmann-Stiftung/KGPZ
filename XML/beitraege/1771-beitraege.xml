@@ -1170,10 +1170,22 @@
         <kategorie ref="lokalanzeigen" />
     </beitrag>
 
-    
+    <beitrag>
+        <stueck datum="1771" nr="33" von="129" />
+        <werk kat="rezension" ref="schlegel-werke5"></werk>
+        <ort ref="kopenhagen"></ort>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="33" von="129" bis="130" />
+        <werk kat="rezension" ref="christ-geistlichelieder"></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
     <beitrag>
         <stueck datum="1771" nr="33" von="130"/>
         <kategorie ref="gelehrte-nachrichten" />
+        <ort ref="danzig"></ort>
+        <anmerkung>Bekanntmachung der Gesellschaft zu Danzig, ihre „theologischen Berichte von neuen Büchern und Schriften“ nicht mehr im Verlag Wedels in Danzig, sondern bei Heinsius in Leipzig herauszugeben.</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="33" von="130" bis="132"/>
@@ -1190,6 +1202,57 @@
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="33" von="132"/>
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1771" nr="34" von="133" bis="134" />
+        <stueck datum="1771" nr="36" von="141" />
+        <beilage datum="1771" nr="36" von="1" bis="2" />
+        <werk kat="rezension" ref="cube-poetische-hiob2"></werk>
+        <ort ref="leipzig"></ort>
+        <anmerkung>Unterschrieben D. N. n.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="34" von="134" bis="136"/>
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="34" von="136"/>
+        <kategorie ref="avertissement" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="34" von="136"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    
+    <beitrag>
+        <stueck datum="1771" nr="35" von="137" />
+        <werk kat="rezension" ref="oemler-prediger-krankenbette"></werk>
+        <ort ref="jena" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="35" von="137" bis="138" />
+        <werk kat="rezension" ref="huepsch-oeconomische-ackermaus"></werk>
+        <ort ref="koeln" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="35" von="138" bis="140"/>
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="35" von="140"/>
+        <kategorie ref="avertissement" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="35" von="140"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="35" von="140"/>
         <kategorie ref="wechselkurse" />
     </beitrag>
 
