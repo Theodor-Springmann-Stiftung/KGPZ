@@ -200,14 +200,14 @@
     <!-- 10 -->
     <beitrag>
         <stueck datum="1766" nr="10" von="39" bis="40" />
-        <werk kat="rezension" ref="schmidt-schreiben"></werk>
+        <werk kat="rezension" ref="rambach-schreiben"></werk>
         <ort ref="quedlinburg" />
         <ort ref="leipzig" />
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="10" von="40" />
-        <werk ref="histoire-de-france" kat="anzeige" />
-        <anmerkung>Anzeige von der deutschen Übersetzung des Abbé Velly histoire de France.</anmerkung>
+        <werk ref="velly-histoire-de-france" kat="anzeige" />
+        <anmerkung>Anzeige über eine geplante deutsche Übersetzung der „Histoire de France“ des Abbé Velly.</anmerkung>
         </beitrag>
         <beitrag>
             <stueck datum="1766" nr="10" von="41" bis="42" />
@@ -226,13 +226,13 @@
     <!-- 11 -->
     <beitrag>
         <stueck datum="1766" nr="11" von="43" bis="44" />
-        <werk kat="rezension" ref="mylius-versuche-ueber-verschiedene-gegenstaende"></werk>
+        <werk kat="rezension" ref="trublet-versuche-ueber-verschiedene-gegenstaende"></werk>
         <ort ref="berlin" />
         <akteur ref="herder">SWS I, 123ff.</akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="11" von="44" />
-        <werk kat="rezension" ref="lange-scherze"></werk>
+        <werk kat="rezension" ref="scherze1766"></werk>
         <ort ref="berlin" />
         <ort ref="stralsund" />
     </beitrag>
@@ -254,9 +254,8 @@
     <!-- 12 -->
     <beitrag>
         <stueck datum="1766" nr="12" von="47" bis="48" />
-        <werk kat="rezension" ref="iversen-geschichte"></werk>
+        <werk kat="rezension" ref="buesching-geschichte"></werk>
         <ort ref="altona" />
-        <akteur ref="buesching"></akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="12" von="48" bis="49" />
@@ -273,12 +272,17 @@
         </beitrag>
 
    <!-- 13 -->
+    <beitrag id="bock-geburtstag">
+        <beilage datum="1766" nr="14" von="1" bis="2"/>
+        <titel>Auf den Geburtstag des Königs, bey Wiedereröfnung der Königl. deutschen Gesellschaft. von Karl Gottlieb Bock. einem Mitgliede derselben. Den 25sten Januarius, 1766.</titel>
+        <akteur ref="bock-kg"></akteur>
+    </beitrag>
    <beitrag>
     <stueck datum="1766" nr="13" von="51" bis="52" />
-    <werk kat="rezension" ref="bock-parodie-einer-ode"></werk>
+    <beilage datum="1766" nr="14" von="1" bis="2"/>
+    <beitrag ref="bock-geburtstag" kat="kommentar" />
     <ort ref="kgsb" />
-    <akteur ref="scheffner"></akteur>
-    <akteur ref="herder"></akteur>
+    <akteur ref="scheffner">HBGA I, 50</akteur>
 </beitrag>
     <beitrag>
         <stueck datum="1766" nr="13" von="52"/>

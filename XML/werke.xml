@@ -47,8 +47,7 @@
     </werk>
 
     <werk id="briefe-des-osmans">
-        <zitation>Briefe des Osmans, aus dem Französischen übersetzt (Bayreuth: 1765).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10371459-2">BSB München</url>
+        <zitation>Briefe des Osmans, aus dem Französischen übersetzt (Bayreuth: Lübeck 1765).</zitation>
     </werk>
 
     <werk id="bahrdt-kanzelreden">
@@ -195,11 +194,6 @@
             neueste Litteratur betreffend, hg. von Friedrich Nicolai (Berlin 1759–1765), 16. Teil,
             265. Brief, S. 183–187.</zitation>
         <url address="http://ds.ub.uni-bielefeld.de/viewer/toc/1921386/0/LOG_0000/">UB Bielefeld</url>
-    </werk>
-
-    <werk id="bock-parodie-einer-ode">
-        <akteur ref="bock-kg" />
-        <zitation>Parodie einer Ode auf den Geburtstag des Königs, bei Wiedereröffnung der Königl. deutschen Gesellschaft (o.O., 1. Bd.  Teil, 265. Brief, S. 50, Warda/Diesch IV, S.22).</zitation>
     </werk>
 
     <werk id="silberschlag-feuerkugel">
@@ -359,10 +353,10 @@
         <zitation>Die Hoffnung besserer Zeiten für die Schulen: eine Einladungsschrift, womit zur feierlichen Begehung des zweiten Jubelfestes des evangelisch-lutherischen Gymnasii zu Halle… einladet M. Joh. Pet. Miller (Halle: Gebauer 1765).</zitation>
     </werk>
 
-    <werk id="mylius-versuche-ueber-verschiedene-gegenstaende">
-        <akteur ref="mylius-a" />
-        <zitation>Des Abts Trüblet. Versuche über verschiedene Gegenstände der
-            Sittenlehrer und Gelehrsamkeit, 3ter und 4ter Theil (Berlin 1766).</zitation>
+    <werk id="trueblet-versuche-ueber-verschiedene-gegenstaende">
+        <akteur ref="trublet-ncj"></akteur>
+        <zitation>Des Abts Trublet Versuche über verschiedene Gegenstände der Sittenlehre und Gelehrsamkeit, 3ter und 4ter Theil (Berlin: Mylius 1766), Bd. 3 und 4.</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN867021160">SUB Göttingen</url>
     </werk>
 
     <werk id="art-de-bien">
@@ -370,31 +364,32 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11761687-2">BSB München</url> 
     </werk>
 
-    <werk id="iversen-geschichte">
-        <zitation>David Iversen hat verlegt: D. Ant. Fried. Büschings Geschichte der evangelisch-lutherischen Gemeinen im rußischen Reich. 1ster Theil (Alton 1766). </zitation>
+    <werk id="buesching-geschichte">
+        <zitation>D. Anton Friedrich Büschings Geschichte der evangelisch-lutherischen Gemeinen im Rußischen Reich, 1. Teil (Altona: Iversen 1766). </zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10448653-1">BSB München</url> 
     </werk>
 
     <werk id="unzer-fortgesetzte-versuche">
-        <zitation>Fortgesetzte Versuche in sittlichen und zärtlichen Gedichten von J.C. Unzerin. (Rinteln 1766). </zitation>
+        <akteur ref="unzer-jc"></akteur>
+        <zitation>Fortgesetzte Versuche in sittlichen und zärtlichen Gedichten von J.C. Unzerin (Rinteln: Berth 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10121945-0">BSB München</url> 
     </werk>
 
     <werk id="lyrische-versuche">
-        <zitation>Lyrische Versuche. Berlin (Rüdigersche Buchhandlung) 1766.</zitation>
+        <zitation>Lyrische Versuche (Berlin: Rüdiger 1766).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000B18C00000000">Stabi Berlin</url>
     </werk>
 
-    <werk id="histoire-de-france">
+    <werk id="velly-histoire-de-france">
         <akteur ref="velly-pf" />
-        <zitation>von der deutschen Übersetzung des Abbé Velly histoire de France.</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10419426-9">BSB München</url> <!-- Stimmt diese Ressource? --> 
+        <zitation>Histoire de France […] par M. l’Abbé Velly (Paris, ab 1755 in mehreren Auflagen).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10419425-4">BSB München</url> 
     </werk>
 
-    <werk id="schmidt-schreiben">
-        <akteur ref="schmidt-j" />
-        <zitation>Schreiben über die Frage: ob das Leben der Alten an dem Mangel der Original-Scribenten Schuld sey, 
-            abgefaßt von Joh. Jac. Rambach, Rektor des Quedlinburgschen Gymnasii, bei Biesterfeld (22. Bde., 1765).  </zitation>
-        <url address=""></url> <!-- Ressource hinzufügen! --> 
+    <werk id="rambach-schreiben">
+        <akteur ref="rambach-jj" />
+        <zitation>Schreiben über die Frage: ob das Leben der Alten an dem Mangel der Original-Scribenten Schuld sey, abgefaßt von Johann Jacob Rambach (Quedlinburg: Biesterfeld 1765).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB00003C6B00000000">Stabi Berlin</url>
     </werk>
 
     <werk id="schmidt-religion">
@@ -1329,13 +1324,13 @@
         <zitation>Vade Mecum für lustige Leute, enthaltend eine Sammlung angenehmer Scherze, witziger Einfälle und spaßhafter kurzer Historien aus den besten Schriftstellern zusammengetragen (o.O. 1764).</zitation>
     </werk>
 
-    <werk id="lange-scherze">
-        <akteur ref="lange-ag" />
-        <zitation>Scherze (Berlin und Stralsund 1766).</zitation>
+    <werk id="scherze1766">
+        <zitation>Scherze (Berlin und Stralsund: Lange 1766).</zitation>
     </werk>
 
     <werk id="idyllen-erzaehlen">
         <zitation>Idyllen (Berlin und Stralsund 1766).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000B19300000000">Stabi Berlin</url>
     </werk>
 
     <werk id="groeben-buechermanufactur">
