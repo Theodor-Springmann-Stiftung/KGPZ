@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=18_07_2024_16:09</Creator>
+        <Created>2024-07-18T16:00:40.865+02:00</Created>
+        <LastChange>2024-07-18T16:09:13.827+02:00</LastChange>
+        <TranskribusMetadata docId="3334189" pageId="75203574" pageNr="1" tsid="178352107" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=UJYWKVZSXIQKMATYLIXECILE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FDKYJCDIKDPKPWRWEPRXWVRH" imageId="60966588"/>
+    </Metadata>
+    <Page imageFilename="75203574.jpg" imageWidth="2479" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721311753828" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_19"/>
+                <RegionRefIndexed index="2" regionRef="r_20"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="694,1488 1693,1453 1701,1509 698,1549"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="684,1532 1672,1522 1674,1451 1640,1443 686,1488"/>
+                <Baseline points="695,1534 737,1531 782,1528 827,1525 871,1525 916,1525 961,1525 1006,1522 1051,1522 1095,1519 1140,1519 1185,1516 1230,1513 1275,1510 1319,1510 1364,1510 1409,1507 1454,1504 1499,1504 1543,1501 1588,1499 1633,1499 1678,1499"/>
+                <TextEquiv>
+                    <Unicode>12tes Stück. Montag, den 10. Februar 1766.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_19" custom="readingOrder {index:1;}">
+            <Coords points="287,1599 1173,1569 1195,2629 287,2635"/>
+            <TextLine id="r_19_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="638,1626 657,1624 676,1632 818,1628 818,1575 797,1581 782,1575 765,1587 748,1581 733,1585 722,1575 697,1585 682,1572 638,1575"/>
+                <Baseline points="650,1618 695,1621 740,1618 785,1618 824,1621"/>
+                <TextEquiv>
+                    <Unicode>Altona.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="334,1864 1152,1859 1154,1813 686,1840 336,1823"/>
+                <Baseline points="346,1860 352,1860 397,1857 441,1857 486,1860 531,1860 576,1860 621,1863 665,1863 710,1863 755,1863 800,1860 845,1860 889,1857 934,1854 979,1854 1024,1851 1069,1851 1113,1848 1158,1845"/>
+                <TextEquiv>
+                    <Unicode>land versprochen. Er hält es für keinen unentbehr=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="334,1949 1156,1936 1156,1896 334,1908"/>
+                <Baseline points="346,1940 355,1940 400,1940 444,1940 489,1940 534,1940 579,1940 624,1940 668,1940 713,1943 758,1943 803,1943 848,1940 892,1940 937,1937 982,1937 1027,1934 1071,1931 1116,1931 1161,1926"/>
+                <TextEquiv>
+                    <Unicode>therischen Kirche. Die Entfernung der Oerter und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="329,1993 1162,1978 1145,1934 332,1949"/>
+                <Baseline points="343,1979 361,1979 406,1985 450,1985 495,1982 540,1982 585,1982 630,1982 674,1982 719,1985 764,1985 809,1982 854,1979 898,1979 943,1976 988,1976 1033,1973 1077,1973 1122,1970 1167,1967"/>
+                <TextEquiv>
+                    <Unicode>der Fortgang des Lutherthums unter den Adlersflü=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_20" custom="readingOrder {index:2;}">
+            <Coords points="1173,1569 2108,1538 2136,2618 1201,2627"/>
+            <TextLine id="r_20_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1173,1611 2025,1579 2019,1524 1687,1568 1175,1562"/>
+                <Baseline points="1185,1606 1224,1603 1269,1603 1313,1603 1358,1600 1403,1600 1448,1597 1493,1594 1537,1591 1582,1588 1627,1588 1672,1588 1716,1582 1761,1582 1806,1579 1851,1579 1896,1576 1940,1576 1985,1573 2030,1570"/>
+                <TextEquiv>
+                    <Unicode>derten Reliquien abzuwischen, und das Chaos in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="359,1662 1751,1643 2021,1626 2023,1585 1339,1617 1128,1570 839,1634 361,1600"/>
+                <Baseline points="370,1654 406,1657 450,1660 495,1663 540,1660 585,1660 630,1663 674,1660 719,1660 764,1660 809,1660 854,1657 898,1657 943,1657 988,1654 1033,1654 1077,1651 1122,1648 1167,1648 1188,1645 1221,1645 1266,1642 1310,1642 1355,1639 1400,1636 1445,1636 1490,1636 1534,1633 1579,1630 1624,1627 1669,1627 1713,1624 1758,1621 1803,1621 1848,1615 1893,1615 1937,1615 1982,1612 2027,1609"/>
+                <TextEquiv>
+                    <Unicode>David Iversen hat verlegt: D. Ant. Fried. Ordnung zu bringen; wird es nicht bey der weiteren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="340,1704 2021,1658 2021,1624 1912,1619 340,1662"/>
+                <Baseline points="352,1696 370,1696 415,1699 459,1702 504,1702 549,1702 594,1702 639,1702 683,1702 728,1699 773,1699 818,1696 862,1693 907,1696 952,1690 997,1693 1042,1690 1086,1690 1131,1687 1176,1684 1221,1681 1266,1681 1310,1681 1355,1678 1400,1675 1445,1675 1490,1672 1534,1672 1579,1669 1624,1669 1669,1666 1713,1663 1758,1660 1803,1660 1848,1657 1893,1657 1937,1654 1982,1651 2027,1651"/>
+                <TextEquiv>
+                    <Unicode>Zuschings Geschichte der evangelisch=lutherischen Abwesenheit des Herrn Dokt. noch mehr in Stecken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="338,1749 2019,1704 2006,1655 340,1704"/>
+                <Baseline points="352,1740 358,1740 403,1737 447,1740 492,1743 537,1743 582,1743 627,1743 671,1740 716,1740 761,1740 806,1737 851,1734 895,1731 940,1731 985,1728 1030,1728 1074,1725 1119,1725 1164,1725 1179,1725 1218,1722 1263,1719 1307,1716 1352,1716 1397,1713 1442,1711 1487,1711 1531,1711 1576,1708 1621,1705 1666,1702 1711,1699 1755,1699 1800,1699 1845,1696 1890,1693 1934,1693 1979,1690 2024,1690"/>
+                <TextEquiv>
+                    <Unicode>Hemeinen im rußischen Reich. 1ster Theil. 1766. gerathen? Wir wünschen aber vielmehr für die Kir¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="376,1787 1462,1770 2025,1740 2027,1706 378,1747"/>
+                <Baseline points="388,1773 418,1776 462,1779 507,1782 552,1782 597,1782 642,1782 686,1779 731,1779 776,1779 821,1776 865,1773 910,1770 955,1770 1000,1767 1045,1767 1089,1764 1134,1761 1179,1761 1224,1758 1269,1758 1313,1758 1358,1755 1403,1752 1448,1752 1493,1752 1537,1746 1582,1746 1627,1743 1672,1740 1716,1737 1761,1737 1806,1734 1851,1734 1896,1731 1940,1731 1985,1731 2030,1731"/>
+                <TextEquiv>
+                    <Unicode>Dies ist das Werk welches der Herr Doktor chengeschichte, daß sein Fleiß und Eifer auch bis in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="332,1823 1889,1796 2025,1785 2027,1740 718,1791 334,1755"/>
+                <Baseline points="343,1818 376,1818 421,1818 465,1818 510,1821 555,1821 600,1824 644,1824 689,1824 734,1824 779,1821 824,1818 868,1815 913,1812 958,1812 1003,1809 1048,1806 1092,1806 1137,1806 1182,1803 1227,1800 1272,1800 1316,1800 1361,1794 1406,1794 1451,1794 1496,1791 1540,1788 1585,1785 1630,1785 1675,1782 1719,1779 1764,1776 1809,1776 1854,1773 1899,1773 1943,1770 1988,1770 2033,1767"/>
+                <TextEquiv>
+                    <Unicode>in seinen gelehrten Abhandlungen aus und von Ruß= die Ferne wirke, und seine Nachrichten immer voll¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1186,1857 1957,1825 2019,1819 2021,1785 1188,1808"/>
+                <Baseline points="1197,1848 1221,1842 1266,1842 1310,1839 1355,1839 1400,1836 1445,1836 1490,1833 1534,1830 1579,1830 1624,1827 1669,1824 1713,1821 1758,1821 1803,1818 1848,1815 1893,1815 1937,1812 1982,1812 2027,1809"/>
+                <TextEquiv>
+                    <Unicode>ständiger mache. Herkules unterzog sich mit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="336,1906 2027,1862 2002,1815 338,1864"/>
+                <Baseline points="349,1902 361,1902 406,1902 450,1899 495,1899 540,1902 585,1902 630,1902 674,1902 719,1905 764,1905 809,1902 854,1899 898,1896 943,1896 988,1896 1033,1893 1077,1893 1122,1890 1167,1887 1188,1887 1224,1884 1269,1884 1313,1884 1358,1881 1403,1878 1448,1878 1493,1875 1537,1875 1582,1872 1627,1869 1672,1866 1716,1863 1761,1863 1806,1860 1851,1857 1896,1854 1940,1854 1985,1851 2030,1848"/>
+                <TextEquiv>
+                    <Unicode>lichen Beytrag zu der Geschichte der evangelisch lus niedrigen Arbeit des Augias Stall zu reinigen; viel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1186,1934 1900,1919 2019,1900 2021,1859 1188,1891"/>
+                <Baseline points="1197,1928 1218,1926 1263,1926 1307,1923 1352,1923 1397,1920 1442,1920 1487,1920 1531,1914 1576,1914 1621,1914 1666,1908 1711,1905 1755,1902 1800,1902 1845,1899 1890,1899 1934,1893 1979,1893 2024,1896"/>
+                <TextEquiv>
+                    <Unicode>leicht wird es auch Männer geben, welche Zeit und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1182,1974 1789,1949 1874,1970 2027,1942 2029,1906 1184,1934"/>
+                <Baseline points="1194,1967 1227,1967 1272,1967 1316,1964 1361,1961 1406,1961 1451,1961 1496,1958 1540,1955 1585,1955 1630,1952 1675,1949 1719,1946 1764,1943 1809,1943 1854,1943 1899,1937 1943,1937 1988,1934 2033,1937"/>
+                <TextEquiv>
+                    <Unicode>Geduld haben, in Stößen von Papieren zu wühlen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="332,2023 1955,2002 2021,1987 2023,1946 332,1991"/>
+                <Baseline points="343,2021 367,2021 412,2024 456,2024 501,2024 546,2024 591,2024 636,2024 680,2024 725,2027 770,2024 815,2024 859,2024 904,2021 949,2018 994,2015 1039,2015 1083,2015 1128,2012 1173,2012 1188,2009 1221,2009 1266,2009 1310,2006 1355,2006 1400,2006 1445,2003 1490,2000 1534,1997 1579,1997 1624,1994 1669,1991 1713,1988 1758,1985 1803,1982 1848,1985 1893,1982 1937,1979 1982,1976 2027,1976"/>
+                <TextEquiv>
+                    <Unicode>gein einer andern herrschenden Kirche macht solche und aus Lappen ein Ganzes zu machen. An des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="334,2070 2025,2029 1991,1980 334,2029"/>
+                <Baseline points="346,2060 373,2063 418,2066 462,2066 507,2066 552,2066 597,2066 642,2063 686,2066 731,2066 776,2063 821,2063 865,2066 910,2060 955,2057 1000,2054 1045,2057 1089,2054 1134,2051 1179,2051 1191,2051 1224,2051 1269,2048 1313,2045 1358,2045 1403,2042 1448,2042 1493,2042 1537,2039 1582,2039 1627,2036 1672,2033 1716,2030 1761,2027 1806,2021 1851,2021 1896,2021 1940,2018 1985,2018 2030,2015"/>
+                <TextEquiv>
+                    <Unicode>Nachrichten desto willkommener, und man lieset Herrn Doktors eiliger Arbeitsamkeit wird es als¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="338,2106 2019,2070 2021,2029 1902,2021 340,2070"/>
+                <Baseline points="349,2102 373,2105 418,2105 462,2108 507,2108 552,2108 597,2108 642,2108 686,2108 731,2108 776,2105 821,2105 865,2102 910,2099 955,2099 1000,2096 1045,2096 1089,2093 1134,2093 1179,2093 1191,2090 1218,2087 1263,2087 1307,2087 1352,2090 1397,2087 1442,2084 1487,2084 1531,2081 1576,2075 1621,2075 1666,2072 1711,2069 1755,2066 1800,2063 1845,2063 1890,2060 1934,2060 1979,2060 2024,2057"/>
+                <TextEquiv>
+                    <Unicode>ta Croze indianischen Christenstaat vielleicht mit dann nicht liegen, uns bald einen neuen Band zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="338,2153 2032,2106 2032,2068 1866,2066 338,2116"/>
+                <Baseline points="349,2143 370,2143 415,2146 459,2149 504,2149 549,2146 594,2149 639,2149 683,2149 728,2146 773,2146 818,2143 862,2141 907,2141 952,2138 997,2138 1042,2138 1086,2135 1131,2132 1176,2132 1194,2129 1230,2129 1275,2129 1319,2129 1364,2126 1409,2126 1454,2126 1499,2123 1543,2120 1588,2117 1633,2114 1678,2114 1722,2111 1767,2108 1812,2105 1857,2105 1902,2102 1946,2099 1991,2099 2036,2099"/>
+                <TextEquiv>
+                    <Unicode>aleyr Reitz als Acten von diesem oder jenem ehrwür= liefern. Wir finden in dem gegenwärtigen einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="338,2191 1978,2157 2029,2104 338,2153"/>
+                <Baseline points="349,2182 364,2185 409,2188 453,2188 498,2188 543,2188 588,2188 633,2191 677,2191 722,2188 767,2188 812,2182 856,2182 901,2182 946,2182 991,2179 1036,2176 1080,2176 1125,2173 1170,2170 1194,2170 1227,2170 1272,2170 1316,2170 1361,2167 1406,2164 1451,2164 1496,2164 1540,2161 1585,2158 1630,2155 1675,2152 1719,2152 1764,2149 1809,2149 1854,2146 1899,2143 1943,2141 1988,2141 2033,2138"/>
+                <TextEquiv>
+                    <Unicode>digen Ministerio. Herr D. Büsching erstreckt verbesserten Abdruck der allgemeinen Nachricht von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="332,2236 2027,2187 1993,2144 334,2191"/>
+                <Baseline points="346,2224 373,2227 418,2227 462,2230 507,2230 552,2230 597,2230 642,2230 686,2230 731,2230 776,2227 821,2227 865,2224 910,2224 955,2221 1000,2221 1045,2218 1089,2218 1134,2212 1179,2212 1197,2212 1227,2212 1272,2212 1316,2209 1361,2209 1406,2209 1451,2206 1496,2206 1540,2203 1585,2200 1630,2197 1675,2194 1719,2191 1764,2188 1809,2188 1854,2185 1899,2182 1943,2182 1988,2179 2033,2179"/>
+                <TextEquiv>
+                    <Unicode>sich in diesem Theil nur auf die petersburgischen Ge= den evangelisch-lutherischen Kirchen in Rußland, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="338,2276 2034,2227 2012,2184 340,2236"/>
+                <Baseline points="349,2266 373,2266 418,2269 462,2272 507,2272 552,2269 597,2272 642,2272 686,2272 731,2272 776,2269 821,2266 865,2266 910,2263 955,2260 1000,2260 1045,2257 1089,2257 1134,2254 1179,2254 1197,2254 1233,2254 1278,2254 1322,2251 1367,2251 1412,2248 1457,2245 1501,2245 1546,2242 1591,2239 1636,2236 1681,2233 1725,2230 1770,2227 1815,2227 1860,2224 1905,2224 1949,2221 1994,2221 2039,2221"/>
+                <TextEquiv>
+                    <Unicode>aeinen; wir erwarten von ihm vermuthlich noch den Rest mühsam zusammengebrachter Ueberbleibsel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="338,2314 2034,2272 2010,2227 340,2276"/>
+                <Baseline points="349,2305 382,2308 427,2311 471,2311 516,2311 561,2311 606,2314 650,2314 695,2311 740,2311 785,2308 830,2308 874,2308 919,2305 964,2305 1009,2302 1054,2299 1098,2296 1143,2296 1188,2296 1233,2293 1278,2293 1322,2296 1367,2293 1412,2290 1457,2287 1501,2284 1546,2284 1591,2281 1636,2278 1681,2275 1725,2275 1770,2272 1815,2269 1860,2266 1905,2266 1949,2263 1994,2260 2039,2257"/>
+                <TextEquiv>
+                    <Unicode>mertwürdigere Berichte von den Schicksalen der lu= Diese Ingredienz war freilich in so fern nöthig, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="336,2359 2034,2304 1974,2263 338,2314"/>
+                <Baseline points="349,2347 382,2350 427,2353 471,2353 516,2353 561,2353 606,2353 650,2353 695,2353 740,2350 785,2350 830,2347 874,2347 919,2347 964,2344 1009,2344 1054,2341 1098,2341 1143,2338 1188,2335 1233,2335 1278,2332 1322,2332 1367,2332 1412,2332 1457,2329 1501,2329 1546,2326 1591,2323 1636,2320 1681,2317 1725,2317 1770,2311 1815,2308 1860,2308 1905,2305 1949,2305 1994,2302 2039,2299"/>
+                <TextEquiv>
+                    <Unicode>cherischen Kirchen in Moscau und an andern Plä= Historien Supplemente fodern, und Geographien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="338,2393 2038,2348 2023,2304 340,2359"/>
+                <Baseline points="349,2388 385,2391 429,2391 474,2391 519,2391 564,2391 609,2391 653,2394 698,2391 743,2391 788,2391 833,2391 877,2388 922,2388 967,2385 1012,2385 1057,2382 1101,2379 1146,2379 1191,2379 1236,2376 1281,2373 1325,2370 1370,2370 1415,2370 1460,2367 1504,2367 1549,2364 1594,2361 1639,2361 1684,2358 1728,2356 1773,2353 1818,2350 1863,2347 1908,2347 1952,2344 1997,2341 2042,2338"/>
+                <TextEquiv>
+                    <Unicode>gen dieses weitläuftigen Reiches: wofern nur die Zusätze und Ausbesserungen. Hierauf folgt eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="344,2437 1781,2410 2034,2388 2036,2348 344,2406"/>
+                <Baseline points="355,2430 382,2433 427,2433 471,2433 516,2433 561,2433 606,2436 650,2436 695,2436 740,2433 785,2436 830,2430 874,2430 919,2427 964,2427 1009,2424 1054,2424 1098,2421 1143,2418 1188,2418 1233,2415 1278,2415 1322,2415 1367,2412 1412,2412 1457,2409 1501,2406 1546,2403 1591,2403 1636,2400 1681,2400 1725,2397 1770,2394 1815,2391 1860,2388 1905,2388 1949,2385 1994,2379 2039,2379"/>
+                <TextEquiv>
+                    <Unicode>sehr fertige und betreibsame Feder des Herrn Samm= ausführlichere Geschichte der St. Peterskirche, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="336,2480 2040,2427 2040,2386 1987,2384 897,2452 338,2437"/>
+                <Baseline points="349,2466 388,2469 432,2472 477,2472 522,2472 567,2472 612,2475 656,2475 701,2475 746,2475 791,2472 836,2469 880,2469 925,2469 970,2469 1015,2466 1060,2463 1104,2463 1149,2463 1194,2460 1239,2457 1284,2454 1328,2454 1373,2451 1418,2451 1463,2448 1507,2448 1552,2445 1597,2445 1642,2439 1687,2439 1731,2436 1776,2433 1821,2430 1866,2427 1911,2424 1955,2421 2000,2421 2045,2418"/>
+                <TextEquiv>
+                    <Unicode>ters nicht im Stich gelassen wird. Denn er klaget der vornehmsten in Petersburg, welche den meisten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="340,2516 1615,2501 2036,2476 2038,2427 340,2476"/>
+                <Baseline points="352,2508 385,2508 429,2511 474,2514 519,2514 564,2514 609,2514 653,2514 698,2517 743,2517 788,2514 833,2514 877,2514 922,2511 967,2508 1012,2508 1057,2505 1101,2505 1146,2505 1191,2502 1236,2499 1281,2496 1325,2496 1370,2493 1415,2490 1460,2490 1504,2490 1549,2487 1594,2484 1639,2484 1684,2478 1728,2475 1773,2475 1818,2472 1863,2469 1908,2466 1952,2463 1997,2460 2042,2463"/>
+                <TextEquiv>
+                    <Unicode>mit Recht über das Babel in den dortigen Urkunden, Theil des Buches füllet. Er erzählt ihren Bau und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="338,2554 2042,2516 2044,2476 1970,2467 897,2531 340,2516"/>
+                <Baseline points="349,2550 391,2550 435,2553 480,2556 525,2553 570,2553 615,2556 659,2553 704,2556 749,2556 794,2556 839,2553 883,2553 928,2553 973,2550 1018,2550 1063,2547 1107,2544 1152,2547 1197,2547 1242,2541 1286,2538 1331,2535 1376,2535 1421,2535 1466,2535 1510,2532 1555,2529 1600,2526 1645,2523 1690,2520 1734,2517 1779,2514 1824,2508 1869,2505 1914,2502 1958,2502 2003,2502 2048,2505"/>
+                <TextEquiv>
+                    <Unicode>Kirchenbüchern und dergleichen. In Petersburg giebt einige Verzeichnisse von Gebornen, Getrauten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="344,2620 1080,2599 1504,2644 1621,2573 2046,2556 2012,2508 1196,2569 346,2554"/>
+                <Baseline points="358,2591 394,2591 438,2594 483,2597 528,2597 573,2597 618,2600 662,2597 707,2597 752,2597 797,2594 842,2594 886,2594 931,2594 976,2594 1021,2591 1066,2591 1110,2588 1155,2588 1200,2585 1245,2582 1289,2579 1334,2579 1379,2579 1424,2576 1469,2579 1513,2576 1558,2573 1603,2570 1648,2568 1693,2565 1737,2562 1782,2559 1827,2556 1872,2550 1917,2547 1961,2544 2006,2547 2051,2547"/>
+                <TextEquiv>
+                    <Unicode>har es Mühe gekostet den Staub solcher halbvermo= und Begrabenen, z. E. in sechzig Jahren an ge=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_20_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="1917,2601 1972,2597 1998,2616 2046,2614 2048,2556 2012,2558 1995,2548 1983,2548 1976,2554 1966,2552 1955,2558 1949,2552 1934,2561 1919,2561"/>
+                <Baseline points="1931,2588 1964,2588 2009,2588 2054,2585"/>
+                <TextEquiv>
+                    <Unicode>tauften</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
