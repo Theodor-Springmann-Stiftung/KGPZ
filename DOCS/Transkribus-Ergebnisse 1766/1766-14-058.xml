@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=26_07_2024_13:34</Creator>
+        <Created>2024-07-26T12:17:43.973+02:00</Created>
+        <LastChange>2024-07-26T13:34:17.764+02:00</LastChange>
+        <TranskribusMetadata docId="3439711" pageId="75630718" pageNr="4" tsid="179584016" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=OAVSZWQMDPRVUIXQSLFMCWGY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NWBPNATDCQBSLIURXEVNJZUS" imageId="61367107"/>
+    </Metadata>
+    <Page imageFilename="75630718.jpg" imageWidth="2663" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721993657765" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_14"/>
+                <RegionRefIndexed index="1" regionRef="r_30"/>
+                <RegionRefIndexed index="2" regionRef="r_31"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_14" custom="readingOrder {index:0;}">
+            <Coords points="744,430 1647,421 1647,2750 751,2750"/>
+            <TextLine id="r_14_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="762,479 1607,466 1607,415 1353,400 1211,434 932,407 762,432"/>
+                <Baseline points="773,468 806,465 851,465 895,465 940,465 985,468 1030,465 1074,462 1119,462 1164,462 1209,462 1254,462 1298,462 1343,462 1388,459 1433,459 1478,459 1522,459 1567,459 1612,462"/>
+                <TextEquiv>
+                    <Unicode>re ein Gedicht, welches weit mehr gefallen würde,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="762,515 1618,508 1597,464 762,479"/>
+                <Baseline points="773,510 815,507 859,507 904,504 949,507 994,507 1039,504 1083,504 1128,504 1173,504 1218,504 1263,504 1307,504 1352,504 1397,504 1442,501 1487,501 1531,501 1576,498 1621,498"/>
+                <TextEquiv>
+                    <Unicode>als viele Oden, die bey Gelegenheit desselben Sterb=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="767,563 1501,565 1622,548 1624,506 769,517"/>
+                <Baseline points="779,552 821,549 865,546 910,546 955,546 1000,546 1045,546 1089,546 1134,546 1179,546 1224,546 1269,546 1313,543 1358,543 1403,543 1448,543 1493,540 1537,540 1582,540 1627,540"/>
+                <TextEquiv>
+                    <Unicode>falles verfertiget worden sind, wenn es nicht mit ei=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="758,593 1614,591 1594,544 758,565"/>
+                <Baseline points="770,591 812,588 856,588 901,588 946,591 991,588 1036,588 1080,588 1125,588 1170,585 1215,585 1260,585 1304,585 1349,585 1394,588 1439,585 1484,585 1528,582 1573,582 1618,582"/>
+                <TextEquiv>
+                    <Unicode>nem irreligieusen Tone die Andacht angriffe, welche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="762,639 1618,633 1618,595 1586,589 762,599"/>
+                <Baseline points="773,630 818,630 862,630 907,630 952,630 997,630 1042,630 1086,627 1131,627 1176,627 1221,627 1266,627 1310,627 1355,627 1400,627 1445,627 1490,624 1534,624 1579,624 1624,624"/>
+                <TextEquiv>
+                    <Unicode>die Pariser, während der Krankheit des Prinzen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="767,690 1616,671 1616,635 1575,629 767,642"/>
+                <Baseline points="779,677 815,671 859,671 904,671 949,671 994,671 1039,671 1083,671 1128,671 1173,668 1218,668 1263,668 1307,668 1352,668 1397,668 1442,665 1487,665 1531,662 1576,662 1621,662"/>
+                <TextEquiv>
+                    <Unicode>für desselben Erhaltung, bey der heil. Genevieve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="758,722 1586,720 1620,675 758,695"/>
+                <Baseline points="770,716 773,716 818,713 862,713 907,713 952,713 997,713 1042,713 1086,713 1131,710 1176,710 1221,710 1266,710 1310,710 1355,710 1400,710 1445,707 1490,707 1534,707 1579,704 1624,704"/>
+                <TextEquiv>
+                    <Unicode>angestellet haben, und wenn es nicht auf eine är¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="767,773 1616,764 1618,711 769,724"/>
+                <Baseline points="779,761 818,758 862,755 907,755 952,755 997,755 1042,752 1086,752 1131,752 1176,752 1221,752 1266,752 1310,752 1355,752 1400,752 1445,749 1490,746 1534,746 1579,746 1624,749"/>
+                <TextEquiv>
+                    <Unicode>gerliche Weise dem Bildnisse Heinrichs des Vierten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="758,809 1624,803 1626,754 760,775"/>
+                <Baseline points="770,797 776,797 821,797 865,794 910,797 955,797 1000,794 1045,794 1089,794 1134,794 1179,794 1224,794 1269,791 1313,791 1358,791 1403,791 1448,791 1493,791 1537,791 1582,788 1627,788"/>
+                <TextEquiv>
+                    <Unicode>mehrere Kraft, als dem Kasten der heil. Genevieve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="762,851 1614,834 1588,794 762,813"/>
+                <Baseline points="773,845 812,839 856,839 901,836 946,836 991,836 1036,833 1080,833 1125,833 1170,833 1215,833 1260,833 1304,833 1349,833 1394,833 1439,833 1484,833 1528,833 1573,830 1618,827"/>
+                <TextEquiv>
+                    <Unicode>zuschreibe. Les Grees &amp; les Romains, sagt er, in-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="767,891 1622,879 1622,839 1582,834 767,855"/>
+                <Baseline points="779,877 821,880 865,877 910,877 955,874 1000,874 1045,874 1089,874 1134,874 1179,874 1224,874 1269,871 1313,874 1358,871 1403,874 1448,871 1493,871 1537,871 1582,871 1627,868"/>
+                <TextEquiv>
+                    <Unicode>voquoient des Heros &amp; non pas des Bergeres. (Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="764,932 1622,925 1622,877 764,898"/>
+                <Baseline points="776,922 821,919 865,919 910,919 955,919 1000,919 1045,916 1089,916 1134,916 1179,916 1224,916 1269,916 1313,916 1358,916 1403,916 1448,913 1493,913 1537,913 1582,910 1627,910"/>
+                <TextEquiv>
+                    <Unicode>Griechen und Römer riefen Helden, und keine Hir=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="771,972 1423,997 1489,963 1622,974 1622,923 1552,919 771,934"/>
+                <Baseline points="782,961 821,964 865,961 910,961 955,961 1000,961 1045,961 1089,958 1134,958 1179,958 1224,958 1269,961 1313,961 1358,961 1403,961 1448,958 1493,958 1537,955 1582,955 1627,952"/>
+                <TextEquiv>
+                    <Unicode>tinnen an.) Der schöne Beschluß dieses Gedichts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="773,1016 805,1031 843,1016 855,1023 898,1014 936,1025 953,1014 972,1025 1004,1023 1006,976 989,972 894,980 879,968 858,976 775,974"/>
+                <Baseline points="785,1009 827,1006 871,1003 916,1003 961,1000 1006,1000"/>
+                <TextEquiv>
+                    <Unicode>ist folgender:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="847,1065 1556,1046 1618,1067 1620,1004 1491,1012 1395,980 1055,980 974,1023 849,1021"/>
+                <Baseline points="859,1054 862,1054 907,1048 952,1048 997,1048 1042,1048 1086,1048 1131,1048 1176,1045 1221,1045 1266,1045 1310,1045 1355,1045 1400,1042 1445,1042 1490,1045 1534,1042 1579,1042 1624,1042"/>
+                <TextEquiv>
+                    <Unicode>Ne me démande point ce qui fonda sa gloire?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="853,1103 1580,1093 1580,1048 855,1063"/>
+                <Baseline points="868,1092 913,1092 958,1089 1003,1089 1048,1089 1092,1086 1137,1086 1182,1086 1227,1086 1272,1086 1316,1086 1361,1083 1406,1083 1451,1083 1496,1083 1540,1083 1585,1083"/>
+                <TextEquiv>
+                    <Unicode>Quels funestes exploits assurent sa mémoire?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="847,1141 1552,1129 1618,1150 1620,1088 847,1101"/>
+                <Baseline points="859,1134 904,1134 949,1131 994,1131 1039,1128 1083,1128 1128,1128 1173,1128 1218,1128 1263,1128 1307,1125 1352,1125 1397,1125 1442,1122 1487,1122 1531,1125 1576,1125 1621,1128"/>
+                <TextEquiv>
+                    <Unicode>Quels Peuples malbeureux on le vit conquerit?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="851,1182 1586,1184 1586,1141 1552,1131 851,1150"/>
+                <Baseline points="862,1176 874,1176 919,1176 964,1173 1009,1173 1054,1170 1098,1173 1143,1170 1188,1170 1233,1170 1278,1167 1322,1167 1367,1167 1412,1167 1457,1167 1501,1167 1546,1167 1591,1167"/>
+                <TextEquiv>
+                    <Unicode>Ce qu'il fit sur la Terre? Il apprit à mourir.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="767,1281 1628,1264 1628,1228 1584,1220 769,1232"/>
+                <Baseline points="779,1272 782,1272 827,1269 871,1269 916,1263 961,1263 1006,1263 1051,1260 1095,1260 1140,1260 1185,1260 1230,1257 1275,1257 1319,1257 1364,1257 1409,1257 1454,1257 1499,1257 1543,1257 1588,1254 1633,1257"/>
+                <TextEquiv>
+                    <Unicode>Ruhm gründete? Was für klägliche Verrichtungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="777,1321 1628,1302 1628,1266 1563,1260 777,1277"/>
+                <Baseline points="788,1313 827,1310 871,1310 916,1307 961,1304 1006,1304 1051,1301 1095,1301 1140,1301 1185,1301 1230,1298 1275,1298 1319,1298 1364,1298 1409,1298 1454,1298 1499,1298 1543,1298 1588,1295 1633,1295"/>
+                <TextEquiv>
+                    <Unicode>sein Andenken bey der Nachwelt versicherten? Was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="777,1364 1628,1355 1628,1304 779,1321"/>
+                <Baseline points="791,1355 827,1352 871,1349 916,1349 961,1346 1006,1346 1051,1343 1095,1343 1140,1343 1185,1340 1230,1340 1275,1340 1319,1340 1364,1343 1409,1340 1454,1340 1499,1340 1543,1340 1588,1340 1633,1343"/>
+                <TextEquiv>
+                    <Unicode>für unglückliche Völker er bezwang? Was er auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="771,1398 1419,1398 1421,1342 771,1368"/>
+                <Baseline points="782,1394 797,1394 842,1394 886,1391 931,1391 976,1388 1021,1385 1066,1385 1110,1385 1155,1385 1200,1385 1245,1385 1289,1385 1334,1382 1379,1382 1424,1385"/>
+                <TextEquiv>
+                    <Unicode>der Erde that? Er lernete zu sterben.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="968,1448 1148,1457 1228,1440 1254,1459 1359,1444 1417,1457 1434,1455 1436,1395 968,1408"/>
+                <Baseline points="979,1442 991,1442 1036,1442 1080,1439 1125,1439 1170,1439 1215,1439 1260,1439 1304,1439 1349,1436 1394,1436 1439,1439"/>
+                <TextEquiv>
+                    <Unicode>London, den 28. Januar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="815,1503 1635,1493 1635,1453 1512,1429 1332,1459 815,1434"/>
+                <Baseline points="827,1496 833,1496 877,1493 922,1493 967,1490 1012,1490 1057,1487 1101,1487 1146,1487 1191,1487 1236,1484 1281,1487 1325,1484 1370,1484 1415,1484 1460,1484 1504,1484 1549,1484 1594,1481 1639,1481"/>
+                <TextEquiv>
+                    <Unicode>Die Herren Eduard Montagu, und Ilnox Agen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="767,1546 1628,1537 1630,1486 767,1514"/>
+                <Baseline points="779,1540 782,1540 827,1540 871,1537 916,1534 961,1534 1006,1531 1051,1531 1095,1528 1140,1528 1185,1525 1230,1525 1275,1525 1319,1525 1364,1525 1409,1525 1454,1522 1499,1525 1543,1522 1588,1522 1633,1522"/>
+                <TextEquiv>
+                    <Unicode>ten, von Virginien und Georgien, haben in diesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="777,1588 1628,1575 1628,1537 1527,1525 779,1548"/>
+                <Baseline points="788,1579 827,1579 871,1576 916,1576 961,1573 1006,1573 1051,1570 1095,1570 1140,1567 1185,1564 1230,1567 1275,1567 1319,1567 1364,1564 1409,1564 1454,1564 1499,1564 1543,1564 1588,1564 1633,1564"/>
+                <TextEquiv>
+                    <Unicode>Tagen der Parlamente Bittschriften wegen Aufhe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="773,1630 1630,1616 1630,1573 1552,1567 775,1590"/>
+                <Baseline points="785,1621 827,1621 871,1618 916,1615 961,1615 1006,1612 1051,1612 1095,1609 1140,1609 1185,1606 1230,1606 1275,1606 1319,1606 1364,1606 1409,1606 1454,1606 1499,1603 1543,1603 1588,1603 1633,1603"/>
+                <TextEquiv>
+                    <Unicode>bung der Stempel=Acte übergeben. Ersterer führet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="779,1673 1590,1660 1630,1654 1633,1618 779,1633"/>
+                <Baseline points="791,1666 830,1663 874,1660 919,1657 964,1657 1009,1654 1054,1651 1098,1651 1143,1651 1188,1648 1233,1648 1278,1648 1322,1648 1367,1645 1412,1648 1457,1648 1501,1645 1546,1645 1591,1645 1636,1648"/>
+                <TextEquiv>
+                    <Unicode>insonderheit an, daß die erstaunende Ausgaben beym</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="779,1717 1628,1700 1628,1656 1539,1647 779,1673"/>
+                <Baseline points="791,1708 827,1705 871,1702 916,1699 961,1699 1006,1696 1051,1696 1095,1693 1140,1693 1185,1693 1230,1690 1275,1690 1319,1693 1364,1690 1409,1690 1454,1690 1499,1687 1543,1687 1588,1687 1633,1690"/>
+                <TextEquiv>
+                    <Unicode>letzten Kriege, und der gefallene Preiß des Tabacks</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="779,1753 1628,1736 1628,1700 1578,1692 779,1715"/>
+                <Baseline points="791,1749 827,1743 871,1743 916,1740 961,1737 1006,1737 1051,1737 1095,1734 1140,1734 1185,1734 1230,1734 1275,1731 1319,1731 1364,1731 1409,1731 1454,1731 1499,1731 1543,1728 1588,1728 1633,1728"/>
+                <TextEquiv>
+                    <Unicode>die Colonie außer Stand gesetzt hätte, den neuen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="779,1802 1124,1774 1578,1787 1628,1781 1630,1738 781,1753"/>
+                <Baseline points="791,1797 827,1788 871,1785 916,1785 961,1782 1006,1779 1051,1779 1095,1776 1140,1776 1185,1776 1230,1776 1275,1776 1319,1773 1364,1773 1409,1773 1454,1773 1499,1773 1543,1770 1588,1770 1633,1773"/>
+                <TextEquiv>
+                    <Unicode>Impost zu ertragen. Major James, welcher von de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="773,1851 1059,1823 1586,1832 1628,1825 1630,1787 775,1800"/>
+                <Baseline points="785,1830 827,1830 871,1827 916,1824 961,1824 1006,1821 1051,1818 1095,1818 1140,1818 1185,1818 1230,1815 1275,1815 1319,1815 1364,1815 1409,1815 1454,1815 1499,1815 1543,1815 1588,1812 1633,1815"/>
+                <TextEquiv>
+                    <Unicode>nen verschiedenen in Amerika der Stempel=Acte wegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="777,1885 1628,1861 1605,1817 777,1851"/>
+                <Baseline points="788,1872 827,1872 871,1869 916,1866 961,1863 1006,1860 1051,1860 1095,1860 1140,1857 1185,1857 1230,1857 1275,1857 1319,1857 1364,1857 1409,1854 1454,1854 1499,1854 1543,1854 1588,1854 1633,1854"/>
+                <TextEquiv>
+                    <Unicode>entstandenen tumultuarischen Auftritten ein Augen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="781,1925 1630,1910 1630,1866 1592,1861 783,1887"/>
+                <Baseline points="794,1917 830,1914 874,1911 919,1908 964,1905 1009,1905 1054,1899 1098,1899 1143,1899 1188,1899 1233,1899 1278,1896 1322,1899 1367,1896 1412,1896 1457,1896 1501,1896 1546,1896 1591,1893 1636,1896"/>
+                <TextEquiv>
+                    <Unicode>zeuge gewesen, ist befehliget den 28sten vor dem Par=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="773,1967 1624,1944 1624,1912 1480,1893 1359,1921 1300,1897 775,1925"/>
+                <Baseline points="785,1955 824,1952 868,1949 913,1949 958,1943 1003,1943 1048,1943 1092,1940 1137,1940 1182,1937 1227,1937 1272,1937 1316,1937 1361,1937 1406,1934 1451,1937 1496,1934 1540,1934 1585,1937 1630,1937"/>
+                <TextEquiv>
+                    <Unicode>lamente einen mündlichen Bericht, deswegen abzu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="786,2014 1366,1978 1611,1993 1628,1942 788,1963"/>
+                <Baseline points="797,1997 827,1994 871,1991 916,1991 961,1985 1006,1985 1051,1985 1095,1982 1140,1979 1185,1979 1230,1979 1275,1979 1319,1976 1364,1976 1409,1976 1454,1976 1499,1976 1543,1979 1588,1979 1633,1979"/>
+                <TextEquiv>
+                    <Unicode>statten. Den 27sten wollte man dem Unterhause</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="777,2052 1628,2031 1628,1993 1370,1978 779,2010"/>
+                <Baseline points="788,2036 827,2036 871,2033 916,2033 961,2033 1006,2027 1051,2024 1095,2024 1140,2024 1185,2024 1230,2021 1275,2021 1319,2021 1364,2021 1409,2021 1454,2021 1499,2021 1543,2018 1588,2018 1633,2021"/>
+                <TextEquiv>
+                    <Unicode>eine Bittschrift der General Versammlung aus Neu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="777,2096 1628,2075 1628,2037 1567,2024 779,2050"/>
+                <Baseline points="788,2081 827,2078 871,2075 916,2075 961,2072 1006,2069 1051,2069 1095,2066 1140,2066 1185,2066 1230,2066 1275,2063 1319,2063 1364,2063 1409,2063 1454,2063 1499,2063 1543,2063 1588,2063 1633,2060"/>
+                <TextEquiv>
+                    <Unicode>yorck, wegen der Stempel=Acte übergeben, es wurde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="777,2128 1624,2111 1624,2075 1417,2065 779,2096"/>
+                <Baseline points="791,2120 824,2120 868,2120 913,2117 958,2114 1003,2111 1048,2111 1092,2111 1137,2108 1182,2108 1227,2108 1272,2108 1316,2105 1361,2105 1406,2105 1451,2105 1496,2105 1540,2105 1585,2105 1630,2108"/>
+                <TextEquiv>
+                    <Unicode>aber selbige nicht angenommen, und ohnerachtet Hr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="786,2175 1622,2156 1622,2118 1565,2105 788,2126"/>
+                <Baseline points="797,2161 821,2161 865,2161 910,2158 955,2155 1000,2155 1045,2152 1089,2152 1134,2149 1179,2149 1224,2149 1269,2149 1313,2146 1358,2146 1403,2146 1448,2146 1493,2146 1537,2146 1582,2146 1627,2146"/>
+                <TextEquiv>
+                    <Unicode>Pitt zum besten obgedachter Versammlung eine sehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="783,2219 1630,2196 1630,2153 1582,2151 786,2177"/>
+                <Baseline points="797,2203 830,2203 874,2200 919,2200 964,2197 1009,2194 1054,2194 1098,2191 1143,2191 1188,2194 1233,2188 1278,2188 1322,2188 1367,2188 1412,2188 1457,2188 1501,2188 1546,2188 1591,2188 1636,2188"/>
+                <TextEquiv>
+                    <Unicode>nachdrückliche Rede hielt; so war doch solche von kei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="777,2259 1628,2240 1628,2196 1569,2189 777,2209"/>
+                <Baseline points="788,2245 827,2242 871,2242 916,2239 961,2239 1006,2236 1051,2236 1095,2236 1140,2233 1185,2233 1230,2233 1275,2230 1319,2230 1364,2227 1409,2230 1454,2230 1499,2230 1543,2230 1588,2230 1633,2230"/>
+                <TextEquiv>
+                    <Unicode>ner Würkung, und die Sache wurde bis zur nächsten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="781,2285 1628,2287 1626,2242 1495,2230 781,2257"/>
+                <Baseline points="794,2284 827,2284 871,2284 916,2281 961,2281 1006,2278 1051,2278 1095,2278 1140,2275 1185,2275 1230,2275 1275,2272 1319,2269 1364,2272 1409,2272 1454,2272 1499,2272 1543,2272 1588,2272 1633,2275"/>
+                <TextEquiv>
+                    <Unicode>Seßion verschoben. Die Irrungen in Ansehung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="786,2338 2484,2325 2484,2285 786,2287"/>
+                <Baseline points="797,2329 833,2326 877,2323 922,2323 967,2320 1012,2320 1057,2317 1101,2317 1146,2317 1191,2314 1236,2314 1281,2314 1325,2314 1370,2311 1415,2314 1460,2314 1504,2314 1549,2314 1594,2314 1639,2314 1660,2320 1705,2320 1749,2320 1794,2320 1839,2317 1884,2320 1928,2320 1973,2320 2018,2320 2063,2323 2108,2323 2152,2326 2197,2326 2242,2326 2287,2326 2332,2326 2376,2326 2421,2326 2466,2320 2490,2320"/>
+                <TextEquiv>
+                    <Unicode>des Comercien, zwischen unserm und dem Portugie= Herr Dumaresy, ein Englischer Prediger, komm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="792,2384 1628,2367 1618,2319 792,2333"/>
+                <Baseline points="803,2370 827,2367 871,2364 916,2364 961,2364 1006,2361 1051,2358 1095,2358 1140,2358 1185,2356 1230,2356 1275,2356 1319,2356 1364,2353 1409,2353 1454,2356 1499,2356 1543,2356 1588,2356 1633,2356"/>
+                <TextEquiv>
+                    <Unicode>sichen Hofe, sind dem Punkt ihrer Beylegung noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="777,2420 1633,2408 1635,2367 777,2380"/>
+                <Baseline points="788,2412 830,2409 874,2406 919,2403 964,2400 1009,2400 1054,2400 1098,2400 1143,2400 1188,2397 1233,2397 1278,2397 1322,2394 1367,2394 1412,2397 1457,2394 1501,2394 1546,2394 1591,2394 1636,2397"/>
+                <TextEquiv>
+                    <Unicode>nicht so nahe, als man bisher geglaubt hat Es sind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_47" custom="readingOrder {index:46;}">
+                <Coords points="777,2467 1635,2450 1635,2410 1567,2401 777,2422"/>
+                <Baseline points="788,2457 833,2451 877,2448 922,2445 967,2442 1012,2442 1057,2442 1101,2442 1146,2442 1191,2442 1236,2439 1281,2439 1325,2436 1370,2436 1415,2436 1460,2436 1504,2439 1549,2439 1594,2439 1639,2439"/>
+                <TextEquiv>
+                    <Unicode>zu dem Ende unserem Minister am Portugiesichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_48" custom="readingOrder {index:47;}">
+                <Coords points="779,2509 1639,2490 1639,2446 1321,2435 1222,2463 1167,2441 779,2467"/>
+                <Baseline points="791,2493 794,2496 839,2493 883,2490 928,2487 973,2487 1018,2484 1063,2484 1107,2484 1152,2484 1197,2481 1242,2484 1286,2481 1331,2478 1376,2478 1421,2478 1466,2478 1510,2481 1555,2484 1600,2478 1645,2481"/>
+                <TextEquiv>
+                    <Unicode>neue Verhaltungs=Befehle zugesandt worden. Zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_49" custom="readingOrder {index:48;}">
+                <Coords points="786,2545 1630,2528 1630,2488 1542,2482 786,2503"/>
+                <Baseline points="797,2538 830,2535 874,2535 919,2529 964,2529 1009,2526 1054,2523 1098,2523 1143,2523 1188,2523 1233,2523 1278,2523 1322,2523 1367,2523 1412,2520 1457,2523 1501,2520 1546,2520 1591,2523 1636,2520"/>
+                <TextEquiv>
+                    <Unicode>Unterhalt von 16000 Matrosen zum Dienst des jetzi=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_50" custom="readingOrder {index:49;}">
+                <Coords points="777,2600 1114,2569 1235,2598 1326,2575 1385,2607 1635,2583 1635,2530 1550,2522 777,2539"/>
+                <Baseline points="788,2582 833,2576 877,2576 922,2573 967,2570 1012,2568 1057,2565 1101,2565 1146,2565 1191,2565 1236,2565 1281,2565 1325,2565 1370,2565 1415,2568 1460,2565 1504,2565 1549,2565 1594,2565 1639,2565"/>
+                <TextEquiv>
+                    <Unicode>gen Jahres, hat das Unterhauß 832000 Pfund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_tl_51" custom="readingOrder {index:50;}">
+                <Coords points="779,2636 803,2628 832,2649 949,2653 1010,2617 1082,2662 1127,2660 1129,2571 959,2579 919,2594 870,2577 781,2594"/>
+                <Baseline points="794,2621 821,2621 865,2618 910,2618 955,2615 1000,2612 1045,2612 1089,2612 1134,2612"/>
+                <TextEquiv>
+                    <Unicode>Sterling bewilliget.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_30" custom="readingOrder {index:1;}">
+            <Coords points="1647,421 2514,413 2526,2031 1647,2031"/>
+            <TextLine id="r_30_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1844,462 1876,476 2283,474 2283,419 2118,436 2082,424 2052,438 2005,426 1978,443 1897,407 1844,415"/>
+                <Baseline points="1857,465 1902,462 1946,462 1991,462 2036,462 2081,462 2126,465 2170,462 2215,462 2260,465 2287,465"/>
+                <TextEquiv>
+                    <Unicode>Rom, den 11. Januar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1679,515 2488,502 2488,449 2223,481 1679,455"/>
+                <Baseline points="1690,501 1731,501 1776,501 1821,504 1866,504 1911,504 1955,504 2000,504 2045,504 2090,504 2135,504 2179,504 2224,504 2269,504 2314,504 2358,504 2403,504 2448,501 2493,498"/>
+                <TextEquiv>
+                    <Unicode>Ohnerachtet der verstorbene Prätendent in seinem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1643,544 2213,565 2482,544 2482,504 1825,523 1643,489"/>
+                <Baseline points="1654,540 1681,540 1725,543 1770,543 1815,543 1860,543 1905,543 1949,543 1994,546 2039,546 2084,546 2129,546 2173,546 2218,546 2263,546 2308,546 2353,546 2397,546 2442,543 2487,537"/>
+                <TextEquiv>
+                    <Unicode>Testament verordnet, daß sein Leichnam ohne alles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1652,595 2486,593 2486,544 1652,544"/>
+                <Baseline points="1663,582 1708,582 1752,582 1797,585 1842,585 1887,585 1931,585 1976,585 2021,585 2066,588 2111,588 2155,588 2200,588 2245,588 2290,588 2335,588 2379,588 2424,585 2469,582 2490,582"/>
+                <TextEquiv>
+                    <Unicode>Gepränge beygesetzt werden sollte: so hat der Pabst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1645,635 2482,629 2482,595 2452,591 1645,591"/>
+                <Baseline points="1657,624 1681,624 1725,624 1770,624 1815,624 1860,624 1905,627 1949,627 1994,627 2039,627 2084,627 2129,627 2173,630 2218,630 2263,630 2308,630 2353,630 2397,630 2442,624 2487,621"/>
+                <TextEquiv>
+                    <Unicode>dennoch ein prächtigeres Leichenbegängniß anzuordnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1643,680 2484,675 2484,635 2456,629 1643,633"/>
+                <Baseline points="1654,665 1699,665 1743,665 1788,668 1833,665 1878,665 1923,665 1967,665 2012,665 2057,665 2102,668 2146,668 2191,671 2236,671 2281,671 2326,671 2370,671 2415,668 2460,665 2490,665"/>
+                <TextEquiv>
+                    <Unicode>beliebet. Es wurde nämlich den 7ten dieses, dessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1643,718 2482,720 2467,671 1643,680"/>
+                <Baseline points="1654,707 1681,707 1725,707 1770,707 1815,707 1860,707 1905,707 1949,707 1994,707 2039,707 2084,707 2129,710 2173,710 2218,710 2263,713 2308,710 2353,710 2397,710 2442,707 2487,704"/>
+                <TextEquiv>
+                    <Unicode>entseelter Körper, nachdem er vorhero in der Kirch¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1647,762 2482,758 2482,722 2452,716 1647,716"/>
+                <Baseline points="1660,749 1678,749 1722,749 1767,749 1812,749 1857,749 1902,749 1946,749 1991,749 2036,749 2081,749 2126,749 2170,752 2215,752 2260,752 2305,752 2350,752 2394,752 2439,749 2484,743"/>
+                <TextEquiv>
+                    <Unicode>zu den zwölf Aposteln, im Königlichen Ornat von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1643,800 2484,798 2484,762 2317,754 1643,767"/>
+                <Baseline points="1654,794 1684,791 1728,791 1773,791 1818,791 1863,791 1908,791 1952,791 1997,791 2042,791 2087,791 2132,791 2176,791 2221,794 2266,794 2311,794 2356,794 2400,794 2445,791 2490,788"/>
+                <TextEquiv>
+                    <Unicode>goldenen Brocat und rothen Carmoisin, mit Herme=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1643,841 2484,839 2461,794 1643,803"/>
+                <Baseline points="1654,830 1699,833 1743,833 1788,833 1833,830 1878,833 1923,833 1967,833 2012,833 2057,833 2102,833 2146,833 2191,836 2236,836 2281,836 2326,836 2370,836 2415,836 2460,830 2490,830"/>
+                <TextEquiv>
+                    <Unicode>lin gefütterten sammetnen Mantel, mit der Krone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1645,881 2484,879 2484,839 1645,843"/>
+                <Baseline points="1657,871 1684,874 1728,871 1773,871 1818,871 1863,874 1908,874 1952,874 1997,874 2042,877 2087,874 2132,874 2176,874 2221,874 2266,874 2311,877 2356,874 2400,877 2445,874 2490,868"/>
+                <TextEquiv>
+                    <Unicode>auf dem Haupt, dem Zepter in der Rechten, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1645,919 2490,919 2477,875 2251,900 1645,881"/>
+                <Baseline points="1657,910 1702,910 1746,913 1791,910 1836,913 1881,913 1926,913 1970,913 2015,916 2060,916 2105,916 2149,916 2194,916 2239,916 2284,916 2329,916 2373,916 2418,916 2463,913 2493,913"/>
+                <TextEquiv>
+                    <Unicode>dem Reichsapfel in der linken Hand, auf ein daselbst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1647,968 2492,966 2480,919 1647,921"/>
+                <Baseline points="1660,958 1690,955 1734,952 1779,952 1824,955 1869,955 1914,955 1958,955 2003,955 2048,958 2093,955 2138,958 2182,958 2227,958 2272,958 2317,958 2361,958 2406,958 2451,955 2496,952"/>
+                <TextEquiv>
+                    <Unicode>zubereitetes prächtiges Prangbette war ausgestellet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1647,1006 2488,1002 2465,961 1647,970"/>
+                <Baseline points="1660,994 1687,994 1731,994 1776,997 1821,994 1866,997 1911,997 1955,994 2000,997 2045,997 2090,997 2135,997 2179,1000 2224,1000 2269,1000 2314,1000 2358,1000 2403,1000 2448,1000 2493,991"/>
+                <TextEquiv>
+                    <Unicode>worden, um 6 Uhr Abends unter einer ansehnlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1654,1044 2422,1059 2488,1048 2486,999 1652,1002"/>
+                <Baseline points="1666,1036 1711,1036 1755,1036 1800,1036 1845,1039 1890,1039 1934,1036 1979,1036 2024,1039 2069,1039 2114,1039 2158,1039 2203,1039 2248,1042 2293,1042 2338,1042 2382,1042 2427,1042 2472,1039 2493,1036"/>
+                <TextEquiv>
+                    <Unicode>Begleitung nach dem Vatican gebracht, und daselbst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1652,1088 2497,1088 2497,1044 1652,1046"/>
+                <Baseline points="1663,1080 1693,1077 1737,1077 1782,1080 1827,1080 1872,1080 1917,1080 1961,1077 2006,1080 2051,1080 2096,1080 2141,1080 2185,1083 2230,1080 2275,1083 2320,1083 2364,1083 2409,1083 2454,1080 2499,1074"/>
+                <TextEquiv>
+                    <Unicode>in der Capelle des Chores nach der Commendation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1652,1133 2486,1133 2486,1093 2450,1088 1652,1088"/>
+                <Baseline points="1663,1122 1684,1122 1728,1119 1773,1122 1818,1122 1863,1122 1908,1122 1952,1122 1997,1122 2042,1122 2087,1125 2132,1125 2176,1125 2221,1122 2266,1122 2311,1125 2356,1125 2400,1125 2445,1122 2490,1119"/>
+                <TextEquiv>
+                    <Unicode>in einen cypressenen Sarg gelegt, und alsdenn bey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1647,1175 2492,1167 2492,1129 1647,1133"/>
+                <Baseline points="1660,1170 1690,1164 1734,1161 1779,1161 1824,1164 1869,1161 1914,1161 1958,1161 2003,1161 2048,1164 2093,1164 2138,1164 2182,1164 2227,1164 2272,1164 2317,1167 2361,1167 2406,1167 2451,1164 2496,1161"/>
+                <TextEquiv>
+                    <Unicode>gesetzet. Vor einigen Tagen hat man hier einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="822,1226 2492,1209 2492,1167 822,1177"/>
+                <Baseline points="833,1224 871,1224 916,1224 961,1221 1006,1218 1051,1218 1095,1218 1140,1218 1185,1215 1230,1215 1275,1215 1319,1215 1364,1215 1409,1215 1454,1215 1499,1215 1543,1215 1588,1215 1633,1215 1654,1212 1690,1203 1734,1203 1779,1203 1824,1203 1869,1203 1914,1203 1958,1203 2003,1203 2048,1203 2093,1203 2138,1206 2182,1203 2227,1206 2272,1206 2317,1206 2361,1206 2406,1206 2451,1203 2496,1203"/>
+                <TextEquiv>
+                    <Unicode>(Das ist: Man frage mich nicht, was seinen Priester arretirt, welcher bey dem Cardinal Vicario</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1647,1251 2147,1249 2194,1275 2494,1251 2494,1209 1647,1218"/>
+                <Baseline points="1660,1245 1693,1245 1737,1245 1782,1245 1827,1245 1872,1245 1917,1245 1961,1245 2006,1245 2051,1245 2096,1245 2141,1245 2185,1248 2230,1248 2275,1248 2320,1248 2364,1248 2409,1248 2454,1245 2499,1242"/>
+                <TextEquiv>
+                    <Unicode>ist angeklaget worden, daß er an einem Tage ver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1654,1300 2490,1300 2490,1260 2458,1254 1654,1254"/>
+                <Baseline points="1666,1286 1711,1286 1755,1286 1800,1284 1845,1286 1890,1286 1934,1286 1979,1286 2024,1286 2069,1286 2114,1286 2158,1286 2203,1289 2224,1289 2239,1289 2272,1286 2317,1289 2361,1289 2406,1289 2451,1286 2496,1284"/>
+                <TextEquiv>
+                    <Unicode>schiedene Messen gehalten habe. Besonders aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1654,1340 2494,1338 2494,1296 2465,1294 1654,1300"/>
+                <Baseline points="1666,1331 1693,1328 1737,1328 1782,1328 1827,1328 1872,1328 1917,1328 1961,1328 2006,1328 2051,1331 2096,1328 2141,1328 2185,1328 2230,1328 2275,1331 2320,1331 2364,1331 2409,1331 2454,1328 2499,1325"/>
+                <TextEquiv>
+                    <Unicode>giebt man ihm Schuld, daß er am Weynachttage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="1652,1374 1753,1404 2497,1389 2497,1332 1652,1342"/>
+                <Baseline points="1663,1367 1693,1367 1737,1370 1782,1370 1827,1370 1872,1370 1917,1370 1961,1370 2006,1370 2051,1370 2096,1373 2141,1373 2185,1373 2230,1373 2275,1373 2320,1373 2364,1376 2409,1373 2454,1370 2499,1364"/>
+                <TextEquiv>
+                    <Unicode>6 gehalten, und vor den 3 letzten Chocolat getrunken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="1643,1431 1662,1431 1675,1440 1681,1436 1692,1440 1698,1434 1709,1434 1717,1440 1728,1434 1747,1438 1749,1389 1738,1389 1717,1376 1709,1376 1696,1385 1686,1374 1679,1378 1662,1374 1645,1376"/>
+                <Baseline points="1654,1418 1663,1418 1708,1412 1752,1415"/>
+                <TextEquiv>
+                    <Unicode>habe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="1806,1463 2344,1465 2344,1395 2314,1389 1806,1400"/>
+                <Baseline points="1818,1451 1863,1448 1908,1451 1952,1451 1997,1451 2042,1454 2087,1454 2132,1454 2176,1457 2221,1454 2266,1454 2311,1457 2347,1457"/>
+                <TextEquiv>
+                    <Unicode>Warschau, den 5. Februar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="1690,1499 2497,1501 2497,1450 2393,1429 2278,1478 2056,1455 1851,1474 1690,1434"/>
+                <Baseline points="1702,1490 1746,1490 1791,1490 1836,1490 1881,1493 1926,1493 1970,1493 2015,1493 2060,1496 2105,1496 2149,1496 2194,1496 2239,1496 2284,1496 2329,1496 2373,1496 2418,1496 2463,1493 2502,1490"/>
+                <TextEquiv>
+                    <Unicode>Gestern gleich Nachmittage sind Sr. Königl¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="1658,1539 2494,1544 2494,1495 1753,1516 1658,1491"/>
+                <Baseline points="1669,1534 1693,1531 1737,1531 1782,1531 1827,1534 1872,1534 1917,1534 1961,1531 2006,1531 2051,1531 2096,1534 2141,1537 2185,1534 2230,1534 2275,1537 2320,1537 2364,1537 2409,1537 2454,1534 2499,1528"/>
+                <TextEquiv>
+                    <Unicode>Maj. auf die Jagd verreiset, von welcher Höchstdie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1654,1586 2494,1586 2475,1542 2183,1563 1974,1531 1654,1542"/>
+                <Baseline points="1666,1573 1711,1573 1755,1573 1800,1573 1845,1573 1890,1573 1934,1573 1979,1573 2024,1573 2069,1576 2114,1576 2158,1576 2203,1576 2248,1576 2293,1579 2338,1579 2382,1579 2427,1579 2472,1573 2499,1573"/>
+                <TextEquiv>
+                    <Unicode>selbe morgen erwartet werden. Vorgestern hat der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="1658,1630 2492,1620 2473,1580 1658,1584"/>
+                <Baseline points="1669,1621 1690,1615 1734,1612 1779,1615 1824,1612 1869,1615 1914,1615 1958,1615 2003,1615 2048,1615 2093,1618 2138,1621 2182,1618 2227,1618 2272,1621 2317,1618 2361,1618 2406,1621 2451,1618 2496,1612"/>
+                <TextEquiv>
+                    <Unicode>Fürst Repnin, einen prächtigen Ball en Masque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="1658,1671 2494,1662 2477,1622 1658,1630"/>
+                <Baseline points="1669,1660 1693,1657 1737,1657 1782,1657 1827,1657 1872,1657 1917,1657 1961,1657 2006,1657 2051,1660 2096,1660 2141,1660 2185,1660 2230,1663 2275,1660 2320,1660 2364,1660 2409,1660 2454,1657 2499,1654"/>
+                <TextEquiv>
+                    <Unicode>gegeben, woselbst sich auch Sr. Maj. befunden. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1654,1705 2026,1732 2065,1709 2488,1713 2488,1669 1654,1675"/>
+                <Baseline points="1666,1699 1711,1699 1755,1699 1800,1699 1845,1699 1890,1699 1934,1699 1979,1699 2024,1702 2069,1702 2114,1705 2158,1705 2203,1705 2248,1702 2293,1702 2338,1705 2382,1702 2427,1702 2472,1699 2493,1699"/>
+                <TextEquiv>
+                    <Unicode>Kron=Feldherrin Branitzka, ist gestern von hier nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="1660,1751 2488,1753 2461,1707 2173,1724 2109,1702 2035,1730 1660,1707"/>
+                <Baseline points="1672,1740 1716,1740 1761,1740 1806,1740 1851,1740 1896,1740 1940,1743 1985,1740 2030,1743 2075,1743 2120,1743 2164,1743 2209,1743 2254,1743 2299,1746 2344,1743 2388,1743 2433,1743 2478,1740 2493,1740"/>
+                <TextEquiv>
+                    <Unicode>Bialastock abgereiset. Dieser Tagen sind aus Pe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="1647,1796 2488,1789 2488,1751 1647,1751"/>
+                <Baseline points="1660,1782 1687,1782 1731,1779 1776,1782 1821,1782 1866,1779 1911,1782 1955,1782 2000,1782 2045,1782 2090,1782 2135,1782 2179,1785 2224,1785 2269,1785 2314,1785 2358,1785 2403,1785 2448,1785 2493,1779"/>
+                <TextEquiv>
+                    <Unicode>tersburg für Sr. Römisch Kayserl. Maj. acht de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="1654,1834 2484,1836 2469,1787 2433,1808 1654,1794"/>
+                <Baseline points="1666,1824 1684,1824 1728,1824 1773,1824 1818,1824 1863,1824 1908,1821 1952,1824 1997,1824 2042,1824 2087,1824 2132,1824 2176,1824 2221,1824 2266,1827 2311,1827 2356,1827 2400,1827 2445,1824 2490,1821"/>
+                <TextEquiv>
+                    <Unicode>schönsten Pferde, eine prätieuse Kutsche und ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="1654,1872 2494,1870 2492,1838 2450,1832 1652,1834"/>
+                <Baseline points="1666,1866 1693,1866 1737,1863 1782,1863 1827,1863 1872,1863 1917,1863 1961,1863 2006,1866 2051,1866 2096,1866 2141,1866 2185,1866 2230,1866 2275,1869 2320,1869 2364,1869 2409,1866 2454,1866 2499,1863"/>
+                <TextEquiv>
+                    <Unicode>schöne Port=Chaise hierdurch transportiret worden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="1660,1910 2446,1923 2490,1916 2488,1878 1658,1874"/>
+                <Baseline points="1669,1905 1713,1902 1758,1905 1803,1905 1848,1905 1893,1905 1937,1905 1982,1905 2027,1905 2072,1908 2117,1908 2161,1908 2206,1911 2251,1911 2296,1911 2341,1911 2385,1911 2430,1908 2475,1908 2493,1905"/>
+                <TextEquiv>
+                    <Unicode>Der Hof hat am vorigen Sonntag wegen Absterben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="1658,1954 2458,1974 2480,1916 1656,1914"/>
+                <Baseline points="1669,1946 1713,1946 1758,1943 1803,1943 1848,1943 1893,1946 1937,1946 1982,1949 2027,1949 2072,1949 2117,1949 2161,1949 2206,1949 2251,1952 2296,1952 2341,1949 2385,1949 2430,1952 2475,1952 2484,1949"/>
+                <TextEquiv>
+                    <Unicode>des Prinzen Friedrich Wilhelm von England König</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_30_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="1652,1999 2446,2007 2446,1971 2403,1959 1652,1954"/>
+                <Baseline points="1663,1985 1708,1988 1752,1985 1797,1988 1842,1988 1887,1991 1931,1991 1976,1991 2021,1991 2066,1994 2111,1991 2155,1991 2200,1991 2245,1991 2290,1994 2335,1994 2379,1997 2424,1994 2451,1997"/>
+                <TextEquiv>
+                    <Unicode>Hoheit, die Trauer auf zwey Wochen angeleget.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_31" custom="readingOrder {index:2;}">
+            <Coords points="2526,2031 2532,2750 1647,2750 1647,2031"/>
+            <TextLine id="r_31_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1880,2086 2283,2084 2283,2048 2266,2041 1880,2041"/>
+                <Baseline points="1893,2072 1937,2072 1982,2075 2027,2075 2072,2072 2117,2075 2161,2075 2206,2075 2251,2075 2287,2078"/>
+                <TextEquiv>
+                    <Unicode>Eingekommene Fremde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1830,2126 2054,2115 2103,2134 2137,2115 2338,2132 2338,2056 2323,2052 2240,2094 2014,2077 1910,2092 1830,2073"/>
+                <Baseline points="1842,2111 1887,2114 1931,2117 1976,2117 2021,2114 2066,2117 2111,2114 2155,2114 2200,2114 2245,2117 2290,2117 2335,2117 2344,2117"/>
+                <TextEquiv>
+                    <Unicode>vom Zien bis zum 14ten Febr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1690,2164 2488,2164 2488,2111 2134,2115 2103,2137 1690,2103"/>
+                <Baseline points="1702,2155 1746,2155 1791,2152 1836,2155 1881,2155 1926,2155 1970,2152 2015,2155 2060,2155 2105,2152 2149,2155 2194,2155 2239,2158 2284,2158 2329,2158 2373,2158 2418,2158 2463,2155 2493,2155"/>
+                <TextEquiv>
+                    <Unicode>Herr von Schwartzhoff, Lieutenant vom Schla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1654,2202 2488,2209 2471,2162 1654,2162"/>
+                <Baseline points="1666,2194 1711,2194 1755,2194 1800,2197 1845,2197 1890,2194 1934,2194 1979,2194 2024,2194 2069,2197 2114,2197 2158,2197 2203,2197 2248,2197 2293,2200 2338,2200 2382,2200 2427,2200 2472,2197 2493,2197"/>
+                <TextEquiv>
+                    <Unicode>berndorffschen Cüraßierreg. und Hr. von Schwark</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1658,2253 2482,2247 2458,2206 1658,2204"/>
+                <Baseline points="1669,2242 1678,2239 1722,2239 1767,2239 1812,2239 1857,2236 1902,2236 1946,2236 1991,2236 2036,2236 2081,2239 2126,2236 2170,2239 2215,2242 2260,2242 2305,2242 2350,2242 2394,2242 2439,2242 2484,2236"/>
+                <TextEquiv>
+                    <Unicode>hoff, Cornet vom Lossowschen Husarenreg. komme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1654,2285 2484,2287 2484,2245 1654,2257"/>
+                <Baseline points="1666,2278 1711,2278 1755,2278 1800,2278 1845,2278 1890,2278 1934,2278 1979,2278 2024,2278 2069,2278 2114,2281 2158,2281 2203,2284 2248,2284 2293,2284 2338,2284 2382,2284 2427,2281 2472,2278 2490,2281"/>
+                <TextEquiv>
+                    <Unicode>aus Curland, log. bey Guttowscky in der Vorstad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1658,2376 2300,2393 2482,2372 2480,2327 2266,2353 2200,2325 1656,2338"/>
+                <Baseline points="1669,2358 1713,2361 1758,2361 1803,2361 1848,2358 1893,2361 1937,2364 1982,2364 2027,2364 2072,2364 2117,2364 2161,2364 2206,2367 2251,2367 2296,2367 2341,2367 2385,2367 2430,2370 2475,2361 2487,2361"/>
+                <TextEquiv>
+                    <Unicode>aus Petersburg, geht nach London, log. bey N</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1664,2410 2482,2414 2482,2372 2041,2369 1995,2393 1942,2367 1664,2372"/>
+                <Baseline points="1675,2403 1719,2400 1764,2400 1809,2400 1854,2403 1899,2403 1943,2403 1988,2409 2033,2406 2078,2406 2123,2406 2167,2406 2212,2409 2257,2409 2302,2409 2347,2409 2391,2409 2436,2409 2481,2400 2487,2403"/>
+                <TextEquiv>
+                    <Unicode>mus im Kneiphof. Hr. von Kleist, Obrister de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1664,2454 2482,2469 2482,2416 2441,2408 2410,2429 1664,2410"/>
+                <Baseline points="1675,2439 1719,2442 1764,2442 1809,2442 1854,2445 1899,2445 1943,2445 1988,2445 2033,2448 2078,2445 2123,2448 2167,2448 2212,2451 2257,2451 2302,2451 2347,2454 2391,2454 2436,2451 2481,2445 2487,2445"/>
+                <TextEquiv>
+                    <Unicode>Taddenschen Regiments, kommt von Preußhollan=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1664,2492 1806,2488 1844,2513 2143,2497 2230,2518 2297,2499 2297,2469 2253,2458 1664,2452"/>
+                <Baseline points="1675,2487 1719,2487 1764,2487 1809,2487 1854,2487 1899,2487 1943,2487 1988,2487 2033,2490 2078,2490 2123,2490 2167,2493 2212,2490 2257,2490 2302,2493"/>
+                <TextEquiv>
+                    <Unicode>log. bey Felgenhauer aufm Roßgarten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1664,2556 2477,2547 2477,2492 2441,2484 2245,2516 2147,2494 1664,2507"/>
+                <Baseline points="1675,2538 1719,2532 1764,2535 1809,2535 1854,2535 1899,2535 1943,2535 1988,2538 2033,2538 2078,2538 2123,2538 2167,2538 2212,2541 2257,2541 2302,2541 2347,2541 2391,2544 2436,2541 2481,2541"/>
+                <TextEquiv>
+                    <Unicode>Diese Gelehr e und Politische Zeitung wird des Monta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1705,2592 2458,2594 2441,2547 1705,2537"/>
+                <Baseline points="1716,2573 1761,2570 1806,2570 1851,2570 1896,2570 1940,2570 1985,2573 2030,2573 2075,2573 2120,2573 2164,2573 2209,2573 2254,2576 2299,2579 2344,2579 2388,2579 2433,2579 2463,2573"/>
+                <TextEquiv>
+                    <Unicode>und des Freytags Vormittags um 10 Uhr in dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_31_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1808,2632 1855,2649 1950,2632 2105,2653 2134,2630 2221,2653 2259,2636 2361,2643 2361,2592 2302,2585 1808,2588"/>
+                <Baseline points="1821,2606 1866,2609 1911,2609 1955,2609 2000,2612 2045,2612 2090,2612 2135,2612 2179,2612 2224,2615 2269,2618 2314,2618 2358,2621 2367,2618"/>
+                <TextEquiv>
+                    <Unicode>Kanterschen Buchladen ausgegeben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
