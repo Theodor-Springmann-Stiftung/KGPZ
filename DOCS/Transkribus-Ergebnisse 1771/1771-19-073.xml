@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=26_07_2024_23:01</Creator>
+        <Created>2024-07-26T22:18:49.881+02:00</Created>
+        <LastChange>2024-07-26T23:01:59.405+02:00</LastChange>
+        <TranskribusMetadata docId="3446071" pageId="75646877" pageNr="1" tsid="179646039" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=QXGVSCQVRAUYVYDSBMBOIGOT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JZMKLADAHOIGHADSPTAXHQVI" imageId="61382834"/>
+    </Metadata>
+    <Page imageFilename="75646877.jpg" imageWidth="2679" imageHeight="3213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1722027719406" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_6"/>
+                <RegionRefIndexed index="1" regionRef="r_15"/>
+                <RegionRefIndexed index="2" regionRef="r_26"/>
+                <RegionRefIndexed index="3" regionRef="r_35"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_6" custom="readingOrder {index:0;}">
+            <Coords points="477,1407 2256,1407 2256,1479 477,1479"/>
+            <TextLine id="r_6_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="903,1484 1815,1484 1815,1417 1746,1406 1380,1436 1330,1408 903,1419"/>
+                <Baseline points="916,1463 925,1463 970,1460 1015,1463 1060,1460 1104,1460 1149,1463 1194,1463 1239,1463 1284,1460 1328,1460 1373,1463 1418,1457 1463,1454 1507,1457 1552,1457 1597,1454 1642,1451 1687,1454 1731,1454 1776,1454 1821,1454"/>
+                <TextEquiv>
+                    <Unicode>19tes Stück. Freytag, den 8. März 1771.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:1;}">
+            <Coords points="1364,2817 477,2817 477,1479 1364,1479"/>
+            <TextLine id="r_15_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="830,1540 843,1540 862,1553 895,1549 910,1564 940,1564 957,1549 968,1555 1007,1549 1005,1499 994,1499 986,1490 931,1493 916,1484 882,1486 873,1495 858,1482 830,1482"/>
+                <Baseline points="842,1537 886,1540 931,1540 976,1540 1012,1543"/>
+                <TextEquiv>
+                    <Unicode>Leipzig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="524,1620 1347,1605 1347,1540 1278,1527 1165,1566 1070,1527 988,1564 843,1540 524,1573"/>
+                <Baseline points="537,1609 546,1609 591,1609 636,1609 680,1606 725,1603 770,1603 815,1600 859,1600 904,1600 949,1600 994,1600 1039,1597 1083,1597 1128,1597 1173,1594 1218,1594 1263,1591 1307,1591 1352,1597"/>
+                <TextEquiv>
+                    <Unicode>C. W. F. Walchs D. d. Th. zu Göttingen Entwurf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="483,1681 918,1644 1287,1668 1311,1603 555,1625 485,1597"/>
+                <Baseline points="495,1654 507,1654 552,1654 597,1654 642,1651 686,1651 731,1648 776,1645 821,1645 865,1645 910,1645 955,1642 1000,1642 1045,1639 1089,1639 1134,1639 1179,1639 1224,1636 1269,1636 1313,1636"/>
+                <TextEquiv>
+                    <Unicode>einer vollständigen Historie der Ketzereien rc. 5 Th.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="492,1765 2212,1737 2212,1703 2106,1694 585,1731 492,1694"/>
+                <Baseline points="504,1758 549,1755 594,1752 639,1752 683,1749 728,1749 773,1746 818,1746 862,1746 907,1743 952,1740 997,1740 1042,1740 1086,1737 1131,1737 1176,1737 1221,1734 1266,1734 1310,1734 1355,1734 1373,1734 1412,1734 1457,1731 1501,1734 1546,1731 1591,1731 1636,1731 1681,1731 1725,1731 1770,1731 1815,1728 1860,1728 1905,1728 1949,1728 1994,1728 2039,1728 2084,1731 2129,1731 2173,1731 2218,1731"/>
+                <TextEquiv>
+                    <Unicode>ob man mehr die erstaunende Lektur des V. oder die theilet, nämlich, Nestorius hätte Recht: daß in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="485,1813 2201,1785 2218,1739 485,1765"/>
+                <Baseline points="498,1797 501,1797 546,1797 591,1794 636,1791 680,1791 725,1788 770,1788 815,1788 859,1788 904,1788 949,1782 994,1782 1039,1779 1083,1779 1128,1776 1173,1776 1218,1776 1263,1776 1307,1773 1352,1776 1373,1773 1418,1773 1463,1773 1507,1770 1552,1773 1597,1773 1642,1770 1687,1770 1731,1770 1776,1770 1821,1770 1866,1770 1911,1770 1955,1770 2000,1770 2045,1770 2090,1770 2135,1770 2179,1770 2224,1773"/>
+                <TextEquiv>
+                    <Unicode>Geschicklichkeit sie in das ganze seiner eignen Arbeit Lehre von der Person Christi der wesentliche Unterscheid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="485,1895 2210,1867 2210,1817 1865,1811 485,1854"/>
+                <Baseline points="498,1878 513,1881 558,1881 603,1878 647,1878 692,1872 737,1872 782,1872 827,1872 871,1872 916,1869 961,1866 1006,1863 1051,1863 1095,1863 1140,1863 1185,1860 1230,1860 1275,1857 1319,1857 1364,1857 1409,1854 1454,1854 1499,1854 1543,1854 1588,1854 1633,1854 1678,1851 1722,1851 1767,1851 1812,1851 1857,1851 1902,1851 1946,1851 1991,1851 2036,1851 2081,1851 2126,1854 2170,1854 2215,1854"/>
+                <TextEquiv>
+                    <Unicode>deckung und Berichtigung schwerer historischer Zweifel Cyrillus hätte darinn recht, daß in der Lehre von der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="492,1932 1347,1906 1347,1869 1306,1861 1256,1885 1038,1865 494,1891"/>
+                <Baseline points="504,1926 546,1923 591,1920 636,1920 680,1917 725,1917 770,1914 815,1914 859,1911 904,1911 949,1908 994,1908 1039,1908 1083,1905 1128,1905 1173,1902 1218,1902 1263,1899 1307,1899 1352,1896"/>
+                <TextEquiv>
+                    <Unicode>in diesem Theil der Ketzereien bewundern soll. Wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="544,2019 1345,1993 1345,1947 1259,1941 1103,1969 546,1976"/>
+                <Baseline points="558,2006 588,2006 633,2003 677,2003 722,1997 767,1997 812,1997 856,1994 901,1994 946,1991 991,1991 1036,1991 1080,1988 1125,1988 1170,1988 1215,1985 1260,1985 1304,1985 1349,1985"/>
+                <TextEquiv>
+                    <Unicode>Geschichte der Streitigkeiten mit den Semipela¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="492,2062 2212,2036 2214,1993 494,2006"/>
+                <Baseline points="504,2051 549,2048 594,2045 639,2045 683,2039 728,2039 773,2039 818,2036 862,2036 907,2033 952,2033 997,2033 1042,2033 1086,2030 1131,2030 1176,2027 1221,2027 1266,2027 1310,2027 1355,2027 1370,2027 1412,2024 1457,2024 1501,2024 1546,2024 1591,2021 1636,2021 1681,2021 1725,2018 1770,2021 1815,2021 1860,2021 1905,2018 1949,2018 1994,2018 2039,2018 2084,2018 2129,2021 2173,2021 2218,2018"/>
+                <TextEquiv>
+                    <Unicode>gianern — Prädestinatianern, und den Nestorianern. aus nicht sagen: Nestorius sey ein Ketzer, weil er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="490,2093 1345,2080 1345,2034 1302,2030 492,2058"/>
+                <Baseline points="501,2090 543,2090 588,2090 633,2087 677,2084 722,2084 767,2081 812,2081 856,2078 901,2078 946,2075 991,2075 1036,2075 1080,2072 1125,2072 1170,2069 1215,2069 1260,2069 1304,2066 1349,2069"/>
+                <TextEquiv>
+                    <Unicode>Die letzte ist fast die weitläuftigste, und wenn wir sa=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="492,2147 2216,2116 2216,2077 2103,2062 492,2106"/>
+                <Baseline points="504,2138 546,2132 591,2129 636,2129 680,2126 725,2126 770,2123 815,2123 859,2123 904,2120 949,2117 994,2117 1039,2114 1083,2114 1128,2111 1173,2111 1218,2108 1263,2111 1307,2111 1352,2111 1373,2111 1406,2108 1451,2108 1496,2105 1540,2105 1585,2105 1630,2102 1675,2105 1684,2102 1728,2105 1773,2102 1818,2102 1863,2102 1908,2102 1952,2102 1997,2102 2042,2102 2087,2105 2132,2105 2176,2105 2221,2108"/>
+                <TextEquiv>
+                    <Unicode>gen sollen, auch die, worinn wir am meisten die Un= sprochen hat. — Hier müssen wir aber unsre Leser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="490,2233 1633,2186 1794,2227 2220,2225 2220,2158 2084,2147 490,2184"/>
+                <Baseline points="501,2215 522,2215 567,2212 612,2212 656,2209 701,2209 746,2209 791,2206 836,2206 880,2203 925,2200 970,2200 1015,2197 1060,2197 1104,2197 1149,2194 1194,2194 1239,2194 1284,2191 1328,2191 1373,2194 1418,2191 1463,2191 1507,2188 1552,2188 1597,2188 1642,2185 1687,2185 1731,2185 1776,2188 1821,2188 1866,2188 1911,2188 1955,2188 2000,2188 2045,2188 2090,2191 2135,2191 2179,2191 2224,2197"/>
+                <TextEquiv>
+                    <Unicode>des Herrn D. wahrgenommen haben. Nach dem er zulesen. Kostet in der Kanterschen Buchhandlung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="492,2268 1750,2255 1752,2192 1690,2186 494,2225"/>
+                <Baseline points="504,2257 549,2257 594,2254 639,2254 683,2251 728,2248 773,2248 818,2248 862,2245 907,2245 952,2245 997,2242 1042,2239 1086,2236 1131,2233 1176,2236 1221,2236 1266,2233 1310,2233 1355,2236 1400,2236 1445,2233 1490,2233 1534,2230 1579,2230 1624,2230 1669,2230 1713,2233 1758,2233"/>
+                <TextEquiv>
+                    <Unicode>alles zur Geschichte des Streits gesagt hat, kommt er 5 fl. alle 5 Theile 23 fl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="490,2309 1352,2285 1352,2240 1291,2238 492,2268"/>
+                <Baseline points="501,2299 507,2299 552,2299 597,2299 642,2296 686,2296 731,2290 776,2290 821,2287 865,2287 910,2287 955,2284 1000,2284 1045,2281 1089,2278 1134,2278 1179,2275 1224,2278 1269,2278 1313,2275 1358,2278"/>
+                <TextEquiv>
+                    <Unicode>auch darauf, ob der Streit bloß eine Logomachie ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="483,2346 1356,2331 1358,2281 485,2320"/>
+                <Baseline points="495,2341 510,2341 555,2341 600,2341 644,2338 689,2335 734,2332 779,2332 824,2329 868,2329 913,2329 958,2326 1003,2326 1048,2320 1092,2320 1137,2320 1182,2317 1227,2317 1272,2317 1316,2317 1361,2317"/>
+                <TextEquiv>
+                    <Unicode>wesen, und ob er auch erheblich sey. Beides beruhet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="492,2396 1350,2366 1315,2318 494,2353"/>
+                <Baseline points="504,2388 549,2382 594,2382 639,2379 683,2376 728,2373 773,2373 818,2373 862,2370 907,2370 952,2367 997,2364 1042,2361 1086,2361 1131,2358 1176,2361 1221,2361 1266,2358 1310,2358 1355,2361"/>
+                <TextEquiv>
+                    <Unicode>größtentheils darauf, wie man des Nestorius und Cy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="492,2428 1250,2418 1345,2411 1347,2368 492,2398"/>
+                <Baseline points="504,2421 546,2424 591,2421 636,2418 680,2418 725,2415 770,2415 815,2412 859,2412 904,2409 949,2409 994,2406 1039,2403 1083,2403 1128,2400 1173,2403 1218,2406 1263,2400 1307,2400 1352,2400"/>
+                <TextEquiv>
+                    <Unicode>rillus Meinungen gegen einander verstehet. In der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="492,2476 1347,2457 1347,2407 1293,2402 494,2428"/>
+                <Baseline points="504,2469 546,2466 591,2463 636,2463 680,2460 725,2457 770,2457 815,2454 859,2454 904,2451 949,2448 994,2448 1039,2445 1083,2442 1128,2445 1173,2442 1218,2442 1263,2442 1307,2442 1352,2442"/>
+                <TextEquiv>
+                    <Unicode>Absicht, als sie sich beide selbst nicht verstanden haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="483,2513 1343,2493 1343,2448 485,2474"/>
+                <Baseline points="495,2508 498,2508 543,2505 588,2505 633,2502 677,2502 722,2499 767,2499 812,2496 856,2496 901,2493 946,2490 991,2490 1036,2487 1080,2487 1125,2484 1170,2484 1215,2484 1260,2484 1304,2484 1349,2481"/>
+                <TextEquiv>
+                    <Unicode>oder verstehen wollten, ist ide Logomachie offenbar; in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="490,2565 1326,2541 1343,2493 492,2515"/>
+                <Baseline points="501,2553 540,2550 585,2547 630,2544 674,2544 719,2541 764,2541 809,2538 854,2538 898,2535 943,2535 988,2529 1033,2532 1077,2529 1122,2529 1167,2529 1212,2526 1257,2526 1301,2526 1346,2526"/>
+                <TextEquiv>
+                    <Unicode>so fern ist sie denn auch nicht erheblich, je nachdem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="485,2599 1324,2578 1352,2537 485,2567"/>
+                <Baseline points="498,2591 501,2588 546,2588 591,2588 636,2585 680,2585 725,2582 770,2582 815,2579 859,2579 904,2576 949,2573 994,2573 1039,2570 1083,2568 1128,2568 1173,2568 1218,2568 1263,2568 1307,2568 1352,2568"/>
+                <TextEquiv>
+                    <Unicode>man sie vor eine Logomachie hält. Hält man sie aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="483,2641 1341,2615 1343,2574 1148,2569 485,2602"/>
+                <Baseline points="498,2630 540,2630 585,2630 630,2627 674,2624 719,2624 764,2621 809,2621 854,2621 898,2618 943,2618 988,2612 1033,2612 1077,2609 1122,2609 1167,2609 1212,2609 1257,2609 1301,2606 1346,2606"/>
+                <TextEquiv>
+                    <Unicode>nicht davor, so ist gewiß, daß beide Theile Nestorius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="490,2688 2216,2649 2216,2608 1384,2597 490,2645"/>
+                <Baseline points="501,2675 504,2675 549,2672 594,2672 639,2666 683,2666 728,2663 773,2663 818,2660 862,2660 907,2660 952,2657 997,2657 1042,2654 1086,2651 1131,2651 1176,2651 1221,2651 1266,2651 1310,2651 1355,2648 1373,2648 1415,2645 1460,2642 1504,2642 1549,2642 1594,2642 1639,2648 1684,2645 1728,2645 1773,2642 1818,2642 1863,2642 1908,2642 1952,2642 1997,2645 2042,2645 2087,2645 2132,2645 2176,2642 2221,2645"/>
+                <TextEquiv>
+                    <Unicode>sowohl, als Cyrillus einen wichtigen Lehrsatz der Reli= spät gekommen. Zu spät hat er die rechte Absicht der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="481,2788 1191,2755 1334,2794 1651,2738 1798,2803 2080,2816 2218,2801 2220,2695 481,2725"/>
+                <Baseline points="492,2759 516,2762 561,2756 606,2756 650,2753 695,2753 740,2750 785,2750 830,2747 874,2747 919,2744 964,2744 1009,2741 1054,2741 1098,2738 1143,2735 1188,2735 1233,2735 1278,2735 1322,2732 1367,2732 1412,2732 1457,2729 1501,2729 1546,2729 1591,2729 1636,2729 1681,2732 1725,2732 1770,2732 1788,2732 1821,2729 1866,2729 1911,2729 1955,2729 2000,2729 2045,2729 2090,2726 2135,2726 2179,2726 2224,2726"/>
+                <TextEquiv>
+                    <Unicode>selbst nicht darauf ankommt ab beide Theile über Wör chelchen drucken lasten. Wer aber das felina lene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_26" custom="readingOrder {index:2;}">
+            <Coords points="2256,1479 2256,2256 1364,2256 1364,1479"/>
+            <TextLine id="r_26_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1358,1545 2216,1540 2216,1490 2095,1460 1830,1488 1358,1471"/>
+                <Baseline points="1370,1528 1415,1528 1460,1525 1504,1525 1549,1525 1594,1525 1639,1525 1684,1522 1728,1522 1773,1522 1818,1522 1863,1522 1908,1522 1952,1522 1997,1522 2042,1525 2087,1522 2132,1522 2176,1525 2221,1525"/>
+                <TextEquiv>
+                    <Unicode>ter gestritten, sondern db diese Wörter richtige oder un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1356,1577 2216,1581 2216,1538 2080,1527 1356,1542"/>
+                <Baseline points="1367,1570 1370,1570 1415,1570 1460,1567 1504,1567 1549,1567 1594,1567 1639,1567 1684,1567 1728,1564 1773,1564 1818,1564 1863,1564 1908,1564 1952,1567 1997,1564 2042,1564 2087,1564 2132,1567 2176,1567 2221,1567"/>
+                <TextEquiv>
+                    <Unicode>richtige Begriffe in der Lehre von Christo einführten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1367,1623 2220,1618 2220,1577 2045,1566 1956,1590 1921,1568 1367,1577"/>
+                <Baseline points="1379,1615 1418,1612 1463,1609 1507,1609 1552,1609 1597,1609 1642,1609 1687,1609 1731,1609 1776,1609 1821,1609 1866,1606 1911,1609 1955,1606 2000,1606 2045,1606 2090,1606 2135,1609 2179,1609 2224,1609"/>
+                <TextEquiv>
+                    <Unicode>Jn Absicht dessen, welche Parthey Recht oder Un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1360,1659 2216,1668 2214,1620 2153,1607 1360,1623"/>
+                <Baseline points="1373,1654 1418,1654 1463,1654 1507,1651 1552,1651 1597,1651 1642,1651 1687,1651 1731,1648 1776,1648 1821,1648 1866,1648 1911,1648 1955,1648 2000,1645 2045,1648 2090,1648 2135,1648 2179,1651 2221,1654"/>
+                <TextEquiv>
+                    <Unicode>recht gehabt habe, sagt der Herr D. seine Entscheidung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="529,1735 2216,1703 2190,1657 2021,1651 529,1675"/>
+                <Baseline points="540,1711 546,1711 591,1711 636,1711 680,1711 725,1708 770,1705 815,1705 859,1705 904,1702 949,1702 994,1702 1039,1699 1083,1699 1128,1699 1173,1699 1218,1696 1263,1696 1307,1696 1352,1693 1376,1696 1415,1693 1460,1693 1504,1693 1549,1693 1594,1693 1639,1693 1684,1690 1728,1690 1773,1690 1818,1690 1863,1690 1908,1687 1952,1687 1997,1687 2042,1690 2087,1687 2132,1690 2176,1690 2221,1693"/>
+                <TextEquiv>
+                    <Unicode>Wenn man dies Werk lieset, so ist man ungewiß dergestalt, daß er Recht und Unrecht zwischen beiden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="492,1854 2203,1828 2220,1783 492,1807"/>
+                <Baseline points="504,1845 546,1839 591,1836 636,1833 680,1833 725,1830 770,1830 815,1827 859,1827 904,1827 949,1824 994,1824 1039,1821 1083,1818 1128,1821 1173,1818 1218,1818 1263,1815 1307,1815 1352,1812 1367,1812 1412,1812 1457,1812 1501,1812 1546,1812 1591,1812 1636,1812 1681,1812 1725,1809 1770,1809 1815,1809 1860,1809 1905,1809 1949,1809 1994,1809 2039,1809 2084,1809 2129,1812 2173,1815 2218,1815 2224,1812"/>
+                <TextEquiv>
+                    <Unicode>zu verweben, nebst dem unermüdeten Fleiß in Ent= der beiden Naturen erkannt und gelehrt werden müsse:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1367,1913 2210,1908 2210,1867 2171,1861 1367,1861"/>
+                <Baseline points="1379,1896 1424,1896 1469,1896 1513,1896 1558,1896 1603,1893 1648,1893 1693,1893 1737,1893 1782,1896 1827,1896 1872,1893 1917,1893 1961,1893 2006,1893 2051,1893 2096,1896 2141,1896 2185,1899 2215,1899"/>
+                <TextEquiv>
+                    <Unicode>Person Christi die Vereinigung beider Naturen zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="496,1980 2186,1952 2218,1906 496,1934"/>
+                <Baseline points="507,1970 546,1967 591,1964 636,1961 680,1958 725,1958 770,1958 815,1955 859,1955 904,1952 949,1952 994,1949 1039,1949 1083,1949 1128,1946 1173,1946 1218,1946 1263,1934 1307,1934 1352,1937 1367,1940 1373,1940 1418,1940 1463,1940 1507,1937 1552,1937 1597,1937 1642,1937 1687,1937 1731,1937 1776,1937 1821,1937 1866,1937 1911,1937 1955,1934 2000,1934 2045,1937 2090,1937 2135,1937 2179,1937 2224,1937"/>
+                <TextEquiv>
+                    <Unicode>zeigen bloß den Inhalt an. Es behandelt diesr Sheil einer Person Wahrheit sey; und in andern Punk¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1365,2002 2218,1993 2194,1943 1365,1952"/>
+                <Baseline points="1376,1985 1415,1982 1460,1982 1504,1982 1549,1979 1594,1979 1639,1979 1684,1979 1728,1979 1773,1979 1818,1979 1863,1979 1908,1979 1952,1976 1997,1976 2042,1979 2087,1979 2132,1979 2176,1979 2221,1982"/>
+                <TextEquiv>
+                    <Unicode>ten häͤtten beide Unrecht. Indessen will der V. durche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1365,2073 2218,2077 2220,2036 1365,2038"/>
+                <Baseline points="1376,2069 1415,2066 1460,2066 1504,2063 1549,2066 1594,2066 1639,2066 1684,2066 1728,2063 1773,2060 1818,2060 1863,2057 1908,2060 1952,2060 1997,2060 2042,2060 2087,2060 2132,2060 2176,2063 2221,2066"/>
+                <TextEquiv>
+                    <Unicode>niemals einer Hauptlehre des Christenthums wider¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_26_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="490,2184 2197,2162 2223,2119 490,2147"/>
+                <Baseline points="501,2176 543,2173 588,2170 633,2170 677,2167 722,2167 767,2164 812,2164 856,2161 901,2161 946,2158 991,2155 1036,2155 1080,2155 1125,2152 1170,2152 1215,2152 1260,2152 1304,2152 1349,2152 1367,2152 1376,2152 1421,2146 1466,2149 1510,2146 1555,2146 1600,2143 1645,2146 1690,2143 1734,2143 1779,2143 1824,2143 1869,2141 1914,2143 1958,2143 2003,2143 2048,2143 2093,2143 2138,2143 2182,2146 2227,2146"/>
+                <TextEquiv>
+                    <Unicode>partheylichkeit und kaltblütige Entscheidungsmethode darauf verweisen, dies alles in dem Buche selbst nache</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_35" custom="readingOrder {index:3;}">
+            <Coords points="2256,2347 2256,2817 1364,2817 1364,2347"/>
+            <TextLine id="r_35_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1681,2418 1698,2409 1716,2418 1733,2405 1778,2409 1791,2400 1804,2407 1833,2400 1863,2415 1906,2409 1906,2366 1850,2357 1828,2340 1791,2335 1774,2350 1746,2342 1727,2357 1711,2350 1701,2363 1681,2366"/>
+                <Baseline points="1693,2397 1737,2394 1782,2394 1827,2394 1872,2397 1911,2403"/>
+                <TextEquiv>
+                    <Unicode>Hamburg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_35_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1404,2465 2227,2465 2227,2398 2153,2424 2101,2400 1404,2415"/>
+                <Baseline points="1415,2460 1427,2457 1472,2460 1516,2457 1561,2457 1606,2457 1651,2457 1696,2457 1740,2457 1785,2457 1830,2457 1875,2457 1920,2457 1964,2457 2009,2457 2054,2457 2099,2460 2143,2460 2188,2460 2233,2457"/>
+                <TextEquiv>
+                    <Unicode>Kurzer Entwurf der christlichen Religion für eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_35_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1360,2500 1763,2532 2225,2519 2225,2465 1360,2463"/>
+                <Baseline points="1373,2499 1418,2502 1463,2499 1507,2499 1552,2499 1597,2499 1642,2502 1687,2502 1731,2499 1776,2499 1821,2502 1866,2502 1911,2499 1955,2499 2000,2502 2045,2502 2090,2502 2135,2502 2179,2505 2224,2508 2227,2508"/>
+                <TextEquiv>
+                    <Unicode>Gesellschaft in Berlin von F. W. Maschö, Rekt. in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_35_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1369,2576 1428,2561 1460,2574 1512,2548 1566,2574 1588,2561 1614,2576 1666,2567 1666,2506 1646,2502 1629,2515 1603,2500 1566,2513 1547,2502 1484,2513 1443,2504 1430,2515 1369,2506"/>
+                <Baseline points="1382,2544 1427,2544 1472,2544 1516,2541 1561,2544 1606,2544 1651,2544 1672,2547"/>
+                <TextEquiv>
+                    <Unicode>Bergendorf 1770.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_35_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1397,2606 2218,2610 2218,2574 2175,2561 1397,2561"/>
+                <Baseline points="1409,2603 1454,2603 1499,2600 1543,2600 1588,2603 1633,2603 1678,2603 1722,2603 1767,2603 1812,2600 1857,2600 1902,2603 1946,2600 1991,2603 2036,2603 2081,2603 2126,2603 2170,2603 2215,2603 2224,2606"/>
+                <TextEquiv>
+                    <Unicode>Herr M. ist bey dieser seiner Preisschrift etwas zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_35_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="492,2727 2218,2693 2218,2651 2160,2645 492,2688"/>
+                <Baseline points="504,2720 522,2714 567,2714 612,2711 656,2708 701,2705 746,2705 791,2705 836,2702 880,2702 925,2702 970,2699 1015,2696 1060,2696 1104,2693 1149,2693 1194,2693 1239,2690 1284,2690 1328,2690 1373,2690 1418,2687 1463,2684 1507,2684 1552,2684 1597,2684 1642,2684 1687,2684 1731,2687 1776,2687 1821,2684 1866,2687 1911,2687 1955,2684 2000,2684 2045,2684 2090,2684 2135,2684 2179,2684 2224,2684"/>
+                <TextEquiv>
+                    <Unicode>gion zum Vorwurf des Streits hatten, bey dem es Berlinschen Aufgabe errathen, zu spät hat er sein Bü¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

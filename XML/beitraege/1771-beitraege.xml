@@ -295,10 +295,7 @@
         <kategorie ref="gedicht"></kategorie>
         <titel>An einen Advokaten.</titel>
     </beitrag>
-    <beitrag>
-        <beilage datum="1771" nr="57" von="1" bis="2" />
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
+    
     <beitrag>
         <beilage datum="1771" nr="60" von="1" bis="2" />
         <beilage datum="1771" nr="65" von="1" bis="2" />
@@ -1800,6 +1797,66 @@
     <beitrag>
         <stueck datum="1771" nr="56" von="224"/>
         <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    
+    <beitrag>
+        <stueck datum="1771" nr="57" von="225" bis="227" />
+        <werk kat="rezension" ref="hermes-sopie1-2"></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="57" von="225" />
+        <kategorie ref="ineigenersache"></kategorie>
+        <beitrag ref="kanter-gesamtverzeichnis1771" kat="kommentar" />
+        <akteur ref="kanter"></akteur>
+        <anmerkung>Ankündigung eines Gesamtkatalogs der im Kanterschen Buchladen verfügbaren Bücher</anmerkung>
+    </beitrag>
+    <beitrag id="kanter-gesamtverzeichnis1771">
+        <beilage datum="1771" nr="57" von="1" bis="2" />
+        <kategorie ref="buecher"></kategorie>
+        <titel>Gesamtkatalog der im Kanterschen Buchladen verfügbaren Bücher</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="57" von="227" bis="228"/>
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="57" von="228"/>
+        <kategorie ref="avertissement" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="57" von="228"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="57" von="228"/>
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1771" nr="58" von="229" />
+        <werk kat="rezension" ref="mosheim-sittenlehre9"></werk>
+        <ort ref="goettingen"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="58" von="229" bis="230" />
+        <werk kat="rezension" ref="gottsched-gramatica"></werk>
+        <ort ref="frankfurt"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="58" von="230" bis="232"/>
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="58" von="232"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="58" von="232"/>
+        <kategorie ref="avertissement" />
+        <kategorie ref="lokalanzeigen" />
     </beitrag>
 
 
