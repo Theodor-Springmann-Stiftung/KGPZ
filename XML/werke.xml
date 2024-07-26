@@ -1094,7 +1094,6 @@
         <url address="http://dx.doi.org/10.25673/44410">ULB Halle</url>
     </werk>
 
-
     <werk id="hennings-abhandlung">
         <akteur ref="hennings-jc" /> 
         <zitation>J. C. Hennings moralisch und politische Abhandlung von dem Wege zur Weisheit und Klugheit (Jena 1766).</zitation>
@@ -1331,6 +1330,20 @@
     <werk id="idyllen-erzaehlen">
         <zitation>Idyllen (Berlin und Stralsund 1766).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000B19300000000">Stabi Berlin</url>
+    </werk>
+
+    <werk id="ollivier-poeme-chants">
+        <akteur ref="cazotte-j" />
+        <zitation>Ollivier Poeme en XII Chants (o.O. 1763).</zitation> 
+        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10095478-8" >SLUB Dresden</url> <!-- Tome premier -->
+        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10095477-3" >SLUB Dresden</url> <!-- Tome seconde -->
+    </werk>
+
+    <werk id="philosophie-rurale">
+        <akteur ref="mirabeau-vr" />
+        <zitation>Philosophie rurale, ou Economie générale et politique de l'Agriculture, 
+            reduite à l'ordre immuable des lois physiques et morales, qui assurent la prosperité des Empires (Amsterdam: 1765), Bd. 3.</zitation> 
+        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10298267-2" >SLUB Dresden</url>
     </werk>
 
     <werk id="groeben-buechermanufactur">

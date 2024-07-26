@@ -299,7 +299,35 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
-        <stueck datum="1766" nr="9" von="54" />
+        <stueck datum="1766" nr="13" von="54" />
         <kategorie ref="wechselkurse" />
     </beitrag>
+
+<!-- 14 -->
+<beitrag>
+    <stueck datum="1766" nr="14" von="55" bis="56" />
+    <werk kat="rezension" ref="ollivier-poeme-chants"></werk>
+    <akteur ref="cazotte-j"></akteur> 
+    <ort ref="o.O." />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="14" von="56"/>
+    <werk kat="rezension" ref="philosophie-rurale"></werk>
+    <akteur ref="mirabeau-vr"></akteur> 
+    <ort ref="amsterdam" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="14" von="56"/> 
+    <beilage datum="1766" nr="14" von="1" bis="2"/>
+    <werk kat="rezension" ref="bock-geburtstag-zugabe"></werk> <!-- Unsicher über die Informationen dieses Beitrags -->
+    <akteur ref="scheffner">HBGA I, 50</akteur>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="14" von="57" bis="58" />
+    <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="14" von="58" />
+    <kategorie ref="einkommende-fremde" />
+</beitrag>
 </beitraege>
