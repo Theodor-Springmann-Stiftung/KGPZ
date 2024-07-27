@@ -37,7 +37,7 @@
         <stueck datum="1765" nr="1" von="1" bis="2"/>
 		<stueck datum="1765" nr="2" von="5" bis="6"/>
         <kategorie ref="aufsatz"/>
-        <incipit>Unsere Leser werden nichts weniger als statt der gewöhnlichen Wünsche…</incipit>
+        <incipit>Unsere Leser werden nichts weniger als statt der gewöhnlichen Wünsche …</incipit>
         <anmerkung>An die Leser anstatt eines Neujahrswunsches</anmerkung>
     </beitrag>
     <beitrag>
@@ -191,7 +191,7 @@
     <!-- 08 -->
     <beitrag>
         <stueck datum="1765" nr="8" von="29" bis="30"/>
-        <werk ref="bremisches-magazin" kat="rezension"/>
+        <werk ref="bremisches-magazin07" kat="rezension"/>
         <ort ref="bremen"/>
         <ort ref="leipzig"/>
     </beitrag>
@@ -389,7 +389,7 @@
     <!-- 17 -->
     <beitrag>
         <stueck datum="1765" nr="17" von="65" bis="66"/>
-        <werk ref="hallische-anzeigen" kat="rezension"/>
+        <werk ref="hallische-anzeigen34-1" kat="rezension"/>
         <ort ref="halle"/>
     </beitrag>
     <beitrag>
@@ -452,6 +452,34 @@
     <beitrag>
         <stueck datum="1765" nr="19" von="76"/>
         <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <!-- 20 -->
+    <beitrag>
+        <stueck datum="1765" nr="20" von="77" bis="78"/>
+        <kategorie ref="aufsatz"/>
+        <incipit>Die Geschicklichkeit und das Genie sind nicht immer mit der Neigung verbunden …</incipit>
+        <akteur ref="kanter"/> <!-- bei Taszus ohne "vmtl.", aber auch ohne Nachweis -->
+        <anmerkung>Ohne Unterzeichner.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="20" von="78"/>
+        <werk ref="schreber-schriften" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="20" von="78"/>
+        <kategorie ref="gedicht"/>
+        <titel>Die Rose</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="20" von="79" bis="80"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="20" von="80"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
 </beitraege>

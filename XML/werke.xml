@@ -34,7 +34,7 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10399509-8">BSB München</url>
     </werk>
 
-    <werk id="bremisches-magazin">
+    <werk id="bremisches-magazin07">
         <zitation>Bremisches Magazin zur Ausbreitung der Wissenschaften, Künste und Tugend, Von einigen Liebhabern derselben mehrentheils aus den Englischen Monatsschriften gesammlet und herausgegeben (7 Bde., Bremen und Leipzig: Förster 1756–1765), Bd. 7.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10613451-0">BSB München</url>
     </werk>
@@ -176,7 +176,7 @@
 
     <werk id="bieler-kunst">
         <akteur ref="bieler-b" />
-        <zitation>Die wahre Kunst und Klugheit, seine Jahre zu vermehren, und alt zu werden, von M. Benj. Bieler</zitation>
+        <zitation>Die wahre Kunst und Klugheit, seine Jahre zu vermehren, und alt zu werden, von M. Benj. Bieler (Dresden, Leipzig o. J.).</zitation>
     </werk>
 
     <werk id="karsch-gedichte">
@@ -607,8 +607,8 @@
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000132700000000">Stabi Berlin</url>
     </werk>
 
-    <werk id="hallische-anzeigen">
-        <zitation>Wöchentliche hallische Anzeigen (Halle 1731–1810) , 1765, St. 1–3.</zitation>
+    <werk id="hallische-anzeigen34-1">
+        <zitation>Wöchentliche hallische Anzeigen (Halle 1731–1810), 1765, St. 1–3.</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-6725">Versch. Jg. (SuU Bremen)</url>
         <!-- Habe mich an id="gelehrte-beytraege-riga" orientiert -->
     </werk>
@@ -1083,6 +1083,12 @@
     <werk id="brooke-mandeville">
         <akteur ref="brooke-f" />
         <zitation>Die Geschichte der Lady Julie Mandeville, von dem Übersetzer der Briefe der Catesby, aus dem Engländischen (Leipzig 1764).</zitation>
+    </werk>
+
+    <werk id="schreber-schriften">
+        <akteur ref="schreber-dg" />
+        <zitation>Daniel Gottfried Schrebers Zwo Schriften von der Geschichte und Nothwendigkeit der Cameralwissenschaften in so ferne sie als Universitätswissenschaften anzusehen sind (Leipzig: Dyckische Buchhandlung 1764).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3395926054">SLUB Dresden</url>
     </werk>
 
     <werk id="jussy-lettres">
