@@ -121,6 +121,12 @@
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001907F00010000">Stabi Berlin</url>
     </werk>
 
+    <werk id="ehrlicher-mann">
+        <akteur ref="jacobi-jf" />
+        <zitation>Johann Friedrich Jacobi: Vermischte Abhandlungen (2 Bde., Hannover: Richter 1764), Bd. 1.</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001907F00010000">Stabi Berlin</url>
+    </werk>
+
     <werk id="philippi-briefe">
         <akteur ref="philippi-ja" />
         <zitation>Johann Albrecht Philippi: Anmuthige und Satyrische Briefe in historischen
@@ -396,6 +402,12 @@
         <akteur ref="schmidt-jf" />
         <zitation>Von der Religion (Königsberg, Leipzig, Mitau: Kanter 1764).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:24-digibib-kxp18333405077">WLB Stuttgart</url>
+    </werk>
+
+    <werk id="stoelzel-mann">
+        <akteur ref="stoelzel-wf" />
+        <zitation>Der Ehrliche Mann. Wochenschrift [hrsg. von Wilhelm Friedrich Stölzel u. Johann Jakob Schmidt] (1 Bd., Gotha: Mevius 1764), Bd. 1.</zitation> <!-- anscheinend ist nur ein Band/Jg. erschienen, rezensiert wird aber explizit Bd. 1 -->
+        <!-- <url adresse="https://opac.uni-erfurt.de/DB=1/XMLPRS=N/PPN?PPN=537696830">FBG</url> -->
     </werk>
 
     <werk id="eller-abhandlungen">
@@ -1428,6 +1440,11 @@
     <werk id="cramer-predigten11">
         <akteur ref="cramer-ja" />
         <zitation>Neue Sammlung einiger Predigten, besonders über Evangelia und einige andere Texte von D. Johann Andreas Cramer. 11. Theil (Kopenhagen: Rothe 1770).</zitation>
+    </werk>
+
+    <werk id="cramer-predigten04">
+        <akteur ref="cramer-ja" />
+        <zitation>Neue Sammlung einiger Predigten, besonders über Evangelische und einige andere Texte von Johann Andreas Cramer. 4. Theil (Leipzig: 1765).</zitation>
     </werk>
 
     <werk id="bremisches-magazin3-2">

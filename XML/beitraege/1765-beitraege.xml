@@ -326,8 +326,8 @@
     <beitrag>
         <stueck datum="1765" nr="14" von="54" bis="55"/>
         <werk ref="schoenfeldt-anweisung" kat="rezension"/>
-        <ort ref="buetzow"></ort>
-        <ort ref="wismar"></ort>
+        <ort ref="buetzow"/>
+        <ort ref="wismar"/>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="14" von="55" bis="56"/>
@@ -339,5 +339,26 @@
         <kategorie ref="buecher"/>
         <kategorie ref="lotterie"/>
     </beitrag>
+
+    <!-- 15 -->
+    <beitrag>
+        <stueck datum="1765" nr="15" von="53"/>
+        <werk ref="stoelzel-mann" kat="rezension"/>
+        <ort ref="gotha"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="15" von="53" bis="59"/>
+        <werk ref="cramer-predigten04" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="15" von="59" bis="60"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="15" von="60"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
 
 </beitraege>
