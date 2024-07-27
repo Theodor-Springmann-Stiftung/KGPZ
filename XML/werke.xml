@@ -410,6 +410,12 @@
         <!-- <url adresse="https://opac.uni-erfurt.de/DB=1/XMLPRS=N/PPN?PPN=537696830">FBG</url> -->
     </werk>
 
+    <werk id="stoelzel-sammlung">
+        <akteur ref="stoelzel-wf" />
+        <zitation>Wilh. Friedr. Stölzels, Gothaischen Hofpredigers dritte Sammlung heiliger Reden ([7 Bde., Gotha: Dietrich, 1755–77]), Bd. 3.</zitation>
+        <!-- Bandzahl nach https://www.deutsche-biographie.de/pnd115388710.html -->
+    </werk>
+
     <werk id="eller-abhandlungen">
         <akteur ref="eller-jt"/>
         <akteur ref="gerhard-ca"/>
@@ -520,6 +526,12 @@
             hieher gehörigen Nachrichten von dem Leben merkwürdiger englischer Dichter (Lübeck:
             Schmidt und Donatius 1763).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10005345-7">BSB München</url>
+    </werk>
+
+    <werk id="faesi-abhandlungen">
+        <akteur ref="faesi-jk" />
+        <zitation>Abhandlungen über wichtige Begebenheiten aus der alten und neuern Geschichte (2 Bde., Zürich: Orell, Geßner u. Comp. 1763–64), Bd. 2 (1764).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10738142-4">BSB München</url>
     </werk>
 
     <werk id="gelehrte-beytraege-riga">
@@ -1128,6 +1140,13 @@
         <akteur ref="beaumont-jm" />
         <zitation>Instructions pour les jeunes dames, qui entrent dans le Monde: se Marient: leurs devoirs dans cet Etat, et envers leurs Enfans. Tome 4 (Den Haag 1764).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11020597-0">BSB München</url>
+    </werk>
+
+    <werk id="beaumont-unterweisungen">
+        <akteur ref="beaumont-jm" />
+        <akteur ref="schwabe-jj"/>
+        <zitation>Der Frau Maria le Prince de Beaumont nöthige Unterweisungen für junges Frauenzimmer, welches in die Welt tritt und sich verheurathet, als der Verfolg des Magazins für junge Leute, nach deutscher Art eingerichtet von Johann Joachim Schwaben (4 Bde., Leipzig 1764)</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10759185-4">Zweite und verbesserte Auflage, Leipzig 1768 (BSB München)</url>
     </werk>
 
     <werk id="schauplatz-liebe">

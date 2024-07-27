@@ -360,5 +360,30 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
+    <!-- 16 -->
+    <beitrag>
+        <stueck datum="1765" nr="16" von="62" bis="62"/>
+        <werk ref="beaumont-unterweisungen" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="16" von="62"/>
+        <werk ref="stoelzel-sammlung" kat="rezension"/>
+        <ort ref="gotha"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="16" von="62" bis="63"/>
+        <werk ref="faesi-abhandlungen" kat="rezension"/>
+        <ort ref="zuerich"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="16" von="63" bis="64"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="13" von="64"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
 
 </beitraege>
