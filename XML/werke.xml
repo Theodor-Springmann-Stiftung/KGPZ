@@ -602,6 +602,12 @@
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000132700000000">Stabi Berlin</url>
     </werk>
 
+    <werk id="hallische-anzeigen">
+        <zitation>Wöchentliche hallische Anzeigen (Halle 1731–1810) , 1765, St. 1–3.</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-6725">Versch. Jg. (SuU Bremen)</url>
+        <!-- Habe mich an id="gelehrte-beytraege-riga" orientiert -->
+    </werk>
+
     <werk id="briefe-moral">
         <zitation>Briefe über die Neueste Moral. Erster Band (Rostock und Greifswald: Rösen 1764).</zitation>
         <url address="https://books.google.de/books?id=mt8AAAAAcAAJ">Google Books</url>
@@ -665,6 +671,12 @@
             of some Travellers, with Regard to that Country, by Joseph Baretti (2 Bde., 2. Aufl.
             London 1769), Bd. 1.</zitation>
         <url address="https://books.google.de/books?id=jsZDAAAAYAAJ">Google Books</url>
+    </werk>
+
+    <werk id="voltaire-contes">
+        <akteur ref="voltaire" />
+        <zitation>Contes de Guillaume Vadé ([Genf] 1764).</zitation>
+        <url address="ttps://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10099509-3">Stabi München</url>
     </werk>
 
     <werk id="johnson-idler">

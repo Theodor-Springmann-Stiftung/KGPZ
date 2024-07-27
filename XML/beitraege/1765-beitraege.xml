@@ -334,7 +334,7 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="13" von="56"/>
+        <stueck datum="1765" nr="14" von="56"/>
         <kategorie ref="avertissement"/>
         <kategorie ref="buecher"/>
         <kategorie ref="lotterie"/>
@@ -381,9 +381,33 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="13" von="64"/>
+        <stueck datum="1765" nr="16" von="64"/>
         <kategorie ref="avertissement"/>
         <kategorie ref="buecher"/>
+    </beitrag>
+    
+    <!-- 17 -->
+    <beitrag>
+        <stueck datum="1765" nr="17" von="65" bis="66"/>
+        <werk ref="hallische-anzeigen" kat="rezension"/>
+        <ort ref="halle"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="17" von="66"/>
+        <werk ref="voltaire-contes" kat="rezension"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="17" von="66"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <anmerkung>Disputation D. Brauns als Prof. Juris Ordinarius quartus</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="17" von="67" bis="68"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="17" von="68"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 </beitraege>
