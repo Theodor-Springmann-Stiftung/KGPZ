@@ -426,4 +426,32 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
 
+    <!-- 19 -->
+    <beitrag>
+        <stueck datum="1765" nr="19" von="73" bis="74"/>
+        <kategorie ref="aufsatz"/>
+        <titel>Über eine gefährliche Art der Medisance.</titel>
+        <akteur ref="kanter" unsicher="true"/>
+        <anmerkung>Unterzeichnet mit K----r.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="19" von="74" bis="75"/>
+        <werk ref="bieler-kunst" kat="rezension"/>
+        <ort ref="dresden"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="19" von="75" bis="76"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="19" von="76"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="19" von="76"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
 </beitraege>
