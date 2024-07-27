@@ -409,5 +409,21 @@
         <stueck datum="1765" nr="17" von="68"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
+        
+    <!-- 18 -->
+    <beitrag>
+        <stueck datum="1765" nr="18" von="69" bis="70"/>
+        <werk ref="trescho-beurtheilung" kat="rezension"/>
+        <ort ref="frankfurt"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="18" von="70"/>
+        <werk ref="zückert-arzneygelahrtheit" kat="rezension"/>
+        <ort ref="frankfurt"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="18" von="71" bis="72"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
 
 </beitraege>
