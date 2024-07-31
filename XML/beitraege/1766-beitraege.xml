@@ -507,7 +507,6 @@
     <kategorie ref="buecher" />
 </beitrag>
 
-
 <!-- 25 -->
 <beitrag>
     <stueck datum="1766" nr="25" von="99" bis="100"/>
@@ -564,4 +563,25 @@
     <kategorie ref="avertissement" />
     <kategorie ref="lokalanzeigen"/>
 </beitrag>
+
+<!-- 27 -->
+<beitrag>
+    <stueck datum="1766" nr="27" von="107" bis="108"/>
+    <werk kat="rezension" ref="der-mensch-die-welt"></werk>
+    <ort ref="nuernberg" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="27" von="108"/>
+    <werk kat="rezension" ref="beaumont-briefe"></werk>
+    <ort ref="leipzig" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="27" von="108" bis="110"/>
+    <kategorie ref="weltnachrichten" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="27" von="110"/>
+    <kategorie ref="wechselkurse" />
+</beitrag>
+
 </beitraege>
