@@ -441,12 +441,37 @@
     <kategorie ref="wechselkurse" />
 </beitrag>
 
-
 <!-- 22 -->
 <beitrag>
     <stueck datum="1766" nr="22" von="87" bis="88"/>
     <werk kat="rezension" ref="barnevelt-zeila-lettres"></werk>
     <ort ref="celle" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="22" von="88" bis="89"/>
+    <stueck datum="1766" nr="23" von="91" bis="92"/>
+    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek"></werk>
+    <ort ref="berlin" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="22" von="89" bis="90" />
+    <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="22" von="90"/>
+    <kategorie ref="einkommende-fremde" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="22" von="90" />
+    <kategorie ref="avertissement" />
+    <kategorie ref="buecher" />
+</beitrag>
+
+<!-- 23 -->
+<beitrag>
+    <stueck datum="1766" nr="23" von="92" bis="93"/>
+    <werk kat="rezension" ref="geschichte-des-morgenlaendischen-kaiserthums"></werk>
+    <ort ref="leipzig" />
 </beitrag> 
 
 </beitraege>
