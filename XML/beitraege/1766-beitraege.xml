@@ -627,4 +627,24 @@
     <kategorie ref="wechselkurse" />
 </beitrag>
 
+<!-- 30 -->
+<beitrag>
+    <stueck datum="1766" nr="30" von="121" bis="123"/>
+    <werk kat="rezension" ref="fortdauer-der-seele"></werk> <!-- Das Register von Taszus scheint nicht mit der Rezension im Beitrag übereinzustimmen. -->
+    <anmerkung>Der Titel der Rezension lautet "Fehlerhafter Beweis von der Fortdauer der Seele nach dem Tode".</anmerkung>
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="30" von="123" bis="124"/>
+    <kategorie ref="weltnachrichten" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="30" von="124" />
+    <kategorie ref="avertissement" />
+    <kategorie ref="buecher" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="30" von="124"/>
+    <kategorie ref="einkommende-fremde" />
+</beitrag> 
+
 </beitraege>
