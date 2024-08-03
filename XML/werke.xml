@@ -34,6 +34,12 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10399509-8">BSB München</url>
     </werk>
 
+    <werk id="der-mensch-die-welt">
+        <akteur ref="herr-p"/>
+        <zitation>De Mensch und die Welt, aus dem Französischen des Hernn P. (Nürnberg 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10399509-8">BSB München</url>
+    </werk>
+
     <werk id="bremisches-magazin07">
         <zitation>Bremisches Magazin zur Ausbreitung der Wissenschaften, Künste und Tugend, Von einigen Liebhabern derselben mehrentheils aus den Englischen Monatsschriften gesammlet und herausgegeben (7 Bde., Bremen und Leipzig: Förster 1756–1765), Bd. 7.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10613451-0">BSB München</url>
@@ -84,6 +90,13 @@
         <zitation>Einleitung in die moralische weltweisheit in Frag- und Antworten (Bremen 1766).</zitation>
     </werk>
 
+    <werk id="lucifer-gedicht">
+        <akteur ref="hudemann-lf" />
+        <zitation>Lucifer, ein episches Gedicht, vergertigt von D. Hudemann (Berger und Bödner: Bützow und Wismar 1765).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-339322">ULB Halle</url> 
+
+    </werk>
+
     <werk id="sendschreiben-abbt">
         <akteur ref="abbt-t" />
         <zitation>Sendschreiben an den Herrn Verfasser der Schrift: Erfreuliche Nachricht von einem hoffentlich bald zu errichtenden protestantischen Inquisitionsgericht (Danzig 1766).</zitation>
@@ -121,6 +134,12 @@
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001907F00010000">Stabi Berlin</url>
     </werk>
 
+    <werk id="barnevelt-zeila-lettres">
+        <akteur ref="dorat-cj" />
+        <zitation>Lettre de Barnevelt dans sa prison à Truman und Lettre de Zeila à Valcour (Celle: Gsellius 1764).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10088185-2">BSB München</url>
+    </werk>
+
     <werk id="ehrlicher-mann">
         <akteur ref="jacobi-jf" />
         <zitation>Johann Friedrich Jacobi: Vermischte Abhandlungen (2 Bde., Hannover: Richter 1764), Bd. 1.</zitation>
@@ -132,6 +151,12 @@
         <zitation>Johann Albrecht Philippi: Anmuthige und Satyrische Briefe in historischen
             Erzählungen über verschiedene Begebenheiten (Köln [Berlin] 1764).</zitation>
         <url address="https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00034441?derivate=HisBest_derivate_00020065">ULB Jena</url>
+    </werk>
+
+    <werk id="lange-briefe">
+        <akteur ref="lange-fre" />
+        <zitation>Briefe für Kinder, von F.R.E. Langen (Dresden und Leipzig: Gerlach 1765).</zitation>    
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN1001438663">Auflage von 1767 (SUB Göttingen)</url>
     </werk>
 
     <werk id="buesching-denkmal-stegelmann">
@@ -164,6 +189,27 @@
             Vergnügen für den Geist und das Herz. Aus dem Französischen übersetzt (Berlin: Mylius
             1763).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10103463-7">BSB München</url>
+    </werk>
+
+    <werk id="meier-beytraege-lehre">
+        <akteur ref="meier-gf" />
+        <zitation>Meiers, G.F., Beyträge zu der Lehre von den Vorurtheilen des menschlichen Geschlechts (Halle: Hemmerde 1766).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-1192015415-188738460-11">ULB Halle</url> 
+    </werk>
+
+    <werk id="gray-guthrie-weltgeschichte-von-der-schoepfung">
+        <akteur ref="guthrie-w" />
+        <akteur ref="gray-j" />
+        <akteur ref="heyne-cg" />
+        <zitation>Allgemeine Weltgeschichte von der Schöpfung an bis auf gegenwärtige Zeit, ausgefertigt von Guthrie und Gray,
+            aus dem Englischen übersetzt, und durch Herrn P. Heyne berichtigt und mit Anmerkungen versehen. Erster Theil (Leipzig: Weidmann und Reich 1765).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10031927-0">BSB München</url> 
+    </werk>
+
+    <werk id="oesfeld-betrachtung">
+        <akteur ref="oesfeld-gf" />
+        <zitation>Oesfels, M. Gotthelf, Betrachtung über die zukünftige Welt (Chemnitz: Stößel Erben 1766).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3232910158">SLUB Dresden</url> 
     </werk>
 
     <werk id="home-critick">
@@ -374,6 +420,12 @@
         <zitation>L’art de bien écrire des Lettres en toutes matieres (Brüssel 1765). </zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11761687-2">BSB München</url> 
     </werk>
+
+    <werk id="heilige-lieder-versuche">
+        <akteur ref="mark-gj"></akteur>
+        <zitation>Marks Versuche in heiligen Liedern (Altona und Leipzig: Iversen 1766). </zitation>
+    </werk>
+
 
     <werk id="buesching-geschichte">
         <zitation>D. Anton Friedrich Büschings Geschichte der evangelisch-lutherischen Gemeinen im Rußischen Reich, 1. Teil (Altona: Iversen 1766). </zitation>
@@ -1140,22 +1192,50 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10293534-0">BSB München</url>
     </werk>
 
+    <werk id="schauplatz-der-kuenste">
+        <zitation>Schauplatz der Künste und Handwerke oder vollständige Beschreibung derselben, 
+            verfertiget oder gebilliget von denen Herren der Akademie der Wissenschaften zu Paris. 
+            Hrsg. von D. Schreber (5. Bde., Königsberg und Mitau: Kanter 1766).</zitation>
+    </werk>
+
+    <werk id="neues-handbuch-kuenstler">
+        <zitation>Neues Handbuch für Künstler auf alle fast nur ordentliche Fälle eingerichtet,
+            aus dem Französischen übersetzt. 2 Theile (Bamberg und Leipzig: Göbhardt 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10259093-5">BSB München</url>
+    </werk>
+
     <werk id="gruner-anweisung">
         <akteur ref="gruner-jf" /> 
         <zitation>Johann Friedrich Gruners Anweisung zur geistlichen Beredsamkeit (Halle: Franke 1766).</zitation>
         <url address="http://dx.doi.org/10.25673/44410">ULB Halle</url>
     </werk>
 
+    <werk id="dommerich-mnemonik-und-heuristik">
+        <akteur ref="dommerich-jc" /> 
+        <zitation>Die Mnemonik und Heuristik, nach ihren ersten Zügen, entworfen von
+        Joh. Christ. Dommerich (Halle und Helmstedt: 1765).</zitation>
+        <url address="https://books.google.de/books?id=VUlkFJNdqbwC">Google Books</url>
+    </werk>
+
+    <werk id="steffens-unerwartete-im-heyrathen">
+        <akteur ref="steffens-jh"></akteur>
+        <zitation>Das Unerwartete im Heyrathen, oder, die Frau mit zwoen Männern zugleich, ein Lustspiel, von J. H. Steffens, Rektor der Zellischen Schule (Zelle 1765).</zitation>
+    </werk>
+
     <werk id="hennings-abhandlung">
         <akteur ref="hennings-jc" /> 
         <zitation>J. C. Hennings moralisch und politische Abhandlung von dem Wege zur Weisheit und Klugheit (Jena 1766).</zitation>
-        
     </werk>
 
     <werk id="vom-stande-briefe">
         <akteur ref="dusch-jj" /> 
         <zitation>Briefe zur Bildung des Geschmacks: an einen jungen Herrn vom Stande. 2. Teil</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11259643-9">BSB München</url>
+    </werk>
+
+    <werk id="fortdauer-der-seele">
+    <zitation>Anekdoten zur Bildung der Sitten, aus den griechischen und römischen
+        Schriftstellern gesammlet. Erster Theil (Halle 1767).</zitation>
     </werk>
 
     <werk id="schroeckh-abbildungen3">
@@ -1175,6 +1255,12 @@
         <akteur ref="schwabe-jj"/>
         <zitation>Der Frau Maria le Prince de Beaumont nöthige Unterweisungen für junges Frauenzimmer, welches in die Welt tritt und sich verheurathet, als der Verfolg des Magazins für junge Leute, nach deutscher Art eingerichtet von Johann Joachim Schwaben (4 Bde., Leipzig 1764)</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10759185-4">Zweite und verbesserte Auflage, Leipzig 1768 (BSB München)</url>
+    </werk>
+
+    <werk id="beaumont-briefe">
+        <akteur ref="beaumont-jm" />
+        <zitation>Briefe der Emerentia an Lucien von der Frau von Beaumont (2 Bde., Leipzig 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10312642-1">(BSB München)</url>
     </werk>
 
     <werk id="schauplatz-liebe">
@@ -1344,10 +1430,43 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10291191-9">BSB München</url>
     </werk>
 
+    <werk id="churmark-brandenburg-geschichte-versuch">
+        <akteur ref="buchholz-s"></akteur>
+        <akteur ref="suessmilch-jp"></akteur>
+        <zitation>Versuch einer Geschichte der Churmark Brandenburg, von der ersten Erscheinung der deutschen Senonnen bis auf jetzige Zeiten, von Sam Buchholz, Oberpf. zu Lichen, mit des Herrn Oberconsist.
+            Raths Süßmilchs vorrede. Erster Theil, alte Geschichte (Berlin: Birnstiel 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10000747">BSB München</url>
+    </werk>
+
+    <werk id="kleinigkeiten-gedicht-karsch">
+        <akteur ref="karsch"></akteur>
+        <zitation>Kleinigkeiten (Berlin: Winter 1765).</zitation>
+    </werk>
+
+    <werk id="schueler-aus-der-natur">
+        <zitation>Der Schüler aus der Natur. Aus dem Französischen übersetzt (Leipzig und Danzig 1765).</zitation>
+    </werk>
+
     <werk id="gedichte-jungesfrauenzimmer">
         <zitation>Gedichte eines jungen Frauenzimmers (Leipzig, Rinteln: Barth 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10121948-6">BSB München</url>
     </werk>
+
+    <werk id="kritische-briefe-wissenschaft">
+    <akteur ref="kinderling-jf"></akteur>
+    <zitation>Kritische Briefe, die schönen Wissenchaften betreffend, von J. F. Kinderling, der Weltw. Mag. (Halle: Kurt 1765).</zitation>
+    </werk>
+
+    <werk id="abschied-antritt-predigt">
+        <akteur ref="reccard-gc"></akteur>
+        <zitation>Abschiedspredigt in Berlin, und Antrittspredigt in Königsberg, gehalten von Gotthilf Christian Reccard (Königsberg: Kanter 1766).</zitation>
+        </werk>
+
+    <werk id="kant-traum-metaphysik">
+        <akteur ref="kant"></akteur>
+        <zitation>Träume eines Geistersehers erläutert durch Träume der Metaphysik, 8. B. in 8 (Königsberg: Kanter 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10927050">BSB München</url>
+        </werk>
 
     <werk id="lenov-zeitvertreib">
         <akteur ref="lenov" />
@@ -1376,6 +1495,21 @@
 
     <werk id="neujahrsgeschenk-1765">
         <zitation>Neujahrsgeschenk für das schöne Geschlecht aufs Jahr 1765 (Berlin: Nicolai 1764).</zitation>
+    </werk>
+
+    <werk id="allgemeine-deutsche-bibliothek">
+        <zitation>Allgemeine deutsche Bibiliothek. Erster Band, 1. 2. Stück. (Berlin: F. Nicolai 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10710926-3" >BSB München</url>
+    </werk>
+
+    <werk id="geschichte-des-morgenlaendischen-kaiserthums">
+        <akteur ref="le-beau-c" />
+        <akteur ref="rollin-c" />
+        <akteur ref="crevier-jbl" />
+        <zitation>Geschichte des morgenländischen Kaiserthums, Des Herrn Le Beau, Prof. der Universität zu Paris,
+            von Constantin dem Großen an, als eine Forsetzung der Werke der Herren Rollin und Crevier. Aus dem Franz.
+            1ster Theil (Leipzig: Fritsch 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10447223-0" >BSB München</url>
     </werk>
 
     <werk id="blainville-reisebeschreibung1-1">

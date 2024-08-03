@@ -37,22 +37,45 @@
         <gnd>https://d-nb.info/gnd/136853323</gnd>
     </akteur>
 
+    <akteur id="hudemann-lf">
+        <name>Ludwig Friedrich Hudemann</name>
+        <lebensdaten>1703–1770</lebensdaten>
+        <gnd>https://d-nb.info/gnd/100820042</gnd>
+    </akteur>
+
     <akteur id="lange-ag">
         <name>Gottlieb August Lange</name>
         <lebensdaten>–1796</lebensdaten>
-        <gnd>https://d-nb.info/gnd/12972646X</gnd>
+        <gnd>https://d-nb.info/gnd/12972646</gnd>
+    </akteur>
+
+    <akteur id="lange-fre">
+        <name>F.R.E. Lange</name>
+        <lebensdaten>Lebensdaten unbekannt, 18. Jh.</lebensdaten>
     </akteur>
     
+    <akteur id="kanter">
+        <name>Johann Jakob Kanter</name>
+        <lebensdaten>1738–1786</lebensdaten>
+        <gnd>https://d-nb.info/gnd/103759972</gnd>
+    </akteur>
+
     <akteur id="velly-pf">
         <name>Paul François Velly</name>
         <lebensdaten>1690–1759</lebensdaten>
         <gnd>https://d-nb.info/gnd/100654045</gnd>
     </akteur>
 
-    <akteur id="kanter">
-        <name>Johann Jakob Kanter</name>
-        <lebensdaten>1738–1786</lebensdaten>
-        <gnd>https://d-nb.info/gnd/103759972</gnd>
+    <akteur id="mark-gj">
+        <name>Georg Joachim Mark</name>
+        <lebensdaten>1726–1774</lebensdaten>
+        <gnd>https://d-nb.info/gnd/121963411</gnd>
+    </akteur>
+
+    <akteur id="reccard-gc">
+        <name>Gotthilf Christian Reccard</name> 
+        <lebensdaten>1735–1798</lebensdaten>
+        <gnd>https://d-nb.info/gnd/100245684</gnd>
     </akteur>
 
     <akteur id="braxein-f">
@@ -203,6 +226,12 @@
         <name>David Iversen</name>
         <lebensdaten>Lebensdaten unbekannt</lebensdaten>
         <gnd>https://d-nb.info/gnd/1037496531</gnd>
+    </akteur>
+
+    <akteur id="kinderling-jf">
+        <name>Johann Friedrich August Kinderling</name>
+        <lebensdaten>1743–1807</lebensdaten>
+        <gnd>https://d-nb.info/gnd/116172126</gnd>
     </akteur>
 
     <akteur id="borowski">
@@ -443,6 +472,30 @@
         <gnd>https://d-nb.info/gnd/118796968</gnd>
     </akteur>
 
+    <akteur id="dorat-cj">
+        <name>Claude Joseph Dorat</name>
+        <lebensdaten>1734–1780</lebensdaten>
+        <gnd>https://d-nb.info/gnd/100797083</gnd>
+    </akteur>
+
+    <akteur id="le-beau-c">
+        <name>Charles Le Beau</name>
+        <lebensdaten>1701–1778</lebensdaten>
+        <gnd>https://d-nb.info/gnd/1055336648</gnd>
+    </akteur>
+
+    <akteur id="rollin-c">
+        <name>Charles Rollin</name>
+        <lebensdaten>1661–1741</lebensdaten>
+        <gnd>https://d-nb.info/gnd/117593540</gnd>
+    </akteur>
+
+    <akteur id="crevier-jbl">
+        <name>Jean Baptiste Louis Crevier</name>
+        <lebensdaten>1693–1765</lebensdaten>
+        <gnd>https://d-nb.info/gnd/100095224</gnd>
+    </akteur>
+
     <akteur id="barreti-g">
         <name>Giuseppe Baretti</name>
         <lebensdaten>1719–1789</lebensdaten>
@@ -490,6 +543,13 @@
         <lebensdaten>1734–1807</lebensdaten>
         <gnd>http://d-nb.info/gnd/119413280</gnd>
     </akteur>
+
+    <akteur id="oesfeld-gf">
+        <name>Gotthelf Friedrich Oesfeld</name>
+        <lebensdaten>1735–1801</lebensdaten>
+        <gnd>https://d-nb.info/gnd/136033636</gnd>
+    </akteur>
+
 
     <akteur id="galiani-f">
         <name>Ferdinando Galiani</name>
@@ -960,10 +1020,28 @@
         <gnd>http://d-nb.info/gnd/100203515</gnd>
     </akteur>
 
-    <akteur id="id">
-        <name>meier-gf</name>
+    <akteur id="meier-gf">
+        <name>Georg Friedrich Meier</name>
         <lebensdaten>1718–1777</lebensdaten>
         <gnd>http://d-nb.info/gnd/118580051</gnd>
+    </akteur>
+
+    <akteur id="guthrie-w">
+        <name>William Guthrie</name>
+        <lebensdaten>1708–1770</lebensdaten>
+        <gnd> https://d-nb.info/gnd/1025948416</gnd>
+    </akteur>
+
+    <akteur id="gray-j">
+        <name>John Gray</name>
+        <lebensdaten>1724–1811</lebensdaten>
+        <gnd>https://d-nb.info/gnd/124505120</gnd>
+    </akteur>
+
+    <akteur id="heyne-cg">
+        <name>Christian Gottlieb Heyne</name>
+        <lebensdaten>1729–1812</lebensdaten>
+        <gnd>https://d-nb.info/gnd/11855073X</gnd>
     </akteur>
 
     <akteur id="grau-jd">
@@ -1120,6 +1198,18 @@
         <gnd>https://d-nb.info/gnd/118667599</gnd>
     </akteur>
 
+    <akteur id="buchholz-s">
+        <name>Samuel Buchholz</name>
+        <lebensdaten>1717–1774</lebensdaten>
+        <gnd>https://d-nb.info/gnd/11763865X</gnd>
+    </akteur>
+
+    <akteur id="suessmilch-jp">
+        <name>Johann Peter Süßmilch</name>
+        <lebensdaten>1707–1767</lebensdaten>
+        <gnd>https://d-nb.info/gnd/118814834</gnd>
+    </akteur>
+
     <akteur id="mirabeau-vr">
         <name>Victor de Riquetti de Mirabeau</name>
         <lebensdaten>1715–1789</lebensdaten>
@@ -1209,6 +1299,11 @@
         <gnd>http://d-nb.info/gnd/122496779</gnd>
     </akteur>
 
+    <akteur id="herr-p">
+        <name>Herr P.</name>
+        <lebensdaten>Vorname, Nachname und Lebensdaten unbekannt</lebensdaten>
+    </akteur>
+
     <akteur id="schulze-sf">
         <name>Schulze, Samuel Friedrich</name>
         <lebensdaten>1726–1804</lebensdaten>
@@ -1285,18 +1380,6 @@
         <name>Friedrich II.</name>
         <lebensdaten>1712–1786</lebensdaten>
         <gnd>http://d-nb.info/gnd/118535749</gnd>
-    </akteur>
-
-    <akteur id="guthrie-w">
-        <name>William Guthrie</name>
-        <lebensdaten>1708–1770</lebensdaten>
-        <gnd>https://d-nb.info/gnd/1025948416</gnd>
-    </akteur>
-
-    <akteur id="gray-j">
-        <name>John Gray</name>
-        <lebensdaten>1724–1811</lebensdaten>
-        <gnd>http://d-nb.info/gnd/124505120</gnd>
     </akteur>
 
     <akteur id="seybold-jg">
@@ -1383,6 +1466,12 @@
         <gnd>https://d-nb.info/gnd/118717146</gnd>
     </akteur>
 
+    <akteur id="steffens-jh">
+        <name>Johann Heinrich Steffens</name>
+        <lebensdaten>1711–1784</lebensdaten>
+        <gnd>https://d-nb.info/gnd/117226807</gnd>
+    </akteur>
+
     <akteur id="mosheim-jl">
         <name>Johann Lorenz von Mosheim</name>
         <lebensdaten>1693–1755</lebensdaten>
@@ -1395,6 +1484,12 @@
         <gnd>http://d-nb.info/gnd/11916227X</gnd>
     </akteur>
 
+    <akteur id="dommerich-jc">
+        <name>Johann Christoph Dommerich</name>
+        <lebensdaten>1723–1767</lebensdaten>
+        <gnd>https://d-nb.info/gnd/100110789</gnd>
+    </akteur>
+ 
     <akteur id="ulber-cs">
         <name>Christian Samuel Ulber</name>
         <lebensdaten>1714–1776</lebensdaten>
