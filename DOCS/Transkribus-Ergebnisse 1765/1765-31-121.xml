@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=03_08_2024_18:46</Creator>
+        <Created>2024-04-18T06:02:26.381+02:00</Created>
+        <LastChange>2024-08-03T18:46:19.965+02:00</LastChange>
+        <TranskribusMetadata docId="2900052" pageId="73104815" pageNr="1" tsid="180945853" status="IN_PROGRESS" userId="222699" imgUrl="https://files.transkribus.eu/Get?id=BAVVUEXWZOSLPCXIKPGIDJFP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GMHFFRCSEWMVGIMNWVQQALZX" imageId="54998255"/>
+    </Metadata>
+    <Page imageFilename="73104815.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1722703579966" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_6"/>
+                <RegionRefIndexed index="1" regionRef="r_19"/>
+                <RegionRefIndexed index="2" regionRef="r_34"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_6" custom="readingOrder {index:0;}">
+            <Coords points="189,1627 2319,1627 2319,1737 189,1737"/>
+            <TextLine id="r_6_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="662,1725 1093,1750 1455,1701 1488,1732 1784,1712 1786,1658 1712,1642 1345,1676 665,1650"/>
+                <Baseline points="677,1710 716,1707 761,1707 806,1707 850,1707 895,1710 940,1710 985,1713 1030,1710 1074,1710 1119,1710 1164,1710 1209,1713 1253,1707 1298,1710 1343,1707 1388,1707 1433,1704 1477,1704 1522,1701 1567,1704 1612,1701 1656,1701 1701,1701 1746,1701 1791,1704"/>
+                <TextEquiv>
+                    <Unicode>31tes Stück. Freitag, den 19. April, 1765.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_19" custom="readingOrder {index:1;}">
+            <Coords points="1230,2406 1247,3037 189,3043 189,1737 1224,1737"/>
+            <TextLine id="r_19_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="367,1819 1006,1825 1006,1753 983,1748 367,1768"/>
+                <Baseline points="382,1812 426,1812 471,1812 516,1812 561,1812 606,1812 650,1812 695,1812 740,1815 785,1812 829,1815 874,1815 919,1815 964,1815 1009,1818 1012,1815"/>
+                <TextEquiv>
+                    <Unicode>Königsberg und Leipzig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="234,1868 1211,1871 1196,1796 985,1835 234,1809"/>
+                <Baseline points="247,1851 292,1854 337,1857 382,1859 426,1859 471,1859 516,1859 561,1857 606,1857 650,1857 695,1859 740,1859 785,1859 829,1862 874,1862 919,1862 964,1862 1009,1862 1053,1862 1098,1862 1143,1862 1188,1862 1218,1862"/>
+                <TextEquiv>
+                    <Unicode>Die Hartungschen Erben und Joh. Dan. Zeise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="185,1914 1209,1912 1209,1871 1111,1863 185,1868"/>
+                <Baseline points="200,1901 238,1901 283,1904 328,1901 373,1904 417,1904 462,1904 507,1907 549,1895 549,1895 594,1898 638,1901 683,1901 728,1904 773,1904 818,1904 862,1907 907,1907 952,1904 997,1904 1041,1904 1086,1907 1131,1904 1176,1904 1215,1904"/>
+                <TextEquiv>
+                    <Unicode>haben verlegt: ”Jo. Christoph. Wulff Med. Doct.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="185,1948 1209,1961 1188,1912 185,1912"/>
+                <Baseline points="200,1928 244,1940 289,1943 334,1946 379,1946 423,1949 468,1946 513,1946 558,1946 603,1946 647,1946 692,1949 737,1949 782,1949 826,1949 871,1949 916,1952 961,1949 1006,1952 1050,1952 1095,1952 1140,1949 1185,1949 1212,1952"/>
+                <TextEquiv>
+                    <Unicode>Flora Borussica denuo efflorescens auctior, cum fi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="185,1991 434,2025 621,1997 1204,2017 1204,1968 182,1948"/>
+                <Baseline points="200,1982 244,1988 289,1994 334,1997 379,1997 423,1994 468,1997 513,1997 558,1997 603,1997 647,1994 692,1997 737,1997 782,1997 826,1997 871,2000 916,2000 961,1997 1006,2000 1050,2000 1095,1997 1140,2000 1185,2000 1209,2000"/>
+                <TextEquiv>
+                    <Unicode>guris, 8vo, 1765. 19½/ Bogen nebst ½ Bogen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="200,2053 1204,2063 1204,2017 1127,2007 200,2004"/>
+                <Baseline points="214,2027 259,2039 304,2039 349,2039 394,2036 438,2036 483,2042 528,2045 573,2045 618,2045 662,2048 707,2048 752,2048 797,2048 841,2048 886,2048 931,2048 976,2048 1021,2048 1065,2048 1110,2051 1155,2048 1200,2051 1209,2048"/>
+                <TextEquiv>
+                    <Unicode>"Kupfer". Der geschickte Herr Verfasser liefert uns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="192,2115 1209,2112 1209,2061 1165,2058 192,2056"/>
+                <Baseline points="206,2092 250,2092 295,2092 340,2092 385,2092 429,2095 474,2095 519,2098 564,2098 609,2098 653,2098 698,2095 743,2095 788,2098 832,2098 877,2098 922,2098 967,2098 1012,2098 1056,2098 1101,2098 1146,2095 1191,2098 1215,2095"/>
+                <TextEquiv>
+                    <Unicode>hier 1219 Untergattungen der Kräuter und Ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="198,2156 2251,2143 2228,2091 2061,2084 198,2112"/>
+                <Baseline points="211,2140 256,2143 301,2143 346,2146 391,2146 435,2146 480,2146 525,2149 570,2149 615,2149 659,2152 704,2152 749,2149 794,2152 838,2149 883,2149 928,2149 973,2152 1018,2152 1062,2152 1107,2152 1152,2152 1197,2149 1218,2149 1241,2146 1271,2149 1316,2146 1361,2146 1406,2146 1450,2143 1495,2143 1540,2143 1585,2140 1630,2140 1674,2137 1719,2137 1764,2137 1809,2137 1854,2134 1898,2131 1943,2134 1988,2131 2033,2128 2077,2131 2122,2131 2167,2131 2212,2131 2257,2131"/>
+                <TextEquiv>
+                    <Unicode>wachse unseres Preußenlandes. Er folget des Lud. That zu verwundern, wie dieses schöne Werk dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="195,2202 2240,2192 2240,2140 195,2158"/>
+                <Baseline points="208,2188 253,2191 298,2194 343,2194 388,2194 432,2194 477,2197 522,2197 567,2197 612,2197 656,2197 701,2200 746,2200 791,2200 835,2200 880,2203 925,2200 970,2200 1015,2200 1059,2203 1104,2203 1149,2200 1194,2200 1221,2203 1236,2200 1262,2200 1307,2200 1352,2200 1397,2197 1442,2197 1486,2194 1531,2194 1576,2194 1621,2194 1665,2191 1710,2191 1755,2188 1800,2188 1845,2188 1889,2185 1934,2185 1979,2185 2024,2182 2068,2182 2113,2182 2158,2182 2203,2182 2248,2179"/>
+                <TextEquiv>
+                    <Unicode>Gerardi Florae Gallo-Provinciali in seiner Methode, Herrn Verfasser habe können unbekannt bleiben, da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="195,2258 2199,2256 2251,2199 195,2207"/>
+                <Baseline points="208,2242 253,2242 298,2242 343,2245 388,2242 432,2245 477,2245 522,2248 567,2248 612,2248 656,2251 701,2251 746,2251 791,2251 835,2251 880,2254 925,2254 970,2254 1015,2251 1059,2254 1104,2251 1149,2251 1194,2251 1221,2251 1241,2251 1268,2251 1313,2251 1358,2251 1403,2251 1447,2248 1492,2248 1537,2245 1582,2245 1627,2245 1671,2242 1716,2242 1761,2242 1806,2239 1851,2239 1895,2239 1940,2239 1985,2236 2030,2236 2074,2233 2119,2233 2164,2233 2209,2233 2254,2233"/>
+                <TextEquiv>
+                    <Unicode>und in Benennung derer Klassen, deren er 55 an= er die Kenntniß der Geschichte der Natur und dahin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="195,2310 1114,2320 1206,2310 1204,2263 192,2258"/>
+                <Baseline points="208,2289 253,2292 298,2289 343,2295 388,2295 432,2292 477,2295 522,2295 567,2298 612,2298 656,2298 701,2298 746,2298 791,2298 835,2298 880,2301 925,2301 970,2301 1015,2301 1059,2301 1104,2301 1149,2304 1194,2304 1209,2301"/>
+                <TextEquiv>
+                    <Unicode>führet. Hierauf zeiget er die Geschlechter an nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="192,2343 1216,2361 1193,2312 192,2310"/>
+                <Baseline points="206,2334 250,2337 295,2337 340,2340 385,2337 429,2340 474,2340 519,2340 564,2343 609,2343 653,2343 698,2343 743,2346 788,2349 832,2352 877,2352 922,2349 967,2352 1012,2352 1056,2352 1101,2352 1146,2352 1191,2349 1221,2349"/>
+                <TextEquiv>
+                    <Unicode>des unsterblichen Ritters von Linne seinen Generi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="185,2415 1214,2410 1211,2358 182,2343"/>
+                <Baseline points="197,2385 241,2382 286,2385 331,2385 376,2385 420,2388 465,2388 510,2388 555,2391 600,2391 644,2394 689,2391 734,2394 779,2397 824,2400 868,2400 913,2400 958,2400 1003,2400 1047,2400 1092,2403 1137,2400 1182,2400 1221,2400"/>
+                <TextEquiv>
+                    <Unicode>bus Plantarum, und zugleich führt er auch die Sei=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="200,2446 1083,2471 1214,2464 1214,2410 198,2402"/>
+                <Baseline points="214,2430 259,2430 304,2433 349,2433 394,2436 438,2436 483,2436 528,2433 573,2436 618,2436 662,2439 707,2439 752,2442 797,2445 841,2445 886,2448 931,2448 976,2451 1021,2451 1065,2451 1110,2451 1155,2451 1200,2448 1221,2448"/>
+                <TextEquiv>
+                    <Unicode>ten an, in Ant. Gouan Horto Regio Monspeliensi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="195,2500 2253,2487 2253,2435 1224,2474 195,2448"/>
+                <Baseline points="208,2480 253,2483 298,2483 343,2480 388,2483 432,2483 477,2483 522,2483 567,2483 612,2483 656,2486 701,2489 746,2489 791,2492 835,2495 880,2498 925,2498 970,2501 1015,2501 1059,2501 1104,2498 1149,2501 1194,2498 1227,2495 1247,2498 1274,2498 1319,2498 1364,2498 1409,2492 1453,2495 1498,2495 1543,2495 1588,2492 1633,2492 1677,2492 1722,2492 1767,2489 1812,2489 1857,2486 1901,2486 1946,2480 1991,2480 2036,2477 2080,2475 2125,2477 2170,2477 2215,2477 2260,2475"/>
+                <TextEquiv>
+                    <Unicode>darnach stehet die Linnäische Definition aus desselben den. Wäre dieses Werk dem Herrn Verfasser nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="198,2546 1211,2566 1216,2517 195,2492"/>
+                <Baseline points="211,2528 256,2528 301,2531 346,2531 391,2531 435,2528 480,2531 525,2531 570,2531 615,2534 659,2534 704,2537 749,2540 794,2540 838,2543 883,2546 928,2546 973,2549 1018,2549 1062,2546 1107,2549 1152,2546 1197,2549 1224,2549"/>
+                <TextEquiv>
+                    <Unicode>Speciebus Plantarum, wie auch des Bauhini Be=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="203,2592 1106,2618 1214,2612 1211,2564 200,2548"/>
+                <Baseline points="214,2579 259,2582 304,2582 349,2582 394,2582 438,2582 483,2582 528,2582 573,2582 618,2585 662,2585 707,2585 752,2588 797,2588 841,2591 886,2594 931,2597 976,2597 1021,2597 1065,2600 1110,2597 1155,2597 1200,2600 1221,2600"/>
+                <TextEquiv>
+                    <Unicode>nennung in dessen Pinax, nebst dem Namen der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="213,2648 1224,2656 1224,2610 1139,2602 965,2628 867,2594 213,2589"/>
+                <Baseline points="226,2630 271,2633 316,2633 361,2633 406,2633 450,2630 495,2630 540,2633 585,2630 629,2630 674,2633 719,2633 764,2636 809,2636 853,2639 898,2642 943,2645 988,2645 1032,2648 1077,2648 1122,2648 1167,2648 1212,2648 1227,2651"/>
+                <TextEquiv>
+                    <Unicode>Pflanze aus Lösels Flora Borussica; zuletzt findet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="200,2707 575,2682 1224,2713 1224,2659 200,2651"/>
+                <Baseline points="214,2678 259,2681 304,2681 349,2681 394,2681 438,2683 483,2681 528,2683 573,2681 618,2681 662,2681 707,2681 752,2686 797,2686 841,2689 886,2689 931,2692 976,2695 1021,2695 1065,2695 1110,2695 1155,2695 1200,2698 1230,2698"/>
+                <TextEquiv>
+                    <Unicode>man den Ort, wo es wächset, ja hin und wieder liest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="208,2754 1204,2766 1222,2715 205,2697"/>
+                <Baseline points="223,2728 268,2728 313,2731 358,2731 403,2731 447,2734 492,2731 537,2731 582,2731 626,2731 671,2734 716,2734 761,2734 806,2734 850,2734 895,2740 940,2743 985,2743 1030,2743 1074,2746 1119,2746 1164,2746 1209,2749 1227,2749"/>
+                <TextEquiv>
+                    <Unicode>man auch andere Benennungen der Pflanze, so wohl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="205,2787 1224,2805 1224,2759 1121,2751 205,2754"/>
+                <Baseline points="220,2776 265,2779 310,2779 355,2782 400,2782 444,2782 489,2782 534,2785 579,2785 623,2785 668,2785 713,2782 758,2785 803,2785 847,2785 892,2788 937,2791 982,2791 1027,2791 1071,2794 1116,2797 1161,2794 1206,2797 1230,2797"/>
+                <TextEquiv>
+                    <Unicode>aus ältern als neuern Kräuterverständigen. In der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="205,2851 1232,2856 1232,2807 203,2787"/>
+                <Baseline points="220,2827 265,2827 310,2827 355,2830 400,2830 444,2830 489,2833 534,2833 579,2833 623,2833 668,2833 713,2833 758,2833 803,2833 847,2836 892,2836 937,2839 982,2839 1027,2842 1071,2839 1116,2842 1161,2845 1206,2845 1238,2845"/>
+                <TextEquiv>
+                    <Unicode>Vorrede werden die Kränterkenner, welche unsere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="208,2897 1234,2915 1232,2867 1098,2846 208,2849"/>
+                <Baseline points="223,2884 268,2881 313,2881 358,2878 403,2878 447,2881 492,2884 537,2884 582,2884 626,2884 671,2884 716,2884 761,2884 806,2884 850,2884 895,2887 940,2887 985,2889 1030,2889 1074,2892 1119,2892 1164,2895 1209,2892 1238,2892"/>
+                <TextEquiv>
+                    <Unicode>preußische Pflanzen beschrieben haben, in einer chro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_19_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="205,2936 341,2979 500,2941 1083,2977 1242,2959 1242,2902 203,2892"/>
+                <Baseline points="220,2934 265,2931 310,2934 355,2931 400,2931 444,2931 489,2934 534,2937 579,2937 623,2934 668,2937 713,2934 758,2934 803,2937 847,2937 892,2940 937,2940 982,2943 1027,2943 1071,2943 1116,2943 1161,2946 1206,2946 1247,2946"/>
+                <TextEquiv>
+                    <Unicode>nologischen Ordnung hergezählet: allein es ist zu be=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_34" custom="readingOrder {index:2;}">
+            <Coords points="2319,1737 2319,3043 1272,3020 1248,2412 1239,1751"/>
+            <TextLine id="r_34_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1222,1832 2207,1807 2253,1802 2256,1740 1222,1760"/>
+                <Baseline points="1236,1812 1274,1812 1319,1812 1364,1812 1409,1812 1453,1809 1498,1806 1543,1806 1588,1806 1633,1806 1677,1803 1722,1803 1767,1803 1812,1800 1857,1800 1901,1797 1946,1800 1991,1797 2036,1797 2080,1797 2125,1794 2170,1794 2215,1794 2260,1788"/>
+                <TextEquiv>
+                    <Unicode>dauren, daß der neueste derselben, der um die Na¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1232,1881 2217,1866 2256,1855 2258,1804 1232,1830"/>
+                <Baseline points="1247,1862 1277,1859 1322,1859 1367,1859 1412,1859 1456,1857 1501,1857 1546,1857 1591,1854 1636,1854 1680,1851 1725,1854 1770,1851 1815,1851 1859,1851 1904,1848 1949,1848 1994,1845 2039,1845 2083,1845 2128,1842 2173,1842 2218,1842 2263,1839"/>
+                <TextEquiv>
+                    <Unicode>turgeschichte überhaupt unsterblich verdiente Danzi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1229,1922 2248,1907 2248,1855 2109,1840 1232,1884"/>
+                <Baseline points="1247,1907 1268,1907 1313,1907 1358,1904 1403,1904 1447,1904 1492,1904 1537,1901 1582,1898 1627,1901 1671,1898 1716,1898 1761,1895 1806,1895 1851,1895 1895,1895 1940,1895 1985,1895 2030,1892 2074,1892 2119,1892 2164,1892 2209,1889 2254,1886"/>
+                <TextEquiv>
+                    <Unicode>ger Patricius, Herr Gottfried Reyger, ist ausge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1227,1968 2251,1948 2251,1907 2115,1891 1227,1922"/>
+                <Baseline points="1241,1952 1268,1952 1313,1952 1358,1949 1403,1949 1447,1949 1492,1949 1537,1946 1582,1949 1627,1946 1671,1946 1716,1946 1761,1943 1806,1943 1851,1943 1895,1940 1940,1943 1985,1940 2030,1940 2074,1937 2119,1940 2164,1937 2209,1937 2254,1937"/>
+                <TextEquiv>
+                    <Unicode>lassen worden; der schon im vorigen Jahre in Dan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1229,2017 2243,1994 2243,1953 2199,1945 1232,1968"/>
+                <Baseline points="1244,2006 1262,2003 1307,1997 1352,1997 1397,1997 1442,1997 1486,1997 1531,1994 1576,1994 1621,1994 1665,1994 1710,1991 1755,1991 1800,1988 1845,1988 1889,1988 1934,1988 1979,1985 2024,1985 2068,1985 2113,1985 2158,1982 2203,1985 2248,1982"/>
+                <TextEquiv>
+                    <Unicode>zig bey Wedeln in Zvo ein Tentamen Florae Ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1224,2058 2248,2053 2235,1989 1227,2015"/>
+                <Baseline points="1238,2048 1268,2045 1313,2045 1358,2045 1403,2045 1447,2042 1492,2042 1537,2042 1582,2042 1627,2042 1671,2042 1716,2039 1761,2039 1806,2039 1851,2036 1895,2036 1940,2033 1985,2033 2030,2033 2074,2033 2119,2033 2164,2030 2209,2030 2254,2030"/>
+                <TextEquiv>
+                    <Unicode>danensis herausgegeben hat, welches vor vielen Bü¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1227,2107 2245,2094 2245,2048 2156,2032 1229,2061"/>
+                <Baseline points="1244,2095 1265,2095 1310,2095 1355,2095 1400,2095 1444,2092 1489,2092 1534,2092 1579,2092 1624,2089 1668,2089 1713,2086 1758,2089 1803,2086 1848,2083 1892,2083 1937,2083 1982,2080 2027,2080 2071,2080 2116,2080 2161,2080 2206,2080 2251,2080"/>
+                <TextEquiv>
+                    <Unicode>chern dieser Art große Vorzüge hat. Es ist in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1229,2307 2228,2302 2251,2245 1229,2256"/>
+                <Baseline points="1244,2298 1268,2301 1313,2301 1358,2301 1403,2298 1447,2298 1492,2298 1537,2295 1582,2295 1627,2292 1671,2292 1716,2292 1761,2289 1806,2292 1851,2289 1895,2289 1940,2289 1985,2286 2030,2286 2074,2286 2119,2286 2164,2286 2209,2283 2254,2280"/>
+                <TextEquiv>
+                    <Unicode>einschlagender Werke zu seinem Hauptgegenstande</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1232,2366 2248,2351 2215,2294 1232,2310"/>
+                <Baseline points="1247,2352 1268,2352 1313,2352 1358,2349 1403,2349 1447,2349 1492,2346 1537,2346 1582,2346 1627,2346 1671,2346 1716,2343 1761,2343 1806,2340 1851,2340 1895,2340 1940,2337 1985,2334 2030,2334 2074,2334 2119,2334 2164,2334 2209,2334 2254,2334"/>
+                <TextEquiv>
+                    <Unicode>gemachet, da er so nahe an Danzig wohnet, und da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1232,2412 2245,2394 2245,2348 2197,2340 1232,2371"/>
+                <Baseline points="1247,2400 1265,2400 1310,2400 1355,2400 1400,2397 1444,2397 1489,2397 1534,2394 1579,2397 1624,2394 1668,2394 1713,2394 1758,2391 1803,2391 1848,2388 1892,2388 1937,2388 1982,2385 2027,2382 2071,2382 2116,2379 2161,2379 2206,2379 2251,2379"/>
+                <TextEquiv>
+                    <Unicode>des gelehrten Herrn Patricii Buch bereits in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1239,2458 2253,2438 2253,2394 2127,2387 1242,2412"/>
+                <Baseline points="1253,2448 1271,2448 1316,2448 1361,2448 1406,2445 1450,2445 1495,2445 1540,2445 1585,2445 1630,2445 1674,2445 1719,2442 1764,2442 1809,2439 1854,2439 1898,2436 1943,2433 1988,2433 2033,2430 2077,2430 2122,2427 2167,2427 2212,2427 2257,2427"/>
+                <TextEquiv>
+                    <Unicode>Göttingischen gelehrten Zeitung ist angezeiget wor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1239,2559 2204,2546 2245,2535 2248,2489 1242,2507"/>
+                <Baseline points="1253,2549 1268,2549 1313,2546 1358,2546 1403,2543 1447,2543 1492,2543 1537,2543 1582,2540 1627,2540 1671,2543 1716,2543 1761,2540 1806,2537 1851,2534 1895,2528 1940,2525 1985,2522 2030,2525 2074,2525 2119,2525 2164,2525 2209,2525 2254,2525"/>
+                <TextEquiv>
+                    <Unicode>unbekannt geblieben, so håtte er seine Floram daraus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1232,2605 2251,2592 2253,2538 1232,2561"/>
+                <Baseline points="1247,2597 1271,2597 1316,2600 1361,2597 1406,2594 1450,2591 1495,2594 1540,2591 1585,2591 1630,2591 1674,2591 1719,2591 1764,2588 1809,2585 1854,2582 1898,2579 1943,2576 1988,2576 2033,2573 2077,2573 2122,2573 2167,2576 2212,2576 2257,2579"/>
+                <TextEquiv>
+                    <Unicode>nicht nur um ein beträchtliches vermehren können,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1250,2661 2256,2641 2256,2594 2204,2587 1252,2610"/>
+                <Baseline points="1265,2648 1277,2648 1322,2648 1367,2645 1412,2642 1456,2642 1501,2642 1546,2639 1591,2642 1636,2639 1680,2639 1725,2639 1770,2636 1815,2633 1859,2630 1904,2627 1949,2624 1994,2624 2039,2624 2083,2624 2128,2627 2173,2624 2218,2627 2263,2627"/>
+                <TextEquiv>
+                    <Unicode>sondern es hätten vielleicht auch die Ordnung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1247,2715 2256,2692 2238,2636 1250,2661"/>
+                <Baseline points="1265,2701 1277,2698 1322,2698 1367,2695 1412,2695 1456,2692 1501,2692 1546,2689 1591,2689 1636,2689 1680,2689 1725,2686 1770,2683 1815,2681 1859,2678 1904,2675 1949,2675 1994,2672 2039,2675 2083,2675 2128,2675 2173,2678 2218,2678 2263,2681"/>
+                <TextEquiv>
+                    <Unicode>Pflanzen, die ganz Linnäisch ist, und die schönen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1239,2759 2263,2741 2263,2695 2089,2679 1239,2710"/>
+                <Baseline points="1253,2746 1283,2749 1328,2746 1373,2746 1418,2743 1462,2740 1507,2740 1552,2737 1597,2737 1642,2734 1686,2734 1731,2734 1776,2731 1821,2728 1865,2725 1910,2722 1955,2722 2000,2725 2045,2725 2089,2728 2134,2728 2179,2728 2224,2725 2269,2725"/>
+                <TextEquiv>
+                    <Unicode>recht methodischen weitläuftigen Beschreibungen Ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1245,2820 2263,2797 2266,2738 1245,2759"/>
+                <Baseline points="1259,2797 1283,2797 1328,2797 1373,2794 1418,2791 1462,2788 1507,2788 1552,2788 1597,2785 1642,2785 1686,2782 1731,2782 1776,2779 1821,2779 1865,2776 1910,2776 1955,2776 2000,2776 2045,2779 2089,2779 2134,2779 2179,2779 2224,2779 2269,2782"/>
+                <TextEquiv>
+                    <Unicode>legenheit geben können, zu einer besseren Anordnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1250,2859 2151,2849 2263,2836 2266,2795 1250,2813"/>
+                <Baseline points="1265,2845 1286,2845 1331,2845 1376,2845 1421,2839 1465,2836 1510,2833 1555,2836 1600,2833 1645,2830 1689,2830 1734,2830 1779,2827 1824,2827 1868,2827 1913,2827 1958,2830 2003,2830 2048,2830 2092,2830 2137,2830 2182,2830 2227,2827 2271,2824"/>
+                <TextEquiv>
+                    <Unicode>der Pflanzen, und zu einer größeren Vollkommen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="1260,2913 2263,2887 2256,2836 1260,2856"/>
+                <Baseline points="1274,2895 1286,2895 1331,2892 1376,2892 1421,2889 1465,2887 1510,2884 1555,2884 1600,2884 1645,2881 1689,2881 1734,2878 1779,2878 1824,2878 1868,2878 1913,2881 1958,2878 2003,2881 2048,2881 2092,2878 2137,2878 2182,2878 2227,2875 2271,2872"/>
+                <TextEquiv>
+                    <Unicode>heir derer Definitionen derselben. Nach der Vor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_34_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1260,2959 1701,2949 1837,2987 2263,2933 2240,2882 1263,2915"/>
+                <Baseline points="1274,2946 1286,2946 1331,2946 1376,2943 1421,2940 1465,2940 1510,2937 1555,2934 1600,2934 1645,2931 1689,2931 1734,2931 1779,2928 1824,2931 1868,2931 1913,2931 1958,2928 2003,2931 2048,2931 2092,2928 2137,2928 2182,2925 2227,2922 2271,2925"/>
+                <TextEquiv>
+                    <Unicode>rede folget ein Verzeichniß einiger Schriftsteller, wel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
