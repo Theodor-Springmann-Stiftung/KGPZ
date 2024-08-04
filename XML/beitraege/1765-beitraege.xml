@@ -110,7 +110,7 @@
      </beitrag>
      <beitrag>
         <stueck datum="1765" nr="4" von="14" bis="15"/>
-        <werk ref="mortimer-plutarch" kat="rezension"/>
+        <werk ref="teubern-plutarch" kat="rezension"/>
         <ort ref="leipzig"/>
         <ort ref="zuellichau"></ort>
      </beitrag>
@@ -223,7 +223,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="9" von="33" bis="34"/>
-        <werk ref="bianconi-sendschreiben" kat="rezension"/>
+        <werk ref="runckel-sendschreiben" kat="rezension"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
@@ -302,7 +302,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="13" von="49" bis="50"/>
-        <werk ref="eller-abhandlungen" kat="rezension"/>
+        <werk ref="gerhard-abhandlungen" kat="rezension"/>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="13" von="51" bis="52"/>
@@ -522,7 +522,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="22" von="86"/>
-        <werk ref="pfeffel-allgemeine-bibliothek" kat="rezension"/>
+        <werk ref="allgemeine-bibliothek" kat="rezension"/>
         <ort ref="frankfurt"/>
     </beitrag>
     <beitrag>
@@ -600,6 +600,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="25" von="97" bis="99"/>
+        <stueck datum="1765" nr="26" von="102" bis="103"/>
         <titel>Der Nord=Britte, 45tes Stück.</titel>
         <werk ref="wilkes-north-briton45" kat="uebersetzung"/>
         <akteur ref="hamann">Nadler, Bd. 4, S. 298–304; vgl. ZH II, S. 290, 297</akteur>
@@ -611,6 +612,23 @@
     <beitrag>
         <stueck datum="1765" nr="25" von="100"/>
         <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <!-- 26 -->
+    <beitrag>
+        <stueck datum="1765" nr="26" von="101" bis="102"/>
+        <werk ref="koehler-reisebeschreibung" kat="rezension" />
+        <ort ref="lemgo"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="26" von="103" bis="104"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="24" von="104"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="einkommende-fremde"/>
+        <kategorie ref="buecher"/> <!-- eigtl. Angebot früherer Stücke der KGPZ -->
     </beitrag>
 
 </beitraege>

@@ -23,15 +23,14 @@
     </werk>
     -->
 
-    <werk id="pfeffel-allgemeine-bibliothek">
+    <werk id="allgemeine-bibliothek">
         <akteur ref="pfeffel"/>
-        <zitation>Vergnügte Nebenstunden in der Einsamkeit. Eine moralische Schrift aus dem Französischen übersetzt (Augsburg, Memmingen: Stage 1764).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bsz:16-diglit-281237">Neue Ausgabe, Berlin: Lagarde 1793 (BSB München)</url>
+        <zitation>Allgemeine Bibliothek des Schönen und Guten (Frankfurt: Brönner [?] 1764), Bd. 1.</zitation>
     </werk>
 
     <werk id="vergnuegte-nebenstunden">
         <zitation>Vergnügte Nebenstunden in der Einsamkeit. Eine moralische Schrift aus dem Französischen übersetzt (Augsburg, Memmingen: Stage 1764).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bsz:16-diglit-281237">Neue Ausgabe, Berlin: Lagarde 1793 (BSB München)</url>
+        <url address="https://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-281237">UB Heidelberg</url>
     </werk>
 
     <werk id="sarpius-historie">
@@ -69,7 +68,7 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10613451-0">BSB München</url>
     </werk>
 
-    <werk id="bianconi-sendschreiben">
+    <werk id="runckel-sendschreiben">
         <akteur ref="bianconi-gl"></akteur>
         <akteur ref="runckel-dh"></akteur> <!-- Die Übersetzerin; gibt es dafür eine Kategorie? -->
         <zitation>Herrn Johann Ludwigs Bianconi Zehn Sendschreiben an Herrn Marchese Philippo Hercolani die Merkwürdigkeiten des Churbayerischen Hofes und der Residenz-Stadt München betreffend. Aus dem Italienischen übersetzt (Leipzig: Janius 1764).</zitation>
@@ -102,7 +101,7 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11409531-3">Stabi Bamberg</url>
     </werk>
     
-    <werk id="mortimer-plutarch">
+    <werk id="teubern-plutarch">
         <akteur ref="mortimer-t"/>
         <akteur ref="teubern-he"/>
         <zitation>Der Brittische Plutarch oder Lebensbeschreibungen der größten Männer in England und Irrland seit den Zeiten Heinrichs VIII. bis unter George II. […], aus dem Englischen übersetzt (6 Bde., Leipzig und Züllichau: Waysenhaus und Frommann 1764–1768), Bd. 1.</zitation>
@@ -136,7 +135,7 @@
     <werk id="nicolai-bibliothek11-2">
         <akteur ref="nicolai" />
         <akteur ref="mendelssohn" />
-        <zitation>Bibliothek der schönen Wissenchaften und freyen Kunst, Bd. 1 (12 Bde., 1757–65, Leipzig: Dyck 1765).</zitation>
+        <zitation>Bibliothek der schönen Wissenchaften und freyen Kunst (12 Bde., Leipzig: Dyck 1757–65), Bd. 11,2 (1765).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573343-5">BSB München</url>
     </werk>
     
@@ -503,7 +502,7 @@
         <!-- Bandzahl nach https://www.deutsche-biographie.de/pnd115388710.html -->
     </werk>
 
-    <werk id="eller-abhandlungen">
+    <werk id="gerhard-abhandlungen">
         <akteur ref="eller-jt"/>
         <akteur ref="gerhard-ca"/>
         <zitation>Johann Theodor Ellers Physikalisch-Chymisch-Medicinische Abhandlungen, aus den Gedenkschriften der königl. Akademie der Wissenschaften herausgezogen und übersetzt von D. Carl Abraham Gerhard (Berlin, Stettin, Leipzig: Rüdiger 1764).</zitation>
@@ -1236,7 +1235,7 @@
     </werk>
     
     <werk id="schauplatz-der-welt">
-        <zitation>Schauplatz der Welt, oder merkwürdige Sammlung von See- und Landreisen, aus den Schriftstellern aller Nationen gewählet: Nebst einer Menge von Charten und Kupfern von Meisterhänden. Aus dem Englischen. Ersten Bandes Erster Theil (1 [?] Stuttgart: Cotta 1764), Bd. 1,1.</zitation>
+        <zitation>Schauplatz der Welt, oder merkwürdige Sammlung von See- und Landreisen, aus den Schriftstellern aller Nationen gewählet: Nebst einer Menge von Charten und Kupfern von Meisterhänden. Aus dem Englischen. Ersten Bandes Erster Theil (Stuttgart: Cotta 1764), Bd. 1,1.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11409477-1">Stabi Bamberg</url>
     </werk>
 
@@ -1292,9 +1291,9 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070899-0">BSB München</url>
     </werk>
 
-    <werk id="schroeckh-abbildungen1,1">
+    <werk id="schroeckh-abbildungen1-1">
         <akteur ref="schroeckh-jm"/>
-        <zitation>Abbildungen und Lebensbeschreibungen berühmter Gelehrten von Johann Matthias Schrökh, Erste Sammlung, nebst 12 Kupfern (2 Bde. in 6 Teilen 1764–67, Leipzig: Hilscher 1764), Bd. 1,1.</zitation>
+        <zitation>Abbildungen und Lebensbeschreibungen berühmter Gelehrten von Johann Matthias Schrökh, Erste Sammlung, nebst 12 Kupfern (2 Bde. in 6 Teilen, Leipzig: Hilscher 1764–67), Bd. 1,1 (1764).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070897-5">BSB München</url>
     </werk>
 
@@ -1576,6 +1575,13 @@
         <akteur ref="blainville-j" />
         <zitation>Des Herrn von Blainville Reisebeschreibung durch Holland, Oberdeutschland und die Schweiz besonders aber durch Italien. Ersten Bandes erste Abtheilung (4 Bde., Lemgo: Meyer 1764–1767), Bd. 1, Abt. 1.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366570-5" >BSB München</url>
+    </werk>
+
+    <werk id="koehler-reisebeschreibung">
+        <akteur ref="koehler-jt" />
+        <akteur ref="blainville-j" />
+        <zitation>Des Herrn von Blainville Reisebeschreibung durch Holland, Oberdeutschland und die Schweiz besonders aber durch Italien, aus dem Englischen in das Deutsche übersetzt von Johan Tobias Köhler. Ersten Bandes zweyte Abtheilung (5 Bde., Lemgo: Meyer 1764–67), Bd. 1,2 (1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366571-1">BSB München</url>
     </werk>
 
     <werk id="vademecum-lustig">
