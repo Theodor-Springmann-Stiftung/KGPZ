@@ -574,6 +574,7 @@
     <beitrag>
         <stueck datum="1765" nr="24" von="93" bis="95"/>
         <werk ref="gottsched-nachricht" kat="auszug" />
+        <!-- Ich bin mir ehrlich gesagt nicht ganz sicher, ob Gottsched nur der Herausgeber des übergeordneten Werkes oder der Verfasser dieses Beitrags ist. -->
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="24" von="95"/>
@@ -589,6 +590,27 @@
         <kategorie ref="avertissement"/>
         <kategorie ref="buecher"/>
         <kategorie ref="lokalanzeigen"/>
+    </beitrag>
+        
+    <!-- 25 -->
+    <beitrag>
+        <stueck datum="1765" nr="25" von="97"/>
+        <werk ref="schauplatz-der-welt" kat="rezension" />
+        <ort ref="stuttgart"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="25" von="97" bis="99"/>
+        <titel>Der Nord=Britte, 45tes Stück.</titel>
+        <werk ref="wilkes-north-briton45" kat="uebersetzung"/>
+        <akteur ref="hamann">Nadler, Bd. 4, S. 298–304; vgl. ZH II, S. 290, 297</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="25" von="99" bis="100"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="25" von="100"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 </beitraege>
