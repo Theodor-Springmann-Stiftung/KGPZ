@@ -484,9 +484,27 @@
 
     <!-- 21 -->
     <beitrag>
-        <stueck datum="1765" nr="21" von="69" bis="70"/>
-        <werk ref="trescho-beurtheilung" kat="rezension"/>
-        <ort ref="frankfurt"/>
+        <stueck datum="1765" nr="21" von="81" bis="82"/>
+        <werk ref="scheffner-poesien" kat="rezension"/>
+        <ort ref="Berlin"/>
+        <ort ref="Leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="21" von="82"/>
+        <werk ref="schroeckh-abbildungen1,1" kat="rezension"/>
+        <ort ref="Leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="21" von="83" bis="84"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="21" von="84"/>
+        <kategorie ref="ineigenersache"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="21" von="84"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 </beitraege>

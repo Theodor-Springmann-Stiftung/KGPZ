@@ -23,8 +23,14 @@
     </werk>
     -->
 
+    <werk id="scheffner-poesien">
+        <akteur ref="scheffner"/>
+        <zitation>Freundschaftliche Poesien eines Soldaten (Berlin, Leipzig: Birnstiel: 1764).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116388-9">Neue Ausgabe, Berlin: Lagarde 1793 (BSB München)</url>
+    </werk>
+
     <werk id="juengerer-eulenspiegel">
-        <zitation>Der jüngere Eunlenspiegel oder der schlecht erzogene Mensch (o. O. 1765).</zitation>
+        <zitation>Der jüngere Eulenspiegel oder der schlecht erzogene Mensch (o. O. 1765).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10471347-1">BSB München</url>
     </werk>
 
@@ -1242,6 +1248,12 @@
         <akteur ref="schroeckh-jm" />
         <zitation>Abbildungen und Lebensbeschreibungen berühmter Gelehrten. Dritte Sammlung, mit welcher der Erste Band beschlossen, nebst 10 Kupfern (Leipzig: Hilscher 1765).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070899-0">BSB München</url>
+    </werk>
+
+    <werk id="schroeckh-abbildungen1,1">
+        <akteur ref="schroeckh-jm"/>
+        <zitation>Abbildungen und Lebensbeschreibungen berühmter Gelehrten von Johann Matthias Schrökh, Erste Sammlung, nebst 12 Kupfern (2 Bde. in 6 Teilen 1764–67, Leipzig: Hilscher 1764), Bd. 1,1.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070897-5">BSB München</url>
     </werk>
 
     <werk id="beaumont-instructions">
