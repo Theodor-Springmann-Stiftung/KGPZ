@@ -660,6 +660,12 @@
         <url address="http://dx.doi.org/10.25673/49189">ULB Halle</url>
     </werk>
 
+    <werk id="hippel-mann">
+        <akteur ref="hippel" />
+        <zitation>Der Mann nach der Uhr, oder der ordentliche Mann. Ein Lustspiel in einem Aufzuge (o. O. 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10118102-5">Spätere Auflage [?], Riga: Hartknoch 1771 (BSB München)</url>
+    </werk>
+
     <werk id="willamovius-mode">
         <akteur ref="willamovius" />
         <zitation>Sammlung, oder nach der Mode: Magazin von Einfällen (Breslau, Leipzig 1763).</zitation>
@@ -2032,7 +2038,14 @@
     <werk id="dusch-briefe4">
         <akteur ref="dusch-jj" />
         <zitation>Briefe zur Bildung des Geschmacks. An einen jungen Herrn von Stande, 4. Teil (Leipzig, Breslau: Meyer 1770).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573772-6" >BSB München</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573772-6">BSB München</url>
+    </werk>
+
+    <werk id="hahn-lettres">
+        <akteur ref="dusch-jj" />
+        <akteur ref="hahn-ecb"/>
+        <zitation>Lettres morales pour former le coeur, traduite de l’allemand par Mademoiselle Elisabethe Charlotte Benigne de Hahn, Tom. I (Königsberg: Kanter 1965).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10124657-8">BSB München</url>
     </werk>
 
     <werk id="chrysander-betrachtungen">

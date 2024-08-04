@@ -535,4 +535,34 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
 
+    <!-- 23 -->
+    <beitrag>
+        <stueck datum="1765" nr="23" von="89"/>
+        <werk ref="hahn-lettres" kat="rezension"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="23" von="89" bis="90"/>
+        <werk ref="hippel-mann" kat="rezension"/>
+        <akteur ref="lindner">Warda/Diesch II, S. 331</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="23" von="90" bis="91"/>
+        <kategorie ref="gedicht"/>
+        <akteur ref="frugoni-ci"/>
+        <titel>La Rosa. Canzonetta del Signore Abbate Innozenzo Frugoni.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="23" von="91" bis="92"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="23" von="92"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="23" von="92"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
 </beitraege>
