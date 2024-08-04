@@ -23,6 +23,24 @@
     </werk>
     -->
 
+    <werk id="pfeffel-allgemeine-bibliothek">
+        <akteur ref="pfeffel"/>
+        <zitation>Vergnügte Nebenstunden in der Einsamkeit. Eine moralische Schrift aus dem Französischen übersetzt (Augsburg, Memmingen: Stage 1764).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bsz:16-diglit-281237">Neue Ausgabe, Berlin: Lagarde 1793 (BSB München)</url>
+    </werk>
+
+    <werk id="vergnuegte-nebenstunden">
+        <zitation>Vergnügte Nebenstunden in der Einsamkeit. Eine moralische Schrift aus dem Französischen übersetzt (Augsburg, Memmingen: Stage 1764).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bsz:16-diglit-281237">Neue Ausgabe, Berlin: Lagarde 1793 (BSB München)</url>
+    </werk>
+
+    <werk id="sarpius-historie">
+        <akteur ref="sarpius-p"/>
+        <akteur ref="rambach-fe"/>
+        <zitation>Paul Sarius Historie des Tridentinischen Concilii mit des D. Couraner Anmerkungen. Sechster Theil. Herausgegeben von Friedrich Eberhard Rambach (6 Bde. 1761–65, Halle: Gebauer 1765), Bd. 6.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10393339-5">BSB München</url>
+    </werk>
+
     <werk id="scheffner-poesien">
         <akteur ref="scheffner"/>
         <zitation>Freundschaftliche Poesien eines Soldaten (Berlin, Leipzig: Birnstiel: 1764).</zitation>
@@ -113,6 +131,13 @@
         <akteur ref="weisse-cf" />
         <zitation>Neue Bibliothek der schönen Wissenchaften und freyen Kunst, Bd. 1 (Leipzig: Dyck 1765).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN556514408_0001">SUB Göttingen</url>
+    </werk>
+
+    <werk id="nicolai-biliothek11,2">
+        <akteur ref="nicolai" />
+        <akteur ref="mendelssohn" />
+        <zitation>Bibliothek der schönen Wissenchaften und freyen Kunst, Bd. 1 (12 Bde., 1757–65, Leipzig: Dyck 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573343-5">BSB München</url>
     </werk>
     
     <werk id="horams-morell">
