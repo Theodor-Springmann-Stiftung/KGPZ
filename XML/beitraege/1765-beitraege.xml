@@ -459,8 +459,7 @@
         <stueck datum="1765" nr="20" von="77" bis="78"/>
         <kategorie ref="aufsatz"/>
         <incipit>Die Geschicklichkeit und das Genie sind nicht immer mit der Neigung verbunden …</incipit>
-        <akteur ref="kanter"/> <!-- bei Taszus ohne "vmtl.", aber auch ohne Nachweis, wohl, weil es offensichtlich ist -->
-        <anmerkung>Ohne Unterzeichner.</anmerkung>
+        <akteur ref="kanter" unsicher="true"/>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="20" von="78"/>
@@ -501,6 +500,7 @@
     <beitrag>
         <stueck datum="1765" nr="21" von="84"/>
         <kategorie ref="ineigenersache"/>
+        <!-- Ist das eine Zahlungsaufforderung? -->
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="21" von="84"/>
@@ -563,6 +563,32 @@
     <beitrag>
         <stueck datum="1765" nr="23" von="92"/>
         <kategorie ref="wechselkurse"/>
+    </beitrag>
+    
+    <!-- 24 -->
+    <beitrag>
+        <stueck datum="1765" nr="24" von="93"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <anmerkung>Preisaufgabe der köbiglichen Krieges- und Domainenkammer: Mittel gegen Rindviehseuche.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="24" von="93" bis="95"/>
+        <werk ref="gottsched-nachricht" kat="auszug" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="24" von="95"/>
+        <kategorie ref="ineigenersache"/>
+        <!-- Corrigendum zu Jg. 1765, St. 23, S. 89. -->
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="24" von="95" bis="96"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="24" von="96"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
 </beitraege>
