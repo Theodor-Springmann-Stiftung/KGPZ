@@ -91,7 +91,7 @@
     </werk>
 
     <werk id="liebenswuerdiger-mensch">
-        <zitation>Der liebenswürdige Mensch Oder Die Kunst Sich den Leuten angenehm und gefällig zu machen (Frankfurt und Zweybrücken: Hechtel 1753).</zitation>
+        <zitation>Der liebenswürdige Mensch, Oder Die Kunst Sich den Leuten angenehm und gefällig zu machen (Frankfurt, Zweybrücken: Hechtel 1753).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11109095-1">Stabi Regensburg</url>
     </werk>
 
@@ -342,8 +342,8 @@
 
     <werk id="damm-testament">
         <akteur ref="damm-ct" />
-        <zitation>Des Neuen Testamentes Unsers Herrn Jesu Christi von neuem übersetzet, und mit einigen Anmerkungen für sorgfältige Leser begleitet (3 Bde., o. O. [Berlin] 1765).</zitation> <!-- Ortsangabe gemäß ZB Zürich -->
-        <url address="https://books.google.de/books?id=oUahAPY4pEYC">ZB Zürich</url>
+        <zitation>Des Neuen Testamentes Unsers Herrn Jesu Christi von neuem übersetzet, und mit einigen Anmerkungen für sorgfältige Leser begleitet (3 Bde., o. O. [Berlin] 1765).</zitation> 
+        <url address="https://books.google.de/books?id=oUahAPY4pEYC">Google Books</url>
     </werk>
 
     <werk id="miller-anweisung">
@@ -493,13 +493,12 @@
 
     <werk id="stoelzel-mann">
         <akteur ref="stoelzel-wf" />
-        <zitation>Der Ehrliche Mann. Wochenschrift (Gotha: Mevius 1764), Bd. 1.</zitation> <!-- anscheinend ist nur ein Band/Jg. erschienen, rezensiert wird aber explizit Bd. 1 -->
+        <zitation>Der Ehrliche Mann. Wochenschrift hg. von Wilhelm Friedrich Stölzel. Erster Band (Gotha: Mevius 1764).</zitation>
     </werk>
 
     <werk id="stoelzel-sammlung">
         <akteur ref="stoelzel-wf" />
-        <zitation>Wilh. Friedr. Stölzels, Gothaischen Hofpredigers dritte Sammlung heiliger Reden ([7 Bde., Gotha: Dietrich, 1755–77]), Bd. 3.</zitation>
-        <!-- Bandzahl nach https://www.deutsche-biographie.de/pnd115388710.html -->
+        <zitation>Wilh. Friedr. Stölzels dritte Sammlung heiliger Reden ([7 Bde., Gotha: Dietrich, 1755–1777]), Bd. 3.</zitation>
     </werk>
 
     <werk id="gerhard-abhandlungen">
@@ -616,7 +615,7 @@
 
     <werk id="faesi-abhandlungen">
         <akteur ref="faesi-jk" />
-        <zitation>Abhandlungen über wichtige Begebenheiten aus der alten und neuern Geschichte (2 Bde., Zürich: Orell, Geßner u. Comp. 1763–64), Bd. 2 (1764).</zitation>
+        <zitation>Abhandlungen über wichtige Begebenheiten aus der alten und neuern Geschichte (2 Bde., Zürich: Orell, Geßner 1763–1764), Bd. 2 (1764).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10738142-4">BSB München</url>
     </werk>
 
@@ -695,9 +694,8 @@
     </werk>
 
     <werk id="hallische-anzeigen34-1">
-        <zitation>Wöchentliche hallische Anzeigen (Halle 1731–1810), 1765, St. 1–3.</zitation>
-        <url address="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-6725">Versch. Jg. (SuU Bremen)</url>
-        <!-- Habe mich an id="gelehrte-beytraege-riga" orientiert -->
+        <zitation>Wöchentliche Hallische Anzeigen (Halle 1731–1810), 1765, St. 1–3.</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-6725">SU Bremen: Nur Jg. 1740, 1754, 1756, 1758 und 1775</url>
     </werk>
 
     <werk id="briefe-moral">
@@ -768,13 +766,13 @@
     <werk id="voltaire-contes">
         <akteur ref="voltaire" />
         <zitation>Contes de Guillaume Vadé ([Genf] 1764).</zitation>
-        <url address="ttps://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10099509-3">Stabi München</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10099509-3">BSB München</url>
     </werk>
 
     <werk id="trescho-beurtheilung">
         <akteur ref="trescho" />
         <zitation>Beurtheilung der Schrift: vom Werth der Gefühle im Christenthum (Frankfurt: Gebhard, 1764).</zitation>
-        <url address="https://books.google.de/books?id=R9HgOiZpDxIC">ZB Zürich</url>
+        <url address="https://books.google.de/books?id=R9HgOiZpDxIC">Google Books</url>
     </werk>
 
     <werk id="johnson-idler">
@@ -1190,7 +1188,7 @@
 
     <werk id="schoenfeldt-anweisung">
         <akteur ref="schoenfeldt-dn" />
-        <zitation>Anweisung zur Erkänntniß sein selbst, nach des natürlichen Beschaffenheit seiner Seele, von D. N. Schönfeldt, Pastor zu Bergen (Bützow, Wismar: Berger, Boedner 1764).</zitation>
+        <zitation>Anweisung zur Erkänntniß sein selbst, nach der natürlichen Beschaffenheit seiner Seele, von D. N. Schönfeldt, Pastor zu Bergen (Bützow, Wismar: Berger, Boedner 1764).</zitation>
     </werk>
 
     <werk id="joachim-wahlrecht">
