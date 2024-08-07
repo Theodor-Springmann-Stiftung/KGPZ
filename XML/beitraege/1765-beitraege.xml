@@ -457,9 +457,10 @@
     <!-- 20 -->
     <beitrag>
         <stueck datum="1765" nr="20" von="77" bis="78"/>
-        <kategorie ref="aufsatz"/>
-        <incipit>Die Geschicklichkeit und das Genie sind nicht immer mit der Neigung verbunden …</incipit>
-        <akteur ref="kanter" unsicher="true"/>
+        <kategorie ref="ineigenersache"/>
+        <incipit>Die Geschicklichkeit und das Genie sind nicht immer mit der Neigung verbunden…</incipit>
+        <akteur ref="kanter" />
+        <anmerkung>Ankündigung für Aufgaben, die in den KGPZ öffentlich gestellt werden; die erste betrifft die Nationalfaulheit und Mittel dagegen, die zweite Arten der Häuslichkeit</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="20" von="78"/>
@@ -500,7 +501,7 @@
     <beitrag>
         <stueck datum="1765" nr="21" von="84"/>
         <kategorie ref="ineigenersache"/>
-        <!-- Ist das eine Zahlungsaufforderung? -->
+        <anmerkung>Mahnung für säumige Pränumeranten</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="21" von="84"/>
@@ -511,7 +512,7 @@
     <beitrag>
         <stueck datum="1765" nr="22" von="85" bis="86"/>
         <werk ref="nicolai-bibliothek11-2" kat="rezension"/>
-        <akteur ref="herder">SWS I, S. 98ff.; Düntzer, Bd. 22, S. 31–34</akteur>
+        <akteur ref="herder">SWS I, 98ff.; Düntzer XXII, 31–34</akteur>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
@@ -522,7 +523,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="22" von="86"/>
-        <werk ref="allgemeine-bibliothek" kat="rezension"/>
+        <werk ref="allgemeine-bibliothek-schoen-gut" kat="rezension"/>
         <ort ref="frankfurt"/>
     </beitrag>
     <beitrag>
@@ -569,17 +570,16 @@
     <beitrag>
         <stueck datum="1765" nr="24" von="93"/>
         <kategorie ref="gelehrte-nachrichten"/>
-        <anmerkung>Preisaufgabe der köbiglichen Krieges- und Domainenkammer: Mittel gegen Rindviehseuche.</anmerkung>
+        <anmerkung>Preisaufgabe der königlichen Kriegs- und Domainenkammer: Mittel gegen Rindviehseuche.</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="24" von="93" bis="95"/>
         <werk ref="gottsched-nachricht" kat="auszug" />
-        <!-- Ich bin mir ehrlich gesagt nicht ganz sicher, ob Gottsched nur der Herausgeber des übergeordneten Werkes oder der Verfasser dieses Beitrags ist. -->
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="24" von="95"/>
         <kategorie ref="ineigenersache"/>
-        <!-- Corrigendum zu Jg. 1765, St. 23, S. 89. -->
+        <anmerkung>Corrigendum zu KGPZ, St. 23, 22.3.1965, S. 89</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="24" von="95" bis="96"/>
@@ -589,6 +589,10 @@
         <stueck datum="1765" nr="24" von="96"/>
         <kategorie ref="avertissement"/>
         <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="24" von="96"/>
+        <kategorie ref="avertissement"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
         
@@ -626,10 +630,15 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="24" von="104"/>
+        <stueck datum="1765" nr="26" von="104"/>
         <kategorie ref="avertissement"/>
         <kategorie ref="einkommende-fremde"/>
-        <kategorie ref="buecher"/> <!-- eigtl. Angebot früherer Stücke der KGPZ -->
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="26" von="104"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="buecher"/>
+        <anmerkung>Angebot von früheren Quartalen der KGPZ im Kanterschen Buchladen</anmerkung>
     </beitrag>
 
 </beitraege>
