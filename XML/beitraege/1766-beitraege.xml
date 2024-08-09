@@ -778,4 +778,25 @@
     <kategorie ref="buecher"/>
 </beitrag>
 
+<!-- 37 -->
+<beitrag>
+    <stueck datum="1766" nr="37" von="149" bis="150"/>
+    <werk kat="rezension" ref="grivel-der-freund"></werk>
+    <ort ref="leipzig" />
+</beitrag> 
+<beitrag id="herr-marmontel-dichtkunst">
+    <stueck datum="1766" nr="37" von="150" bis="151"/>
+    <stueck datum="1766" nr="38" von="153" bis="155"/>
+    <werk kat="rezension" ref="marmontel-dichtkunst"></werk>
+    <ort ref="bremen" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="37" von="151" bis="152"/>
+   <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="37" von="152"/>
+   <kategorie ref="wechselkurse" />
+</beitrag>
+
 </beitraege>
