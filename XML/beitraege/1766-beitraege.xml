@@ -729,4 +729,27 @@
     <kategorie ref="avertissement" />
     <kategorie ref="buecher"/>
 </beitrag>
+
+<!-- 35 -->
+<beitrag id="kirchhof-abhandlung">
+    <stueck datum="1766" nr="35" von="141" bis="142"/>
+    <stueck datum="1766" nr="36" von="145" bis="146"/>
+    <werk kat="rezension" ref="kirchhof-abhandlung-advocat-pflichten"></werk>
+    <ort ref="buetzow" />
+    <ort ref="wismar" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="35" von="143" bis="144"/>
+   <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="35" von="144" />
+    <kategorie ref="avertissement" />
+    <kategorie ref="lokalanzeige"/>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="35" von="144"/>
+    <kategorie ref="wechselkurse" />
+</beitrag> 
+
 </beitraege>
