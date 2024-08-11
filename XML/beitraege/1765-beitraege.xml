@@ -663,7 +663,7 @@
     <beitrag>
         <beilage datum="1765" nr="27" von="109" />
         <kategorie ref="ineigenersache"/>
-        <incipit>Da heut zu Tage die meiste Recensionen als Disputationen angesehen werden…</incipit>
+        <incipit>Da heut zu Tage die meiste Recensionen als Disputationen angesehen werden, …</incipit>
         <akteur ref="kanter" />
         <anmerkung>Vorbemerkung zur nachfolgend abgedruckten Replik</anmerkung>
     </beitrag>
@@ -680,7 +680,7 @@
     <beitrag>
         <stueck datum="1765" nr="28" von="113" bis="114"/>
         <kategorie ref="gedicht"/>
-        <kategorie ref="anzeige"/>
+        <kategorie ref="buecher"/> <!-- oder: kat. anzeige? -->
         <titel>Fürbitte für Sterbende. Von Klopstock. Mel. Mitten wir im Leben sind.</titel>
         <anmerkung>Anzeige der Kanterschen Buchhandlung für eine Sammlung neuer geistlicher Lieder.</anmerkung>
     </beitrag>
@@ -720,6 +720,40 @@
     <beitrag>
         <stueck datum="1765" nr="29" von="120"/>
         <kategorie ref="wechselkurse"/>
+    </beitrag>
+    
+    <!-- 30 -->
+    <beitrag>
+        <stueck datum="1765" nr="30" von="121" bis="123"/>
+        <kategorie ref="erzaehlung"/>
+        <titel>Görgens glückliche Dummheit. Eine Erzählung.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="30" von="123"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="kgsb"/>
+        <anmerkung>Ernennung D. Joh. Ludwig L’Estocqs zum Rektor an der Juristen-Facultät der Königsberger Akademie</anmerkung>
+     </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="30" von="123" bis="124"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="30" von="123" bis="124"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="30" von="123" bis="124"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="30" von="124"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="30" von="124"/>
+        <kategorie ref="avertissement"/>
+        <kategorie ref="anzeige"/>
     </beitrag>
 
 </beitraege>
