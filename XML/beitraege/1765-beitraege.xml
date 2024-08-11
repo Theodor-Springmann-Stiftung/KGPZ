@@ -676,7 +676,7 @@
         <anmerkung>Replik J. G. Töllners auf die Rezension seiner Arbeit in KGPZ, St. 1 (04.01.1765), S. 2 f. und KGPZ, St. 2 (07.01.1765), S. 5 f.</anmerkung>
     </beitrag>
 
-    <!-- 27 -->
+    <!-- 28 -->
     <beitrag>
         <stueck datum="1765" nr="28" von="113" bis="114"/>
         <kategorie ref="gedicht"/>
@@ -695,6 +695,31 @@
     <beitrag>
         <stueck datum="1765" nr="28" von="116"/>
         <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <!-- 29 -->
+    <beitrag>
+        <stueck datum="1765" nr="29" von="117" bis="118"/>
+        <werk ref="atterbury-reden" kat="rezension" />
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="29" von="118"/>
+        <werk ref="raynal-anekdoten" kat="rezension" />
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="29" von="119" bis="120"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="29" von="120"/>
+        <kategorie ref="ineigenersache"/>
+        <anmerkung>Mahnung für säumige Pränumeranten</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="29" von="120"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 </beitraege>
