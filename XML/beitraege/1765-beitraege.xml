@@ -40,8 +40,9 @@
         <incipit>Unsere Leser werden nichts weniger als statt der gewöhnlichen Wünsche …</incipit>
         <anmerkung>An die Leser anstatt eines Neujahrswunsches</anmerkung>
     </beitrag>
-    <beitrag>
+    <beitrag id="rez-toellner-gruende">
         <stueck datum="1765" nr="1" von="2" bis="3"/>
+        <stueck datum="1765" nr="2" von="5" bis="6"/>
         <werk ref="toellner-gruende" kat="rezension"/>
         <ort ref="leipzig"/>
         <ort ref="zuellichau"/>
@@ -110,7 +111,7 @@
      </beitrag>
      <beitrag>
         <stueck datum="1765" nr="4" von="14" bis="15"/>
-        <werk ref="teubern-plutarch" kat="rezension"/>
+        <werk ref="mortimer-plutarch" kat="rezension"/>
         <ort ref="leipzig"/>
         <ort ref="zuellichau"></ort>
      </beitrag>
@@ -223,7 +224,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="9" von="33" bis="34"/>
-        <werk ref="runckel-sendschreiben" kat="rezension"/>
+        <werk ref="bianconi-sendschreiben" kat="rezension"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
@@ -301,7 +302,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="13" von="49" bis="50"/>
-        <werk ref="gerhard-abhandlungen" kat="rezension"/>
+        <werk ref="eller-abhandlungen" kat="rezension"/>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="13" von="51" bis="52"/>
@@ -582,7 +583,7 @@
     <beitrag>
         <stueck datum="1765" nr="24" von="95"/>
         <kategorie ref="ineigenersache"/>
-        <anmerkung>Corrigendum zu KGPZ, St. 23, 22.3.1965, S. 89</anmerkung>
+        <anmerkung>Corrigendum zu KGPZ, St. 23, 22.03.1765, S. 89</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="24" von="95" bis="96"/>
@@ -625,7 +626,7 @@
     <!-- 26 -->
     <beitrag>
         <stueck datum="1765" nr="26" von="101" bis="102"/>
-        <werk ref="koehler-reisebeschreibung" kat="rezension" />
+        <werk ref="blainville-reisebeschreibung-1-2" kat="rezension" />
         <ort ref="lemgo"/>
     </beitrag>
     <beitrag>
@@ -642,6 +643,58 @@
         <kategorie ref="avertissement"/>
         <kategorie ref="buecher"/>
         <anmerkung>Angebot von früheren Quartalen der KGPZ im Kanterschen Buchladen</anmerkung>
+    </beitrag>
+
+    <!-- 27 -->
+    <beitrag>
+        <stueck datum="1765" nr="27" von="105" bis="106"/>
+        <kategorie ref="gedicht"/>
+        <titel>An die Dornenkrone des Erlösers.</titel>
+        <akteur ref="lindner-jg">vgl. ZH II, S. 321</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="27" von="108"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="27" von="108"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1765" nr="27" von="109" />
+        <kategorie ref="ineigenersache"/>
+        <incipit>Da heut zu Tage die meiste Recensionen als Disputationen angesehen werden…</incipit>
+        <akteur ref="kanter" />
+        <anmerkung>Vorbemerkung zur nachfolgend abgedruckten Replik</anmerkung>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1765" nr="27" von="109" bis="112"/>
+        <titel>J. G. Töllners Erklärung in Ansehung seiner in der Königsbergschen gelehrten und politischen Zeitung Nro. 1. und 2. angezeigten wahren Gründe, warum GOtt die Offenbarung nicht mit augenscheinlichen Beweisen versehn hat.</titel>
+        <beitrag kat="replik" ref="rez-toellner-gruende"/>
+        <akteur ref="toellner-jg" />
+        <ort ref="frankfurt-oder"/>
+        <anmerkung>Replik J. G. Töllners auf die Rezension seiner Arbeit in KGPZ, St. 1 (04.01.1765), S. 2 f. und KGPZ, St. 2 (07.01.1765), S. 5 f.</anmerkung>
+    </beitrag>
+
+    <!-- 27 -->
+    <beitrag>
+        <stueck datum="1765" nr="28" von="113" bis="114"/>
+        <kategorie ref="gedicht"/>
+        <kategorie ref="anzeige"/>
+        <titel>Fürbitte für Sterbende. Von Klopstock. Mel. Mitten wir im Leben sind.</titel>
+        <anmerkung>Anzeige der Kanterschen Buchhandlung für eine Sammlung neuer geistlicher Lieder.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="28" von="114" bis="115"/>
+        <werk ref="geschichte-religionsveraenderung" kat="rezension" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="28" von="115" bis="116"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="28" von="116"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
 </beitraege>
