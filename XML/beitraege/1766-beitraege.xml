@@ -870,4 +870,24 @@
    <kategorie ref="wechselkurse" />
 </beitrag>
 
+<!-- 42 -->
+<beitrag id="taenze">
+    <beilage datum="1766" nr="42" von="1" bis="2"/>
+    <titel>Musikalische Beylage zur Königsbergischen gelehrten und politischen Zeitung.</titel>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="42" von="170" bis="171"/>
+    <werk kat="rezension" ref="loewen-schriften"></werk>
+    <ort ref="hamburg" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="42" von="171" bis="172"/>
+   <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="42" von="172"/>
+    <kategorie ref="einkommende-fremde" />
+</beitrag> 
+
+
 </beitraege>
