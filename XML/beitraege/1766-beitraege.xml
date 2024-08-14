@@ -450,7 +450,7 @@
 <beitrag>
     <stueck datum="1766" nr="22" von="88" bis="89"/>
     <stueck datum="1766" nr="23" von="91" bis="92"/>
-    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek"></werk>
+    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek-01"></werk>
     <ort ref="berlin" />
 </beitrag> 
 <beitrag>
@@ -958,6 +958,28 @@
 <beitrag>
     <stueck datum="1766" nr="46" von="188"/>
    <kategorie ref="einkommende-fremde" />
+</beitrag>
+
+<!-- 47 -->
+<beitrag>
+    <stueck datum="1766" nr="47" von="189" bis="190"/>
+    <kategorie ref="aufsatz"></kategorie> 
+    <titel>Nachricht</titel>
+    <anmerkung>Hogarth, Nachricht von seinem Leben.</anmerkung>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="47" von="190" bis="191"/>
+    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek-02"></werk>
+    <ort ref="berlin" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="47" von="191" bis="192"/>
+   <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="47" von="192" />
+    <kategorie ref="avertissement" />
+    <kategorie ref="buecher" />
 </beitrag>
 
 </beitraege>
