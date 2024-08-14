@@ -30,18 +30,17 @@
     <kategorie id="wechselkurse">
         <name>Weckselkurse</name>
         <anmerkung>„Wechsel-Cours &#x26; Species“</anmerkung>
-    </kategorie>
-
-    <kategorie id="avertissement">
-        <name>Avertissement</name>
+        <anmerkung>Zumeist als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
     </kategorie>
 
     <kategorie id="buecher">
         <name>Bücherangebot des Kanterschen Buchladens</name>
+        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
     </kategorie>
 
     <kategorie id="lotterie">
-        <name>Lotterieziehung</name>
+        <name>Nachrichten zur Lotterie</name>
+        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
     </kategorie>
 
     <kategorie id="rezension">
@@ -90,14 +89,17 @@
 
     <kategorie id="lokalanzeigen">
         <name>Lokalanzeigen</name>
+        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
     </kategorie>
 
     <kategorie id="desertionsliste">
         <name>Liste von Deserteuren</name>
+        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks.</anmerkung>
     </kategorie>
 
     <kategorie id="einkommende-fremde">
         <name>Einkommende Fremde</name>
+        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
     </kategorie>
 
     <kategorie id="erzaehlung">
@@ -130,6 +132,16 @@
 
     <kategorie id="lied">
         <name>Lied</name>
+    </kategorie>
+
+    <kategorie id="vorladung">
+        <name>Vorladung zum Gericht</name>
+        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
+    </kategorie>
+
+    <kategorie id="amt">
+        <name>Amtliche Verlautbarung</name>
+        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
     </kategorie>
     
 </kategorien>
