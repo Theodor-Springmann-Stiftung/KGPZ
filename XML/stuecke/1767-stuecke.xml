@@ -1,629 +1,636 @@
 <?xml version="1.0"?>
-<stuecke xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+<?xml version="1.0" ?>
+<stuecke xmlns="https://www.koenigsberger-zeitungen.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
     <stueck>
         <nummer>1</nummer>
-        <datum when="1767-01-02" />
+        <datum when="1767-01-02"/>
         <von>1</von>
         <bis>4</bis>
     </stueck>
     <stueck>
         <nummer>2</nummer>
-        <datum when="1767-01-05" />
+        <datum when="1767-01-05"/>
         <von>5</von>
         <bis>8</bis>
     </stueck>
     <stueck>
         <nummer>3</nummer>
-        <datum when="1767-01-09" />
+        <datum when="1767-01-09"/>
         <von>9</von>
         <bis>12</bis>
     </stueck>
     <stueck>
         <nummer>4</nummer>
-        <datum when="1767-01-12" />
+        <datum when="1767-01-12"/>
         <von>13</von>
         <bis>16</bis>
     </stueck>
     <stueck>
         <nummer>5</nummer>
-        <datum when="1767-01-16" />
+        <datum when="1767-01-16"/>
         <von>17</von>
         <bis>20</bis>
     </stueck>
     <stueck>
         <nummer>6</nummer>
-        <datum when="1767-01-19" />
+        <datum when="1767-01-19"/>
         <von>21</von>
         <bis>24</bis>
     </stueck>
     <stueck>
         <nummer>7</nummer>
-        <datum when="1767-01-23" />
+        <datum when="1767-01-23"/>
         <von>25</von>
         <bis>28</bis>
     </stueck>
     <stueck>
         <nummer>8</nummer>
-        <datum when="1767-01-26" />
+        <datum when="1767-01-26"/>
         <von>29</von>
         <bis>32</bis>
     </stueck>
     <stueck>
         <nummer>9</nummer>
-        <datum when="1767-01-30" />
+        <datum when="1767-01-30"/>
         <von>33</von>
         <bis>36</bis>
     </stueck>
     <stueck>
         <nummer>10</nummer>
-        <datum when="1767-02-02" />
+        <datum when="1767-02-02"/>
         <von>37</von>
         <bis>40</bis>
     </stueck>
     <stueck>
         <nummer>11</nummer>
-        <datum when="1767-02-06" />
+        <datum when="1767-02-06"/>
         <von>41</von>
         <bis>44</bis>
     </stueck>
     <stueck>
         <nummer>12</nummer>
-        <datum when="1767-02-09" />
+        <datum when="1767-02-09"/>
         <von>45</von>
         <bis>48</bis>
+        <beilage nummer="1">
+            <von>1</von>
+            <bis>4</bis>
+        </beilage>
     </stueck>
     <stueck>
         <nummer>13</nummer>
-        <datum when="1767-02-13" />
+        <datum when="1767-02-13"/>
         <von>49</von>
         <bis>52</bis>
     </stueck>
     <stueck>
         <nummer>14</nummer>
-        <datum when="1767-02-16" />
+        <datum when="1767-02-16"/>
         <von>53</von>
         <bis>56</bis>
     </stueck>
     <stueck>
-        <nummer>15</nummer>
-        <datum when="1767-02-20" />
-        <von>57</von>
-        <bis>60</bis>
-    </stueck>
-    <stueck>
         <nummer>16</nummer>
-        <datum when="1767-02-23" />
+        <datum when="1767-02-23"/>
         <von>61</von>
         <bis>64</bis>
     </stueck>
     <stueck>
         <nummer>17</nummer>
-        <datum when="1767-02-27" />
+        <datum when="1767-02-27"/>
         <von>65</von>
         <bis>68</bis>
     </stueck>
     <stueck>
         <nummer>18</nummer>
-        <datum when="1767-03-02" />
+        <datum when="1767-03-02"/>
         <von>69</von>
         <bis>72</bis>
     </stueck>
     <stueck>
         <nummer>19</nummer>
-        <datum when="1767-03-06" />
+        <datum when="1767-03-06"/>
         <von>73</von>
         <bis>76</bis>
     </stueck>
     <stueck>
         <nummer>20</nummer>
-        <datum when="1767-03-09" />
+        <datum when="1767-03-09"/>
         <von>77</von>
         <bis>80</bis>
     </stueck>
     <stueck>
         <nummer>21</nummer>
-        <datum when="1767-03-13" />
+        <datum when="1767-03-13"/>
         <von>81</von>
         <bis>84</bis>
     </stueck>
     <stueck>
         <nummer>22</nummer>
-        <datum when="1767-03-16" />
+        <datum when="1767-03-16"/>
         <von>85</von>
         <bis>88</bis>
     </stueck>
     <stueck>
         <nummer>23</nummer>
-        <datum when="1767-03-20" />
+        <datum when="1767-03-20"/>
         <von>89</von>
         <bis>92</bis>
     </stueck>
     <stueck>
         <nummer>24</nummer>
-        <datum when="1767-03-23" />
+        <datum when="1767-03-23"/>
         <von>93</von>
         <bis>96</bis>
     </stueck>
     <stueck>
         <nummer>25</nummer>
-        <datum when="1767-03-27" />
+        <datum when="1767-03-27"/>
         <von>97</von>
         <bis>100</bis>
     </stueck>
     <stueck>
         <nummer>26</nummer>
-        <datum when="1767-03-30" />
+        <datum when="1767-03-30"/>
         <von>101</von>
         <bis>104</bis>
     </stueck>
     <stueck>
         <nummer>27</nummer>
-        <datum when="1767-04-03" />
+        <datum when="1767-04-03"/>
         <von>105</von>
         <bis>108</bis>
     </stueck>
     <stueck>
         <nummer>28</nummer>
-        <datum when="1767-04-06" />
+        <datum when="1767-04-06"/>
         <von>109</von>
         <bis>112</bis>
     </stueck>
     <stueck>
         <nummer>29</nummer>
-        <datum when="1767-04-10" />
+        <datum when="1767-04-10"/>
         <von>113</von>
-        <bis>116</bis>
+        <bis>118</bis>
     </stueck>
     <stueck>
         <nummer>30</nummer>
-        <datum when="1767-04-13" />
+        <datum when="1767-04-13"/>
         <von>117</von>
         <bis>120</bis>
     </stueck>
     <stueck>
         <nummer>31</nummer>
-        <datum when="1767-04-17" />
+        <datum when="1767-04-17"/>
         <von>121</von>
         <bis>124</bis>
     </stueck>
     <stueck>
         <nummer>32</nummer>
-        <datum when="1767-04-20" />
+        <datum when="1767-04-20"/>
         <von>125</von>
         <bis>128</bis>
     </stueck>
     <stueck>
         <nummer>33</nummer>
-        <datum when="1767-04-24" />
+        <datum when="1767-04-24"/>
         <von>129</von>
-        <bis>132</bis>
-    </stueck>
-    <stueck>
-        <nummer>34</nummer>
-        <datum when="1767-04-27" />
-        <von>133</von>
         <bis>136</bis>
     </stueck>
     <stueck>
-        <nummer>35</nummer>
-        <datum when="1767-05-01" />
+        <nummer>34</nummer>
+        <datum when="1767-04-27"/>
         <von>137</von>
         <bis>140</bis>
     </stueck>
     <stueck>
-        <nummer>36</nummer>
-        <datum when="1767-05-04" />
+        <nummer>35</nummer>
+        <datum when="1767-05-01"/>
         <von>141</von>
         <bis>144</bis>
     </stueck>
     <stueck>
-        <nummer>37</nummer>
-        <datum when="1767-05-08" />
+        <nummer>36</nummer>
+        <datum when="1767-05-04"/>
         <von>145</von>
         <bis>148</bis>
     </stueck>
     <stueck>
-        <nummer>38</nummer>
-        <datum when="1767-05-11" />
+        <nummer>37</nummer>
+        <datum when="1767-05-08"/>
         <von>149</von>
         <bis>152</bis>
     </stueck>
     <stueck>
-        <nummer>39</nummer>
-        <datum when="1767-05-15" />
+        <nummer>38</nummer>
+        <datum when="1767-05-11"/>
         <von>153</von>
         <bis>156</bis>
     </stueck>
     <stueck>
-        <nummer>40</nummer>
-        <datum when="1767-05-18" />
+        <nummer>39</nummer>
+        <datum when="1767-05-15"/>
         <von>157</von>
         <bis>160</bis>
     </stueck>
     <stueck>
-        <nummer>41</nummer>
-        <datum when="1767-05-22" />
+        <nummer>40</nummer>
+        <datum when="1767-05-18"/>
         <von>161</von>
         <bis>164</bis>
     </stueck>
     <stueck>
-        <nummer>42</nummer>
-        <datum when="1767-05-25" />
+        <nummer>41</nummer>
+        <datum when="1767-05-22"/>
         <von>165</von>
         <bis>168</bis>
     </stueck>
     <stueck>
-        <nummer>43</nummer>
-        <datum when="1767-05-29" />
+        <nummer>42</nummer>
+        <datum when="1767-05-25"/>
         <von>169</von>
         <bis>172</bis>
     </stueck>
     <stueck>
-        <nummer>44</nummer>
-        <datum when="1767-06-01" />
+        <nummer>43</nummer>
+        <datum when="1767-05-29"/>
         <von>173</von>
         <bis>176</bis>
     </stueck>
     <stueck>
-        <nummer>45</nummer>
-        <datum when="1767-06-05" />
+        <nummer>44</nummer>
+        <datum when="1767-06-01"/>
         <von>177</von>
         <bis>180</bis>
     </stueck>
     <stueck>
-        <nummer>46</nummer>
-        <datum when="1767-06-08" />
+        <nummer>45</nummer>
+        <datum when="1767-06-05"/>
         <von>181</von>
         <bis>184</bis>
     </stueck>
     <stueck>
-        <nummer>47</nummer>
-        <datum when="1767-06-12" />
+        <nummer>46</nummer>
+        <datum when="1767-06-08"/>
         <von>185</von>
         <bis>188</bis>
     </stueck>
     <stueck>
-        <nummer>48</nummer>
-        <datum when="1767-06-15" />
+        <nummer>47</nummer>
+        <datum when="1767-06-12"/>
         <von>189</von>
         <bis>192</bis>
     </stueck>
     <stueck>
-        <nummer>49</nummer>
-        <datum when="1767-06-19" />
+        <nummer>48</nummer>
+        <datum when="1767-06-15"/>
         <von>193</von>
         <bis>196</bis>
     </stueck>
     <stueck>
-        <nummer>50</nummer>
-        <datum when="1767-06-22" />
+        <nummer>49</nummer>
+        <datum when="1767-06-19"/>
         <von>197</von>
         <bis>200</bis>
     </stueck>
     <stueck>
-        <nummer>51</nummer>
-        <datum when="1767-06-26" />
+        <nummer>50</nummer>
+        <datum when="1767-06-22"/>
         <von>201</von>
         <bis>204</bis>
     </stueck>
     <stueck>
-        <nummer>52</nummer>
-        <datum when="1767-06-29" />
+        <nummer>51</nummer>
+        <datum when="1767-06-26"/>
         <von>205</von>
         <bis>208</bis>
     </stueck>
     <stueck>
-        <nummer>53</nummer>
-        <datum when="1767-07-03" />
+        <nummer>52</nummer>
+        <datum when="1767-06-29"/>
         <von>209</von>
         <bis>212</bis>
     </stueck>
     <stueck>
-        <nummer>54</nummer>
-        <datum when="1767-07-06" />
+        <nummer>53</nummer>
+        <datum when="1767-07-03"/>
         <von>213</von>
         <bis>216</bis>
     </stueck>
     <stueck>
-        <nummer>55</nummer>
-        <datum when="1767-07-10" />
+        <nummer>54</nummer>
+        <datum when="1767-07-06"/>
         <von>217</von>
         <bis>220</bis>
     </stueck>
     <stueck>
-        <nummer>56</nummer>
-        <datum when="1767-07-13" />
+        <nummer>55</nummer>
+        <datum when="1767-07-10"/>
         <von>221</von>
         <bis>224</bis>
     </stueck>
     <stueck>
-        <nummer>57</nummer>
-        <datum when="1767-07-17" />
+        <nummer>56</nummer>
+        <datum when="1767-07-13"/>
         <von>225</von>
         <bis>228</bis>
     </stueck>
     <stueck>
-        <nummer>58</nummer>
-        <datum when="1767-07-20" />
+        <nummer>57</nummer>
+        <datum when="1767-07-17"/>
         <von>229</von>
         <bis>232</bis>
     </stueck>
     <stueck>
-        <nummer>59</nummer>
-        <datum when="1767-07-24" />
+        <nummer>58</nummer>
+        <datum when="1767-07-20"/>
         <von>233</von>
         <bis>236</bis>
     </stueck>
     <stueck>
-        <nummer>60</nummer>
-        <datum when="1767-07-27" />
+        <nummer>59</nummer>
+        <datum when="1767-07-24"/>
         <von>237</von>
         <bis>240</bis>
     </stueck>
     <stueck>
-        <nummer>61</nummer>
-        <datum when="1767-07-31" />
+        <nummer>60</nummer>
+        <datum when="1767-07-27"/>
         <von>241</von>
         <bis>244</bis>
     </stueck>
     <stueck>
-        <nummer>62</nummer>
-        <datum when="1767-08-03" />
+        <nummer>61</nummer>
+        <datum when="1767-07-31"/>
         <von>245</von>
         <bis>248</bis>
     </stueck>
     <stueck>
-        <nummer>63</nummer>
-        <datum when="1767-08-07" />
+        <nummer>62</nummer>
+        <datum when="1767-08-03"/>
         <von>249</von>
         <bis>252</bis>
     </stueck>
     <stueck>
         <nummer>64</nummer>
-        <datum when="1767-08-10" />
-        <von>253</von>
-        <bis>256</bis>
-    </stueck>
-    <stueck>
-        <nummer>65</nummer>
-        <datum when="1767-08-14" />
+        <datum when="1767-08-10"/>
         <von>257</von>
         <bis>260</bis>
     </stueck>
     <stueck>
-        <nummer>66</nummer>
-        <datum when="1767-08-17" />
+        <nummer>65</nummer>
+        <datum when="1767-08-14"/>
         <von>261</von>
         <bis>264</bis>
     </stueck>
     <stueck>
-        <nummer>67</nummer>
-        <datum when="1767-08-21" />
+        <nummer>66</nummer>
+        <datum when="1767-08-17"/>
         <von>265</von>
         <bis>268</bis>
     </stueck>
     <stueck>
-        <nummer>68</nummer>
-        <datum when="1767-08-24" />
+        <nummer>67</nummer>
+        <datum when="1767-08-21"/>
         <von>269</von>
         <bis>272</bis>
     </stueck>
     <stueck>
-        <nummer>69</nummer>
-        <datum when="1767-08-28" />
+        <nummer>68</nummer>
+        <datum when="1767-08-24"/>
         <von>273</von>
         <bis>276</bis>
     </stueck>
     <stueck>
-        <nummer>70</nummer>
-        <datum when="1767-08-31" />
+        <nummer>69</nummer>
+        <datum when="1767-08-28"/>
         <von>277</von>
         <bis>280</bis>
     </stueck>
     <stueck>
-        <nummer>71</nummer>
-        <datum when="1767-09-04" />
+        <nummer>70</nummer>
+        <datum when="1767-08-31"/>
         <von>281</von>
         <bis>284</bis>
     </stueck>
     <stueck>
-        <nummer>72</nummer>
-        <datum when="1767-09-07" />
+        <nummer>71</nummer>
+        <datum when="1767-09-04"/>
         <von>285</von>
         <bis>288</bis>
     </stueck>
     <stueck>
-        <nummer>73</nummer>
-        <datum when="1767-09-11" />
+        <nummer>72</nummer>
+        <datum when="1767-09-07"/>
         <von>289</von>
         <bis>292</bis>
     </stueck>
     <stueck>
-        <nummer>74</nummer>
-        <datum when="1767-09-14" />
+        <nummer>73</nummer>
+        <datum when="1767-09-11"/>
         <von>293</von>
         <bis>296</bis>
     </stueck>
     <stueck>
-        <nummer>75</nummer>
-        <datum when="1767-09-18" />
+        <nummer>74</nummer>
+        <datum when="1767-09-14"/>
         <von>297</von>
         <bis>300</bis>
     </stueck>
     <stueck>
-        <nummer>76</nummer>
-        <datum when="1767-09-21" />
+        <nummer>75</nummer>
+        <datum when="1767-09-18"/>
         <von>301</von>
         <bis>304</bis>
     </stueck>
     <stueck>
-        <nummer>77</nummer>
-        <datum when="1767-09-25" />
+        <nummer>76</nummer>
+        <datum when="1767-09-21"/>
         <von>305</von>
         <bis>308</bis>
     </stueck>
     <stueck>
-        <nummer>78</nummer>
-        <datum when="1767-09-28" />
+        <nummer>77</nummer>
+        <datum when="1767-09-25"/>
         <von>309</von>
         <bis>312</bis>
     </stueck>
     <stueck>
-        <nummer>79</nummer>
-        <datum when="1767-10-02" />
+        <nummer>78</nummer>
+        <datum when="1767-09-28"/>
         <von>313</von>
         <bis>316</bis>
     </stueck>
     <stueck>
-        <nummer>80</nummer>
-        <datum when="1767-10-05" />
+        <nummer>79</nummer>
+        <datum when="1767-10-02"/>
         <von>317</von>
         <bis>320</bis>
     </stueck>
     <stueck>
-        <nummer>81</nummer>
-        <datum when="1767-10-09" />
+        <nummer>80</nummer>
+        <datum when="1767-10-05"/>
         <von>321</von>
         <bis>324</bis>
     </stueck>
     <stueck>
-        <nummer>82</nummer>
-        <datum when="1767-10-12" />
+        <nummer>81</nummer>
+        <datum when="1767-10-09"/>
         <von>325</von>
         <bis>328</bis>
+        <beilage nummer="1">
+            <von>1</von>
+            <bis>2</bis>
+        </beilage>
     </stueck>
     <stueck>
-        <nummer>83</nummer>
-        <datum when="1767-10-16" />
+        <nummer>82</nummer>
+        <datum when="1767-10-12"/>
         <von>329</von>
         <bis>332</bis>
     </stueck>
     <stueck>
-        <nummer>84</nummer>
-        <datum when="1767-10-19" />
+        <nummer>83</nummer>
+        <datum when="1767-10-16"/>
         <von>333</von>
         <bis>336</bis>
+        <beilage nummer="1">
+            <von>1</von>
+            <bis>2</bis>
+        </beilage>
     </stueck>
     <stueck>
-        <nummer>85</nummer>
-        <datum when="1767-10-23" />
+        <nummer>84</nummer>
+        <datum when="1767-10-19"/>
         <von>337</von>
         <bis>340</bis>
     </stueck>
     <stueck>
-        <nummer>86</nummer>
-        <datum when="1767-10-26" />
+        <nummer>85</nummer>
+        <datum when="1767-10-23"/>
         <von>341</von>
         <bis>344</bis>
+        <beilage nummer="1">
+            <von>1</von>
+            <bis>2</bis>
+        </beilage>
     </stueck>
     <stueck>
-        <nummer>87</nummer>
-        <datum when="1767-10-30" />
+        <nummer>86</nummer>
+        <datum when="1767-10-26"/>
         <von>345</von>
         <bis>348</bis>
     </stueck>
     <stueck>
-        <nummer>88</nummer>
-        <datum when="1767-11-02" />
+        <nummer>87</nummer>
+        <datum when="1767-10-30"/>
         <von>349</von>
         <bis>352</bis>
     </stueck>
     <stueck>
-        <nummer>89</nummer>
-        <datum when="1767-11-06" />
+        <nummer>88</nummer>
+        <datum when="1767-11-02"/>
         <von>353</von>
         <bis>356</bis>
     </stueck>
     <stueck>
-        <nummer>90</nummer>
-        <datum when="1767-11-09" />
+        <nummer>89</nummer>
+        <datum when="1767-11-06"/>
         <von>357</von>
         <bis>360</bis>
     </stueck>
     <stueck>
-        <nummer>91</nummer>
-        <datum when="1767-11-13" />
+        <nummer>90</nummer>
+        <datum when="1767-11-09"/>
         <von>361</von>
-        <bis>364</bis>
+        <bis>366</bis>
+    </stueck>
+    <stueck>
+        <nummer>91</nummer>
+        <datum when="1767-11-13"/>
+        <von>367</von>
+        <bis>370</bis>
     </stueck>
     <stueck>
         <nummer>92</nummer>
-        <datum when="1767-11-16" />
-        <von>365</von>
-        <bis>368</bis>
+        <datum when="1767-11-16"/>
+        <von>371</von>
+        <bis>374</bis>
     </stueck>
     <stueck>
         <nummer>93</nummer>
-        <datum when="1767-11-20" />
-        <von>369</von>
-        <bis>372</bis>
+        <datum when="1767-11-20"/>
+        <von>375</von>
+        <bis>378</bis>
     </stueck>
     <stueck>
         <nummer>94</nummer>
-        <datum when="1767-11-23" />
-        <von>373</von>
-        <bis>376</bis>
-    </stueck>
-    <stueck>
-        <nummer>95</nummer>
-        <datum when="1767-11-27" />
-        <von>377</von>
-        <bis>380</bis>
-    </stueck>
-    <stueck>
-        <nummer>96</nummer>
-        <datum when="1767-11-30" />
-        <von>381</von>
+        <datum when="1767-11-23"/>
+        <von>379</von>
         <bis>384</bis>
     </stueck>
     <stueck>
-        <nummer>97</nummer>
-        <datum when="1767-12-04" />
+        <nummer>95</nummer>
+        <datum when="1767-11-27"/>
         <von>385</von>
         <bis>388</bis>
     </stueck>
     <stueck>
-        <nummer>98</nummer>
-        <datum when="1767-12-07" />
+        <nummer>96</nummer>
+        <datum when="1767-11-30"/>
         <von>389</von>
         <bis>392</bis>
     </stueck>
     <stueck>
-        <nummer>99</nummer>
-        <datum when="1767-12-11" />
+        <nummer>97</nummer>
+        <datum when="1767-12-04"/>
         <von>393</von>
         <bis>396</bis>
     </stueck>
     <stueck>
-        <nummer>100</nummer>
-        <datum when="1767-12-14" />
+        <nummer>98</nummer>
+        <datum when="1767-12-07"/>
         <von>397</von>
         <bis>400</bis>
     </stueck>
     <stueck>
-        <nummer>101</nummer>
-        <datum when="1767-12-18" />
+        <nummer>99</nummer>
+        <datum when="1767-12-11"/>
         <von>401</von>
         <bis>404</bis>
     </stueck>
     <stueck>
-        <nummer>102</nummer>
-        <datum when="1767-12-21" />
+        <nummer>100</nummer>
+        <datum when="1767-12-14"/>
         <von>405</von>
         <bis>408</bis>
     </stueck>
     <stueck>
-        <nummer>103</nummer>
-        <datum when="1767-12-25" />
+        <nummer>101</nummer>
+        <datum when="1767-12-18"/>
         <von>409</von>
         <bis>412</bis>
+        <beilage nummer="1">
+            <von>1</von>
+            <bis>2</bis>
+        </beilage>
+    </stueck>
+    <stueck>
+        <nummer>102</nummer>
+        <datum when="1767-12-21"/>
+        <von>413</von>
+        <bis>418</bis>
+    </stueck>
+    <stueck>
+        <nummer>103</nummer>
+        <datum when="1767-12-25"/>
+        <von>419</von>
+        <bis>422</bis>
     </stueck>
     <stueck>
         <nummer>104</nummer>
-        <datum when="1767-12-28" />
-        <von>413</von>
-        <bis>416</bis>
+        <datum when="1767-12-28"/>
+        <von>423</von>
+        <bis>426</bis>
     </stueck>
 </stuecke>
