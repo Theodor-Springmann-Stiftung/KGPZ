@@ -13,11 +13,20 @@
                 <xsd:element name="stueck" maxOccurs="unbounded">
                     <xsd:complexType>
                         <xsd:sequence>
-                            <xsd:element name="nummer" type="xsd:positiveInteger" minOccurs="0"
+                            <xsd:element name="nummer" minOccurs="0"
                                 maxOccurs="1">
                                 <xsd:annotation>
                                     <xsd:documentation>Die Nummer des Stücks, falls bekannt.</xsd:documentation>
                                 </xsd:annotation>
+
+                                <xsd:complexType>
+                                    <xsd:simpleContent>
+                                        <xsd:extension base="kgpz:NonEmptyString">
+                                            <xsd:attribute name="korrigiert"
+                                                type="kgpz:NonEmptyString" use="optional"></xsd:attribute>
+                                        </xsd:extension>
+                                    </xsd:simpleContent>
+                                </xsd:complexType>
                             </xsd:element>
 
                             <xsd:element name="datum" type="kgpz:date" minOccurs="0" maxOccurs="1">
