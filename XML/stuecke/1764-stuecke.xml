@@ -3,6 +3,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
     <stueck>
+        <nummer>1</nummer>
+        <datum when="1764-02-03" />
+        <von>1</von>
+        <bis>4</bis>
+    </stueck>
+    <stueck>
         <nummer>2</nummer>
         <datum when="1764-01-09" />
         <von>5</von>
@@ -562,7 +568,7 @@
     </stueck>
     <stueck>
         <nummer>95</nummer>
-        <datum when="1764-11-30" />
+        <datum when="1764-12-28" />
         <von>377</von>
         <bis>380</bis>
     </stueck>
