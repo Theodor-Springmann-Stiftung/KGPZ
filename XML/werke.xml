@@ -2315,7 +2315,7 @@
     </werk>
 
     <werk id="krebs-natuerliche-gottesgelahrtheit">
-        <akteur ref="krebs-ak" />
+        <akteur ref="krebs-la" />
         <zitation>Natürliche Gottesgelehrsamkeit nebst dem Plan einer Geschichte derselben (Gießen 1771).</zitation>
     </werk>
 
@@ -2661,10 +2661,35 @@
         <url address="https://books.google.de/books?id=THJgAAAAcAAJ" >Google Books</url>
     </werk>
 
-    <werk id="happe-neues">
-        <akteur ref="happe" />
-        <zitation>Neues systematisches</zitation>
+    <werk id="martini-neues-conchyliencabinet2">
+        <akteur ref="martini-fhw" />
+        <akteur ref="happe-af" />
+        <zitation>Neues systematisches Conchylien-Cabinet geordnet und beschrieben von Friedrich Heinrich Wilhelm Martini und unter dessen Aufsicht nach der Natur gezeichnet und mit lebendigen Farben erleuchtet durch Andres Friedrich Happe, Bd. 2 (Nürnberg).</zitation>
         <url address="" ></url>
+    </werk>
+
+    <werk id="schneider-anmerkungen">
+        <akteur ref="schneider-jg" />
+        <zitation>Anmerkungen über den Anakreon (Leipzig: Crusius 1770).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10232449-8" >BSB München</url>
+    </werk>
+
+    <werk id="pardey-predigten">
+        <akteur ref="pardey-ea" />
+        <zitation>Predigten von Ernst August Pardey (Celle: Gsellius 1770).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461068-7" >BSB München</url>
+    </werk>
+
+    <werk id="monnet-briefe1">
+        <akteur ref="monnet" />
+        <zitation>Briefe einer zärtlichen Mutter an ihren Sohn, worinnen sie ihm die Wahrheit der christlichen Religion aus der Vernunft, Offenbarung, und den Widersprüchen der feindlichen Bestreiter derselben beweiset (2 Bde, Augsburg: Klett 1770), Bd. 1.</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN1004477864" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="krebs-gedanken">
+        <akteur ref="krebs-la" />
+        <zitation>Gedanken über einige Arten die Litterairhistorie zur Empfehlung der Musen im kleinen vorzutragen von Ludwig Alexander Krebs (Gießen: Krieger 1771).</zitation>
+        <url address="https://nbn-resolving.org/urn:nbn:de:bvb:29-bv003468263-9" >FAU Erlangen-Nürnberg</url>
     </werk>
 
     
