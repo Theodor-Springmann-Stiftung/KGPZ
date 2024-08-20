@@ -805,7 +805,7 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="39" von="160" />
-    <akteur ref="toussaint-a" kat="todesanzeige" />
+    <kategorie ref="lokalanzeigen"></kategorie>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="39" von="160"/>
@@ -945,8 +945,7 @@
 <!-- 47 -->
 <beitrag>
     <stueck datum="1766" nr="47" von="189" bis="190"/>
-    <kategorie ref="aufsatz"></kategorie>
-    <kategorie ref="todesanzeige"></kategorie>
+    <kategorie ref="nachruf"></kategorie>
     <titel>Nachricht.</titel>
     <anmerkung>Nachruf auf William Hogarth mit einer Würdigung seiner Kunst.</anmerkung>
 </beitrag>
