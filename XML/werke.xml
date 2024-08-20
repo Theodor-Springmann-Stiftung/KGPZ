@@ -129,14 +129,14 @@
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN556514408_0001">SUB Göttingen</url>
     </werk>
 
-    <werk id="bibliothek-der-damen">
+    <werk id="kretschmann-bibliothek-der-damen">
         <akteur ref="kretschmann-kf" />
         <zitation>Bibliothek der Damen, oder Sammlung lehrreicher und angenehmer Abhandlungen zur Bildung, Nutzen und Vergnügen des schönen Geschlechts. 
             Aus dem Französischen von Karl Friedrich Kretschmann übersetzt (Zittau und Görlitz: Spiekermann 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10434691-2">BSB München</url>
     </werk>
 
-    <werk id="beste-deutsche-dichter">
+    <werk id="zachariae-beste-deutsche-dichter">
         <akteur ref="zachariae-fw" />
         <zitation>Auserlesene Stücke der besten deutschen Dichter von Martin Opitz bis auf unsere Zeit, mit historischen Nachrichten und kritischen Anmerkungen versehen von Friedrich Wilhelm Zachariä. Bd. 1 (Braunschweig: Fürstl. Waisenhaus-Buchhandlung 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123842-1">BSB München</url>
@@ -550,7 +550,7 @@
     <werk id="ramler-lieder-der-deutschen">
         <akteur ref="ramler" />
         <zitation>Lieder der Deutschen (Berlin: Winter 1766).</zitation>
-        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116685-8">ULB Halle</url>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116685-8">BSB München</url>
     </werk>
 
     <werk id="gellius-geschichte">
@@ -977,8 +977,7 @@
 
     <werk id="remond-reflexions-poesie">
         <akteur ref="remond-t" />
-        <zitation>Reflexions sur la poesie en general, sur l'eglogue, sur la fable, sur l'elegie, sur la satire, sur l'ode, et sur les autres petits poemes, 
-            suivies de trois lettres sur la decadence du gout, par Remond de Saint-Mard (La Haye [Haag]: Chez C. De Rogissart et Soeurs 1734).</zitation>
+        <zitation>Reflexions sur la poesie en general, sur l’eglogue, sur la fable, sur l’elegie, sur la satire, sur l’ode, et sur les autres petits poemes, suivies de trois lettres sur la decadence du gout, par Remond de Saint-Mard (den Haag: Rogissart 1734).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574580-5">BSB München</url>
     </werk>
 
@@ -1332,19 +1331,21 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070902-7">BSB München</url>
     </werk>
 
-    <werk id="chants-amours-de-paliris">
+    <werk id="amours-de-paliris">
         <zitation>Les amours de Paliris et Dirphé en VI. Chants (Paris: Panckoucke 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10745516-0">BSB München</url>
     </werk>
 
-    <werk id="pfeffel-beitraege-zur-deutschen-maculator">
+    <werk id="pfeffel-beitraege-zur-deutschen-maculatur">
         <akteur ref="pfeffel-gk"/>
-        <zitation>Neue Beyträge zur deutschen Maculator, erster und letzter Band (Frankfurt: Garbe 1766).</zitation>
+        <zitation>Neue Beyträge zur deutschen Maculatur, erster und letzter Band (Frankfurt: Garbe 1766).</zitation>
+        <url address="https://books.google.de/books?id=iaRdAAAAcAAJ">Google Books</url>
     </werk>
 
-    <werk id="k-doris-und-chloe-zeitvertreib">
-        <akteur ref="kritzinger-fa"/> 
-        <zitation>Doris und Chloe Zeitvertreib am Coffeetisch, von K. (1766).</zitation>
+    <werk id="gleim-doris">
+        <akteur ref="gleim"/> 
+        <zitation>Doris und Chloe Zeitvertreib am Coffeetisch, von K*** (1766).</zitation>
+        <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:gbv:18-5-PPN8839330206">Stabi Hamburg</url>
     </werk>
 
     <werk id="beaumont-instructions">
@@ -1605,8 +1606,7 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10000747">BSB München</url>
     </werk>
 
-    <werk id="karsch-kleinigkeiten">
-        <akteur ref="karsch"></akteur>
+    <werk id="kleinigkeiten">
         <zitation>Kleinigkeiten (Berlin: Winter 1765).</zitation>
     </werk>
 
@@ -1759,8 +1759,10 @@
         <url address="http://dx.doi.org/10.25673/84752" >ULB Halle</url>
     </werk>
 
-    <werk id="die-schoene-russin">
-        <zitation>Die schöne Rußin, oder wunderbare Geschichte der Azema in 2 Theilen (Braunschweig 1766).</zitation>
+    <werk id="contant-schoene-russin">
+        <akteur ref="contant-orville-ag"></akteur>
+        <zitation>Die schöne Russin oder wunderbare Geschichte der Azema (Braunschweig 1766).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN717844498">SUB Göttingen</url>
     </werk>
 
     <werk id="hamburgadresscomtoir1771">

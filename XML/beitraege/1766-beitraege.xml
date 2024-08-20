@@ -328,9 +328,9 @@
 </beitrag>
 
 <!-- 16 -->
-<beitrag>
+<beitrag id="kleinigkeiten-nonkarschin">
     <stueck datum="1766" nr="16" von="63" bis="64" />
-    <werk kat="rezension" ref="karsch-kleinigkeiten"></werk>
+    <werk kat="rezension" ref="kleinigkeiten"></werk>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="16" von="64"/>
@@ -742,7 +742,7 @@
     <werk kat="rezension" ref="beaumont-geschichte-der-frau"></werk>
     <ort ref="leipzig" />
 </beitrag> 
-<beitrag>
+<beitrag id="kranke">
     <stueck datum="1766" nr="36" von="146" bis="147"/>
     <werk kat="rezension" ref="kranke-sittenschrift"></werk>
     <ort ref="danzig" />
@@ -855,7 +855,8 @@
 
 <!-- 42 -->
 <beitrag>
-    <beilage datum="1766" nr="42" von="1" bis="2"/>
+    <beilage datum="1766" nr="42" von="1"/>
+    <kategorie ref="notenblatt"></kategorie>
     <titel>Musikalische Beylage.</titel>
     <anmerkung>Tanzchoreographie mit Noten.</anmerkung>
 </beitrag>
@@ -945,9 +946,8 @@
 <!-- 47 -->
 <beitrag>
     <stueck datum="1766" nr="47" von="189" bis="190"/>
-    <kategorie ref="nachruf"></kategorie>
     <titel>Nachricht.</titel>
-    <anmerkung>Nachruf auf William Hogarth mit einer Würdigung seiner Kunst.</anmerkung>
+    <akteur ref="hogarth" kat="nachruf" />
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="47" von="190" bis="191"/>
@@ -962,14 +962,23 @@
     <stueck datum="1766" nr="47" von="192" />
     <kategorie ref="buecher" />
 </beitrag>
+<beitrag>
+    <stueck datum="1766" nr="47" von="192"/>
+   <kategorie ref="wechselkurse" />
+</beitrag>
 
 <!-- 48 -->
-<beitrag>
-    <stueck datum="1766" nr="48" von="193" bis="195"/>
+<beitrag id="ramler-lieder">
+    <stueck datum="1766" nr="48" von="193" />
     <werk kat="rezension" ref="ramler-lieder-der-deutschen"></werk>
     <ort ref="berlin" />
-    <anmerkung>Einschluss der Partituren und der Liedtexte für die jeweiligen Musikstücke: "An die Freude" und "Phyllis an Damon".</anmerkung>
 </beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="48" von="194" bis="195"/>
+    <kategorie ref="notenblatt"></kategorie>
+    <beitrag ref="ramler-lieder" kat="nachtrag" />
+    <anmerkung>Notenblätter mit Vertonungen von „An die Freude“ und „Phyllis an Damon“.</anmerkung>
+</beitrag>
 <beitrag>
     <stueck datum="1766" nr="48" von="196"/>
    <kategorie ref="weltnachrichten" />
@@ -982,7 +991,7 @@
 <!-- 49 -->
 <beitrag>
     <stueck datum="1766" nr="49" von="197"/>
-    <werk kat="rezension" ref="bibliothek-der-damen"></werk>
+    <werk kat="rezension" ref="kretschmann-bibliothek-der-damen"></werk>
     <ort ref="zittau" />
     <ort ref="goerlitz"/>
 </beitrag> 
@@ -1040,8 +1049,17 @@
 <!-- 52 -->
 <beitrag>
     <beilage datum="1766" nr="52" von="209" bis="210"/>
+    <kategorie ref="ineigenersache"></kategorie>
+    <beitrag ref="kleinigkeiten-nonkarschin" kat="nachtrag"/>
+    <beitrag ref="karsch-zeus" kat="kommentar"/>
+    <beitrag ref="kranke" kat="nachtrag"/>
+    <anmerkung>Antworten des Redakteurs auf Leserbriefe zu verschiedenen Beiträgen.</anmerkung>
+</beitrag> 
+<beitrag id="karsch-zeus">
+    <beilage datum="1766" nr="52" von="209" bis="210"/>
     <kategorie ref="gedicht"></kategorie>
-    <titel>Sinngedicht</titel>
+    <incipit>Zevs heißts dem Blitz daß er von übeln Dünsten</incipit>
+    <akteur ref="karsch"></akteur>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="52" von="210"/>
@@ -1052,7 +1070,7 @@
 <beitrag>
     <stueck datum="1766" nr="52" von="210"/>
     <werk kat="rezension" ref="remond-reflexions-poesie"></werk>
-    <ort ref="haag" />
+    <ort ref="den-haag" />
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="52" von="211" bis="212"/>
@@ -1073,16 +1091,20 @@
     <stueck datum="1766" nr="53" von="215" bis="216"/>
    <kategorie ref="weltnachrichten" />
 </beitrag>
+<beitrag>
+    <stueck datum="1766" nr="53" von="216"/>
+   <kategorie ref="wechselkurse" />
+</beitrag>
 
 <!-- 54 -->
 <beitrag>
     <stueck datum="1766" nr="54" von="217" bis="218"/>
-    <werk kat="rezension" ref="die-schoene-russin"></werk>
+    <werk kat="rezension" ref="contant-schoene-russin"></werk>
     <ort ref="braunschweig"/>
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="54" von="218"/>
-    <werk kat="rezension" ref="chants-amours-de-paliris"></werk>
+    <werk kat="rezension" ref="amours-de-paliris"></werk>
     <ort ref="paris"/>
 </beitrag> 
 <beitrag>
@@ -1105,17 +1127,21 @@
     <stueck datum="1766" nr="56" von="225" bis="226"/>
     <kategorie ref="aufsatz"></kategorie>
     <titel>Von der zu hoch getriebnen Volkommenheit der philosophischen Tugend.</titel>
-    <anmerkung>Unterzeichnet „Rs“</anmerkung>
+    <anmerkung>Unterzeichnet „Rs.“</anmerkung>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="55" von="223" bis="224"/>
    <kategorie ref="weltnachrichten" />
 </beitrag>
+<beitrag>
+    <stueck datum="1766" nr="55" von="224"/>
+   <kategorie ref="wechselkurse" />
+</beitrag>
 
 <!-- 56 -->
 <beitrag>
     <stueck datum="1766" nr="56" von="226"/>
-    <werk kat="rezension" ref="k-doris-und-chloe-zeitvertreib"></werk>
+    <werk kat="rezension" ref="gleim-doris"></werk>
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="56" von="227" bis="228"/>
