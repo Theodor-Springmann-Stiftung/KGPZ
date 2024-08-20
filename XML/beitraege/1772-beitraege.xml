@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+
+    <!-- Jahrgang 1772 -->
+    <!-- Beilagen: -->
+    <beitrag id="meinhard-ariostauszug">
+        <beilage datum="1772" nr="1" von="1" bis="2" />
+        <beilage datum="1772" nr="3" von="1" bis="2" />
+        <beilage datum="1772" nr="5" von="1" bis="2" />
+        <beilage datum="1772" nr="9" von="1" bis="2" />
+        <beilage datum="1772" nr="13" von="1" bis="2" />
+        <beilage datum="1772" nr="15" von="1" bis="2" />
+        <beilage datum="1772" nr="17" von="1" bis="2" />
+        <beilage datum="1772" nr="19" von="1" bis="2" />
+        <beilage datum="1772" nr="21" von="1" bis="2" />
+        <beilage datum="1772" nr="23" von="1" bis="2" />
+        <beilage datum="1772" nr="25" von="1" bis="2" />
+        <beilage datum="1772" nr="27" von="1" bis="2" />
+        <beilage datum="1772" nr="29" von="1" bis="2" />
+        <beilage datum="1772" nr="33" von="1" bis="2" />
+        <beilage datum="1772" nr="35" von="1" bis="2" />
+        <werk kat="auszug" ref="meinhard-versuche2" s="S. 129–279"></werk>
+        <anmerkung>Auszug über Ariost und Orlando Furioso aus Anlass von Kupferstichen aus Orlando Furioso im genealogischen Calender der Königlichen Akademie der Wissenschaften zu Berlin von 1772.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1772" nr="35" von="2"/>
+        <beilage datum="1772" nr="39" von="1" bis="2" />
+        <beitrag kat="nachtrag" ref="meinhard-ariostauszug"></beitrag>
+        <anmerkung>Erklärung weiterer Kupferstiche zu Orlando Furioso aus dem genealogischen Calender 1772.</anmerkung>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="5" von="2" />
+        <kategorie ref="buecher"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="39" von="2" />
+        <kategorie ref="buecher"></kategorie>
+    </beitrag>
+
+    <!-- Stücke: -->
+    <beitrag>
+        <stueck datum="1772" nr="1" von="1" />
+        <kategorie ref="ineigenersache"></kategorie>
+        <incipit>Neujahrsgruß</incipit>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="1" von="1" bis="2"/>
+        <kategorie ref="gedicht"></kategorie>
+        <incipit>Die Nebel, die vor Deutschlands Augen hiengen…</incipit>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="1" von="2" bis="4" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="1" von="4"/>
+        <kategorie ref="lotterie" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="1" von="4"/>
+        <kategorie ref="vorladung" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="1" von="4"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="1" von="4"/>
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+</beitraege>
