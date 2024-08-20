@@ -28,7 +28,7 @@
     <beitrag>
         <beilage datum="1772" nr="1" von="1"/>
         <beitrag kat="kommentar" ref="meinhard-ariostauszug"></beitrag>
-        <akteur ref="hamann">Laut Unger II, 910 und Nadler IV, 371</akteur>
+        <akteur ref="hamann">vgl. Unger II, 910 und Nadler IV, 371</akteur>
         <anmerkung>Einleitung des Auszugs.</anmerkung>
     </beitrag>
     <beitrag>
@@ -72,6 +72,16 @@
     <beitrag>
         <beilage datum="1772" nr="39" von="2" />
         <kategorie ref="buecher"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="41" von="1" bis="2" />
+        <beilage datum="1772" nr="43" von="1" bis="2" />
+        <titel>Ueber die Ritterromanen, aus dem Engl. zusammengezogen.</titel>
+        <werk kat="uebersetzung" ref="warburton-chivalry" ></werk>
+        <werk kat="uebersetzung" ref="hurd-chivalry" ></werk>
+        <akteur ref="hamann">vgl. Unger II, 910–916, Nadler IV, 372–376</akteur>
+        <anmerkung>Kombinierte Übersetzung von Ausschnitten aus einem Aufsatz von William Warburten und Richard Hurds Letters on Chivalry and Romance.</anmerkung>
     </beitrag>
 
     <!-- Stücke: -->
