@@ -22,18 +22,51 @@
         <beilage datum="1772" nr="33" von="1" bis="2" />
         <beilage datum="1772" nr="35" von="1" bis="2" />
         <werk kat="auszug" ref="meinhard-versuche2" s="S. 129–279"></werk>
+        <akteur ref="hamann">Laut Unger II, 910 und Nadler IV, 371</akteur>
         <anmerkung>Auszug über Ariost und Orlando Furioso aus Anlass von Kupferstichen aus Orlando Furioso im genealogischen Calender der Königlichen Akademie der Wissenschaften zu Berlin von 1772.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1772" nr="1" von="1"/>
+        <beitrag kat="kommentar" ref="meinhard-ariostauszug"></beitrag>
+        <akteur ref="hamann">Laut Unger II, 910 und Nadler IV, 371</akteur>
+        <anmerkung>Einleitung des Auszugs.</anmerkung>
     </beitrag>
     <beitrag>
         <beilage datum="1772" nr="35" von="2"/>
         <beilage datum="1772" nr="39" von="1" bis="2" />
         <beitrag kat="nachtrag" ref="meinhard-ariostauszug"></beitrag>
+        <akteur ref="hamann" unsicher="true"></akteur>
         <anmerkung>Erklärung weiterer Kupferstiche zu Orlando Furioso aus dem genealogischen Calender 1772.</anmerkung>
     </beitrag>
 
     <beitrag>
         <beilage datum="1772" nr="5" von="2" />
         <kategorie ref="buecher"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="7" von="1" bis="2" />
+        <kategorie ref="gelehrte-nachrichten"></kategorie>
+        <titel>Ankündigung der von dem Königl. Preußischen General-Ober-Finanz-Krieges-und Domainendirectorio auf 1772 und 1773, ausgesetzten Preißaufgaben.</titel>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="11" von="1" bis="2" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="31" von="1" bis="4" />
+        <kategorie ref="aufsatz"></kategorie>
+        <titel>Vom Nutzen der Wissenschaften und Künste</titel>
+        <akteur ref="friedrich-II"></akteur>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="37" von="1" bis="2" />
+        <titel>Abfertigumg der im sechs und zwanzigsten Stück enthaltenen Recension. La Farce enfin lui fert à tout masquer.</titel>
+        <beitrag kat="replik" ref="hamann-herder-sprache"></beitrag>
+        <akteur ref="hamann">Unterzeichnet „Aristobulus.“ – Vgl. den Wiederabdruck in den <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235968">Zwo Recensionen</wwwlink></akteur>
     </beitrag>
 
     <beitrag>
@@ -71,6 +104,26 @@
     <beitrag>
         <stueck datum="1771" nr="1" von="4"/>
         <kategorie ref="wechselkurse" />
+    </beitrag>
+
+
+    <beitrag id="hamann-herder-sprache">
+        <stueck datum="1771" nr="26" von="101" bis="102" />
+        <werk kat="rezension" ref="herder-abhandlung-ursprung"></werk>
+        <ort ref="berlin"></ort>
+        <akteur ref="hamann">vgl. den Wiederabdruck in den <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235968">Zwo Recensionen</wwwlink></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="26" von="102" bis="104" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="26" von="104"/>
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="26" von="104"/>
+        <kategorie ref="einkommende-fremde" />
     </beitrag>
 
 </beitraege>
