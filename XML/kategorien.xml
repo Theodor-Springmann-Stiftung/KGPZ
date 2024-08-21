@@ -67,8 +67,8 @@
         <name>Anzeige</name>
     </kategorie>
 
-    <kategorie id="todesanzeige">
-        <name>Todesanzeige</name>
+    <kategorie id="nachruf">
+        <name>Nachruf</name>
     </kategorie>
 
     <kategorie id="provinienz">
@@ -98,7 +98,7 @@
     </kategorie>
 
     <kategorie id="einkommende-fremde">
-        <name>Einkommende Fremde</name>
+        <name>Einreiseliste</name>
         <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
     </kategorie>
 
@@ -127,21 +127,20 @@
     </kategorie>
 
     <kategorie id="nachtrag">
-        <name>Nachtrag</name>
-    </kategorie>
-
-    <kategorie id="lied">
-        <name>Lied</name>
+        <name>Nachtrag oder Ergänzung</name>
     </kategorie>
 
     <kategorie id="vorladung">
-        <name>Vorladung zum Gericht</name>
+        <name>Gerichtliche Vorladung oder Erbschaftsangelegenheit</name>
         <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
     </kategorie>
 
-    <kategorie id="amt">
-        <name>Amtliche Verlautbarung</name>
-        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
+    <kategorie id="notenblatt">
+        <name>Notenblatt mit Liedtext oder Tanzchoreographie</name>
+    </kategorie>    
+
+    <kategorie id="abbildung">
+        <name>Mit Abbildung</name>
     </kategorie>
     
 </kategorien>

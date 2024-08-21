@@ -212,7 +212,7 @@
         <xsd:attribute name="kat" use="optional" default="autor">
           <xsd:annotation>
             <xsd:documentation> Die Art der Beziehung zum Akteur. Werte: erwähnung, autor,
-              herausgeber, verleger, drucker, vertrieb, todesanzeige. </xsd:documentation>
+              herausgeber, verleger, drucker, vertrieb, nachruf. </xsd:documentation>
           </xsd:annotation>
           <xsd:simpleType>
             <xsd:restriction base="xsd:string">
@@ -222,7 +222,7 @@
               <xsd:enumeration value="drucker" />
               <xsd:enumeration value="vertrieb" />
               <xsd:enumeration value="erwähnung" />
-              <xsd:enumeration value="todesanzeige" />
+              <xsd:enumeration value="nachruf" />
             </xsd:restriction>
           </xsd:simpleType>
         </xsd:attribute>

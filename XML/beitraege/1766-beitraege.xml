@@ -106,7 +106,7 @@
     <!-- 06 -->
     <beitrag>
         <stueck datum="1766" nr="6" von="23" bis="24" />
-        <werk kat="rezension" ref="vom-stande-briefe"></werk>
+        <werk kat="rezension" ref="dusch-briefe2"></werk>
         <ort ref="leipzig" />
         <ort ref="breslau" />
     </beitrag>
@@ -127,12 +127,12 @@
     <!-- 07 -->
     <beitrag>
         <stueck datum="1766" nr="7" von="27" bis="28" />
-        <werk kat="rezension" ref="sendschreiben-abbt"></werk>
+        <werk kat="rezension" ref="sendschreiben-an-den-herrn-verfasser-der-schrift-erfreuliche"></werk>
         <ort ref="danzig" />
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="7" von="28" bis="29" />
-        <werk kat="rezension" ref="neue-bibliothek-weiße"></werk>
+        <werk kat="rezension" ref="neue-bibliothek-weiße-1-1"></werk>
         <ort ref="leipzig" />
     </beitrag>
     <beitrag>
@@ -147,22 +147,14 @@
     <!-- 08 -->
     <beitrag>
         <stueck datum="1766" nr="8" von="31" bis="32" />
-        <werk kat="rezension" ref="horams-morell"></werk>
+        <werk kat="rezension" ref="morell-horam"></werk>
         <ort ref="leipzig" />
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="8" von="32" bis="33" />
         <kategorie ref="gelehrte-nachrichten" />
         <ort ref="kgsb" />
-        <anmerkung>Nachricht über die Feiern der Königsberger Akademie anläslich des Krönungstages
-            Friedrichs I. und Geburtstage Friedrichs II.</anmerkung>
-    </beitrag>
-    <beitrag>
-        <stueck datum="1766" nr="8" von="33" />
-        <kategorie ref="gelehrte-nachrichten" />
-        <ort ref="kgsb" />
-        <anmerkung>Nachricht über der Königlich Deutschen Gesellschaft anläßlich des Geburtstages
-            Friedrichs II.</anmerkung>
+        <anmerkung>Bericht über die Feiern der Königsberger Akademie anlässlich des Krönungstages Friedrich I. und des Geburtstags Friedrich II.</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="8" von="33" bis="34" />
@@ -236,7 +228,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="11" von="44" bis="45" />
-        <werk kat="rezension" ref="idyllen-erzaehlen"></werk>
+        <werk kat="rezension" ref="idyllen1766"></werk>
         <ort ref="berlin" />
         <ort ref="stralsund" />
     </beitrag>
@@ -304,11 +296,11 @@
 <!-- 14 -->
 <beitrag>
     <stueck datum="1766" nr="14" von="55" bis="56" />
-    <werk kat="rezension" ref="ollivier-poeme-chants"></werk>
+    <werk kat="rezension" ref="cazottee-ollivier"></werk>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="14" von="56"/>
-    <werk kat="rezension" ref="philosophie-rurale"></werk>
+    <werk kat="rezension" ref="mirabeau-philosophie-rurale3"></werk>
     <ort ref="amsterdam" />
 </beitrag>
 <beitrag>
@@ -323,7 +315,7 @@
 <!-- 15 -->
 <beitrag>
     <stueck datum="1766" nr="15" von="59" bis="60" />
-    <werk kat="rezension" ref="churmark-brandenburg-geschichte-versuch"></werk>
+    <werk kat="rezension" ref="buchholtz-versuch-churmark-brandenburg"></werk>
     <ort ref="berlin" />
 </beitrag>
 <beitrag>
@@ -336,9 +328,9 @@
 </beitrag>
 
 <!-- 16 -->
-<beitrag>
+<beitrag id="kleinigkeiten-nonkarschin">
     <stueck datum="1766" nr="16" von="63" bis="64" />
-    <werk kat="rezension" ref="kleinigkeiten-gedicht-karsch"></werk>
+    <werk kat="rezension" ref="kleinigkeiten"></werk>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="16" von="64"/>
@@ -358,12 +350,12 @@
 <!-- 17 -->
 <beitrag>
     <stueck datum="1766" nr="17" von="67" bis="68" />
-    <werk kat="rezension" ref="kritische-briefe-wissenschaft"></werk>
+    <werk kat="rezension" ref="kinderling-kritische-briefe"></werk>
     <ort ref="halle" />
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="17" von="68" bis="69"/>
-    <werk kat="rezension" ref="abschied-antritt-predigt"></werk>
+    <werk kat="rezension" ref="reccard-abschiedspredigt"></werk>
     <ort ref="kgsb" />
 </beitrag>
 <beitrag>
@@ -378,7 +370,7 @@
 <!-- 18 -->
 <beitrag>
     <stueck datum="1766" nr="18" von="71" bis="73" />
-    <werk kat="rezension" ref="kant-traum-metaphysik"></werk>
+    <werk kat="rezension" ref="kant-traeume-metaphysik"></werk>
     <akteur ref="herder">SWS I, 125–130</akteur>
     <ort ref="kgsb" />
 </beitrag>
@@ -394,7 +386,7 @@
 <!-- 19 -->
 <beitrag>
     <stueck datum="1766" nr="19" von="75" bis="77"/>
-    <werk kat="rezension" ref="heilige-lieder-versuche"></werk>
+    <werk kat="rezension" ref="mark-versuche-heilige"></werk>
     <ort ref="altona" />
     <ort ref="leipzig" />
 </beitrag>
@@ -412,7 +404,7 @@
     <stueck datum="1766" nr="20" von="79" bis="80" />
     <stueck datum="1766" nr="21" von="83" bis="84" />
     <kategorie ref="aufsatz" />
-    <titel>Über die Notwendigkeit beschäftigt zu seyn, um nicht Langeweile zu haben.</titel>
+    <titel>Ueber die Nothwendigkeit beschäftigt zu seyn, um nicht Langeweile zu haben.</titel>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="20" von="81" bis="82" />
@@ -426,7 +418,7 @@
 <!-- 21 -->
 <beitrag>
     <stueck datum="1766" nr="21" von="84" bis="85"/>
-    <werk kat="rezension" ref="lucifer-gedicht"></werk>
+    <werk kat="rezension" ref="hudemann-lucifer"></werk>
     <ort ref="buetzow" />
     <ort ref="wismar" />
 </beitrag>
@@ -442,7 +434,7 @@
 <!-- 22 -->
 <beitrag>
     <stueck datum="1766" nr="22" von="87" bis="88"/>
-    <werk kat="rezension" ref="barnevelt-zeila-lettres"></werk>
+    <werk kat="rezension" ref="dorat-lettre-barnevelt"></werk>
     <ort ref="celle" />
 </beitrag> 
 <beitrag>
@@ -487,7 +479,7 @@
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="24" von="96" bis="97"/>
-    <werk kat="rezension" ref="gray-guthrie-weltgeschichte-von-der-schoepfung"></werk>
+    <werk kat="rezension" ref="guthrie-weltgeschichte-von-der-schoepfung01"></werk>
     <ort ref="leipzig" />
 </beitrag> 
 <beitrag>
@@ -511,8 +503,9 @@
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="25" von="100"/>
-    <kategorie ref="lied" />
-    <titel>Lied am Charfreytage</titel>
+    <kategorie ref="gedicht" />
+    <incipit>Weg Welt, hinweg was mich zerstreut…</incipit>
+    <anmerkung>Lied zum Karfreitag</anmerkung>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="25" von="100"/>
@@ -532,19 +525,21 @@
 <!-- 26 -->
 <beitrag>
     <stueck datum="1766" nr="26" von="103" bis="105"/>
-    <kategorie ref="panegyrik"/>
-    <titel>Samniel und Abadonna</titel>
+    <kategorie ref="kurztext"/>
+    <titel>Samniel und Abadonna. Ein Geistergespräch</titel>
+    <anmerkung>Unterzeichnet „Rs.“</anmerkung>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="26" von="105"/>
-    <kategorie ref="panegyrik"/>
-    <titel>Ode am Ostertage</titel>
+    <kategorie ref="gedicht"/>
+    <incipit>Was staunen sie! wo fliehn sie hin die Wächter?…</incipit>
+    <anmerkung>Ode am Ostertage</anmerkung>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="26" von="105"/>
     <kategorie ref="gelehrte-nachrichten"/>
     <ort ref="kgsb"/>
-    <anmerkung>Jesters Rede am Charfreytage zur Andachtsfeier.</anmerkung>
+    <anmerkung>Über Cand. Theol. Jesters Rede am Karfreitag bei der Königl. deutschen Gesellschaft.</anmerkung>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="26" von="106"/>
@@ -562,7 +557,7 @@
 <!-- 27 -->
 <beitrag>
     <stueck datum="1766" nr="27" von="107" bis="108"/>
-    <werk kat="rezension" ref="der-mensch-die-welt"></werk>
+    <werk kat="rezension" ref="mensch-welt"></werk>
     <ort ref="nuernberg" />
 </beitrag> 
 <beitrag>
@@ -582,7 +577,7 @@
 <!-- 28 -->
 <beitrag>
     <stueck datum="1766" nr="28" von="111" bis="112"/>
-    <werk kat="rezension" ref="schauplatz-der-kuenste"></werk>
+    <werk kat="rezension" ref="schreber-schauplatz-der-kuenste5"></werk>
     <ort ref="kgsb" />
     <ort ref="mitau" />
 </beitrag> 
@@ -625,8 +620,9 @@
 <!-- 30 -->
 <beitrag>
     <stueck datum="1766" nr="30" von="121" bis="123"/>
-    <werk kat="rezension" ref="fortdauer-der-seele"></werk> <!-- Das Register von Taszus scheint nicht mit der Rezension im Beitrag übereinzustimmen. -->
-    <anmerkung>Der Titel der Rezension lautet "Fehlerhafter Beweis von der Fortdauer der Seele nach dem Tode".</anmerkung>
+    <kategorie ref="aufsatz"></kategorie>
+    <titel>Fehlerhafter Beweis von der Fortdauer der Seele nach dem Tode</titel>
+    <anmerkung>Unterzeichnet „Rs.“</anmerkung>
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="30" von="123" bis="124"/>
@@ -646,8 +642,8 @@
 <beitrag>
     <stueck datum="1766" nr="31" von="125" bis="127"/>
     <kategorie ref="gelehrte-nachrichten"/> 
-    <ort ref="kgsb"/>
-    <anmerkung>Verzeichnis der akademischen Vorlesungen des Sommerhalbjahres.</anmerkung>
+    <titel>Verzeichnis der akademischen Vorlesungen des Sommerhalbjahres.</titel>
+    <anmerkung>Vorlesungsverzeichnis der theologischen, juristischen, medizinischen und philosophischen Fakultät der Albertina.</anmerkung>
     </beitrag>
 <beitrag>
      <stueck datum="1766" nr="31" von="127" bis="128"/>
@@ -665,19 +661,16 @@
 <!-- 32 -->
 <beitrag>
     <stueck datum="1766" nr="32" von="129" bis="130"/>
-    <werk kat="rezension" ref="pausanias-reisebeschreibung-griechenland"></werk>
+    <werk kat="rezension" ref="goldhagen-reisebeschreibung-griechenland"></werk>
     <ort ref="berlin" />
     <ort ref="leipzig" />
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="32" von="130"/>
-    <kategorie ref="gelehrte-nachrichten"/> 
+    <werk ref="codex-fridericianus1766" kat="anzeige" />
     <ort ref="kgsb"/>
     <ort ref="mitau"/>
-    <anmerkung>Neue Auflage des Codicis Friedericiani Marchisi (u.a. neue Kammergerichtsordnung
-        nach Plan Friedrichs II., nach welcher Prozesse in einem
-        Jahr durch alle drei Instanzen zu Ende gebracht werden müssen, ausgenommen
-        Hochverratsprozesse).</anmerkung>
+    <anmerkung>Neue Auflage des Codicis Friedericiani Marchisi (u.a. neue Kammergerichtsordnung nach Plan Friedrichs II., nach welcher Prozesse in einem Jahr durch alle drei Instanzen zu Ende gebracht werden müssen, ausgenommen Hochverratsprozesse).</anmerkung>
     </beitrag>
 <beitrag>
     <stueck datum="1766" nr="32" von="131" bis="132"/>
@@ -749,11 +742,11 @@
     <werk kat="rezension" ref="beaumont-geschichte-der-frau"></werk>
     <ort ref="leipzig" />
 </beitrag> 
-<beitrag>
+<beitrag id="kranke">
     <stueck datum="1766" nr="36" von="146" bis="147"/>
-    <werk kat="rezension" ref="der-kranke"></werk>
+    <werk kat="rezension" ref="kranke-sittenschrift"></werk>
     <ort ref="danzig" />
-    <anmerkung>eine Wochenschrift</anmerkung>
+    <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="36" von="147" bis="148"/>
@@ -771,10 +764,10 @@
 <!-- 37 -->
 <beitrag>
     <stueck datum="1766" nr="37" von="149" bis="150"/>
-    <werk kat="rezension" ref="grivel-der-freund"></werk>
+    <werk kat="rezension" ref="grivel-freund"></werk>
     <ort ref="leipzig" />
 </beitrag> 
-<beitrag id="herr-marmontel-dichtkunst">
+<beitrag>
     <stueck datum="1766" nr="37" von="150" bis="151"/>
     <stueck datum="1766" nr="38" von="153" bis="155"/>
     <werk kat="rezension" ref="marmontel-dichtkunst"></werk>
@@ -812,7 +805,7 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="39" von="160" />
-    <akteur ref="toussaint-a" kat="todesanzeige" />
+    <kategorie ref="lokalanzeigen"></kategorie>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="39" von="160"/>
@@ -862,7 +855,8 @@
 
 <!-- 42 -->
 <beitrag>
-    <beilage datum="1766" nr="42" von="1" bis="2"/>
+    <beilage datum="1766" nr="42" von="1"/>
+    <kategorie ref="notenblatt"></kategorie>
     <titel>Musikalische Beylage.</titel>
     <anmerkung>Tanzchoreographie mit Noten.</anmerkung>
 </beitrag>
@@ -938,6 +932,7 @@
     <beilage datum="1766" nr="46" von="186" />
     <kategorie ref="gedicht"></kategorie>
     <titel>Elegie</titel>
+    <incipit>Spiel lispelnd holder West mit röthlich blühnden Zweigen…</incipit>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="46" von="187" bis="188"/>
@@ -951,9 +946,8 @@
 <!-- 47 -->
 <beitrag>
     <stueck datum="1766" nr="47" von="189" bis="190"/>
-    <kategorie ref="aufsatz"></kategorie> 
-    <titel>Nachricht</titel>
-    <anmerkung>William Hogarth, Nachricht von seinem Leben.</anmerkung>
+    <titel>Nachricht.</titel>
+    <akteur ref="hogarth" kat="nachruf" />
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="47" von="190" bis="191"/>
@@ -968,14 +962,23 @@
     <stueck datum="1766" nr="47" von="192" />
     <kategorie ref="buecher" />
 </beitrag>
+<beitrag>
+    <stueck datum="1766" nr="47" von="192"/>
+   <kategorie ref="wechselkurse" />
+</beitrag>
 
 <!-- 48 -->
-<beitrag>
-    <stueck datum="1766" nr="48" von="193" bis="195"/>
+<beitrag id="ramler-lieder">
+    <stueck datum="1766" nr="48" von="193" />
     <werk kat="rezension" ref="ramler-lieder-der-deutschen"></werk>
     <ort ref="berlin" />
-    <anmerkung>Einschluss der Partituren und der Liedtexte für die jeweiligen Musikstücke: "An die Freude" und "Phyllis an Damon".</anmerkung>
 </beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="48" von="194" bis="195"/>
+    <kategorie ref="notenblatt"></kategorie>
+    <beitrag ref="ramler-lieder" kat="nachtrag" />
+    <anmerkung>Notenblätter mit Vertonungen von „An die Freude“ und „Phyllis an Damon“.</anmerkung>
+</beitrag>
 <beitrag>
     <stueck datum="1766" nr="48" von="196"/>
    <kategorie ref="weltnachrichten" />
@@ -988,13 +991,13 @@
 <!-- 49 -->
 <beitrag>
     <stueck datum="1766" nr="49" von="197"/>
-    <werk kat="rezension" ref="bibliothek-der-damen"></werk>
+    <werk kat="rezension" ref="kretschmann-bibliothek-der-damen"></werk>
     <ort ref="zittau" />
     <ort ref="goerlitz"/>
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="49" von="197" bis="198"/>
-    <werk kat="rezension" ref="beste-deutsche-dichter"></werk>
+    <werk kat="rezension" ref="zachariae-beste-deutsche-dichter"></werk>
     <ort ref="braunschweig" />
 </beitrag> 
 <beitrag>
@@ -1046,8 +1049,17 @@
 <!-- 52 -->
 <beitrag>
     <beilage datum="1766" nr="52" von="209" bis="210"/>
+    <kategorie ref="ineigenersache"></kategorie>
+    <beitrag ref="kleinigkeiten-nonkarschin" kat="nachtrag"/>
+    <beitrag ref="karsch-zeus" kat="kommentar"/>
+    <beitrag ref="kranke" kat="nachtrag"/>
+    <anmerkung>Antworten des Redakteurs auf Leserbriefe zu verschiedenen Beiträgen.</anmerkung>
+</beitrag> 
+<beitrag id="karsch-zeus">
+    <beilage datum="1766" nr="52" von="209" bis="210"/>
     <kategorie ref="gedicht"></kategorie>
-    <titel>Sinngedicht</titel>
+    <incipit>Zevs heißts dem Blitz daß er von übeln Dünsten</incipit>
+    <akteur ref="karsch"></akteur>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="52" von="210"/>
@@ -1058,7 +1070,7 @@
 <beitrag>
     <stueck datum="1766" nr="52" von="210"/>
     <werk kat="rezension" ref="remond-reflexions-poesie"></werk>
-    <ort ref="haag" />
+    <ort ref="den-haag" />
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="52" von="211" bis="212"/>
@@ -1069,4 +1081,94 @@
    <kategorie ref="einkommende-fremde" />
 </beitrag>
 
+<!-- 53 -->
+<beitrag>
+    <stueck datum="1766" nr="53" von="213" bis="215"/>
+    <werk kat="rezension" ref="schroeckh-abbildungen2-1"></werk>
+    <ort ref="leipzig"/>
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="53" von="215" bis="216"/>
+   <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="53" von="216"/>
+   <kategorie ref="wechselkurse" />
+</beitrag>
+
+<!-- 54 -->
+<beitrag>
+    <stueck datum="1766" nr="54" von="217" bis="218"/>
+    <werk kat="rezension" ref="contant-schoene-russin"></werk>
+    <ort ref="braunschweig"/>
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="54" von="218"/>
+    <werk kat="rezension" ref="amours-de-paliris"></werk>
+    <ort ref="paris"/>
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="54" von="218"/>
+    <werk kat="rezension" ref="pfeffel-beitraege-zur-deutschen-maculatur"></werk>
+    <ort ref="frankfurt"/>
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="54" von="219" bis="220"/>
+   <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="54" von="220"/>
+   <kategorie ref="einkommende-fremde" />
+</beitrag>
+
+<!-- 55 -->
+<beitrag>
+    <stueck datum="1766" nr="55" von="221" bis="222"/>
+    <stueck datum="1766" nr="56" von="225" bis="226"/>
+    <kategorie ref="aufsatz"></kategorie>
+    <titel>Von der zu hoch getriebnen Volkommenheit der philosophischen Tugend.</titel>
+    <anmerkung>Unterzeichnet „Rs.“</anmerkung>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="55" von="223" bis="224"/>
+   <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="55" von="224"/>
+   <kategorie ref="wechselkurse" />
+</beitrag>
+
+<!-- 56 -->
+<beitrag>
+    <stueck datum="1766" nr="56" von="226"/>
+    <werk kat="rezension" ref="gleim-doris"></werk>
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="56" von="227" bis="228"/>
+   <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="56" von="228"/>
+   <kategorie ref="einkommende-fremde" />
+</beitrag>
+
+<!-- 57 -->
+<beitrag>
+    <stueck datum="1766" nr="57" von="229" bis="230"/>
+    <werk kat="rezension" ref="buesching-christ-bey-den-saergern"></werk>
+    <ort ref="hamburg"/>
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="57" von="230"/>
+    <werk kat="rezension" ref="pratje-predigten"></werk>
+    <ort ref="hamburg"/> 
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="57" von="231" bis="232"/>
+   <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="57" von="232"/>
+   <kategorie ref="wechselkurse" />
+</beitrag>
 </beitraege>

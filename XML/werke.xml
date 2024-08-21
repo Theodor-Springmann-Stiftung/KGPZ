@@ -57,9 +57,8 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10399509-8">BSB München</url>
     </werk>
 
-    <werk id="der-mensch-die-welt">
-        <akteur ref="herr-p"/>
-        <zitation>Der Mensch und die Welt, aus dem Französischen des Hernn P. (Nürnberg 1765).</zitation>
+    <werk id="mensch-welt">
+        <zitation>Der Mensch und die Welt, aus dem Französischen des Herrn P. (Nürnberg 1765).</zitation>
     </werk>
 
     <werk id="bremisches-magazin07">
@@ -112,33 +111,43 @@
         <zitation>Einleitung in die moralische weltweisheit in Frag- und Antworten (Bremen 1766).</zitation>
     </werk>
 
-    <werk id="lucifer-gedicht">
+    <werk id="hudemann-lucifer">
         <akteur ref="hudemann-lf" />
         <zitation>Lucifer, ein episches Gedicht, verfertiget von Ludwig F. Hudemann (Berger und Bödner: Bützow und Wismar 1765).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-339322">ULB Halle</url> 
 
     </werk>
 
-    <werk id="sendschreiben-abbt">
-        <akteur ref="abbt-t" />
+    <werk id="sendschreiben-an-den-herrn-verfasser-der-schrift-erfreuliche">
         <zitation>Sendschreiben an den Herrn Verfasser der Schrift: Erfreuliche Nachricht von einem hoffentlich bald zu errichtenden protestantischen Inquisitionsgericht (Danzig 1766).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN638481481">SUB Göttingen</url>
     </werk>
 
-    <werk id="neue-bibliothek-weiße">
+    <werk id="neue-bibliothek-weiße-1-1">
         <akteur ref="weisse-cf" />
-        <zitation>Neue Bibliothek der schönen Wissenschaften und freyen Künste, Bd. 1 (Leipzig: Dyck 1765).</zitation>
+        <zitation>Neue Bibliothek der schönen Wissenschaften und freyen Künste, Bd. 1, St. 1 (Leipzig: Dyck 1765).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN556514408_0001">SUB Göttingen</url>
     </werk>
 
-    <werk id="bibliothek-der-damen">
+    <werk id="kretschmann-bibliothek-der-damen">
         <akteur ref="kretschmann-kf" />
-        <zitation>Bibliothek der Damen, oder Sammlung lehrreicher und angenehmer Abhandlungen zur Bildung, Nutzen und Vergnügen des schönen Geschlechts. 
-            Aus dem Französischen von Karl Friedrich Kretschmann übersetzt (Zittau und Görlitz: Spiekermann 1766).</zitation>
+        <zitation>Bibliothek der Damen, oder Sammlung lehrreicher und angenehmer Abhandlungen zur Bildung, Nutzen und Vergnügen des schönen Geschlechts. Aus dem Französischen von Karl Friedrich Kretschmann übersetzt (Zittau und Görlitz: Spiekermann 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10434691-2">BSB München</url>
     </werk>
 
-    <werk id="beste-deutsche-dichter">
+    <werk id="buesching-christ-bey-den-saergern">
+        <akteur ref="buesching" />
+        <zitation>Der Christ bey den Särgern von Anton Freidrich Büsching (Hamburg: Ritter 1766).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN819411949">SUB Göttingen</url>
+    </werk>
+
+    <werk id="pratje-predigten">
+        <akteur ref="pratje-jh" />
+        <zitation>: Brem- und Verdische Bemühungen, die Bekenner Jesu auf ihren allerheiligsten Glauben, Gott zur Ehre, durch schriftmäßige Predigten zu erbauen. Zum Drück befördert von Johann Heinrich Pratje. Vierter Versuch (Hamburg: Brandt 1765).</zitation>
+        <url address="http://dl.ub.uni-freiburg.de/diglit/pratje1765-4/0005">UB Freiburg</url>
+    </werk>
+
+    <werk id="zachariae-beste-deutsche-dichter">
         <akteur ref="zachariae-fw" />
         <zitation>Auserlesene Stücke der besten deutschen Dichter von Martin Opitz bis auf unsere Zeit, mit historischen Nachrichten und kritischen Anmerkungen versehen von Friedrich Wilhelm Zachariä. Bd. 1 (Braunschweig: Fürstl. Waisenhaus-Buchhandlung 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123842-1">BSB München</url>
@@ -162,7 +171,7 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573343-5">BSB München</url>
     </werk>
     
-    <werk id="horams-morell">
+    <werk id="morell-horam">
         <akteur ref="morell-c" />
         <akteur ref="schwabe-jj" />
         <zitation>Horams, des Sohns Asmars anmutige Unterweisungen in den Erzählungen der Schutzgeister, aus dem Englischen des Herrn Morell übersetzt (3 Bde., Leipzig 1765–1766), Bd. 1 und 2.</zitation> 
@@ -187,9 +196,9 @@
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001907F00010000">Stabi Berlin</url>
     </werk>
 
-    <werk id="barnevelt-zeila-lettres">
+    <werk id="dorat-lettre-barnevelt">
         <akteur ref="dorat-cj" />
-        <zitation>Lettre de Barnevelt dans sa prison à Truman und Lettre de Zeila à Valcour (Celle: Gsellius 1764).</zitation>
+        <zitation>Lettre de Barnevelt dans sa prison à Truman; Lettre de Zeila à Valcour (Celle: Gsellius 1764).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10088185-2">BSB München</url>
     </werk>
 
@@ -246,11 +255,11 @@
 
     <werk id="meier-beytraege-lehre">
         <akteur ref="meier-gf" />
-        <zitation>Georg Friedrich Meiers, Beyträge zu der Lehre von den Vorurtheilen des menschlichen Geschlechts (Halle: Hemmerde 1766).</zitation>
+        <zitation>Georg Friedrich Meiers Beyträge zu der Lehre von den Vorurtheilen des menschlichen Geschlechts (Halle: Hemmerde 1766).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-1192015415-188738460-11">ULB Halle</url> 
     </werk>
 
-    <werk id="gray-guthrie-weltgeschichte-von-der-schoepfung">
+    <werk id="guthrie-weltgeschichte-von-der-schoepfung01">
         <akteur ref="guthrie-w" />
         <akteur ref="gray-j" />
         <akteur ref="heyne-cg" />
@@ -261,7 +270,7 @@
 
     <werk id="oesfeld-betrachtung">
         <akteur ref="oesfeld-gf" />
-        <zitation>Gotthelf Friedrich Oesfeld, Betrachtung über die zukünftige Welt (Chemnitz: Stößel Erben 1766).</zitation>
+        <zitation>Gotthelf Friedrich Oesfeld Betrachtung über die zukünftige Welt (Chemnitz: Stößel 1766).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3232910158">SLUB Dresden</url> 
     </werk>
 
@@ -474,9 +483,9 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11761687-2">BSB München</url> 
     </werk>
 
-    <werk id="heilige-lieder-versuche">
+    <werk id="mark-versuche-heilige">
         <akteur ref="mark-gj"></akteur>
-        <zitation>Georg Joachim Marks Versuche in heiligen Liedern (Altona und Leipzig: Iversen 1766). </zitation>
+        <zitation>Georg Joachim Marks Versuche in heiligen Liedern (Altona und Leipzig: Iversen 1766).</zitation>
     </werk>
 
     <werk id="buesching-geschichte">
@@ -552,7 +561,7 @@
     <werk id="ramler-lieder-der-deutschen">
         <akteur ref="ramler" />
         <zitation>Lieder der Deutschen (Berlin: Winter 1766).</zitation>
-        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116685-8">ULB Halle</url>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116685-8">BSB München</url>
     </werk>
 
     <werk id="gellius-geschichte">
@@ -979,8 +988,7 @@
 
     <werk id="remond-reflexions-poesie">
         <akteur ref="remond-t" />
-        <zitation>Reflexions sur la poesie en general, sur l'eglogue, sur la fable, sur l'elegie, sur la satire, sur l'ode, et sur les autres petits poemes, 
-            suivies de trois lettres sur la decadence du gout, par Remond de Saint-Mard (La Haye [Haag]: Chez C. De Rogissart et Soeurs 1734).</zitation>
+        <zitation>Reflexions sur la poesie en general, sur l’eglogue, sur la fable, sur l’elegie, sur la satire, sur l’ode, et sur les autres petits poemes, suivies de trois lettres sur la decadence du gout, par Remond de Saint-Mard (den Haag: Rogissart 1734).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574580-5">BSB München</url>
     </werk>
 
@@ -1277,16 +1285,14 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11409477-1">Stabi Bamberg</url>
     </werk>
 
-    <werk id="schauplatz-der-kuenste">
-        <zitation>Schauplatz der Künste und Handwerke oder vollständige Beschreibung derselben, 
-            verfertiget oder gebilliget von denen Herren der Akademie der Wissenschaften zu Paris. 
-            Hrsg. von Daniel Gottfried Schreber (5. Bde., Königsberg und Mitau: Kanter 1766).</zitation>
+    <werk id="schreber-schauplatz-der-kuenste5">
+        <akteur ref="schreber-dg"></akteur>
+        <zitation>Schauplatz der Künste und Handwerke oder vollständige Beschreibung derselben, verfertiget oder gebilliget von denen Herren der Akademie der Wissenschaften zu Paris. Hrsg. von Daniel Gottfried Schreber, Bd. 5 (, Königsberg und Mitau: Kanter 1766).</zitation>
     </werk>
 
     <werk id="neues-handbuch-kuenstler">
-        <zitation>Neues Handbuch für Künstler auf alle fast nur ordentliche Fälle eingerichtet,
-            aus dem Französischen übersetzt. 2 Tle. (Bamberg und Leipzig: Göbhardt 1765).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10259093-5">1. Teil, BSB München</url>
+        <zitation>Neues Handbuch vor Künstler auf alle fast nur erdenkliche Fälle eingerichtet. Aus dem Französischen übersetzt. (Bamberg und Leipzig: Göbhardt 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10259093-5">BSB München</url>
     </werk>
 
     <werk id="gruner-anweisung">
@@ -1312,15 +1318,10 @@
         <zitation>J. C. Hennings moralisch und politische Abhandlung von dem Wege zur Weisheit und Klugheit (Jena 1766).</zitation>
     </werk>
 
-    <werk id="vom-stande-briefe">
+    <werk id="dusch-briefe2">
         <akteur ref="dusch-jj" /> 
-        <zitation>Briefe zur Bildung des Geschmacks: an einen jungen Herrn vom Stande. 2. Teil</zitation>
+        <zitation>Briefe zur Bildung des Geschmacks: an einen jungen Herrn vom Stande. 2. Teil (Leipzig, Breslau: Meyer 1765).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11259643-9">BSB München</url>
-    </werk>
-
-    <werk id="fortdauer-der-seele">
-    <zitation>Anekdoten zur Bildung der Sitten, aus den griechischen und römischen
-        Schriftstellern gesammlet. Erster Theil (Halle 1767).</zitation>
     </werk>
 
     <werk id="schroeckh-abbildungen1-3">
@@ -1333,6 +1334,29 @@
         <akteur ref="schroeckh-jm"/>
         <zitation>Abbildungen und Lebensbeschreibungen berühmter Gelehrten von Johann Matthias Schröckh (2 Bde. in 6 Teilen, Leipzig: Hilscher 1764–67), Bd. 1,1 (1764).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070897-5">BSB München</url>
+    </werk>
+
+    <werk id="schroeckh-abbildungen2-1">
+        <akteur ref="schroeckh-jm"/>
+        <zitation>Abbildungen und Lebensbeschreibungen berühmter Gelehrten von Johann Matthias Schröckh (2 Bde. in 6 Teilen, Leipzig: Hilscher 1764–67), Bd. 2,1 (1764).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070902-7">BSB München</url>
+    </werk>
+
+    <werk id="amours-de-paliris">
+        <zitation>Les amours de Paliris et Dirphé en VI. Chants (Paris: Panckoucke 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10745516-0">BSB München</url>
+    </werk>
+
+    <werk id="pfeffel-beitraege-zur-deutschen-maculatur">
+        <akteur ref="pfeffel-gk"/>
+        <zitation>Neue Beyträge zur deutschen Maculatur, erster und letzter Band (Frankfurt: Garbe 1766).</zitation>
+        <url address="https://books.google.de/books?id=iaRdAAAAcAAJ">Google Books</url>
+    </werk>
+
+    <werk id="gleim-doris">
+        <akteur ref="gleim"/> 
+        <zitation>Doris und Chloe Zeitvertreib am Coffeetisch, von K*** (1766).</zitation>
+        <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:gbv:18-5-PPN8839330206">Stabi Hamburg</url>
     </werk>
 
     <werk id="beaumont-instructions">
@@ -1351,7 +1375,7 @@
     <werk id="beaumont-briefe">
         <akteur ref="beaumont-jm" />
         <zitation>Briefe der Emerentia an Lucien von der Frau von Beaumont (2 Bde., Leipzig 1766).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10312642-1">(BSB München)</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10312641-6">BSB München</url>
     </werk>
 
     <werk id="beaumont-geschichte-der-frau">
@@ -1359,14 +1383,14 @@
         <zitation>Geschichte der Frau Baronin von Batteville, oder die vollkommne Wittwe von Mad. Le Prince de Beaumont (Leipzig 1766).</zitation>
     </werk>
 
-    <werk id="der-kranke">
-        <akteur ref="trescho" />
-        <zitation>[...] im vorigen Jahr auf 52 Blättern eine Wochenschrift unter dem Titel: Der Kranke, herausgekommen (Danzig 1765).</zitation>
+    <werk id="kranke-sittenschrift">
+        <zitation>Der Kranke, eine Sittenschrift (Danzig: Bartels 1765).</zitation>
+        <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-52540a02-b400-4719-9e32-fdd6e1f0ea6d-00020562-0015">ULB Jena</url>
     </werk>
 
-    <werk id="grivel-der-freund">
+    <werk id="grivel-freund">
         <akteur ref="grivel-g" />
-        <zitation>Der Freund junger Leute von Guillaume Grivel aus dem Französischen übersetzt (Leipzig: J.F. Junius 1765).</zitation>
+        <zitation>Der Freund junger Leute von Guillaume Grivel aus dem Französischen übersetzt (Leipzig: Junius 1765).</zitation>
         <url address="https://books.google.de/books/edition/Der_Freund_junger_Leute/1o4uAAAAYAAJ">Google Books</url>
     </werk>
 
@@ -1422,14 +1446,13 @@
     <werk id="marmontel-dichtkunst">
         <akteur ref="marmontel-jf" />
         <akteur ref="schirach-gb" />
-        <zitation>Jean François Marmontels Dichtkunst. 1ster Theil, aus dem Französischen übersetzt (von Gottlob Benedikt von Schirach), und mit einigen Zusätzen vermehrt (Bd. 1, Cramer: Bremen 1766).</zitation>
+        <zitation>Jean François Marmontels Dichtkunst. 1ster Theil, aus dem Französischen übersetzt und mit einigen Zusätzen vermehrt, 1. Theil (Cramer: Bremen 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10094284-6">BSB München</url>
     </werk>
 
     <werk id="zahn-briefe-an-die-freydenker">
     <akteur ref="zahn-jhc" />
-    <zitation>Briefe an die Freydenker, worinnen dieselben aus der Natur der Sache, und ihren Schriften wiederlegt werden, 4. Teil, 
-        von Johann Heinrich Christoph Zahn, Prediger zu Marksuhl (4 Bde., Eisenbach: Griesbach 1766). </zitation>
+    <zitation>Briefe an die Freydenker, worinnen dieselben aus der Natur der Sache, und ihren Schriften wiederlegt werden, von Johann Heinrich Christoph Zahn, Prediger zu Marksuhl (4 Bde., Eisenbach: Griesbach 1766), Bd. 4.</zitation>
     <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10042497-0">BSB München</url>
 </werk>
 
@@ -1586,7 +1609,7 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10291191-9">BSB München</url>
     </werk>
 
-    <werk id="churmark-brandenburg-geschichte-versuch">
+    <werk id="buchholtz-versuch-churmark-brandenburg">
         <akteur ref="buchholz-s"></akteur>
         <akteur ref="suessmilch-jp"></akteur>
         <zitation>Versuch einer Geschichte der Churmark Brandenburg, von der ersten Erscheinung der deutschen Senonnen bis auf jetzige Zeiten, von Sam Buchholz, Oberpf. zu Lichen, mit des Herrn Oberconsist.
@@ -1594,13 +1617,13 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10000747">BSB München</url>
     </werk>
 
-    <werk id="kleinigkeiten-gedicht-karsch">
-        <akteur ref="karsch"></akteur>
+    <werk id="kleinigkeiten">
         <zitation>Kleinigkeiten (Berlin: Winter 1765).</zitation>
     </werk>
 
     <werk id="schueler-aus-der-natur">
-        <zitation>Der Schüler aus der Natur. Aus dem Französischen übersetzt (Leipzig und Danzig 1765).</zitation>
+        <akteur ref="beaurieu-gg"></akteur>
+        <zitation>Der Schüler der Natur. Aus dem Französischen übersetzt (Leipzig und Danzig: Wedel 1765).</zitation>
     </werk>
 
     <werk id="gedichte-jungesfrauenzimmer">
@@ -1608,19 +1631,20 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10121948-6">BSB München</url>
     </werk>
 
-    <werk id="kritische-briefe-wissenschaft">
+    <werk id="kinderling-kritische-briefe">
     <akteur ref="kinderling-jf"></akteur>
-    <zitation>Kritische Briefe, die schönen Wissenchaften betreffend, von J. F. Kinderling, der Weltw. Mag. (Halle: Kurt 1765).</zitation>
+    <zitation>Kritische Briefe, die schönen Wissenschaften betreffend, von J. F. Kinderling, der Weltw. Mag. (Halle: Kurt 1765).</zitation>
+    <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-1d92fe5a-1c8e-4694-bfec-f0d99c965519-00020756-0015">ULB Jena</url>
     </werk>
 
-    <werk id="abschied-antritt-predigt">
+    <werk id="reccard-abschiedspredigt">
         <akteur ref="reccard-gc"></akteur>
         <zitation>Abschiedspredigt in Berlin, und Antrittspredigt in Königsberg, gehalten von Gotthilf Christian Reccard (Königsberg: Kanter 1766).</zitation>
         </werk>
 
-    <werk id="kant-traum-metaphysik">
+    <werk id="kant-traeume-metaphysik">
         <akteur ref="kant"></akteur>
-        <zitation>Träume eines Geistersehers erläutert durch Träume der Metaphysik, 8. B. in 8 (Königsberg: Kanter 1766).</zitation>
+        <zitation>Träume eines Geistersehers erläutert durch Träume der Metaphysik (Königsberg: Kanter 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10927050">BSB München</url>
         </werk>
 
@@ -1663,7 +1687,7 @@
     </werk>
 
     <werk id="allgemeine-deutsche-bibliothek-02">
-        <zitation>Allgemeine deutsche Bibiliothek, Bd. 2, 1 Stück (Berlin: F. Nicolai 1766).</zitation> 
+        <zitation>Allgemeine deutsche Bibiliothek, Bd. 2, Stück 1 (Berlin: F. Nicolai 1766).</zitation> 
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10730864-1" >BSB München</url>
     </werk>
 
@@ -1671,7 +1695,7 @@
         <akteur ref="beau-c" />
         <akteur ref="rollin-c" />
         <akteur ref="crevier-jbl" />
-        <zitation>Des Herrn Le Beau Geschichte des morgenländischen Kaiserthums, von Constantin dem Großen an, als eine Forsetzung der Werke der Herren Rollin und Crevier. Aus dem Französischen übersetzt. 2. Teil (Leipzig: Fritsch 1765).</zitation>
+        <zitation>Des Herrn Le Beau Geschichte des morgenländischen Kaiserthums, von Constantin dem Großen an, als eine Fortsetzung der Werke der Herren Rollin und Crevier. Aus dem Französischen übersetzt. 2. Teil (Leipzig: Fritsch 1765).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10447221-9" >BSB München</url>
     </werk>
 
@@ -1679,7 +1703,7 @@
         <akteur ref="beau-c" />
         <akteur ref="rollin-c" />
         <akteur ref="crevier-jbl" />
-        <zitation>Des Herrn Le Beau Geschichte des morgenländischen Kaiserthums, von Constantin dem Großen an, als eine Forsetzung der Werke der Herren Rollin und Crevier. Aus dem Französischen übersetzt. 3. Teil (Leipzig: Fritsch 1766).</zitation>
+        <zitation>Des Herrn Le Beau Geschichte des morgenländischen Kaiserthums, von Constantin dem Großen an, als eine Fortsetzung der Werke der Herren Rollin und Crevier. Aus dem Französischen übersetzt. 3. Teil (Leipzig: Fritsch 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10447222-4" >BSB München</url>
     </werk>
 
@@ -1704,22 +1728,22 @@
         <zitation>Scherze (Berlin und Stralsund: Lange 1766).</zitation>
     </werk>
 
-    <werk id="idyllen-erzaehlen">
+    <werk id="idyllen1766">
         <zitation>Idyllen (Berlin und Stralsund 1766).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000B19300000000">Stabi Berlin</url>
     </werk>
 
-    <werk id="ollivier-poeme-chants">
+    <werk id="cazottee-ollivier">
         <akteur ref="cazotte-j" />
         <zitation>Ollivier Poeme en XII Chants (o.O. 1763).</zitation> 
-        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10095478-8" >SLUB Dresden</url> 
+        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10095478-8" >BSB München</url> 
     </werk>
 
-    <werk id="philosophie-rurale">
+    <werk id="mirabeau-philosophie-rurale3">
         <akteur ref="mirabeau-vr" />
         <zitation>Philosophie rurale, ou Economie générale et politique de l'Agriculture, 
             reduite à l'ordre immuable des lois physiques et morales, qui assurent la prosperité des Empires (Amsterdam: 1765), Bd. 3.</zitation> 
-        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10298267-2" >SLUB Dresden</url>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10298267-2" >BSB München</url>
     </werk>
 
     <werk id="groeben-buechermanufactur">
@@ -1744,6 +1768,12 @@
         <akteur ref="bar-gl" />
         <zitation>Babioles litteraires et critiques en prose et en vers (5 Bde., Hamburg: Bohn 1764), Bd. 5.</zitation>
         <url address="http://dx.doi.org/10.25673/84752" >ULB Halle</url>
+    </werk>
+
+    <werk id="contant-schoene-russin">
+        <akteur ref="contant-orville-ag"></akteur>
+        <zitation>Die schöne Russin oder wunderbare Geschichte der Azema (Braunschweig 1766).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN717844498">SUB Göttingen</url>
     </werk>
 
     <werk id="hamburgadresscomtoir1771">
@@ -2257,32 +2287,32 @@
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN60120087X" >SUB Göttingen</url>
     </werk>
 
-    <werk id="pausanias-reisebeschreibung-griechenland">
-        <akteur ref="pausanias-p" />
-        <zitation>Pausanias ausführliche Reisebeschreibung von Griechenland, aus
-            dem Griechischen übersetzt und mit Anmerkungen erläutert von Johann Eustachius
-            Goldhagen, Rektor der Domschule zu Magdeburg. Erster Theil, 1766,
-            nebst einer Abhandlung von den griechischen Kampfspielen und der
-            Charte von Griechenland (1. Teil, Berlin und Leipzig: F. W. Birnsteil 1766).</zitation>
+    <werk id="goldhagen-reisebeschreibung-griechenland">
+        <akteur ref="goldhagen-h" />
+        <zitation>Pausanias ausführliche Reisebeschreibung von Griechenland, aus dem Griechischen übersetzt und mit Anmerkungen erläutert von Johann Eustachius Goldhagen, Rektor der Domschule zu Magdeburg. Erster Theil, 1766, nebst einer Abhandlung von den griechischen Kampfspielen und der Charte von Griechenland (Berlin und Leipzig: F. W. Birnsteil 1766).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN601279085" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="codex-fridericianus1766">
+        <zitation>Project des Codicis Friedericiani Marchici oder eine, nach Sr. Königl. Majestät von Preussen Selbst vorgeschrienem Plan entworfene Cammergerichtsordnung, nach welcher alle Processe in einem Jahr durch drey Instantzen zum Ende gebracht werden sollen und müssen (Königsberg, Mitau: Kanter 1766).</zitation>
+        <url address="https://books.google.de/books?id=6AyC3OQ4McsC" >Google Books</url>
     </werk>
 
     <werk id="gellius-unterricht-zeitvertreib">
         <akteur ref="gellius" />
         <zitation>Unterricht und Zeitvertreib für das schöne Geschlecht in gesammelten
-            Briefen und Erzählungen aus verschiedenen Sprachen von Johann Gottfried Gellius (Leipzig: Weidmanns Erben und Reich 1766), 1. II. III. IV Theil. </zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10575221-9" >5. Teil, BSB München</url>
+            Briefen und Erzählungen aus verschiedenen Sprachen von Johann Gottfried Gellius, 1. bis 4. Theil (Leipzig: Weidmanns Erben und Reich 1766). </zitation>
     </werk>
 
     <werk id="basedow-betrachtungen-rechtglaeubigkeit">
         <akteur ref="basedow-jb" />
-        <zitation>Johann Bernhard Basedow, Betrachtungen über die wahre Rechtgläubigkeit und die im Staate, und in der Kirche nothwendige Toleranz (Altona: Iversen 1766). </zitation>
+        <zitation>Johann Bernhard Basedows Betrachtungen über die wahre Rechtgläubigkeit und die im Staate, und in der Kirche nothwendige Toleranz (Altona: Iversen 1766). </zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-346930">ULB Halle</url> 
     </werk>
 
     <werk id="kirchhof-abhandlung-advocat-pflichten">
         <akteur ref="kirchhof-jh" />
-        <zitation>Johann Heinrich Kirchhof, Abhandlung von den Advocaten und ihren Pflichten besonders in peinlichen Fällen nebst einigen Schutzschriften der
+        <zitation>Johann Heinrich Kirchhof Abhandlung von den Advocaten und ihren Pflichten besonders in peinlichen Fällen nebst einigen Schutzschriften der
             wichtigsten Vorfälle (Vorrede von Manzel). Erster Theil (Berger und Bödmer: Bützow und Wismar 1765).</zitation>
     </werk>
 
@@ -2315,7 +2345,7 @@
     </werk>
 
     <werk id="krebs-natuerliche-gottesgelahrtheit">
-        <akteur ref="krebs-ak" />
+        <akteur ref="krebs-la" />
         <zitation>Natürliche Gottesgelehrsamkeit nebst dem Plan einer Geschichte derselben (Gießen 1771).</zitation>
     </werk>
 
@@ -2626,6 +2656,249 @@
         <akteur ref="vierordt-fm" />
         <zitation>Von dem Ursprung und Fortgang einer neuen Wissenschaft. Aus dem Französischen übersetzt von F. M. Vierordt (Karlsruhe: Macklot 1770).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10771123-4" >BSB München</url>
+    </werk>
+
+    <werk id="strobel-melanchthoniana">
+        <akteur ref="strobel-gt" />
+        <zitation>Melanchthoniana oder Sammlung einiger Nachrichten zur Erleuterung der Geschichte Philipp Melanchthons nebst verschiedenen noch ungedruckten Briefen desselben herausgegeben von Georg Theodor Strobel (Altdorf: Schüpfel 1771).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10065037-7" >BSB München</url>
+    </werk>
+
+    <werk id="arnaud-begebenheiten">
+        <akteur ref="arnaud-ft" />
+        <zitation>Begebenheiten der Euphemie, aus dem Französischen des Hrn. von Arnaud (Hof, Leipzig: Vierling 1770).</zitation>
+    </werk>
+
+    <werk id="sibylle1770">
+        <zitation>Die Sibylle eine Englische Geschichte geschrieben von einem Frauenzimmer (Leipzig, Frankfurt: Monath 1770).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000EDB400000000" >Stabi Berlin</url>
+    </werk>
+
+    <werk id="reckert-vermischte">
+        <akteur ref="reckert-kc" />
+        <zitation>K. K. Reckerts vermischte Schriften erster Theil (Münster, Hamm: Perrenon 1770).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116839-8" >BSB München</url>
+    </werk>
+
+    <werk id="reinwald-poetische">
+        <akteur ref="reinwald-wfh" />
+        <zitation>Poetische Briefe und kleine Gedichte (Meiningen: Hartmann 1769).</zitation>
+    </werk> 
+
+    <werk id="rousset-geschichte1">
+        <akteur ref="rousset-jm" />
+        <zitation>Geschichte der Kriege zwischen Frankreich und dem Hause Oesterreich im Grundrisse, vom Jahre 1516 bis zum Jahre 1748. Herausgegeben und mit Anmerkungen versehen von Herrn Rousset. Ersten Bandes erster Theil. Aus dem Französischen übersetzt (Mitau, Leipzig: Steidel 1770).</zitation>
+        <url address="https://books.google.de/books?id=THJgAAAAcAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="martini-neues-conchyliencabinet2">
+        <akteur ref="martini-fhw" />
+        <akteur ref="happe-af" />
+        <zitation>Neues systematisches Conchylien-Cabinet geordnet und beschrieben von Friedrich Heinrich Wilhelm Martini und unter dessen Aufsicht nach der Natur gezeichnet und mit lebendigen Farben erleuchtet durch Andres Friedrich Happe, Bd. 2 (Nürnberg).</zitation>
+        <url address="" ></url>
+    </werk>
+
+    <werk id="schneider-anmerkungen">
+        <akteur ref="schneider-jg" />
+        <zitation>Anmerkungen über den Anakreon (Leipzig: Crusius 1770).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10232449-8" >BSB München</url>
+    </werk>
+
+    <werk id="pardey-predigten">
+        <akteur ref="pardey-ea" />
+        <zitation>Predigten von Ernst August Pardey (Celle: Gsellius 1770).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10461068-7" >BSB München</url>
+    </werk>
+
+    <werk id="monnet-briefe1">
+        <akteur ref="monnet" />
+        <zitation>Briefe einer zärtlichen Mutter an ihren Sohn, worinnen sie ihm die Wahrheit der christlichen Religion aus der Vernunft, Offenbarung, und den Widersprüchen der feindlichen Bestreiter derselben beweiset (2 Bde, Augsburg: Klett 1770), Bd. 1.</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN1004477864" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="krebs-gedanken">
+        <akteur ref="krebs-la" />
+        <zitation>Gedanken über einige Arten die Litterairhistorie zur Empfehlung der Musen im kleinen vorzutragen von Ludwig Alexander Krebs (Gießen: Krieger 1771).</zitation>
+        <url address="https://nbn-resolving.org/urn:nbn:de:bvb:29-bv003468263-9" >FAU Erlangen-Nürnberg</url>
+    </werk>
+
+    <werk id="chrysander-vermehrtes-geographisches">
+        <akteur ref="chrysander-wcj" />
+        <zitation>Vermehrtes Geographisches Handbüchlein für die zarte Jugend (2. Aufl., Mühlhausen : Beck 1770).</zitation>
+        <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:0220-gd-9883124" >Georg-Eckert-Institut für internationale Schulbuchforschung, Braunschweig</url>
+    </werk>
+
+    <werk id="agur-briefwechsel">
+        <zitation>Agur des Sohns Jake und Lemuels Briefwechsel über das Dammische Religionssystem (Frankfurt, Leipzig 1770).</zitation>
+    </werk>
+
+    <werk id="engelmann-briefe">
+        <akteur ref="engelmann-cf" />
+        <zitation>Briefe über die Vortheile der unbekanten Todesstunde des Menschen, von Christian Friedrich Engelman (Glogau: Günther 1770).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN876147252" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="kurzer-inbegrif-hauswirthschaft">
+        <zitation>Kurzer Inbegrif aller Wissenschaften, welche zu Einrichtung einer guten Oekonomie und Hauswirthschaft erforderlich sind (Frankfurt, Leipzig 1770).</zitation>
+    </werk>
+
+    <werk id="grundsaetze-guter-geschmack">
+        <zitation>	Grundsätze des guten Geschmacks, oder Anleitung zur Empfindung des Wahren und Schönen in den Werken des Genies. Zum Gebrauch der Anfänger in den schönen Wissenschaften (Leipzig: Jacobäer 1770).</zitation>
+        <url address="http://dx.doi.org/10.25673/81649" >ULB Halle</url>
+    </werk>
+
+    <werk id="landbibliothek18">
+        <zitation>Landbibliothek zu einem angenehmen und lehrreichen Zeitvertreibe aus verschiedenen Sprachen zusammen getragen, Bd. 18 (Leipzig: Weidmann, Reich 1770).</zitation>
+        <url address="https://books.google.de/books?id=S7Q6AAAAcAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="kiefer-gerettete-vermutungen">
+        <akteur ref="kiefer-jn" />
+        <akteur ref="semler-js" />
+        <zitation>M. J. N. Kiefers gerettete Vermutungen über das Complutische N. Testament. Gegen Hn. Senior Götz in Hamburg. Herausgegeben von D. Johann Salomo Semler (Halle: Hendel 1770).</zitation>
+        <url address="https://books.google.de/books?id=A_ZVAAAAcAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="kant-mundi">
+        <akteur ref="kant" />
+        <zitation>De mundi sensibilis atque intelligibilis forma et principiis (Königsberg: Kanter 1770).</zitation>
+        <url address="https://books.google.de/books?id=3TwjJn1hjIwC" >Google Books</url>
+    </werk>
+
+    <werk id="grulich-betrachtung-prediger">
+        <akteur ref="grulich-ab" />
+        <zitation>Betrachtung über den Einen Menschen unter Tausenden, Pred. Salom. VII, 29, 30 von M. Grulich (Wittenberg 1770).</zitation>
+    </werk>
+
+    <werk id="diethmar-policey">
+        <akteur ref="diethmar-jc" />
+        <akteur ref="schreber-dg" />
+        <zitation>Die Policey des Ackerbaues. Nach den Grundsätzen des Herrn Professors Dithmar, und den weitern Ausführungen des Herrn Professors D. Schreber, in seinen Vorlesungen (Leipzig: Crusius 1770).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10294842-5" >BSB München</url>
+    </werk>
+
+    <werk id="brevarium-politiker">
+        <zitation>Das Breviarium der Politiker. Aus dem Französischen übersetzt (o. O. 1770).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN877473900" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="woechentliche-gottseligkeit">
+        <zitation>Wöchentliche Beyträge zur Beförderung der Gottseligkeit, Bd. 1, Tl. 1 (Bützow: Hermes 1771).</zitation>
+    </werk>
+
+    <werk id="guden-witwencassen">
+        <akteur ref="guden-pp" />
+        <zitation>Philipp Peter Guden von Witwen-Cassen, und der dabey zu vermuhtenden höchsten Witwen-Zal, ingleichen von der wahrscheinlichen Lebens-Dauer des mänlichen und weiblichen Geschlechts. Nebst dabey gefügten Tabellen (Hannover: Schmid 1771).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000513800000000" >Stabi Berlin</url>
+    </werk>
+
+    <werk id="zachariae-biblische-theologie">
+        <akteur ref="zachariae-gt" />
+        <zitation>Biblischer Theologie, oder Untersuchung des biblischen Grundes der vornehmsten theologischen Lehren, Erster Theil (Göttingen, Kiel: Boßiegel 1771).</zitation>
+        <url address="https://books.google.de/books?id=tK-EB2Vm0ZYC" >Google Books</url>
+    </werk>
+
+    <werk id="guldberg-azan">
+        <akteur ref="guldberg-oh" />
+        <zitation>Azan oder der von Schulden befreyte Fürst. Eine Erzählung. Veranlaßt durch die Pressefreyheit in Dänemark. Ins Deutsche übersetzt und von dem Verfasser selbst übersehen (Kopenhagen: Roth, Prost 1771).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id34016140X9" >SLUB Dresden</url>
+    </werk>
+
+    <werk id="kaestner-dissertationes">
+        <akteur ref="kaestner-ag" />
+        <zitation>Dissertationes mathematicae et physicae qvas societati regiae scientiarvm gottingensi Annis MDCCLVI–MDCCLXVI exhibvit Abraham Gotthelf Kaestner (Altenburg: Richter 1771).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10525663-6" >BSB München</url>
+    </werk>
+
+    <werk id="dawes-ermunterung">
+        <akteur ref="dawes-w" />
+        <akteur ref="hornemann-fg"></akteur>
+        <zitation>Ermunterungen zu der Liebe gegen die Armen, in einigen Predigten von Sir William Dawes, aus dem Englischen übersetzt (Braunschweig: Schröder 1770).</zitation>
+    </werk>
+
+    <werk id="patzke-tacitus3-4">
+        <akteur ref="patzke-js" />
+        <akteur ref="goldhagen-je"></akteur>
+        <zitation>C. Cornelius Tacitus Werke aus dem Lateinischen übersetzt und mit den nöthigsten Anmerkungen begleitet (4 Bde., Magdeburg: Hechtel 1771), Bd. 3 und 4.</zitation>
+        <url address="https://books.google.de/books?id=QZTp-ydlE0IC" >Bd. 3 (Google Books)</url>
+        <url address="https://books.google.de/books?id=dJD1aooalGIC" >Bd. 4 (Google Books)</url>
+    </werk>
+
+    <werk id="mueller-geistliche-lieder">
+        <akteur ref="mueller-gfl" />
+        <zitation>Geistliche Lieder und Lobgesänge in Nachahmungen der Psalmen Davids, von Georg Friedrich Ludwig Müller (Mannheim: Schwan 1770).</zitation>
+        <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:hbz:061:1-529522" ></url>
+    </werk>
+
+    <werk id="haehn-geistlichesmagazin4-4-5">
+        <akteur ref="haehn-jf" />
+        <zitation>Geistliches Magazin, hg. von Johann Friedrich Hähn, 4. Sammlung, Stück 4 und 5 (Magdeburg, Publikationszeitraum unbekannt).</zitation>
+    </werk>
+
+    <werk id="buesching-magazin4">
+        <akteur ref="buesching-af" />
+        <zitation>Magazin für die neue Historie und Geographie (22 Bde., Hamburg: Buchenröder, Ritter 1767–1788), Bd. 4.</zitation>
+        <url address="https://books.google.de/books?id=n8A1AAAAMAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="auserlesene-satyren">
+        <zitation>Auserlesene Satyren des XVIII Jahrhunderts.</zitation>
+        <url address="http://dx.doi.org/10.25673/48461" >ULB Halle</url>
+    </werk>
+
+    <werk id="mendelssohn-prediger-salomo">
+        <akteur ref="mendelssohn-m" />
+        <akteur ref="rabe-jj"></akteur>
+        <zitation>Der Prediger Salomo mit einer kurzen und zureichenden Erklärung nach dem Wort-Verstand zum Nuzen der Studierenden von dem Verfasser des Phädon. Aus dem Hebräischen übersezt von dem Uebersezer der Mischnah (Ansbach: Posch 1771).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10606016-5" >BSB München</url>
+    </werk>
+
+    <werk id="spalding-briefe">
+        <akteur ref="spalding-jj" />
+        <zitation>Briefe von Herrn Spalding an Herrn Gleim (Frankfurt, Leipzig 1771).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3230837223" >SLUB Dresden</url>
+    </werk>
+
+    <werk id="tiedemann-versuch">
+        <akteur ref="tiedemann-d" />
+        <zitation>Versuch einer Erklärung des Ursprunges der Sprache (Riga: Hartknoch 1772).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10583197-3" >BSB München</url>
+    </werk>
+
+    <werk id="meier-lehre1">
+        <akteur ref="meier-gf" />
+        <zitation>Georg Friedrich Meiers Lehre von den natürlichen gesellschaftlichen Rechten und Pflichten der Menschen (2 Bde., Halle: Hemmerde 1770–1773), Bd. 1.</zitation>
+        <url address="http://dx.doi.org/10.25673/78815" >ULB Halle</url>
+    </werk>
+
+    <werk id="meinhard-versuche2">
+        <akteur ref="meinhard-jn" />
+        <zitation>Versuche über den Charakter und die Werke der besten Italienischen Dichter (2 Bde., Braunschweig: Waysenhaus 1763–1764), Bd. 2.
+        </zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11266803-0" >Stabi Augsburg</url>
+    </werk>
+
+    <werk id="herder-abhandlung-ursprung">
+        <akteur ref="herder" />
+        <zitation>Abhandlung über den Ursprung der Sprache,
+            welche den von der Königl. Academie der Wissenschaften für das Jahr 1770 gesezten Preis erhalten hat. Von Herrn Herder. Auf Befehl der Academie Herausgegeben (Berlin 1772).</zitation>
+        <url address="https://www.deutschestextarchiv.de/herder_abhandlung_1772" >Deutsches Textarchiv</url>
+    </werk>
+
+    <werk id="warburton-chivalry">
+        <akteur ref="warburton-w" />
+        <akteur ref="johnson-s"></akteur>
+        <akteur ref="jarvis-c"></akteur>
+        <zitation>Aufsatz von William Warburton über das Rittertum; Hamann gibt zwei Quellen an: 1. Im Anhang von Love’s Labour’s Lost, in: The plays of William Shakespeare [ed. by Samuel Johnson], vol. 2 (London 1768), S. 224–229. – 2. Im Anhang des Vorworts des Übersetzers von Charles Jarvis’ Don Quijote-Übersetzung, nach S. xxiii.</zitation>
+        <url address="https://books.google.de/books?id=0BUOAAAAQAAJ" >Samuel Johnsons Shakespeare-Ausgabe London 1768 (Google Books)</url>
+        <url address="https://books.google.de/books?id=yNxEAQAAMAAJ" >Charles Jarvis’ Don Quijote-Übersetzung, 3. Auflage London 1761, Bd. 1 (Google Books)</url>
+    </werk>
+
+    <werk id="hurd-chivalry">
+        <akteur ref="hurd-r" />
+        <zitation>Letters on Chivalry and Romance
+            (London 1762).</zitation>
+        <url address="https://archive.org/details/lettersonchival00hurgoog/page/n7/mode/2up" >Internet Archive</url>
     </werk>
 
     

@@ -448,7 +448,7 @@
 
     <beitrag>
         <stueck datum="1764" nr="20" von="77" />
-        <akteur ref="funck-jd" kat="todesanzeige" />
+        <akteur ref="funck-jd" kat="nachruf" />
         <ort ref="kgsb" />
     </beitrag>
     <beitrag>
@@ -1681,6 +1681,13 @@
         <titel>Abhandlung vom Tanze.</titel>
         <anmerkung>Im Anschluss Mitteilung von zwölf englischen Tänzen und deren Choreographie,
             „Berloque Dansante London 1764.“</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="72" von="287" />
+        <kategorie ref="notenblatt"></kategorie>
+        <titel>Berloque Dansante London 1764.</titel>
+        <beitrag ref="abhandlung-tanz" kat="nachtrag" />
+        <anmerkung>Noten für zwölf englische Tänze und deren Choreographie.</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="72" von="288" />

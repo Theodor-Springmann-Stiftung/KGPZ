@@ -51,8 +51,8 @@
 
     <akteur id="lange-ag">
         <name>Gottlieb August Lange</name>
-        <lebensdaten>–1796</lebensdaten>
-        <gnd>https://d-nb.info/gnd/12972646</gnd>
+        <lebensdaten>Gest. 1796</lebensdaten>
+        <gnd>http://d-nb.info/gnd/12972646X</gnd>
     </akteur>
 
     <akteur id="lange-fre">
@@ -382,12 +382,6 @@
         <name>Paul Sarpius</name>
         <lebensdaten>1552–1623</lebensdaten>
         <gnd>https://d-nb.info/gnd/118751336</gnd>
-    </akteur>
-
-    <akteur id="pausanias-p">
-        <name>Periegeta Pausanias</name>
-        <lebensdaten>2 Jh.n.C.</lebensdaten> 
-        <gnd>https://d-nb.info/gnd/118592246</gnd>
     </akteur>
 
     <akteur id="haug-b">
@@ -966,6 +960,12 @@
         <gnd>https://d-nb.info/gnd/119481006</gnd>
     </akteur>
 
+    <akteur id="pratje-jh">
+        <name> Johann Hinrich Pratje</name>
+        <lebensdaten>1710–1791</lebensdaten>
+        <gnd>https://d-nb.info/gnd/118854577</gnd>
+    </akteur>
+
     <akteur id="blackmore-r">
         <name>Richard Blackmore</name>
         <lebensdaten>1654–1729</lebensdaten>
@@ -994,6 +994,24 @@
         <name>Edward Young</name>
         <lebensdaten>1683–1765</lebensdaten>
         <gnd>https://d-nb.info/gnd/118635964</gnd>
+    </akteur>
+
+    <akteur id="warburten-w">
+        <name>William Warburton</name>
+        <lebensdaten>1698–1779</lebensdaten>
+        <gnd>https://d-nb.info/gnd/118629166</gnd>
+    </akteur>
+
+    <akteur id="jarvis-c">
+        <name>Charles Jarvis</name>
+        <lebensdaten>1675–1739</lebensdaten>
+        <gnd>http://d-nb.info/gnd/138110204</gnd>
+    </akteur>
+
+    <akteur id="hurd-r">
+        <name>Richard Hurd</name>
+        <lebensdaten>1720–1808</lebensdaten>
+        <gnd>http://d-nb.info/gnd/118708228</gnd>
     </akteur>
 
     <akteur id="zimmermann-jg">
@@ -1295,7 +1313,7 @@
     </akteur>
 
     <akteur id="atterbury-f">
-        <name>Atterbury, Franci</name>
+        <name>Franci Atterbury</name>
         <lebensdaten>1663–1732</lebensdaten>
         <gnd>https://d-nb.info/gnd/11864615X</gnd>
     </akteur>
@@ -1425,13 +1443,8 @@
         <gnd>http://d-nb.info/gnd/122496779</gnd>
     </akteur>
 
-    <akteur id="herr-p">
-        <name>Herr P.</name>
-        <lebensdaten>Vorname, Nachname und Lebensdaten unbekannt</lebensdaten>
-    </akteur>
-
     <akteur id="schulze-sf">
-        <name>Schulze, Samuel Friedrich</name>
+        <name>Samuel Friedrich Schulze</name>
         <lebensdaten>1726–1804</lebensdaten>
         <gnd>http://d-nb.info/gnd/100900569</gnd>
     </akteur>
@@ -1515,7 +1528,7 @@
     </akteur>
 
     <akteur id="seybold-jg">
-        <name>Seybold, Johann Georg</name>
+        <name>Johann Georg Seybold</name>
         <lebensdaten>Nicht ermittelt</lebensdaten>
         <gnd>http://d-nb.info/gnd/1109767765</gnd>
     </akteur>
@@ -1670,12 +1683,6 @@
         <gnd>https://d-nb.info/gnd/128588535</gnd>
     </akteur>
 
-    <akteur id="krebs-ak">
-        <name>Ludwig Alexander Krebs</name>
-        <lebensdaten>1741–1771</lebensdaten>
-        <gnd>http://d-nb.info/gnd/1055115323</gnd>
-    </akteur>
-
     <akteur id="henry-m">
         <name>Matthew Henry</name>
         <lebensdaten>1662–1714</lebensdaten>
@@ -1713,7 +1720,7 @@
     </akteur>
     
     <akteur id="bierling-fi">
-        <name>Bierling, Friedrich Immanuel</name>
+        <name>Friedrich Immanuel Bierling</name>
         <lebensdaten>Geb. 1756</lebensdaten>
         <gnd>https://d-nb.info/gnd/1023550342</gnd>
     </akteur>
@@ -1844,7 +1851,7 @@
     </akteur>
 
     <akteur id="goldhagen-h">
-        <name>Goldhagen, Hermann </name>
+        <name>Hermann Goldhagen</name>
         <lebensdaten>1718–1794</lebensdaten>
         <gnd>http://d-nb.info/gnd/129785687</gnd>
     </akteur>
@@ -1922,8 +1929,165 @@
     </akteur>
 
     <akteur id="frenais-jp">
-        <name>Frénais, Joseph Pierre </name>
+        <name>Joseph Pierre Frénais</name>
         <lebensdaten>Lebensdaten unbekannt</lebensdaten>
         <gnd>https://d-nb.info/gnd/129204536</gnd>
     </akteur>
+
+    <akteur id="strobel-gt">
+        <name>Georg Theodor Strobel</name>
+        <lebensdaten>1736–1794</lebensdaten>
+        <gnd>http://d-nb.info/gnd/117319392</gnd>
+    </akteur>
+    
+    <akteur id="reinwald-wfh">
+        <name>Wilhelm Friedrich Hermann Reinwald</name>
+        <lebensdaten>1737–1815</lebensdaten>
+        <gnd>http://d-nb.info/gnd/116428554</gnd>
+    </akteur>
+
+    <akteur id="schneider-jg">
+        <name>Johann Gottlob Schneider</name>
+        <lebensdaten>1750–1822</lebensdaten>
+        <gnd>https://d-nb.info/gnd/104117672</gnd>
+    </akteur>
+
+    <akteur id="pardey-ea">
+        <name>Ernst August Pardey</name>
+        <lebensdaten>1736–1775</lebensdaten>
+        <gnd>https://d-nb.info/gnd/137306490</gnd>
+    </akteur>
+
+    <akteur id="happe-af">
+        <name>Andreas Friedrich Happe</name>
+        <lebensdaten>1733–1802</lebensdaten>
+        <gnd>http://d-nb.info/gnd/101189744X</gnd>
+    </akteur>
+
+    <akteur id="martini-fhw">
+        <name>Friedrich Heinrich Wilhelm Martini</name>
+        <lebensdaten>1729–1778</lebensdaten>
+        <gnd>https://d-nb.info/gnd/117552607</gnd>
+    </akteur>
+
+    <akteur id="monnet">
+        <name>Monnet</name>
+        <lebensdaten>Lebensdaten unbekannt</lebensdaten>
+        <gnd>http://d-nb.info/gnd/1055563865</gnd>
+    </akteur>
+
+    <akteur id="krebs-la">
+        <name>Ludwig Alexander Krebs</name>
+        <lebensdaten>1741–1771</lebensdaten>
+        <gnd>http://d-nb.info/gnd/1055115323</gnd>
+    </akteur>
+
+    <akteur id="engelmann-cf">
+        <name>Christian Friedrich Engelmann</name>
+        <lebensdaten>1739–1793</lebensdaten>
+        <gnd>http://d-nb.info/gnd/143321757</gnd>
+    </akteur>
+
+    <akteur id="kiefer-jn">
+        <name>Johann Nikolaus Kiefer</name>
+        <lebensdaten>Lebensdaten unbekannt</lebensdaten>
+        <gnd>http://d-nb.info/gnd/1055387587</gnd>
+    </akteur>
+
+    <akteur id="grulich-ab">
+        <name>Adolph Bogislav Grulich</name>
+        <lebensdaten>1730–1798</lebensdaten>
+        <gnd>http://d-nb.info/gnd/100140890</gnd>
+    </akteur>
+
+    <akteur id="diethmar-jc">
+        <name>Justus Christoph Dithmar</name>
+        <lebensdaten>1677–1737</lebensdaten>
+        <gnd>http://d-nb.info/gnd/128453230</gnd>
+    </akteur>
+    
+    <akteur id="zachariae-gt">
+        <name>Gotthilf Traugott Zachariae</name>
+        <lebensdaten>1729–1777</lebensdaten>
+        <gnd>http://d-nb.info/gnd/121593215</gnd>
+    </akteur>
+
+    <akteur id="guldberg-oh">
+        <name>Ove Høegh Guldberg</name>
+        <lebensdaten>1731–1808</lebensdaten>
+        <gnd>http://d-nb.info/gnd/11692618X</gnd>
+    </akteur>
+
+    <akteur id="dawes-w">
+        <name>William Dawes</name>
+        <lebensdaten>1671–1724</lebensdaten>
+        <gnd>http://d-nb.info/gnd/1014187958</gnd>
+    </akteur>
+
+    <akteur id="hornemann-fg">
+        <name>Friedrich Georg Hornemann</name>
+        <lebensdaten>Gest. 1786</lebensdaten>
+        <gnd>https://d-nb.info/gnd/137634226</gnd>
+    </akteur>
+
+    <akteur id="goldhagen-je">
+        <name>Johann Eustachius Goldhagen</name>
+        <lebensdaten>1701–1772</lebensdaten>
+        <gnd>http://d-nb.info/gnd/124639399</gnd>
+    </akteur>
+
+    <akteur id="mueller-gfl">
+        <name>Georg Friedrich Ludwig Müller</name>
+        <lebensdaten>Geb. 1735</lebensdaten>
+        <gnd>http://d-nb.info/gnd/118053302</gnd>
+    </akteur>
+
+    <akteur id="haehn-jf">
+        <name>Johann Friedrich Hähn</name>
+        <lebensdaten>1710–1789</lebensdaten>
+        <gnd>http://d-nb.info/gnd/11870009X</gnd>
+    </akteur>
+
+    <akteur id="rabe-jj">
+        <name>Johann Jakob Rabe</name>
+        <lebensdaten>1710–1798</lebensdaten>
+        <gnd>http://d-nb.info/gnd/124016510</gnd>
+    </akteur>
+
+    <akteur id="spalding-jj">
+        <name>Johann Joachim Spalding</name>
+        <lebensdaten>1714–1804</lebensdaten>
+        <gnd>http://d-nb.info/gnd/118751719</gnd>
+    </akteur>
+
+    <akteur id="tiedemann-d">
+        <name>Dieterich Tiedemann</name>
+        <lebensdaten>1748–1803</lebensdaten>
+        <gnd>http://d-nb.info/gnd/117376280</gnd>
+    </akteur>
+
+    <akteur id="beaurieu-gg">
+        <name>Gaspard Guillard de Beaurieu</name>
+        <lebensdaten>1728–1795</lebensdaten>
+        <gnd>http://d-nb.info/gnd/10435531X</gnd>
+    </akteur>
+
+    <akteur id="hogarth">
+        <name>William Hogarth</name>
+        <lebensdaten>1697–1764</lebensdaten>
+        <gnd>http://d-nb.info/gnd/118552805</gnd>
+    </akteur>
+
+    <akteur id="contant-orville-ag">
+        <name>André Guillaume Contant d’Orville</name>
+        <lebensdaten>1730–1800</lebensdaten>
+        <gnd>http://d-nb.info/gnd/100231470</gnd>
+    </akteur>
+
+    <akteur id="meinhard-jn">
+        <name>Johann Nicolaus Meinhard</name>
+        <lebensdaten>1727–1767</lebensdaten>
+        <gnd>https://d-nb.info/gnd/118580167</gnd>
+    </akteur>
+
 </akteure>
