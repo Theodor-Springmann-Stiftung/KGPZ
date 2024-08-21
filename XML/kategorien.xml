@@ -98,7 +98,7 @@
     </kategorie>
 
     <kategorie id="einkommende-fremde">
-        <name>Einkommende Fremde</name>
+        <name>Einreiseliste</name>
         <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
     </kategorie>
 
@@ -137,6 +137,10 @@
 
     <kategorie id="notenblatt">
         <name>Notenblatt mit Liedtext oder Tanzchoreographie</name>
+    </kategorie>    
+
+    <kategorie id="abbildung">
+        <name>Mit Abbildung</name>
     </kategorie>
     
 </kategorien>
