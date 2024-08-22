@@ -65,7 +65,7 @@
     <beitrag>
         <beilage datum="1772" nr="37" von="1" bis="2" />
         <titel>Abfertigumg der im sechs und zwanzigsten Stück enthaltenen Recension. La Farce enfin lui fert à tout masquer.</titel>
-        <beitrag kat="replik" ref="hamann-herder-sprache"></beitrag>
+        <beitrag kat="replik" ref="hamann-herder-ursprung"></beitrag>
         <akteur ref="hamann">Unterzeichnet „Aristobulus.“ – Vgl. den Wiederabdruck in den <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235968">Zwo Recensionen</wwwlink></akteur>
     </beitrag>
 
@@ -81,7 +81,38 @@
         <werk kat="uebersetzung" ref="warburton-chivalry" ></werk>
         <werk kat="uebersetzung" ref="hurd-chivalry" ></werk>
         <akteur ref="hamann">vgl. Unger II, 910–916, Nadler IV, 372–376</akteur>
-        <anmerkung>Kombinierte Übersetzung von Ausschnitten aus einem Aufsatz von William Warburten und Richard Hurds Letters on Chivalry and Romance.</anmerkung>
+        <anmerkung>Kombinierte Übersetzung von Ausschnitten aus einem Aufsatz von William Warburten über das Rittertum und Richard Hurds „Letters on Chivalry and Romance“.</anmerkung>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="43" von="2" />
+        <beilage datum="1772" nr="45" von="1" />
+        <titel>Chronologische Bestimmung des Königs Ahasverus und der Königin Esther. Aus dem Engl.</titel>
+        <werk kat="uebersetzung" ref="yate-esther" s="S. 444–446" ></werk>
+        <akteur ref="hamann" unsicher="true">vgl. ZH II, 431</akteur>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="45" von="2" />
+        <beilage datum="1772" nr="47" von="1" bis="2" />
+        <beilage datum="1772" nr="49" von="1" bis="2" />
+        <beilage datum="1772" nr="51" von="1" />
+        <titel>Auszug eines Versuchs über die Gegenstände der Chymie und über ihre allgemeine Eintheilung. Aus dem Engl.</titel>
+        <werk kat="uebersetzung" ref="watson-hawkesworth-chemistry" s="S. 410–414 und 464–466" ></werk>
+        <akteur ref="hamann" unsicher="true">vgl. ZH II, 431</akteur>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="51" von="1" bis="2" />
+        <titel>Der Uebersetzer. Aus den Charakteren oder Zeichnungen des Samuel Buttlers. Aus eben desselben vermischten Gedanken.</titel>
+        <werk kat="uebersetzung" ref="butler-genuine" s="S. 405–407 und Auszüge aus S. 466–512" ></werk>
+        <akteur ref="hamann" unsicher="true">vgl. ZH II, 431</akteur>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="53" von="1" bis="2" />
+        <kategorie ref="uebersetzung"></kategorie>
+        <titel>Lobschrift auf Herrn Noel, nach dem Französisichen des Kaisers von China.</titel>
     </beitrag>
 
     <!-- Stücke: -->
@@ -117,7 +148,7 @@
     </beitrag>
 
 
-    <beitrag id="hamann-herder-sprache">
+    <beitrag id="hamann-herder-ursprung">
         <stueck datum="1771" nr="26" von="101" bis="102" />
         <werk kat="rezension" ref="herder-abhandlung-ursprung"></werk>
         <ort ref="berlin"></ort>
