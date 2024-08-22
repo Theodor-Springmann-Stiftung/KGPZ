@@ -31,6 +31,8 @@ def get_files(directory):
 
 def calculate_date(year, stueck_number):
     base_date = datetime(year, 1, 1)  # Start from January 1st of the given year
+    if year is 1764:
+        base_date = datetime(1764, 2, 2)
     while base_date.weekday() != 4:  # Find the first Friday
         base_date += timedelta(days=1)
     days_to_add = (stueck_number - 1) * 3 + ((stueck_number - 1) // 2) * 1
