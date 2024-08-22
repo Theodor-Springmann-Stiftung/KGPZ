@@ -111,8 +111,27 @@
 
     <beitrag>
         <beilage datum="1772" nr="53" von="1" bis="2" />
-        <kategorie ref="uebersetzung"></kategorie>
         <titel>Lobschrift auf Herrn Noel, nach dem Französisichen des Kaisers von China.</titel>
+        <werk kat="uebersetzung" ref="gleim-lobschrift" s="S. 5–20" ></werk>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="55" von="1" bis="2" />
+        <kategorie ref="weltnachrichten"></kategorie>
+        <titel>Die Ratification, welche Sr. Erlaucht, dem Generalfeldmarschall, Grafen Peter Alexandrowitsch Rumanzow, von dem Türkischen Großvizier Mussun Oglu über die Artikel, des den 19. abgewichenen Maymonats geschlossenen Waffenstillstandes, auf die an ihn abgefertigte gegenseitig eingesandt worden, wird dem Publicum hiermit von Wort zu Wort mitgetheilet:</titel>
+        <ort ref="stpetersburg"></ort>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1772" nr="55" von="2" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="61" von="1" />
+        <kategorie ref="gelehrte-nachrichten"></kategorie>
+        <titel>Nachricht.</titel>
+        <akteur ref="buesching"></akteur>
+        <anmerkung>Subskriptionsanzeige für die Werke des schedischen Kanzleyraths und Professors zu Upsala, Herr Johann von Ihre</anmerkung>
     </beitrag>
 
     <!-- Stücke: -->
