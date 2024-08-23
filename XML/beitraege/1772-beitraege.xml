@@ -188,9 +188,42 @@
 
     <beitrag>
         <beilage datum="1772" nr="69" von="2" />
+        <beilage datum="1772" nr="71" von="1" />
         <titel>Aus der Berl. Zeitung.</titel>
         <werk kat="auszug" ref="burman-lied" ></werk>
-        <anmerkung>Mit einem Kommentar über die poetische Begeisterung zur Lotterie</anmerkung>
+        <werk kat="kommentar" ref="burman-lied" ></werk>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="71" von="1" bis="2" />
+        <kategorie ref="enzyklo-beilage"></kategorie>
+        <titel>Beschreibung von allen Gemählden und Antiquen, wie auch verschiedenen andern Kostbarkeiten im Neuen Schloße bey Sans-Souci.</titel>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="73" von="1" bis="2" />
+        <kategorie ref="weltnachrichten"></kategorie>
+        <ort ref="hamburg"></ort>
+        <anmerkung>Über die Veränderung der Regierung in Schweden.</anmerkung>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="75" von="1" bis="2" />
+        <kategorie ref="proklamation"></kategorie>
+        <titel>Königlich-Preußisches Patent an die sämmtliche Stände und Einwohner der Lande Preußen und Pommern, welche die Crone Pohlen bishero besessen, wie auch der Districte von Groß-Pohlen, diesseits der Netze.</titel>
+        <akteur ref="friedrich-II"></akteur>
+        <ort ref="berlin"></ort>
+        <anmerkung>Proklamation über die Annexion Westpreußens und die Teilung Polens, 13. September 1772, außerdem unterzeichnet von Finckenstein und Herzberg.</anmerkung>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1772" nr="76" von="1" bis="4" />
+        <beilage datum="1772" nr="77" von="1" bis="4" />
+        <kategorie ref="proklamation"></kategorie>
+        <titel>Des Königs und der Reichsstände vestgestellte Regierungsform.</titel>
+        <akteur ref="friedrich-II"></akteur>
+        <ort ref="berlin"></ort>
+        <anmerkung>Proklamation der neuen Verfassung in Schweden vom 21. August 1772 durch Gustav III.</anmerkung>
     </beitrag>
 
 
