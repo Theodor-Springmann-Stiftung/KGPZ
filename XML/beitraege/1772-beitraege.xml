@@ -302,6 +302,11 @@
     </beitrag>
     <beitrag>
         <stueck datum="1772" nr="1" von="2" bis="4" />
+        <kategorie ref="lokalnachrichten" />
+        <anmerkung>Statistische Erhebungen über Geburts- und Todesraten in Königsberg für 1771.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="1" von="2" bis="4" />
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
@@ -426,6 +431,96 @@
         <stueck datum="1772" nr="5" von="20"/>
         <kategorie ref="wechselkurse" />
     </beitrag>
+
+    <beitrag>
+        <stueck datum="1772" nr="6" von="21" />
+        <werk kat="rezension" ref="mercier-andeuxmille" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="6" von="21" bis="22" />
+        <werk kat="rezension" ref="widerlegung-reflexionen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="6" von="22" />
+        <kategorie ref="lokalnachrichten" />
+        <anmerkung>Über den akademischen Actus am Krönungsfest und den Maskenball</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="6" von="22" />
+        <kategorie ref="gedicht" />
+        <titel>An die Masken.</titel>
+    </beitrag>
+    <beitrag>
+    <stueck datum="1772" nr="6" von="22" />
+        <kategorie ref="gedicht" />
+        <titel>An den heutigen Tag.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="6" von="22" />
+        <akteur ref="quandt-jj" kat="nachruf" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="6" von="22" bis="24" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="6" von="24"/>
+        <kategorie ref="lotterie" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="6" von="24"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1772" nr="7" von="25" />
+        <kategorie ref="panegyrik"></kategorie>
+        <titel>Auf den 24sten Januar.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="7" von="26" bis="28" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="7" von="28"/>
+        <kategorie ref="lotterie" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="7" von="28"/>
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="7" von="28"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="7" von="28"/>
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1772" nr="8" von="29" bis="30" />
+        <werk kat="rezension" ref="schwarz-theologische" />
+        <ort ref="giessen"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="8" von="30" />
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="8" von="30" bis="32" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="8" von="32"/>
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="8" von="32"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    
 
 
 
