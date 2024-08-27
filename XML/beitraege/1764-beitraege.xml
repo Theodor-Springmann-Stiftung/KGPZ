@@ -333,6 +333,10 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="14" von="56" />
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="14" von="56" />
         <kategorie ref="buecher" />
     </beitrag>
 
@@ -347,6 +351,10 @@
     <beitrag>
         <stueck datum="1764" nr="15" von="59" bis="60" />
         <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="15" von="59" />
+        <kategorie ref="lokalnachrichten" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="15" von="60" />
@@ -737,6 +745,10 @@
         <stueck datum="1764" nr="34" von="135" bis="136" />
         <kategorie ref="weltnachrichten" />
     </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="34" von="136" />
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
 
     <beitrag>
         <stueck datum="1764" nr="35" von="138" bis="139" />
@@ -768,8 +780,13 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="36" von="144" />
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="36" von="144" />
         <kategorie ref="buecher" />
     </beitrag>
+
     <beitrag id="klopstock-done">
         <stueck datum="1764" nr="37" von="145" />
         <kategorie ref="gedicht" />
@@ -953,6 +970,11 @@
     <beitrag>
         <stueck datum="1764" nr="44" von="175" bis="176" />
         <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="44" von="176" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+        <akteur ref="boltz-t" kat="nachruf" />
     </beitrag>
 
     <beitrag>
@@ -1377,6 +1399,10 @@
         <stueck datum="1764" nr="60" von="239" bis="240" />
         <kategorie ref="weltnachrichten" />
     </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="60" von="240" />
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
 
     <beitrag>
         <stueck datum="1764" nr="61" von="241" />
@@ -1720,6 +1746,10 @@
         <kategorie ref="buecher" />
     </beitrag>
     <beitrag>
+        <stueck datum="1764" nr="74" von="292" />
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
+    <beitrag>
         <stueck datum="1764" nr="73" von="292" />
         <kategorie ref="wechselkurse" />
     </beitrag>
@@ -1881,6 +1911,10 @@
     <beitrag>
         <stueck datum="1764" nr="80" von="319" bis="320" />
         <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="80" von="320" />
+        <kategorie ref="lokalnachrichten" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="80" von="320" />
@@ -2209,6 +2243,10 @@
     <beitrag>
         <stueck datum="1764" nr="93" von="371" bis="372" />
         <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="93" von="372" />
+        <kategorie ref="lokalnachrichten" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="93" von="372" />
