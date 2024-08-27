@@ -539,6 +539,11 @@
     <beitrag>
         <stueck datum="1771" nr="7" von="26" bis="28"/>
         <kategorie ref="weltnachrichten" />
+    </beitrag>    
+    <beitrag>
+        <stueck datum="1771" nr="7" von="28"/>
+        <kategorie ref="lokalnachrichten" />
+        <akteur ref="kowalewski-c" kat="nachruf" />
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="7" von="28"/>
@@ -648,6 +653,10 @@
         <ort ref="luebeck"></ort>
     </beitrag>
     <beitrag>
+        <stueck datum="1771" nr="12" von="46" />
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
+    <beitrag>
         <stueck datum="1771" nr="12" von="46" bis="48"/>
         <kategorie ref="weltnachrichten" />
     </beitrag>
@@ -670,6 +679,10 @@
         <stueck datum="1771" nr="13" von="50"/>
         <werk kat="rezension" ref="varennes-menschen"></werk>
         <ort ref="ulm"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="13" von="50" />
+        <kategorie ref="lokalnachrichten" />
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="13" von="50" bis="52"/>
@@ -698,6 +711,10 @@
         <stueck datum="1771" nr="14" von="54"/>
         <werk kat="rezension" ref="geschichtedergräfinzurlack"></werk>
         <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="14" von="54" />
+        <kategorie ref="lokalnachrichten" />
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="14" von="54" bis="56"/>
@@ -1135,6 +1152,11 @@
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
+        <stueck datum="1771" nr="32" von="126"/>
+        <kategorie ref="lokalnachrichten" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+    <beitrag>
         <stueck datum="1771" nr="32" von="126" bis="128"/>
         <kategorie ref="weltnachrichten" />
     </beitrag>
@@ -1163,6 +1185,11 @@
         <kategorie ref="gelehrte-nachrichten" />
         <ort ref="danzig"></ort>
         <anmerkung>Bekanntmachung der Gesellschaft zu Danzig, ihre „theologischen Berichte von neuen Büchern und Schriften“ nicht mehr im Verlag Wedels in Danzig, sondern bei Heinsius in Leipzig herauszugeben.</anmerkung>
+    </beitrag> 
+    <beitrag>
+        <stueck datum="1771" nr="33" von="130"/>
+        <kategorie ref="lokalnachrichten" />
+        <kategorie ref="lotterie" />
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="33" von="130" bis="132"/>
@@ -1216,6 +1243,10 @@
     <beitrag>
         <stueck datum="1771" nr="35" von="138" bis="140"/>
         <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="35" von="140"/>
+        <kategorie ref="lokalnachrichten" />
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="35" von="140"/>
@@ -1396,6 +1427,10 @@
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="42" von="168"/>
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="42" von="168"/>
         <kategorie ref="lokalanzeigen" />
     </beitrag>
     <beitrag>
@@ -1443,6 +1478,10 @@
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="44" von="176"/>
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="44" von="176"/>
         <kategorie ref="vorladung" />
     </beitrag>
     <beitrag>
@@ -1463,6 +1502,10 @@
     <beitrag>
         <stueck datum="1771" nr="45" von="178" bis="180"/>
         <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="45" von="178" bis="179"/>
+        <kategorie ref="lokalnachrichten" />
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="45" von="180"/>
@@ -1489,6 +1532,11 @@
     <beitrag>
         <stueck datum="1771" nr="46" von="182" bis="184"/>
         <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="46" von="182"/>
+        <kategorie ref="lokalnachrichten" />
+        <kategorie ref="lotterie"></kategorie>
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="46" von="184"/>
@@ -1707,6 +1755,10 @@
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="53" von="212"/>
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="53" von="212"/>
         <kategorie ref="wechselkurse" />
     </beitrag>
 
@@ -1897,6 +1949,11 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
+        <stueck datum="1771" nr="42" von="168"/>
+        <kategorie ref="lokalnachrichten" />
+        <kategorie ref="lotterie"></kategorie>
+    </beitrag>
+    <beitrag>
         <stueck datum="1771" nr="60" von="240"/>
         <kategorie ref="lokalanzeigen" />
     </beitrag>
@@ -1973,6 +2030,10 @@
         <stueck datum="1771" nr="63" von="249" bis="250" />
         <werk kat="rezension" ref="schroeckh-christlichekirchengeschichte2"></werk>
         <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="63" von="250"/>
+        <kategorie ref="lokalnachrichten" />
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="63" von="250" bis="252"/>
@@ -2074,6 +2135,10 @@
     <beitrag>
         <stueck datum="1771" nr="67" von="266" bis="268"/>
         <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="67" von="266"/>
+        <kategorie ref="lokalnachrichten" />
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="67" von="268"/>
@@ -2926,6 +2991,10 @@
     <beitrag>
         <stueck datum="1771" nr="99" von="390" bis="392"/>
         <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1771" nr="99" von="392"/>
+        <kategorie ref="lokalnachrichten" />
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="99" von="392"/>
