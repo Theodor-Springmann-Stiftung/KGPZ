@@ -68,6 +68,10 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="2" von="8"/>
+        <kategorie ref="lokalnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="2" von="8"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
@@ -129,6 +133,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
+       <stueck datum="1765" nr="4" von="16"/>
+       <kategorie ref="lokalnachrichten"/>
+       <akteur ref="goldbach-c" kat="nachruf" />
+   </beitrag>
+    <beitrag>
         <stueck datum="1765" nr="4" von="16"/>
         <kategorie ref="buecher"/>
     </beitrag>
@@ -160,6 +169,10 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="6" von="24"/>
+        <kategorie ref="lokalnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="6" von="24"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
@@ -173,6 +186,7 @@
     <beitrag>
         <stueck datum="1765" nr="7" von="26" bis="27"/>
         <kategorie ref="gelehrte-nachrichten"/>
+        <kategorie ref="lokalnachrichten"></kategorie>
         <anmerkung>Nachricht über die Feiern der Königsberger Akademie anlässlich des Krönungsjubiläums Friedrichs I. und des Geburtstages Friedrichs II.</anmerkung>
     </beitrag>
     <beitrag>
@@ -205,9 +219,18 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="8" von="32"/>
+        <kategorie ref="lokalnachrichten"></kategorie>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="8" von="32"/>
         <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="8" von="32"/>
         <kategorie ref="anzeige"/>
     </beitrag>
+
 
     <!-- 09 -->
     <beitrag>
@@ -488,6 +511,11 @@
     <beitrag>
         <stueck datum="1765" nr="21" von="83" bis="84"/>
         <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="21" von="84"/>
+        <kategorie ref="lokalnachrichten"/>
+        <kategorie ref="gelehrte-nachrichten"></kategorie>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="21" von="84"/>
