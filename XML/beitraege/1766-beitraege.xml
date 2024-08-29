@@ -1296,10 +1296,6 @@
     <anmerkung>Nachricht über einen Preis an Harrison, den Erfinder der Meereslänge.</anmerkung>
  </beitrag>
  <beitrag>
-    <stueck datum="1766" nr="61" von="247"/>
-    <kategorie ref="lokalanzeigen"></kategorie>
- </beitrag>
- <beitrag>
     <stueck datum="1766" nr="61" von="247" />
     <kategorie ref="buecher"/>
 </beitrag>
@@ -1363,14 +1359,40 @@
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="64" von="259"/>
-   <kategorie ref="lokalanzeigen" />
+   <kategorie ref="buecher" />
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="64" von="259" bis="260"/>
    <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck datum="1766" nr="66" von="260"/>
+    <stueck datum="1766" nr="64" von="260"/>
    <kategorie ref="einkommende-fremde" />
+</beitrag>
+
+<!-- 65 -->
+<beitrag>
+    <stueck datum="1766" nr="65" von="261" bis="262"/>
+    <werk kat="rezension" ref="nachrichten-verbesserung-landwirthschaft"></werk>
+    <ort ref="celle"/> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="65" von="262"/>
+    <werk kat="rezension" ref="patriot-am-bodensee"></werk>
+    <ort ref="lindau"/> 
+    <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="65" von="262"/>
+    <kategorie ref="gelehrte-nachrichten" />
+    <anmerkung>Adreß-Nachricht für das Königreich Preussen und insbesondre die Hauptstadt Königsberg, derer darin befindlichen hohen und niedrigen Collegien, lnstanzien und Expeditionen, auf das gemeine Jahr 1766.</anmerkung>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="65" von="262" bis="268"/>
+   <kategorie ref="weltnachrichten" /> <!-- Diese Weltnachrichten enthalten ein Edict von S. 267-268. Benötigt es einen seperaten Beitrag?-->
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="65" von="268"/>
+   <kategorie ref="wechselkurse" />
 </beitrag>
 </beitraege>
