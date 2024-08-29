@@ -2343,10 +2343,11 @@
         <url address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10131115-1" >BSB München</url>
     </werk>
 
-    <werk id="bahrdt-briefetheologie">
+    <werk id="bahrdt-briefe">
         <akteur ref="bahrdt-cf" />
-        <zitation>Briefe über die systematische Theologie zur Beförderung der Toleranz, 2. Sammlung (Erfurt: Grißbach 1770).</zitation>
-        <url address="http://dx.doi.org/10.25673/82067" >ULB Halle</url>
+        <zitation>Briefe über die systematische Theologie zur Beförderung der Toleranz (2 Bde., Erfurt: Grißbach 1770–1771).</zitation>
+        <url address="http://dx.doi.org/10.25673/82067" >Bd. 1 (ULB Halle)</url>
+        <url address="https://books.google.de/books?id=mjljAAAAcAAJ" >Bd. 2 (Google Books)</url>
     </werk>
 
     <werk id="magelsen-erstegründe">
@@ -3161,6 +3162,24 @@
         <akteur ref="mueller-jg" />
         <zitation>Der Deutsche, Teil 1–3 (Magdeburg: Hechtel 1771).</zitation>
         <url address="https://books.google.de/books?id=lyk8OuvSJhwC" >Google Books</url>
+    </werk>
+
+    <werk id="hupel-dienstfreundliches">
+        <akteur ref="hupel-aw" />
+        <zitation>Dienstfreundliches Promemoria an die, welche den Herrn Moses Mendelssohn durchaus zum Christen machen wollen, oder sich doch wenigstens herzlich wundern, daß er es noch nicht geworden ist (Riga 1771).</zitation>
+        <url address="https://purl.uni-rostock.de/rosdok/ppn867164980" >UB Rostock</url>
+    </werk>
+
+    <werk id="scheibe-anekdoten">
+        <akteur ref="scheibe-ja" />
+        <zitation>Anekdoten eines reisenden Russen über die Staatsverfassung, Sitten und Gebräuche der Dänen, in Briefen an seine Freunde (Lübeck 1771).</zitation>
+        <url address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10451333-5" >BSB München</url>
+    </werk>
+
+    <werk id="hellfried-briefe">
+        <akteur ref="hellfried-jcf" />
+        <zitation>Briefe eines Dänen an den Verfasser der Anecdoten eines angeblichen reisenden Russen (Kopenhagen, 1771).</zitation>
+        <url address="http://dx.doi.org/10.25673/47396" >ULB Halle</url>
     </werk>
 
     
