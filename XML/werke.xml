@@ -2498,9 +2498,10 @@
         <url address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10134623-6" >BSB München</url>
     </werk>
 
-    <werk id="hermes-sopie1-2">
+    <werk id="hermes-sophie">
         <akteur ref="hermes-jt" />
-        <zitation>Sophiens Reise von Memel nach Sachsen, 1. und 2. Teil (Leipzig: Junius 1769–1770).</zitation>
+        <zitation>Sophiens Reise von Memel nach Sachsen (5 Bde., Leipzig: Junius 1769–1773).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10924874-2">3. vermehrte Aufl. in 6 Bde. Leipzig 1778 (BSB München)</url>
     </werk>
 
     <werk id="mosheim-sittenlehre9">
@@ -3210,6 +3211,39 @@
     <werk id="koken-kern">
         <akteur ref="koken-jc" />
         <zitation>Kern der Sittenlehre Jesu und seiner Apostel in Grundrissen der Predigten über die Fest- und Sonntagsepisteln, nebst einigen Buß- und Passionsbetrachtungen. Von Johann Carl Koken, Jg. 4 (Bremen 1771).</zitation>
+    </werk>
+
+    <werk id="journal-prediger1-2">
+        <zitation>Journal für Prediger. Bd., 2. St. (Halle: Kümmel 1770).</zitation>
+        <url address="https://ds.ub.uni-bielefeld.de/viewer/toc/2233748/" >UB Bielefeld</url>
+    </werk>
+
+    <werk id="schenk-fabeln">
+        <akteur ref="schenk-ce" />
+        <zitation>Fabeln und Fabuletten. Zwei Bücher. Nebst einer Betrachtung über die Versifikation (Breßlau: Meyer 1770).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000C19400000000" >Stabi Berlin</url>
+    </werk>
+
+    <werk id="michaelis-raisonnement2">
+        <akteur ref="michaelis" />
+        <zitation>Raisonnement über die protestantischen Universitäten in Deutschland (2 Bde., 1769–1770), Bd. 2.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10734508-6" >BSB München</url>
+    </werk>
+
+    <werk id="cramer-unterhaltungen-missethaeter">
+        <akteur ref="cramer-r" />
+        <zitation>Unterhaltungen für gefangene Missethäter (Zürich: 1770).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268777-8" >2. Aufl. 1772 (BSB München)</url>
+    </werk>
+
+    <werk id="gedanken-geistlichen">
+        <akteur ref="hess-jj" unsicher="true" />
+        <zitation>Gedanken eines Geistlichen über die beste Art, das Christenthum zu vertheidigen. An seine Mitbrüder (Zürich: Füeßlin 1769).</zitation>
+    </werk>
+    
+    <werk id="heilige-andachtsuebungen-krankenbett">
+        <zitation>Heilige Andachtsübungen des Christen auf dem Krankenlager in Betrachtungen, Gebetern und Liedern, Bd. 1 (Frankfurt, Leipzig 1770).</zitation>
+        <url address="https://books.google.de/books?id=EZ48AAAAcAAJ" >Google Books</url>
     </werk>
 
     
