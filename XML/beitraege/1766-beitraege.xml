@@ -1460,7 +1460,7 @@
     <stueck datum="1766" nr="69" von="281" bis="282"/>
     <stueck datum="1766" nr="70" von="285" bis="287"/>
     <werk kat="rezension" ref="webb-untersuchung-des-schoenen"></werk>
-    <ort ref="zurich"/> 
+    <ort ref="zuerich"/> 
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="69" von="283" bis="284"/>
@@ -1468,6 +1468,37 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="69" von="284" />
+    <kategorie ref="wechselkurse" />
+</beitrag>
+
+<!-- 70 -->
+<beitrag>
+    <stueck datum="1766" nr="70" von="287" bis="288"/>
+   <kategorie ref="weltnachrichten" /> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="70" von="288"/>
+   <kategorie ref="einkommende-fremde" />
+</beitrag>
+
+<!-- 71 -->
+<beitrag>
+    <stueck datum="1766" nr="71" von="289" bis="290"/>
+    <werk kat="rezension" ref="gatrey-philosophie-par-amour"></werk>
+    <ort ref="paris"/> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="71" von="290"/>
+    <werk kat="rezension" ref="boysen-philologische-bibliothek"></werk>
+    <ort ref="quedlinburg"/> 
+    <ort ref="leipzig"/> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="71" von="291" bis="292"/>
+   <kategorie ref="weltnachrichten" /> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="71" von="292" />
     <kategorie ref="wechselkurse" />
 </beitrag>
 
