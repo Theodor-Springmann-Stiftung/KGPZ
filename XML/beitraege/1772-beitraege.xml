@@ -862,17 +862,86 @@
         <kategorie ref="einkommende-fremde" />
     </beitrag>
 
-    
+    <beitrag>
+        <stueck datum="1772" nr="23" von="89" />
+        <werk kat="rezension" ref="naturlehre-heiligeschrift" />
+        <ort ref="frankfurt"></ort>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="23" von="89" bis="90" />
+        <werk kat="rezension" ref="krueger-neuesammlung" />
+        <ort ref="gotha"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="23" von="90" bis="92" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="23" von="92" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="23" von="92" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="23" von="92"/>
+        <kategorie ref="wechselkurse" />
+    </beitrag>
 
+    <beitrag>
+        <stueck datum="1772" nr="24" von="93" />
+        <werk kat="rezension" ref="beschaeftigungen-der-gottseligkeit" ></werk>
+        <ort ref="nuernberg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="24" von="93" bis="94" />
+        <werk kat="rezension" ref="vattel-schriften" ></werk>
+        <ort ref="nuernberg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="24" von="94" bis="96" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="24" von="96" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="24" von="96" />
+        <kategorie ref="lotterie" />
+    </beitrag>
 
-
-
+    <beitrag>
+        <stueck datum="1772" nr="25" von="97" bis="98" />
+        <kategorie ref="aufsatz"></kategorie>
+        <incipit>Eine ganze Bude voll Opern und Operetten!…</incipit>
+        <anmerkung>Vergleichende Betrachtung zu mehreren Opern und Operetten: Der Aerntekranz, eine kompische Oper von Weiße (Leipzig 1771), Das Gärtnermädchen, eine komische Oper von Musäus (Weimar 1771), Das Rosenfest, eine Operette (Weimar 1771), Der Deserteur, eine Operette aus dem Französischen des Hrn. Sedaine (Mannheim 1771), Der Kaufmann von Smyrna, von Chamford (o. O. 1770), Das Milchmädchen und die beiden Jäger, aus dem Französischen (Mannheim 1771), Der Dorfbalbier von Weiße (Leipzig 1772), Die Apotheke (Leipzig 1772).</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="25" von="98" bis="100" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="25" von="100" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="25" von="100"/>
+        <kategorie ref="wechselkurse" />
+    </beitrag>
 
     <beitrag id="hamann-herder-ursprung">
         <stueck datum="1771" nr="26" von="101" bis="102" />
         <werk kat="rezension" ref="herder-abhandlung-ursprung"></werk>
         <ort ref="berlin"></ort>
         <akteur ref="hamann">vgl. den Wiederabdruck in den <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235968">Zwo Recensionen</wwwlink></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="26" von="102" />
+        <kategorie ref="lokalnachrichten" />
+        <kategorie ref="lotterie"></kategorie>
     </beitrag>
     <beitrag>
         <stueck datum="1772" nr="26" von="102" bis="104" />
@@ -884,6 +953,55 @@
     </beitrag>
     <beitrag>
         <stueck datum="1771" nr="26" von="104"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1772" nr="27" von="105" bis="106" />
+        <werk kat="rezension" ref="gomperz-billette" />
+        <ort ref="kgsb"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="27" von="106" bis="108" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="27" von="108" />
+        <kategorie ref="vorladung" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="27" von="108" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="27" von="108"/>
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1772" nr="28" von="109" />
+        <werk kat="rezension" ref="mueller-genauenachrichten" />
+        <ort ref="pressburg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="28" von="109" />
+        <werk kat="rezension" ref="heinse-sinngedichte" />
+        <ort ref="halberstadt"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="28" von="110" bis="112" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="28" von="112" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="28" von="112" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="28" von="112" />
         <kategorie ref="einkommende-fremde" />
     </beitrag>
 
