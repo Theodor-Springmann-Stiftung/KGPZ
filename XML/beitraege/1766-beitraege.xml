@@ -1569,4 +1569,28 @@
     <kategorie ref="lokalnachrichten" />
     <anmerkung>Neuer Plan zur Fortsetzung der König. Preuß. Zahlenlotterie.</anmerkung>
 </beitrag>
+
+<!-- 75 -->
+<beitrag>
+    <stueck datum="1766" nr="75" von="309" bis="310"/> 
+    <werk kat="rezension" ref="gerard-versuch-geschmack"></werk>
+    <ort ref="breslau"/> 
+    <ort ref="leipzig"/> 
+    <akteur ref="scheffner"></akteur>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="75" von="310" bis="311"/> 
+    <werk kat="rezension" ref="arnaud-amans-malheureux"></werk>
+    <ort ref="den-haag"/> 
+    <akteur ref="scheffner"></akteur>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="75" von="311" bis="312"/>
+   <kategorie ref="weltnachrichten" /> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="75" von="312" />
+    <kategorie ref="wechselkurse" />
+</beitrag>
+
 </beitraege>
