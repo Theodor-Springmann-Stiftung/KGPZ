@@ -320,7 +320,7 @@
 <!-- 15 -->
 <beitrag>
     <stueck datum="1766" nr="15" von="59" bis="60" />
-    <werk kat="rezension" ref="buchholtz-versuch-churmark-brandenburg"></werk>
+    <werk kat="rezension" ref="buchholtz-versuch-churmark-brandenburg-1"></werk>
     <ort ref="berlin" />
 </beitrag>
 <beitrag>
@@ -1498,6 +1498,133 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="71" von="292" />
+    <kategorie ref="wechselkurse" />
+</beitrag>
+
+<!-- 72 -->
+<beitrag>
+    <stueck datum="1766" nr="72" von="293" bis="295"/>
+    <werk kat="rezension" ref="racine-theatralische-schriften"></werk>
+    <ort ref="braunschweig"/> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="72" von="295" bis="296"/>
+   <kategorie ref="weltnachrichten" /> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="72" von="296"/>
+   <kategorie ref="einkommende-fremde" />
+</beitrag>
+
+<!-- 73 -->
+<beitrag>
+    <stueck datum="1766" nr="73" von="297" bis="299"/>
+    <werk kat="rezension" ref="dusch-poetische-werke"></werk>
+    <ort ref="altona"/> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="73" von="299" bis="300"/>
+   <kategorie ref="weltnachrichten" /> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="73" von="300" />
+    <kategorie ref="lokalnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="73" von="300" />
+    <kategorie ref="buecher" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="73" von="300" />
+    <kategorie ref="wechselkurse" />
+</beitrag>
+
+<!-- 74 -->
+<beitrag>
+    <stueck datum="1766" nr="74" von="301" bis="302"/> 
+    <werk kat="rezension" ref="buchholtz-versuch-churmark-brandenburg-2"></werk>
+    <ort ref="berlin"/> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="74" von="302"/> 
+    <werk kat="rezension" ref="haoh-kioeh-tschwen-geschichte"></werk>
+    <ort ref="leipzig"/> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="74" von="303" />
+    <kategorie ref="gelehrte-nachrichten" />
+    <anmerkung>Nachricht über geplanten Nachstich der Porträts von Mitgliedern der Familie Calas (durch den Kupferstecher Matthäus Deisch).</anmerkung>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="74" von="303" bis="305"/>
+   <kategorie ref="weltnachrichten" /> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="74" von="305"/>
+   <kategorie ref="einkommende-fremde" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="74" von="305" bis="308"/>
+    <kategorie ref="lokalnachrichten" />
+    <anmerkung>Neuer Plan zur Fortsetzung der König. Preuß. Zahlenlotterie.</anmerkung>
+</beitrag>
+
+<!-- 75 -->
+<beitrag>
+    <stueck datum="1766" nr="75" von="309" bis="310"/> 
+    <werk kat="rezension" ref="gerard-versuch-geschmack"></werk>
+    <ort ref="breslau"/> 
+    <ort ref="leipzig"/> 
+    <akteur ref="scheffner"></akteur>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="75" von="310" bis="311"/> 
+    <werk kat="rezension" ref="arnaud-amans-malheureux"></werk>
+    <ort ref="den-haag"/> 
+    <akteur ref="scheffner"></akteur>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="75" von="311" bis="312"/>
+   <kategorie ref="weltnachrichten" /> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="75" von="312" />
+    <kategorie ref="wechselkurse" />
+</beitrag>
+
+<!-- 76 -->
+<beitrag>
+    <stueck datum="1766" nr="76" von="313" bis="315"/>
+    <kategorie ref="aufsatz"></kategorie>
+    <titel>Ueber den Wohlstand.</titel>
+    <anmerkung>Unterzeichnet „Rs.“</anmerkung>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="76" von="315" bis="316"/>
+   <kategorie ref="weltnachrichten" /> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="76" von="316"/>
+   <kategorie ref="einkommende-fremde" />
+</beitrag>
+
+<!-- 77 -->
+<beitrag>
+    <stueck datum="1766" nr="77" von="317" bis="317"/> 
+    <werk kat="rezension" ref="ramler-gedicht"></werk>
+    <akteur ref="scheffner"></akteur>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="77" von="317" bis="319"/> 
+    <werk kat="rezension" ref="meier-philosophische-betrachtungen"></werk>
+    <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="77" von="319" bis="320"/>
+   <kategorie ref="weltnachrichten" /> 
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="77" von="320" />
     <kategorie ref="wechselkurse" />
 </beitrag>
 

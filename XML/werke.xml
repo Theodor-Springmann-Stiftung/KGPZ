@@ -466,6 +466,18 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10113147-7">BSB München</url>
     </werk>
 
+    <werk id="racine-theatralische-schriften">
+        <akteur ref="racine" />
+        <zitation>Herrn Johann Racine theatralische Schriften aus dem Französischen übersetzt. 1. Teil (Braunschweig 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10096512-4">BSB München</url>
+    </werk>
+
+    <werk id="dusch-poetische-werke">
+        <akteur ref="dusch-jj" />
+        <zitation>Sämtliche poetische Werke von Johann Jacob Dusch. 1. Teil (Altona 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10107507-2">BSB München</url>
+    </werk>
+
     <werk id="camerer-betrachtungen">
         <akteur ref="camerer-jf" />
         <zitation>Betrachtungen über verschiedene Gegenstände (Hamburg: Bock 1763).</zitation>
@@ -1701,21 +1713,56 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10291191-9">BSB München</url>
     </werk>
 
-    <werk id="buchholtz-versuch-churmark-brandenburg">
+    <werk id="buchholtz-versuch-churmark-brandenburg-1">
         <akteur ref="buchholz-s"></akteur>
         <akteur ref="suessmilch-jp"></akteur>
         <zitation>Versuch einer Geschichte der Churmark Brandenburg, von der ersten Erscheinung der deutschen Senonnen bis auf jetzige Zeiten, von Sam Buchholz, Oberpf. zu Lichen, mit des Herrn Oberconsist.
-            Raths Süßmilchs vorrede. Erster Theil, alte Geschichte (Berlin: Birnstiel 1765).</zitation>
+            Raths Süßmilchs vorrede. Alte Geschichte, 1. Teil (Berlin: Birnstiel 1765).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10000747">BSB München</url>
+    </werk>
+
+    <werk id="buchholtz-versuch-churmark-brandenburg-2">
+        <akteur ref="buchholz-s"></akteur>
+        <akteur ref="suessmilch-jp"></akteur>
+        <zitation>Versuch einer Geschichte der Churmark Brandenburg, von der ersten Erscheinung der deutschen Senonnen bis auf jetzige Zeiten, von Sam Buchholz, Oberpf. zu Lichen, mit des Herrn Oberconsist.
+            Raths Süßmilchs vorrede. Mittlere Geschichte, 2. Teil (Berlin: Birnstiel 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10722590-1">BSB München</url>
+    </werk>
+
+    <werk id="schueler-aus-der-natur">
+        <akteur ref="beaurieu-gg"></akteur>
+        <zitation>Der Schüler der Natur. Aus dem Französischen übersetzt (Leipzig und Danzig: Wedel 1765).</zitation>
     </werk>
 
     <werk id="kleinigkeiten">
         <zitation>Kleinigkeiten (Berlin: Winter 1765).</zitation>
     </werk>
 
-    <werk id="schueler-aus-der-natur">
-        <akteur ref="beaurieu-gg"></akteur>
-        <zitation>Der Schüler der Natur. Aus dem Französischen übersetzt (Leipzig und Danzig: Wedel 1765).</zitation>
+    <werk id="haoh-kioeh-tschwen-geschichte">
+        <akteur ref="murr-cg"></akteur>
+        <zitation>Haoh Kiöh Tschwen. d. i. Die angenehme Geschichte des Haoh Kiöh, ein chinesischer Roman, in 4 Büchern (von Christoph Gottlieb von Murr übersetzt) (Junius: Leipzig 1766).</zitation>
+        <url address="http://dx.doi.org/10.25673/63912">ULB Halle</url>
+    </werk>
+
+    <werk id="gerard-versuch-geschmack">
+        <akteur ref="gerard-a"></akteur>
+        <zitation>Alexander Gerard. Versuch über den Geschmack, aus dem Englischen übersetzt, nebst Voltairs und Alamberts Abhandlungen über eben die Materie (Breslau und Leipzig 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273091-1">BSB München</url>
+    </werk>
+
+    <werk id="arnaud-amans-malheureux">
+        <akteur ref="arnaud-ft"></akteur>
+        <zitation>Les amans malheureux ou le Comte de Comminge, D ame par M. d'Arnaud (den Haag 1765).</zitation>
+    </werk>
+
+    <werk id="ramler-gedicht">
+        <akteur ref="ramler"></akteur>
+        <zitation>Gedicht von Herrn Karl Wilhelm Ramler (o.O. 1766).</zitation>
+    </werk>
+
+    <werk id="meier-philosophische-betrachtungen">
+        <akteur ref="meier-gf"></akteur>
+        <zitation>Georg Friedrich Meiers philosophische Betrachtungen über die chrißtliche Religion. 7. Stück (Halle 1766).</zitation>
     </werk>
 
     <werk id="gedichte-jungesfrauenzimmer">
