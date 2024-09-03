@@ -2440,8 +2440,12 @@
         <zitation>Der Kaufmann, eine Wochenschrift (Berlin: Decker und Winker 1770). </zitation>
     </werk>
 
-    <werk id="novis-actis">
+    <werk id="novis-actis75">
         <zitation>Novis actis historico-ecclesiasticis, 75. Teil (Weimar 1771).</zitation>
+    </werk>
+
+    <werk id="novis-actis78-82">
+        <zitation>Novis actis historico-ecclesiasticis, 78.–82. Teil (Weimar 1772).</zitation>
     </werk>
 
     <werk id="damm-homerus3">
@@ -3098,7 +3102,7 @@
     <werk id="gleim-lobschrift">
         <akteur ref="gleim" />
         <akteur ref="friedrich-II" />
-        <zitation>Abdruck eines Ausschnittes von Gleims Übersetzung des Gedichts Friedrich II: Lobschrift auf Herrn Noel. Nach dem Französischen des Kaisers von China (Berlin 1772).</zitation>
+        <zitation>Abdruck eines Ausschnittes von Gleims Übersetzung des Gedichts von Friedrich II.: Lobschrift auf Herrn Noel. Nach dem Französischen des Kaisers von China (Berlin 1772).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001CFDF00000000" >Gleim-Übersetzung (Stabi Berlin).</url>
         <url address="http://dx.doi.org/10.25673/52234" >Französisches Original von Friedrich II. (ULB Halle).</url>
     </werk>
@@ -3518,6 +3522,51 @@
 
     <werk id="freymuethige-briefe-standesperson">
         <zitation>Freymüthige Briefe über die Neujahrswünsche an eine Standesperson (Leipzig: Müller 1772).</zitation>
+    </werk>
+
+    <werk id="mosheim-abhandlung-moralisch">
+        <akteur ref="mosheim-jl" />
+        <zitation>Abhandlung von den moralischen Krankheiten des menschlichen Geschlechts. Aus dem ersten Theile seiner Sittenlehre (Leipzig: Weygand 1771).</zitation>
+        <url address="https://books.google.de/books?id=QI3JJWxmZ2gC" >Google Books</url>
+    </werk>
+
+    <werk id="albrecht-raub">
+        <akteur ref="albrecht-jh" />
+        <zitation>Der Raub des Königs Stanislai Augusti seines Herrn. Ein Heldengedicht, in Vier Gesängen. Gesungen von einem Grenadier der Litthauischen Guarde zu Fuß (Warschau: Gröll 1772).</zitation>
+        <url address="https://books.google.de/books?id=Fxsj-XdvW4wC" >Google Books</url>
+    </werk>
+
+    <werk id="kuetner-horaz">
+        <akteur ref="kuetner-ka" />
+        <zitation>Horazens Oden, erstes Buch, von Karl August Kütner (Leipzig 1772).</zitation>
+    </werk>
+
+    <werk id="mayer-lehre">
+        <akteur ref="mayer-jf" />
+        <zitation>Die Lehre der Evangelischen Kirche zum Unterricht für die Jugend in Fragen und Antworten abgehandelt aus der heiligen Schrift erwiesen und erläutert und nach vernünftigen Grundsätzen in einer natürlichen Ordnung faßlich entworfen von Johann Friedrich Mayer (Frankfurt: Andreä 1771).</zitation>
+        <url address="http://doi.org/10.20345/digitue.12210" >UB Tübingen</url>
+    </werk>
+
+    <werk id="journal-liebhaber2">
+        <zitation>Journal für die Liebhaber der Litteratur, St. 2 (Leipzig: Hilscher 1772).</zitation>
+        <url address="https://books.google.de/books?id=eKpgAAAAcAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="schirach-biographie2">
+        <akteur ref="schirach-gb" />
+        <zitation>Biographie der Deutschen. Von Gottl. Benedict Schirach (Halle: Gebauer 1771), Bd. 2.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070808-7" >BSB München</url>
+    </werk>
+
+    <werk id="merkwuerdige-pohlnischen-briefe">
+        <zitation>Merkwürdige an einen Pohlnischen von Adel geschriebene Briefe von Demselben wegen ihres wichtigen Inhalts dem Druck übergeben. Allen Freunden der Wahrheit ganz besonders aber den Dißidentischen Einwohnern des Königr. Pohlen und Großherz. Litthauen Hohen und Niedern, geist- und weltlichen Standes zur genauen Erwegung und Berherzigung vorgelegt (o. O. 1570 [recte 1768]).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN818308478" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="bahrdt-freye">
+        <akteur ref="bahrdt-cf" />
+        <zitation>Freye Betrachtungen über die Religion für denkende Leser (Halle: Franck 1771).</zitation>
+        <url address="http://dx.doi.org/10.25673/68949" >ULB Halle</url>
     </werk>
 
     
