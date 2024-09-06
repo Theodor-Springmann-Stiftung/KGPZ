@@ -2505,7 +2505,7 @@
         <kategorie ref="gedicht"></kategorie>
         <werk kat="auszug" ref="hamburgische-neue-zeitung1772-174"></werk>
         <akteur ref="jacobi-jg"></akteur>
-        <anmerkung>Das Gedicht mit der Anekdote zirkulierte offenbar, vgl. den Brief Jacobis in <wwwlink address="https://www.e-rara.ch/zut/ch19/content/zoom/27125680">J. G. Jacobi’s sämmtliche Werke (Zürich 1825), Bd. 1, 2. Abt., S. 287</wwwlink>; sie konnte aber nur in der Hamburgischen Neuen Zeitung verifiziert werden.</anmerkung>
+        <anmerkung>Das Gedicht mit der Anekdote zirkulierte offenbar, vgl. den Brief Jacobis in <wwwlink address="https://www.e-rara.ch/zut/ch19/content/zoom/27125680">J. G. Jacobi’s sämmtliche Werke (Zürich 1825), Bd. 1, 2. Abt., S. 287</wwwlink>; es konnte aber nur in der Hamburgischen Neuen Zeitung verifiziert werden.</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1772" nr="91" von="365" bis="366" />
@@ -2531,6 +2531,131 @@
     <beitrag>
         <stueck datum="1772" nr="91" von="368"/>
         <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1772" nr="92" von="369" bis="370" />
+        <werk kat="rezension" ref="bougainville-reise" ></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="92" von="370" bis="372" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="92" von="372"/>
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="92" von="372"/>
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="92" von="372"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1772" nr="93" von="373" bis="374" />
+        <werk kat="rezension" ref="schmidt-beitraege-russland" ></werk>
+        <ort ref="riga"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="93" von="374" bis="376" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="93" von="376"/>
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="93" von="376"/>
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="93" von="376"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="93" von="376"/>
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1772" nr="94" von="377" />
+        <kategorie ref="gelehrte-nachrichten" />
+        <ort ref="kgsb"></ort>
+        <anmerkung>Über eine kleine Sammlung von Liedern der besten Dichter dieses Jahrhunderts, als Anhang ihres gewöhnlichen Gesangbuchs hg. vom evangelisch-reformierten Kirchencollegium</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="94" von="377" bis="378" />
+        <werk kat="rezension" ref="karsch-neue-gedichte" ></werk>
+        <ort ref="riga"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="94" von="378"/>
+        <akteur ref="negelein-ja" kat="nachruf" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="94" von="378" bis="380" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="94" von="380"/>
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="94" von="380"/>
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="94" von="380"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1772" nr="95" von="381" bis="382" />
+        <werk kat="rezension" ref="boysen-briefe-gleim" ></werk>
+        <ort ref="frankfurt"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="95" von="382" bis="384" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="95" von="384"/>
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="95" von="384"/>
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="95" von="384"/>
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1772" nr="96" von="385" bis="386" />
+        <werk kat="rezension" ref="seiler-kurze-geschichte" ></werk>
+        <ort ref="erlangen"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="96" von="386"/>
+        <kategorie ref="lokalnachrichten" />
+        <kategorie ref="lotterie"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="96" von="386" bis="388" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="96" von="388"/>
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1772" nr="96" von="388"/>
+        <kategorie ref="einkommende-fremde" />
     </beitrag>
 
 </beitraege>
