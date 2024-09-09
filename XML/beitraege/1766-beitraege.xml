@@ -1330,7 +1330,7 @@
 
 <!-- 63 -->
 <beitrag>
-    <stueck datum="1766" nr="62" von="253" bis="254"/>
+    <stueck datum="1766" nr="63" von="253" bis="254"/>
     <kategorie ref="aufsatz"></kategorie>
     <titel>Wie viel Einfluß die Tonkunst auf die Tugend habe?</titel>
     <anmerkung>Unterzeichnet „Rs.“</anmerkung>
@@ -1347,14 +1347,15 @@
 <!-- 64 -->
 <beitrag>
     <stueck datum="1766" nr="64" von="257" bis="258"/>
-    <werk kat="rezension" ref="englische-greis"></werk> <!-- Ref-Titel neu formulieren? -->
+    <werk kat="rezension" ref="kritzinger-englische-greis" s="Bd. 4–9" /> 
     <ort ref="hamburg"/> 
     <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="64" von="258" bis="259"/>
-    <kategorie ref="aufsatz"></kategorie>
-    <titel>Heilmittel von Sulzer wider den Krebs.</titel>
+    <kategorie ref="gelehrte-nachrichten"></kategorie>
+    <titel>Nachricht.</titel>
+    <anmerkung>Über ein Heilmittel von Sulzer gegen Krebs.</anmerkung>
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="64" von="259"/>
@@ -1377,7 +1378,7 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="65" von="262"/>
-    <werk kat="rezension" ref="bensperg-beste-moralische-abhandlungen"></werk>
+    <werk kat="rezension" ref="bensperg-patriot4"></werk>
     <ort ref="lindau"/> 
     <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag>
@@ -1388,7 +1389,12 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="65" von="262" bis="268"/>
-   <kategorie ref="weltnachrichten" /> <!-- Diese Weltnachrichten enthalten ein Edict von S. 267-268. Benötigt es einen seperaten Beitrag?-->
+   <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="65" von="267" bis="268"/>
+   <kategorie ref="proklamation" />
+   <titel>Edict wegen völliger Uebernehmung und Versicherung des Einsatzes sämtlicher Interessenten der General-Tobackspacht. De dato Berlin, den 11ten Julli 1766, gez. Friedrich.</titel>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="65" von="268"/>
@@ -1416,13 +1422,7 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="67" von="274"/>
-    <werk kat="rezension" ref="abbt-christ-herzliche-danksagung"></werk>
-    <ort ref="berlin"/> 
-    <ort ref="goettingen"/> 
-    <ort ref="altona"/>
-    <ort ref="helmstedt"/> 
-    <ort ref="halle"/> 
-    <ort ref="leipzig"/> 
+    <werk kat="rezension" ref="christ-herzliche-danksagung"></werk>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="67" von="274" bis="275"/>
@@ -1459,7 +1459,7 @@
     <stueck datum="1766" nr="69" von="281" bis="282"/>
     <stueck datum="1766" nr="70" von="285" bis="287"/>
     <werk kat="rezension" ref="webb-untersuchung-des-schoenen"></werk>
-    <ort ref="zuerich"/> 
+    <ort ref="zuerich"/>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="69" von="283" bis="284"/>
