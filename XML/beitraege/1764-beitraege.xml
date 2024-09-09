@@ -82,6 +82,7 @@
         <stueck datum="1764" nr="1" von="4" />
         <kategorie ref="wechselkurse" />
     </beitrag>
+
     <beitrag>
         <stueck datum="1764" nr="2" von="5" bis="6" />
         <werk ref="philippi-briefe" kat="rezension" />
@@ -152,7 +153,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="5" von="13" bis="14" />
+        <stueck datum="1764" nr="5" von="18" bis="19" />
         <werk ref="pitt-staatsverwaltung" kat="rezension" />
         <ort ref="berlin" />
     </beitrag>
@@ -170,7 +171,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="6" von="20" bis="21" />
+        <stueck datum="1764" nr="6" von="21" bis="22" />
         <kategorie ref="gedicht" />
         <werk ref="ramler-hymen" kat="auszug" />
         <werk ref="ramler-hymen" kat="kommentar" />
@@ -658,21 +659,6 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="30" von="117" bis="118" />
-        <werk ref="willamovius-dithyramben" kat="rezension" />
-        <akteur ref="herder">HBGA, I 28</akteur>
-        <ort ref="kgsb" />
-    </beitrag>
-    <beitrag>
-        <stueck datum="1764" nr="30" von="119" bis="120" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck datum="1764" nr="30" von="120" />
-        <kategorie ref="buecher" />
-    </beitrag>
-
-    <beitrag>
         <stueck datum="1764" nr="31" von="121" bis="122" />
         <kategorie ref="panegyrik" />
         <werk ref="lauson-paean" kat="kommentar" />
@@ -694,7 +680,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="32" von="125" bis="123" />
+        <stueck datum="1764" nr="32" von="125" bis="126" />
         <werk ref="montfaucon-gabalis" kat="rezension" />
         <akteur ref="hamann" unsicher="true">ZH II, 253</akteur>
         <ort ref="berlin" />
@@ -711,7 +697,7 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="32" von="124" />
+        <stueck datum="1764" nr="32" von="128" />
         <kategorie ref="wechselkurse" />
         <anmerkung>Tabelle, wornach die Zahlungen nach Verschiedenheit der bisherigen Münz-Sorten
             vom 1ten Junii 1764 an in dem jetzt nach wieder hergestellten Münz-Fuß geprägtem Gold-
@@ -725,6 +711,10 @@
     <beitrag>
         <stueck datum="1764" nr="33" von="132" />
         <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1764" nr="33" von="132" />
+        <kategorie ref="wechselkurse" />
     </beitrag>
 
     <beitrag>
@@ -895,7 +885,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="41" von="162" bis="163" />
+        <stueck datum="1764" nr="41" von="161" bis="162" />
         <kategorie ref="kommentar" />
         <kategorie ref="gedicht" />
         <incipit>Iam calor increscit, prouectior aestuat annus</incipit>
@@ -936,7 +926,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="43" von="168" />
+        <stueck datum="1764" nr="43" von="169" />
         <kategorie ref="gelehrte-nachrichten" />
         <ort ref="kgsb" />
         <anmerkung>Bericht über Veröffentlichungen der Königsberger Akademie</anmerkung>
@@ -1023,12 +1013,12 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="47" von="184" />
+        <stueck datum="1764" nr="47" von="185" />
         <werk ref="magazin-historique" kat="rezension" />
         <ort ref="strassburg" />
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="47" von="184" />
+        <stueck datum="1764" nr="47" von="185" />
         <werk ref="darjes-einleitung" kat="rezension" />
         <ort ref="jena" />
     </beitrag>
