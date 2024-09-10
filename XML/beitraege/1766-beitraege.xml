@@ -1519,7 +1519,7 @@
 <!-- 73 -->
 <beitrag>
     <stueck datum="1766" nr="73" von="297" bis="299"/>
-    <werk kat="rezension" ref="dusch-poetische-werke"></werk>
+    <werk kat="rezension" ref="dusch-poetische-werke1"></werk>
     <ort ref="altona"/> 
 </beitrag>
 <beitrag>
@@ -1553,7 +1553,7 @@
 <beitrag>
     <stueck datum="1766" nr="74" von="303" />
     <kategorie ref="gelehrte-nachrichten" />
-    <anmerkung>Nachricht über geplanten Nachstich der Porträts von Mitgliedern der Familie Calas (durch den Kupferstecher Matthäus Deisch).</anmerkung>
+    <anmerkung>Nachricht über einen geplanten Nachstich der Porträts von Mitgliedern der Familie Calas (durch den Kupferstecher Matthäus Deisch).</anmerkung>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="74" von="303" bis="305"/>
@@ -1566,7 +1566,8 @@
 <beitrag>
     <stueck datum="1766" nr="74" von="305" bis="308"/>
     <kategorie ref="lokalnachrichten" />
-    <anmerkung>Neuer Plan zur Fortsetzung der König. Preuß. Zahlenlotterie.</anmerkung>
+    <kategorie ref="lotterie"></kategorie>
+    <titel>Neuer Plan zur Fortsetzung der Königl. Preuß. Zahlenlotterie.</titel>
 </beitrag>
 
 <!-- 75 -->
@@ -1575,13 +1576,13 @@
     <werk kat="rezension" ref="gerard-versuch-geschmack"></werk>
     <ort ref="breslau"/> 
     <ort ref="leipzig"/> 
-    <akteur ref="scheffner"></akteur>
+    <akteur ref="scheffner">vgl. Warda/Diesch I, S. 260</akteur>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="75" von="310" bis="311"/> 
     <werk kat="rezension" ref="arnaud-amans-malheureux"></werk>
     <ort ref="den-haag"/> 
-    <akteur ref="scheffner"></akteur>
+    <akteur ref="scheffner">vgl. Warda/Diesch I, S. 260</akteur>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="75" von="311" bis="312"/>
@@ -1611,12 +1612,12 @@
 <!-- 77 -->
 <beitrag>
     <stueck datum="1766" nr="77" von="317" bis="317"/> 
-    <werk kat="rezension" ref="ramler-gedicht"></werk>
-    <akteur ref="scheffner"></akteur>
+    <werk kat="rezension" ref="ramler-gedichte"></werk>
+    <akteur ref="scheffner" unsicher="true">Warda/Diesch I, S. 272</akteur>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="77" von="317" bis="319"/> 
-    <werk kat="rezension" ref="meier-philosophische-betrachtungen"></werk>
+    <werk kat="rezension" ref="meier-philosophische-betrachtungen7"></werk>
     <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag>
 <beitrag>
@@ -1681,9 +1682,9 @@
 <!-- 80 -->
 <beitrag>
     <stueck datum="1766" nr="80" von="329"/>
-    <kategorie ref="anzeige" />
+    <kategorie ref="gelehrte-nachrichten" />
     <ort ref="kgsb"/>
-    <anmerkung>Übernahme des Rektorats durch D. Arnold.</anmerkung>
+    <anmerkung>Übernahme des Rektorats der Albertina durch D. Arnold.</anmerkung>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="80" von="329" bis="330"/> 
@@ -1692,13 +1693,11 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="80" von="330" bis="331"/>
-    <kategorie ref="auszug"/>
-    <titel>Miscellanies in Prose and Verse.</titel>
-    <akteur ref="williams-a"></akteur>
+    <werk kat="uebersetzung" ref="williams-miscellanies"></werk>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="80" von="331" bis="332"/>
-   <kategorie ref="weltnachrichten" /> 
+   <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="80" von="332"/>
