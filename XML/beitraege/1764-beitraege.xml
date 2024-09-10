@@ -1095,8 +1095,8 @@
     <beitrag>
         <stueck datum="1764" nr="50" von="197" bis="199" />
         <stueck datum="1764" nr="51" von="201" bis="202" />
-        <titel>Von der Art, wie die Schalen der Schnecken entstehen.</titel>
-        <anmerkung>Aus dem Universalmagazin, Juli 1756, S.&#x202F;13.</anmerkung>
+        <titel>Von der Art, wie die Schalen der Schnecken entstehen. (Univ. Magaz. 1756. Iulii p. 13)</titel>
+        <werk kat="uebersetzung" ref="universal-magazine-july1756"></werk>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="50" von="199" bis="200" />
@@ -1262,8 +1262,7 @@
     <beitrag>
         <stueck datum="1764" nr="57" von="225" bis="226" />
         <titel>Was sind Korallen?</titel>
-        <werk ref="london-magazine1758" s="S. 448" kat="uebersetzung" />
-        <akteur ref="trembley-a" />
+        <werk ref="london-magazine1758" kat="uebersetzung" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="57" von="226" />
@@ -1636,8 +1635,9 @@
 
 
     <beitrag>
-        <stueck datum="1764" nr="69" von="277" />
+        <stueck datum="1764" nr="70" von="277" />
         <kategorie ref="gelehrte-nachrichten" />
+        <ort ref="kgsb"></ort>
         <anmerkung>Über Feierlichkeiten der Albertina im September 1764</anmerkung>
     </beitrag>
     <beitrag>
@@ -1646,13 +1646,13 @@
         <ort ref="celle" />
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="70" von="274" />
+        <stueck datum="1764" nr="70" von="278" />
         <werk kat="rezension" ref="schubert-jugend" />
         <ort ref="helmstedt" />
         <ort ref="halle" />
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="70" von="274" bis="279" />
+        <stueck datum="1764" nr="70" von="278" bis="279" />
         <werk kat="rezension" ref="arrian-hannon" />
         <ort ref="braunschweig" />
         <ort ref="wolfenbuettel" />
@@ -1736,7 +1736,7 @@
         <kategorie ref="buecher" />
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="74" von="292" />
+        <stueck datum="1764" nr="73" von="292" />
         <kategorie ref="lokalnachrichten" />
     </beitrag>
     <beitrag>
@@ -1745,7 +1745,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="74" von="294" />
+        <stueck datum="1764" nr="74" von="293" />
         <werk kat="rezension" ref="zueckert-reisebeschreibungen2" />
         <ort ref="berlin" />
     </beitrag>
@@ -1766,7 +1766,7 @@
 
     <beitrag id="hahn-evrement">
         <stueck datum="1764" nr="75" von="297" bis="299" />
-        <stueck datum="1764" nr="76" von="302" bis="302" />
+        <stueck datum="1764" nr="76" von="301" bis="302" />
         <werk kat="uebersetzung" ref="evrement-liebe" />
         <akteur ref="hahn-ecb" unsicher="true">Von Kanter nur als eine „preußische Schöne“ bezeichnet.</akteur>
     </beitrag>
@@ -1776,7 +1776,6 @@
         <stueck datum="1764" nr="76" von="302" />
         <beitrag kat="kommentar" ref="hahn-evrement"></beitrag>
         <akteur ref="kanter" />
-        <werk kat="uebersetzung" ref="evrement-liebe" />
     </beitrag>
 
     <beitrag>
@@ -1802,8 +1801,8 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="77" von="305" bis="307" />
-        <stueck datum="1764" nr="78" von="309" bis="311" />
+        <stueck datum="1764" nr="77" von="305" bis="306" />
+        <stueck datum="1764" nr="78" von="309" bis="310" />
         <kategorie ref="aufsatz" />
         <kategorie ref="uebersetzung" />
         <titel>Von der Eitelkeit der Gelehrten. Aus dem Französischen.</titel>
@@ -1851,16 +1850,15 @@
     <beitrag>
         <stueck datum="1764" nr="79" von="314" bis="315" />
         <stueck datum="1764" nr="81" von="321" bis="322" />
-        <titel>Brief an den Verfasser der Abhandlung vom Tanze.</titel>
-        <beitrag kat="replik" ref="abhandlung-tanz"></beitrag>
-        <anmerkung>Überschrift: Der folgende Brief an den Verfasser des 72sten Stücks unserer
+        <titel>Überschrift: Der folgende Brief an den Verfasser des 72sten Stücks unserer
             Zeitung, welches eine Abhandlung vom Tanze in sich begreift, ist uns von einer
             unbekannten Hand eingesendet worden; wir hoffen dadurch wenigstens einigen von unsern
-            Lesern gefällig zu werden.</anmerkung>
+            Lesern gefällig zu werden.</titel>
+        <beitrag kat="replik" ref="abhandlung-tanz"></beitrag>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1764" nr="79" von="310" bis="311" />
+        <stueck datum="1764" nr="79" von="313" bis="314" />
         <werk kat="rezension" ref="chrysostomus-sorgfalt" />
         <ort ref="berlin" />
     </beitrag>
@@ -2202,33 +2200,31 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="91" von="368" />
+        <stueck datum="1764" nr="92" von="368" />
         <kategorie ref="buecher" />
     </beitrag>
 
     <beitrag>
         <stueck datum="1764" nr="93" von="369" bis="370" />
         <kategorie ref="gedicht"></kategorie>
-        <incipit>Floruit, incaluit, fructu maturuit annus</incipit>
+        <incipit>Floruit, incaluit, fructu maturuit annus…</incipit>
         <akteur ref="werner-jg"></akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="93" von="370" />
         <kategorie ref="brief"></kategorie>
-        <incipit>Quem iudicem non feuerum mihi expetieram</incipit>
+        <incipit>Quem iudicem non feuerum mihi expetieram…</incipit>
         <akteur ref="werner-jg"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="93" von="369" bis="370" />
+        <stueck datum="1764" nr="93" von="370" />
         <kategorie ref="gedicht"></kategorie>
         <titel>Der Abend.</titel>
         <akteur ref="werner-jg"></akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="93" von="370" bis="371" />
-        <kategorie ref="aufsatz"></kategorie>
-        <incipit>Wir hoffen unsern Lesern ein wahres Vergnügen zu machen</incipit>
-        <anmerkung>Johann Gottfried von Werners</anmerkung>
+        <akteur ref="werner-jg" kat="nachruf" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="93" von="371" bis="372" />
@@ -2262,7 +2258,7 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
-        <stueck datum="1764" nr="93" von="376" />
+        <stueck datum="1764" nr="94" von="376" />
         <kategorie ref="lokalanzeigen" />
         <anmerkung>Für den englischen Pferdearzt Robertson in der vordersten Vorstadt.</anmerkung>
     </beitrag>
