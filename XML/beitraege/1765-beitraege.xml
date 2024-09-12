@@ -80,7 +80,7 @@
         <stueck datum="1765" nr="3" von="9" bis="11"/>
         <kategorie ref="brief"/>
         <titel>Schreiben eines englischen jungen Geistlichen an einen deutschen Gelehrten. Aus dem Englischen übersetzt. London, den 9. März, 1764.</titel>
-        <anmerkung>Unterzeichnet mit N. N.</anmerkung>
+        <anmerkung>Unterzeichnet „N. N.“</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="3" von="11" bis="12"/>
@@ -228,7 +228,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="8" von="32"/>
-        <kategorie ref="anzeige"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
 
@@ -249,7 +249,7 @@
         <stueck datum="1765" nr="10" von="38" bis="39"/>
         <stueck datum="1765" nr="11" von="41" bis="43"/>
         <kategorie ref="erzaehlung"/>
-        <titel>Der unglückliche Menschenfreund</titel>
+        <titel>Der unglückliche Menschenfreund.</titel>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="9" von="35" bis="36"/>
@@ -274,10 +274,6 @@
     <beitrag>
         <stueck datum="1765" nr="10" von="39" bis="40"/>
         <kategorie ref="weltnachrichten"/>
-    </beitrag>
-    <beitrag>
-        <stueck datum="1765" nr="10" von="40"/>
-        <kategorie ref="anzeige"/>
     </beitrag>
 
     <!-- 11 -->
@@ -304,7 +300,7 @@
     <beitrag>
         <stueck datum="1765" nr="12" von="46"/>
         <kategorie ref="gedicht"/>
-        <titel>Begeisterung für die Wahrheit</titel>
+        <titel>Begeisterung für die Wahrheit.</titel>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="12" von="46" bis="48"/>
@@ -519,11 +515,6 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="21" von="84"/>
-        <kategorie ref="ineigenersache"/>
-        <anmerkung>Mahnung für säumige Pränumeranten</anmerkung>
-    </beitrag>
-    <beitrag>
-        <stueck datum="1765" nr="21" von="84"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -593,11 +584,6 @@
     <beitrag>
         <stueck datum="1765" nr="24" von="93" bis="95"/>
         <werk ref="gottsched-nachricht" kat="auszug" />
-    </beitrag>
-    <beitrag>
-        <stueck datum="1765" nr="24" von="95"/>
-        <kategorie ref="ineigenersache"/>
-        <anmerkung>Corrigendum zu KGPZ, St. 23, 22.03.1765, S. 89</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="24" von="95" bis="96"/>
@@ -690,9 +676,9 @@
     <beitrag>
         <stueck datum="1765" nr="28" von="113" bis="114"/>
         <kategorie ref="gedicht"/>
-        <kategorie ref="buecher"/> <!-- oder: kat. anzeige? -->
         <titel>Fürbitte für Sterbende. Von Klopstock. Mel. Mitten wir im Leben sind.</titel>
-        <anmerkung>Anzeige der Kanterschen Buchhandlung für eine Sammlung neuer geistlicher Lieder.</anmerkung>
+        <werk kat="auszug" ref="klopstock-neue-geistliche-lieder" s="S. 112"></werk>
+        <werk kat="anzeige" ref="klopstock-neue-geistliche-lieder"></werk>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="28" von="114" bis="115"/>
@@ -724,11 +710,6 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="29" von="120"/>
-        <kategorie ref="ineigenersache"/>
-        <anmerkung>Mahnung für säumige Pränumeranten</anmerkung>
-    </beitrag>
-    <beitrag>
-        <stueck datum="1765" nr="29" von="120"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
@@ -736,21 +717,17 @@
     <beitrag>
         <stueck datum="1765" nr="30" von="121" bis="123"/>
         <kategorie ref="erzaehlung"/>
-        <titel>Görgens glückliche Dummheit. Eine Erzählung.</titel>
+        <titel>Görgens glückliche Dummheit. Eine Erzehlung.</titel>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="30" von="123"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <ort ref="kgsb"/>
-        <anmerkung>Ernennung D. Joh. Ludwig L’Estocqs zum Rektor an der Juristen-Facultät der Königsberger Akademie</anmerkung>
+        <anmerkung>Ernennung Johann Ludwig L’Estocqs zum Rektor an der Juristen-Facultät der Königsberger Akademie</anmerkung>
      </beitrag>
      <beitrag>
         <stueck datum="1765" nr="30" von="123" bis="124"/>
         <kategorie ref="weltnachrichten"/>
-    </beitrag>
-    <beitrag>
-        <stueck datum="1765" nr="30" von="123" bis="124"/>
-        <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="30" von="123" bis="124"/>
@@ -762,7 +739,47 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="30" von="124"/>
-        <kategorie ref="anzeige"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="31" von="125" bis="126"/>
+        <werk ref="wulff-flora" kat="rezension" />
+        <ort ref="kgsb"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="31" von="127" bis="128"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="31" von="128"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="32" von="129" bis="130"/>
+        <werk ref="unterredungen-zwischen-alten-jungen-prediger" kat="rezension" />
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="32" von="130"/>
+        <werk ref="rechtschaffene-satyrisch" kat="rezension" />
+        <ort ref="lindau"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="32" von="130" bis="131"/>
+        <werk ref="maria-geschichte-angesehenes-frauenzimmer" kat="rezension" />
+        <ort ref="leipzig"/>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="32" von="131" bis="132"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="32" von="132"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
 
 </beitraege>
