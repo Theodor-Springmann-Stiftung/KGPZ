@@ -813,5 +813,51 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
+    <beitrag>
+        <stueck datum="1765" nr="34" von="137" bis="138"/>
+        <werk ref="winckelmann-nachrichten-herculanisch" kat="rezension" />
+        <ort ref="dresden"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="34" von="138"/>
+        <werk ref="voltaire-frau-recht" kat="rezension" />
+        <ort ref="berlin"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="34" von="139"/>
+        <werk ref="meier-sendschreiben-langen" kat="rezension" />
+        <ort ref="halle"/>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="34" von="139" bis="140"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="34" von="140"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="35" von="141" bis="142"/>
+        <kategorie ref="gedicht"/>
+        <titel>Der May. Eine musikalische Idylle.</titel>
+        <werk kat="auszug" ref="ramler-"></werk>
+        <werk kat="kommentar" ref="ramler-"></werk>        
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="35" von="142" bis="143"/>
+        <stueck datum="1765" nr="36" von="145" bis="146"/>
+        <werk ref="meier-philosophische-betrachtungen" kat="rezension"  s="St. 5" />
+        <ort ref="halle"></ort>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="35" von="143" bis="144"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="35" von="144"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
 
 </beitraege>

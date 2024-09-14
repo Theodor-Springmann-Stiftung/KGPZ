@@ -1770,9 +1770,10 @@
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001951A00000000">Stabi Berlin</url>
     </werk>
 
-    <werk id="meier-philosophische-betrachtungen7">
+    <werk id="meier-philosophische-betrachtungen">
         <akteur ref="meier-gf"></akteur>
-        <zitation>Georg Friedrich Meiers philosophische Betrachtungen über die chrißtliche Religion. 7. Stück (Halle 1766).</zitation>
+        <zitation>Georg Friedrich Meiers philosophische Betrachtungen über die christliche Religion (8 Bde., Halle: Gebauer 1761–1767).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB00023EFB00000000">Stabi Berlin</url>
     </werk>
 
     <werk id="gedichte-jungesfrauenzimmer">
@@ -3957,6 +3958,24 @@
     <werk id="serena-bürgerliches">
         <zitation>Serena ein bürgerliches Trauerspiel in Prose von einem Aufzuge. Nebst einem Vorspiel. Aus dem Französischen übersetzt (Frankfurt, Leipzig: Garbe 1764).</zitation>
         <url address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10097980-3" >BSB München</url>
+    </werk>
+
+    <werk id="winckelmann-nachrichten-herculanisch">
+        <akteur ref="winckelmann" />
+        <zitation>Johann Winckelmanns Nachrichten von den neuesten Herculanischen Entdeckungen An Hn. Heinrich Fueßli aus Zürich (Dresden Walther 1764).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN601127544" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="voltaire-frau-recht">
+        <akteur ref="volatire"></akteur>
+        <zitation>Die Frau welche Recht hat. Ein Lustspiel in drey Aufzügen aus dem Französischen des Herrn von Voltaire (Berlin: Pauli 1764).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN857555510" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="meier-sendschreiben-langen">
+        <akteur ref="meier-gf" />
+        <zitation>Sendschreiben an Herrn Inspector und Prediger Samuel Gotthold Langen wegen des Absterbens seiner Ehegattin von George Friedrich Meier (Halle: Hemmerde 1764).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB00014CF000000000" >Stabi Berlin</url>
     </werk>
 	
 	
