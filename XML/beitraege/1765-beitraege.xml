@@ -113,7 +113,7 @@
      </beitrag>
      <beitrag>
         <stueck datum="1765" nr="4" von="14" bis="15"/>
-        <werk ref="mortimer-plutarch" kat="rezension"/>
+        <werk ref="mortimer-plutarch" kat="rezension" s="Bd. 1" />
         <ort ref="leipzig"/>
         <ort ref="zuellichau"></ort>
      </beitrag>
@@ -779,6 +779,38 @@
     <beitrag>
         <stueck datum="1765" nr="32" von="132"/>
         <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="33" von="133"/>
+        <kategorie ref="gedicht"/>
+        <titel>An die Büchermotten.</titel>
+        <akteur ref="wolson-jc">vgl. Joseph Kohnen: Lyrik in Königsberg (Frankfurt am Main u.a. 2000), S. 33</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="33" von="134"/>
+        <werk ref="mortimer-plutarch" kat="rezension" s="Bd. 2" />
+        <ort ref="leipzig"/>
+        <ort ref="zuellichau"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="33" von="134"/>
+        <werk ref="spalding-berlinische-antrittspredigt" kat="rezension" />
+        <ort ref="berlin"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="33" von="134" bis="135"/>
+        <werk ref="serena-bürgerliches" kat="rezension" />
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="33" von="135" bis="136"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="33" von="136"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 
