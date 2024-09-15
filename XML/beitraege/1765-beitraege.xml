@@ -838,11 +838,13 @@
     </beitrag>
 
     <beitrag>
+        <stueck datum="1765" nr="35" von="141"/>
+        <werk kat="kommentar" ref="ramler-may"></werk>        
+    </beitrag>
+    <beitrag id="ramler-may">
         <stueck datum="1765" nr="35" von="141" bis="142"/>
         <kategorie ref="gedicht"/>
-        <titel>Der May. Eine musikalische Idylle.</titel>
-        <werk kat="auszug" ref="ramler-"></werk>
-        <werk kat="kommentar" ref="ramler-"></werk>        
+        <titel>Der May. Eine musikalische Idylle.</titel>     
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="35" von="142" bis="143"/>
@@ -857,6 +859,106 @@
     <beitrag>
         <stueck datum="1765" nr="35" von="144"/>
         <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="36" von="145" bis="146"/>
+        <werk ref="wilhelmine-vermaehlte-pedant" kat="rezension" />
+        <akteur ref="scheffner"></akteur>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="36" von="147" bis="148"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="36" von="148"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="37" von="149" bis="150"/>
+        <stueck datum="1765" nr="38" von="153" bis="154"/>
+        <kategorie ref="aufsatz"></kategorie>
+        <titel>Vom Verstande zur Gesellschaft.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="37" von="150" bis="151"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="kgsb"></ort>
+        <anmerkung>Über die Verteidigung von Daniel Andreas Zernecke</anmerkung>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="37" von="151" bis="152"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="37" von="152"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="38" von="154"/>
+        <werk ref="braeutigam-ohne-braut-chezill" kat="rezension" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="38" von="154" bis="155"/>
+        <werk ref="bernhardi-versuche-singen" kat="rezension" />
+        <ort ref="magdeburg"></ort>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="38" von="155" bis="156"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="38" von="156"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="39" von="157"/>
+        <kategorie ref="gedicht"></kategorie>
+        <titel>Bey Ueberreichung eines Glases Burgunder.</titel>
+        <akteur ref="wolson-jc"></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="39" von="158" bis="159"/>
+        <werk ref="bieler-fuenf-vorschlaege" kat="rezension" />
+        <ort ref="dresden"></ort>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="39" von="159" bis="160"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="39" von="160"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="40" von="161" bis="162"/>
+        <kategorie ref="gedicht"></kategorie>
+        <titel>Lied an mein Mädchen.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="40" von="162"/>
+        <werk ref="riccoboni-jenny" kat="rezension" />
+        <ort ref="dresden"></ort>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="40" von="158" bis="162"/>
+        <kategorie ref="lokalanzeige"></kategorie>
+        <titel>Nachricht.</titel>
+        <anmerkung>Für die Eröffnung einer Leihbibliothek in Königsberg</anmerkung>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="40" von="163" bis="164"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="40" von="164"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
 
