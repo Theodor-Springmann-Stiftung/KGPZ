@@ -839,7 +839,7 @@
 
     <beitrag>
         <stueck datum="1765" nr="35" von="141"/>
-        <werk kat="kommentar" ref="ramler-may"></werk>        
+        <beitrag ref="ramler-may" kat="kommentar" />   
     </beitrag>
     <beitrag id="ramler-may">
         <stueck datum="1765" nr="35" von="141" bis="142"/>
@@ -948,7 +948,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="40" von="158" bis="162"/>
-        <kategorie ref="lokalanzeige"></kategorie>
+        <kategorie ref="lokalanzeigen"></kategorie>
         <titel>Nachricht.</titel>
         <anmerkung>Für die Eröffnung einer Leihbibliothek in Königsberg</anmerkung>
     </beitrag>
@@ -958,6 +958,40 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="40" von="164"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="41" von="165" bis="167"/>
+        <werk ref="baumgarten-drontheim" kat="rezension" />
+        <ort ref="leipzig"></ort>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="41" von="167" bis="168"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="41" von="168"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="42" von="169" bis="170"/>
+        <kategorie ref="aufsatz"/>
+        <titel>Eine Anecdote von preußischen Bergwerken.</titel>
+        <akteur ref="korthold-hc" unsicher="true"></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="42" von="170"/>
+        <werk ref="willamov-programma" kat="rezension" />
+        <ort ref="kgsb"></ort>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="42" von="171" bis="172"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="42" von="172"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
