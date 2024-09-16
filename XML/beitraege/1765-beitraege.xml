@@ -576,7 +576,7 @@
     </beitrag>
     
     <!-- 24 -->
-    <beitrag>
+    <beitrag id="preisaufgabe-rindviehseuche" >
         <stueck datum="1765" nr="24" von="93"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>Preisaufgabe der königlichen Kriegs- und Domainenkammer: Mittel gegen Rindviehseuche.</anmerkung>
@@ -1041,7 +1041,7 @@
 
     <beitrag>
         <stueck datum="1765" nr="45" von="181" bis="182"/>
-        <werk ref="schlegel-predigten" kat="rezension" />
+        <werk ref="schlegel-predigten3" kat="rezension" />
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
@@ -1089,6 +1089,188 @@
         <stueck datum="1765" nr="46" von="188"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
+
+    <beitrag id="preisaufgabe-rindviehseuche2">
+        <stueck datum="1765" nr="47" von="190" bis="191"/>
+        <kategorie ref="aufsatz"></kategorie>
+        <werk kat="replik" ref="preisaufgabe-rindviehseuche"></werk>
+        <ort ref="kgsb"></ort>
+        <anmerkung>Aufsatz eines Bauern über die Viehseuche, um die Beantwortung des Preisausschreibens zu erleichtern.</anmerkung>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="47" von="191" bis="192"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="47" von="192"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1765" nr="48" von="196"/>
+        <kategorie ref="gedicht"/>
+        <titel>An die Natur im Frühling 1765.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="48" von="186" bis="187"/>
+        <werk ref="lavater-zweybriefe" kat="rezension" />
+        <ort ref="breslau"></ort>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+    <stueck datum="1765" nr="48" von="186" bis="187"/>
+    <werk ref="breitenbauch-juedische" kat="rezension" />
+    <ort ref="altenburg"></ort>
+</beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="48" von="195" bis="196"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="48" von="196"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="49" von="197" bis="198"/>
+        <werk ref="miller-vollstaendiger-auszug" kat="rezension" />
+        <ort ref="halle"></ort>
+        <ort ref="helmstedt"></ort>
+    </beitrag>
+    <beitrag id="preisaufgabe-rindviehseuche3">
+        <stueck datum="1765" nr="49" von="198" bis="199"/>
+        <stueck datum="1765" nr="50" von="202"/>
+        <stueck datum="1765" nr="51" von="206" bis="207"/>
+        <kategorie ref="aufsatz"></kategorie>
+        <titel>Beschreibung eines Graßgeschlechtes, von dem ein Anonymus vermuthet, daß es die Rindviehseuche verursachet.</titel>
+        <werk kat="replik" ref="preisaufgabe-rindviehseuche2"></werk>
+        <anmerkung>Gelehrter Zusatz über die Grassorte, die in dem vorherigen Aufsatz unbekannt war.</anmerkung>
+    </beitrag>
+<beitrag>
+    <stueck datum="1765" nr="49" von="199"/>
+    <kategorie ref="gedicht"/>
+    <titel>Der Teufel ein Mäcen.</titel>
+</beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="49" von="199" bis="200"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="49" von="200"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="49" von="200"/>
+        <kategorie ref="lokalanzeigen"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="49" von="200"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="50" von="201" bis="202"/>
+        <werk ref="hurd-nutzen" kat="rezension" />
+        <ort ref="breslau"></ort>
+    </beitrag>
+         <beitrag>
+            <stueck datum="1765" nr="50" von="203" bis="204"/>
+            <kategorie ref="weltnachrichten"/>
+        </beitrag>
+        <beitrag>
+            <stueck datum="1765" nr="50" von="204"/>
+            <kategorie ref="buecher"/>
+        </beitrag>
+        <beitrag>
+            <stueck datum="1765" nr="50" von="204"/>
+            <kategorie ref="einkommende-fremde"/>
+        </beitrag>
+
+        <beitrag>
+            <beilage datum="1765" nr="50" von="1" bis="3"/>
+            <kategorie ref="notenblatt"/>
+            <titel>Die männliche Treue.</titel>
+        </beitrag>
+
+        <beitrag>
+            <stueck datum="1765" nr="51" von="205" bis="206"/>
+            <werk ref="abhandlungen-naturforschende-gesellschaft2" kat="rezension" />
+            <ort ref="zuerich"></ort>
+        </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="51" von="206"/>
+        <werk ref="schreber-anweisung-flugsand" kat="rezension" />
+        <ort ref="leipzig"></ort>
+    </beitrag>
+             <beitrag>
+                <stueck datum="1765" nr="51" von="207" bis="208"/>
+                <kategorie ref="weltnachrichten"/>
+            </beitrag>
+            <beitrag>
+                <stueck datum="1765" nr="51" von="208"/>
+                <kategorie ref="buecher"/>
+            </beitrag>
+            <beitrag>
+                <stueck datum="1765" nr="51" von="208"/>
+                <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="52" von="209" bis="210"/>
+        <kategorie ref="ineigenersache"></kategorie>
+        <titel>Nachricht an die Leser dieser Zeitung</titel>
+        <anmerkung>Über ungebetenes Erraten der Autoren der gelehrten Artikel.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="52" von="210" bis="211"/>
+        <stueck datum="1765" nr="53" von="214" bis="215"/>
+        <werk ref="willamovius-dialogische-fabeln" kat="rezension" />
+        <ort ref="berlin"></ort>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="52" von="211" bis="212"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+       <stueck datum="1765" nr="52" von="212"/>
+       <kategorie ref="buecher"/>
+   </beitrag>
+   <beitrag>
+      <stueck datum="1765" nr="52" von="212"/>
+      <kategorie ref="lokalanzeigen"/>
+  </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="52" von="212"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="53" von="213" bis="214"/>
+        <werk ref="prevost-tableau" kat="rezension" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="53" von="214"/>
+        <werk ref="jacobi-messkunst" kat="rezension" />
+        <ort ref="gotha"></ort>
+    </beitrag>
+     <beitrag>
+        <stueck datum="1765" nr="53" von="215" bis="216"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+       <stueck datum="1765" nr="53" von="216"/>
+       <kategorie ref="buecher"/>
+   </beitrag>
+   <beitrag>
+      <stueck datum="1765" nr="53" von="216"/>
+      <kategorie ref="lokalanzeigen"/>
+  </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="53" von="216"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+
 
 
 </beitraege>
