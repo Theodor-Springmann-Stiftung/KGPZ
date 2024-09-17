@@ -429,7 +429,7 @@
     </werk>
 
     <werk id="baumgarten-hebraer">
-        <akteur ref="baumgarten" />
+        <akteur ref="baumgarten-sj" />
         <zitation>Erklärung des Briefes Pauli an die Hebräer mit Andreas Gottlieb Maschens
             Anmerkungen und Paraphrasi, auch Semler’s Beyträgen zu genauerer Einsicht dieses Briefes
             (Halle: Gebauer 1763).</zitation>
@@ -1799,9 +1799,9 @@
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000AB9100000000">Stabi Berlin</url>
     </werk>
 
-    <werk id="richardson-wege-der-tugend-2">
+    <werk id="richardson-wege-der-tugend">
         <akteur ref="richardson-s"></akteur>
-        <zitation>Die Wege der Tugend oder die Geschichte der berühmten Pamela, der Klarissa Harlowe und des Ritters Karl Grandisons im Kleinen entworfen. Aus dem Englischen übersetzt. 2. Teil (Altenburg: Richter 1765).</zitation>
+        <zitation>Die Wege der Tugend oder die Geschichte der berühmten Pamela, der Klarissa Harlowe und des Ritters Karl Grandisons im Kleinen entworfen. Aus dem Englischen übersetzt (Altenburg: Richter 1765).</zitation>
         <url address="https://books.google.de/books?id=a32UiQRs-hUC">Teil 1 und 2 (Google Books)</url>
     </werk>
 
@@ -4144,6 +4144,7 @@
 
     <werk id="steffens-clarissa">
         <akteur ref="steffens-jh" />
+        <akteur ref="richardson"></akteur>
         <zitation>Clarissa, ein bürgerliches Trauerspiel, in drei Aufzügen, nach Anleitung der bekanten Geschichte, von J. H. Steffens (Celle: Gsellius 1765).</zitation>
         <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:gbv:18-5-PPN8839080266" >Stabi Hamburg</url>
     </werk>
@@ -4168,6 +4169,26 @@
         <akteur ref="sevigne-m" />
         <zitation>Versuch einer Uebersetzung der Briefe der Marquisin von Sevigne, mit historischen und critischen Erläuterungen von dem Hrn. Mauvillon dem Sohn (Braunschweig, Hildesheim 1765).</zitation>
         <url address="https://books.google.de/books?id=RpxcAAAAcAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="thomas-anakreontische">
+        <akteur ref="thomas-dh" />
+        <zitation>Anakreontische Erzählungen (Rostock, Greifswald: Röse 1765).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN871300699" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="mallet-geschichte">
+        <akteur ref="mallet-ph" />
+        <akteur ref="schuetz-cg"></akteur>
+        <zitation>Geschichte von Dänemark. Aus dem Französischen übersetzt. Mit einer Vorrede Herrn Gottfried Schützens (3 Bde., Rostock, Greifwald: Röse 1765–1779).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10361413-0" >BSB München</url>
+    </werk>
+
+    <werk id="baumgarten-theologische3">
+        <akteur ref="baumgarten-sj" />
+        <akteur ref="semler-js"></akteur>
+        <zitation>Siegmund Jacob Baumgartens Untersuchung Theologischer Streitigkeiten, Bd. 3. Mit einigen Anmerkungen, Vorrede und fortgesetzten Geschichte der christlichen Glaubenslehre hrsg. von Johann Salomo Semler (Halle: Gebauer 1764).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10688496-3" >BSB München</url>
     </werk>
 	
 	
