@@ -1489,7 +1489,7 @@
         <werk ref="mallet-geschichte" s="Bd. 1" kat="rezension" />
         <ort ref="rostock"></ort>
         <ort ref="greifswald"></ort>
-        <akteur ref="herder">HGBA X, 23, 369</akteur>
+        <akteur ref="herder">HGBA X, S. 23</akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="64" von="259" bis="260"/>
@@ -1505,7 +1505,7 @@
         <stueck datum="1765" nr="65" von="261" bis="263"/>
         <werk ref="baumgarten-theologische3" kat="rezension" />
         <ort ref="halle"></ort>
-        <akteur ref="hamann" unsicher="true">ZH II, 292</akteur>
+        <akteur ref="trescho" unsicher="true">Vgl. Semlers Spitze gegen Trescho in der Vorrede und Treschos „Briefe über die neueste theologische Litteratur“</akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="65" von="263" bis="264"/>
@@ -1518,6 +1518,107 @@
     <beitrag>
         <stueck datum="1765" nr="65" von="264"/>
         <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="66" von="265" bis="266"/>
+        <werk ref="muenchhausen-hausvater" s="Bd. 1,2 und 1,3" kat="rezension" />
+        <ort ref="hannover"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="66" von="266" bis="267"/>
+        <werk ref="fragmente-versuche-kleinigkeiten" kat="rezension" />
+        <ort ref="frankfurt"></ort>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="66" von="267" bis="268"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="66" von="268"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="66" von="268"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="67" von="269" bis="271"/>
+        <kategorie ref="gedicht"/>
+        <titel>Eine Wundergeschichte die an den Toiletten, und Schreibtischen nützlich zu lesen seyn wird.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="67" von="271" bis="272"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="67" von="272"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="67" von="272"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+
+    
+    <beitrag>
+        <stueck datum="1765" nr="68" von="273" bis="274"/>
+        <werk ref="formey-entwurf-wissenschaften" s="Bd. 1" kat="rezension" />
+        <ort ref="berlin"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="68" von="274" bis="275"/>
+        <stueck datum="1765" nr="69" von="277" bis="278"/>
+        <stueck datum="1765" nr="70" von="282" bis="283"/>
+        <werk ref="mandeville-freye-gedanken" kat="rezension" />
+        <ort ref="berlin"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="68" von="275" bis="276"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="68" von="276"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="68" von="276"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+ 
+    <beitrag>
+        <stueck datum="1765" nr="69" von="279" bis="280"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="69" von="280"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="69" von="280"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="70" von="281" bis="282"/>
+        <kategorie ref="gedicht"/>
+        <titel>Ptolomäus und Berenice.</titel>
+        <akteur ref="ramler"></akteur>
+        <anmerkung>Aus Anlass der Hochzeit des späteren Friedrich Wilhelm II.; mglw. ein Auszug des gedruckten Liedes <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id4778873920">Berlin 1765</wwwlink> </anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="70" von="283" bis="284"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="70" von="284"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="70" von="284"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
 
