@@ -466,7 +466,7 @@
     </beitrag>
 
     <!-- 20 -->
-    <beitrag>
+    <beitrag id="faulheit-haeuslichkeit">
         <stueck datum="1765" nr="20" von="77" bis="78"/>
         <kategorie ref="ineigenersache"/>
         <incipit>Die Geschicklichkeit und das Genie sind nicht immer mit der Neigung verbunden…</incipit>
@@ -1756,7 +1756,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="76" von="1"/>
+        <beilage datum="1765" nr="76" von="1"/>
         <kategorie ref="notenblatt"></kategorie>
         <titel>Das Kloster.</titel>
     </beitrag>
@@ -1768,7 +1768,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1765" nr="77" von="310" bis="311"/>
-        <werk ref="kritzinger-englische-greis" s="Teil 1" kat="rezension" />
+        <werk ref="kritzinger-englische-greis" s="1. Teil" kat="rezension" />
         <ort ref="hamburg"></ort>
     </beitrag>
     <beitrag>
@@ -1778,6 +1778,189 @@
     <beitrag>
         <stueck datum="1765" nr="77" von="312"/>
         <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="78" von="313" bis="314"/>
+        <kategorie ref="ineigenersache"/>
+        <incipit>Wir erinnern uns einer Pflicht, welcher das Publikum mit Recht entgegensiehet…</incipit>
+        <beitrag kat="replik" ref="faulheit-haeuslichkeit"></beitrag>
+        <anmerkung>Zum Stand der Preisaufgaben über die Mittel gegen Faulheit die Arten der Häuslichkeit; außerdem eine Zurückweisung der Thesen einer einsandten Beantwortung.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="78" von="314" bis="315"/>
+        <kategorie ref="gedicht"/>
+        <titel>An den Horaz.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="78" von="315" bis="316"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="78" von="316"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="79" von="317"/>
+        <werk ref="moser-deutscher-nationalgeist" kat="rezension" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="79" von="318"/>
+        <werk ref="rautenberg-sammlung" kat="rezension" />
+        <ort ref="braunschweig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="79" von="318" bis="319"/>
+        <kategorie ref="anzeige"/>
+        <akteur ref="kanter"></akteur>
+        <anmerkung>Ankündigung der Übersetzung einer „Reisebeschreibung von Kamczatka“</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="79" von="319" bis="320"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="79" von="320"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="80" von="321" bis="322"/>
+        <werk ref="shaw-reisen" kat="rezension" />
+        <ort ref="leipzig"></ort>
+        <akteur ref="herder">SWS I, 81–84</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="80" von="322"/>
+        <kategorie ref="anzeige"/>
+        <anmerkung>Anzeige für Französischkurse von Herrn Fort, des Predigers der königsberger französischen Gemeinde.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="80" von="323" bis="324"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="80" von="324"/>
+        <kategorie ref="lokalnachrichten"/>
+        <anmerkung>Festsetzung der Tabackspreise durch die Königlich Preußische General Direction der Tobacks-Verpackungs-Compagnie</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="80" von="324"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    
+    <beitrag>
+        <stueck datum="1765" nr="81" von="325" bis="326"/>
+        <kategorie ref="gedicht"/>
+        <incipit>Die unsre Mutter ist…</incipit>
+        <ort ref="riga"></ort>
+        <akteur ref="herder"></akteur>
+        <anmerkung>Ode auf das Kronjubiläum Katharinas II. anlässlich der Amtseinführung des Rektors der Kathedralschule in Riga, Gottlieb Schlegel, und des Collaborateuers Johann Gottfried Herder</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="81" von="318"/>
+        <werk ref="floegel-geschichte" kat="rezension" />
+        <ort ref="breslau"></ort>
+        <akteur ref="herder">SWS I, 87–89</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="81" von="327" bis="328"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="81" von="328"/>
+        <kategorie ref="lokalanzeige"/>
+        <akteur ref="kanter"></akteur>
+        <anmerkung>Stellenanzeige beim Kanterschen Buchladen</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="81" von="328"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="82" von="329" bis="331"/>
+        <kategorie ref="vorlesungsverzeichnis"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="82" von="331" bis="332"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="82" von="332"/>
+        <kategorie ref="lokalnachrichten"/>
+        <anmerkung>Aufforderung der Königlich Preußischen General Direction der Tobacks-Verpackungs-Compagnie zum stempeln lassen</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="82" von="332"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1765" nr="82" von="1"/>
+        <kategorie ref="notenblatt"/>
+        <titel>Bündniß mit den Alten. Ein Liedchen für die Jugend.</titel>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="83" von="333"/>
+        <kategorie ref="gedicht"/>
+        <titel>Auf die Ankunft eines Freundes</titel>
+        <anmerkung>Der Freund ist Johann George Scheffner</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="83" von="333" bis="334"/>
+        <werk ref="hase-versuch" kat="rezension" />
+        <akteur ref="herder">SWS I, 89–91</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="83" von="318"/>
+        <werk ref="teller-etwas" kat="rezension" />
+        <akteur ref="herder">SWS I, 91–92</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="83" von="335" bis="336"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="83" von="336"/>
+        <kategorie ref="lokalnachrichten"/>
+        <anmerkung>Über einen Chronostich auf den Tod Kaiser Franz I. Stephan</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="83" von="336"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1765" nr="83" von="1"/>
+        <kategorie ref="proklamation"/>
+        <titel>Avertissement.</titel>
+        <anmerkung>Der Königlich Preußischen General Direction der Tobacks-Verpackungs-Compagnie</anmerkung>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="84" von="337" bis="339"/>
+        <werk ref="semler-allgemeine-geschichte" kat="rezension" />
+        <ort ref="halle"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="84" von="339" bis="340"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="84" von="340"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="84" von="340"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="84" von="340"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
 
