@@ -1691,7 +1691,7 @@
 
     <werk id="sturm-sonntag">
         <akteur ref="sturm-cc"></akteur>
-        <zitation>Der Christ am Sonntage, eine moralische Wochenschrift zur Beförderung des innerlichen Gottesdienstes am Tage des Herrn (4 Bde., 1764–1766)., Bd. 1.</zitation>
+        <zitation>Der Christ am Sonntage, eine moralische Wochenschrift zur Beförderung des innerlichen Gottesdienstes am Tage des Herrn (4 Bde., 1764–1766).</zitation>
     </werk>
 
     <werk id="sammlung-vermischter-kleiner-schriften">
@@ -4329,7 +4329,74 @@
         <zitation>Allgemeine Geschichte der Ost- und Westindischen Handlungsgesellschaften in Europa. Aus dem Englischen übersetzt. Unter der Auffsicht und mit einer Vorrede herausgegeben von Johann Salomon Semler (2 Bde., Halle: Gebauer 1764).</zitation>
         <url address="https://doi.org/10.3931/e-rara-56423" >Zentralbibliothek Zürich</url>
     </werk>
+
+    <werk id="ramler-sammlung">
+        <akteur ref="ramler" />
+        <akteur ref="scheffner"/>
+        <akteur ref="lindner-jg"></akteur>
+        <zitation>Sammlung des besten Sinngedichte der deutschen Poeten, 1. Teil (Riga: Hartknoch 1766).</zitation>
+        <url address="https://books.google.de/books?id=kDVkFCR7FakC" >Google Books</url>
+    </werk>
+
+    <werk id="teske-neue-versuche">
+        <akteur ref="teske-jg" />
+        <zitation>Neue Versuche, in Curirung der Zahnschmerzen, vermittelst eines magnetischen Stahls von Johann Gottfried Teske (Königsberg: Hartung 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10392297-8" >BSB München</url>
+    </werk>
+
+    <werk id="zuschauer-leipzig">
+        <zitation>Der Zuschauer von Leipzig (an der Pleisse 1765).</zitation>
+    </werk>
+
+    <werk id="voltaire-philosophie-histoire">
+        <akteur ref="voltaire" />
+        <zitation>La Philosophie de l’Histoire par feu Mr. l’Abbé Bazin (Amsterdam 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10434667-3" >BSB München</url>
+    </werk>
+
+    <werk id="chaudon-antidictionnaire">
+        <akteur ref="chaudon-lm" unsicher="true" />
+        <zitation>Anti-Dictionaire philosophique, ou Remarques sur un Livre intitulé Dictionaire philosophique portatif par un Membre de l’illustre Société d’Angleterre pour la propagation de la Doctrine Chrétienne (Lausanne 1765).</zitation>
+    </werk>
+
+    <werk id="gr-vernunft-betrachtung">
+        <akteur ref="gr-jg" />
+        <zitation>Vernunft- und Schriftmäßige Betrachtung über die unlängst neu herausgekommene seltsame, verworrene und verdrehete Uebersetzung und Erklärung unsrer allerheiligsten Glaubens-Bücher des Neuen Testaments von J. G. Gr. (Sorau: Hebold 1765).</zitation>
+        <url address="https://nbn-resolving.de/urn:nbn:de:gbv:32-1-10037015244" >Anna Amalia Bibliothek Weimar</url>
+    </werk>
+
+    <werk id="philosophische-ergoetzungen">
+        <zitation>Philosophische Ergötzungen oder auf Vernunft und Erfahrung gegründete Untersuchung, wie die wahrhaften Seemuscheln auf die höchsten Berge und in die festesten Steine gekommen, nebst einer deutlichen Erklärung der Erdbeben und anderer wunderbarer Naturbegebenheiten, auf Veranlassung der von Anton Lazaro Moro herausgebenen neuen Untersuchung der Veränderung des Erdbodens, ausgestellet von Einem fleißigen Erforscher philosophischer Lauterkeit (Bremen: Cramer 1765).</zitation>
+        <url address="https://books.google.de/books?id=QIK7AAAAIAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="schubert-heilige">
+        <akteur ref="schubert-je" />
+        <zitation>Johan Ernst Schuberts Heilige Reden auf ausserordentliche Fälle (Halle, Greifswald: Hemmerde 1765).</zitation>
+        <url address="http://digitale-bibliothek-mv.de/viewer/resolver?urn=urn:nbn:de:gbv:9-g-4997182" >UB Greifswald</url>
+    </werk>
+
+    <werk id="kleine-beschaeftigungen-kinder">
+        <zitation>Kleine Beschäftigungen für Kinder (Kopenhagen: Mummen 1765).</zitation>
+    </werk>
 	
+    <werk id="doddridge-theologisches-sendschreiben">
+        <akteur ref="doddridge-p" />
+        <akteur ref="rambach-fe" />
+        <zitation>D. Philipp Doddrigde theologische Sendschreiben über verschiedene die Religion und Gottseligkeit betreffende Materien. Mit einer Vorrede herausgegeben von Friedrich Eberh. Rambach (Rostock, Leipzig: Koppe 1764).</zitation>
+        <url address="https://books.google.de/books?id=83JPAAAAcAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="nachrichten-merkwuerdigste-theologische">
+        <zitation>Nachrichten von den merkwürdigsten theologischen Schriften unserer Zeit (Lübeck: Schmidt, Donatius 1765–1768), St. 1–5.</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN727618679" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="trinius-zugabe">
+        <akteur ref="trinius-ja" />
+        <zitation>M. Johann Anton Trinius Erste Zugabe zu seinem Freydencker-Lexicon (Leipzig, Bernburg: Coerner 1765).</zitation>
+        <url address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-287620" >UB Heidelberg</url>
+    </werk>
 	
 
     
