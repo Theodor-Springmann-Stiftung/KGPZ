@@ -263,11 +263,12 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11253310-4">BSB München</url>
     </werk>
 
-    <werk id="nicolai-bibliothek11-2">
+    <werk id="nicolai-bibliothek">
         <akteur ref="nicolai" />
         <akteur ref="mendelssohn" />
         <zitation>Bibliothek der schönen Wissenschaften und freyen Künste (12 Bde., Leipzig: Dyck 1757–1765), Bd. 11,2 (1765).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573343-5">BSB München</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573343-5">Bd. 11, 1764 (BSB München)</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573344-0">Bd. 12, 1765 (BSB München)</url>
     </werk>
     
     <werk id="morell-horam">
@@ -891,7 +892,7 @@
     </werk>
 
     <werk id="briefe-moral">
-        <zitation>Briefe über die Neueste Moral. Erster Band (Rostock und Greifswald: Rösen 1764).</zitation>
+        <zitation>Briefe über die Neueste Moral (Rostock, Greifswald: Rösen 1764).</zitation>
         <url address="https://books.google.de/books?id=mt8AAAAAcAAJ">Google Books</url>
     </werk>
 
@@ -4414,6 +4415,28 @@
         <akteur ref="trinius-ja" />
         <zitation>M. Johann Anton Trinius Erste Zugabe zu seinem Freydencker-Lexicon (Leipzig, Bernburg: Coerner 1765).</zitation>
         <url address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-287620" >UB Heidelberg</url>
+    </werk>
+
+    <werk id="bodmer-gottsched">
+        <akteur ref="bodmer-jj" />
+        <zitation>Gottsched ein Trauerspiel in Versen oder der parodirte Cato (Zürich 1765).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10310583-2" >BSB München</url>
+    </werk>
+
+    <werk id="young-belustigungen">
+        <akteur ref="young-e" />
+        <zitation>Belustigungen für das Herz und den Geschmack, in auserlesenen Schilderungen von Young, Gellert, etc. (Frankfurt 1765).</zitation>
+    </werk>
+
+    <werk id="beaumelle-seneca">
+        <akteur ref="beaumelle-a" />
+        <zitation>L. Annaei Senecae Eclogae. Pensées de Seneque, recueillies Par. M. Angliviel de la Beaumelle. Et traduites en François, pour servir à l’Education de la jeunesse (Berlin: Realschule 1765).</zitation>
+        <url address="https://books.google.de/books?id=ve6kVjT72x4C" >Google Books</url>
+    </werk>
+
+    <werk id="panzer-kunst-geduld">
+        <akteur ref="panzer-gw"></akteur>
+        <zitation>Die Kunst der Geduld, aus dem Englischen übersetzt (Nürnberg: Riegel 1764).</zitation>
     </werk>
 	
 

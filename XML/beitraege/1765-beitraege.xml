@@ -521,8 +521,7 @@
     <!-- 22 -->
     <beitrag>
         <stueck datum="1765" nr="22" von="85" bis="86"/>
-        <werk ref="nicolai-bibliothek11-2" kat="rezension"/>
-        <akteur ref="herder">SWS I, 98ff.; Düntzer XXII, 31–34</akteur>
+        <werk ref="nicolai-bibliothek" s="Bd. 11, St. 2" kat="rezension"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
@@ -2180,6 +2179,80 @@
     <beitrag>
         <stueck datum="1765" nr="93" von="376"/>
         <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    
+    <beitrag>
+        <stueck datum="1765" nr="94" von="377" bis="378"/>
+        <werk ref="nicolai-bibliothek" s="Bd. 12, St. 2" kat="rezension" />
+        <ort ref="leipzig"></ort>
+        <akteur ref="herder">SWS I, 98–100</akteur>
+        <anmerkung>Ankündigung von Bd. 2, St. 2 (1765), Beurteilung der gesamten Reihe und Ankündigung der „Neuen Bibliothek der schönen Wissenschaften und der freyen Künste“</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="94" von="378"/>
+        <werk ref="bodmer-gottsched" kat="rezension" />
+        <ort ref="zuerich"></ort>
+        <akteur ref="herder">SWS I, 100f.</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="94" von="378" bis="379"/>
+        <werk ref="young-belustigungen" kat="rezension" />
+        <akteur ref="herder">SWS I, 101</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="94" von="379"/>
+        <werk ref="beaumelle-seneca" kat="rezension" />
+        <ort ref="berlin"></ort>
+        <akteur ref="herder">SWS I, 102f.</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="94" von="379"/>
+        <kategorie ref="gelehrte-achrichten"/>
+        <anmerkung>Über die Verteidigung von Magister Martin Nicuta</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="94" von="380"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="94" von="380"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1765" nr="95" von="381"/>
+        <werk ref="briefe-moral" s="Bd. 2, St. 3" kat="rezension" />
+        <ort ref="rostock"></ort>
+        <ort ref="greifswald"></ort>
+        <akteur ref="herder">SWS I, 103f.</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="95" von="381" bis="382"/>
+        <werk ref="panzer-kunst-geduld" kat="rezension" />
+        <akteur ref="herder">SWS I, 104–106</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="95" von="382"/>
+        <kategorie ref="erzehlung"/>
+        <kategorie ref="uebersetzung"></kategorie>
+        <titel>Die Furien. Eine Fabel. Aus dem Französischen.</titel>
+        <anmerkung>Unterzeichnet „G----t aus Curland.“</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="95" von="383" bis="384"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1765" nr="95" von="384"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1765" nr="95" von="1"/>
+        <kategorie ref="desertionsliste"/>
+        <titel>Avertissement.</titel>
+        <anmerkung>Für die entlaufenen Bauern Carl Zander und Christoph Klein, datiert Königsberg, 29. November 1765</anmerkung>
     </beitrag>
 
 
