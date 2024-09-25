@@ -2074,4 +2074,30 @@
     <anmerkung>Verkauf von Dungsalz.</anmerkung>
 </beitrag>
 
+<!-- 99 -->
+<beitrag>
+    <stueck datum="1766" nr="99" von="405" bis="406"/>
+    <werk kat="rezension" ref="meergraf-speyerschen-commercienraths"></werk>
+    <ort ref="bamberg" />
+    <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="99" von="406" bis="407"/>
+    <werk kat="rezension" ref="komische-versuche"></werk>
+    <ort ref="hanau" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="99" von="407" bis="408"/>
+    <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="99" von="408"/>
+    <kategorie ref="lokalnachrichten" />
+    <kategorie ref="lotterie"></kategorie>
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="99" von="408" />
+    <kategorie ref="wechselkurse" />
+</beitrag>
+
 </beitraege>
