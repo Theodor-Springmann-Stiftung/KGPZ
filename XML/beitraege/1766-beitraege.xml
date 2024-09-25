@@ -2120,4 +2120,27 @@
     <stueck datum="1766" nr="100" von="412"/>
     <kategorie ref="einkommende-fremde" />
 </beitrag>
+
+<!-- 101 -->
+<beitrag>
+    <stueck datum="1766" nr="101" von="413" bis="414"/>
+    <werk kat="rezension" ref="briefe-ueber-den-character"></werk>
+    <ort ref="berlin" />
+    <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="101" von="414" bis="415"/>
+    <werk kat="rezension" ref="geschichte-phoebe-osmond"></werk>
+    <ort ref="leipzig" />
+</beitrag> 
+<beitrag>
+    <stueck datum="1766" nr="101" von="415" bis="416"/>
+    <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="101" von="416" />
+    <kategorie ref="wechselkurse" />
+</beitrag>
+
+
 </beitraege>
