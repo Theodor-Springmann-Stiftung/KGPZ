@@ -695,6 +695,11 @@
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:24-digibib-kxp18333405077">WLB Stuttgart</url>
     </werk>
 
+    <werk id="schmidt-anmerkungen">
+        <akteur ref="schmidt-jf" />
+        <zitation>Johann Schmidt, ehemaliger Prof. Theologie in Leipzig, kurze Anmerkungen über Sam. Crells neue Gedanken vom ersten und andern Adam, unter D. Tellers Aufsicht herausgegeben, nebst Beilagen und einem Versuch über die Gränzen der Nachahmung (Halle und Helmstedt 1766).</zitation>
+    </werk>
+
     <werk id="stoelzel-mann">
         <akteur ref="stoelzel-wf" />
         <zitation>Der Ehrliche Mann. Wochenschrift hg. von Wilhelm Friedrich Stölzel. Erster Band (Gotha: Mevius 1764).</zitation>
@@ -1317,6 +1322,11 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10076246-7">BSB München</url>
     </werk>
 
+    <werk id="ortmann-sendschreiben">
+        <akteur ref="ortmann-ad" />
+        <zitation>Adolph Dietrich Ortmanns Sendschreiben an den Herrn Verfasser der Reliquien (Züllichau: Waisenhaus und Fromannsche Handlung 1766).</zitation>
+    </werk>
+
     <werk id="sneedorf-briefe">
         <akteur ref="sneedorf-js" />
         <zitation>Herrn J. S. Sneedorfs, öffentlichen Lehrers des Staatsrechts auf der
@@ -1458,7 +1468,18 @@
         <zitation>Sören Abildgaars Abhandlung vom Torf. Aus dem Dänischen übersetzt (Kopenhagen: Mummens Witwe 1765).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10293534-0">BSB München</url>
     </werk>
+
+    <werk id="briefe-ueber-den-character">
+        <akteur ref="merkel-g" /> 
+        <zitation>Briefe über den Character und die Pflicht eines evangelischen Predigers (von M. Gottlieb Merkel). 1. Teil (Berlin: Voß 1766).</zitation>
+    </werk>
     
+    <werk id="geschichte-phoebe-osmond">
+        <akteur ref="smythies-s" /> 
+        <zitation>Geschichte der Fraulein Phöbe Osmond, von der Verfasserin der Lucie Wellers, aus dem Englischen (Susan Smythies) übersetzt.(Leipzig 1766).</zitation>
+        <url address="https://purl.uni-rostock.de/rosdok/ppn816571856" >UB Rostock</url>
+    </werk>
+
     <werk id="schauplatz-der-welt">
         <zitation>Schauplatz der Welt, oder merkwürdige Sammlung von See- und Landreisen, aus den Schriftstellern aller Nationen gewählet: Nebst einer Menge von Charten und Kupfern von Meisterhänden. Aus dem Englischen. Ersten Bandes Erster Theil (Stuttgart: Cotta 1764).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11409477-1">Stabi Bamberg</url>
@@ -1920,6 +1941,42 @@
         <zitation>Unpartheyische Geschichte, der im Jahr 1754. bekanntgewordenen Religionsveränderung Sr. Durchl. des Herrn Landgrafen von Hessen-Cassel, mit gehörigen Beweisschriften und Urkunden (o. O. 1765).</zitation>
     </werk>
 
+    <werk id="begebenheiten-jungfer-meyern">
+        <zitation>Die Begebenheiten der Jungfer Meyern, eines jüdischen Frauenzimmers, von ihr selbst geschrieben. Herausgegeben von einem Ehrenmitgliede der Königlich deutschen Gesellschaft zu Göttingen. 2 Theile, neue vermehrte Auflage (Frankfurt am Main 1766).</zitation>
+        <url address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN75740135X" >Stabi Berlin, 1. Teil</url>
+        <url address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN757401538" >Stabi Berlin, 2. Teil</url>
+    </werk>
+
+    <werk id="ruhe-auf-dem-lande">
+        <akteur ref="schmahling-lc" />
+        <zitation>Die Ruhe auf dem Lande (Gotha 1766).</zitation>
+    </werk>
+
+    <werk id="guldberg-nacheiferung">
+        <akteur ref="guldberg-oh" />
+        <zitation>Die Nacheiferung der aufgeklärten Völker zum Vortheil der schönen Wissenschaften samt Gedanken über Milton Gedicht von Owen Guldberg, aus dem Dänischen übersetzt (Kopenhagen 1766).</zitation>
+    </werk>
+
+    <werk id="poetische-uebersetzung">
+        <zitation>Poetische Uebersetzungen aus dem Griechischen und nach dem Englischen (Zürich 1766).</zitation>
+        <url address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN1023391694" >Stabi Berlin, 2. Teil</url>
+    </werk>
+
+    <werk id="meergraf-speyerschen-commercienraths">
+        <akteur ref="meergraf-mf" />
+        <zitation>M. F. Meergrafens, Hochfürstlich Speyerschen Commercienraths, Versuch einer wahren Verbesserung zur Glückseligkeit eines Staats, über die vier wichtigste Gegenstände des Erdenbaues, der Policy- Cameral- und -Commercien- Wissenschaften (Bamberg 1765).</zitation>
+    </werk>
+
+    <werk id="beccaria-delitti-pene">
+        <akteur ref="beccaria-c" />
+        <zitation>Dei delitti e delle Pene. Edizione quinta, di nuova corretta ed accrescuita (Haarlem 1766).</zitation>
+        <url address="https://books.google.be/books?vid=GENT900000140387" >Google Books</url>
+    </werk>
+
+    <werk id="komische-versuche">
+        <zitation>Komische Versuche von J. A. (Hanau: Schulz 1767).</zitation>
+    </werk>
+
     <werk id="allgemeine-deutsche-bibliothek-01">
         <zitation>Allgemeine deutsche Bibiliothek, Bd. 1, 1 Stück (Berlin: F. Nicolai 1765).</zitation> 
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10710926-3" >BSB München</url>
@@ -1933,6 +1990,11 @@
     <werk id="allgemeine-deutsche-bibliothek-02-2">
         <zitation>Allgemeine deutsche Bibiliothek, Bd. 2, Stück 2 (Berlin: Nicolai 1766).</zitation> 
         <url address="https://ds.ub.uni-bielefeld.de/viewer/image/2002572_004/1/">UB Bielefeld</url>
+    </werk>
+
+    <werk id="allgemeine-deutsche-bibliothek-03-1">
+        <zitation>Allgemeine deutsche Bibiliothek, Bd. 3, Stück 1 (Berlin: Nicolai 1766).</zitation> 
+        <url address="https://ds.ub.uni-bielefeld.de/viewer/image/2002572_005/1/LOG_0003/">UB Bielefeld</url>
     </werk>
 
     <werk id="receuil-meilleures-pieces">
@@ -2800,11 +2862,41 @@
         <zitation>D. Johann Augustin Dietelmairs theologische Betrachtungen von vermischtem Inhalt. Bd. 1, 2. und 3. Sammlung (Altdorf, Nürnberg 1771).</zitation>
     </werk>
 
+    <werk id="dietelmair-vermischte-abhandlungen">
+        <akteur ref="dietelmair-ja" />
+        <zitation>Vermischte Abhandlungen aus allen Theilen der Theologie, von Herrn D. Johann Augustin Dietelmair. 5. Sammlung (Altorf 1766).</zitation>
+    </werk>
+
+    <werk id="klotz-studium-des-alterthums">
+        <akteur ref="klotz" />
+        <zitation>Über das Studium des Alterthums, von Herrn Hofrat Klotz (Halle: Gebauer 1766).</zitation>
+        <url address="http://dx.doi.org/10.25673/36251" >ULB Halle</url>
+    </werk>
+
+    <werk id="sammlung-moralischer-satirischer-abhandlungen">
+        <zitation>Sammlung moralischer und satirischer Abhandlungen, zusammengetragen von einer Gesellschaft (Breslau: Korn 1766).</zitation>
+    </werk>
+
     <werk id="bonnet-analytisch-seelenkraefte1">
         <akteur ref="bonnet-c" />
         <akteur ref="schuetz-cg"></akteur>
         <zitation>Herrn Karl Bonnets Analytischer Versuch über die Seelenkräfte. Aus dem Französischen übersetzt von M. Christian Gottfried Schütz (2 Bde., Bremen: Cramer 1770/1771), Bd. 1.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10042810-5" >BSB München</url>
+    </werk>
+
+    <werk id="bonnet-betrachtungen-natur">
+        <akteur ref="bonnet-c" />
+        <akteur ref="tietz-jd"></akteur>
+        <zitation>Betrachtungen über die Natur von Herrn Karl Bonnet. Aus dem Französischen übersetzt von Titius (Leipzig 1766).</zitation>
+        <url address="https://books.google.de/books?id=wtjowQEACAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="sidnei-et-silli">
+        <zitation>Sidnei et Silli ou la bienfaisance et la reconnoissance, Histoire angloise. Suivie d'Odes Anacreontiques (Leipzig 1766).</zitation>
+    </werk>
+
+    <werk id="aw-gedicht">
+        <zitation>Gedichte von A. W*. (Zürich 1766).</zitation>
     </werk>
 
     <werk id="semler-abhandlung-freiheit">
@@ -3215,6 +3307,15 @@
         <akteur ref="cramer-ja" />
         <zitation>Melanchthon, eine Ode von Johann Andreas Cramer (Frankfurt 1772).</zitation>
         <url address="https://books.google.de/books?id=UPRfza5zqxoC" >Google Books</url>
+    </werk>
+
+    <werk id="cramer-neue-geistliche-oden">
+        <akteur ref="cramer-ja" />
+        <zitation>Neue geistliche Oden und Lieder, von J. A. Cramer (Frankfurt und Leipzig 1766).</zitation>
+    </werk>
+
+    <werk id="pfarrweib-auf-dem-lande-ode">
+        <zitation>Das Pfarrweib auf dem Lande, in einer Ode besungen von X. Y. Z. (Erlangen: Kammerer 1766).</zitation>
     </werk>
 
     <werk id="burman-lied">
@@ -4018,8 +4119,16 @@
         <zitation>Unterredungen zwischen einem alten und jungen Prediger, über allerhand in das Predigtamt und wahre Christenthum gehörige Materien, die weder in den gewöhnlichen Lehrbüchern noch in öffentlichen heiligen Reden abgehandelt werden (Leipzig: Gollner 1764).</zitation>
     </werk>
 
-    <werk id="rechtschaffene-satyrisch">
-        <zitation>Der Rechtschaffene eine satyrisch-moralische Wochenschrift in gebundener und ungebundener Schreibart, 1. Teil (Lindau: Otto 1765).</zitation>
+    <werk id="rechtschaffene-satyrisch-1">
+        <zitation>Der Rechtschaffene eine satyrisch-moralische Wochenschrift in gebundener und ungebundener Schreibart, 1. Teil (Lindau: Gessler 1765).</zitation>
+    </werk>
+
+    <werk id="rechtschaffene-satyrisch-2">
+        <zitation>Der Rechtschaffene eine satyrisch-moralische Wochenschrift in gebundener und ungebundener Schreibart, 2. Teil (Lindau: Gessler 1766).</zitation>
+    </werk>
+
+    <werk id="schreiben-ehrlich-mann">
+        <zitation>Schreiben eines ehrlichen Mannes an die Gottesgelehrten (o.O. 1766).</zitation>
     </werk>
 
     <werk id="maria-geschichte-angesehenes-frauenzimmer">
