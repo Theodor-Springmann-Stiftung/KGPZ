@@ -449,7 +449,7 @@
 <beitrag>
     <stueck datum="1766" nr="22" von="88" bis="89"/>
     <stueck datum="1766" nr="23" von="91" bis="92"/>
-    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek-01"></werk>
+    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek" s="Bd. 1, St. 1"></werk>
     <ort ref="berlin" />
 </beitrag> 
 <beitrag>
@@ -990,7 +990,7 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="47" von="190" bis="191"/>
-    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek-02-1"></werk>
+    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek" s="Bd. 2, St. 1"></werk>
     <ort ref="berlin" />
 </beitrag> 
 <beitrag>
@@ -1281,7 +1281,7 @@
 <!-- 61 -->
 <beitrag>
     <stueck datum="1766" nr="61" von="245" bis="246"/>
-    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek-02-2"></werk>
+    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek" s="Bd. 2, St. 2"></werk>
     <ort ref="berlin" />
 </beitrag> 
 <beitrag>
@@ -1707,14 +1707,13 @@
 <!-- 81 -->
 <beitrag>
     <stueck datum="1766" nr="81" von="333" bis="334"/> 
-    <werk kat="rezension" ref="ludwig-der-strenge"></werk>
+    <werk kat="rezension" ref="langenau-ludewig"></werk>
     <ort ref="breslau"/> 
-    <ort ref="leipzig"/> 
+    <ort ref="leipzig"/>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="81" von="334" bis="335"/> 
     <werk kat="rezension" ref="jacobi-betrachtungen"></werk>
-    <ort ref="celle"/> 
     <ort ref="hannover"/> 
     <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag>
@@ -1755,7 +1754,6 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="83" von="344"/>
-    <kategorie ref="lokalnachrichten" />
     <kategorie ref="lotterie"></kategorie>
 </beitrag>
 <beitrag>
@@ -1786,7 +1784,7 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="85" von="350" bis="351"/> 
-    <werk kat="rezension" ref="roeder-schriften"></werk>
+    <werk kat="rezension" ref="roeder-anmuthige-sittliche-schriften"></werk>
     <ort ref="frankfurt"/> 
     <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag>
@@ -1869,9 +1867,8 @@
 <!-- 89 -->
 <beitrag>
     <stueck datum="1766" nr="89" von="365" bis="367"/>
-    <kategorie ref="aufsatz"></kategorie> <!-- Unsicher der Kategorie. Aufsatz? Übersetzung?-->
     <titel>Von der Sanftmuth.</titel>
-    <anmerkung>Aus den Entretiens sur les devoirs de la vie civile, par l'Abbé Marsollier.</anmerkung>
+    <werk kat="uebersetzung" ref="marsollier-entretiens" s="S. 211–220"></werk>
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="89" von="367" bis="368"/>
@@ -1880,7 +1877,7 @@
 <beitrag>
     <stueck datum="1766" nr="89" von="368"/>
    <kategorie ref="lokalanzeigen" />
-   <anmerkung>Pränumeration für Spezialkarte von Königsberg.</anmerkung>
+   <anmerkung>Pränumerationangebot für eine Karte von Königsberg.</anmerkung>
 </beitrag>
 
 <!-- 90 -->
@@ -1892,7 +1889,7 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="90" von="370"/> 
-    <werk kat="rezension" ref="zueckert-reisebeschreibungen3-4"></werk>
+    <werk kat="rezension" ref="zueckert-reisebeschreibungen" s="Bd. 3–4"></werk>
     <ort ref="berlin"/> 
     <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag>
@@ -1913,7 +1910,7 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="91" von="374"/> 
-    <werk kat="rezension" ref="rechtschaffene-satyrisch-2"></werk>
+    <werk kat="rezension" ref="rechtschaffene-satyrisch" s="Bd. 2"></werk>
     <ort ref="lindau"/> 
     <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag>
@@ -1927,7 +1924,6 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="91" von="376"/>
-    <kategorie ref="lokalnachrichten" />
     <kategorie ref="lotterie"></kategorie>
 </beitrag>
 <beitrag>
@@ -1938,7 +1934,7 @@
 <!-- 92 -->
 <beitrag>
     <stueck datum="1766" nr="92" von="373" bis="375"/> 
-    <kategorie ref="gedicht" />
+    <kategorie ref="aufsatz" />
     <titel>An den Mond.</titel>
 </beitrag>
 <beitrag>
@@ -1958,10 +1954,15 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="93" von="379" bis="384"/>
-    <kategorie ref="weltnachrichten" />  <!-- Es gibt ein Fokus auf die Nachrichten aus Königsberg von Seite 381 bis Seite 384. Wie sollte dieser Inhalt erwähnt werden? Mit einer „Anmerkung“, einer separaten Kategorie oder? --> </beitrag>
+    <kategorie ref="weltnachrichten" />  
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="93" von="379" bis="384"/>
+    <kategorie ref="lokalnachrichten" /> 
+    <anmerkung>Aus dem polnischen Reichstags-Journal, Rede des Krakauer Bischofs über die Dissidenten.</anmerkung>
+</beitrag>
 <beitrag>
     <stueck datum="1766" nr="93" von="384"/>
-    <kategorie ref="lokalnachrichten" />
     <kategorie ref="lotterie"></kategorie>
 </beitrag>
 <beitrag>
@@ -1972,12 +1973,12 @@
 <!-- 94 -->
 <beitrag>
     <stueck datum="1766" nr="94" von="385" bis="386"/> 
-    <werk kat="rezension" ref="sidnei-et-silli"></werk>
+    <werk kat="rezension" ref="arnaud-sidnei-et-silli"></werk>
     <ort ref="leipzig"/> 
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="94" von="386"/> 
-    <werk kat="rezension" ref="aw-gedicht"></werk>
+    <werk kat="rezension" ref="wirz-gedicht"></werk>
     <ort ref="zuerich"/> 
 </beitrag>
 <beitrag>
@@ -1992,12 +1993,16 @@
 <!-- 95 -->
 <beitrag>
     <stueck datum="1766" nr="95" von="389" bis="390"/> 
-    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek-03-1"></werk>
+    <werk kat="rezension" ref="allgemeine-deutsche-bibliothek" s="Bd. 3, St. 1"></werk>
     <ort ref="berlin"/> 
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="95" von="391" bis="392"/>
     <kategorie ref="weltnachrichten" />
+</beitrag>
+<beitrag>
+    <stueck datum="1766" nr="95" von="392" />
+    <kategorie ref="lokalnachrichten" />
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="95" von="392" />
@@ -2007,12 +2012,12 @@
 <!-- 96 -->
 <beitrag>
     <stueck datum="1766" nr="96" von="393" bis="394"/> 
-    <werk kat="rezension" ref="begebenheiten-jungfer-meyern"></werk>
+    <werk kat="rezension" ref="koelbele-begebenheiten-jungfer-meyern"></werk>
     <ort ref="frankfurt"/> 
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="96" von="394"/> 
-    <werk kat="rezension" ref="ruhe-auf-dem-lande"></werk>
+    <werk kat="rezension" ref="schmahling-ruhe-auf-dem-lande"></werk>
     <ort ref="gotha"/> 
 </beitrag>
 <beitrag>
@@ -2032,7 +2037,7 @@
 <beitrag>
     <stueck datum="1766" nr="97" von="397" bis="399"/>
     <kategorie ref="aufsatz"></kategorie>
-    <titel>Vertheidigung eines Gedankens wider den Marquis d'Argens.</titel>
+    <titel>Vertheidigung eines Gedankens wider den Marquis d’Argens.</titel>
     <anmerkung>Unterzeichnet „Rs.“</anmerkung>
 </beitrag> 
 <beitrag>
@@ -2041,8 +2046,8 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="96" von="400"/>
-    <kategorie ref="lokalnachrichten" />
-    <anmerkung>Verkauf von Dungsalz.</anmerkung>
+    <kategorie ref="lokalanzeigen" />
+    <anmerkung>Verkauf von Dungsalz</anmerkung>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="96" von="400" />
@@ -2070,8 +2075,8 @@
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="98" von="404"/>
-    <kategorie ref="lokalnachrichten" />
-    <anmerkung>Verkauf von Dungsalz.</anmerkung>
+    <kategorie ref="lokalanzeigen" />
+    <anmerkung>Verkauf von Dungsalz</anmerkung>
 </beitrag>
 
 <!-- 99 -->
@@ -2085,14 +2090,13 @@
     <stueck datum="1766" nr="99" von="406" bis="407"/>
     <werk kat="rezension" ref="komische-versuche"></werk>
     <ort ref="hanau" />
-</beitrag> 
+</beitrag>
 <beitrag>
     <stueck datum="1766" nr="99" von="407" bis="408"/>
     <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="99" von="408"/>
-    <kategorie ref="lokalnachrichten" />
     <kategorie ref="lotterie"></kategorie>
 </beitrag>
 <beitrag>
@@ -2157,7 +2161,7 @@
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="102" von="418" />
-    <kategorie ref="lokalanzeigen"/>
+    <kategorie ref="buecher"/>
 </beitrag>
 <beitrag>
     <stueck datum="1766" nr="102" von="419" bis="420"/>
@@ -2175,9 +2179,8 @@
 <!-- 103 -->
 <beitrag>
     <stueck datum="1766" nr="103" von="421" bis="428"/>
-    <kategorie ref="aufsatz"></kategorie>
     <titel>Betrachtungen über die Umstände der Dißidenten in Polen.</titel>
-    <anmerkung>Vollständiger Abdruck der Abhandlung über die historisch, juristisch und politisch unberechtigte Unterdruckung der polnischen Dissidenten.</anmerkung>
+    <werk kat="auszug" ref="wolf-betrachtungen-dissidenten"></werk>
 </beitrag> 
 <beitrag>
     <stueck datum="1766" nr="103" von="428"/>

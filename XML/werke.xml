@@ -171,7 +171,7 @@
 
     <werk id="kraft-sitten-der-wilden">
         <akteur ref="kraft-j" />
-        <zitation>Die Sitten der Wilden zur Aufklärung des Ursprungs und Aufnahme der Menschheit, von Jens Kraft. Aus dem Dänischen übersetzt (Kopenhagen 1766).</zitation>
+        <zitation>Die Sitten der Wilden, zur Aufklärung des Ursprungs und Aufnahme der Menschheit, von Jens Kraft. Aus dem Dänischen übersetzt (Kopenhagen: Mumm 1766).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN235239364">SUB Göttingen</url>
     </werk>
 
@@ -187,9 +187,10 @@
         <zitation>Gedanken von der Stärke des Beweises für die Gottheit JEsu Christi und des H. Geiste, aus denen Vergleichungen des A. und N. T. von J. B. Lüderwald, der H. Schrift Doktor (Helmstedt 1765).</zitation>
     </werk>
 
-    <werk id="roeder-schriften">
-        <akteur ref="roeder-georg" />
-        <zitation>Anmuthige und sittliche Schriften, zusammengetragen von einem Freunde des guten Geschmacks (von Georg Röder) (Frankfurt am Main 1766).</zitation>
+    <werk id="roeder-anmuthige-sittliche-schriften">
+        <akteur ref="roeder-g" />
+        <zitation>Anmuthige und sittliche Schriften, zusammengetragen von einem Freunde des guten Geschmacks (Frankfurt am Main: Kochendörfer 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10445925-3">BSB München</url>
     </werk>
 
     <werk id="gatrey-philosophie-par-amour">
@@ -200,36 +201,43 @@
 
     <werk id="gerstenberg-briefe-ueber-die-merkwuerdigkeiten">
         <akteur ref="gerstenberg-hw" />
-        <zitation>Briefe über die Merkwürdigkeiten der Litteratur. Erste Sammlung (Schleswig und Leipzig 1766).</zitation>
+        <zitation>Briefe über Merkwürdigkeiten der Litteratur. Erste Sammlung (Schleswig, Leipzig: Hansen 1766).</zitation>
         <url address="https://archive.org/details/bub_gb_AfdLAAAAcAAJ/page/n9/mode/2up">Internet Archive</url>
     </werk>
 
     <werk id="museum-rusticum">
         <akteur ref="schwabe-jj" />
-        <zitation>Museum rusticum et commerciale, oder auserlesne Schriften den Ackerbau, die Handlung, Künste und Manufacturen betreffend, von der Gesellschaft zur Aufmunterung der Künste und Manufacturen in London (4 Bde., Leipzig 1766). </zitation>
+        <zitation>Museum rusticum et commerciale oder auserlesene Schriften, den Ackerbau, die Handlung, die Künste und Manufacturen betreffend, von der Gesellschaft zur Aufmunterung der Künste und Manufacturen in London, aus dem Englischen übersetzt, Bd. 4 (Leipzig 1766). </zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10297918-9">BSB München</url>
+    </werk>
+
+    <werk id="marsollier-entretiens">
+        <akteur ref="marsollier-j" />
+        <zitation>Entretiens sur les devoirs de la vie civile, et sur plusieurs points importans de la Morale Chrêtienne. Mar Monsieur l’Abbé Marsollier (Paris: Babuty 1714).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10041239-3" >BSB München</url>
     </werk>
 
     <werk id="neander-geistliche-lieder">
         <akteur ref="neander-cf" />
-        <zitation>Christoph Friedrich Neanders geistliche Lieder (Riga und Leipzig: Hartknoch 1766).</zitation>
+        <zitation>C. F. Neanders geistliche Lieder (Riga, Leipzig: Hartknoch 1766).</zitation>
         <url address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN892644222">Stabi Berlin</url>
     </werk>
 
     <werk id="clemm-sammlung-festtagspredigten">
         <akteur ref="clemm-hw" />
-        <zitation>Sammlung einiger Sonn- und Festtagspredigten von Heinrich Wilhelm Clemm (Tübingen 1766).</zitation>
+        <zitation>Sammlung einiger Sonn- und Festtagspredigten zum Druck überlassen von Heinrich Wilhelm Clemm (Tübingen: Cotta 1766).</zitation>
         <url address="https://books.google.ca/books?id=ZMIVFnSuv1sC">Google Books</url>
     </werk>
 
     <werk id="stapfer-sittenlehre">
         <akteur ref="stapfer-jf" />
-        <zitation>Johann Friedrich Stapfers Sittenlehre. 5. Teil (Zürich 17666).</zitation>
+        <zitation>Johann Friedrich Stapfers Sittenlehre. 5. Teil (Zürich: Heidegger 1766).</zitation>
         <url address="https://books.google.ca/books?id=yFI-AAAAYAAJ">Google Books</url>
     </werk>
 
     <werk id="raspe-hermin-und-gunilde">
         <akteur ref="raspe-re" />
-        <zitation>Hermin und Gunilde, eine Geschichte aus den Ritterzeiten, nebst einem Vorbericht über die Ritterzeiten, und einer Allegorie (Leipzig 1766).</zitation>
+        <zitation>Hermin und Gunilde, eine Geschichte aus den Ritterzeiten […], nebst einem Vorbericht über die Ritterzeiten, und einer Allegorie (Leipzig: Weidmann, Reich 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116723-1">BSB München</url>
     </werk>
 
@@ -315,7 +323,7 @@
 
     <werk id="jacobi-betrachtungen">
         <akteur ref="jacobi-jf" />
-        <zitation>Betrachtungen über die weise Absichten Gottes in den Dingen, die wir in der menschlichen Gesellschaft und der Offenbarung antreffen. Vierter und letzter Theil, von J. F. Jacobi, Consistorialrath und Generalsuper (Celle und Hannover: Förster 1766).</zitation>
+        <zitation>Betrachtungen über die weise Absichten Gottes, bey den Dingen, die wir in der menschlichen Gesellschaft und der Offenbarung antreffen. Vierter und letzter Theil. Ausgefertiget von Johann Friedrich Jacobi (Hannover: Förster 1766).</zitation>
         <url address="https://www.deutschestextarchiv.de/jacobi_betrachtungen04_1766">Deutsches Textarchiv</url>
     </werk>
 
@@ -384,7 +392,8 @@
 
     <werk id="stackhouse-betrachtungen">
         <akteur ref="stackhouse-t" />
-        <zitation>Thomas Stackhouse Betrachtungen über das Apostolische Glaubcnsbekenntniß, und die neun und dreißig Artikel der engländischen Kirche (2 Bde., Rostock: Rambach 1766).</zitation>
+        <akteur ref="rambach-fe"></akteur>
+        <zitation>Thomas Stackhouse Betrachtungen über das Apostolische Glaubensbekänntniß und die neun und dreyßig Lehrartickel der engländischen Kirche. Hg. von Friedrich Eberhard Rambach (2 Bde., Rostock: Rambach 1766), Bd. 2.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10480950-6">BSB München</url>
     </werk>
 
@@ -474,7 +483,7 @@
 
     <werk id="tasso-amintas-ein-schaeferspiel">
         <akteur ref="tasso-t" />
-        <zitation>Amintas, ein Schäferspiel, von Torquato Tasso, aus dem Italiänischen, in gebundner Schreibart, übersetzt (Berlin: Pauli 1766).</zitation>
+        <zitation>Amintas ein Schäferspiel, von Torquato Tasso. Aus dem Italiänischen in gebundner Schreibart übersetzt (Berlin: Pauli 1766).</zitation>
         <url address="https://nbn-resolving.org/urn:nbn:de:urmel-bbfd8b6e-847e-4e8c-905a-50446b667b300">ULB Jena</url>
     </werk>
 
@@ -697,7 +706,8 @@
 
     <werk id="schmidt-anmerkungen">
         <akteur ref="schmidt-jf" />
-        <zitation>Johann Schmidt, ehemaliger Prof. Theologie in Leipzig, kurze Anmerkungen über Sam. Crells neue Gedanken vom ersten und andern Adam, unter D. Tellers Aufsicht herausgegeben, nebst Beilagen und einem Versuch über die Gränzen der Nachahmung (Halle und Helmstedt 1766).</zitation>
+        <zitation>Johann Schmidt kurze Anmerkungen über Sam. Crells neue Gedanken vom ersten und andern Adam, unter D. Tellers Aufsicht herausgegeben, nebst Beilagen und einem Versuch über die Gränzen der Nachahmung (Halle, Helmstedt: Hemmerde 1766).</zitation>
+        <url address="https://books.google.de/books?id=GTRfAAAAcAAJ">Google Books</url>
     </werk>
 
     <werk id="stoelzel-mann">
@@ -1324,7 +1334,8 @@
 
     <werk id="ortmann-sendschreiben">
         <akteur ref="ortmann-ad" />
-        <zitation>Adolph Dietrich Ortmanns Sendschreiben an den Herrn Verfasser der Reliquien (Züllichau: Waisenhaus und Fromannsche Handlung 1766).</zitation>
+        <zitation>Adolph Dieterich Ortmanns Sendschreiben an den Herrn Verfasser der Reliquien (Züllichau: Waisenhaus, Frommann 1766).</zitation>
+        <url address="https://books.google.de/books?id=tIG3yHaFWYkC">Google Books</url>
     </werk>
 
     <werk id="sneedorf-briefe">
@@ -1471,12 +1482,12 @@
 
     <werk id="briefe-ueber-den-character">
         <akteur ref="merkel-g" /> 
-        <zitation>Briefe über den Character und die Pflicht eines evangelischen Predigers (von M. Gottlieb Merkel). 1. Teil (Berlin: Voß 1766).</zitation>
+        <zitation>Briefe über den Character und die Pflicht eines evangelischen Predigers. 1. Teil (Berlin: Voß 1766).</zitation>
     </werk>
     
     <werk id="geschichte-phoebe-osmond">
         <akteur ref="smythies-s" /> 
-        <zitation>Geschichte der Fraulein Phöbe Osmond, von der Verfasserin der Lucie Wellers, aus dem Englischen (Susan Smythies) übersetzt.(Leipzig 1766).</zitation>
+        <zitation>Geschichte der Fraulein Phöbe Osmond von der Verfasserin der Lucie Wellers aus dem Englischen übersetzt.(Leipzig: Crusius 1766).</zitation>
         <url address="https://purl.uni-rostock.de/rosdok/ppn816571856" >UB Rostock</url>
     </werk>
 
@@ -1705,16 +1716,12 @@
         <zitation>Brief an Ninon de l’Enclos über Liebe.</zitation>
     </werk>
 
-    <werk id="zueckert-reisebeschreibungen2">
+    <werk id="zueckert-reisebeschreibungen">
         <akteur ref="zueckert-jf"></akteur>
-        <zitation>Sammlung der besten und neuesten Reisebeschreibungen in einem ausführlichen Auszuge, worinnen eine genaue Nachricht von der Religion, Regierungsverfassung, Handlung, Sitten, natürlichen Geschichte und andern merkwürdigen Dingen verschiedner Länder und Völker gegeben wird. Aus dem Engländischen übersetzt (2 Bde., Berlin: Mylius 1763–1764), Bd. 2.</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11095619-1">BSB München</url>
-    </werk>
-
-    <werk id="zueckert-reisebeschreibungen3-4">
-        <akteur ref="zueckert-jf"></akteur>
-        <zitation>Sammlung der besten und neuesten Reisebeschreibungen in einem ausführlichen Auszuge, worinnen eine genaue Nachricht von der Religion, Regierungsverfassung, Handlung, Sitten, natürlichen Geschichte und andern merkwürdigen Dingen verschiedner Länder und Völker gegeben wird. Aus dem Engländischen übersetzt (Bd. 3-4, Berlin: Mylius 1766).</zitation>
-        <url address="https://www.digitale-sammlungen.de/en/view/bsb11095621?page=2,3">Bd. 4 (BSB München)</url> 
+        <zitation>Sammlung der besten und neuesten Reisebeschreibungen in einem ausführlichen Auszuge, worinnen eine genaue Nachricht von der Religion, Regierungsverfassung, Handlung, Sitten, natürlichen Geschichte und andern merkwürdigen Dingen verschiedner Länder und Völker gegeben wird. Aus dem Engländischen übersetzt (24 Bde., Berlin: Mylius 1763–1784).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11095619-1">Bd. 2 (BSB München)</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10465670-0">Bd. 3 (BSB München)</url> 
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11095621-9">Bd. 4 (BSB München)</url> 
     </werk>
 
     <werk id="zueckert-arzneygelahrtheit">
@@ -1941,13 +1948,14 @@
         <zitation>Unpartheyische Geschichte, der im Jahr 1754. bekanntgewordenen Religionsveränderung Sr. Durchl. des Herrn Landgrafen von Hessen-Cassel, mit gehörigen Beweisschriften und Urkunden (o. O. 1765).</zitation>
     </werk>
 
-    <werk id="begebenheiten-jungfer-meyern">
+    <werk id="koelbele-begebenheiten-jungfer-meyern">
+        <akteur ref="koelbele-jb"></akteur>
         <zitation>Die Begebenheiten der Jungfer Meyern, eines jüdischen Frauenzimmers, von ihr selbst geschrieben. Herausgegeben von einem Ehrenmitgliede der Königlich deutschen Gesellschaft zu Göttingen. 2 Theile, neue vermehrte Auflage (Frankfurt am Main 1766).</zitation>
         <url address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN75740135X" >Stabi Berlin, 1. Teil</url>
         <url address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN757401538" >Stabi Berlin, 2. Teil</url>
     </werk>
 
-    <werk id="ruhe-auf-dem-lande">
+    <werk id="schmahling-ruhe-auf-dem-lande">
         <akteur ref="schmahling-lc" />
         <zitation>Die Ruhe auf dem Lande (Gotha 1766).</zitation>
     </werk>
@@ -1958,13 +1966,13 @@
     </werk>
 
     <werk id="poetische-uebersetzung">
-        <zitation>Poetische Uebersetzungen aus dem Griechischen und nach dem Englischen (Zürich 1766).</zitation>
-        <url address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN1023391694" >Stabi Berlin, 2. Teil</url>
+        <zitation>Poetische Uebersetzungen aus dem Griechischen und nach dem Englischen (Zürich: Füeßlin 1766).</zitation>
+        <url address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN1023391694" >Stabi Berlin</url>
     </werk>
 
     <werk id="meergraf-speyerschen-commercienraths">
         <akteur ref="meergraf-mf" />
-        <zitation>M. F. Meergrafens, Hochfürstlich Speyerschen Commercienraths, Versuch einer wahren Verbesserung zur Glückseligkeit eines Staats, über die vier wichtigste Gegenstände des Erdenbaues, der Policy- Cameral- und -Commercien- Wissenschaften (Bamberg 1765).</zitation>
+        <zitation>M. F. Meergrafens Versuch einer wahren Verbesserung zur Glückseligkeit eines Staats, über die vier wichtigste Gegenstände des Erdenbaues, der Policy- Cameral- und -Commercien- Wissenschaften (Bamberg 1765).</zitation>
     </werk>
 
     <werk id="beccaria-delitti-pene">
@@ -1977,24 +1985,9 @@
         <zitation>Komische Versuche von J. A. (Hanau: Schulz 1767).</zitation>
     </werk>
 
-    <werk id="allgemeine-deutsche-bibliothek-01">
-        <zitation>Allgemeine deutsche Bibiliothek, Bd. 1, 1 Stück (Berlin: F. Nicolai 1765).</zitation> 
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10710926-3" >BSB München</url>
-    </werk>
-
-    <werk id="allgemeine-deutsche-bibliothek-02-1">
-        <zitation>Allgemeine deutsche Bibiliothek, Bd. 2, Stück 1 (Berlin: F. Nicolai 1766).</zitation> 
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10730864-1" >BSB München</url>
-    </werk>
-
-    <werk id="allgemeine-deutsche-bibliothek-02-2">
-        <zitation>Allgemeine deutsche Bibiliothek, Bd. 2, Stück 2 (Berlin: Nicolai 1766).</zitation> 
-        <url address="https://ds.ub.uni-bielefeld.de/viewer/image/2002572_004/1/">UB Bielefeld</url>
-    </werk>
-
-    <werk id="allgemeine-deutsche-bibliothek-03-1">
-        <zitation>Allgemeine deutsche Bibiliothek, Bd. 3, Stück 1 (Berlin: Nicolai 1766).</zitation> 
-        <url address="https://ds.ub.uni-bielefeld.de/viewer/image/2002572_005/1/LOG_0003/">UB Bielefeld</url>
+    <werk id="allgemeine-deutsche-bibliothek">
+        <zitation>Allgemeine deutsche Bibiliothek (118 Bde., Berlin, Stettin: Nicolai 1765–1791).</zitation> 
+        <url address="http://ds.ub.uni-bielefeld.de/viewer/toc/2002572/1/">UB Bielefeld</url>
     </werk>
 
     <werk id="receuil-meilleures-pieces">
@@ -2692,8 +2685,9 @@
         <url address="http://dx.doi.org/10.25673/37269" ></url>
     </werk>
 
-    <werk id="ludwig-der-strenge">
-        <zitation>Ludwig der strenge, ein Trauerspiel in 5 Aufzügen, nebst nöthigen historischen Anmerkungen (Breslau und Leipzig: Korn 1766).</zitation>
+    <werk id="langenau-ludewig">
+        <akteur ref="langenau-lw"></akteur>
+        <zitation>Ludewig, der strenge. Ein Trauerspiel in fünf Aufzügen, nebst nöthigen historischen Anmerkungen (Breslau und Leipzig: Korn 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10376214-5" >BSB München</url>
     </werk>
 
@@ -2864,7 +2858,8 @@
 
     <werk id="dietelmair-vermischte-abhandlungen">
         <akteur ref="dietelmair-ja" />
-        <zitation>Vermischte Abhandlungen aus allen Theilen der Theologie, von Herrn D. Johann Augustin Dietelmair. 5. Sammlung (Altorf 1766).</zitation>
+        <zitation>Vermischte Abhandlungen aus allen Theilen der Theologie, von Herrn D. Johann Augustin Dietelmair. 1. Bd., 5. Sammlung (Altorf: Schüpfel 1766).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB000286C400000000">Stabi Berlin</url>
     </werk>
 
     <werk id="klotz-studium-des-alterthums">
@@ -2877,6 +2872,12 @@
         <zitation>Sammlung moralischer und satirischer Abhandlungen, zusammengetragen von einer Gesellschaft (Breslau: Korn 1766).</zitation>
     </werk>
 
+    <werk id="wolf-betrachtungen-dissidenten">
+        <akteur ref="wolf-nm" />
+        <zitation>Betrachtungen über die Umstände der Dißidenten in Pohlen, Französisch/Deutsch (Warschau 1767).</zitation>
+        <url address="https://books.google.de/books?id=JKFRAAAAcAAJ" >2. Aufl. Warschau 1767 (Google Books)</url>
+    </werk>
+
     <werk id="bonnet-analytisch-seelenkraefte1">
         <akteur ref="bonnet-c" />
         <akteur ref="schuetz-cg"></akteur>
@@ -2887,16 +2888,20 @@
     <werk id="bonnet-betrachtungen-natur">
         <akteur ref="bonnet-c" />
         <akteur ref="tietz-jd"></akteur>
-        <zitation>Betrachtungen über die Natur von Herrn Karl Bonnet. Aus dem Französischen übersetzt von Titius (Leipzig 1766).</zitation>
+        <zitation>Betrachtungen über die Natur von Herrn Karl Bonnet (Leipzig: Junius 1766).</zitation>
         <url address="https://books.google.de/books?id=wtjowQEACAAJ" >Google Books</url>
     </werk>
 
-    <werk id="sidnei-et-silli">
-        <zitation>Sidnei et Silli ou la bienfaisance et la reconnoissance, Histoire angloise. Suivie d'Odes Anacreontiques (Leipzig 1766).</zitation>
+    <werk id="arnaud-sidnei-et-silli">
+        <akteur ref="arnaud-ft"></akteur>
+        <zitation>Sidnei et Silli ou la bienfaisance et la reconnoissance Histoire angloise. Suivie d’Odes Anacréontiques (Frankfurt am Mayn: Eslinger 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10091126-5">BSB München</url>
     </werk>
 
-    <werk id="aw-gedicht">
-        <zitation>Gedichte von A. W*. (Zürich 1766).</zitation>
+    <werk id="wirz-gedicht">
+        <akteur ref="wirz-a"></akteur>
+        <zitation>Gedichte von A. W*. (Zürich: Füeßlin 1766).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000B4D000000000">Stabi Berlin</url>
     </werk>
 
     <werk id="semler-abhandlung-freiheit">
@@ -3311,7 +3316,8 @@
 
     <werk id="cramer-neue-geistliche-oden">
         <akteur ref="cramer-ja" />
-        <zitation>Neue geistliche Oden und Lieder, von J. A. Cramer (Frankfurt und Leipzig 1766).</zitation>
+        <zitation>Neue geistliche Oden und Lieder von Johann Andreas Cramer (Frankfurt, Leipzig 1766).</zitation>
+        <url address="https://books.google.de/books?id=M3xFAAAAcAAJ">Google Books</url>
     </werk>
 
     <werk id="pfarrweib-auf-dem-lande-ode">
@@ -4119,12 +4125,9 @@
         <zitation>Unterredungen zwischen einem alten und jungen Prediger, über allerhand in das Predigtamt und wahre Christenthum gehörige Materien, die weder in den gewöhnlichen Lehrbüchern noch in öffentlichen heiligen Reden abgehandelt werden (Leipzig: Gollner 1764).</zitation>
     </werk>
 
-    <werk id="rechtschaffene-satyrisch-1">
-        <zitation>Der Rechtschaffene eine satyrisch-moralische Wochenschrift in gebundener und ungebundener Schreibart, 1. Teil (Lindau: Gessler 1765).</zitation>
-    </werk>
-
-    <werk id="rechtschaffene-satyrisch-2">
-        <zitation>Der Rechtschaffene eine satyrisch-moralische Wochenschrift in gebundener und ungebundener Schreibart, 2. Teil (Lindau: Gessler 1766).</zitation>
+    <werk id="rechtschaffene-satyrisch">
+        <zitation>Der Rechtschaffene eine satyrisch-moralische Wochenschrift in gebundener und ungebundener Schreibart, 1. Teil (3 Bde., Lindau: Gessler 1765–1766).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB000220BA00000000">Bd. 3 (Stabi Berlin)</url>
     </werk>
 
     <werk id="schreiben-ehrlich-mann">
