@@ -2811,11 +2811,18 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11270120-3" >SAB Augsburg</url>
     </werk>
 
+    <werk id="stockhausen-sammlung3">
+        <akteur ref="stockhausen-jc" />
+        <zitation>Johann Christoph Stockhausens Sammlung vermischter Briefe (3 Bde., Helmstedt: Weygand 1752–1766), Bd. 3</zitation>
+        <url address="http://dx.doi.org/10.25673/81972" >ULB Halle</url>
+    </werk>
+
     <werk id="muenchhausen-hausvater">
         <akteur ref="muenchhausen-o" />
-        <zitation>Der Hausvater (Bde., Hannover: Förster 1764–1773).</zitation>
+        <zitation>Der Hausvater (6 Bde., Hannover: Förster 1764–1773).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10624062-0" >Bd. 1,2 (BSB München)</url>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10624063-5" >Bd. 1,3 (BSB München)</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11266448-7" >Bd. 2 (Stabi Augsburg)</url>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10297884-2" >Bd. 5 (BSB München)</url>
     </werk>
 
@@ -3207,6 +3214,12 @@
         <akteur ref="mueller-gfl" />
         <zitation>Geistliche Lieder und Lobgesänge in Nachahmungen der Psalmen Davids, von Georg Friedrich Ludwig Müller (Mannheim: Schwan 1770).</zitation>
         <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:hbz:061:1-529522" ></url>
+    </werk>
+
+    <werk id="vida-arte">
+        <akteur ref="vida-md" />
+        <zitation>M. Hieronymi Vidae de arte poetica: libri tres. Commentarivm de poetae vita et carminibvs addidit Christ. Adolphvs Klotzivs (Altenburgi: Richter 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104320-5" >Stabi Regensburg</url>
     </werk>
 
     <werk id="haehn-geistlichesmagazin4-4-5">
@@ -4625,6 +4638,18 @@
     <werk id="sammlung-auserlesener-romanen">
         <zitation>Sammlung auserlesener Romanen und Erzählungen (Stuttgart: Cotta 1763).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN877415250" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="dressler-fragmente">
+        <akteur ref="dressler-ec" />
+        <zitation>Fragmente einiger Gedanken des Musikalischen Zuschauers die bessere Aufnahme der Musik in Deutschland betreffend (Gotha: Mevius 1767).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB00014D4300000000" >Stabi Berlin</url>
+    </werk>
+
+    <werk id="toellner-anleitung">
+        <akteur ref="toellner-jg" />
+        <zitation>Johann Gottlieb Töllners Anleitung zu einer zweckmäßigern Einrichtung der Predigten über die eingeführten Sonn- und Festtäglichen Texte (Züllichau: Waysenhaus, Frommann 1766).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB00007F7100000000" >Stabi Berlin</url>
     </werk>
 	
 

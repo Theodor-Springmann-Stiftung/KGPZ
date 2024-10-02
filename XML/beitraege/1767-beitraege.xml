@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+
+    <!-- Jahrgang 1767 -->
+    <beitrag>
+        <stueck datum="1767" nr="1" von="1" bis="2" />
+        <werk kat="rezension" ref="toellner-anleitung"></werk>
+        <ort ref="zuellichau"></ort>
+        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="1" von="2" bis="3" />
+        <werk kat="rezension" ref="dressler-fragmente"></werk>
+        <akteur ref="herder">Unterzeichnet „Hr.“; vgl. Düntzer XXIV, 670f.</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="1" von="3" bis="4" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="1" von="4" />
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="1" von="4" />
+        <kategorie ref="buecher" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="2" von="5" bis="6" />
+        <werk kat="rezension" ref="muenchhausen-hausvater" s="Bd. 2"></werk>
+        <ort ref="hannover"></ort>
+        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="2" von="7" bis="8" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="2" von="8" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="2" von="8" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="3" von="9" bis="10" />
+        <werk kat="rezension" ref="vida-arte"></werk>
+        <ort ref="altenburg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="3" von="9" bis="10" />
+        <werk kat="rezension" ref="stockhausen-sammlung3"></werk>
+        <ort ref="helmstedt"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="3" von="10" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="3" von="11" bis="12" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="3" von="12" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="3" von="12" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="3" von="12" />
+        <kategorie ref="lotterie" />
+    </beitrag>
+
+
+</beitraege>
