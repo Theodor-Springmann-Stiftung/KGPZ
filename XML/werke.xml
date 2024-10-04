@@ -397,13 +397,6 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10480950-6">BSB München</url>
     </werk>
 
-    <werk id="guthrie-weltgeschichte-von-der-schoepfung01">
-        <akteur ref="guthrie-w" />
-        <akteur ref="gray-j" />
-        <akteur ref="heyne-cg" />
-        <zitation>Allgemeine Weltgeschichte von der Schöpfung an bis auf gegenwärtige Zeit, ausgefertigt von Guthrie und Gray,
-            aus dem Englischen übersetzt, und durch Herrn P. Heyne berichtigt und mit Anmerkungen versehen. Erster Theil (Leipzig: Weidmann und Reich 1765).</zitation>
-        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10031927-0">BSB München</url> 
     </werk>
 
     <werk id="oesfeld-betrachtung">
@@ -2397,12 +2390,13 @@
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB000211AC00000000" >Stabi Berlin</url>
     </werk>
 
-    <werk id="guthrie-allgemeineweltgeschichte">
+    <werk id="guthrie-gray-allgemeineweltgeschichte">
         <akteur ref="guthrie" />
         <akteur ref="gray-j" />
-        <akteur ref="schroeckh-jm" />
-        <zitation>Allgemeine Weltgeschichte von der Schöpfung an bis auf gegenwärtige Zeit […], Bd. 8, welcher die Geschichte von Italien, seit dem Untergange des longobardischen Reichs und der Regierung Carls des Großen, bis auf unsre Zeiten enthält (Leipzig: Weidmanns, Reich 1770).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10031939-0" >BSB München</url>
+        <zitation>Allgemeine Weltgeschichte von der Schöpfung an bis auf gegenwärtige Zeit […], ausgefertigt von Wilhelm Guthrie, Johann Gray, und andern in diesen Theilen der Wissenschaften berühmten Gelehrten. Aus dem Englischen übersetzt (17 Bde., Leipzig: Weidmann, Reich 1765–1795).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10031927-0">Bd. 1 1765, bearb. v. Christian Gottlieb Heyne (BSB München)</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10031929-5">Bd. 3, bearb. v. Christian Gottlieb Heyne (BSB München)</url> 
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10031939-0" >Bd. 8 1770, bearb. v. J. M. Schröckh (BSB München</url>
     </werk>
 
     <werk id="eroberung-mexico">
@@ -4650,6 +4644,14 @@
         <akteur ref="toellner-jg" />
         <zitation>Johann Gottlieb Töllners Anleitung zu einer zweckmäßigern Einrichtung der Predigten über die eingeführten Sonn- und Festtäglichen Texte (Züllichau: Waysenhaus, Frommann 1766).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB00007F7100000000" >Stabi Berlin</url>
+    </werk>
+
+    <werk id="herder-fragmente">
+        <akteur ref="herder" />
+        <zitation>Ueber die neuere Deutsche Litteratur. Erste Sammlung von Fragmenten. Eine Beilage zu den Briefen, die neueste Litteratur betreffend (3 Bde., [Riga: Hartknoch] 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733673-6" >1. Sammlung (BSB münchen)</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733674-1" >2. Sammlung (BSB münchen)</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733675-6" >3. Sammlung (BSB münchen)</url>
     </werk>
 	
 

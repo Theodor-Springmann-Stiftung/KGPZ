@@ -51,6 +51,7 @@
         <stueck datum="1767" nr="3" von="9" bis="10" />
         <werk kat="rezension" ref="vida-arte"></werk>
         <ort ref="altenburg"></ort>
+        <akteur ref="scheffner">Warda/diesch I, 265</akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1767" nr="3" von="9" bis="10" />
@@ -76,6 +77,40 @@
     <beitrag>
         <stueck datum="1766" nr="3" von="12" />
         <kategorie ref="lotterie" />
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1767" nr="4" von="13" bis="15" />
+        <werk kat="rezension" ref="guthrie-gray-allgemeineweltgeschichte" s="Bd. 3"></werk>
+        <ort ref="leipzig"></ort>
+        <akteur ref="scheffner" unsicher="true">vgl. HBGA I, 76</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="4" von="15" bis="16" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="4" von="16" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="4" von="16" />
+        <kategorie ref="lokalanzeigen" />
+        <anmerkung>Diebische Entwendung des Hundes General von Meyers</anmerkung>
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1767" nr="5" von="17" bis="19" />
+        <werk kat="rezension" ref="herder-fragmente" s="1. und 2. Sammlung"></werk>
+        <akteur ref="scheffner" >Warda/diesch IV, 25</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="5" von="19" bis="20" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="5" von="20" />
+        <kategorie ref="wechselkurse" />
     </beitrag>
 
 
