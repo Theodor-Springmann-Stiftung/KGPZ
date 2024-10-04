@@ -1921,8 +1921,9 @@
 
     <werk id="klotz-acta1">
         <akteur ref="klotz" />
-        <zitation>Acta litteraria. Scripsit Christ. Adolphvs Klotzivs, vol. 1, pars 1 (Altenburg 1764).</zitation>
-        <url address="https://books.google.de/books?id=3MdbAAAAcAAJ" >Google Books</url>
+        <zitation>Acta litteraria. Scripsit Christ. Adolphvs Klotzivs (Altenburg 1764).</zitation>
+        <url address="https://books.google.de/books?id=3MdbAAAAcAAJ" >Bd. 1 (Google Books)</url>
+        <url address="https://books.google.de/books?id=47oGUSxfRx0C" >Bd. 2 (Google Books)</url>
     </werk>
 
     <werk id="justi-handwerke1-3">
@@ -2611,10 +2612,9 @@
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-346930">ULB Halle</url> 
     </werk>
 
-    <werk id="kirchhof-abhandlung-advocat-pflichten">
-        <akteur ref="kirchhof-jh" />
-        <zitation>Johann Heinrich Kirchhof Abhandlung von den Advocaten und ihren Pflichten besonders in peinlichen Fällen nebst einigen Schutzschriften der
-            wichtigsten Vorfälle (Vorrede von Manzel). Erster Theil (Berger und Bödmer: Bützow und Wismar 1765).</zitation>
+    <werk id="kirchhoff-abhandlung-advocat-pflichten">
+        <akteur ref="kirchhoff-jh" />
+        <zitation>Johann Heinrich Kirchhofs Abhandlung von den Advocaten und ihren Pflichten besonders in peinlichen Fällen nebst einigen Schutzschriften der wichtigsten Vorfälle. Mit einer Vorrede D. J. F. Manzels (2 Bde., Berger, Bödmer: Bützow und Wismar 1765).</zitation>
     </werk>
 
     <werk id="volkmann-historisch-italien">
@@ -4652,6 +4652,46 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733673-6" >1. Sammlung (BSB münchen)</url>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733674-1" >2. Sammlung (BSB münchen)</url>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733675-6" >3. Sammlung (BSB münchen)</url>
+    </werk>
+
+    <werk id="sammler-erlangen">
+        <zitation>Der Sammler zum Zeitvertreibe und Nutzen der Teutschen (3 Bde., Erlangen: 1764–1765).</zitation>
+        <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bsz:16-diglit-227955" >UB Heidelberg</url>
+    </werk>
+
+    <werk id="realzeitung-stuttgart">
+        <akteur ref="justi-jh" />
+        <zitation>Etwas für Alle, oder: neue Stuttgartder Realzeitung aufs Jahr 1765 (Stuttgart 1765).</zitation>
+    </werk>
+
+    <werk id="glover-leonidas">
+        <akteur ref="glover-r" />
+        <akteur ref="ebert-ja" />
+        <zitation>R. Glovers Leonidas, Ein Heldengedicht. Aus dem Englischen übersetzt von J. A. Ebert. Der Eydsgenössischen Jugend zugeeignet von Hs. Heinrich Füeßli (Zürich: Füeßlin 1766).</zitation>
+        <url address="http://dx.doi.org/10.25673/48496" >ULB Halle</url>
+    </werk>
+
+    <werk id="bibliotheca-bremensis">
+        <zitation>Bibliotheca Bremensis nova historico-philologico-theologica (6 Bde., Bremen, Amsterdam: Rump, Vieroot 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10785434-4" >Bd. 6 (BSB München)</url>
+    </werk>
+
+    <werk id="testament1766">
+        <zitation>Das Testament (Magdeburg: Hechtel [1766]).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001064F00000000" >Stabi Berlin</url>
+    </werk>
+
+    <werk id="hess-satyrische-schriften">
+        <akteur ref="hess-l" />
+        <akteur ref="schiebeler-d"></akteur>
+        <zitation>Des Herrn Justitzrath Ludwig von Heß Satyrische Schriften, herausgegeben durch S*** (Hamburg: Ritter 1767).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB000105CC00000000" >Stabi Berlin</url>
+    </werk>
+
+    <werk id="hellfeld-iurisprudentia">
+        <akteur ref="hellfeld-ja" />
+        <zitation>Iurisprudentia Forensis secundum Pandectarum ordinem: in usum auditorii proposita (Jena: Groecker 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565594-7" >BSB München</url>
     </werk>
 	
 
