@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <beitraege xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
 
     <!-- Jahrgang 1767 -->
     <beitrag>
@@ -78,7 +77,7 @@
         <stueck datum="1766" nr="3" von="12" />
         <kategorie ref="lotterie" />
     </beitrag>
-    
+
     <beitrag>
         <stueck datum="1767" nr="4" von="13" bis="15" />
         <werk kat="rezension" ref="guthrie-gray-allgemeineweltgeschichte" s="Bd. 3"></werk>
@@ -98,11 +97,11 @@
         <kategorie ref="lokalanzeigen" />
         <anmerkung>Diebische Entwendung des Hundes General von Meyers</anmerkung>
     </beitrag>
-    
+
     <beitrag>
         <stueck datum="1767" nr="5" von="17" bis="19" />
         <werk kat="rezension" ref="herder-fragmente" s="1. und 2. Sammlung"></werk>
-        <akteur ref="scheffner" >Warda/Diesch IV, 25</akteur>
+        <akteur ref="scheffner">Warda/Diesch IV, 25</akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="5" von="19" bis="20" />
@@ -190,6 +189,222 @@
         <stueck datum="1766" nr="8" von="32" />
         <kategorie ref="einkommende-fremde" />
     </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="9" von="33" />
+        <werk kat="rezension" ref="caraccioli-buch-mode"></werk>
+        <ort ref="hamburg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="9" von="33" bis="34" />
+        <werk kat="rezension" ref="beau-geschichte-kaiserthum" s="Bd. 4"></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="9" von="34" />
+        <werk kat="rezension" ref="etwas-freunde-freundinnen"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="9" von="34" />
+        <kategorie ref="gelehrte-nachrichten" />
+        <anmerkung>Bericht über die Feierlichkeiten zu Krönungsfest und Königsgeburtstag</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="9" von="34" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="9" von="35" bis="36" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="9" von="36" />
+        <kategorie ref="lokalnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="9" von="36" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag id="ramler-alexander">
+        <stueck datum="1767" nr="10" von="37" bis="39" />
+        <kategorie ref="gedicht"></kategorie>
+        <titel>Alexanders Fest, oder die Gewalt der Musik, eine Kantate auf den Tag der H. Cäcilia, zu der Händelischen Musik, aus dem Englischen des Dryden übersetzt.</titel>
+        <werk kat="uebersetzung" ref="dryden-alexander"></werk>
+        <akteur ref="ramler">HBGA I, 76</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="10" von="37" />
+        <beitrag kat="kommentar" ref="ramler-alexander"></beitrag>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="10" von="40" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="10" von="40" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="11" von="41" bis="42" />
+        <werk kat="rezension" ref="drusus-behutsamkeit"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="11" von="42" />
+        <werk kat="rezension" ref="hess-redliche-hamburger"></werk>
+        <ort ref="hamburg"></ort>
+        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="11" von="42" />
+        <werk kat="rezension" ref="dixmerie-moralische"></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="11" von="42" bis="43" />
+        <kategorie ref="gelehrte-nachrichten"></kategorie>
+        <ort ref="danzig"></ort>
+        <anmerkung>Über metereologische Beobachtungen des Prof. Hanow</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="11" von="43" bis="44" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="11" von="44" />
+        <kategorie ref="lokalnachrichten" />
+        <anmerkung>Berichtigung eines falschen Verzeichnisses der aus Königsberg importierten und exportierten Güter im <wwwlink
+            address="https://www.deutsche-digitale-bibliothek.de/newspaper/item/A52NCI7IV3ZJSZ7F74NVQ2CURKVPVQZE?issuepage=4">Altonaischen Merkur, St. 12, 20.1.1767</wwwlink>;mit einem berichtigenden Gesamtverzeichnis der Güter</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="11" von="44" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1767" nr="12" von="45" />
+        <werk kat="rezension" ref="geschenke-schoene-geschlecht"></werk>
+        <ort ref="berlin"></ort>
+        <ort ref="stralsund"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="12" von="45" bis="46" />
+        <werk kat="rezension" ref="unfehlbare-weg-vermoegen"></werk>
+        <ort ref="karlsruhe"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="12" von="36" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="12" von="47" bis="48" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="12" von="48" />
+        <kategorie ref="lokalnachrichten" />
+        <akteur ref="jester-ec" kat="nachruf" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="12" von="48" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    
+    <beitrag>
+        <beilage datum="1766" nr="12" von="1" bis="2" />
+        <kategorie ref="notenblatt" />
+        <titel>1te Beylage</titel>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1766" nr="12" von="3" bis="4" />
+        <kategorie ref="notenblatt" />
+        <titel>2te Beylage</titel>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="13" von="49" bis="50" />
+        <werk kat="rezension" ref="hausen-vermischte-schriften"></werk>
+        <ort ref="halle"></ort>
+        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="13" von="50" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="13" von="51" bis="52" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="13" von="52" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="14" von="53" bis="54" />
+        <werk kat="rezension" ref="elsner-boehmisch-verfolgungsgeschichte"></werk>
+        <akteur ref="trescho">Unterzeichnet „Ac.“ (wohl Druckfehler für „Ad.“)</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="14" von="54" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="14" von="55" bis="56" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="14" von="56" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="16" von="61" bis="62" />
+        <werk kat="rezension" ref="lith-abhandlung"></werk>
+        <ort ref="ulm"></ort>
+        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="16" von="62" />
+        <werk kat="rezension" ref="heusinger-neueste-sammlung9"></werk>
+        <ort ref="eisenach"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="16" von="62" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="16" von="63" bis="64" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="16" von="64" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="17" von="65" bis="67" />
+        <werk kat="rezension" ref="neues-bremisches-magazin1"></werk>
+        <ort ref="bremen"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="17" von="66" />
+        <titel>Sechstes Fragment</titel>
+        <werk kat="auszug" ref="neues-bremisches-magazin1" s="S. 19–22"></werk>
+        <anmerkung>Mit Anmerkungen zur Poesie der schottischen Barden</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="17" von="67" bis="68" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="17" von="68" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+
+    
 
 
 </beitraege>
