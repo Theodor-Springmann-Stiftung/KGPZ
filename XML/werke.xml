@@ -1892,7 +1892,7 @@
 
     <werk id="meister-vier-gesaengen">
         <akteur ref="meister-cgl"></akteur>
-        <zitation>Die Abendzeiten, in vier Gesängen. Nebst Anhang(Quedlinburg: Schwan, Reußner 1766).</zitation>
+        <zitation>Die Abendzeiten, in vier Gesängen. Nebst Anhang(Quedlinburg: Schwan, Reusner 1766).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000AB9100000000">Stabi Berlin</url>
     </werk>
 
@@ -2003,6 +2003,41 @@
     <werk id="resewitz-sammlung-predigten">
         <akteur ref="resewitz-fg" />
         <zitation>Sammlung einiger Predigten von Friedrich Gabriel Resewitz (Quedlinburg: Reusner 1766).</zitation>
+    </werk>
+
+    <werk id="meister-gemählde">
+        <akteur ref="meister-cgl" />
+        <zitation>Das Gemählde eines guten Fürsten, entworfen von Christoph Georg Ludwig Meister (Quedlinburg: Schwan, Reusner 1766).</zitation>
+    </werk>
+
+    <werk id="meister-vier-predigten">
+        <akteur ref="meister-jh" />
+        <zitation>Vier Predigten auf der Landschaft gehalten (Zürich: Heidegger 1766).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000161900000000" >Stabi Berlin</url>
+    </werk>
+
+    <werk id="voltaire-avis-parricides">
+        <akteur ref="voltaire" />
+        <zitation>Avis au public sur les parricides imputés aux Calas et aux Sirven (Genua [wohl zwischen 1760 und 1766]).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10418972-4" >BSB München</url>
+    </werk>
+
+    <werk id="laecherliche-verschiedener-nationen">
+        <zitation>Das Lächerliche verschiedener Nationen (Leipzig: Hilscher 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10255287-8" >BSB München</url>
+    </werk>
+
+    <werk id="expose-succinct">
+        <akteur ref="rousseau" />
+        <akteur ref="hume" />
+        <zitation>Exposé succinct de la contestation qui s’est élevée entre M. Hume et M. Rousseau (London 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10063974-5" >BSB München</url>
+    </werk>
+
+    <werk id="voltaire-lettres1766">
+        <akteur ref="voltaire" />
+        <zitation>Lettres de M. de Voltaire à ses amis du Parnasse: avec des notes historiques et critiques (Genf 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10404197-4" >BSB München</url>
     </werk>
 
     <werk id="ranft-leben">
