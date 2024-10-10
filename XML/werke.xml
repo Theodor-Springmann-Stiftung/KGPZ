@@ -150,6 +150,12 @@
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN556514408_0001">SUB Göttingen</url>
     </werk>
 
+    <werk id="jancki-excerptum">
+        <akteur ref="jancki-jd" />
+        <zitation>Excerptvm polonicae litteratvrae hvivs atqve svperioris aetatis, Bd. 4 (Breslau: Korn 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733196-3" >BSB München</url>
+    </werk>
+
     <werk id="kretschmann-bibliothek-der-damen">
         <akteur ref="kretschmann-kf" />
         <zitation>Bibliothek der Damen, oder Sammlung lehrreicher und angenehmer Abhandlungen zur
@@ -235,6 +241,11 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10309605-4">BSB München</url>
     </werk>
 
+    <werk id="grotjan-landcalender">
+        <akteur ref="grotjan-ja" />
+        <zitation>Johann August Grotjans Land- und Gartencalender, dritter Theil (Gotha 1766).</zitation>
+    </werk>
+
     <werk id="gerstenberg-briefe-ueber-die-merkwuerdigkeiten">
         <akteur ref="gerstenberg-hw" />
         <zitation>Briefe über Merkwürdigkeiten der Litteratur. Erste Sammlung (Schleswig, Leipzig:
@@ -244,11 +255,16 @@
 
     <werk id="museum-rusticum">
         <akteur ref="schwabe-jj" />
-        <zitation>Museum rusticum et commerciale oder auserlesene Schriften, den Ackerbau, die
-            Handlung, die Künste und Manufacturen betreffend, von der Gesellschaft zur Aufmunterung
-            der Künste und Manufacturen in London, aus dem Englischen übersetzt, Bd. 4 (Leipzig
-            1766). </zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10297918-9">BSB München</url>
+        <zitation>Museum rusticum et commerciale oder auserlesene Schriften, den Ackerbau, die Handlung, die Künste und Manufacturen betreffend, von der Gesellschaft zur Aufmunterung der Künste und Manufacturen in London, aus dem Englischen übersetzt (7 Bde., Leipzig: Junius 1764–1767). </zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10297918-9">Bd. 4 (BSB München)</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10297919-8">Bd. 5 (BSB München)</url>
+    </werk>
+
+    <werk id="unzer-sammlung">
+        <akteur ref="unzer-ja" />
+        <zitation>Sammlung kleiner Schriften von D. Johann August Unzer (2 Bde., Rinteln, Leipzig: Verth 1766).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN644919507" >Bd. 1 (SUB Göttingen)</url>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN644920017" >Bd. 2 (SUB Göttingen)</url>
     </werk>
 
     <werk id="marsollier-entretiens">
@@ -258,10 +274,46 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10041239-3">BSB München</url>
     </werk>
 
+    <werk id="etwas-geschmack">
+        <zitation>Etwas für den Geschmack vieler Leute, oder Sammlung moralischer Erzählungen, als eine Zugabe zu denjenigen, welche bisher im Druck erschienen sind. Aus dem Französischen übersetzt (Kassel: Hemmerde 1767).</zitation>
+    </werk>
+
+    <werk id="hiltebrand-preisschrift">
+        <akteur ref="hildebrand-jl" />
+        <zitation>Johann Ludwig Hiltebrands irrländische Preiß-Schrift, auf welche Weise alle Armen, Wittwen und Waisen in jedem Lande versorget, dem Umlauf der Bettler gesteuret, und das Land von allem liederlichen Gesindel gereiniget werde, 1765 vermehrt und verbessert, nebst einer herrschaftlichen Oekonomiebeschreibung: Wie ein Herr seine Staaten in den besten Flor, die Unterthanen in guten Stand, und die Revenüen in Verbesserung bringen könne (Frankfurt, Leipzig [Saarbrücken: Hofer] 1766).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3209722596">SLUB Dresden</url>
+    </werk>
+
     <werk id="neander-geistliche-lieder">
         <akteur ref="neander-cf" />
         <zitation>C. F. Neanders geistliche Lieder (Riga, Leipzig: Hartknoch 1766).</zitation>
         <url address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN892644222">Stabi Berlin</url>
+    </werk>
+
+    <werk id="schinmeier-sammlung">
+        <akteur ref="schinmeier-ja" />
+        <zitation>Sammlung einiger Predigten, von Johann Adolph Schinmeier (Stettin 1766).</zitation>
+    </werk>
+
+    <werk id="huch-kritischer">
+        <akteur ref="huch-eld" />
+        <zitation>Kritischer Christ (Zerbst: Zimmermann 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11119539-1" >Stabi Regensburg</url>
+    </werk>
+
+    <werk id="anmerkungen-ernesti-recension">
+        <zitation>Anmerkungen über Herrn D. Ernesti Recension derer Crusiusschen Hypomnematum ad Theol. propheticam (Frankfurt, Leipzig 1767).</zitation>
+    </werk>
+
+    <werk id="hardion-allgemeine">
+        <akteur ref="hardion-j" />
+        <zitation>Herrn Hardions allgemeine heilige und weltliche Geschichte welche Salomon Ranisch aus dem Französischen übersetzet hat, Bd. 8 (Altenburg: Richter 1766).</zitation>
+    </werk>
+
+    <werk id="rudolph-handbuch">
+        <akteur ref="rudolph-dg" />
+        <zitation>Hand-Buch oder kurze Anweisung wie man Naturalien-Sammlungen mit Nutzen betrachten soll von Daniel Gottlob Rudolph (Leipzig: Rothe 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10076387-8" >BSB München</url>
     </werk>
 
     <werk id="clemm-sammlung-festtagspredigten">
@@ -269,6 +321,23 @@
         <zitation>Sammlung einiger Sonn- und Festtagspredigten zum Druck überlassen von Heinrich
             Wilhelm Clemm (Tübingen: Cotta 1766).</zitation>
         <url address="https://books.google.ca/books?id=ZMIVFnSuv1sC">Google Books</url>
+    </werk>
+
+    <werk id="bielfeld-eremit">
+        <akteur ref="bielfeld-jf" />
+        <zitation>Der Eremit. Die 6 ersten Stücke (Leipzig 1767).</zitation>
+    </werk>
+
+    <werk id="sponsel-pruefung">
+        <akteur ref="sponsel-ju" />
+        <zitation>Johann Ulrich Sponsels Prüfung der Michaelischen Erklärung des Briefes Pauli an die Hebräer (Bayreuth: Lübeck 1767).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bsz:24-digibib-kxp18333430429" >WLB Stuttgart</url>
+    </werk>
+
+    <werk id="collins-discours">
+        <akteur ref="collins-a" />
+        <zitation>Discours sur la liberté de penser, par Mr. A. Collins. Traduit de l’Anglois et augmenté d’une lettre d’un médecin arabe; avec l’Examen de ces deux Ouvrages par Mr. de Crouzas. Nouvelle Edition corrigée (2 Bde., London 1766).</zitation>
+        <url address="https://hdl.handle.net/2027/mdp.39015062236511" >Hathi Trust</url>
     </werk>
 
     <werk id="stapfer-sittenlehre">
@@ -3321,11 +3390,10 @@
             address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10040300-4">Bd. 2</url>
     </werk>
 
-    <werk id="weisse-neuebibliothek11-1">
+    <werk id="weisse-neuebibliothek">
         <akteur ref="weisse-cf" />
-        <zitation>Neue Bibliothek der schönen Wissenschaften und der freyen Künste. Eilften Bandes
-            erstes Stück (Leipzig: Dyck 1770).</zitation>
-        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN556514408_0011">SUB Göttingen</url>
+        <zitation>Neue Bibliothek der schönen Wissenschaften und der freyen Künste (77 Bde., Leipzig: Dyck 1765–1806).</zitation>
+        <url address="https://gdz.sub.uni-goettingen.de/id/PPN556514408">SUB Göttingen</url>
     </werk>
 
     <werk id="moscati-unterscheide">

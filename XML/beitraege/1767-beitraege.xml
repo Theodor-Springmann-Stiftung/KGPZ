@@ -619,12 +619,12 @@
     </beitrag>
     <beitrag>
         <stueck datum="1767" nr="28" von="110"/>
-        <werk ref="" kat="rezension" />
+        <werk ref="grotjan-landcalender" kat="rezension" />
         <ort ref="gotha"></ort>
     </beitrag>
     <beitrag>
         <stueck datum="1767" nr="28" von="110"/>
-        <werk ref="" kat="rezension" />
+        <werk ref="unzer-sammlung" kat="rezension" />
         <ort ref="rinteln"></ort>
     </beitrag>
     <beitrag>
@@ -638,6 +638,158 @@
     <beitrag>
         <stueck datum="1766" nr="28" von="112" />
         <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="29" von="113" bis="114"/>
+        <werk kat="rezension" ref="museum-rusticum" s="Bd. 5"></werk>
+        <ort ref="leipzig"/> 
+        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="29" von="114" bis="118" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="29" von="118" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="30" von="117" bis="118"/>
+        <werk kat="rezension" ref="etwas-geschmack"></werk>
+        <ort ref="kassel"/> 
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="30" von="118"/>
+        <werk kat="rezension" ref="hiltebrand-preisschrift"></werk>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="30" von="118"/>
+        <werk kat="rezension" ref="hardion-allgemeine"></werk>
+        <ort ref="altenburg"/> 
+        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="30" von="118" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="30" von="118" bis="120" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="30" von="120" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="31" von="121" bis="122"/>
+        <werk kat="rezension" ref="rudolph-handbuch"></werk>
+        <ort ref="leipzig"/> 
+        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="31" von="22"/>
+        <werk kat="rezension" ref="schinmeier-sammlung"></werk>
+        <ort ref="stettin"/> 
+        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="31" von="123" bis="124" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="31" von="124" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="32" von="125" bis="126"/>
+        <werk kat="rezension" ref="huch-kritischer"></werk>
+        <ort ref="zerbst"/> 
+        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="32" von="126"/>
+        <werk kat="rezension" ref="anmerkungen-ernesti-recension"></werk>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
+        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="32" von="127" bis="128" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="32" von="128" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="32" von="128" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+  
+    <beitrag>
+        <stueck datum="1766" nr="33" von="129" bis="130" />
+        <werk kat="auszug" ref="weisse-neuebibliothek" s="Bd. 3, St. 2, S. 330–341"></werk>
+        <anmerkung>Über Edward Youngs Leben</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="33" von="130" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="33" von="131" bis="136" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="33" von="136" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+  
+    <beitrag>
+        <stueck datum="1767" nr="34" von="137" bis="138"/>
+        <werk kat="rezension" ref="jancki-excerptum"></werk>
+        <ort ref="breslau"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="34" von="138" bis="140" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="34" von="140" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+  
+    <beitrag>
+        <stueck datum="1767" nr="35" von="141"/>
+        <werk kat="rezension" ref="bielfeld-eremit"></werk>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="35" von="142"/>
+        <werk kat="rezension" ref="collins-discours"></werk>
+        <ort ref="london"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="35" von="142"/>
+        <werk kat="rezension" ref="sponsel-pruefung"></werk>
+        <ort ref="bayreuth"/>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="35" von="142" />
+        <kategorie ref="buecher" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="35" von="142" bis="144" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1766" nr="35" von="144" />
+        <kategorie ref="wechselkurse" />
     </beitrag>
 
 
