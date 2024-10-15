@@ -121,6 +121,18 @@
         <url address="https://books.google.de/books?id=Rjc2SCDd4HoC" >Google Books</url>
     </werk>
 
+    <werk id="fuessli-remarks">
+        <akteur ref="fuessli-jh" />
+        <zitation>Remarks on the Writings and Conduct of. J. J. Rousseau(London 1767). </zitation>
+        <url address="https://hdl.handle.net/2027/nyp.33433075822639" >Hathi Trust</url>
+    </werk>
+
+    <werk id="porte-geschichte">
+        <akteur ref="porte-p" />
+        <zitation>Geschiche des Herrn de la Porte, vornehmsten Kammerdieners Ludwigs des Vierzehnden, Königs in Frankreich, welche viele besondere Umstände von der Regierung Ludwigs des Dreyzehnden und Ludwigs des Vierzehnden enthält. Aus dem Französischen übersetzt (Leipzig: Rothe 1766).</zitation>
+        <url address="http://dx.doi.org/10.25673/47325" >ULB Halle</url>
+    </werk>
+
     <werk id="buelau-noch-etwas">
         <akteur ref="buelau-jj" />
         <zitation>Noch etwas zum Deutschen Nationalgeiste (Lindau: Thierbach 1766).</zitation>
@@ -397,6 +409,11 @@
             Glauben, Gott zur Ehre, durch schriftmäßige Predigten zu erbauen. Zum Druck befördert
             von Johann Heinrich Pratje. Vierter Versuch (Hamburg: Brandt 1765).</zitation>
         <url address="http://dl.ub.uni-freiburg.de/diglit/pratje1765-4/0005">UB Freiburg</url>
+    </werk>
+
+    <werk id="pratje-aufmunterungen">
+        <akteur ref="pratje-jh" />
+        <zitation>Aufmunterungen zur redlichen Ausrichtung des evngelischen Predigtamtes in Einführungsreden mitgetheilet von Johann Hinrich Pratje (Teil 2, Hamburg: Brandt 1767).</zitation>
     </werk>
 
     <werk id="zachariae-beste-deutsche-dichter">
@@ -1719,11 +1736,12 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11409477-1">Stabi Bamberg</url>
     </werk>
 
-    <werk id="schreber-schauplatz-der-kuenste5">
+    <werk id="schreber-schauplatz-der-kuenste">
         <akteur ref="schreber-dg"></akteur>
-        <zitation>Schauplatz der Künste und Handwerke oder vollständige Beschreibung derselben,
-            verfertiget oder gebilliget von denen Herren der Akademie der Wissenschaften zu Paris.
-            Hrsg. von Daniel Gottfried Schreber, Bd. 5 (, Königsberg und Mitau: Kanter 1766).</zitation>
+        <zitation>Schauplatz der Künste und Handwerke oder vollständige Beschreibung derselben, verfertiget oder gebilliget von denen Herren der Akademie der Wissenschaften zu Paris (21 Bde., verschiedene Orte 1762–1805).</zitation>
+        <url address="https://de.wikipedia.org/wiki/Description_des_arts_et_m%C3%A9tiers">Bibliographie der Einzelbände mit Verlinkung zu Digitalisaten bei Wikisource</url>
+        <url address="http://data.onb.ac.at/rep/1045B49B">Bd. 5, Königsberg, Mitau: Kanter 1766 (ÖNB Wien)</url>
+        <url address="http://data.onb.ac.at/rep/1045B482">Bd. 6, Leipzig, Königsberg: Kanter 1767 (ÖNB Wien)</url>
     </werk>
 
     <werk id="neues-handbuch-kuenstler">
@@ -1894,9 +1912,10 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10129215-9">Bd. 2 (BSB München)</url>
     </werk>
 
-    <werk id="theater-der-deutschen-01">
-        <zitation>Theater der Deutschen. Erster Theil (Berlin, Leipzig: Rüdiger 1766).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925345-0">BSB München</url>
+    <werk id="theater-der-deutschen">
+        <zitation>Theater der Deutschen (18 Bde., Berlin, Leipzig, Königsberg: Rüdiger, Kanter 1765–1776).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925345-0">Bd. 1, 1766 (BSB München)</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925329-6">Bd. 4, 1767 (BSB München)</url>
     </werk>
 
     <werk id="marmontel-dichtkunst">
