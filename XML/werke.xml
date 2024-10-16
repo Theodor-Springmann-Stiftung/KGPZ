@@ -627,7 +627,7 @@
     </werk>
 
     <werk id="hirzel-bauer">
-        <akteur ref="hirzel" />
+        <akteur ref="hirzel-hc" />
         <zitation>Die Wirthschaft eines philosophischen Bauers. Entworfen von H. C. Hirzel (Zürich:
             Heidegger und Compagnie 1761).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10295965-9">BSB München</url>
@@ -1902,6 +1902,30 @@
         <akteur ref="loewen-jf" />
         <zitation>Johann Friedrich Löwens Schriften. (4 Bde., Hamburg: Bock 1765–1766), Bd. 1–3.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10129950-6">BSB München</url>
+    </werk>
+
+    <werk id="tissot-anleitung">
+        <akteur ref="tissot-sad" />
+        <akteur ref="hirzel-hc" />
+        <zitation>Herrn S. A. D. Tissot Anleitung für das Landvolk in Absicht auf seine Gesundheit. Aus dem Französischen übersetzt durch H. C. Hirzel (3. Auf., Zürich: Füeßlin 1767).</zitation>
+        <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:hbz:061:2-32991" >UB Düsseldorf</url>
+    </werk>
+
+    <werk id="biene1767">
+        <zitation>Die Biene, oder Sammlung der auserlesensten moralischen Versuche der besten neuern englischen Schriftsteller für den Verstand und das Herz 1767 (Stuttgart: Cotta 1767).</zitation>
+    </werk>
+
+    <werk id="nicolai-ehrengedächtnis">
+        <akteur ref="nicolai" />
+        <zitation>Ehrengedächtniß Herrn Thomas Abbt. An Herrn D. Johann George Zimmermann von Friedrich Nicolai (Berlin, Stettin: Nicolai 1767)</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10887644-5" >BSB München</url>
+    </werk>
+    
+    <werk id="ellis-versuch">
+        <akteur ref="ellis-j" />
+        <akteur ref="kruenitz-jg" />
+        <zitation>Herrn Johann Ellis Versuch einer Natur-Geschichte der Corall-Arten und anderer dergleichen Mer-Cörper, welche gemeiniglich an den Küsten von Groß-Britannien und Irrland gefunden werden: Nebst der Beschreibung eines großen Büschel-Polypen, welcher in dem Eis-Mere gefangen worden (Nürnberg: Raspe 1767).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bvb:29-bv004175323-3" >UB Erlangen-Nürnberg</url>
     </werk>
 
     <werk id="richey-deutschegedichte">
@@ -5761,6 +5785,12 @@
         <akteur ref="justi-jh" />
         <zitation>Etwas für Alle, oder: neue Stuttgartder Realzeitung aufs Jahr 1765 (Stuttgart
             1765).</zitation>
+    </werk>
+
+    <werk id="giseke-poetische">
+        <akteur ref="giseke-nd" />
+        <zitation>Poetische Werke (Braunschweig: Waisenhaus 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10108810-0" >BSB München</url>
     </werk>
 
     <werk id="glover-leonidas">
