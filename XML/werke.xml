@@ -5395,7 +5395,7 @@
     </werk>
 
     <werk id="stetten-selinde">
-        <akteur ref="stetten-p" />
+        <akteur ref="stetten-p1731" />
         <zitation>Selinde eine Ritter-Geschichte in dreyen Büchern (Augsburg: Lotter 1764).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11723919-3">UB Bamberg</url>
     </werk>
@@ -5976,15 +5976,77 @@
         <url address="https://nbn-resolving.org/urn:nbn:de:kobv:11-711694" >UB HU Berlin</url>
     </werk>
 
+    <werk id="dezallier-leben">
+        <akteur ref="dezallier-aaj" />
+        <akteur ref="volkmann-jj"></akteur>
+        <zitation>Leben der berühmtesten Maler: nebst einigen Anmerkungen über ihren Character, der Anzeige ihrer vornehmsten Werke und einer Anleitung die Zeichnungen und Gemälde […] (4 Bde., Leipzig: Dyck 1767–1768).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10258169-3" >BSB München</url>
+    </werk>
+
     <werk id="stetten-siegfried-agnes">
-        <akteur ref="stetten-p" />
+        <akteur ref="stetten-p1643" />
         <zitation>Siegfried und Agnes eine Rittergeschichte (o.O. 1767).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10120780-2" >BSB München</url>
+    </werk>
+
+    <werk id="gesammelte-schriften-vergnuegen-wien">
+        <zitation>Gesammelte Schriften zum Vergnügen und Unterricht (5 Bde., Wien 1766–1767).</zitation>
+    </werk>
+
+    <werk id="einem-gedanken">
+        <akteur ref="einem-ja" />
+        <zitation>Gedanken über die Ursachen eines langsamen Unterrichts in Schulen (Berlin: Realschule 1767).</zitation>
+        <url address="https://books.google.de/books?id=q26CghP-_24C" >Google Books</url>
+    </werk>
+
+    <werk id="eisenhart-heilsordnung">
+        <akteur ref="eisenhart-aw" />
+        <zitation>Heilsordnung und christliche Sittenlehre zum Gebrauch der Jugend auf eine catechetische Art verfasset (Frankfurt, Leipzig 1767).</zitation>
+    </werk>
+
+    <werk id="sturm-anekdoten">
+        <akteur ref="sturm-cs" />
+        <zitation>Anekdoten zur Bildung der Sitten aus den Griechischen und Römischen Schriftstellern gesammlet (Halle: Trampe 1767).</zitation>
+        <url address="http://dx.doi.org/10.25673/78608" >ULB Halle</url>
     </werk>
 
     <werk id="redliche-hamburger1766">
         <zitation>Der Redliche Hamburger Von 1766 (Hamburg: Ritter 1767).</zitation>
         <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:gbv:18-5-PPN8843886380" >Stabi Hamburg</url>
+    </werk>
+
+    <werk id="cocchi-ehestande">
+        <akteur ref="cocchi-ac" />
+        <zitation>Antonio Cocchi D.M. vom Ehestande. Aus dem Italienischen. Nebst einem Fragment den Ehestand betreffend (Berlin: Wever 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040178-3" >BSB München</url>
+    </werk>
+
+    <werk id="t-lyrische-andere-gedichte">
+        <zitation>Lyrische und andere Gedichte von T*** (Hamburg: 1766).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN63661865X" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="lucke-olint">
+        <akteur ref="lucke-gs" />
+        <akteur ref="zachariae-fw" />
+        <zitation>Olint und Sophronia. Ein Gedicht in drey Gesängen; nebst einem Anhange einiger andern Gedichte; von Gottlob Sebastian von Lucke. Zum Druck befördert von Friedrich Wilhelm Zachariä (Braunschweig: Waisenhaus 1767).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000B24A00000000" ></url>
+    </werk>
+
+    <werk id="beytrag-litteratur1766">
+        <zitation>Beytrag zur Litteratur und zum Vergnügen (Halle 1766).</zitation>
+    </werk>
+
+    <werk id="cramer-neue-sammlung8">
+        <akteur ref="cramer-ja" />
+        <zitation>Neue Sammlung einiger Predigten, besonders über Evangelia und einige andere Texte von Johann Andreas Cramer. Achter Theil (Kopenhagen: Rothe 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458637-7" >BSB München</url>
+    </werk>
+
+    <werk id="merian-enlevement">
+        <akteur ref="merian-jb" />
+        <zitation>L’enlevement de Proserpine, poëme de Claudien traduit en prose françoise, avec un Discours sur ce Poëte, et des Remarques; Par M. Merian (Berlin 1767).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000D38D00000000" >Stabi Berlin</url>
     </werk>
 
 
