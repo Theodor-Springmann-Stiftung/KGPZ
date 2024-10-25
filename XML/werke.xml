@@ -6142,6 +6142,11 @@
         <zitation>Die geraubte Einsiedlerin. Oder Ophelia (2 Bde., Berlin: Pauli 1767).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN1000796493" >2. Aufl 1772 (SUB Göttingen)</url>
     </werk>
+    
+    <werk id="leyding-einsame">
+        <akteur ref="leyding-jd" />
+        <zitation>Der Einsame, 2 Teile (Hamburg 1766).</zitation>
+    </werk>
 
     <werk id="hume-abriss">
         <akteur ref="hume" />
@@ -6182,12 +6187,12 @@
 
     <werk id="holberg-politische-kannegiesser">
         <akteur ref="holberg" />
-        <zitation>Der politische Kannengießer (1722). Von der Schuchschen Truppe im Oktober/November 1767 aufgeführt</zitation>
+        <zitation>Der politische Kannengießer (1722). Von der Schuchschen Truppe im Oktober/November 1767 aufgeführt.</zitation>
     </werk>
-    
-    <werk id="leyding-einsame">
-        <akteur ref="leyding-jd" />
-        <zitation>Der Einsame, 2 Teile (Hamburg 1766).</zitation>
+
+    <werk id="holberg-bramarbas">
+        <akteur ref="holberg" />
+        <zitation>Der Bramarbas (1741). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
     </werk>
 
     <werk id="voltaire-zaire">
@@ -6235,6 +6240,19 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11019202-2" >BSB München</url>
     </werk>
 
+    <werk id="lavater-erinnerer1766">
+        <akteur ref="lavater" />
+        <zitation>Der Erinnerer. Eine Wochenschrift auf das Jahr 1766 (Zürich: Füeßli 1766).</zitation>
+        <url address="https://www.e-rara.ch/doi/10.3931/e-rara-14854" >ZB Zürich</url>
+    </werk>
+
+    <werk id="brosses-vollstaendige-geschichte">
+        <akteur ref="brosses-c" />
+        <akteur ref="adelung-jc"></akteur>
+        <zitation>Vollständige Geschichte der Schiffahrten nach den unbekannten Südländern aus dem Französischen des Herrn Präsidenten de Brosse übersetzt, mit Anmerkungen begleitet und mit verschiedenen Zusätzen versehen von Johann Christoph Adelung (Halle: Gebauer 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10901331-3" >BSB München</url>
+    </werk>
+
     <werk id="krueger-candidaten">
         <akteur ref="krueger-ck" />
         <zitation>Die Candidaten (1747). Von der Schuchschen Truppe im Oktober 1767 aufgeführt.</zitation>
@@ -6276,6 +6294,29 @@
         <akteur ref="goldoni-c" />
         <zitation>Der Cavalier und die Dame, oder, Die zwey gleich edlen Seelen: ein Lustspiel (Dresden 1755). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
         <url address="https://books.google.de/books?id=GLOSzzjmBT8C" >Google Books</url>
+    </werk>
+
+    <werk id="lessing-miss-sara">
+        <akteur ref="lessing" />
+        <zitation>Miss Sara Sampson (1755). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+    </werk>
+
+    <werk id="lillo-kaufmann">
+        <akteur ref="lillo-g" />
+        <zitation>Der Kaufmann von London, oder Begebenheiten Georg Barnwells. Ein bürgerliches Trauerspiel (The London merchant or the history of George Barnwell, 1731, dt. Uraufführung 1754).Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11257760-0" >Stabi Augsburg</url>
+    </werk>
+
+    <werk id="weisse-poeten-mode">
+        <akteur ref="weisse-cf" />
+        <zitation>Die Poeten nach der Mode. Ein Lustspiel in drey Aufzügen (um 1760). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+        <url address="https://purl.uni-rostock.de/rosdok/ppn1004953569" >UB Rostock</url>
+    </werk>
+
+    <werk id="chamfort-junge-indianerin">
+        <akteur ref="chamfort-n" />
+        <zitation>Die junge Indianerin. Ein Lustspiel in einem Aufzuge (1764). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+        <url address="https://books.google.nl/books?id=oT9aAAAAcAAJ" >Google Books</url>
     </werk>
 
 
