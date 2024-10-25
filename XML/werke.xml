@@ -6171,6 +6171,19 @@
         <zitation>Die Menechmen oder zwey Wochenschriften von gleicher Statur in vier Aufzügen (Kopenhagen 1767).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB00019D0D00020000" >Im 2. Bd. der Sammlung von Sturz’ Schriften, München 1785 (Stabi Berlin)</url>
     </werk>
+
+    <werk id="goulard-chirurgische-werke">
+        <akteur ref="goulard-t" />
+        <akteur ref="vogel-z"></akteur>
+        <akteur ref="wichmann-je"></akteur>
+        <zitation>Herrn Goulards Chirurgische Werke. Aus dem Französischen übersetzt. Mit einer Vorrede versehen von Dr. Zacharias Vogel (2 Bde., Lübeck: Donatius 1767).</zitation>
+        <url address="http://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-11257" >2. Aufl. Lübeck 1772/1773 (LB Oldenbburg)</url>
+    </werk>
+
+    <werk id="holberg-politische-kannegiesser">
+        <akteur ref="holberg" />
+        <zitation>Der politische Kannengießer (1722). Von der Schuchschen Truppe im Oktober/November 1767 aufgeführt</zitation>
+    </werk>
     
     <werk id="leyding-einsame">
         <akteur ref="leyding-jd" />
@@ -6184,12 +6197,42 @@
 
     <werk id="weisse-amalia">
         <akteur ref="weisse-cf" />
-        <zitation>Amalia (1766). Von der Schuchschen Truppe im Oktober 1767 aufgeführt.</zitation>
+        <zitation>Amalia (1766). Von der Schuchschen Truppe im Oktober und November 1767 aufgeführt.</zitation>
     </werk>
 
     <werk id="weisse-haushaelterin">
         <akteur ref="weisse-cf" />
         <zitation>Die Haushälterin (nach 1760). Von der Schuchschen Truppe im Oktober 1767 aufgeführt.</zitation>
+    </werk>
+
+    <werk id="weisse-rosemunde">
+        <akteur ref="weisse-cf" />
+        <zitation>Rosemunde (um 1767). Von der Schuchschen Truppe im Oktober/November 1767 aufgeführt.</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN66923513X">Ausgabe Leipzig 1776 (SUB Göttingen)</url>
+    </werk>
+
+    <werk id="weisse-crispus">
+        <akteur ref="weisse-cf" />
+        <zitation>Crispus. Ein Trauerspiel in Versen und fünf Aufzügen (um 1767). Von der Schuchschen Truppe im Oktober/November 1767 aufgeführt.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10121232-6">Ausgabe Wien 1768 (BSB München)</url>
+    </werk>
+
+    <werk id="berg-policey">
+        <akteur ref="berg-jhl" />
+        <zitation>Policey- und Cameral-Magazin in welchem nach alphabetischer Ordnung die vornehmsten und wichtigsten bey dem Policey- und Cameralwesen vorkommende Materien nach richtigen und vernünftigen Grundsätzen practisch abgehandelt und durch landesherrliche Gesetze und hin und wieder wirklich gemachte Einrichtungen erläutert werden. Bd. 1 (A und B), hg. von Johann Heinrich Ludwig Bergius (Frankfurt: Andreae 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10687575-1" >BSB München</url>
+    </werk>
+
+    <werk id="doehler-entwurf">
+        <akteur ref="doehler-jf" />
+        <zitation>Entwurf eines vollständigen Reglements oder einer Ordnung für eine Fürstliche Hof-Cammer abgefasset von Jacob Friederich Döhler (Jena: Cuno 1767).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000843A00000000" >Stabi Berlin</url>
+    </werk>
+
+    <werk id="streal-abhandlungen">
+        <akteur ref="streal-cv" />
+        <zitation>Abhandlungen über Gegenstände der alten und neuern Geschichte (2 Bde., Riga: Hartknoch 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11019202-2" >BSB München</url>
     </werk>
 
     <werk id="krueger-candidaten">
@@ -6205,6 +6248,34 @@
     <werk id="voltaire-alzire">
         <akteur ref="voltaire" />
         <zitation>Zaïre (1736). Von der Schuchschen Truppe im Oktober 1767 aufgeführt.</zitation>
+    </werk>
+
+    <werk id="romanus-burlin">
+        <akteur ref="romanus-kf" />
+        <zitation>Burlin der Diener, Vater, und Schwiegervater in einer Person. Ein Lustspiel in fünf Aufzügen. Aufgeführt in dem Kaiserl. Königl. privilegirten Theater (Wien: Kraus 1763). Von der Schuchschen Truppe im Oktober/November 1767 aufgeführt</zitation>
+        <url address="https://books.google.de/books?id=A1JZAAAAcAAJ" ></url>
+    </werk>
+
+    <werk id="goldoni-pamela">
+        <akteur ref="goldoni-c" />
+        <zitation>Pamela, oder: Die belohnte Tugend. Ein Lustspiel in drey Handlungen, aus dem italiänischen des Herrn D. Carl Goldoni übersetzt (Danzig 1756). Von der Schuchschen Truppe im Oktober/November 1767 aufgeführt.</zitation>
+        <url address="https://books.google.de/books?id=BIDd1YCeIbkC" >Google Books</url>
+    </werk>
+
+    <werk id="moliere-geizige">
+        <akteur ref="moliere" />
+        <zitation>Der Geizige (l’Avare ou l’École du mensonge, 1668). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+    </werk>
+
+    <werk id="diderot-hausvater">
+        <akteur ref="diderot" />
+        <zitation>Der Hausvater (Le Père de famille, 1760). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+    </werk>
+
+    <werk id="goldoni-cavalier">
+        <akteur ref="goldoni-c" />
+        <zitation>Der Cavalier und die Dame, oder, Die zwey gleich edlen Seelen: ein Lustspiel (Dresden 1755). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+        <url address="https://books.google.de/books?id=GLOSzzjmBT8C" >Google Books</url>
     </werk>
 
 
