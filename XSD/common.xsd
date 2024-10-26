@@ -184,6 +184,7 @@
           </xsd:annotation>
           <xsd:simpleType>
             <xsd:restriction base="xsd:string">
+              <xsd:enumeration value="theaterkritik" />
               <xsd:enumeration value="erwähnung" />
               <xsd:enumeration value="rezension" />
               <xsd:enumeration value="auszug" />
