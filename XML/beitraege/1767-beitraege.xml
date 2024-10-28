@@ -1372,7 +1372,7 @@
     
     <beitrag>
         <stueck datum="1767" nr="66" von="265" bis="267"/>
-        <werk kat="rezension" ref="schiebeler-unterhaltungen"></werk>
+        <werk kat="rezension" ref="schiebeler-unterhaltungen" s="Januar und Februar 1767 in der Monatsschrift"></werk>
         <ort ref="hamburg"></ort>
         <akteur ref="herder">HGBA I,76</akteur>
     </beitrag>
@@ -1672,7 +1672,7 @@
 
     <beitrag>
         <stueck datum="1767" nr="80" von="321" bis="322"/>
-        <werk kat="rezension" ref="onomatologia-historiae-naturalis-completa"></werk>
+        <werk kat="rezension" ref="onomatologia-historiae-naturalis-completa3"></werk>
         <ort ref="ulm"></ort>
         <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
     </beitrag>
@@ -1917,7 +1917,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1767" nr="90" von="364" />
-        <werk kat="theaterkritik" ref="weisse-rose munde"></werk>
+        <werk kat="theaterkritik" ref="weisse-rosemunde"></werk>
         <akteur ref="lindner-jg">vgl. Schneider, 9–25, Warda/Diesch II, 330f.</akteur>
     </beitrag>
     <beitrag>
@@ -2006,7 +2006,7 @@
     <beitrag>
         <stueck datum="1767" nr="94" von="382" />
         <werk kat="theaterkritik" ref="marivaux-mutter"></werk>
-        <akteur ref="lindner">vgl. Schneider, 9–25, Warda/Diesch II, 330f.</akteur>
+        <akteur ref="lindner-jg">vgl. Schneider, 9–25, Warda/Diesch II, 330f.</akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1767" nr="94" von="383" bis="384" />
@@ -2025,7 +2025,7 @@
     <beitrag>
         <stueck datum="1767" nr="95" von="386" />
         <werk kat="theaterkritik" ref="destouches-gespenst"></werk>
-        <akteur ref="lindner">vgl. Schneider, 9–25, Warda/Diesch II, 330f.</akteur>
+        <akteur ref="lindner-jg">vgl. Schneider, 9–25, Warda/Diesch II, 330f.</akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1767" nr="95" von="386" bis="388" />
@@ -2044,7 +2044,7 @@
     <beitrag>
         <stueck datum="1767" nr="96" von="390" bis="391" />
         <werk kat="theaterkritik" ref="moliere-eingebildete-kranke"></werk>
-        <akteur ref="lindner">vgl. Schneider, 9–25, Warda/Diesch II, 330f.</akteur>
+        <akteur ref="lindner-jg">vgl. Schneider, 9–25, Warda/Diesch II, 330f.</akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1767" nr="96" von="391" bis="392" />
@@ -2083,6 +2083,56 @@
     </beitrag>
     <beitrag>
         <stueck datum="1767" nr="97" von="396" />
+        <kategorie ref="wechselkurse" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="98" von="397" bis="398"/>
+        <werk kat="rezension" ref="schiebeler-unterhaltungen" s="März 1767 in der Monatsschrift"></werk>
+        <ort ref="hamburg"></ort>
+        <akteur ref="herder">Unterzeichnet „Hr.“; SWS IV, 228–231</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="98" von="398" bis="399" />
+        <werk kat="theaterkritik" ref="osmann-trauerspiel"></werk>
+        <akteur ref="hippel">vgl. Schneider, 9–25, Warda/Diesch II, 330f.</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="98" von="399" bis="400" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="98" von="400" />
+        <kategorie ref="einkommende-fremde" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="98" von="400" />
+        <kategorie ref="lokalanzeigen" />
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1767" nr="99" von="401"/>
+        <werk kat="rezension" ref="saverier-histoire"></werk>
+        <ort ref="paris"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="99" von="401" bis="402"/>
+        <werk kat="rezension" ref="voltaire-saemtliche-schauspiele"></werk>
+        <ort ref="nuernberg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="99" von="402" bis="403" />
+        <werk kat="theaterkritik" ref="destouches-poetischer-dorfjunker"></werk>
+        <werk kat="theaterkritik" ref="goldoni-verehelichte-pamela"></werk>
+        <werk kat="theaterkritik" ref="hippel-herr-diener"></werk>
+        <akteur ref="hippel">vgl. Schneider, 9–25, Warda/Diesch II, 330f.</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="99" von="403" bis="404" />
+        <kategorie ref="weltnachrichten" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1767" nr="99" von="404" />
         <kategorie ref="wechselkurse" />
     </beitrag>
 
