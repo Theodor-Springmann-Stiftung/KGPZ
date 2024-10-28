@@ -438,10 +438,9 @@
             Friedrich Wegener. Dritte Sammlung (Berlin und Leipzig: Birnstiel 1766).</zitation>
     </werk>
 
-    <werk id="wieland-agathon-01">
+    <werk id="wieland-agathon">
         <akteur ref="wieland" />
-        <zitation>Geschichte des Agathon von Christoph Martin Wieland. Bd. 1 (Frankfurt und Leipzig:
-            Geßner 1766).</zitation>
+        <zitation>Geschichte des Agathon von Christoph Martin Wieland (2 Bde., Frankfurt und Leipzig: Geßner 1766).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11253310-4">BSB München</url>
     </werk>
 
@@ -1079,7 +1078,7 @@
     <werk id="hippel-mann">
         <akteur ref="hippel" />
         <zitation>Der Mann nach der Uhr, oder der ordentliche Mann. Ein Lustspiel in einem Aufzuge
-            (o. O. 1765).</zitation>
+            (o. O. 1765). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10118102-5">Ausgabe Riga 1771 (BSB München)</url>
     </werk>
 
@@ -6160,6 +6159,13 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11098062-9" >Stabi Regensburg</url>
     </werk>
 
+    <werk id="sysang-wohlgezogenes-frauenzimmer">
+        <akteur ref="sysang-jd" />
+        <akteur ref="schwabe-jj"></akteur>
+        <zitation>Das wohlgezogene Frauenzimmer, oder vollständige Anweisung zur weiblichen Erziehung, in einer Reihe Briefe einer Mutter an ihre Tochter. Aus dem Engländischen (Rostock: Koppe, 1767).</zitation>
+        <url address="http://dx.doi.org/10.25673/51951" >ULB Halle</url>
+    </werk>
+
     <werk id="hamberger-gelehrtes-deutschland1767">
         <akteur ref="hamberger-gc" />
         <zitation>Das Gelehrte Deutschland, oder Lexicon der jeztlebenden teutschen Schriftsteller, von G. CHr. Hamberger. Erster Abschnitt (Lemgo 1767).</zitation>
@@ -6175,6 +6181,12 @@
         <akteur ref="sturz-hp" />
         <zitation>Die Menechmen oder zwey Wochenschriften von gleicher Statur in vier Aufzügen (Kopenhagen 1767).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB00019D0D00020000" >Im 2. Bd. der Sammlung von Sturz’ Schriften, München 1785 (Stabi Berlin)</url>
+    </werk>
+
+    <werk id="mitchell-present-state">
+        <akteur ref="mitchell-j" />
+        <zitation>The Present State of Great Britain and North America: With Regard to Agriculture, Population, Trade, and Manufactures, Impartially Considered (London 1767).</zitation>
+        <url address="https://books.google.de/books?id=T8E9AAAAYAAJ" >Google Books</url>
     </werk>
 
     <werk id="goulard-chirurgische-werke">
@@ -6207,7 +6219,7 @@
 
     <werk id="weisse-haushaelterin">
         <akteur ref="weisse-cf" />
-        <zitation>Die Haushälterin (nach 1760). Von der Schuchschen Truppe im Oktober 1767 aufgeführt.</zitation>
+        <zitation>Die Haushälterin (nach 1760). Von der Schuchschen Truppe im Oktober/November 1767 aufgeführt.</zitation>
     </werk>
 
     <werk id="weisse-rosemunde">
@@ -6238,6 +6250,12 @@
         <akteur ref="streal-cv" />
         <zitation>Abhandlungen über Gegenstände der alten und neuern Geschichte (2 Bde., Riga: Hartknoch 1767).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11019202-2" >BSB München</url>
+    </werk>
+
+    <werk id="petrasch-sammlung">
+        <akteur ref="petrasch-j" />
+        <zitation>Sammlung verschiedner deutscher Gedichte eines Sclavoniers, des Freyherrns Joseph von Petrasch. Erster Teil (Frankfurt, Leipzig 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116123-1" >BSB München</url>
     </werk>
 
     <werk id="lavater-erinnerer1766">
@@ -6317,6 +6335,50 @@
         <akteur ref="chamfort-n" />
         <zitation>Die junge Indianerin. Ein Lustspiel in einem Aufzuge (1764). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
         <url address="https://books.google.nl/books?id=oT9aAAAAcAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="voltaire-caffeehaus">
+        <akteur ref="voltaire" />
+        <zitation>Das Kaffeehaus oder die Schottländerin (Le Café ou l’Écossaise oder l’Écossaise, 1760). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+    </werk>
+
+    <werk id="marivaux-mutter">
+        <akteur ref="marivaux-pc" />
+        <zitation>Die Mutter eine vertraute ihrer Tochter (La Mère confidente, 1735). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+        <url address="https://books.google.de/books?id=dDJJAAAAcAAJ" >Ausgabe Breslau und Leipzig 1748 (Google Books)</url>
+    </werk>
+
+    <werk id="stfoix-finanzpaechter">
+        <akteur ref="stfoix-gfp" />
+        <zitation>Der Finanzpächter oder die Wirkung der Rechtschaffenheit (Le Financier, 1761). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+        <url address="https://books.google.de/books?id=6uR2O4YcRfwC" >Ausgabe Leipzig 1762 (Google Books)</url>
+    </werk>
+
+    <werk id="destouches-gespenst">
+        <akteur ref="destouches-pn" />
+        <zitation>Das Gespenst mit der Trommel (Le Tambour nocturne, ou le Mari devin, nach Addison, 1762). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+    </werk>
+
+    <werk id="moliere-eingebildete-kranke">
+        <akteur ref="moliere" />
+        <zitation>Der Kranke in der Einbildung (Le Malade imaginaire, 1673). Von der Schuchschen Truppe im November 1767 aufgeführt. </zitation>
+    </werk>
+
+    <werk id="regnard-zerstreute">
+        <akteur ref="regnard-jf" />
+        <zitation>Der Zerstreute (Le Distrait, 1697). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+    </werk>
+
+    <werk id="schlegel-canut">
+        <akteur ref="schlegel-je" />
+        <zitation>Der Canut (1746). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000519600000000">Stabi Berlin</url>
+    </werk>
+
+    <werk id="gellert-betschwester">
+        <akteur ref="gellert-cf" />
+        <zitation>Die Betschwester (1745). Von der Schuchschen Truppe im November 1767 aufgeführt.</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001F82700000000">Stabi Berlin</url>
     </werk>
 
 
