@@ -2112,7 +2112,7 @@
 
     <beitrag>
         <stueck datum="1767" nr="99" von="401"/>
-        <werk kat="rezension" ref="saverier-histoire"></werk>
+        <werk kat="rezension" ref="saverien-histoire"></werk>
         <ort ref="paris"></ort>
     </beitrag>
     <beitrag>
@@ -2138,7 +2138,7 @@
 
     <beitrag>
         <stueck datum="1767" nr="100" von="405" bis="406"/>
-        <werk kat="rezension" ref="gatterer-allgemeine-historische-bibliothek"></werk>
+        <werk kat="rezension" ref="gatterer-allgemeine-historische-bibliothek1-4"></werk>
         <ort ref="halle"></ort>
     </beitrag>
     <beitrag>
@@ -2175,12 +2175,11 @@
         <beilage datum="1767" nr="101" von="1" bis="2" />
         <kategorie ref="buecher" />
     </beitrag>
-
     
     <beitrag>
         <stueck datum="1767" nr="102" von="413" bis="415" />
         <werk kat="theaterkritik" ref="destouches-poetischer-dorfjunker"></werk>
-        <werk kat="theaterkritik" ref="advocat-patelin"></werk>
+        <werk kat="theaterkritik" ref="brueys-advocat-patelin"></werk>
         <werk kat="theaterkritik" ref="osmann-trauerspiel"></werk>
         <werk kat="theaterkritik" ref="jolly-eifersuechtige-frau"></werk>
         <werk kat="theaterkritik" ref="marivaux-mutter"></werk>
@@ -2240,8 +2239,5 @@
         <stueck datum="1767" nr="104" von="426" />
         <kategorie ref="einkommende-fremde" />
     </beitrag>
-
-    
-
 
 </beitraege>

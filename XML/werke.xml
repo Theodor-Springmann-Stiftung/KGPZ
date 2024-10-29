@@ -4824,6 +4824,12 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10763322-4">BSB München</url>
     </werk>
 
+    <werk id="franz-uebereinstimmung">
+        <akteur ref="franz-jgf" />
+        <zitation>Johann George Friedrich Franz von der genauen Uebereinstimmung geschickter Lehrer in öffentlichen Schulen mit den größten Staatsmännern (Leipzig: Witzleben 1767).</zitation>
+        <url address="https://nbn-resolving.org/urn:nbn:de:0111-bbf-spo-17116653" >Bibliothek für Bildungsgeschichtliche Forschung des DIPF</url>
+    </werk>
+
     <werk id="michaelis-versuch-siebenzig">
         <akteur ref="michaelis" />
         <zitation>Johann David Michaelis Versuch über die siebenzig Wochen Daniels. Ein Auszug
@@ -5268,11 +5274,23 @@
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN601127544">SUB Göttingen</url>
     </werk>
 
+    <werk id="saverien-histoire">
+        <akteur ref="saverien-a" />
+        <zitation>Histoire des progrès de l’esprit humain dans les sciences exactes, et dans les arts qui en dépendent […]. Avec un abrégé de la Vie des Auteurs les plus célèbres dans ces Sciences, par M. Savérien</zitation>
+        <url address="https://gallica.bnf.fr/ark:/12148/bpt6k96274508" >Bibliothèque nationale de France</url>
+    </werk>
+
     <werk id="voltaire-frau-recht">
         <akteur ref="volatire"></akteur>
         <zitation>Die Frau welche Recht hat. Ein Lustspiel in drey Aufzügen aus dem Französischen
             des Herrn von Voltaire (Berlin: Pauli 1764).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN857555510">SUB Göttingen</url>
+    </werk>
+
+    <werk id="voltaire-saemtliche-schauspiele">
+        <akteur ref="voltaire" />
+        <zitation>Des Herrn Arouet von Voltaire sämmtliche Schauspiele, nebst den dazu gehörigen Schriften, Bd. 1 und 2 (Nürnberg: Raspe 1766).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10099577-7" >BSB München</url>
     </werk>
 
     <werk id="meier-sendschreiben-langen">
@@ -6418,6 +6436,24 @@
     <werk id="destouches-ruhmraethige">
         <akteur ref="destouches-pn" />
         <zitation>Der Ruhmräthige (Le Glorieux, 1732). Von der Schuchschen Truppe im Dezember 1767 aufgeführt.</zitation>
+    </werk>
+
+    <werk id="destouches-poetischer-dorfjunker">
+        <akteur ref="destouches-pn" />
+        <zitation>Der Poetische Dorfjunker (La Fausse Agnès, ou le Poète campagnard, 1759). Von der Schuchschen Truppe im Dezember 1767 aufgeführt.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10107495-9" >BSB München</url>
+    </werk>
+
+    <werk id="goldoni-verehelichte-pamela">
+        <akteur ref="goldoni-c" />
+        <zitation>Die verehelichte Pamela. Ein Lustspiel in 3 Aufzügen (Übersetzung einer italienischen Richardson-Bearbeitung, 1764). Von der Schuchschen Truppe im Dezember 1767 aufgeführt.</zitation>
+        <url address="https://books.google.de/books?id=S6xIAAAAcAAJ" >Ausgabe Wien 1763 (Google Books)</url>
+    </werk>
+
+    <werk id="hippel-herr-diener">
+        <akteur ref="hippel" />
+        <zitation>Herr und Diener (frühere Fassung von „Die ungewöhnliche Nebenbuhler“, 1767). Von der Schuchschen Truppe im Dezember 1767 aufgeführt.</zitation>
+        <url address="" ></url>
     </werk>
 
     <werk id="brueys-advocat-patelin">
