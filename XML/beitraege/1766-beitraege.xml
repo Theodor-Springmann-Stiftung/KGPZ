@@ -106,9 +106,10 @@
     <!-- 06 -->
     <beitrag>
         <stueck datum="1766" nr="6" von="23" bis="24" />
-        <werk kat="rezension" ref="dusch-briefe2"></werk>
+        <werk kat="rezension" ref="dusch-briefe" s="Bd. 2"></werk>
         <ort ref="leipzig" />
         <ort ref="breslau" />
+        <akteur ref="herder">SWS I,115–118</akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1766" nr="6" von="24" />
@@ -1123,7 +1124,7 @@
 <!-- 53 -->
 <beitrag>
     <stueck datum="1766" nr="53" von="213" bis="215"/>
-    <werk kat="rezension" ref="schroeckh-abbildungen2-1"></werk>
+    <werk ref="schroeckh-abbildungen" s="Bd. 2, Sammlung 1" kat="rezension" />
     <ort ref="leipzig"/>
 </beitrag> 
 <beitrag>

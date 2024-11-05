@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+
+    <!-- Jahrgang 1768 -->
+    <beitrag>
+        <stueck datum="1768" nr="1" von="1" bis="3" />
+        <werk kat="rezension" ref="schroeckh-allgemeine-biographie"></werk>
+        <ort ref="berlin"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="1" von="3" bis="4" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="1" von="4" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+        <anmerkung>Statistische Erhebungen zur Demographie in Königsberg</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="1" von="4" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="2" von="5" bis="7" />
+        <werk kat="rezension" ref="bock-ausfuehrlicher-grundriss"></werk>
+        <ort ref="kgsb"></ort>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="2" von="7" bis="8" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="2" von="8" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+        <anmerkung>Statistische Erhebungen zum Warenverkehr</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="2" von="8" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="2" von="8" />
+        <kategorie ref="buecher"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="3" von="9" />
+        <werk kat="rezension" ref="aettenkhover-kurzgefasste-geschichte"></werk>
+        <ort ref="regensburg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="3" von="10" />
+        <werk kat="rezension" ref="graefin-vergy"></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="3" von="10" />
+        <kategorie ref="anzeige"></kategorie>
+        <anmerkung>Für einen Verkaufskatalog der Bibliothek des im letzten Jahr verstorbenen Johann Peter Süßmilch.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="3" von="10" bis="12" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="3" von="12" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="4" von="13" bis="14" />
+        <titel>Die Zeit.</titel>
+        <werk kat="uebersetzung" ref="thomas-temps"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="4" von="15" bis="16" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="4" von="16" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+</beitraege>

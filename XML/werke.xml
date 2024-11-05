@@ -1775,11 +1775,11 @@
             Klugheit (Jena 1766).</zitation>
     </werk>
 
-    <werk id="dusch-briefe2">
+    <werk id="dusch-briefe">
         <akteur ref="dusch-jj" />
-        <zitation>Briefe zur Bildung des Geschmacks: an einen jungen Herrn vom Stande. 2. Teil
-            (Leipzig, Breslau: Meyer 1765).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11259643-9">BSB München</url>
+        <zitation>Briefe zur Bildung des Geschmacks An einen jungen Herrn vom Stande (6 Bde., Leipzig, Breslau: Meyer 1764–1773).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11259644-4">Bd. 2, 1765 (BSB München)</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573772-6">Bd. 4, 1770 (BSB München)</url>
     </werk>
 
     <werk id="schroeckh-abbildungen">
@@ -1787,20 +1787,6 @@
         <zitation>Abbildungen und Lebensbeschreibungen berühmter Gelehrten von Johann Matthias
             Schröckh (2 Bde. in 6 Teilen, Leipzig: Hilscher 1764–1767).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070899-0">BSB München</url>
-    </werk>
-
-    <werk id="schroeckh-abbildungen1-1">
-        <akteur ref="schroeckh-jm" />
-        <zitation>Abbildungen und Lebensbeschreibungen berühmter Gelehrten von Johann Matthias
-            Schröckh (2 Bde. in 6 Teilen, Leipzig: Hilscher 1764–67), Bd. 1,1 (1764).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070897-5">BSB München</url>
-    </werk>
-
-    <werk id="schroeckh-abbildungen2-1">
-        <akteur ref="schroeckh-jm" />
-        <zitation>Abbildungen und Lebensbeschreibungen berühmter Gelehrten von Johann Matthias
-            Schröckh (2 Bde. in 6 Teilen, Leipzig: Hilscher 1764–67), Bd. 2,1 (1764).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070902-7">BSB München</url>
     </werk>
 
     <werk id="amours-de-paliris">
@@ -1868,9 +1854,33 @@
         <zitation>Der Schauplatz der Liebe, ein Geschenk für mein Liebstes zum Neuen Jahr.</zitation>
     </werk>
 
-    <werk id="bock-soldaten">
+    <werk id="beyspiele-bildung-soldaten">
         <zitation>Beyspiele zur Bildung eines Soldaten. Erstes Stück (Hamburg: Bock 1764).</zitation>
         <url address="https://resolver.sub.uni-hamburg.de/kitodo/PPN885095790">Stabi Hamburg</url>
+    </werk>
+
+    <werk id="bock-ausfuehrlicher-grundriss">
+        <akteur ref="bock-fs" />
+        <zitation>Ausführlicher Grundriß einer Vertheidigung der christlichen Religion wider die Feinde und Spötter derselben. Von Friedrich Samuel Bock (2 Bde., Königsberg, Leipzig: Kanter 1768).</zitation>
+        <url address="http://dx.doi.org/10.25673/83396" >ULB Halle</url>
+    </werk>
+
+    <werk id="thomas-temps">
+        <akteur ref="thomas-al" />
+        <zitation>Ode sur le Temps (1762).</zitation>
+        <url address="https://books.google.de/books?id=tTIUAAAAQAAJ" >Der Angabe zufolge übersetzt nach „Oeuvres de Mr. Thomas. 12“. Erstausgabe Paris 1762: Google Books</url>
+    </werk>
+
+    <werk id="graefin-vergy">
+        <akteur ref="graefin-vergy" />
+        <zitation>Die Gräfinn von Vergi und Ralph von Couci, zwey getreue Liebende und Ehegatten, eine wahre und zugleich verliebte und tragische Geschichte. Aus dem Französischen übersetzt durch G. R. W. (Leipzig: Witzleben 1767).</zitation>
+        <url address="http://www.ub.uni-koeln.de/permalink/2010/01/katkey:234000" >UB Köln</url>
+    </werk>
+
+    <werk id="aettenkhover-kurzgefasste-geschichte">
+        <akteur ref="aettenkhover-ja" />
+        <zitation>Kurzgefasste Geschichte der Herzoge in Bayern von Herzog Otto dem Großen von Wittelsbach an bis auf gegenwärtige Zeiten (Regensburg: Montag 1767).</zitation>
+        <url address="https://nbn-resolving.org/urn:nbn:de:hbz:061:1-449452" >ULB Düsseldorf</url>
     </werk>
 
     <werk id="blakmore-schoepfung">
@@ -3138,13 +3148,6 @@
         <akteur ref="brittisches-museum" />
         <zitation>Brittisches Museum, oder Beiträge zur angenehmen Lektüre, aus dem Englischen.
             Erster Theil (Leipzig: Schwickert 1770).</zitation>
-    </werk>
-
-    <werk id="dusch-briefe4">
-        <akteur ref="dusch-jj" />
-        <zitation>Briefe zur Bildung des Geschmacks. An einen jungen Herrn von Stande, 4. Teil
-            (Leipzig, Breslau: Meyer 1770).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573772-6">BSB München</url>
     </werk>
 
     <werk id="hahn-lettres">
@@ -5251,6 +5254,12 @@
         <zitation>Maria, oder Geschichte eines angesehenen Frauenzimmers und einiger ihrer Freunde
             (Leipzig: Weidmann, Reich 1764).</zitation>
         <url address="https://nbn-resolving.org/urn:nbn:de:gbv:32-1-10035586421">Anna Amalia Bibliothek Weimar</url>
+    </werk>
+
+    <werk id="schroeckh-allgemeine-biographie">
+        <akteur ref="schroeckh-jm" />
+        <zitation>Allgemeine Biographie von Johann Matthias Schröckh. 1. Teil (Berlin: Mylius 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11001784-8" >BSB München</url>
     </werk>
 
     <werk id="spalding-berlinische-antrittspredigt">
