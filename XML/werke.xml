@@ -1883,6 +1883,12 @@
         <url address="https://nbn-resolving.org/urn:nbn:de:hbz:061:1-449452" >ULB Düsseldorf</url>
     </werk>
 
+    <werk id="klotz-deutsche-bibliothek">
+        <akteur ref="klotz" />
+        <zitation>Deutsche Bibliothek der schönen Wissenschaften herausgegeben vom Herrn Geheimdenrath Klotz (6 Bde und 24 Stücke, Halle: Gebauer 1767–1771).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10112604-1" >BSB München</url>
+    </werk>
+
     <werk id="blakmore-schoepfung">
         <akteur ref="blackmore-r"></akteur>
         <akteur ref="palthen-jf"></akteur>
@@ -2047,6 +2053,30 @@
         <akteur ref="sturm-cc" />
         <zitation>Die Bestimmung des Menschen beim Landleben (Leipzig: Weidmanns Erben, Reich 1764).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3391363750">SLUB Dresden</url>
+    </werk>
+
+    <werk id="goldhagen-griechische1-2">
+        <akteur ref="goldhagen-ja" />
+        <zitation>Griechische und römische Anthologie in deutschen Uebersetzungen, mit Anmerkungen erläutert von Johann Eustachius Goldhagen, Bd. 1 und 2 (3 Bde., Brandenburg: Halle 1767–1768).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN601210891" >SUB Göttingen</url>
+    </werk>
+
+    <werk id="clodius-versuche1-2">
+        <akteur ref="clodius-ca" />
+        <zitation>Versuche aus der Litteratur und Moral, Stück 1 und 2 (4 Stücke, Leipzig: Breitkopf 1767).</zitation>
+        <url address="https://books.google.de/books?id=kF1kAAAAcAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="schmid-theorie-poesie">
+        <akteur ref="schmid-ch" />
+        <zitation>Theorie der Poesie und Nachricht von den besten Dichtern nach den angenommenen Urtheilen von M. Christian Heinrich Schmid (Leipzig: Crusius 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574619-6" >BSB München</url>
+    </werk>
+
+    <werk id="friedrich-eloge">
+        <akteur ref="friedrich-II" />
+        <zitation>Eloge du Prince Henry de Prusse. Lû dans l’Assemblée extraordinaire de l’Academie Royale des Sciences le 30 Decembre 1767 (Berlin: Voss 1768).</zitation>
+        <url address="https://books.google.de/books?id=zI1DAAAAcAAJ" >Google Books</url>
     </werk>
 
     <werk id="cleone-elvire">

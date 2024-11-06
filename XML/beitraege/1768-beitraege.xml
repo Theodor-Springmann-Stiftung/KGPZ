@@ -84,4 +84,93 @@
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
+    <beitrag>
+        <stueck datum="1768" nr="5" von="17" bis="19"/>
+        <werk kat="rezension" ref="klotz-deutsche-bibliothek"></werk>
+        <ort ref="halle"></ort>
+        <akteur ref="hamann">ZH II, 417</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="5" von="19" bis="20" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="5" von="20" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="6" von="21" bis="23"/>
+        <stueck datum="1768" nr="7" von="25" bis="29"/>
+        <titel>Lobrede auf den Prinzen Heinrich von Preußen</titel>
+        <werk kat="uebersetzung" ref="friedrich-eloge"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="6" von="23" />
+        <kategorie ref="lokalanzeige"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="6" von="23" bis="24" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="6" von="24" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="7" von="23" />
+        <kategorie ref="lokalanzeige"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="7" von="29" bis="30" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="7" von="30" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="8" von="31" bis="32"/>
+        <werk kat="rezension" ref="schmid-theorie-poesie"></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="8" von="32"/>
+        <werk kat="rezension" ref="goldhagen-griechische1-2"></werk>
+        <ort ref="brandenburg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="8" von="32" bis="33"/>
+        <kategorie ref="gelehrte-nachrichten"></kategorie>
+        <ort ref="kgsb"></ort>
+        <anmerkung>Über die Feierlichkeiten der Königlichen Deutschen Gesellschaft und der Universität zu Königsgeburtstag.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="8" von="33" bis="34" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="8" von="34" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="9" von="35" bis="37"/>
+        <werk kat="rezension" ref="clodius-versuche1-2"></werk>
+        <ort ref="leipzig"></ort>
+        <akteur ref="scheffner" unsicher="true">vgl. HBGA I, 94</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="9" von="37" bis="38" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="9" von="38" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+
+
 </beitraege>
