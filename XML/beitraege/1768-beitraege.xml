@@ -107,7 +107,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1768" nr="6" von="23" />
-        <kategorie ref="lokalanzeige"></kategorie>
+        <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
         <stueck datum="1768" nr="6" von="23" bis="24" />
@@ -120,7 +120,7 @@
 
     <beitrag>
         <stueck datum="1768" nr="7" von="23" />
-        <kategorie ref="lokalanzeige"></kategorie>
+        <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
         <stueck datum="1768" nr="7" von="29" bis="30" />
@@ -171,6 +171,177 @@
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
+    <beitrag>
+        <stueck datum="1768" nr="10" von="39" bis="40"/>
+        <werk kat="rezension" ref="beaumont-nouvelle-clarice"></werk>
+        <ort ref="lyon"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="10" von="41" bis="42" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="10" von="42" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+        <kategorie ref="theaterkritik"></kategorie>
+        <anmerkung>Über die letzte Vorstellung der Schuchschen Truppe (Romeo und Julia) und ihren Aufbruch nach Breslau.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="10" von="42" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="11" von="43" bis="45"/>
+        <werk kat="rezension" ref="schirach-sammlung-verstand"></werk>
+        <ort ref="bremen"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="11" von="45" bis="46" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="11" von="46" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="12" von="47" bis="48"/>
+        <werk kat="rezension" ref="abbt-fragment"></werk>
+        <ort ref="halle"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="12" von="49" bis="50" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="12" von="50" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="13" von="51" bis="52"/>
+        <werk kat="rezension" ref="sack-zwey-predigten"></werk>
+        <ort ref="berlin"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="13" von="52"/>
+        <werk kat="rezension" ref="delius-nachricht-nurzen-salzasche"></werk>
+        <ort ref="frankfurt"></ort>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="13" von="52" />
+        <kategorie ref="buecher"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="13" von="53" bis="54" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="13" von="54" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="13" von="54" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+    
+    <beitrag>
+        <beilage datum="1768" nr="13" von="1" />
+        <kategorie ref="lokalanzeigen"></kategorie>
+        <anmerkung>Für holländische Tabakpfeifen.</anmerkung>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="14" von="55"/>
+        <kategorie ref="gelehrte-nachrichten"></kategorie>
+        <kategorie ref="gedicht"></kategorie>
+        <incipit>Mürb von der Jahre Last, entfernt von dem Altar</incipit>
+        <ort ref="kgsb"></ort>
+        <akteur ref="kanter">Unterzeichnet „J. J. Kanter.“</akteur>
+        <anmerkung>Anlässlich der Feier des 50jährigen Predigtamtes von Johann Jacob Johann Jakob Quandt.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="14" von="55" bis="57"/>
+        <werk kat="rezension" ref="riedel-theorie"></werk>
+        <ort ref="jena"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="14" von="57" bis="58" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="14" von="58" />
+        <kategorie ref="lotterie"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="14" von="58" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="15" von="59" bis="60"/>
+        <werk kat="rezension" ref="theater-der-deutschen"></werk>
+        <ort ref="berlin"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="15" von="60" bis="62" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="15" von="62" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+    
+    <beitrag>
+        <beilage datum="1768" nr="15" von="1" />
+        <kategorie ref="lokalanzeigen"></kategorie>
+        <anmerkung>Für holländische Tabakpfeifen.</anmerkung>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="16" von="63" bis="64"/>
+        <werk kat="rezension" ref="lueders-abhandlungen"></werk>
+        <anmerkung>Unterzeichnet W. F. von Kleist, ein „erfahrener Landwirth“</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="16" von="65" bis="66" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="16" von="66" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="17" von="63" bis="64"/>
+        <werk kat="rezension" ref="trescho-ermunterungen"></werk>
+        <ort ref="danzig"></ort>
+        <akteur ref="kanter">Warda/Diesch II,334</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="17" von="63" bis="64"/>
+        <werk kat="rezension" ref="geissler-kurzer-unterricht"></werk>
+        <ort ref="leipzig"></ort>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="17" von="69" bis="70" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="17" von="70" />
+        <kategorie ref="lokalanzeigen"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="17" von="70" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="17" von="70" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
 
 
 </beitraege>
