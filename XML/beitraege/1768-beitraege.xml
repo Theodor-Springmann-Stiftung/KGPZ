@@ -426,5 +426,69 @@
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
 
+    <beitrag>
+        <stueck datum="1768" nr="22" von="87" bis="88" />
+        <werk ref="patzke-greis" s="Teil 14" kat="rezension" />
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="22" von="88" />
+        <kategorie ref="buecher"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="22" von="89" bis="90" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="22" von="90" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="23" von="91" bis="93" />
+        <kategorie ref="aufsatz"></kategorie>
+        <incipit>Um den Tonkünstlern sowohl als den Mechanikern</incipit>
+        <ort ref="stpetersburg"></ort>
+        <anmerkung>Beschreibung eines neuen Bogenflügels; Erfindung von Jeremias Krämer aus Reval.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="23" von="93" bis="94" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="23" von="94" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="23" von="94" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="23" von="91" bis="93" />
+        <kategorie ref="brief"></kategorie>
+        <incipit>Ich muss zuvörderst Ew. Kaiserliche Majestät für das Geschenk</incipit>
+        <akteur ref="friedrich-II"></akteur>
+        <anmerkung>Abdruck von Friedrich II. Antwortbrief auf Katharina II. Zusendung der <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564713-0">Großen Instruktion</wwwlink>, datiert Potsdam, 26.11.1767.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="23" von="91" bis="93" />
+        <kategorie ref="brief"></kategorie>
+        <incipit>Ich nehme keinen Anstand</incipit>
+        <anmerkung>Abdruck eines Billets des Grafen von Solms an den Grafen von Panin im selben Kontext.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="23" von="93" bis="94" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="23" von="94" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="23" von="94" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
 
 </beitraege>
