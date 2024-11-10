@@ -2,7 +2,7 @@
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     targetNamespace="https://www.koenigsberger-zeitungen.de"
     xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:kgpz="https://www.koenigsberger-zeitungen.de" 
+    xmlns:kgpz="https://www.koenigsberger-zeitungen.de"
     elementFormDefault="qualified">
 
     <xsd:include schemaLocation="common.xsd" />
@@ -13,40 +13,42 @@
                 <xsd:element name="ort" minOccurs="0" maxOccurs="unbounded">
                     <xsd:complexType>
                         <xsd:sequence>
-                            <xsd:element name="name" type="kgpz:NonEmptyString" minOccurs="1" maxOccurs="unbounded" nillable="false" >
+                            <xsd:element name="name" type="kgpz:NonEmptyString" minOccurs="1"
+                                maxOccurs="unbounded" nillable="false">
                                 <xsd:annotation>
-                                    <xsd:documentation> Pflicht: Der/die (normierte/n) Name/n des Ortes.</xsd:documentation>
+                                    <xsd:documentation> Pflicht: Der/die (normierte/n) Name/n des
+                                        Ortes.</xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 
                             <!-- TODO: geonames URI regex -->
-                            <xsd:element name="geonames" type="xsd:anyURI" minOccurs="0" maxOccurs="1" nillable="false">
+                            <xsd:element name="geonames" type="xsd:anyURI" minOccurs="0"
+                                maxOccurs="1" nillable="false">
                                 <xsd:annotation>
-                                    <xsd:documentation> Optional: Der Link zur Geonames-Seite des Ortes.</xsd:documentation>
+                                    <xsd:documentation> Optional: Der Link zur Geonames-Seite des
+                                        Ortes.</xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 
-                            <xsd:element name="anmerkung" type="kgpz:text" minOccurs="0" maxOccurs="unbounded" >
+                            <xsd:element name="anmerkung" type="kgpz:text" minOccurs="0"
+                                maxOccurs="unbounded">
                                 <xsd:annotation>
-                                    <xsd:documentation> Optional: Eine Anmerkung zum Ort. Öffentlich.</xsd:documentation>
+                                    <xsd:documentation> Optional: Eine Anmerkung zum Ort.
+                                        Öffentlich.</xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 
-                            <xsd:element name="vermerk" type="kgpz:text" minOccurs="0" maxOccurs="unbounded" >
+                            <xsd:element name="vermerk" type="kgpz:text" minOccurs="0"
+                                maxOccurs="unbounded">
                                 <xsd:annotation>
                                     <xsd:documentation> Optional: Ein Vermerk zum Ort. Intern.</xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 
                         </xsd:sequence>
-                        <xsd:attribute name="id" type="kgpz:NonEmptyString" use="required" >
+                        <xsd:attribute name="id" type="kgpz:NonEmptyString" use="required">
                             <xsd:annotation>
                                 <xsd:documentation>Pflicht: Eindeutige ID des Ortes.</xsd:documentation>
-                            </xsd:annotation>
-                        </xsd:attribute>
-                        <xsd:attribute name="org" type="xsd:boolean" use="optional" default="false" >
-                            <xsd:annotation>
-                                <xsd:documentation>Optional: true, wenn es sich um eine Körperschaft handelt. Default: false</xsd:documentation>
                             </xsd:annotation>
                         </xsd:attribute>
                     </xsd:complexType>
