@@ -1908,10 +1908,21 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11218801-5" >Stabi Augsburg</url>
     </werk>
 
+    <werk id="pieces-relatives-belisaire">
+        <zitation>Pièces relatives a Bélisaire. Premier cahier (Amsterdam 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10775697-3" >BSB München</url>
+    </werk>
+
     <werk id="hiller-woechentliche-nachrichten">
         <akteur ref="hiller-ja" />
         <zitation>Wöchentliche Nachrichten und Anmerkungen, die Musik betreffend. I–IV Vierteljahr 1767 (Leipzig: Zeitungs-Expedition 1767).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271141-0" >BSB München</url>
+    </werk>
+
+    <werk id="brandes-schein">
+        <akteur ref="brandes-jc" />
+        <zitation>Der Schein betrügt. Ein Lustspiel in fünf Aufzügen (Berlin: Bosse 1768).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11090334-9" >Stabi Regensburg</url>
     </werk>
 
     <werk id="sprengel-handwerke">
@@ -3889,6 +3900,48 @@
         <zitation>Allgemeines historisches Magazin mit Beyhülfe einiger Gelehrten Errichtet von D.
             Driedrich Eberhard Boysen (6 Bde., Halle: Gebauer 1767–1770).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10737858-2">BSB München</url>
+    </werk>
+
+    <werk id="hippel-hinz-freimaeurerreden">
+        <akteur ref="hippel" unsicher="true">Allgemein Hippel zugeschrieben</akteur>
+        <akteur ref="hinz-jf" unsicher="true">vgl. <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315"></wwwlink>Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S. 313.</akteur>
+        <zitation>Freimäurerreden (Königsberg: Kanter 1768).</zitation>
+    </werk>
+
+    <werk id="weisse-lieder-kinder">
+        <akteur ref="weisse" />
+        <zitation>Lieder für Kinder (Leipzig: Weidmann, Reich 1767).</zitation>
+        <url address="http://www.nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:de:kobv:b4-20643-5" >Deutsches Textarchiv</url>
+    </werk>
+
+    <werk id="boswell-account">
+        <akteur ref="boswell-j" />
+        <zitation>An Account of Corsica, The Journal of a Tour to that Island; and Memoirs of Pascal Paoli. By James Boswell, Esq; Illustrated with a New and Accurate Map of Corsica (Glasgow 1768).</zitation>
+        <url address="https://books.google.de/books?id=_jQVAAAAQAAJ" >2. Aufl. London 1768 (Google Books)</url>
+    </werk>
+
+    <werk id="finecke-deux-dissertations">
+        <akteur ref="finecke-tef" />
+        <zitation>Deux dissertations: I. sur l’origine du langage, et II. sur les runes. Avec des essais sur divers sujets (Kopenhagen: Philibert 1767).</zitation>
+        <url address="https://gallica.bnf.fr/ark:/12148/bpt6k6464742t" > Bibliothèque nationale de France, Paris</url>
+    </werk>
+
+    <werk id="sterne-sentimental-journey">
+        <akteur ref="sterne" />
+        <zitation>A Sentimental Journey Through France And Italy (2 Bde., London: Becket, De Hondt 1768).</zitation>
+        <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:gbv:45:1-1893" >LB Oldenburg</url>
+    </werk>
+
+    <werk id="sterne-predigten1766">
+        <akteur ref="sterne" />
+        <zitation>Predigten von Laurenz Sterne, (oder Yorik). Aus dem Englischen übersetzt. Erster Bd, (Zürich: Füeßlin 1766)</zitation>
+        <url address="https://doi.org/10.3931/e-rara-63946" >ZB Zürich</url>
+    </werk>
+
+    <werk id="aken-christliche-briefe">
+        <akteur ref="aken-ac" />
+        <zitation>Christliche Briefe über die Theorie der Opfer (Stralsund: Lange 1767).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10589753-4" >BSB München</url>
     </werk>
 
     <werk id="boysen-allgemeine-weltgeschichte">
