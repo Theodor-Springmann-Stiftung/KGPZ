@@ -777,12 +777,15 @@
     </beitrag>
 
     <beitrag>
+        <stueck datum="1768" nr="39" von="155" />
+        <kategorie ref="ineigenersache"></kategorie>
+        <titel>An die Verfasser der Königsbergschen gelehrten Zeitung.</titel>
+    </beitrag>
+    <beitrag>
         <stueck datum="1768" nr="39" von="155" bis="157" />
         <stueck datum="1768" nr="40" von="159" bis="160" />
         <stueck datum="1768" nr="41" von="163" bis="165" />
-        <titel>An die Verfasser der Königsbergschen gelehrten Zeitung.</titel>
         <werk ref="sterne-sentimental-journey" kat="rezension" />
-        <ort ref="halle"></ort>
     </beitrag>
     <beitrag>
         <stueck datum="1768" nr="39" von="157" bis="158" />
@@ -868,6 +871,148 @@
     <beitrag>
         <stueck datum="1768" nr="43" von="174" />
         <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="44" von="175" />
+        <kategorie ref="ineigenersache"></kategorie>
+        <titel>Nachricht.</titel>
+        <anmerkung>Ankündigung von Kurzrezensionen, da noch zu viele Bücher der letzten Messe übrig sind.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="44" von="175" />
+        <werk ref="boehm-geistliche-poesien" kat="rezension" />
+        <ort ref="breslau"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="44" von="175" bis="176"/>
+        <werk ref="hausvater-lande" kat="rezension" />
+        <ort ref="ulm"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="44" von="176" />
+        <werk ref="ebeling-heilige-wahrheiten" kat="rezension" />
+        <ort ref="buetzow"></ort>
+        <ort ref="wismar"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="44" von="176" />
+        <werk ref="hirsch-fraenkische-bienenmeister" kat="rezension" />
+        <ort ref="ansbach"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="44" von="177" bis="178" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="44" von="178" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="45" von="179" bis="180" />
+        <werk ref="moser-patriotische-briefe" kat="rezension" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="45" von="179" bis="180" />
+        <werk ref="hess-tod-moses" kat="rezension" />
+        <ort ref="zuerich"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="45" von="179" bis="180" />
+        <werk ref="cotes-memoires-pitt" kat="rezension" />
+        <ort ref="amsterdam"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="45" von="180" />
+        <kategorie ref="buecher"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="45" von="181" bis="182" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="45" von="182" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="45" von="182" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="46" von="183" bis="184" />
+        <werk ref="wilkes-moralische-beitraege" kat="rezension" />
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="46" von="184" />
+        <werk ref="winning-predigten" kat="rezension" />
+        <ort ref="zuerich"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="46" von="184" />
+        <werk ref="unzer-sammlung-physicalische2" kat="rezension" />
+        <ort ref="hamburg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="46" von="184" />
+        <werk ref="ringeltaube-beytraege" kat="rezension" />
+        <ort ref="breslau"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="46" von="184" />
+        <werk ref="poertner-auserlesene-predigten" kat="rezension" />
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="46" von="185" bis="186" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="46" von="186" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag id="gleim-siegeslied-mosis">
+        <stueck datum="1768" nr="47" von="187" bis="188" />
+        <kategorie ref="gedicht"></kategorie>
+        <titel>Siegeslied Mosis.</titel>
+        <akteur ref="gleim"></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="47" von="188" bis="189" />
+        <stueck datum="1768" nr="48" von="191" bis="192" />
+        <werk kat="rezension" ref="gleim-siegeslied-mosis"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="47" von="189" bis="190" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="47" von="190" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="47" von="190" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+    
+    <beitrag>
+        <stueck datum="1768" nr="48" von="192" bis="193" />
+        <werk kat="rezension" ref="desbillons-fabulis"></werk>
+        <ort ref="mannheim"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="48" von="193" bis="194" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="48" von="194" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="48" von="194" />
+        <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
 
