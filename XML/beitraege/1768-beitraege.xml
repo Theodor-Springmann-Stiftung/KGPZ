@@ -982,7 +982,7 @@
     <beitrag>
         <stueck datum="1768" nr="47" von="188" bis="189" />
         <stueck datum="1768" nr="48" von="191" bis="192" />
-        <werk kat="kommentar" ref="gleim-siegeslied-mosis"></werk>
+        <beitrag ref="gleim-siegeslied-mosis" kat="kommentar" />
     </beitrag>
     <beitrag>
         <stueck datum="1768" nr="47" von="189" bis="190" />
@@ -1141,6 +1141,117 @@
     <beitrag>
         <stueck datum="1768" nr="54" von="218" />
         <kategorie ref="vorladung"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="55" von="219" />
+        <werk kat="rezension" ref="feldzug1768"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="55" von="219" bis="220" />
+        <werk kat="rezension" ref="wichmann-antikritikus"></werk>
+        <ort ref="luebeck"></ort>
+        <akteur ref="lindner-jg" unsicher="true">Warda/Diesch II, 335</akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="55" von="220" />
+        <kategorie ref="buecher"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="55" von="220" bis="222" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="55" von="222" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="55" von="222" />
+        <kategorie ref="lotterie"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="55" von="222" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="56" von="223" bis="224" />
+        <werk kat="rezension" ref="hiller-dariolette"></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="56" von="224" />
+        <kategorie ref="buecher"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="56" von="224" bis="226" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="56" von="226" />
+        <kategorie ref="vorladung"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="56" von="226" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="56" von="223" bis="224" />
+        <werk kat="rezension" ref="hiller-dariolette"></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="56" von="224" />
+        <kategorie ref="buecher"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="56" von="224" bis="226" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="56" von="226" />
+        <kategorie ref="vorladung"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="56" von="226" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1768" nr="56" von="1" bis="2"/>
+        <kategorie ref="notenblatt"></kategorie>
+        <titel>Romanze.</titel>
+        <incipit>Der Teufel kam vor vielen Jahren</incipit>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="57" von="227" bis="229" />
+        <kategorie ref="gedicht"></kategorie>
+        <titel>Pygmalion, eine Cantate.</titel>
+        <akteur ref="ramler"></akteur>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="57" von="229" bis="230" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="57" von="230" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="58" von="231" bis="232" />
+        <werk kat="rezension" ref="cramer-unterredungen-hofmann"></werk>
+        <ort ref="kopenhagen"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="58" von="232" bis="234" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="58" von="230" />
+        <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
 
