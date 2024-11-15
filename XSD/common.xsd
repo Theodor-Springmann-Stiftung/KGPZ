@@ -220,6 +220,7 @@
             <xsd:restriction base="xsd:string">
               <xsd:enumeration value="autor" />
               <xsd:enumeration value="herausgeber" />
+              <xsd:enumeration value="übersetzer" />
               <xsd:enumeration value="verleger" />
               <xsd:enumeration value="drucker" />
               <xsd:enumeration value="vertrieb" />
