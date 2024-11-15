@@ -1,9 +1,7 @@
 <?xml version="1.0"?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    targetNamespace="https://www.koenigsberger-zeitungen.de"
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="https://www.koenigsberger-zeitungen.de"
     xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:kgpz="https://www.koenigsberger-zeitungen.de"
-    elementFormDefault="qualified">
+    xmlns:kgpz="https://www.koenigsberger-zeitungen.de" elementFormDefault="qualified">
 
     <!-- Vorschlag: Stücke aus dem Datum von Dateinamen ableiten -->
     <xsd:include schemaLocation="common.xsd" />
@@ -13,8 +11,7 @@
                 <xsd:element name="stueck" maxOccurs="unbounded">
                     <xsd:complexType>
                         <xsd:sequence>
-                            <xsd:element name="nummer" minOccurs="0"
-                                maxOccurs="1">
+                            <xsd:element name="nummer" minOccurs="0" maxOccurs="1">
                                 <xsd:annotation>
                                     <xsd:documentation>Die Nummer des Stücks, falls bekannt.</xsd:documentation>
                                 </xsd:annotation>
@@ -22,8 +19,7 @@
                                 <xsd:complexType>
                                     <xsd:simpleContent>
                                         <xsd:extension base="kgpz:NonEmptyString">
-                                            <xsd:attribute name="korrigiert"
-                                                type="kgpz:NonEmptyString" use="optional"></xsd:attribute>
+                                            <xsd:attribute name="korrigiert" type="kgpz:NonEmptyString" use="optional"></xsd:attribute>
                                         </xsd:extension>
                                     </xsd:simpleContent>
                                 </xsd:complexType>
@@ -36,16 +32,14 @@
                                 </xsd:annotation>
                             </xsd:element>
 
-                            <xsd:element name="von" type="xsd:positiveInteger" minOccurs="0"
-                                maxOccurs="1">
+                            <xsd:element name="von" type="xsd:positiveInteger" minOccurs="0" maxOccurs="1">
                                 <xsd:annotation>
                                     <xsd:documentation>Die erste Seitenzahl des Stücks, falls
                                         bekannt.</xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 
-                            <xsd:element name="bis" type="xsd:positiveInteger" minOccurs="0"
-                                maxOccurs="1">
+                            <xsd:element name="bis" type="xsd:positiveInteger" minOccurs="0" maxOccurs="1">
                                 <xsd:annotation>
                                     <xsd:documentation>Die letzte Seitenzahl des Stücks, falls
                                         bekannt.</xsd:documentation>
@@ -60,39 +54,41 @@
                                 </xsd:annotation>
                                 <xsd:complexType>
                                     <xsd:sequence>
-                                        <xsd:element name="von" type="xsd:positiveInteger"
-                                            minOccurs="0"
-                                            maxOccurs="1">
+                                        <xsd:element name="von" type="xsd:positiveInteger" minOccurs="0" maxOccurs="1">
                                             <xsd:annotation>
                                                 <xsd:documentation>Die erste Seitenzahl der Beilage,
                                                     falls bekannt.</xsd:documentation>
                                             </xsd:annotation>
                                         </xsd:element>
 
-                                        <xsd:element name="bis" type="xsd:positiveInteger"
-                                            minOccurs="0"
-                                            maxOccurs="1">
+                                        <xsd:element name="bis" type="xsd:positiveInteger" minOccurs="0" maxOccurs="1">
                                             <xsd:annotation>
                                                 <xsd:documentation>Die letzte Seitenzahl der
                                                     Beilage, falls bekannt.</xsd:documentation>
                                             </xsd:annotation>
                                         </xsd:element>
                                     </xsd:sequence>
-                                    <xsd:attribute name="nummer" type="xsd:positiveInteger"
-                                        use="required"></xsd:attribute>
+                                    <xsd:attribute name="nummer" type="xsd:positiveInteger" use="required"></xsd:attribute>
                                 </xsd:complexType>
                             </xsd:element>
 
+
+                            <xsd:choice minOccurs="0" maxOccurs="unbounded">
+                                <xsd:element name="werk" type="kgpz:werkref">
+                                    <xsd:annotation>
+                                        <xsd:documentation>Optional: Verweis auf ein Werk, hiuer meist provinienz.</xsd:documentation>
+                                    </xsd:annotation>
+                                </xsd:element>
+                            </xsd:choice>
+
                             <!-- Vielleicht nötig -->
-                            <xsd:element name="anmerkung" type="kgpz:text" minOccurs="0"
-                                maxOccurs="unbounded">
+                            <xsd:element name="anmerkung" type="kgpz:text" minOccurs="0" maxOccurs="unbounded">
                                 <xsd:annotation>
                                     <xsd:documentation> Optional: Anmerkungen zum Stück. Öffentlich. </xsd:documentation>
                                 </xsd:annotation>
                             </xsd:element>
 
-                            <xsd:element name="vermerk" type="kgpz:text" minOccurs="0"
-                                maxOccurs="unbounded">
+                            <xsd:element name="vermerk" type="kgpz:text" minOccurs="0" maxOccurs="unbounded">
                                 <xsd:annotation>
                                     <xsd:documentation> Optional: Vermerk zum Stück. Intern. </xsd:documentation>
                                 </xsd:annotation>

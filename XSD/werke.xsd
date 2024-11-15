@@ -20,7 +20,15 @@
                             <xsd:element name="akteur" type="kgpz:akteurref" minOccurs="0" maxOccurs="unbounded" />
                             <xsd:element name="ort" type="kgpz:ortref" minOccurs="0" maxOccurs="unbounded" />
                             <xsd:element name="werk" type="kgpz:werkref" minOccurs="0" maxOccurs="unbounded"/>
-                            <xsd:element name="zitation" type="kgpz:NonEmptyString" minOccurs="1"
+                            
+                            <xsd:element name="preferred" type="kgpz:text" minOccurs="0"
+                                maxOccurs="1">
+                                <xsd:annotation>
+                                    <xsd:documentation>Optional: Bevorzugter Titel des Werkes.</xsd:documentation>
+                                </xsd:annotation>
+                            </xsd:element>
+
+                            <xsd:element name="zitation" type="kgpz:text" minOccurs="1"
                                 maxOccurs="1">
                                 <xsd:annotation>
                                     <xsd:documentation>Pflicht: Unstrukturierte Zitation des Werkes.</xsd:documentation>
@@ -32,8 +40,8 @@
                                     <xsd:documentation>Optional: URLs zum Werk.</xsd:documentation>
                                 </xsd:annotation>
                                 <xsd:complexType>
-                                    <xsd:simpleContent>
-                                        <xsd:extension base="xsd:string">
+                                    <xsd:complexContent>
+                                        <xsd:extension base="kgpz:text">
                                             <xsd:attribute name="address" type="xsd:anyURI">
                                                 <xsd:annotation>
                                                     <xsd:documentation>Pflicht: Die URL zum Werk.</xsd:documentation>
@@ -47,7 +55,7 @@
                                                 </xsd:annotation>
                                             </xsd:attribute>
                                         </xsd:extension>
-                                    </xsd:simpleContent>
+                                    </xsd:complexContent>
                                 </xsd:complexType>
                             </xsd:element>
 
