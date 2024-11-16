@@ -24,41 +24,40 @@
     </werk>
     -->
 
-    <werk id="allgemeine-bibliothek-schoen-gut">
+    <werk id="pfeffel-allgemeine-bibliothek-schoen-gut">
         <akteur ref="pfeffel" />
-        <zitation>Allgemeine Bibliothek des Schönen und Guten, Erster Band (Frankfurt am Mayn: Garbe
+        <zitation><title>Bibliothek des Schönen und Guten</title>, Erster Band (Frankfurt: Garbe
             <year>1764</year>).</zitation>
     </werk>
 
     <werk id="vergnuegte-nebenstunden">
-        <zitation>Vergnügte Nebenstunden in der Einsamkeit. Eine moralische Schrift aus dem
+        <zitation><title>Nebenstunden in der Einsamkeit</title>. Eine moralische Schrift aus dem
             Französischen übersetzt (Augsburg, Memmingen: Stage <year>1764</year>).</zitation>
         <url address="https://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-281237">UB Heidelberg</url>
     </werk>
 
     <werk id="sarpius-historie">
         <akteur ref="sarpius-p" />
-        <akteur ref="rambach-fe" />
-        <zitation>Paul Sarpius Historie des Tridentinischen Concilii mit des D. Couraner
-            Anmerkungen. Sechster Theil. Herausgegeben von Friedrich Eberhard Rambach (6 Bde.
-            <year>1761</year>–65, Halle: Gebauer <year>1765</year>), Bd. 6.</zitation>
+        <akteur ref="rambach-fe" kat="herausgeber"/>
+        <zitation>Paul Sarpius <title>Historie des Tridentinischen Concilii</title> mit des D. Couraner
+            Anmerkungen. Sechster Theil. Herausgegeben von Friedrich Eberhard Rambach (6 Bde., Halle: Gebauer <year>1761–1765</year>), Bd. 6.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10393339-5">BSB München</url>
     </werk>
 
-    <werk id="scheffner-poesien">
+    <werk id="scheffner-freundschaftliche-poesien">
         <akteur ref="scheffner" />
-        <zitation>Freundschaftliche Poesien eines Soldaten (Berlin, Leipzig: Birnstiel: <year>1764</year>).</zitation>
+        <zitation><title>Freundschaftliche Poesien eines Soldaten</title> (Berlin, Leipzig: Birnstiel: <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116388-9">Ausgabe Berlin 1793 (BSB München)</url>
     </werk>
 
     <werk id="juengerer-eulenspiegel">
-        <zitation>Der jüngere Eulenspiegel oder der schlecht erzogene Mensch (o. O. <year>1765</year>).</zitation>
+        <zitation><title>Der jüngere Eulenspiegel</title> oder der schlecht erzogene Mensch (o. O. <year>1765</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10471347-1">BSB München</url>
     </werk>
 
     <werk id="lange-sendschreiben">
         <akteur ref="lange-sg" />
-        <zitation>M. Samuel Gotthold Langens Sendschreiben an den Hochwürdigen und hochgelahrten
+        <zitation>M. Samuel Gotthold Langens <title>Sendschreiben</title> an den Hochwürdigen und hochgelahrten
             Herrn Gabriel Christoph Benjamin Mosche wegen des Heumannischen Erweises daß die Lehre
             der Reformirten Kirche von dem heiligen Abendmahle die rechte und wahre sey (o. O.
             <year>1764</year>).</zitation>
@@ -66,50 +65,50 @@
     </werk>
 
     <werk id="mensch-welt">
-        <zitation>Der Mensch und die Welt, aus dem Französischen des Herrn P. (Nürnberg <year>1765</year>).</zitation>
+        <zitation><title>Der Mensch und die Welt</title>, aus dem Französischen des Herrn P. (Nürnberg <year>1765</year>).</zitation>
     </werk>
 
     <werk id="bremisches-magazin07">
-        <zitation>Bremisches Magazin zur Ausbreitung der Wissenschaften, Künste und Tugend, Von
+        <zitation><title>Bremisches Magazin</title> zur Ausbreitung der Wissenschaften, Künste und Tugend, Von
             einigen Liebhabern derselben mehrentheils aus den Englischen Monatsschriften gesammlet
             und herausgegeben (7 Bde., Bremen und Leipzig: Förster <year>1756–1765</year>), Bd. 7.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10613451-0">BSB München</url>
     </werk>
 
-    <werk id="bianconi-sendschreiben">
+    <werk id="bianconi-zehn-sendschreiben">
         <akteur ref="bianconi-gl"></akteur>
-        <akteur ref="runckel-dh"></akteur> <!-- Die Übersetzerin; gibt es dafür eine Kategorie? -->
-        <zitation>Herrn Johann Ludwigs Bianconi Zehn Sendschreiben an Herrn Marchese Philippo
+        <akteur ref="runckel-dh" kat="übersetzer"></akteur>
+        <zitation>Herrn Johann Ludwigs Bianconi <title>Zehn Sendschreiben</title> an Herrn Marchese Philippo
             Hercolani die Merkwürdigkeiten des Churbayerischen Hofes und der Residenz-Stadt München
             betreffend. Aus dem Italienischen übersetzt (Leipzig: Janius <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10371459-2">BSB München</url>
     </werk>
 
     <werk id="briefe-des-osmans">
-        <zitation>Briefe des Osmans, aus dem Französischen übersetzt (Bayreuth: Lübeck <year>1765</year>).</zitation>
+        <zitation><title>Briefe des Osmans</title>, aus dem Französischen übersetzt (Bayreuth: Lübeck <year>1765</year>).</zitation>
     </werk>
 
-    <werk id="bahrdt-kanzelreden">
+    <werk id="bahrdt-sammlung-kanzelreden">
         <akteur ref="bahrdt-cf"></akteur>
-        <zitation>Sammlung einiger Kanzelreden von M. C. F. Bahrdt (Leipzig: Heinßius <year>1764</year>).</zitation>
+        <zitation>Sammlung einiger <title>Kanzelreden</title> von M. C. F. Bahrdt (Leipzig: Heinßius <year>1764</year>).</zitation>
     </werk>
 
-    <werk id="wilhelmi-hohelied">
+    <werk id="wilhelmi-versuch-hohelied">
         <akteur ref="wilhelmi-jg"></akteur>
-        <zitation>Johann Gottlob Wilhelmi Versuch einer poetischen Übersetzung des Hohenliedes
-            Salomo nebst einigen hierzu dienlichen Anmerkungen (Leipzig: Breitkopf und Sohn <year>1764</year>).</zitation>
+        <zitation>Johann Gottlob Wilhelmi <title>Versuch einer poetischen Übersetzung des Hohenliedes
+            Salomo</title> nebst einigen hierzu dienlichen Anmerkungen (Leipzig: Breitkopf und Sohn <year>1764</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/46336">ULB Halle</url>
     </werk>
 
     <werk id="liebenswuerdiger-mensch">
-        <zitation>Der liebenswürdige Mensch, Oder Die Kunst Sich den Leuten angenehm und gefällig zu
+        <zitation><title>Der liebenswürdige Mensch</title>, Oder Die Kunst Sich den Leuten angenehm und gefällig zu
             machen (Frankfurt, Zweybrücken: Hechtel <year>1753</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11109095-1">Stabi Regensburg</url>
     </werk>
 
     <werk id="fielding-lissabon">
         <akteur ref="fielding"></akteur>
-        <zitation>Herrn Heinrich Fieldings Esq. Reise nach Lissabon. Von ihm selbst beschrieben. Aus
+        <zitation>Herrn Heinrich Fieldings Esq. <title>Reise nach Lissabon</title>. Von ihm selbst beschrieben. Aus
             dem Englischen übersetzt. Nebst einer Nachricht von den Lebensumständen dieses berühmten
             Schriftstellers (Altona: Iversen <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11409531-3">Stabi Bamberg</url>
@@ -117,31 +116,31 @@
 
     <werk id="semler-institutio-brevis">
         <akteur ref="semler-js" />
-        <zitation>Semleri Institutio brevior ad liberalem eruditionem theologicam (2 Bde., Halle: Trampe <year>1765–1766</year>) Bd. 2.</zitation>
+        <zitation>Semleri <title>Institutio brevior ad liberalem eruditionem theologicam</title> (2 Bde., Halle: Trampe <year>1765–1766</year>) Bd. 2.</zitation>
         <url address="https://books.google.de/books?id=Rjc2SCDd4HoC" >Google Books</url>
     </werk>
 
     <werk id="fuessli-remarks">
         <akteur ref="fuessli-jh" />
-        <zitation>Remarks on the Writings and Conduct of. J. J. Rousseau(London <year>1767</year>). </zitation>
+        <zitation><title>Remarks on the Writings and Conduct of. J. J. Rousseau</title> (London <year>1767</year>).</zitation>
         <url address="https://hdl.handle.net/2027/nyp.33433075822639" >Hathi Trust</url>
     </werk>
 
     <werk id="porte-geschichte">
         <akteur ref="porte-p" />
-        <zitation>Geschiche des Herrn de la Porte, vornehmsten Kammerdieners Ludwigs des Vierzehnden, Königs in Frankreich, welche viele besondere Umstände von der Regierung Ludwigs des Dreyzehnden und Ludwigs des Vierzehnden enthält. Aus dem Französischen übersetzt (Leipzig: Rothe <year>1766</year>).</zitation>
+        <zitation><title>Geschiche des Herrn de la Porte</title>, vornehmsten Kammerdieners Ludwigs des Vierzehnden, Königs in Frankreich, welche viele besondere Umstände von der Regierung Ludwigs des Dreyzehnden und Ludwigs des Vierzehnden enthält. Aus dem Französischen übersetzt (Leipzig: Rothe <year>1766</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/47325" >ULB Halle</url>
     </werk>
 
     <werk id="buelau-noch-etwas">
         <akteur ref="buelau-jj" />
-        <zitation>Noch etwas zum Deutschen Nationalgeiste (Lindau: Thierbach <year>1766</year>).</zitation>
+        <zitation><title>Noch etwas zum Deutschen Nationalgeiste</title> (Lindau: Thierbach <year>1766</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10015624-2" >BSB München</url>
     </werk>
 
     <werk id="mortimer-plutarch">
         <akteur ref="mortimer-t" />
-        <akteur ref="teubern-he" />
+        <akteur ref="teubern-he" kat="übersetzer"/>
         <zitation>Der Brittische Plutarch oder Lebensbeschreibungen der größten Männer in England
             und Irrland seit den Zeiten Heinrichs VIII. bis unter George II. […], aus dem Englischen
             übersetzt (6 Bde., Leipzig, Züllichau: Waysenhaus und Frommann <year>1764–1768</year>).</zitation>
@@ -150,33 +149,27 @@
 
     <werk id="nonnen-einleitung">
         <akteur ref="nonnen-n" />
-        <zitation>Einleitung in die moralische weltweisheit in Frag- und Antworten (Bremen <year>1766</year>).</zitation>
+        <zitation><title>Einleitung in die moralische Weltweisheit</title> in Frag- und Antworten (Bremen <year>1766</year>).</zitation>
     </werk>
 
     <werk id="hudemann-lucifer">
         <akteur ref="hudemann-lf" />
-        <zitation>Lucifer, ein episches Gedicht, verfertiget von Ludwig F. Hudemann (Berger und
+        <zitation><title>Lucifer</title>, ein episches Gedicht, verfertiget von Ludwig F. Hudemann (Berger und
             Bödner: Bützow und Wismar <year>1765</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-339322">ULB Halle</url>
 
     </werk>
 
     <werk id="sendschreiben-an-den-herrn-verfasser-der-schrift-erfreuliche">
+        <preferred>Sendschreiben an den Verfasser der Nachricht vom bald zu errichtenden protestantischen Inquisitionsgericht</preferred>
         <zitation>Sendschreiben an den Herrn Verfasser der Schrift: Erfreuliche Nachricht von einem
             hoffentlich bald zu errichtenden protestantischen Inquisitionsgericht (Danzig <year>1766</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN638481481">SUB Göttingen</url>
     </werk>
 
-    <werk id="neue-bibliothek-weiße-1-1">
-        <akteur ref="weisse-cf" />
-        <zitation>Neue Bibliothek der schönen Wissenschaften und freyen Künste, Bd. 1, St. 1
-            (Leipzig: Dyck <year>1765</year>).</zitation>
-        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN556514408_0001">SUB Göttingen</url>
-    </werk>
-
     <werk id="jancki-excerptum">
         <akteur ref="jancki-jd" />
-        <zitation>Excerptvm polonicae litteratvrae hvivs atqve svperioris aetatis, Bd. 4 (Breslau: Korn <year>1766</year>).</zitation>
+        <zitation><title>Excerptvm polonicae litteratvrae</title> hvivs atqve svperioris aetatis, Bd. 4 (Breslau: Korn <year>1766</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733196-3" >BSB München</url>
     </werk>
 
@@ -6221,8 +6214,7 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10916138-1">BSB München</url>
     </werk>
 
-    <werk id="g-neue-lieder">
-        <akteur ref="g" />
+    <werk id="neue-lieder-g">
         <zitation>Neue Lieder zum Singen entworfen von G. (Hamburg, Leipzig <year>1764</year>).</zitation>
     </werk>
 
@@ -6613,7 +6605,7 @@
         <url address="https://books.google.de/books?id=tWkHAAAAQAAJ" >Google Books</url>
     </werk>
 
-    <werk id="fielding-geraubte">
+    <werk id="fielding-s-geraubte">
         <akteur ref="fielding-s" />
         <zitation>Die geraubte Einsiedlerin. Oder Ophelia (2 Bde., Berlin: Pauli <year>1767</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN1000796493" >2. Aufl 1772 (SUB Göttingen)</url>
