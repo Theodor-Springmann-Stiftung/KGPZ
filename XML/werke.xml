@@ -1281,6 +1281,22 @@
         <url address="http://dx.doi.org/10.25673/66430">ULB Halle</url>
     </werk>
 
+    <werk id="moralische-neujahrswuensche">
+        <zitation>Moralische Neujahrswuensche (o.O. o.J.).</zitation>
+    </werk>
+
+    <werk id="voltaire-mann">
+        <akteur ref="voltaire" />
+        <zitation>Der Mann von vierzig Thalern (o.O. <year>1768</year>).</zitation>
+        <url address="https://books.google.de/books?id=WvKDS8FM3nsC" >Google Books</url>
+    </werk>
+
+    <werk id="winckler-nachrichten">
+        <akteur ref="winckler-jd" />
+        <zitation>Nachrichten von Niedersächsischen berühmten Leuten und Familien, Bd. 1 (Hamburg: Wörmer <year>1768</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070599-5" >BSB München</url>
+    </werk>
+
     <werk id="claudius-werke">
         <akteur ref="claudius" />
         <zitation>Asmus omnia sua secum portans oder Sämmtliche Werke des Wandsbecker Bothen (8
@@ -3105,6 +3121,12 @@
         <url address="https://nbn-resolving.org/urn:nbn:de:urmel-34fbc852-eac2-426a-9154-8e18878718867" >TULB Jena</url>
     </werk>
 
+    <werk id="schloezer-probe-annalen">
+        <akteur ref="schloezer" />
+        <zitation>Probe Russischer Annalen von August Ludwig Schlözer (Bremen, Göttingen: Förster 1768).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10783436-5" >BSB München</url>
+    </werk>
+
     <werk id="heinecken-nachrichten-kuenstler">
         <akteur ref="heinecken-kh" />
         <zitation>Nachrichten von Künstlern und Kunst-Sachen, Band 1 (Leipzig: Krauß 1768).</zitation>
@@ -3139,7 +3161,7 @@
     </werk>
 
     <werk id="winkler-beitraege-erbauung">
-        <akteur ref="winkler-jd" />
+        <akteur ref="winckler-jd" />
         <zitation>Beiträge zur Erbauung in Grundrissen heiliger Betrachtungen über die evangelischen
             Texte und andere Stellen der heiligen Schrift (2 Bde., Hamburg <year>1769</year>).</zitation>
     </werk>
