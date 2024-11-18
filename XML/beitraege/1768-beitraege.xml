@@ -1258,8 +1258,8 @@
         <stueck datum="1768" nr="59" von="235" bis="236" />
         <werk kat="rezension" ref="klotz-nutzen-steine"></werk>
         <ort ref="altenburg"></ort>
-        <akteur ref="hamann" unsicher="true">ZH II, 220; Nadler IV, 219f.</akteur>
-        <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
+        <akteur ref="trescho" unsicher="true">Unterzeichnet „Ad.“</akteur>
+        <akteur ref="hamann" unsicher="true">Hamann wird als Autor von Roth III, 417 und Nadler IV, 219f. genannt; vgl. ZH II, 220</akteur>
     </beitrag>
     <beitrag>
         <stueck datum="1768" nr="59" von="236" bis="238" />
@@ -1397,6 +1397,58 @@
     <beitrag>
         <stueck datum="1768" nr="65" von="262" />
         <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="66" von="263" bis="264" />
+        <werk kat="rezension" ref="kurzgefasste-moralische-schilderungen"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="66" von="264"/>
+        <kategorie ref="gelehrte-nachrichten"></kategorie>
+        <ort ref="leipzig"></ort>
+        <anmerkung>Ankündigung einer Ausgabe der alten griechischen Redner von Johann Jacob Reiske.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="66" von="265" bis="266" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="66" von="266" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="67" von="267" bis="268" />
+        <werk kat="rezension" ref="unzer-grundriss-weltweisheit-frauenzimmer"></werk>
+    <ort ref="halle"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="67" von="268" />
+        <werk kat="rezension" ref="adelbulner-kurze-beschreibung-barometer"></werk>
+    <ort ref="nuernberg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="67" von="269" bis="270" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="67" von="270" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="68" von="271" bis="272" />
+        <werk kat="rezension" ref="heinecken-nachrichten-kuenstler"></werk>
+    <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="68" von="272" bis="274" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="68" von="274" />
+        <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
 
