@@ -1297,6 +1297,25 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070599-5" >BSB München</url>
     </werk>
 
+    <werk id="lomonosov-alte-russische">
+        <akteur ref="lomonosov-mv" />
+        <akteur ref="bacmeister-c" kat="übersetzer"/>
+        <zitation><title>Alte Russische Geschichte</title> von dem Ursprunge der Russischen Nation bis auf den Tod des Großfürsten Jaroslaws des Ersten, oder bis auf das Jahr 1054, abgefaßt von Michael Lomonossow. Aus dem Russischen ins Deutsche übersetzt (Riga, Leipzig: Hartknoch <year>1768</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10783015-9" >BSB München</url>
+    </werk>
+
+    <werk id="gaertner-neue-beytraege">
+        <akteur ref="gaertner-kc" kat="herausgeber"/>
+        <zitation><title>Neue Beyträge zum Vergnügen des Verstandes und Witzes</title>. Neue Auflage in Zween Bänden (Braunschweig: Waisenhaus <year>1768</year>), Bd. 1.</zitation>
+        <url address="https://books.google.de/books?id=qo8iTc8HncYC" >Google Books</url>
+    </werk>
+
+    <werk id="spalding-bestimmung">
+        <akteur ref="spalding-jj" />
+        <zitation><title>Die Bestimmung des Menschen</title>. Von neuem verbesserte und vermehrte Auflage mit einigen Zugaben (Leipzig: Weidmann, Reich <year>1768</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10041959-6" >BSB München</url>
+    </werk>
+
     <werk id="claudius-werke">
         <akteur ref="claudius" />
         <zitation>Asmus omnia sua secum portans oder Sämmtliche Werke des Wandsbecker Bothen (8
@@ -3929,11 +3948,12 @@
     </werk>
 
     <werk id="kaestner-koeniglichschwedischeabhandlungen">
-        <akteur ref="kaestner-ag" />
-        <zitation>Der Königl. Schwedischen Akademie der Wissenschaften Abhandlungen aus der
-            Naturlehre, Haushaltungskunst und Mechanik auf das Jahr <year>1768</year>. Aus dem Schwedischen
-            übersetzt von Abraham Gotthelf Kästner, Bd. 30 (Leipzig: Holle <year>1771</year>).</zitation>
-        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN324352840_0030">SUB Göttingen</url>
+        <akteur ref="koeniglich-schwedische-akademie-der-wissenschaften" kat="herausgeber"></akteur>
+        <akteur ref="kaestner-ag" kat="übersetzer" />
+        <zitation>Der Königl. Schwedischen Akademie der Wissenschaften <title>Abhandlungen aus der
+            Naturlehre, Haushaltungskunst und Mechanik</title>. Aus dem Schwedischen
+            übersetzt von Abraham Gotthelf Kästner (41 Bde., Leipzig <year>1749–1783</year>).</zitation>
+        <url address="https://resolver.sub.uni-goettingen.de/purl?PPN324352840">SUB Göttingen</url>
     </werk>
 
     <werk id="kretschmann-scherzhafte-gesaenge">
@@ -6548,9 +6568,9 @@
     </werk>
 
     <werk id="schiebeler-unterhaltungen">
-        <akteur ref="schiebeler-d" />
-        <akteur ref="eschenburg-jj" />
-        <zitation>Unterhaltungen (Hamburg <year>1766–1768</year>).</zitation>
+        <akteur ref="schiebeler-d" kat="herausgeber"/>
+        <akteur ref="eschenburg-jj" kat="herausgeber"/>
+        <zitation><title>Unterhaltungen</title> (Hamburg <year>1766–1768</year>).</zitation>
     </werk>
 
     <werk id="goldsmith-landpriester">
