@@ -838,16 +838,63 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11761687-2">BSB München</url>
     </werk>
 
+    <werk id="schroeckh-christliche-kirchengeschichte">
+        <akteur ref="schroeckh-jm" />
+        <zitation><title>Christliche Kirchengeschichte</title> von Johann Matthias Schroeckh, 1. Teil (Frankfurt, Leipzig <year>1768</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10027512-6" >2. Aufl. 1772 (BSB München).</url>
+    </werk>
+
+    <werk id="benda-minuetto">
+        <akteur ref="benda-jfe" />
+        <zitation><title> Minuetto per il Cembalo</title> con Variazioni di Frederico Ernst Benda (Leipzig: Breitkopf <year>1768</year>).</zitation>
+    </werk>
+
+    <werk id="sulzer-voruebungen">
+        <akteur ref="sulzer" />
+        <zitation><title>Vorübungen zur Erweckung der Aufmerksamkeit und des Nachdenkens</title>. Zum Gebrauch einiger Classen des Königl. Joachimsthalischen Gymnasium (Berlin: Nicolai <year>1768</year>).</zitation>
+        <url address="https://dl.ub.uni-freiburg.de/diglit/sulzer1768" >UB Freiburg</url>
+    </werk>
+    
+    <werk id="redekunst-frauenzimmer">
+        <zitation>Die Redekunst fürs Frauenzimmer. Aus dem Französischen übersetzt (Regensburg: Montag <year>1768</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11081353-6" >Stabi Regensburg</url>
+    </werk>
+
     <werk id="mark-versuche-heilige">
         <akteur ref="mark-gj"></akteur>
         <zitation>Georg Joachim Marks Versuche in heiligen Liedern (Altona und Leipzig: Iversen
             <year>1766</year>).</zitation>
     </werk>
 
+    <werk id="caraccioli-munterkeit">
+        <akteur ref="caraccioli-la" />
+        <zitation>Herrn Marquis Caraccioli <title>Munterkeit des Gemüthes</title>. Aus dem Französischen übersetzt (Frankfurt <year>1768</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040084-2" >BSB München</url>
+    </werk>
+
     <werk id="buesching-geschichte">
         <zitation>Anton Friedrich Büschings Geschichte der evangelisch-lutherischen Gemeinen im
             Rußischen Reich, 1. Teil (Altona: Iversen <year>1766</year>). </zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10448653-1">BSB München</url>
+    </werk>
+
+    <werk id="gesner-zbior">
+        <akteur ref="gesner-js" />
+        <akteur ref="trotz-ma" kat="übersetzer" ></akteur>
+        <zitation><title>Zbior Pism przednieyszych niemieckich Autorow</title> (Leipzig: Frommann <year>1768</year>).</zitation>
+        <url address="https://fbc.pionier.net.pl/id/oai:bibliotekacyfrowa.pl:148721" >UB Wrocław</url>
+    </werk>
+
+    <werk id="rudloff-versuch-einleitung">
+        <akteur ref="rudloff-wa" />
+        <zitation>D. Wilhelm August Rudloff Versuch einer pragmatischen Einleitung in die <title>Geschichte und heutige Verfassung der teutschen Chur- und fürstlichen Häuser</title>. Teil 1 (Göttingen, Gotha: Dieterich <year>1768</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10021051-6" >BSB München</url>
+    </werk>
+
+    <werk id="avrillon-kernhafte-gedanken">
+        <akteur ref="avrillon-jpe" />
+        <zitation>Elias Avrillon <title>Kernhafte Gedanken über verschiedene Gegenstände der Sittenlehre</title>. Aus dem Französischen übersetzt (Augsburg: Rieger <year>1768</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10773586-1" >BSB München</url>
     </werk>
 
     <werk id="unzer-fortgesetzte-versuche">
