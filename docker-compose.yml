@@ -1,8 +1,8 @@
-name: kgpz_xml
+name: kgpz
 services:
-  data:
-    build: ./
-    container_name: kgpz-data-builder
+  xml:
+    build: .
+    container_name: kgpz-xml
     volumes:
       - data:/data
 
