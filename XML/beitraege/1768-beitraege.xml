@@ -1682,7 +1682,7 @@
     <beitrag>
         <stueck datum="1768" nr="80" von="320" />
         <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <ort ref="koenigsberg"></ort>
+        <ort ref="kgsb"></ort>
     </beitrag>
     <beitrag>
         <stueck datum="1768" nr="80" von="321" bis="322" />
@@ -1724,7 +1724,7 @@
     
     <beitrag>
         <beilage datum="1768" nr="81" von="1" />
-        <kategorie ref="rudloff-versuch-einleitung"></kategorie>
+        <werk kat="rezension" ref="rudloff-versuch-einleitung"></werk>
         <ort ref="goettingen"></ort>
         <ort ref="gotha"></ort>
     </beitrag>
@@ -1733,6 +1733,128 @@
         <kategorie ref="desertionsliste"></kategorie>
         <titel>Notificatorium</titel>
     </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="82" von="323" bis="324" />
+        <kategorie ref="vorlesungsverzeichnis"></kategorie>
+        <titel>Akademische Vorlesungen auf das Winterhalbejahr.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="82" von="325" bis="326" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="82" von="326" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1768" nr="82" von="1" />
+        <werk kat="rezension" ref="geng-nachrichten-engel"></werk>
+        <ort ref="schwabach"></ort>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1768" nr="82" von="1" />
+        <werk kat="rezension" ref="hanisch-krafft"></werk>
+        <ort ref="hildburghausen"></ort>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1768" nr="82" von="1" />
+        <werk kat="rezension" ref="gottselige-gedanken"></werk>
+        <ort ref="frankfurt"></ort>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1768" nr="82" von="2" bis="4" />
+        <kategorie ref="desertionsliste"></kategorie>
+        <titel>Notificatorium</titel>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="83" von="327" bis="328" />
+        <werk kat="rezension" ref="teller-abschiedspredigt"></werk>
+        <ort ref="braunschweig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="83" von="328" />
+        <werk kat="rezension" ref="daenisches-journal"></werk>
+        <ort ref="kopenhagen"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="83" von="329" bis="330" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="83" von="330" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="84" von="331" />
+        <werk kat="rezension" ref="spalding-neuepredigten"></werk>
+        <ort ref="berlin"></ort>
+    </beitrag><beitrag>
+        <stueck datum="1768" nr="84" von="331" bis="332" />
+        <werk kat="rezension" ref="moeller-ursprung"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="84" von="332" />
+        <werk kat="rezension" ref="vorbereitung-sabbath"></werk>
+        <ort ref="nuernberg"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="84" von="332" bis="334" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="84" von="334" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+    
+    <beitrag>
+        <beilage datum="1768" nr="83" von="1" />
+        <beilage datum="1768" nr="84" von="1" />
+        <beilage datum="1768" nr="85" von="1" />
+        <beilage datum="1768" nr="86" von="1" />
+        <beilage datum="1768" nr="87" von="2" />
+        <kategorie ref="aufsatz"></kategorie>
+        <kategorie ref="rezepte"></kategorie>
+        <titel>Kurze Anleitung wie der Landmann und diejenigen, so keinen Arzt erlangen können bey graßirenden Pocken sich zu verhalten haben. Auf Sr. Königl. Majestät in Preußen Allerhöchsten Befehl herausgegeben, von Dero Obercollegio Medico 1768.</titel>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1768" nr="84" von="2" bis="4" />
+        <kategorie ref="desertionsliste"></kategorie>
+        <titel>Notificatorium</titel>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1768" nr="85" von="2" bis="4" />
+        <kategorie ref="desertionsliste"></kategorie>
+        <titel>Notificatorium</titel>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1768" nr="86" von="2" bis="4" />
+        <kategorie ref="desertionsliste"></kategorie>
+        <titel>Notificatorium</titel>
+    </beitrag>
+
+    <beitrag>
+        <beilage datum="1768" nr="87" von="1" bis="2" />
+        <kategorie ref="aufsatz"></kategorie>
+        <akteur ref="seegut-stanislawski-as" kat="nachruf"></akteur>
+        <anmerkung>Schilderung des Begräbnisses Albrecht Siegmund von Seegut-Stanislawskis</anmerkung>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1768" nr="87" von="2" />
+        <kategorie ref="lokalanzeigen"></kategorie>
+    </beitrag>
+    <beitrag>
+        <beilage datum="1768" nr="87" von="2" />
+        <kategorie ref="buecher"></kategorie>
+    </beitrag>
+
+
 
 
 </beitraege>
