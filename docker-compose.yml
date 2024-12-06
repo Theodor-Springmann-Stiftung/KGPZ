@@ -1,0 +1,10 @@
+name: kgpz
+services:
+  xml:
+    build: .
+    container_name: kgpz-xml
+    volumes:
+      - data:/data
+
+volumes:
+  data:
