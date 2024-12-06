@@ -1,0 +1,9 @@
+services:
+  data:
+    build: ./
+    container_name: kgpz-data-builder
+    volumes:
+      - data:/data
+
+volumes:
+  data:
