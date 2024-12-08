@@ -4186,14 +4186,14 @@
 
     <werk id="ramler-lieder-deutschen-melodien">
         <akteur ref="ramler" />
-        <zitation>Lieder der Deutschen mit Melodien (4 Bde., Berlin: Winter <year>1767–1768</year>).</zitation>
+        <zitation><title>Lieder der Deutschen</title> mit Melodien (4 Bde., Berlin: Winter <year>1767–1768</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00050856-8" >BSB München</url>
     </werk>
 
     <werk id="ramler-tubel-ino">
         <akteur ref="ramler" />
         <akteur ref="tubel-cg"></akteur>
-        <zitation>Ino eine Cantate von Ramlern und Tübel (Hannover, Braunschweig 1768).</zitation>
+        <zitation><title>Ino</title> eine Cantate von Ramlern und Tübel (Hannover, Braunschweig 1768).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11153973-4" >BSB München</url>
     </werk>
 
@@ -4235,7 +4235,7 @@
 
     <werk id="reich-beschaeftigungen-herz">
         <akteur ref="reich-jcf" />
-        <zitation><title>Beschäftigungen des Herzens</title> mit Gott, in den Morgen- und Abend-Stunden auf alle Tage des Jahres. Teil 1, Abteilung 1 (Braunschweig <year>1768</year>).</zitation>
+        <zitation><title>Beschäftigungen des Herzens mit Gott</title>, in den Morgen- und Abend-Stunden auf alle Tage des Jahres. Teil 1, Abteilung 1 (Braunschweig <year>1768</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN1807552446" >2 Aufl. 1768 (SUB Göttingen)</url>
     </werk>
 
@@ -4248,8 +4248,42 @@
 
     <werk id="tetsch-kirchengeschichte">
         <akteur ref="tetsch-kl" />
-        <zitation>M. Carl Ludwig Tetsch, <title>Curländischer Kirchen-Geschichte</title>, von dem Zustande dieser Provincial-Kirche, bis zum Ableben Gotthards ersten Herzogs zu Curland, nebst der gegenwärtigen äußerlichen kirchlichen Verfassung dieses Herzogthums (3 Bde., Riga, Leipzig: Hartknoch 1767–1769), Bd. 1.</zitation>
+        <preferred>Curländische Kirchengeschichte</preferred>
+        <zitation>M. Carl Ludwig Tetsch, <title>Curländischer Kirchen-Geschichte</title>, von dem Zustande dieser Provincial-Kirche, bis zum Ableben Gotthards ersten Herzogs zu Curland, nebst der gegenwärtigen äußerlichen kirchlichen Verfassung dieses Herzogthums (3 Bde., Riga, Leipzig: Hartknoch <year>1767–1769</year>), Bd. 1.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10451262-0" >BSB München</url>
+    </werk>
+
+    <werk id="benat-redekunst">
+        <akteur ref="benat-fg" />
+        <akteur ref="heyde-jd" kat="übersetzer"
+        ></akteur>
+        <zitation><title>Die Redekunst</title>, in Beyspielen; oder ausgesuchte Stücke der Beredtsamkeit, aus den berühmtesten Rednern, die zu den Zeiten Ludwigs des XIV. und XV. gelebet haben; zusammen getragen und herausgegeben, vom Herrn von Gerard von Benat. Aus dem Französischen übersetzt, von M. Johann Daniel Heyde (4 Bde., Leipzig: Hilscher <year>1767–1769</year>), Bd. 1–2.</zitation>
+        <url address="https://books.google.de/books?id=DXtlAAAAcAAJ" >Google Books</url>
+    </werk>
+
+    <werk id="toellner-thaetige-gehorsam">
+        <akteur ref="toellner-jg" />
+        <zitation><title>Der Thätige Gehorsam Jesu Christi</title> untersucht von Johann Gottlieb Töllner (Breslau: Meyer <year>1768</year>).</zitation>
+        <url address="http://polona.pl/item/127695385/" >Biblioteka Narodowa</url>
+    </werk>
+
+    <werk id="bielfeld-grundlinien-gelehrsamkeit">
+        <akteur ref="bielfeld-jf" />
+        <akteur ref="wichmann-ca" kat="übersetzer"></akteur>
+        <zitation>Des Freyherrn von Bielfeld <title>Erste Grundlinien der allgemeinen Gelehrsamkeit</title>, oder kurzgefaßte Vorstellung so wohl der höhern und andern Wissenschaften, als der freyen Künste und der schönen Litteratur. Aus dem Französischen übersetzt und mit nöthigen Zusätzen und Erläuterungen bereichert (Breslau,Leipzig: Meyer <year>1767</year>).</zitation>
+        <url address="http://dx.doi.org/10.25673/78580" >ULB Halle</url>
+    </werk>
+
+    <werk id="plitt-theologische-untersuchungen">
+        <akteur ref="plitt-jj" />
+        <zitation>D. Johann Jacob Plitts <title>Theologische Untersuchungen</title>, Bd. 2, St. 3 (Frankfurt: Garbe <year>1768</year>).</zitation>
+        <url address="http://dx.doi.org/10.25673/84270" >ULB Halle (nur Bd. 1)</url>
+    </werk>
+
+    <werk id="formey-abhandlung-erziehung">
+        <akteur ref="formey-jhs" />
+        <zitation>Des Herrn Professors Formey <title>Abhandlung von der moralischen Erziehung der Kinder</title>. Eine von der Gesellschaft der Wissenschaften zu Harlem im Jahr 1765 gekrönte Preißschrift. Aus dem Französischen übersezt (Stralsund: Lange <year>1767</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10762775-1" >BSB München</url>
     </werk>
 
     <werk id="klotz-nutzen-steine">
