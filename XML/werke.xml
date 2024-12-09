@@ -2020,9 +2020,49 @@
     </werk>
 
     <werk id="klotz-deutsche-bibliothek">
-        <akteur ref="klotz" />
-        <zitation>Deutsche Bibliothek der schönen Wissenschaften herausgegeben vom Herrn Geheimdenrath Klotz (6 Bde und 24 Stücke, Halle: Gebauer <year>1767–1771</year>).</zitation>
+        <akteur ref="klotz" kat="herausgeber" />
+        <zitation><title>Deutsche Bibliothek der schönen Wissenschaften</title> herausgegeben vom Herrn Geheimdenrath Klotz (6 Bde und 24 Stücke, Halle: Gebauer <year>1767–1771</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10112604-1" >BSB München</url>
+    </werk>
+
+    <werk id="wagner-gruende">
+        <akteur ref="wagner-e" />
+        <zitation><title>Gründe</title>, warum das reformirte Ministerium in Bremen bey der Ausgabe eines neuen Psalm- und Gesangsbuches nicht die sämmtlichen hundert und funfzig Psalmen beibehalten hat (Bremen: Cramer <year>1768</year>).</zitation>
+    </werk>
+
+    <werk id="aufmunterung-redlichgesinnte">
+        <zitation><title>Aufmunterung an alle redlichgesinnte Lehrer in der jetzigen gefährlichen Zeit</title> --- dabey auch der Herr von Bogazky wider den sonst gelehrten D. Semler gerettet wird, von J. A. Fritschlern (Langensalza <year>1768</year>).</zitation>
+    </werk>
+
+    <werk id="ortmann-passionspredigten">
+        <akteur ref="ortmann-ad" />
+        <zitation>Adolph Dieterich Ortmanns <title>Paßions-Predigten</title> (Züllichau: Waisenhaus, Frommann <year>1768</year>).</zitation>
+        <url address="http://dx.doi.org/10.25673/39523" >Marienbibliothek Halle</url>
+    </werk>
+
+    <werk id="villiers-satyrische-warheiten">
+        <akteur ref="villiers-p" />
+        <zitation><title>Satyrische Warheiten</title>, in Gespräche eingekleidet; und aus dem Französischen übersetzet, von C. F. W. (Berlin: Winter <year>1768</year>).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN810688093" ></url>
+    </werk>
+
+    <werk id="riedel-publicum">
+        <akteur ref="riedel-fj" />
+        <zitation><title>Ueber das Publicum</title>. Briefe an einige Glieder desselben von Friedrich Just Riedel (Jena: Cuno <year>1768</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574502-4" >BSB München</url>
+    </werk>
+
+    <werk id="boysen-erlaeuterungen-redensarten">
+        <akteur ref="boysen-fe" />
+        <zitation><title>Erläuterungen einiger Schriftstellen</title> welche die Redensarten betreffen: den heiligen Geist, oder, die Gaben des Geistes empfangen. Nebst bescheidenen Zweifeln wider Hr. D. Semlers Erklärung derselben (Halle: Gebauer 1768).</zitation>
+        <url address="http://dx.doi.org/10.25673/38028" >ULB Halle</url>
+    </werk>
+
+    <werk id="cardonne-geschichte-afrika">
+        <akteur ref="cardonne-dd" />
+        <akteur ref="murr-cg" kat="übersetzer"></akteur>
+        <zitation><title>Geschichte von Afrika und Spanien unter der Herrschaft der Araber</title> (3 Bde., Nürnberg: Ammermüller <year>1768</year>).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3209515450" >Ausgabe Zürich 1770 (SLUB Dresden)</url>
     </werk>
 
     <werk id="blakmore-schoepfung">
