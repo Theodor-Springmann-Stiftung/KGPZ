@@ -174,6 +174,19 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733196-3" >BSB München</url>
     </werk>
 
+    <werk id="katharina-instruction">
+        <akteur ref="katharina-ii" />
+        <akteur ref="schloezer" kat="übersetzer"></akteur>
+        <zitation>Katharina der Zweiten Kaiserin und Gesetzberin von Russland <title>Instruction für die Verfertigung des Entwurfs zu einem neuen Gesetzbuche</title> verordnete Commißion (Riga und Mitau: Hartknoch <year>1768</year>). Übers. von Magister Johann Joseph Haigold [August Ludwig Schlözer]. </zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564713-0" >BSB München</url>
+    </werk>
+
+    <werk id="iselin-geschichte-menschheit">
+        <akteur ref="iselin-i" />
+        <zitation>Isaak Iselin über die <title>Geschichte der Menschheit</title> (2 Bde., 2. Aufl., Zürich: Orell, Geßner <year>1768</year>), Bd. 2.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11251871-6" >Stabi Augsburg</url>
+    </werk>
+
     <werk id="kretschmann-bibliothek-der-damen">
         <akteur ref="kretschmann-kf" />
         <zitation>Bibliothek der Damen, oder Sammlung lehrreicher und angenehmer Abhandlungen zur
@@ -4286,6 +4299,36 @@
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10762775-1" >BSB München</url>
     </werk>
 
+    <werk id="briefe-predigers1767">
+        <akteur ref="stresow-cf" unsicher="true" />
+        <zitation><title>Briefe eines Predigers</title> in --- an seinen Sohn über verschiedne Hauptlehren des göttlichen Worts und Christenthums. Teil 3 (Flensburg: Korte <year>1767</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11737193-1" >Teil 2 (Stabi Bamberg)</url>
+    </werk>
+
+    <werk id="teller-beitraege-rechtschaffenheit">
+        <akteur ref="teller-wa" />
+        <zitation>D. Wilhelm Abraham Tellers <title>Beyträge zur christlichen Rechtschaffenheit</title> in vier und sechzig abgekürzten Canzel-Vorträgen (Helmstedt: Waisenhaus <year>1768</year>).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:gbv:23-drucke/th-26407" >HAB Wolfenbüttel</url>
+    </werk>
+
+    <werk id="gilpin-abhandlung-kupferstiche">
+        <akteur ref="gilpin-w" />
+        <zitation><title>Abhandlung von Kupferstichen</title>, worinn die allgemeinen Grundsätze von den Regeln der Malerey, in so weit sie die Kupferstiche betreffen, abgehandelt, Die verschiednen Arten von Kupferstichen angezeigt, und die Charaktere der berühmtesten Meister gegeben werden. Nebst Anmerkungen über verschiedne einzelne Kupferstiche und Regeln, solche zu sammlen. Aus dem Englischen übersetzt (Frankfurt, Leipzig: Dodsley <year>1768</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00076476-8" >BSB München</url>
+    </werk>
+
+    <werk id="tietz-gemeinnuetzige-abhandlungen">
+        <akteur ref="tietz-jd" />
+        <zitation><title>Gemeinnützige Abhandlungen</title> zur Beförderung der Erkenntniß und des Gebrauches natürlicher Dinge in Absicht auf die Wohlfahrt des Staates und des menschlichen Geschlechts überhaupt (Leipzig: Holle <year>1768</year>).</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id4158411514" >SLUB Dresden</url>
+    </werk>
+
+    <werk id="stahl-allgemeines-forstmagazin">
+        <akteur ref="stahl-jf" />
+        <zitation><title>Allgemeines oeconomisches Forst-Magazin</title>, in welchem allerhand nüzliche Beobachtungen, Vorschläge und Versuche über die Wirthschaftliche, Policey- und Cameral-Gegenstände des sämtlichen Wald-, Forst- und Holzwesens enthalten sind […] unter der Aufsicht Johann Friedrich Stahls (12 Bde., Frankfurt, Leipzig: Metzler <year>1763–1769</year>), Bd. 10.</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10295204-8" >BSB München</url>
+    </werk>
+
     <werk id="klotz-nutzen-steine">
         <akteur ref="klotz" />
         <zitation>Ueber den Nutzen und Gebrauch der alten geschnittenen Steine und ihrer Abdrücke.
@@ -4413,8 +4456,9 @@
 
     <werk id="sterne-sentimental-journey">
         <akteur ref="sterne" />
-        <zitation>A Sentimental Journey Through France And Italy (2 Bde., London: Becket, De Hondt <year>1768</year>).</zitation>
+        <zitation>A <title>Sentimental Journey</title> Through France And Italy (2 Bde., London: Becket, De Hondt <year>1768</year>). – Übersetzung von J.J.C. Bode: Yoricks empfindsame Reisen durch Frankreich und Italien (2 Bde., Hamburg, Bremen: Cramer <year>1769</year>).</zitation>
         <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:gbv:45:1-1893" >LB Oldenburg</url>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10930080-8" >Übersetzung, 2. Aufl. 1769 (BSB München)</url>
     </werk>
 
     <werk id="sterne-predigten1766">
