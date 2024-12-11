@@ -1907,7 +1907,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1768" nr="87" von="344" />
-        <werk kat="rezension" ref="reich-beschaeftigungen-herz"></werk>
+        <werk kat="rezension" ref="reich-beschaeftigungen-herz" s=" Abteilung 1 (S. 1–126)"></werk>
         <ort ref="braunschweig"></ort>
     </beitrag>
     <beitrag>
@@ -2275,7 +2275,7 @@
 
     <beitrag>
         <stueck datum="1768" nr="101" von="401" bis="402" />
-        <werk kat="rezension" ref="tissot-anleitung"></werk>
+        <werk kat="rezension" ref="tissot-anleitung-gesundheit"></werk>
         <ort ref="hamburg"></ort>
     </beitrag>
     <beitrag>
@@ -2306,6 +2306,73 @@
     <beitrag>
         <stueck datum="1768" nr="101" von="404" />
         <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="102" von="405" bis="406" />
+        <werk kat="rezension" ref="sonnenfels-theresie"></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="102" von="406" />
+        <kategorie ref="lokalnachrichten"></kategorie>
+        <kategorie ref="panegyrik"></kategorie>
+        <ort ref="kgsb"></ort>
+        <akteur ref="kanter" unsicher="true">Unterzeichnet „K.“</akteur>
+        <anmerkung>Anzeige der Ankunft des Gouverneurs Joachim Friedrich von Stutterheim und Gedicht auf den verstorbenen Johann von Lehwald sowie auf die Ankunft Stutterheims.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="102" von="407" bis="408" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="102" von="408" />
+        <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="103" von="409" bis="411" />
+        <werk kat="rezension" ref="riedel-philosophische-bibliothek"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="103" von="411" />
+        <kategorie ref="gelehrte-nachrichten"></kategorie>
+        <kategorie ref="theaterkritik"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="103" von="411" bis="412" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="103" von="412" />
+        <kategorie ref="vorladung"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="103" von="412" />
+        <kategorie ref="wechselkurse"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="104" von="413" bis="414" />
+        <werk kat="rezension" ref="reich-beschaeftigungen-herz" s="Abteilung 2 (S. 126–224)"></werk>
+        <ort ref="berlin"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="104" von="414" />
+        <werk kat="rezension" ref="richter-dankpredigt"></werk>
+        <ort ref="kgsb"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="104" von="414" bis="415" />
+        <werk kat="rezension" ref="genealogischer-kalender1769"></werk>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="104" von="415" bis="416" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="104" von="416" />
+        <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
 

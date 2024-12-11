@@ -2054,7 +2054,7 @@
 
     <werk id="boysen-erlaeuterungen-redensarten">
         <akteur ref="boysen-fe" />
-        <zitation><title>Erläuterungen einiger Schriftstellen</title> welche die Redensarten betreffen: den heiligen Geist, oder, die Gaben des Geistes empfangen. Nebst bescheidenen Zweifeln wider Hr. D. Semlers Erklärung derselben (Halle: Gebauer 1768).</zitation>
+        <zitation><title>Erläuterungen einiger Schriftstellen</title> welche die Redensarten betreffen: den heiligen Geist, oder, die Gaben des Geistes empfangen. Nebst bescheidenen Zweifeln wider Hr. D. Semlers Erklärung derselben (Halle: Gebauer <year>1768</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/38028" >ULB Halle</url>
     </werk>
 
@@ -2067,8 +2067,20 @@
 
     <werk id="tissot-anleitung-gesundheit">
         <akteur ref="tissot-saad" />
-        <zitation><title>Anleitung für Gelehrte, und Personen von einer sitzenden Lebensart, in Absicht auf ihre Gesundheit</title> von Herrn Tissot. Nebst Gottlieb Suchers Anleitung zur Gesundheit des Geistes, oder Versuch der Naturgeschichte eines Weisen (Hamburg: Typographische Gesellschaft 1768).</zitation>
+        <zitation><title>Anleitung für Gelehrte, und Personen von einer sitzenden Lebensart, in Absicht auf ihre Gesundheit</title> von Herrn Tissot. Nebst Gottlieb Suchers Anleitung zur Gesundheit des Geistes, oder Versuch der Naturgeschichte eines Weisen (Hamburg: Typographische Gesellschaft <year>1768</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/46189" >ULB Halle</url>
+    </werk>
+
+    <werk id="sonnenfels-theresie">
+        <akteur ref="sonnenfels-j" />
+        <zitation><title>Theresie und Eleonore</title> (2. Aufl., Leipzig <year>1768</year>).</zitation>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN81902368X" >1. Aufl. Wien 1767 (SUB Göttingen)</url>
+    </werk>
+
+    <werk id="riedel-philosophische-bibliothek">
+        <akteur ref="riedel-fj" />
+        <zitation><title>Philosophische Bibliothek</title>. Herausgegeben von Friedrich Just Riedel, St. 1 (Halle: Gebauer <year>1768</year>).</zitation>
+        <url address="https://books.google.de/books?id=T_MGAAAAcAAJ" >Google Books</url>
     </werk>
 
     <werk id="buesching-vorbereitung-staatsverfassung">
@@ -4301,8 +4313,14 @@
 
     <werk id="reich-beschaeftigungen-herz">
         <akteur ref="reich-jcf" />
-        <zitation><title>Beschäftigungen des Herzens mit Gott</title>, in den Morgen- und Abend-Stunden auf alle Tage des Jahres. Teil 1, Abteilung 1 (Braunschweig <year>1768</year>).</zitation>
+        <akteur ref="reich-hr"></akteur>
+        <zitation><title>Beschäftigungen des Herzens mit Gott</title>, in den Morgen- und Abend-Stunden auf alle Tage des Jahres (Braunschweig <year>1768</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN1807552446" >2 Aufl. 1768 (SUB Göttingen)</url>
+    </werk>
+
+    <werk id="richter-dankpredigt">
+        <akteur ref="richter-g" />
+        <zitation><title>Dankpredigt zum frohen Andenken</title> [anlässlich der Grundlegung des südöstlichen Grundsteins der Löbenichtschen Pfarrkirche] von Magister Gottlieb Richter (Königsberg: Kanter <year>1768</year>).</zitation>
     </werk>
 
     <werk id="benson-geschichte-pflanzung">
@@ -5998,6 +6016,11 @@
     <werk id="gothaischer-hofkalender1769">
         <zitation>Gothaischer Hofkalender zum Nutzen und Vergnügen eingerichtet auf das Jahr <year>1769</year>
             (Gotha: Dieterich <year>1768</year>).</zitation>
+    </werk>
+
+    <werk id="genealogischer-kalender1769">
+        <zitation>Genealogischer Calender für Preussen auf das Jahr 1769 und mit Genehmhaltung der Königl. Akademie der Wissenschaften zu Berlin herausgegeben (Berlin 1768).</zitation>
+        <url address="https://de.m.wikisource.org/wiki/Genealogischer_Kalender_(Berlin)">vgl. Wikisource</url>
     </werk>
 
     <werk id="klopstock-neue-geistliche-lieder">
