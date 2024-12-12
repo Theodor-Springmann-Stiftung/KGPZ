@@ -2359,8 +2359,11 @@
     </beitrag>
     <beitrag>
         <stueck datum="1768" nr="104" von="414" />
+        <beilage datum="1768" nr="104" von="1" />
+        <kategorie ref="abbildung"></kategorie>
         <werk kat="rezension" ref="richter-dankpredigt"></werk>
         <ort ref="kgsb"></ort>
+        <anmerkung>Mit einer Abbildung des Planes für die neue Löbenichtsche Pfarrkirche.</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1768" nr="104" von="414" bis="415" />
@@ -2373,6 +2376,29 @@
     <beitrag>
         <stueck datum="1768" nr="104" von="416" />
         <kategorie ref="einkommende-fremde"></kategorie>
+    </beitrag>
+
+    <beitrag>
+        <stueck datum="1768" nr="105" von="417" />
+        <kategorie ref="gedicht"></kategorie>
+        <titel>Zum Beschluss des Jahres 1768.</titel>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="105" von="417" bis="418" />
+        <werk kat="rezension" ref="loehlein-partite" ></werk>
+        <ort ref="leipzig"></ort>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="105" von="418" bis="420" />
+        <kategorie ref="weltnachrichten"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="105" von="420" />
+        <kategorie ref="vorladung"></kategorie>
+    </beitrag>
+    <beitrag>
+        <stueck datum="1768" nr="105" von="420" />
+        <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
 
