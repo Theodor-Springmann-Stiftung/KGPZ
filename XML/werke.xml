@@ -763,81 +763,80 @@
     </werk>
 
     <werk id="schreber-sammlungen-verschiedner-schriften">
-        <akteur ref="schreber-dg" />
-        <zitation>Sammlungen verschiedner Schriften, welche in die öconomischen, Policey- und
+        <akteur ref="schreber-dg" kat="herausgeber" />
+        <zitation><title>Sammlungen verschiedner Schriften</title>, welche in die öconomischen, Policey- und
             Cameral- auch andre verwandte Wissenschaften einschlagen, hg. von Daniel Gottfried
             Schreber, 17. Teil (Halle: Curt <year>1766</year>).</zitation>
     </werk>
 
     <werk id="withof-meuchelmoerderische-reich">
         <akteur ref="withof-jp" />
-        <zitation>Das meuchelmörderische Reich der Assassinen, von Johann Philipp Withof (Kleve:
-            Hoffmann <year>1765</year>).</zitation>
+        <zitation><title>Das meuchelmörderische Reich der Assassinen</title>, von Johann Philipp Withof (Kleve: Hoffmann <year>1765</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10433936-9">BSB München</url>
     </werk>
 
     <werk id="stutzer-von-wiltshire">
-        <zitation>Der Stutzer von Wiltshire, oder Leben und Begebenheiten Ben Barnards. 2 Teile
+        <zitation><title>Der Stutzer von Wiltshire</title>, oder Leben und Begebenheiten Ben Barnards. 2 Teile
             (Frankfurt und Leipzig <year>1766</year>).</zitation>
     </werk>
 
     <werk id="unger">
-        <zitation>Rudolf Unger: Hamann und die Aufklärung. Studien zur Vorgeschichte des
-            romantischen Geistes im 18. Jahrhundert (2 Bde., Tübingen <year>1925</year>, 2. Aufl.).</zitation>
+        <zitation>Rudolf Unger: <title>Hamann und die Aufklärung</title>. Studien zur Vorgeschichte des
+            romantischen Geistes im 18. Jahrhundert (2. Aufl., 2 Bde., Tübingen <year>1925</year>).</zitation>
         <url
             address="https://archive.org/details/UngerRudolfHamannUndDieAufklarung2Bde19254ANiemeyer19681008ppOS">Internet Archive</url>
     </werk>
 
     <werk id="roth">
-        <zitation>Hamann’s Schriften. Hg. v. Friedrich Roth (8 Bde., <year>1821–1843</year>).</zitation>
+        <zitation><title>Hamann’s Schriften</title>. Hg. v. Friedrich Roth (8 Bde., <year>1821–1843</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11720425-5">BSB München</url>
     </werk>
 
     <werk id="haym-reich">
-        <zitation>Rudolf Haym: Wiedergefundene Blätter zu Herders Schriften. In: Im neuen Reich 3,2
-            (<year>1873</year>), S.&#x202F;513–527.</zitation>
+        <zitation>Rudolf Haym: <title>Wiedergefundene Blätter zu Herders Schriften</title>. In: Im neuen Reich 3,2.
+            (<year>1873</year>), S. 513–527.</zitation>
         <url address="https://digipress.digitale-sammlungen.de/view/bsb11045682_00525_u001/1"></url>
     </werk>
 
     <werk id="nadler">
-        <zitation>Johann Georg Hamann, Sämtliche Werke. Hg. v. Josef Nadler (Wien <year>1949–1957</year>).</zitation>
+        <zitation><title>Johann Georg Hamann: Sämtliche Werke</title>. Hg. v. Josef Nadler (Wien <year>1949–1957</year>).</zitation>
     </werk>
 
     <werk id="yale-muenster">
-        <zitation>Beinecke Rare Book and Manuscript Library, Yale, BEIN Zg18 H170 +775</zitation>
-        <url address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">Mikrofiches in UB Münster</url>
+        <zitation><title>Beinecke Rare Book and Manuscript Library, Yale</title>, BEIN Zg18 H170 +775.</zitation>
+        <url address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-240352">Scans Mikrofiches in der UB Münster</url>
     </werk>
 
-    <werk id="sanseverino-biographie">
+    <werk id="sanseverino-italienische-biographie">
         <akteur ref="sanseverino" />
-        <zitation>Italienische Biographie. Aus dem Französischen übersetzt [von Johann Georg
-            Meusel]. Nebst einer Vorrede von Herrn Klotz. Erster Band (Frankfurt, Leipzig <year>1769</year>).</zitation>
+        <akteur ref="meusel-jg" kat="übersetzer"></akteur>
+        <zitation><title>Italienische Biographie</title>. Aus dem Französischen übersetzt. Nebst einer Vorrede von Herrn Klotz. Bd. 1 (Frankfurt, Leipzig <year>1769</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070391-7">BSB München</url>
     </werk>
 
     <werk id="herder-kritischewaelder">
         <akteur ref="herder" />
-        <zitation>Kritische Wälder. Oder Betrachtungen, die Wissenschaft und Kunst des Schönen
+        <zitation><title>Kritische Wälder</title>. Oder Betrachtungen, die Wissenschaft und Kunst des Schönen
             betreffend, nach Maasgabe neuerer Schriften (3 Bde., Riga: Hartknoch <year>1769</year>).</zitation>
         <url address="https://nbn-resolving.de/urn:nbn:de:kobv:b4-200905199299">Deutsches Textarchiv</url>
     </werk>
 
     <werk id="miller-einladungsschrift">
         <akteur ref="miller-jp1725" />
-        <zitation>Die Hoffnung besserer Zeiten für die Schulen: eine Einladungsschrift, womit zur
+        <zitation><title>Die Hoffnung besserer Zeiten für die Schulen</title>: eine Einladungsschrift, womit zur
             feierlichen Begehung des zweiten Jubelfestes des evangelisch-lutherischen Gymnasii zu
             Halle… einladet M. Joh. Pet. Miller (Halle: Gebauer <year>1765</year>).</zitation>
     </werk>
 
     <werk id="trublet-versuche-ueber-verschiedene-gegenstaende">
         <akteur ref="trublet-ncj"></akteur>
-        <zitation>Des Abts Trublet Versuche über verschiedene Gegenstände der Sittenlehre und
-            Gelehrsamkeit, 3ter und 4ter Theil (Berlin: Mylius <year>1766</year>), Bd. 3 und 4.</zitation>
+        <zitation>Des Abts Trublet <title>Versuche über verschiedene Gegenstände der Sittenlehre und
+            Gelehrsamkeit</title> (4 Bde., Berlin: Mylius <year>1766</year>), Bd. 3 und 4.</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN867021160">SUB Göttingen</url>
     </werk>
 
     <werk id="art-de-bien">
-        <zitation>L’art de bien écrire des Lettres en toutes matieres (Brüssel <year>1765</year>). </zitation>
+        <zitation><title>L’art de bien écrire des Lettres</title> en toutes matieres (Brüssel <year>1765</year>). </zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11761687-2">BSB München</url>
     </werk>
 
@@ -849,7 +848,7 @@
 
     <werk id="benda-minuetto">
         <akteur ref="benda-jfe" />
-        <zitation><title> Minuetto per il Cembalo</title> con Variazioni di Frederico Ernst Benda (Leipzig: Breitkopf <year>1768</year>).</zitation>
+        <zitation><title>Minuetto per il Cembalo</title> con Variazioni di Frederico Ernst Benda (Leipzig: Breitkopf <year>1768</year>).</zitation>
     </werk>
 
     <werk id="sulzer-voruebungen">
@@ -859,13 +858,13 @@
     </werk>
     
     <werk id="redekunst-frauenzimmer">
-        <zitation>Die Redekunst fürs Frauenzimmer. Aus dem Französischen übersetzt (Regensburg: Montag <year>1768</year>).</zitation>
+        <zitation><title>Die Redekunst fürs Frauenzimmer</title>. Aus dem Französischen übersetzt (Regensburg: Montag <year>1768</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11081353-6" >Stabi Regensburg</url>
     </werk>
 
     <werk id="mark-versuche-heilige">
         <akteur ref="mark-gj"></akteur>
-        <zitation>Georg Joachim Marks Versuche in heiligen Liedern (Altona und Leipzig: Iversen
+        <zitation>Georg Joachim Marks <title>Versuche in heiligen Liedern</title> (Altona und Leipzig: Iversen
             <year>1766</year>).</zitation>
     </werk>
 
@@ -876,8 +875,8 @@
     </werk>
 
     <werk id="buesching-geschichte">
-        <zitation>Anton Friedrich Büschings Geschichte der evangelisch-lutherischen Gemeinen im
-            Rußischen Reich, 1. Teil (Altona: Iversen <year>1766</year>). </zitation>
+        <zitation>Anton Friedrich Büschings <title>Geschichte der evangelisch-lutherischen Gemeinen im
+            Rußischen Reich</title>, 1. Teil (Altona: Iversen <year>1766</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10448653-1">BSB München</url>
     </werk>
 
@@ -902,7 +901,7 @@
 
     <werk id="unzer-fortgesetzte-versuche">
         <akteur ref="unzer-jc"></akteur>
-        <zitation>Fortgesetzte Versuche in sittlichen und zärtlichen Gedichten von J.C. Unzerin
+        <zitation><title>Fortgesetzte Versuche in sittlichen und zärtlichen Gedichten</title> von J.C. Unzerin
             (Rinteln: Berth <year>1766</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10121945-0">BSB München</url>
     </werk>
@@ -930,7 +929,7 @@
     </werk>
 
     <werk id="vorbereitung-sabbath">
-        <zitation>Vorbereitung auf den Sabbath, eine Wochenschrift, Teil 2 (Nürnberg 1768).</zitation>
+        <zitation><title>Vorbereitung auf den Sabbath</title>, eine Wochenschrift, Teil 2 (Nürnberg 1768).</zitation>
     </werk>
 
     <werk id="spalding-neuepredigten">
@@ -946,25 +945,26 @@
     
     <werk id="teller-abschiedspredigt">
         <akteur ref="teller-wa" />
-        <zitation>Des Herrn D. W. A. Tellers <title> Abschieds-Predigt in Helmstädt</title> nebst Sieben andern Herausgegeben von Karl Heinrich Frömmichen (Braunschweig: Waisenhaus <year>1768</year>).</zitation>
+        <akteur ref="froemmichen-kh"></akteur>
+        <zitation>Des Herrn D. W. A. Tellers <title>Abschieds-Predigt in Helmstädt</title> nebst Sieben andern Herausgegeben von Karl Heinrich Frömmichen (Braunschweig: Waisenhaus <year>1768</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:23-drucke/th-26393" >HAB Wolfenbüttel</url>
     </werk>
 
     <werk id="lyrische-versuche">
-        <zitation>Lyrische Versuche (Berlin: Rüdiger <year>1766</year>).</zitation>
+        <zitation><title>Lyrische Versuche</title> (Berlin: Rüdiger <year>1766</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000B18C00000000">Stabi Berlin</url>
     </werk>
 
     <werk id="velly-histoire-de-france">
         <akteur ref="velly-pf" />
-        <zitation>Histoire de France […] par M. l’Abbé Velly (Paris, ab <year>1755</year> in mehreren Auflagen).</zitation>
+        <zitation><title>Histoire de France</title> […] par M. l’Abbé Velly (Paris, ab <year>1755</year> in mehreren Auflagen).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10419425-4">BSB München</url>
     </werk>
 
     <werk id="rambach-schreiben">
         <akteur ref="rambach-jj" />
-        <zitation>Schreiben über die Frage: ob das Leben der Alten an dem Mangel der
-            Original-Scribenten Schuld sey, abgefaßt von Johann Jacob Rambach (Quedlinburg:
+        <zitation><title>Schreiben über die Frage: ob das Leben der Alten an dem Mangel der
+            Original-Scribenten Schuld sey</title>, abgefaßt von Johann Jacob Rambach (Quedlinburg:
             Biesterfeld <year>1765</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB00003C6B00000000">Stabi Berlin</url>
     </werk>
