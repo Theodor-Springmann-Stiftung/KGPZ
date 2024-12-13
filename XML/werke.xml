@@ -532,17 +532,14 @@
 
     <werk id="buesching-denkmal-stegelmann">
         <akteur ref="buesching" />
-        <zitation>Anton Friedrich Büsching: Die St. Peters-Schule stiftet ihrem grossen Wohlthäter,
-            dem Hochedelgebohrnen Herrn, Herrn Heinrich Christian Stegelmann, Kaiserlichem Hof- und
-            Cammer-Factorn, berühmtem Kaufmanne und höchstverdientem Aeltesten der Evangelischen St.
-            Peters-Gemeine, dieses Denkmahl ihrer dankbaren Hochachtung durch die pflichtmäßige
-            Bemühung ihres Directors D. Anton Friederich Büschings (St. Petersburg <year>1763</year>).</zitation>
+        <preferred>Denkmal für Heinrich Christian Stegelmann</preferred>
+        <zitation><title>Die St. Peters-Schule stiftet ihrem grossen Wohlthäter, dem Hochedelgebohrnen Herrn, Herrn Heinrich Christian Stegelmann dieses Denkmahl ihrer dankbaren Hochachtung</title> durch die pflichtmäßige Bemühung ihres Directors D. Anton Friederich Büschings (St. Petersburg <year>1763</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN61701471X">SUB Göttingen</url>
     </werk>
 
-    <werk id="ausfuehrliche-kritische-nachrichten">
+    <werk id="otto-ausfuehrliche-kritische-nachrichten">
         <akteur ref="otto-j" />
-        <zitation>Ausführliche und kritische Nachrichten von den besten und merkwürdigsten Schriften
+        <zitation><title>Ausführliche und kritische Nachrichten</title> von den besten und merkwürdigsten Schriften
             unserer Zeit, nebst andern zur Gelahrtheit gehörigen Sachen, hrsg. von Jacob Otto
             (Lindau, Frankfurt, Leipzig <year>1763–1766</year>).</zitation>
         <url address="https://gdz.sub.uni-goettingen.de/id/PPN731784995">SUB Göttingen</url>
@@ -550,29 +547,29 @@
 
     <werk id="gleim-gedichte">
         <akteur ref="gleim" unsicher="true" />
-        <zitation>Sieben kleine Gedichte nach Anacreons Manier (Berlin <year>1764</year>).</zitation>
+        <zitation><title>Sieben kleine Gedichte nach Anacreons Manier</title> (Berlin <year>1764</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN637719743">SUB Göttingen</url>
     </werk>
 
     <werk id="argens-beytrage">
         <akteur ref="argens" />
-        <zitation>Des Marquis d’Argens und der Demoiselle Cochois gemeinschaftliche Beyträge zum
-            Vergnügen für den Geist und das Herz. Aus dem Französischen übersetzt (Berlin: Mylius
+        <zitation>Des Marquis d’Argens und der Demoiselle Cochois gemeinschaftliche <title>Beyträge zum
+            Vergnügen für den Geist und das Herz</title>. Aus dem Französischen übersetzt (Berlin: Mylius
             <year>1763</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10103463-7">BSB München</url>
     </werk>
 
     <werk id="meier-beytraege-lehre">
         <akteur ref="meier-gf" />
-        <zitation>Georg Friedrich Meiers Beyträge zu der Lehre von den Vorurtheilen des menschlichen
-            Geschlechts (Halle: Hemmerde <year>1766</year>).</zitation>
+        <zitation>Georg Friedrich Meiers <title>Beyträge zu der Lehre von den Vorurtheilen des menschlichen
+            Geschlechts</title> (Halle: Hemmerde <year>1766</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-1192015415-188738460-11">ULB Halle</url>
     </werk>
 
     <werk id="stackhouse-betrachtungen">
         <akteur ref="stackhouse-t" />
-        <akteur ref="rambach-fe"></akteur>
-        <zitation>Thomas Stackhouse Betrachtungen über das Apostolische Glaubensbekänntniß und die
+        <akteur ref="rambach-fe" kat="herausgeber"></akteur>
+        <zitation>Thomas Stackhouse <title>Betrachtungen über das Apostolische Glaubensbekänntniß</title> und die
             neun und dreyßig Lehrartickel der engländischen Kirche. Hg. von Friedrich Eberhard
             Rambach (2 Bde., Rostock: Rambach <year>1766</year>), Bd. 2.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10480950-6">BSB München</url>
@@ -581,189 +578,178 @@
 
     <werk id="oesfeld-betrachtung">
         <akteur ref="oesfeld-gf" />
-        <zitation>Gotthelf Friedrich Oesfeld Betrachtung über die zukünftige Welt (Chemnitz: Stößel
+        <zitation>Gotthelf Friedrich Oesfeld <title>Betrachtung über die zukünftige Welt</title> (Chemnitz: Stößel
             <year>1766</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3232910158">SLUB Dresden</url>
     </werk>
 
     <werk id="home-critick">
         <akteur ref="home" />
-        <zitation>Elements of Criticism (3&#xA0;Bde., Edinburgh <year>1762</year>). Übers. (von Johann Nicolaus
-            Meinhard): Grundsätze der Critik, in drey Theilen, von Heinrich Home, aus dem Englischen
-            übersetzt (3&#xA0;Bde., Leipzig: Dyckische Handlung <year>1763–1766</year>).</zitation>
-        <url address="https://digi.ub.uni-heidelberg.de/diglit/kames1763bd1">UB Heidelberg</url>
+        <akteur ref="meinhard-jn" kat="übersetzer"></akteur>
+        <zitation><title>Grundsätze der Critik</title>, in drey Theilen, von Heinrich Home, aus dem Englischen übersetzt (3 Bde., Leipzig: Dyck <year>1763–1766</year>), Bd. 2.</zitation>
+        <url address="https://doi.org/10.11588/diglit.48876">UB Heidelberg</url>
     </werk>
 
     <werk id="bieler-kunst">
         <akteur ref="bieler-b" />
-        <zitation>Die wahre Kunst und Klugheit, seine Jahre zu vermehren, und alt zu werden, von M.
-            Benj. Bieler (Dresden, Leipzig o. J.).</zitation>
+        <zitation><title>Die wahre Kunst und Klugheit, seine Jahre zu vermehren</title>, und alt zu werden, von M.
+            Benj. Bieler (Dresden, Leipzig <year>o. J.</year>).</zitation>
     </werk>
 
     <werk id="karsch-gedichte">
         <akteur ref="karsch" />
-        <zitation>Auserlesene Gedichte (Berlin: Winter <year>1764</year>).</zitation>
+        <zitation><title>Auserlesene Gedichte</title> (Berlin: Winter <year>1764</year>).</zitation>
         <url address="http://www.deutschestextarchiv.de/book/view/karsch_gedichte_1764?p=5">Deutsches Textarchiv</url>
     </werk>
 
-    <werk id="nicolai-literaturbriefe-XVI">
-        <akteur ref="nicolai" />
-        <zitation>Briefe die neueste Litteratur betreffend, hg. von Friedrich Nicolai (Berlin
-            <year>1759–1765</year>), 16. Teil (<year>1763</year>).</zitation>
-        <url address="http://ds.ub.uni-bielefeld.de/viewer/toc/1921386/0/LOG_0000/">UB Bielefeld</url>
-    </werk>
-
-    <werk id="nicolai-literaturbriefe-XIX">
-        <akteur ref="nicolai" />
-        <zitation>Briefe, die Neueste Litteratur betreffend, hg. von Friedrich Nicolai (Berlin
-            <year>1759–1765</year>), 19. Teil (<year>1764</year>).</zitation>
-        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10540798-5">BSB München</url>
-    </werk>
-
-    <werk id="nicolai-literaturbriefe-winckelmann">
-        <akteur ref="winckelmann" />
-        <zitation>Brief von Winckelmann an seinen Bruder, Rom, 8. Dezember <year>1762</year>. In: Briefe die
-            neueste Litteratur betreffend, hg. von Friedrich Nicolai (Berlin <year>1759–1765</year>), 16. Teil,
-            265. Brief, S. 183–187.</zitation>
+    <werk id="nicolai-literaturbriefe">
+        <akteur ref="nicolai" kat="herausgeber" />
+        <zitation><title>Briefe die neueste Litteratur betreffend</title>, hg. von Friedrich Nicolai (23 Teile, Berlin
+            <year>1759–1765</year>).</zitation>
         <url address="http://ds.ub.uni-bielefeld.de/viewer/toc/1921386/0/LOG_0000/">UB Bielefeld</url>
     </werk>
 
     <werk id="silberschlag-feuerkugel">
         <akteur ref="silberschlag" />
-        <zitation>Theorie der am 23. Julii, <year>1762</year> erschienenen Feuer-Kugel. Abgehandelt von Johann
+        <zitation><title>Theorie der am 23. Julii, 1762 erschienenen Feuer-Kugel</title>. Abgehandelt von Johann
             Esaias Silberschlag (Magdeburg, Stendal, Leipzig <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10058735-2">BSB München</url>
     </werk>
 
     <werk id="hirzel-bauer">
         <akteur ref="hirzel-hc" />
-        <zitation>Die Wirthschaft eines philosophischen Bauers. Entworfen von H. C. Hirzel (Zürich:
+        <zitation><title>Die Wirthschaft eines philosophischen Bauers</title>. Entworfen von H. C. Hirzel (Zürich:
             Heidegger und Compagnie <year>1761</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10295965-9">BSB München</url>
     </werk>
 
     <werk id="bertling-berichte">
-        <akteur ref="bertling" />
-        <zitation>Theologische Berichte von neuen Büchern und Schriften, von einer Gesellschaft zu
+        <akteur ref="bertling" kat="herausgeber" />
+        <zitation><title>Theologische Berichte von neuen Büchern und Schriften</title>, von einer Gesellschaft zu
             Danzig ausgefertigt, hg. von Ernst August Bertling (<year>1764–1769</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN727627473">SUB Göttingen</url>
     </werk>
 
     <werk id="arnoldt-gedanken">
         <akteur ref="arnoldt" />
-        <zitation>Vernunft- und schriftmäßige Gedanken von den Lebenspflichten der Christen,
+        <zitation><title>Vernunft- und schriftmäßige Gedanken von den Lebenspflichten der Christen</title>,
             entworfen von Daniel Heinrich Arnoldt (Königsberg und Leipzig <year>1764</year>).</zitation>
         <url address="https://archive.thulb.uni-jena.de/collections/receive/HisBest_cbu_00036720">ULB Jena</url>
     </werk>
 
     <werk id="tasso-amintas-ein-schaeferspiel">
         <akteur ref="tasso-t" />
-        <zitation>Amintas ein Schäferspiel, von Torquato Tasso. Aus dem Italiänischen in gebundner
+        <zitation><title>Amintas</title> ein Schäferspiel, von Torquato Tasso. Aus dem Italiänischen in gebundner
             Schreibart übersetzt (Berlin: Pauli <year>1766</year>).</zitation>
         <url
             address="https://nbn-resolving.org/urn:nbn:de:urmel-bbfd8b6e-847e-4e8c-905a-50446b667b300">ULB Jena</url>
     </werk>
 
     <werk id="schriften-verschiedenerverfasser">
-        <zitation>Kleine Schriften aus den schönen Wissenschaften und der Sittenlehre von
+        <zitation><title>Kleine Schriften aus den schönen Wissenschaften und der Sittenlehre</title> von
             verschiedenen Verfassern (Danzig: Wedel <year>1764</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3366571452">SLUB Dresden</url>
     </werk>
 
     <werk id="goldsmith-letters">
         <akteur ref="goldsmith" />
-        <zitation>The Citizen of the World or Letters from a Chinese Philosopher, residing in
-            London, to his Friends in the East (London <year>1762</year>). Übers.: Briefe eines chinesischen
-            Weltweisen an seine Freunde in den Morgenländern [von Johann Gottfried Gellius]
-            (2&#xA0;Bde., Leipzig: Weidmanns Erben und Reich, <year>1763</year>/64).</zitation>
+        <akteur ref="gellius" kat="übersetzer"></akteur>
+        <zitation><title>Briefe eines chinesischen Weltweisen</title> an seine Freunde in den Morgenländern. Aus dem Englischen
+            (2 Bde., Leipzig: Weidmann, Reich <year>1763–1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11109103-2">BSB München</url>
     </werk>
 
     <werk id="baumgarten-hebraer">
         <akteur ref="baumgarten-sj" />
-        <zitation>Erklärung des Briefes Pauli an die Hebräer mit Andreas Gottlieb Maschens
+        <zitation><title>Erklärung des Briefes Pauli an die Hebräer</title> mit Andreas Gottlieb Maschens
             Anmerkungen und Paraphrasi, auch Semler’s Beyträgen zu genauerer Einsicht dieses Briefes
             (Halle: Gebauer <year>1763</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10353406-6">BSB München</url>
     </werk>
 
-    <werk id="hexe-vierwochen">
+    <werk id="weitzler-hexe-vierwochen">
         <akteur ref="weitzler" />
-        <zitation>Die Hexe von vier Wochen (Breslau und Leipzig: Horn <year>1763</year>).</zitation>
+        <zitation><title>Die Hexe von vier Wochen</title> (Breslau, Leipzig: Horn <year>1763</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3366568077">SLUB Dresden</url>
     </werk>
 
     <werk id="damm-testament">
         <akteur ref="damm-ct" />
-        <zitation>Des Neuen Testamentes Unsers Herrn Jesu Christi von neuem übersetzet, und mit
+        <preferred>Neues Testament neu übersetzt</preferred>
+        <zitation><title>Des Neuen Testamentes Unsers Herrn Jesu Christi von neuem übersetzet</title>, und mit
             einigen Anmerkungen für sorgfältige Leser begleitet (3 Bde., o. O. [Berlin] <year>1765</year>).</zitation>
         <url address="https://books.google.de/books?id=oUahAPY4pEYC">Google Books</url>
     </werk>
 
     <werk id="miller-anweisung">
         <akteur ref="miller-jp1725" />
-        <zitation>M. Johann Peter Millers Anweisung zur Wohlredenheit nach den auserlesensten
+        <zitation>M. Johann Peter Millers <title>Anweisung zur Wohlredenheit</title> nach den auserlesensten
             Mustern Französischer Redner (Helmstädt <year>1763</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10114871-2">BSB München</url>
     </werk>
 
-    <werk id="catalogue-nombreuse-collection">
-        <zitation>Catalogue d’une nombreuse Collection de Livres en tout genre, rares et curieux,
+    <werk id="neaulme-catalogue-nombreuse-collection">
+    <akteur ref="neaulme-j" kat="herausgeber"></akteur>
+        <zitation><title>Catalogue d’une nombreuse Collection de Livres</title> en tout genre, rares et curieux,
             propre à satisfaire les Amateurs et à fournir une partie de ce qui manque aux grandes
             Bibliotheques. Lesquels se vendront dans Berlin par Jean Neaulme au commencement de
-            l’Année <year>1764</year> et dont le jour sera annoncé beaucoup d’avance par les Gazettes (<year>1763</year>).</zitation>
+            l’Année 1764 et dont le jour sera annoncé beaucoup d’avance par les Gazettes (Berlin, Amsterdam: Neaulme <year>1763</year>).</zitation>
         <url address="https://books.google.fr/books?id=2XMGAAAAQAAJ">Google Books</url>
     </werk>
 
     <werk id="krueger-schriften">
         <akteur ref="krueger-jc" />
-        <zitation>Johann Christian Krügers Poetische und Theatralische Schriften, hg. v. Johann
+        <akteur ref="loewen-jf" kat="herausgeber"></akteur>
+        <zitation><title>Johann Christian Krügers Poetische und Theatralische Schriften</title>, hg. v. Johann
             Friedrich Löwen (Leipzig: Weidmanns Erben und Reich <year>1763</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10113147-7">BSB München</url>
     </werk>
 
     <werk id="racine-theatralische-schriften">
         <akteur ref="racine" />
-        <zitation>Herrn Johann Racine theatralische Schriften aus dem Französischen übersetzt. 1.
+        <preferred>Theatralische Schriften</preferred>
+        <zitation>Herrn Johann Racine <title>theatralische Schriften</title> aus dem Französischen übersetzt. 1.
             Teil (Braunschweig <year>1766</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10096512-4">BSB München</url>
     </werk>
 
     <werk id="dusch-poetische-werke1">
         <akteur ref="dusch-jj" />
-        <zitation>Sämtliche poetische Werke von Johann Jacob Dusch. 1. Teil (Altona <year>1765</year>).</zitation>
+        <zitation><title>Sämtliche poetische Werke</title> von Johann Jacob Dusch. 1. Teil (Altona <year>1765</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10107507-2">BSB München</url>
     </werk>
 
     <werk id="camerer-betrachtungen">
         <akteur ref="camerer-jf" />
-        <zitation>Betrachtungen über verschiedene Gegenstände (Hamburg: Bock <year>1763</year>).</zitation>
+        <zitation><title>Betrachtungen über verschiedene Gegenstände</title> (Hamburg: Bock <year>1763</year>).</zitation>
         <url address="https://nbn-resolving.org/urn:nbn:de:bvb:29-bv009235914-0">UB Erlangen-Nürnberg</url>
     </werk>
 
     <werk id="pieper-markenrecht">
         <akteur ref="pieper-fg" />
-        <zitation>F. G. Pipers historisch-juridische Beschreibung des Marcken-Rechts in Westfalen
+        <zitation>F. G. Pipers historisch-juridische <title>Beschreibung des Marcken-Rechts in Westfalen</title>
             (Halle: Waysenhaus <year>1763</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3269482790">SLUB Dresden</url>
     </werk>
 
     <werk id="gazette-litteraire">
-        <zitation>Gazette littéraire de l’Europe, hg. v. Jean Baptiste Antoine Suard und François
+        <akteur ref="suard-jba"></akteur>
+        <akteur ref="arnaud-f"></akteur>
+        <zitation><title>Gazette littéraire de l’Europe</title>, hg. v. Jean Baptiste Antoine Suard und François
             Arnaud (Amster: Harrevelt, ab Mai <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10539130-1">BSB München</url>
     </werk>
 
     <werk id="michaelis-hebraer">
         <akteur ref="michaelis-jd" />
-        <zitation>Erklärung des Briefes an die Hebräer (2&#xA0;Bde., Frankfurt und Leipzig: Garbe
-            <year>1762–1764</year>), II.</zitation>
+        <zitation><title>Erklärung des Briefes an die Hebräer</title> (2 Bde., Frankfurt und Leipzig: Garbe
+            <year>1762–1764</year>), Bd. 2.</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-516649">ULB Halle</url>
     </werk>
 
     <werk id="michaelis-gedanken-seltsame-gesetz">
         <akteur ref="michaelis-jd" />
-        <zitation>Gedanken über das seltsame Gesez Moses, Wodurch auf jedes siebente jahr ein
+        <zitation><title>Gedanken über das seltsame Gesez Moses</title>, Wodurch auf jedes siebente jahr ein
             allgemeiner Stillstand aller Feldarbeit geboten war. In der gewöhnlichen Versammlung der
             königlichen Gesellschaft zu Göttingen vorgetragen, von Herrn Johann Jacob Michaelis. Aus
             dem Lateinischen übersetzt (Bern: Neue Buchhandlung <year>1765</year>).</zitation>
@@ -772,7 +758,7 @@
 
     <werk id="wagner-kurzer-inhalt-predigten">
         <akteur ref="wagner-f" />
-        <zitation>Friedrich Wagners kurzer Inhalt seiner Sonn- und Festtagspredigten über die
+        <zitation>Friedrich Wagners kurzer Inhalt seiner <title>Sonn- und Festtagspredigten</title> über die
             gewöhnliche Evangelia (Hamburg <year>1766</year>).</zitation>
     </werk>
 

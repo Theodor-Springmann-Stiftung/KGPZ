@@ -218,7 +218,7 @@
 
     <beitrag>
         <stueck datum="1764" nr="9" von="33" bis="34" />
-        <werk ref="ausfuehrliche-kritische-nachrichten" kat="rezension" />
+        <werk ref="otto-ausfuehrliche-kritische-nachrichten" kat="rezension" />
         <akteur ref="hamann">vgl. ZH II, 239</akteur>
         <ort ref="lindau" />
         <ort ref="frankfurt" />
@@ -295,17 +295,18 @@
         <kategorie ref="lotterie" />
     </beitrag>
 
-
     <beitrag>
         <stueck datum="1764" nr="13" von="49" />
-        <werk ref="nicolai-literaturbriefe-XVI" kat="rezension" />
+        <werk ref="nicolai-literaturbriefe" s="Teil 16" kat="rezension" />
         <akteur ref="hamann">vgl. ZH II, 239</akteur>
         <ort ref="berlin" />
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="13" von="50" bis="51" />
         <titel>Leben und Wunder des Herrn Johann Winckelmanns</titel>
-        <werk ref="nicolai-literaturbriefe-winckelmann" kat="auszug" />
+        <werk ref="nicolai-literaturbriefe" s="16. Teil,
+            265. Brief, S. 183–187" kat="auszug" />
+        <anmerkung>Auszug aus einem Brief von Winckelmann an seinen Bruder, Rom, 8. Dezember 1762.</anmerkung>
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="13" von="51" bis="52" />
@@ -430,7 +431,7 @@
 
     <beitrag>
         <stueck datum="1764" nr="19" von="73" bis="74" />
-        <werk ref="hexe-vierwochen" kat="rezension" />
+        <werk ref="weitzler-hexe-vierwochen" kat="rezension" />
         <ort ref="breslau" />
         <ort ref="leipzig" />
     </beitrag>
@@ -442,7 +443,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1764" nr="19" von="74" bis="75" />
-        <werk ref="catalogue-nombreuse-collection" kat="anzeige" />
+        <werk ref="neaulme-catalogue-nombreuse-collection" kat="anzeige" />
         <ort ref="amsterdam" />
         <ort ref="berlin" />
     </beitrag>
