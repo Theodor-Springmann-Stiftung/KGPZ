@@ -971,34 +971,33 @@
 
     <werk id="schmidt-religion">
         <akteur ref="schmidt-jf" />
-        <zitation>Von der Religion (Königsberg, Leipzig, Mitau: Kanter <year>1764</year>).</zitation>
+        <zitation><title>Von der Religion</title> (Königsberg, Leipzig, Mitau: Kanter <year>1764</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:24-digibib-kxp18333405077">WLB Stuttgart</url>
     </werk>
 
     <werk id="schmidt-anmerkungen">
         <akteur ref="schmidt-jf" />
-        <zitation>Johann Schmidt kurze Anmerkungen über Sam. Crells neue Gedanken vom ersten und
-            andern Adam, unter D. Tellers Aufsicht herausgegeben, nebst Beilagen und einem Versuch
-            über die Gränzen der Nachahmung (Halle, Helmstedt: Hemmerde <year>1766</year>).</zitation>
+        <akteur ref="teller-wa" kat="herausgeber"></akteur>
+        <zitation>Johann Schmidts <title>Kurze Anmerkungen über eines Ungenannten Neue Gedanken vom Ersten und Andren Adam</title> auf Veranstaltung und unter der Aufsicht D. Tellers in Helmstädt aus dem Lateinischen übersetzt. Nebst einer Geschichte dieser Übersetzung einem beytrag zu einer genauern Bestimmung der Grenzen der Nachahmung und Anhang einiger Beylagen (Halle, Helmstedt: Hemmerde <year>1766</year>).</zitation>
         <url address="https://books.google.de/books?id=GTRfAAAAcAAJ">Google Books</url>
     </werk>
 
     <werk id="stoelzel-mann">
         <akteur ref="stoelzel-wf" />
-        <zitation><title>Der Ehrliche Mann</title>. Wochenschrift hg. von Wilhelm Friedrich Stölzel. Erster Band
+        <zitation><title>Der Ehrliche Mann</title>. Wochenschrift hg. von Wilhelm Friedrich Stölzel. Bd. 1
             (Gotha: Mevius <year>1764</year>).</zitation>
     </werk>
 
     <werk id="stoelzel-sammlung">
         <akteur ref="stoelzel-wf" />
-        <zitation>Wilh. Friedr. Stölzels dritte Sammlung heiliger Reden ([7 Bde., Gotha: Dietrich,
-            <year>1755–1777</year>]), Bd. 3.</zitation>
+        <zitation>Wilh. Friedr. Stölzels dritte <title>Sammlung heiliger Reden</title> (7 Bde., Gotha: Dietrich,
+            <year>1755–1777</year>), Bd. 3.</zitation>
     </werk>
 
     <werk id="eller-abhandlungen">
         <akteur ref="eller-jt" />
-        <akteur ref="gerhard-ca" />
-        <zitation>Johann Theodor Ellers Physikalisch-Chymisch-Medicinische Abhandlungen, aus den
+        <akteur ref="gerhard-ca" kat="übersetzer" />
+        <zitation>Johann Theodor Ellers <title>Physikalisch-Chymisch-Medicinische Abhandlungen</title>, aus den
             Gedenkschriften der königl. Akademie der Wissenschaften herausgezogen und übersetzt von
             D. Carl Abraham Gerhard (Berlin, Stettin, Leipzig: Rüdiger <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10130957-6">BSB München</url>
@@ -1006,12 +1005,12 @@
 
     <werk id="robinet-nature">
         <akteur ref="robinet" />
-        <zitation>De la nature (4 Bde., Amsterdam: E. van Harrevelt <year>1761–1766</year>), Bd. 2.</zitation>
+        <zitation><title>De la nature</title> (4 Bde., Amsterdam: E. van Harrevelt <year>1761–1766</year>), Bd. 2.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046784-8">BSB München</url>
     </werk>
 
     <werk id="pitt-staatsverwaltung">
-        <zitation>Die Staats-Verwaltung des Herrn William Pitt in und außer Großbritannien vor und
+        <zitation><title>Die Staats-Verwaltung des Herrn William Pitt</title> in und außer Großbritannien vor und
             während seinem Staats-Secretariat unpartetheyisch erzählet und beurtheilet. Aus dem von
             einer berühmten Feder entworfenen Englischen Original (London [Göttingen] <year>1763</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11283099-3">BSB München</url>
@@ -1019,97 +1018,93 @@
 
     <werk id="ramler-hymen">
         <akteur ref="ramler" />
-        <zitation>Ode an Hymen (Berlin <year>1763</year>).</zitation>
+        <zitation><title>Ode an Hymen</title> (Berlin <year>1763</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-650123">ULB Halle</url>
     </werk>
 
     <werk id="ramler-lieder-der-deutschen">
         <akteur ref="ramler" />
-        <zitation>Lieder der Deutschen (Berlin: Winter <year>1766</year>).</zitation>
+        <zitation><title>Lieder der Deutschen</title> (Berlin: Winter <year>1766</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116685-8">BSB München</url>
     </werk>
 
     <werk id="gellius-geschichte">
-        <akteur ref="gellius" />
-        <zitation>Die Geschichte eines jungen Herrn von ihm selbst aufgezeichnet. Aus dem Englischen
-            [von Johann Gottfried Gellius] (Leipzig <year>1763</year>).</zitation>
+        <akteur ref="gellius" kat="übersetzer" />
+        <zitation><title>Die Geschichte eines jungen Herrn</title> von ihm selbst aufgezeichnet. Aus dem Englischen (Leipzig <year>1763</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN800126122">SLUB Göttingen</url>
     </werk>
 
     <werk id="kant-beobachtungen">
         <akteur ref="kant" />
-        <zitation>Beobachtungen über das Gefühl des Schönen und Erhabenen von M. Immanuel Kant
+        <zitation><title>Beobachtungen über das Gefühl des Schönen und Erhabenen</title> von M. Immanuel Kant
             (Königsberg: Kanter <year>1764</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id4248544650">SLUB Dresden</url>
     </werk>
 
     <werk id="wegelin-todtengesprache">
         <akteur ref="wegelin-jd" />
-        <zitation>Religiöse Gespräche der Todten (Frankfurt/Leipzig: Otto <year>1763</year>).</zitation>
+        <zitation><title>Religiöse Gespräche der Todten</title> (Frankfurt, Leipzig: Otto <year>1763</year>).</zitation>
         <url address="https://doi.org/10.3931/e-rara-52009">ZB Zürich</url>
     </werk>
 
     <werk id="burmann-fabeln">
         <akteur ref="burmann-gw" />
-        <zitation>G. W. Burmanns Fabeln und Erzehlungen (Berlin: Winter <year>1763</year>).</zitation>
+        <zitation>G. W. Burmanns <title>Fabeln und Erzehlungen</title> (Berlin: Winter <year>1763</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000B88200000000">Stabi Berlin</url>
     </werk>
 
     <werk id="montague-briefe">
         <akteur ref="montague" />
-        <zitation>Letters of the Right Honourable Lady […] Written, during her Travels in Europe,
-            Asia and Africa, To Persons of Distinction, men of Letters and c. in different Parts of
-            Europe. Which contain, Among other Curious Relations, Accounts of the Policy and Manners
-            of the Turks, Drawn from Sources, that have been inaccessible to other Travellers (3
-            Bde., London <year>1763</year>). – Übers.: Briefe der Lady Mary Wortley Montague, während ihrer
+        <zitation><title>Briefe der Lady Mary Worthley Montague</title>, während ihrer
             Reisen in Europa, Asien und Afrika, an Personen vom Stande, Gelehrte etc. in
             verschiedenen Teilen von Europa geschrieben; welche außer andern Merkwürdigkeiten
             Nachrichten von der Staatsverfassung und den Sitten der Türken enthalten; aus Quellen
-            geschöpft, die für andere Reisende unzugänglich waren (Leipzig <year>1764</year>).</zitation>
+            geschöpft, die für andere Reisende unzugänglich waren (Leipzig: Weidmann, Reich <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10469957-8">BSB München</url>
     </werk>
 
     <werk id="holdermann-grammaire">
         <akteur ref="holdermann" />
-        <zitation>Grammaire turque, ou, Methode courte &#x26; facile, pour apprendre la langue
+        <zitation><title>Grammaire turque</title>, ou, Methode courte &#x26; facile, pour apprendre la langue
             turque (Constantinople <year>1730</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10903886-3">BSB München</url>
     </werk>
 
     <werk id="willamovius-dithyramben">
         <akteur ref="willamovius" />
-        <zitation>Dithyramben (Berlin: Birnstiel <year>1763</year>).</zitation>
+        <zitation><title>Dithyramben</title> (Berlin: Birnstiel <year>1763</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN632051086">SUB Göttingen</url>
     </werk>
 
     <werk id="lauson-paean">
         <akteur ref="lauson" />
-        <zitation>Päan. Friedrichs Palmen geheiliget (Königsberg: Kanter <year>1763</year>).</zitation>
+        <zitation><title>Päan</title>. Friedrichs Palmen geheiliget (Königsberg: Kanter <year>1763</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000B81A00000000">Stabi Berlin</url>
     </werk>
 
     <werk id="haug-sabbat">
         <akteur ref="haug-b" />
-        <zitation>Der Christ am Sabbath von M. Balthasar Haug (2 Bde., Ulm: Bartholomäus <year>1763</year>).</zitation>
+        <zitation><title>Der Christ am Sabbath</title> von M. Balthasar Haug (2 Bde., Ulm: Bartholomäus <year>1763</year>).</zitation>
     </werk>
 
     <werk id="montfaucon-gabalis">
         <akteur ref="montfaucon" />
-        <zitation>Unterredungen über die geheimen Wissenschaften: Eine Schrift, die den Dichtern
-            vielleicht einigermaßen nützlich seyn kann (Leipzig, Berlin: Birnstiel <year>1764</year>); anonyme
-            Übers. von Montfaucon: Le Comte de Gabalis ou Entretiens sur les sciences secretes.</zitation>
+        <zitation><title>Unterredungen über die geheimen Wissenschaften</title>: Eine Schrift, die den Dichtern
+            vielleicht einigermaßen nützlich seyn kann (Leipzig, Berlin: Birnstiel <year>1764</year>)
+            </zitation>
+        <anmerkung>Anonyme Übersetzung von Montfaucon: Le Comte de Gabalis ou Entretiens sur les sciences secretes.</anmerkung>
     </werk>
 
     <werk id="unzer-arzt">
         <akteur ref="unzer-ja" />
-        <zitation>Der Arzt. Eine medicinische Wochenschrift von D. Johann August Unzer (12 Bde.,
+        <zitation><title>Der Arzt</title>. Eine medicinische Wochenschrift von D. Johann August Unzer (12 Bde.,
             Hamburg <year>1759–1764</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB000220C300000000">Stabi Berlin</url>
     </werk>
 
     <werk id="langer-westminster">
         <akteur ref="langer-c" />
-        <zitation>Denkwürdigkeiten der Stiftskirche zu St. Peter in Westminster. Nebst einigen
+        <zitation><title>Denkwürdigkeiten der Stiftskirche zu St. Peter in Westminster</title>. Nebst einigen
             hieher gehörigen Nachrichten von dem Leben merkwürdiger englischer Dichter (Lübeck:
             Schmidt und Donatius <year>1763</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10005345-7">BSB München</url>
@@ -1117,130 +1112,131 @@
 
     <werk id="faesi-abhandlungen">
         <akteur ref="faesi-jk" />
-        <zitation>Abhandlungen über wichtige Begebenheiten aus der alten und neuern Geschichte (2
-            Bde., Zürich: Orell, Geßner <year>1763–1764</year>), Bd. 2 (<year>1764</year>).</zitation>
+        <zitation><title>Abhandlungen über wichtige Begebenheiten aus der alten und neuern Geschichte</title> (2
+            Bde., Zürich: Orell, Geßner <year>1763–1764</year>), Bd. 2.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10738142-4">BSB München</url>
     </werk>
 
     <werk id="gelehrte-beytraege-riga">
         <akteur ref="arndt-jg" />
-        <zitation>Gelehrte Beyträge zu den Rigischen Anzeigen (<year>1761–1767</year>). Begründet von Abraham
-            Winkler, Redakteur Johann Gottfried Arndt.</zitation>
+        <zitation><title>Gelehrte Beyträge zu den Rigischen Anzeigen</title> [begründet von Abraham
+            Winkler, Redakteur Johann Gottfried Arndt] (St. Petersburg: Akademie der Wissenschaften <year>1761–1767</year>).</zitation>
         <url address="http://hdl.handle.net/10062/307"></url>
     </werk>
 
     <werk id="karsch-einfaelle">
         <akteur ref="karsch" />
-        <zitation>Poetische Einfälle von A. L. Karschin (Berlin: Winter <year>1764</year>).</zitation>
+        <zitation><title>Poetische Einfälle</title> von A. L. Karschin (Berlin: Winter <year>1764</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN1023315874">SUB Göttingen</url>
     </werk>
 
     <werk id="gleim-deutschemuse">
         <akteur ref="gleim" />
-        <zitation>Gespräche mit der deutschen Muse (Berlin <year>1764</year>).</zitation>
+        <zitation><title>Gespräche mit der deutschen Muse</title> (Berlin <year>1764</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN886131804">SUB Göttingen</url>
     </werk>
 
     <werk id="klopstock-salomo">
         <akteur ref="klopstock" />
-        <zitation>Salomo, ein Trauerspiel von Klopstock (Magdeburg <year>1764</year>).</zitation>
+        <zitation><title>Salomo</title>, ein Trauerspiel von Klopstock (Magdeburg <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10112511-5">BSB München</url>
     </werk>
 
     <werk id="basedow-unterricht">
         <akteur ref="basedow-jb" />
-        <zitation>Johann Bernhard Basedows Königl. Dän. Profess. Methodischer Unterricht in der
-            überzeugenden Erkenntniß der biblischen Religion zur fortgesetzten Ausführung des in der
+        <zitation>Johann Bernhard Basedows <title>Methodischer Unterricht in der
+            überzeugenden Erkenntniß der biblischen Religion</title> zur fortgesetzten Ausführung des in der
             Philalethie angegebenen Plans (Altona: Iversen <year>1763</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id32041972X8">SLUB Dresden</url>
     </werk>
 
     <werk id="hippel-rhapsodie">
         <akteur ref="hippel" />
-        <zitation>Rhapsodie (Königsberg: Kanter <year>1763</year>)</zitation>
+        <zitation><title>Rhapsodie</title> (Königsberg: Kanter <year>1763</year>)</zitation>
         <url address="http://dx.doi.org/10.25673/49189">ULB Halle</url>
     </werk>
 
     <werk id="hippel-mann">
         <akteur ref="hippel" />
-        <zitation>Der Mann nach der Uhr, oder der ordentliche Mann. Ein Lustspiel in einem Aufzuge
+        <zitation><title>Der Mann nach der Uhr</title>, oder der ordentliche Mann. Ein Lustspiel in einem Aufzuge
             (o. O. <year>1765</year>). Von der Schuchschen Truppe im November <year>1767</year> aufgeführt.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10118102-5">Ausgabe Riga 1771 (BSB München)</url>
     </werk>
 
     <werk id="willamovius-mode">
         <akteur ref="willamovius" />
-        <zitation>Sammlung, oder nach der Mode: Magazin von Einfällen (Breslau, Leipzig <year>1763</year>).</zitation>
+        <zitation>Sammlung, oder nach der Mode: <title>Magazin von Einfällen</title> (Breslau, Leipzig <year>1763</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000EDA300010000">Stabi Berlin</url>
     </werk>
 
     <werk id="magazin-historique">
-        <zitation>Magazin historique pour l1esprit et le coeur (Strasbourg: Bauer <year>1764</year>) und die
-            Übersetzung: Historisches Magazin für den Verstand und das Herz (Straßburg:Bauer <year>1764</year>).</zitation>
+    <preferred>Magazin historique pour l’esprit et le coeur</preferred>
+        <zitation><title>Magazin historique pour l’esprit et le coeur</title> (Strassburg: Bauer <year>1764</year>). – Dazu die
+            Übersetzung: <title>Historisches Magazin für den Verstand und das Herz</title> (Strassburg: Bauer <year>1764</year>).</zitation>
         <url
-            address="https://books.google.de/books?id=wsoPAAAAQAAJ">Magazin historique</url>
+            address="https://books.google.de/books?id=wsoPAAAAQAAJ">Magazin historique (Google Books)</url>
         <url
             address="http://resolver.sub.uni-goettingen.de/purl?PPN720458986">Übersetzung (SUB Göttingen)</url>
     </werk>
 
     <werk id="darjes-einleitung">
         <akteur ref="darjes-jg" />
-        <zitation>Joachim Georg Darjes […] Einleitung in des Freyherrn von Bielefeld Lehrbegriff der
-            Staatsklugheit zum Gebrauch seiner Zuhörer verfertiget (Jena: Hartung <year>1764</year>).</zitation>
+        <zitation>Joachim Georg Darjes <title>Einleitung in des Freyherrn von Bielefeld Lehrbegriff der
+            Staatsklugheit</title> zum Gebrauch seiner Zuhörer verfertiget (Jena: Hartung <year>1764</year>).</zitation>
         <url address="https://books.google.de/books?id=53wN9yiAYBcC">Google Books</url>
     </werk>
 
     <werk id="hase-antwort">
         <akteur ref="hase-cg" />
-        <zitation>Antwort auf den sogenanten Catechisme de l’honnête homme. Oder algemeine
+        <zitation><title>Antwort auf den sogenanten Catechisme de l’honnête homme</title>. Oder algemeine
             Verteidigung der wahren Religion des Christentums von M. Christian Gottfried Hase
             (Brandenburg und Leipzig: Gebrüder Halle <year>1764</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000132700000000">Stabi Berlin</url>
     </werk>
 
     <werk id="hallische-anzeigen34-1">
-        <zitation>Wöchentliche Hallische Anzeigen (Halle <year>1731–1810</year>), <year>1765</year>, St. 1–3.</zitation>
-        <url address="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-6725">SU Bremen: Nur Jg. 1740, 1754, 1756, 1758 und 1775</url>
+        <zitation><title>Wöchentliche Hallische Anzeigen</title> (Halle <year>1731–1810</year>), 1765, St. 1–3.</zitation>
+        <url address="http://nbn-resolving.de/urn:nbn:de:gbv:46:1-6725">Vgl. SU Bremen: Nur Jg. 1740, 1754, 1756, 1758 und 1775</url>
     </werk>
 
     <werk id="briefe-moral">
-        <zitation>Briefe über die Neueste Moral (Rostock, Greifswald: Rösen <year>1764</year>).</zitation>
+        <zitation><title>Briefe über die Neueste Moral</title> (Rostock, Greifswald: Rösen <year>1764</year>).</zitation>
         <url address="https://books.google.de/books?id=mt8AAAAAcAAJ">Google Books</url>
     </werk>
 
     <werk id="gleim-petrarchischegedichte">
         <akteur ref="gleim" />
-        <zitation>Petrarchische Gedichte (Berlin <year>1764</year>).</zitation>
+        <zitation><title>Petrarchische Gedichte</title> (Berlin <year>1764</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN887589510">SUB Göttingen</url>
     </werk>
 
     <werk id="groeben-allerley">
-        <zitation>Schlesisches Allerley (Frankfurt und Leipzig <year>1764</year>).</zitation>
+        <zitation><title>Schlesisches Allerley</title> (Frankfurt, Leipzig <year>1764</year>).</zitation>
         <anmerkung>Als Autor wird ein Rittmeister von der Gröben genannt.</anmerkung>
     </werk>
 
     <werk id="thilo-caecilia">
         <akteur ref="thilo-ca" />
-        <zitation>Cäcilia, oder die gottlose Tochter, von dem Verfasser der Charlotte Fräulein von
+        <zitation><title>Cäcilia</title>, oder die gottlose Tochter, von dem Verfasser der Charlotte Fräulein von
             Weissensee (Kopenhagen <year>1764</year>).</zitation>
     </werk>
 
     <werk id="brautbisinsalter">
-        <zitation>Die Braut bis ins Alter, in der nachdenklichen Geschichte Jungfer Julchens aus L**
-            Von ihr selbst in vertraulichen Briefen an eine Muhme beschrieben (2 Tle. [Berlin:
-            Rüdiger] <year>1764</year>, 3. Tl. <year>1765</year>).</zitation>
+        <zitation><title>Die Braut bis ins Alter</title>, in der nachdenklichen Geschichte Jungfer Julchens aus L**
+            Von ihr selbst in vertraulichen Briefen an eine Muhme beschrieben (3 Bde., Berlin:
+            Rüdiger <year>1764–1765</year>), Bd. 1–2.</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000EE1B00000000">Stabi Berlin</url>
     </werk>
 
     <werk id="medicus-krankheiten">
         <akteur ref="medicus-fc" />
-        <zitation>Friedrich Casimirs Medicus […] Geschichte periodischer Krankheiten (2 Bde.,
+        <zitation>Friedrich Casimirs Medicus <title>Geschichte periodischer Krankheiten</title> (2 Bde.,
             Carlsruhe: Macklot <year>1764</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/77816">ULB Halle</url>
     </werk>
 
     <werk id="recueil-dopuscules">
-        <zitation>Recueil d’opuscules litteraires, avec un discours de Louis XIV a Monseigneur le
+        <zitation><title>Recueil d’opuscules litteraires</title>, avec un discours de Louis XIV a Monseigneur le
             Dauphin, tirés d’un Cabinet d’Orleans et publié par un anonime (Amsterdam: Harrevelt
             <year>1767</year>).</zitation>
         <url address="https://archive.org/details/recueildopuscul00fongoog">Internet Archive</url>
@@ -1248,21 +1244,21 @@
 
     <werk id="guden-polizey">
         <akteur ref="guden-pp" />
-        <zitation>Polizey der Industrie, oder Abhandlung von den Mitteln, den Fleiß der Einwohner zu
-            ermuntern. Verfasset von Philipp Peter Gulden (Braunschweig: Waysenhaus <year>1766</year>).</zitation>
+        <zitation><title>Polizey der Industrie</title>, oder Abhandlung von den Mitteln, den Fleiß der Einwohner zu
+            ermuntern. Verfasset von Philipp Peter Guden (Braunschweig: Waysenhaus <year>1766</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3546151731">SLUB Dresden</url>
     </werk>
 
     <werk id="shenstone-versuche">
         <akteur ref="shenstone-w" />
-        <zitation>The Works in Verse and Prose of William Shenstone, Esq. (3 Bde., London: Dodsley
+        <zitation><title>The Works in Verse and Prose of William Shenstone</title>, Esq. (3 Bde., London: Dodsley
             <year>1764–1769</year>), Bd. 2.</zitation>
         <url address="https://books.google.de/books?id=28FEAAAAYAAJ">Google Books</url>
     </werk>
 
     <werk id="barreti-italy">
         <akteur ref="barreti-g" />
-        <zitation>An Account of the Manners and Customs of Italy; with Observations on the Mistakes
+        <zitation><title>An Account of the Manners and Customs of Italy</title>; with Observations on the Mistakes
             of some Travellers, with Regard to that Country, by Joseph Baretti (2 Bde., 2. Aufl.
             London <year>1769</year>), Bd. 1.</zitation>
         <url address="https://books.google.de/books?id=jsZDAAAAYAAJ">Google Books</url>
@@ -1270,27 +1266,27 @@
 
     <werk id="baretti-reisen">
         <akteur ref="barreti-g" />
-        <zitation>Reisen von London nach Genua durch England, Portugal, Spanien und Frankreich, von
-            Joseph Baretti. Aus dem Englischen, Teil 2 (Leipzig: Fritsch <year>1772</year>).</zitation>
+        <zitation><title>Reisen von London nach Genua</title> durch England, Portugal, Spanien und Frankreich, von
+            Joseph Baretti. Aus dem Englischen (2 Bde., Leipzig: Fritsch <year>1772</year>), Bd. 2.</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN715962213">SUB Göttingen</url>
     </werk>
 
     <werk id="voltaire-contes">
         <akteur ref="voltaire" />
-        <zitation>Contes de Guillaume Vadé ([Genf] <year>1764</year>).</zitation>
+        <zitation><title>Contes de Guillaume Vadé</title> (Genf <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10099509-3">BSB München</url>
     </werk>
 
     <werk id="trescho-beurtheilung">
         <akteur ref="trescho" />
-        <zitation>Beurtheilung der Schrift: vom Werth der Gefühle im Christenthum (Frankfurt:
+        <zitation><title>Beurtheilung der Schrift: vom Werth der Gefühle im Christenthum</title> (Frankfurt:
             Gebhard, <year>1764</year>).</zitation>
         <url address="https://books.google.de/books?id=R9HgOiZpDxIC">Google Books</url>
     </werk>
 
     <werk id="johnson-idler">
         <akteur ref="johnson-s" />
-        <zitation>The Idler. By the Author of the Rambler; in two volumes.
+        <zitation><title>The Idler</title>. By the Author of the Rambler; in two volumes.
             The third Edition. With additional Essays (London <year>1967</year>).</zitation>
         <url
             address="https://books.google.de/books?id=kSQJAAAAQAAJ">Vol. 1 (<year>1761</year>)</url>
@@ -1300,21 +1296,22 @@
 
     <werk id="steinbart-tugend">
         <akteur ref="steinbart-gs" />
-        <zitation>Prüfung der Bewegungsgründe zur Tugend nach dem Grundsatz der Selbstliebe (Berlin
+        <zitation><title>Prüfung der Bewegungsgründe zur Tugend nach dem Grundsatz der Selbstliebe</title> (Berlin
             <year>1770</year>).</zitation>
         <url address="http://www.nbn-resolving.de/urn:nbn:de:gbv:3:1-311058">Google Books</url>
     </werk>
 
     <werk id="moser-schriften">
         <akteur ref="moser-fc" />
-        <zitation>Friderich Carls von Moser gesammelte moralische und politische Schriften (2 Bde.,
+        <preferred>Gesammelte moralische und politische Schriften</preferred>
+        <zitation>Friderich Carls von Moser <title>gesammelte moralische und politische Schriften</title> (2 Bde.,
             Frankfurt: Gebhard <year>1763–1764</year>), Bd. 2.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10041386-3">BSB München</url>
     </werk>
 
     <werk id="browne-creation">
         <akteur ref="browne-m" />
-        <zitation>The Works and Rest of the Creation containing I. An essay on the universe.
+        <zitation><title>The Works and Rest of the Creation</title> containing I. An essay on the universe.
             Designed to promote a familiar, pleasing, and religious knowledge of the earth and
             heavenly bodies. In four books. II. Sunday thoughts. Adapted to the various parts of the
             christian sabbath; and its different duties, exercises, and employments. In three parts.
@@ -1324,33 +1321,34 @@
 
     <werk id="hamann-warner">
         <akteur ref="hamann" />
-        <zitation>Ferdinando Warner’s vollständige und deutliche Beschreibung der Gicht. Aus dem
-            Englischen übersetzt (<year>1770</year>).</zitation>
+        <zitation>Ferdinando Warner’s vollständige und deutliche <title>Beschreibung der Gicht</title>. Aus dem
+            Englischen übersetzt (o.O. <year>1770</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id4159960313">SLUB Dresden</url>
     </werk>
 
     <werk id="macpherson-barden">
         <akteur ref="macpherson" />
-        <zitation>Von den Barden nebst etlichen Bardenliedern aus dem Engl (<year>1770</year>).</zitation>
+        <zitation><title>Von den Barden</title> nebst etlichen Bardenliedern aus dem Englischen (Leipzig: Dyck <year>1770</year>).</zitation>
         <url address="https://books.google.de/books?id=kBN4wQEACAAJ">Google Books</url>
     </werk>
 
     <werk id="hamann-selbstgesprach-eines-autors">
         <akteur ref="hamann" />
-        <zitation>Selbstgespräch eines Autors. Mit 45 Scholien ([Mitau: Hinz] <year>1773</year>).</zitation>
+        <zitation><title>Selbstgespräch eines Autors</title>. Mit 45 Scholien (Mitau: Hinz <year>1773</year>).</zitation>
         <url address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-236006">UB Münster</url>
     </werk>
 
     <werk id="nicolai-magum">
         <akteur ref="nicolai" />
-        <zitation>An den Magum in Norden Haussäßig am alten Graben No. 758. Sonst auch zu erfragen
-            im Kanterschen Buchladen zu Königsberg, in Preußen (Berlin/Stettin <year>1767</year>).</zitation>
+        <zitation><title>An den Magum in Norden</title> Haussäßig am alten Graben No. 758. Sonst auch zu erfragen
+            im Kanterschen Buchladen zu Königsberg, in Preußen (Berlin, Stettin <year>1767</year>).</zitation>
         <url address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-240879">UB Münster</url>
     </werk>
 
     <werk id="borowski-kirchenregistratur">
-        <akteur ref="borowski" />
-        <zitation>M. Wilhelm Heinrich Beckher, Preußische Kirchenregistratur, oder: Kurzer Auszug
+        <akteur ref="beckher-wh"></akteur>
+        <akteur ref="borowski" kat="herausgeber" />
+        <zitation>M. Wilhelm Heinrich Beckher <title>Preußische Kirchenregistratur</title>, oder: Kurzer Auszug
             aus denen vornehmsten Königlichen Preußischen Edicten und Verordnungen […], hg. von
             Ludwig Ernst Borowski (Königsberg <year>1773</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3236764993">SLUB Dresden (2. Aufl. 1769)</url>
@@ -1358,8 +1356,8 @@
 
     <werk id="schloezer-universalhistorie">
         <akteur ref="schloezer" />
-        <zitation>August Ludwig Schlözers Vorstellung seiner
-            Universal-Historie (2 Bde., Göttingen, Gotha: Dieterich <year>1772</year>).</zitation>
+        <zitation>August Ludwig Schlözers <title>Vorstellung seiner
+            Universal-Historie</title> (2 Bde., Göttingen, Gotha: Dieterich <year>1772</year>).</zitation>
         <url
             address="https://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-761">Bd. 1 (LB Oldenburg)</url>
         <url
@@ -1368,25 +1366,25 @@
 
     <werk id="reiche-taufe">
         <akteur ref="reiche-cc" />
-        <zitation>Die Taufe der Christen, ein ehrwürdiger Gebrauch, und kein Gesetz Christi. Man
+        <zitation><title>Die Taufe der Christen</title>, ein ehrwürdiger Gebrauch, und kein Gesetz Christi. Man
             muss mich aber recht verstehen und das Ganze von Anfang bis zu Ende lesen (Berlin und
             Leipzig: Decker <year>1774</year>)</zitation>
         <url address="http://dx.doi.org/10.25673/66430">ULB Halle</url>
     </werk>
 
     <werk id="moralische-neujahrswuensche">
-        <zitation>Moralische Neujahrswuensche (o.O. o.J.).</zitation>
+        <zitation><title>Moralische Neujahrswuensche</title> (o.O. o.J.).</zitation>
     </werk>
 
     <werk id="voltaire-mann">
         <akteur ref="voltaire" />
-        <zitation>Der Mann von vierzig Thalern (o.O. <year>1768</year>).</zitation>
+        <zitation><title>Der Mann von vierzig Thalern</title> (o.O. <year>1768</year>).</zitation>
         <url address="https://books.google.de/books?id=WvKDS8FM3nsC" >Google Books</url>
     </werk>
 
     <werk id="winckler-nachrichten">
         <akteur ref="winckler-jd" />
-        <zitation>Nachrichten von Niedersächsischen berühmten Leuten und Familien, Bd. 1 (Hamburg: Wörmer <year>1768</year>).</zitation>
+        <zitation><title>Nachrichten von Niedersächsischen berühmten Leuten und Familien</title>, Bd. 1 (Hamburg: Wörmer <year>1768</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070599-5" >BSB München</url>
     </werk>
 
@@ -1411,26 +1409,26 @@
 
     <werk id="claudius-werke">
         <akteur ref="claudius" />
-        <zitation>Asmus omnia sua secum portans oder Sämmtliche Werke des Wandsbecker Bothen (8
-            Tle., Hamburg: Perthes <year>1774–1811</year>), Tl. 1 und 2.</zitation>
+        <zitation><title>Asmus omnia sua secum portans</title> oder Sämmtliche Werke des Wandsbecker Bothen (8
+            Bde., Hamburg: Perthes <year>1774–1811</year>), Bd. 1 und 2.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925925-7">BSB München</url>
     </werk>
 
     <werk id="galiani-getreidehandel">
         <akteur ref="galiani" />
-        <zitation>Dialogues sur le commerce des blés (London <year>1770</year>).</zitation>
+        <zitation><title>Dialogues sur le commerce des blés</title> (London <year>1770</year>).</zitation>
         <url address="https://gallica.bnf.fr/ark:/12148/btv1b8626898f">Bibliothèque nationale de France</url>
     </werk>
 
     <werk id="noesselt-religion">
         <akteur ref="noesselt" />
-        <zitation>Ueber die Erziehung zur Religion von Joh. Aug. Nösselt (Halle: Hemmerde <year>1775</year>).</zitation>
+        <zitation><title>Ueber die Erziehung zur Religion</title> von Joh. Aug. Nösselt (Halle: Hemmerde <year>1775</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/52682">ULB Halle</url>
     </werk>
 
     <werk id="klopstock-gelehrtenrepublik">
         <akteur ref="klopstock" />
-        <zitation>Die deutsche Gelehrtenrepublik. Ihre Einrichtung. Ihre Geseze. Geschichte des
+        <zitation><title>Die deutsche Gelehrtenrepublik</title>. Ihre Einrichtung. Ihre Geseze. Geschichte des
             letzten Landtags. Auf Befehl der Aldermänner durch Salogast und Wlemar. Hg. v.
             Klopstock. Erster Theil (Hamburg: Bode <year>1774</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:gbv:23-drucke/wa-16367">HAB Wolfenbüttel</url>
@@ -1438,13 +1436,13 @@
 
     <werk id="hamann-sibylle">
         <akteur ref="hamann" />
-        <zitation>Versuch einer Sibylle über die Ehe ([Riga: Hartknoch] <year>1775</year>).</zitation>
+        <zitation><title>Versuch einer Sibylle über die Ehe</title> (Riga: Hartknoch <year>1775</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040781-2">BSB München</url>
     </werk>
 
     <werk id="bertuch-donquixote">
         <akteur ref="bertuch" />
-        <zitation>Leben und Thaten des weisen Junkers Don Quixote von Mancha. Neue Ausgabe, aus der
+        <zitation>Leben und Thaten des weisen Junkers <title>Don Quixote von Mancha</title>. Neue Ausgabe, aus der
             Urschrifft des Cervantes, nebst der Fortsetzung des Avellaneda von Friedr. Just. Bertuch
             (6 Bde., Weimar und Leipzig, Fritsch <year>1775–1777</year>), Bd. 1 und 2 (<year>1775</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/81352"></url>
@@ -1452,30 +1450,31 @@
 
     <werk id="buffon-style">
         <akteur ref="buffon-g" />
-        <zitation>Discours prononcé dans l’académie francoise. Par M. de Buffon. Le samedi 25 Août
-            <year>1753</year>. In: Histoire naturelle, générale et particulière. Par M. de Buffon. Nouvelle
+        <zitation><title>Discours prononcé dans l’académie francoise</title>. Par M. de Buffon. Le samedi 25 Août
+            1753. In: Histoire naturelle, générale et particulière. Par M. de Buffon. Nouvelle
             Édition (13 Bde., Paris: l’imprimerie royale <year>1769–1770</year>), Tome 5, Anhang, xx–xxxix.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919777-2">BSB München</url>
     </werk>
 
     <werk id="hamann-zweifel">
         <akteur ref="hamann" />
-        <zitation>Zweifel und Einfälle über eine Vermischte Nachricht der allgemeinen deutschen
-            Bibliothek (Bd. XXIV. Stück I. S. 288-296). An Vetter Nabal ([Riga: Hartknoch] <year>1776</year>).</zitation>
+        <zitation><title>Zweifel und Einfälle</title> über eine Vermischte Nachricht der allgemeinen deutschen
+            Bibliothek (Bd. XXIV. St. 1, S. 288-296). An Vetter Nabal (Riga: Hartknoch <year>1776</year>).</zitation>
         <url address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-235970">UB Münster</url>
     </werk>
 
     <werk id="schellenberg-schweiz">
-        <zitation>Schweizer Ansichten von Herrn Schellenberg</zitation>
+    <akteur ref="schellenberg-jr" unsicher="true"></akteur>
+        <zitation><title>Schweizer Ansichten</title> von Herrn Schellenberg</zitation>
     </werk>
 
     <werk id="dodsley-lehrmeister">
         <akteur ref="dodsley-r" />
-        <zitation>Der Lehrmeister oder ein allgemeines System der
+        <zitation><title>Der Lehrmeister</title> oder ein allgemeines System der
             Erziehung worinn die ersten Grundsätze einer feinen Gelehrsamkeit so vorgetragen werden,
             daß
             man dadurch das Genie der Jugend am glücklichsten prüfen und ihren Unterricht befördern
-            kann. Aus dem Englischen Übersetzt (2 Bde., Leipzig: Heinsiuß <year>1762–1763</year>).</zitation>
+            kann. Aus dem Englischen Übersetzt (2 Bde., Leipzig: Heinsius <year>1762–1763</year>).</zitation>
         <url
             address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10759561-3">BSB München (2. Aufl. <year>1765</year>, Bd. 1)</url>
         <url
@@ -1484,26 +1483,26 @@
 
     <werk id="wieland-natur">
         <akteur ref="wieland" />
-        <zitation>Der Sieg der Natur über die Schwärmerey, oder die Abentheuer des Don Sylvio von
+        <zitation><title>Der Sieg der Natur über die Schwärmerey</title>, oder die Abentheuer des Don Sylvio von
             Rosalva worinn alles Wunderbare natürlich zugeht (2 Tle., Ulm: Bartholomäi).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123382-7">BSB München</url>
     </werk>
 
     <werk id="vernunft-lehrmeisterin">
-        <zitation>Vernunft, die Lehrmeisterin über alles, wenn man nur will; im Gegensatze des
+        <zitation><title>Vernunft, die Lehrmeisterin über alles, wenn man nur will</title>; im Gegensatze des
             Lasterhaften und Lächerlichen (o.O. <year>1764</year>, 2 Oktavbogen).</zitation>
     </werk>
 
     <werk id="gellius-frauenzimmerbriefe">
         <akteur ref="gellius" />
-        <zitation>Gesammelte Frauenzimmer-Briefe zum Unterrichte und Vergnügen. Aus verschiedenen
-            Sprachen (12 Bde., <year>1759–1764</year>), Bd. 11 (<year>1764</year>).</zitation>
+        <zitation><title>Gesammelte Frauenzimmer-Briefe</title> zum Unterrichte und Vergnügen. Aus verschiedenen
+            Sprachen (12 Bde., <year>1759–1764</year>), Bd. 11.</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id330413074-176401006">SLUB Dresden</url>
     </werk>
 
     <werk id="remond-reflexions-poesie">
         <akteur ref="remond-t" />
-        <zitation>Reflexions sur la poesie en general, sur l’eglogue, sur la fable, sur l’elegie,
+        <zitation><title>Reflexions sur la poesie en general</title>, sur l’eglogue, sur la fable, sur l’elegie,
             sur la satire, sur l’ode, et sur les autres petits poemes, suivies de trois lettres sur
             la decadence du gout, par Remond de Saint-Mard (den Haag: Rogissart <year>1734</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574580-5">BSB München</url>
@@ -1511,19 +1510,19 @@
 
     <werk id="troeltsch-frauenzimmerschule">
         <akteur ref="troeltsch-kf" />
-        <zitation>Die Frauenzimmerschule, oder sittliche Grundsätze zum Unterricht des schönen
+        <zitation><title>Die Frauenzimmerschule</title>, oder sittliche Grundsätze zum Unterricht des schönen
             Geschlechts, wie sich selbiges bey allen Vorfallenheiten in der Welt auf eine bescheidne
             Art zu betragen habe (Frankfurt und Leipzig: Göbhardt <year>1766</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN865636354">SUB Göttingen</url>
     </werk>
 
     <werk id="sammlung-moralischerbriefe">
-        <zitation>Sammlung moralischer Briefe, entworfen von J. F. M (Quedlinburg <year>1764</year>).</zitation>
+        <zitation><title>Sammlung moralischer Briefe</title>, entworfen von J. F. M (Quedlinburg <year>1764</year>).</zitation>
     </werk>
 
     <werk id="macpherson-fingal">
         <akteur ref="macpherson" />
-        <zitation>Fingal, ein Helden-Gedicht, in sechs Büchern, von Ossian, einem alten schottischen
+        <zitation><title>Fingal</title>, ein Helden-Gedicht, in sechs Büchern, von Ossian, einem alten schottischen
             Baden. Nebst verschiedenen andern Gedichten von eben demselben (Hamburg, Leipzig: Grunds
             Witwe und Holle <year>1764</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN862386837">SUB Göttingen</url>
@@ -1531,7 +1530,7 @@
 
     <werk id="thomas-sully">
         <akteur ref="thomas-al" />
-        <zitation>Herrn Thomas Lobrede auf Maximilian von Bethune, Herzogen von Sully, welche den
+        <zitation>Herrn Thomas <title>Lobrede auf Maximilian von Bethune</title>, Herzogen von Sully, welche den
             Preiß der französischen Akademie in diesem Jahre davon getragen. Aus dem Französischen
             übersetzt (Frankfurt und Leipzig <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10061721-5">BSB München</url>
@@ -1539,38 +1538,38 @@
 
     <werk id="belidor-lexicon">
         <akteur ref="belidor-bf" />
-        <zitation>Des Herrn von Belidor kurzgefaßtes Kriegs-Lexicon von den vornehmsten und
-            gebräuchlichsten Kunstwörtern […] (Nürnberg: Raspe <year>1765</year>).</zitation>
+        <zitation>Des Herrn von Belidor kurzgefaßtes <title>Kriegs-Lexicon</title> von den vornehmsten und
+            gebräuchlichsten Kunstwörtern, so in der Kriegskunst, Fortification und Artillerie vorkommen […] (Nürnberg: Raspe <year>1765</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10785238-6">BSB München</url>
     </werk>
 
     <werk id="boysen-grundriss">
         <akteur ref="boysen-fe" />
-        <zitation>Grundriß des Lebens und der Thaten Jesu des Heilandes der Welt, von Friedrich
+        <zitation><title>Grundriß des Lebens und der Thaten Jesu</title> des Heilandes der Welt, von Friedrich
             Eberhard Boysen, Consist. Oberhofprediger und des Gymnasii zu Quedlinburg Inspektor
             (Quedlinburg, Leipzig: Biesterfeld <year>1765</year>).</zitation>
     </werk>
 
     <werk id="glaser-feuersbrunst">
         <akteur ref="glaser-jf" />
-        <zitation>Nützliche und durch die Erfahrung bewährte Vorschläge, bey heftigen und
-            geschwinden Feuersbrünsten Häuser und Mobilien sicher zu retten […] Von D. Johann
+        <zitation>Nützliche und durch die Erfahrung bewährte <title>Vorschläge, bey heftigen und
+            geschwinden Feuersbrünsten Häuser und Mobilien sicher zu retten</title> […] Von D. Johann
             Friedrich Glaser (3. Aufl., Hildburghausen: Hanisch <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10766537-1">BSB München</url>
     </werk>
 
     <werk id="moralische-ausarbeitungen">
-        <zitation>Moralische Ausarbeitungen, nebst einigen Gedichten (Frankfurt <year>1764</year>).</zitation>
+        <zitation><title>Moralische Ausarbeitungen</title>, nebst einigen Gedichten (Frankfurt <year>1764</year>).</zitation>
     </werk>
 
     <werk id="mittel-froehlichkeit">
-        <zitation>Von den Mitteln zur Fröhlichkeit nach den Gründen der Arzneygelahrtheit. Nach
+        <zitation><title>Von den Mitteln zur Fröhlichkeit</title> nach den Gründen der Arzneygelahrtheit. Nach
             einer lateinischen Abhandlung des Herrn Hofraths und Professors Delius übersetzt und
             vermehrt (Nürnberg <year>1764</year>).</zitation>
     </werk>
 
     <werk id="london-magazine1758">
-        <zitation>The London Magazine: Or Gentleman’s Monthly Intelligencer (<year>1732–1785</year>), Jg. <year>1758</year>,
+        <zitation><title>The London Magazine</title>: Or Gentleman’s Monthly Intelligencer (<year>1732–1785</year>), Jg. <year>1758</year>,
             S. 448</zitation>
         <url
             address="https://hdl.handle.net/2027/mdp.39015021267516?urlappend=%3Bseq=488%3Bownerid=13510798882336539-522"></url>
@@ -1578,7 +1577,7 @@
 
     <werk id="voitus-suendfluth">
         <akteur ref="voitus-sc" />
-        <zitation>Kirchengeschichte der Zeit vor der Sündfluth, oder ausführliche Erzählung und
+        <zitation><title>Kirchengeschichte der Zeit vor der Sündfluth</title>, oder ausführliche Erzählung und
             Untersuchung des Zustandes der Kirche Gottes […] entworfen von Samuel Christian Voitus
             (Brandenburg und Leipzig: Halle <year>1764</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001FD3500000000">Stabi Berlin</url>
@@ -1586,22 +1585,23 @@
 
     <werk id="heumann-erweiss">
         <akteur ref="heumann-ch" />
-        <zitation>D. C. A. Heumanns Erweiß, daß die Lehre der Reformirten Kirche von dem Heil.
-            Abendmahle die rechte und wahre sey (Eisleben und Wittenberg <year>1764</year>).</zitation>
+        <zitation>D. C. A. Heumanns <title>Erweiß, daß die Lehre der Reformirten Kirche von dem Heil.
+            Abendmahle die rechte und wahre sey</title> (Eisleben und Wittenberg <year>1764</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001552A00000000">Stabi Berlin</url>
     </werk>
 
     <werk id="rousseau-auserlesenegedanken">
         <akteur ref="rousseau" />
-        <zitation>Des Hrn. Johann Jacob Roußeau, auserlesene Gedanken über verschiedene Gegenstände
-            aus der Moral, der Politik, und den schönen Wissenschaften. Aus dem Französischen
+        <preferred>Auserlesene Gedanken</preferred>
+        <zitation>Des Hrn. Johann Jacob Roußeau <title>auserlesene Gedanken über verschiedene Gegenstände
+            aus der Moral, der Politik, und den schönen Wissenschaften</title>. Aus dem Französischen
             übersetzt (Danzig, Leipzig: Wedel <year>1764</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3375273265">SLUB Dresden</url>
     </werk>
 
     <werk id="lediard-kundschafter">
         <akteur ref="lediard-t" />
-        <zitation>Der deutsche Kundschafter in Briefen eines durch Westphalen und Niedersachsen
+        <zitation><title>Der deutsche Kundschafter</title> in Briefen eines durch Westphalen und Niedersachsen
             reisenden Engländers aus der zweyten Londner Ausgabe von 1740 übersetzt von U. dem
             Verfasser des Kameralisten (Lemgo: Meyer <year>1764</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN723786518">SUB Göttingen</url>
@@ -1609,27 +1609,26 @@
 
     <werk id="schmitzer-pflicht">
         <akteur ref="schmitzer-jd" />
-        <zitation>Die Pflicht kurz zu predigen untersuchet von Johann Ditmar Schmitzer, Insp. und
-            Past. zu Wilsnak (Brandenburg, Leipzig: Halle <year>1764</year>).</zitation>
+        <zitation><title>Die Pflicht kurz zu predigen</title> untersuchet von Johann Ditmar Schmitzer (Brandenburg, Leipzig: Halle <year>1764</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/65404">ULB Halle</url>
     </werk>
 
     <werk id="genie-langue">
-        <zitation>Le génie de la langue extrait du dictionnaire de l’académie françoise (2 Bde.,
+        <zitation><title>Le génie de la langue</title> extrait du dictionnaire de l’académie françoise (2 Bde.,
             Amsterdam: Dépens De La Compagnie <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10587143-9">BSB München</url>
     </werk>
 
     <werk id="heins-krank">
         <akteur ref="heins-a" />
-        <zitation>Betrachtungen über die Nothwendigkeit sich in gesunden und kranken Tagen nach der
+        <zitation><title>Betrachtungen</title> über die Nothwendigkeit sich in gesunden und kranken Tagen nach der
             Vorschrift der Natur zu richten […] (Hamburg: Fritsch <year>1764</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bvb:29-bv009192313-5">FAU Erlangen-Nürnberg</url>
     </werk>
 
     <werk id="evangelischerchrist-einsamkeit">
         <akteur ref="crugot-m" unsicher="true" />
-        <zitation>Der wahre evangelische Christ in der Einsamkeit unter dem Kreuze JEsu, wie er
+        <zitation><title>Der wahre evangelische Christ in der Einsamkeit</title> unter dem Kreuze JEsu, wie er
             sich, in der Gemeinschaft des HErrn JEsu, ohne Aufhören mit dem Lobe, Preise und
             Anbetung GOttes beschäftigt. Nebst besondern Morgen- und Abendgedanken (2. Aufl., Sorau
             <year>1764</year>).</zitation>
@@ -1637,13 +1636,13 @@
 
     <werk id="crugot-abendgedanken">
         <akteur ref="crugot-m" />
-        <zitation>Abendgedanken auf alle sieben Tage der Wochen von dem Verfasser des Christen in
+        <zitation><title>Abendgedanken</title> auf alle sieben Tage der Wochen von dem Verfasser des Christen in
             der Einsamkeit, nebst dessen Morgen- und Abendlied (4. Aufl., Sorau <year>1763</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bvb:29-bv009027624-9">Aufl. 1776 Frankfurt, Leipzig: FAU Erlangen-Nürnberg</url>
     </werk>
 
     <werk id="kriegsgeschichte-tabellen">
-        <zitation>Summarischer Auszug der neueren Kriegsgeschichte von 1756 bis 1763. oder
+        <zitation><title>Summarischer Auszug der neueren Kriegsgeschichte von 1756 bis 1763</title>. oder
             Chronologische Tabellen darinnen die wichtigsten Kriegsbegebenheiten die zu gleicher
             Zeit, zwischen denen im Krieg verwickelt gewesenen Hohen Machten, der Zeit-Ordnung nach,
             bis zu denen erfolgten Friedensschlüssen und deren Vollziehung, kürzlich und
@@ -1653,14 +1652,14 @@
 
     <werk id="ortmann-naturgeschichte">
         <akteur ref="ortmann-ad" />
-        <zitation>Adolph Dietrich Ortmanns Betrachtungen über wichtige Begebenheiten der
-            Naturgeschichte des <year>1763</year>sten Jahres (Züllichau: Waysenhaus- und Frommann <year>1764</year>).</zitation>
+        <zitation>Adolph Dietrich Ortmanns <title>Betrachtungen über wichtige Begebenheiten der
+            Naturgeschichte</title> des 1763sten Jahres (Züllichau: Waisenhaus, Frommann <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10076246-7">BSB München</url>
     </werk>
 
     <werk id="ortmann-sendschreiben">
         <akteur ref="ortmann-ad" />
-        <zitation>Adolph Dieterich Ortmanns Sendschreiben an den Herrn Verfasser der Reliquien
+        <zitation>Adolph Dieterich Ortmanns <title>Sendschreiben an den Herrn Verfasser der Reliquien</title>
             (Züllichau: Waisenhaus, Frommann <year>1766</year>).</zitation>
         <url address="https://books.google.de/books?id=tIG3yHaFWYkC">Google Books</url>
     </werk>
@@ -1669,71 +1668,72 @@
         <akteur ref="sneedorf-js" />
         <zitation>Herrn J. S. Sneedorfs, öffentlichen Lehrers des Staatsrechts auf der
             Ritterakademie zu Soroe, und Informators bey Sr. Königl. Hoheit, Prinz Friederich,
-            Briefe über verschiedene Gegenstände. Aus dem Dänischen übersetzt (Kopenhagen <year>1764</year>).</zitation>
+            <title>Briefe über verschiedene Gegenstände</title>. Aus dem Dänischen übersetzt (Kopenhagen <year>1764</year>).</zitation>
     </werk>
 
     <werk id="schwabe-briefsteller">
         <akteur ref="schwabe-jj" />
-        <zitation>Anleitung zum kaufmännischen Briefwechsel, zum Besten junger Handlungsbediente
+        <zitation><title>Anleitung zum kaufmännischen Briefwechsel</title>, zum Besten junger Handlungsbediente
             aufgesetzt von Johann Joachim Schwaben (Hamburg <year>1764</year>).</zitation>
-        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000835500000000">Leipzig und Breslau 1767, Stabi Berlin</url>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000835500000000">Ausgabe Leipzig und Breslau 1767, Stabi Berlin</url>
     </werk>
 
     <werk id="mink-student">
         <akteur ref="mink-he" />
-        <zitation>Der Tugend- und Lasterhafte Studente poetisch und moralisch entworfen: Das
+        <zitation><title>Der Tugend- und Lasterhafte Studente</title> poetisch und moralisch entworfen: Das
             Studentenleben in 30. Kupfern vorgestellet (Frankfurt, Leipzig <year>1764</year>).</zitation>
         <url address="https://doi.org/10.11588/diglit.31442#0005">UB Heidelberg</url>
     </werk>
 
     <werk id="barbe-fables">
         <akteur ref="barbe-p" />
-        <zitation>Fables Nouvelles, Divisée en six Livres (Paris <year>1762</year>).</zitation>
+        <zitation><title>Fables Nouvelles</title>, Divisée en six Livres (Paris <year>1762</year>).</zitation>
         <url address="https://books.google.de/books?id=hptu29nXx58C">Google Books</url>
     </werk>
 
     <werk id="blanke-fabeln">
         <akteur ref="blanke-pk" />
-        <zitation>Fabeln und Erzählungen, von P. C. Blanke (Hannover <year>1764</year>).</zitation>
+        <zitation><title>Fabeln und Erzählungen</title>, von P. C. Blanke (Hannover <year>1764</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000520100000000">Stabi Berlin</url>
     </werk>
 
     <werk id="scherz-gedichte-auchernsthaft">
-        <zitation>Kurze scherz- und ernsthafte Gedichte nebst einigen Uebersetz- und Erzählungen,
+        <zitation><title>Kurze scherz- und ernsthafte Gedichte</title> nebst einigen Uebersetz- und Erzählungen,
             denen noch eine Ode zur Widerlegung der Meynung: daß GOtt nicht ewig strafe, und also
-            die Verdammniß ein Ende hätte, beygefüget, verfertiget von H. H. F. (Frankfurt und
+            die Verdammniß ein Ende hätte, beygefüget, verfertiget von H. H. F. (Frankfurt,
             Leipzig <year>1764</year>).</zitation>
     </werk>
 
     <werk id="löwen-zinzendorfianer">
         <akteur ref="loewen-jc" />
-        <zitation>Der Zinzendorfianer als ein Verräther der Orthodoxie aus seinen eigenthümlichen
+        <zitation><title>Der Zinzendorfianer als ein Verräther der Orthodoxie</title> aus seinen eigenthümlichen
             Lehrbüchern abgebildet von J. C. Löwen (Erfurt).</zitation>
     </werk>
 
     <werk id="murder-gentlemen">
-        <zitation>Remarkable Discovery of a private murder, in: The Gentlemen’s Magazine (London,
+        <zitation><title>Remarkable Discovery of a private murder</title>, in: The Gentlemen’s Magazine (London,
             November <year>1763</year>)</zitation>
         <url
             address="https://hdl.handle.net/2027/mdp.39015006993631?urlappend=%3Bseq=596%3Bownerid=13510798882323446-596">Hathi Trust</url>
     </werk>
 
     <werk id="sonne-gerechtigkeit">
-        <zitation>Die strahlende Sonne der Gerechtigkeit in den durch sie gerecht erfundenen
+        <zitation><title>Die strahlende Sonne der Gerechtigkeit</title> in den durch sie gerecht erfundenen
             Menschen, betrachtet von der Verfasserinn der suchenden und findenden Gnade, in 56
-            Ermunterungen (Frankfurt und Leipzig <year>1764</year>).</zitation>
+            Ermunterungen (Frankfurt, Leipzig <year>1764</year>).</zitation>
     </werk>
 
     <werk id="patzke-greis">
         <akteur ref="patzke-js" />
-        <zitation>Der Greis, hg. v. Johann Samuel Patzke (16 Teile, Magdeburg <year>1763–1766</year>).</zitation>
+        <zitation><title>Der Greis</title>, hg. v. Johann Samuel Patzke (16 Teile, Magdeburg <year>1763–1766</year>).</zitation>
         <url address="http://www.ub.uni-koeln.de/permalink/2011/01/katkey:6555305">Teil 5 und 6 (USB Köln)</url>
     </werk>
 
     <werk id="gottsched-nachricht">
-        <zitation>Ausführliche und wahrhaftige Nachricht von demjenigen Versuche, der in dem
+    <preferred>Über den Versuch aus Hafer Korn und Weizen hervorzubringen</preferred>
+        <zitation><title>Ausführliche und wahrhaftige Nachricht von demjenigen Versuche, der in dem
             Richterischen Garten zu Leipzig gemacht worden ist, aus Hafer Korn und Weizen
-            hervorzubringen, um dem glücklichen Erfolge desselben, in: Das Neueste aus der
+            hervorzubringen, um dem glücklichen Erfolge desselben</title>, in: Das Neueste aus der
             anmuthigen Gelehrsamkeit, hg. von Johann Christoph Gottsched, Aerntemond <year>1758</year> (12 Bde.,
             Leipzig: Breitkopf <year>1752</year>–62), Bd. 8 (<year>1758</year>), S. 610–616.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10540077-7">BSB München</url>
@@ -1741,68 +1741,65 @@
 
     <werk id="brouzet-erziehung">
         <akteur ref="brouzet-p" />
-        <zitation>Abhandlung von der medicinischen Erziehung der Kinder und den Krankheiten
-            derselben. Aus dem Französischen des Herrn Brouzet übersetzt von J. S. F. Bisten (2
+        <akteur ref="biesten-jsf"></akteur>
+        <zitation><title>Abhandlung von der medicinischen Erziehung der Kinder und den Krankheiten
+            derselben</title>. Aus dem Französischen des Herrn Brouzet übersetzt von J. S. F. Bisten (2
             Bde., Altenburg <year>1764</year>).</zitation>
         <url address="https://books.google.de/books?id=KjsYdlJG-MMC">Google Books, Bd. 1</url>
         <url address="https://books.google.de/books?id=KjsYdlJG-MMC">Google Books, Bd. 2</url>
     </werk>
 
-    <werk id="aulnoy-bussfertig">
+    <werk id="aulnoy-sentimens">
         <akteur ref="aulnoy-mc" />
         <akteur ref="bruechting-cf" />
         <akteur ref="gottsched" />
-        <zitation>Sentimens d'une ame penitente, ou Paraphrase en vers du Pseaume LI. dit le
-            miserere par S.A.R.M.E.T.P.A. [Marie Catherine LeJumel de Barneville d’Aulnoy].
+        <zitation><title>Sentimens d’une ame penitente</title>, ou Paraphrase en vers du Pseaume LI. dit le
+            miserere par S.A.R.M.E.T.P.A. [Marie Catherine LeJumel de Barneville d’Aulnoy]. –
             Gesinnungen einer bußfertigen Seele, oder poetische Umschreibung des 51sten Psalms
-            Davids</zitation>
+            Davids (Leipzig: Breitkopf 1764).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10056505-6">BSB München</url>
     </werk>
 
     <werk id="brooke-mandeville">
         <akteur ref="brooke-f" />
-        <zitation>Die Geschichte der Lady Julie Mandeville, von dem Übersetzer der Briefe der
+        <zitation><title>Die Geschichte der Lady Julie Mandeville</title>, von dem Übersetzer der Briefe der
             Catesby, aus dem Engländischen (Leipzig <year>1764</year>).</zitation>
     </werk>
 
     <werk id="schreber-schriften">
         <akteur ref="schreber-dg" />
-        <zitation>Daniel Gottfried Schrebers Zwo Schriften von der Geschichte und Nothwendigkeit der
-            Cameralwissenschaften in so ferne sie als Universitätswissenschaften anzusehen sind
+        <zitation>Daniel Gottfried Schrebers <title>Zwo Schriften von der Geschichte und Nothwendigkeit der
+            Cameralwissenschaften</title> in so ferne sie als Universitätswissenschaften anzusehen sind
             (Leipzig: Dyck <year>1764</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3395926054">SLUB Dresden</url>
     </werk>
 
     <werk id="jussy-lettres">
         <akteur ref="jussy" />
-        <zitation>Lettres de Mademoiselle de Jussy à Mademoiselle de *** (Amsterdam <year>1762</year>).</zitation>
+        <zitation><title>Lettres de Mademoiselle de Jussy à Mademoiselle de ***</title> (Amsterdam <year>1762</year>).</zitation>
     </werk>
 
     <werk id="schoenfeldt-anweisung">
         <akteur ref="schoenfeldt-dn" />
-        <zitation>Anweisung zur Erkänntniß sein selbst, nach der natürlichen Beschaffenheit seiner
+        <zitation><title>Anweisung zur Erkänntniß sein selbst</title>, nach der natürlichen Beschaffenheit seiner
             Seele, von D. N. Schönfeldt, Pastor zu Bergen (Bützow, Wismar: Berger, Boedner <year>1764</year>).</zitation>
     </werk>
 
     <werk id="joachim-wahlrecht">
         <akteur ref="joachim-jf" />
-        <zitation>D. J. F. Joachim's Historische Abhandlung von dem Ursprunge des Wahlrechts im
+        <zitation>D. J. F. Joachim’s <title>Historische Abhandlung von dem Ursprunge des Wahlrechts</title> im
             Königreiche Polen, und dessen bisherigen Gebrauch (Halle: Curt <year>1764</year>).</zitation>
         <url
             address="https://books.google.de/books/about/D_J_F_Joachim_s_Historische_Abhandlung_v.html?id=tdRlAAAAcAAJ">Google Books</url>
     </werk>
 
-    <werk id="english-magazine">
-        <zitation>English Magazine (laut Angabe, nicht verifiziert).</zitation>
-    </werk>
-
     <werk id="beweis-menschensohn">
-        <zitation>Beweis, daß des Menschensohn J. C. zu dreyen unterschiednen malen gen Himmel
-            gefahren sey (o.O. <year>1766</year>).</zitation>
+        <zitation><title>Beweis, daß des Menschensohn J. C. zu dreyen unterschiednen malen gen Himmel
+            gefahren sey</title> (o.O. <year>1766</year>).</zitation>
     </werk>
 
     <werk id="glueckselige-wochenschrift">
-        <zitation>Der Glückselige, eine moralische Wochenschrift (12 Bde., Halle: Gebauer
+        <zitation><title>Der Glückselige</title>, eine moralische Wochenschrift (12 Bde., Halle: Gebauer
             <year>1763–1768</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10612563-6">Bd. 3 (BSB München)</url>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10612568-3">Bd. 8 (BSB München)</url>
@@ -1810,7 +1807,7 @@
 
     <werk id="muessiggänger-1764">
         <akteur ref="johnson-s" />
-        <zitation>Der Müßiggänger, eine Sittenschrift, der Vernunft und Tugend gewiedmet. Aus dem
+        <zitation><title>Der Müßiggänger</title>, eine Sittenschrift, der Vernunft und Tugend gewiedmet. Aus dem
             Englischen übersetzt (2 Bde., Zittau, Leipzig: Schöpfens Wiwwe <year>1764</year>).
         </zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10612950-2">BSB München</url>
@@ -1818,39 +1815,40 @@
 
     <werk id="fanny-histoire">
         <akteur ref="arnaud-ft" />
-        <zitation>Fanni, ou l’Heureux Repentir, Histoire Angloise (Dresden <year>1765</year>).</zitation>
+        <zitation><title>Fanni</title>, ou l’Heureux Repentir, Histoire Angloise (Dresden <year>1765</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3539906716">SLUB Dresden</url>
     </werk>
 
     <werk id="klugheit-alber">
         <akteur ref="alber-jc" />
-        <zitation>Johann Christoph Alber von der Klugheit des Bürgers (Leipzig, Helmstedt: Weygand
+        <preferred>Von der Klugheit des Bürgers</preferred>
+        <zitation>Johann Christoph Alber <title>von der Klugheit des Bürgers</title> (Leipzig, Helmstedt: Weygand
             <year>1766</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN81843676X">SUB Göttingen</url>
     </werk>
 
     <werk id="abildgaard-abhandlung">
         <akteur ref="abildgaard-s" />
-        <zitation>Sören Abildgaars Abhandlung vom Torf. Aus dem Dänischen übersetzt (Kopenhagen:
+        <zitation>Sören Abildgaars <title>Abhandlung vom Torf</title>. Aus dem Dänischen übersetzt (Kopenhagen:
             Mummens Witwe <year>1765</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10293534-0">BSB München</url>
     </werk>
 
     <werk id="briefe-ueber-den-character">
         <akteur ref="merkel-g" />
-        <zitation>Briefe über den Character und die Pflicht eines evangelischen Predigers. 1. Teil
+        <zitation><title>Briefe über den Character und die Pflicht eines evangelischen Predigers</title>. 1. Teil
             (Berlin: Voß <year>1766</year>).</zitation>
     </werk>
 
     <werk id="geschichte-phoebe-osmond">
         <akteur ref="smythies-s" />
-        <zitation>Geschichte der Fraulein Phöbe Osmond von der Verfasserin der Lucie Wellers aus dem
-            Englischen übersetzt.(Leipzig: Crusius <year>1766</year>).</zitation>
+        <zitation><title>Geschichte der Fraulein Phöbe Osmond</title> von der Verfasserin der Lucie Wellers aus dem
+            Englischen übersetzt (Leipzig: Crusius <year>1766</year>).</zitation>
         <url address="https://purl.uni-rostock.de/rosdok/ppn816571856">UB Rostock</url>
     </werk>
 
     <werk id="schauplatz-der-welt">
-        <zitation>Schauplatz der Welt, oder merkwürdige Sammlung von See- und Landreisen, aus den
+        <zitation><title>Schauplatz der Welt, oder merkwürdige Sammlung von See- und Landreisen</title>, aus den
             Schriftstellern aller Nationen gewählet: Nebst einer Menge von Charten und Kupfern von
             Meisterhänden. Aus dem Englischen. Ersten Bandes Erster Theil (Stuttgart: Cotta <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11409477-1">Stabi Bamberg</url>
@@ -1858,40 +1856,41 @@
 
     <werk id="schreber-schauplatz-der-kuenste">
         <akteur ref="schreber-dg"></akteur>
-        <zitation>Schauplatz der Künste und Handwerke oder vollständige Beschreibung derselben, verfertiget oder gebilliget von denen Herren der Akademie der Wissenschaften zu Paris (21 Bde., verschiedene Orte <year>1762–1805</year>).</zitation>
+        <zitation><title>Schauplatz der Künste und Handwerke</title> oder vollständige Beschreibung derselben, verfertiget oder gebilliget von denen Herren der Akademie der Wissenschaften zu Paris (21 Bde., verschiedene Orte <year>1762–1805</year>).</zitation>
         <url address="https://de.wikisource.org/wiki/Schauplatz_der_K%C3%BCnste_und_Handwerke">Bibliographie der Einzelbände mit Verlinkung zu Digitalisaten bei Wikisource</url>
     </werk>
 
     <werk id="neues-handbuch-kuenstler">
-        <zitation>Neues Handbuch vor Künstler auf alle fast nur erdenkliche Fälle eingerichtet. Aus
-            dem Französischen übersetzt. (Bamberg und Leipzig: Göbhardt <year>1765</year>).</zitation>
+        <zitation><title>Neues Handbuch vor Künstler</title> auf alle fast nur erdenkliche Fälle eingerichtet. Aus
+            dem Französischen übersetzt. (Bamberg, Leipzig: Gebhardt <year>1765</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10259093-5">BSB München</url>
     </werk>
 
     <werk id="gruner-anweisung">
         <akteur ref="gruner-jf" />
-        <zitation>Johann Friedrich Gruners Anweisung zur geistlichen Beredsamkeit (Halle: Franke
+        <zitation>Johann Friedrich Gruners <title>Anweisung zur geistlichen Beredsamkeit</title> (Halle: Franke
             <year>1766</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/44410">ULB Halle</url>
     </werk>
 
     <werk id="dommerich-mnemonik-und-heuristik">
         <akteur ref="dommerich-jc" />
-        <zitation>Die Mnemonik und Heuristik, nach ihren ersten Zügen, entworfen von
+        <zitation>Die <title>Mnemonik und Heuristik</title>, nach ihren ersten Zügen, entworfen von
             Johann Christoph Dommerich (Halle und Helmstedt: <year>1765</year>).</zitation>
         <url address="https://books.google.de/books?id=VUlkFJNdqbwC">Google Books</url>
     </werk>
 
     <werk id="steffens-unerwartete-im-heyrathen">
         <akteur ref="steffens-jh"></akteur>
-        <zitation>Das Unerwartete im Heyrathen, oder, die Frau mit zwoen Männern zugleich, ein
+        <zitation><title>Das Unerwartete im Heyrathen</title>, oder, die Frau mit zwoen Männern zugleich, ein
             Lustspiel, von Johann Heinrich Steffens, Rektor der Zellischen Schule (Zelle <year>1765</year>).</zitation>
     </werk>
 
     <werk id="hennings-abhandlung">
         <akteur ref="hennings-jc" />
-        <zitation>J. C. Hennings moralisch und politische Abhandlung von dem Wege zur Weisheit und
-            Klugheit (Jena <year>1766</year>).</zitation>
+        <preferred>Moralische und politische Abhandlung von dem Wege zur Weisheit und Klugheit</preferred>
+        <zitation>J. C. Hennings <title>moralisch und politische Abhandlung von dem Wege zur Weisheit und
+            Klugheit</title> (Jena <year>1766</year>).</zitation>
     </werk>
 
     <werk id="dusch-briefe">
