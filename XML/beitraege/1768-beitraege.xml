@@ -119,10 +119,6 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1768" nr="7" von="23" />
-        <kategorie ref="lokalanzeigen"></kategorie>
-    </beitrag>
-    <beitrag>
         <stueck datum="1768" nr="7" von="29" bis="30" />
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
@@ -315,13 +311,13 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1768" nr="17" von="63" bis="64"/>
+        <stueck datum="1768" nr="17" von="67" bis="68"/>
         <werk kat="rezension" ref="trescho-ermunterungen"></werk>
         <ort ref="danzig"></ort>
         <akteur ref="kanter">Warda/Diesch II,334</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1768" nr="17" von="63" bis="64"/>
+        <stueck datum="1768" nr="17" von="68" bis="69"/>
         <werk kat="rezension" ref="geissler-kurzer-unterricht"></werk>
         <ort ref="leipzig"></ort>
         <ort ref="leipzig"></ort>
@@ -914,12 +910,12 @@
         <werk ref="moser-patriotische-briefe" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1768" nr="45" von="179" bis="180" />
+        <stueck datum="1768" nr="45" von="180" />
         <werk ref="hess-tod-moses" kat="rezension" />
         <ort ref="zuerich"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1768" nr="45" von="179" bis="180" />
+        <stueck datum="1768" nr="45" von="180" />
         <werk ref="cotes-memoires-pitt" kat="rezension" />
         <ort ref="amsterdam"></ort>
     </beitrag>
@@ -1172,28 +1168,6 @@
     <beitrag>
         <stueck datum="1768" nr="55" von="222" />
         <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck datum="1768" nr="56" von="223" bis="224" />
-        <werk kat="rezension" ref="hiller-dariolette"></werk>
-        <ort ref="leipzig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck datum="1768" nr="56" von="224" />
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck datum="1768" nr="56" von="224" bis="226" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck datum="1768" nr="56" von="226" />
-        <kategorie ref="vorladung"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck datum="1768" nr="56" von="226" />
-        <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
     <beitrag>
@@ -1489,7 +1463,7 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck datum="1768" nr="70" von="280" bis="282" />
+        <stueck datum="1768" nr="70" von="282" />
         <kategorie ref="lokalnachrichten"></kategorie>
         <akteur ref="wegner-s" kat="nachruf" />
     </beitrag>
@@ -1675,7 +1649,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck datum="1768" nr="80" von="319" bis="320" />
+        <stueck datum="1768" nr="80" von="320" />
         <werk kat="rezension" ref="redekunst-frauenzimmer"></werk>
         <ort ref="regensburg"></ort>
     </beitrag>
@@ -1792,7 +1766,8 @@
         <stueck datum="1768" nr="84" von="331" />
         <werk kat="rezension" ref="spalding-neuepredigten"></werk>
         <ort ref="berlin"></ort>
-    </beitrag><beitrag>
+    </beitrag>
+    <beitrag>
         <stueck datum="1768" nr="84" von="331" bis="332" />
         <werk kat="rezension" ref="moeller-ursprung"></werk>
     </beitrag>
@@ -1843,7 +1818,7 @@
         <beilage datum="1768" nr="87" von="1" bis="2" />
         <kategorie ref="aufsatz"></kategorie>
         <akteur ref="seegut-stanislawski-as" kat="nachruf"></akteur>
-        <anmerkung>Schilderung des Begräbnisses Albrecht Siegmund von Seegut-Stanislawskis</anmerkung>
+        <anmerkung>Schilderung des Begräbnisses Albrecht Siegmund von Seegut-Stanislawskis.</anmerkung>
     </beitrag>
     <beitrag>
         <beilage datum="1768" nr="87" von="2" />
@@ -1907,7 +1882,7 @@
     </beitrag>
     <beitrag>
         <stueck datum="1768" nr="87" von="344" />
-        <werk kat="rezension" ref="reich-beschaeftigungen-herz" s=" Abteilung 1 (S. 1–126)"></werk>
+        <werk kat="rezension" ref="reich-beschaeftigungen-herz" s="Abteilung 1 (S. 1–126)"></werk>
         <ort ref="braunschweig"></ort>
     </beitrag>
     <beitrag>
@@ -2033,7 +2008,7 @@
     </beitrag>
 
     <beitrag>
-        <beilage datum="1768" nr="91" />
+        <beilage datum="1768" nr="90" />
         <beilage datum="1768" nr="91" von="1" />
         <kategorie ref="brief"></kategorie>
         <titel>Auszug aus einem Briefe eines an den Gränzen von Pohlen wohnenden Schlesiers an seinen Freund in Berlin, vom 30 Oct.</titel>
@@ -2400,10 +2375,5 @@
         <stueck datum="1768" nr="105" von="420" />
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
-
-
-
-
-
 
 </beitraege>
