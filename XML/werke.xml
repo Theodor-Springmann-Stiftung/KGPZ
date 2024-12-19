@@ -4784,9 +4784,9 @@
     </werk>
 
     <werk id="patzke-tacitus3-4">
-        <akteur ref="patzke-js" />
-        <akteur ref="goldhagen-je"></akteur>
-        <zitation>C. Cornelius Tacitus Werke aus dem Lateinischen übersetzt und mit den nöthigsten
+        <akteur ref="patzke-js" kat="übersetzer"/>
+        <akteur ref="goldhagen-je" kat="übersetzer"></akteur>
+        <zitation><title>C. Cornelius Tacitus Werke</title> aus dem Lateinischen übersetzt und mit den nöthigsten
             Anmerkungen begleitet (4 Bde., Magdeburg: Hechtel <year>1771</year>), Bd. 3 und 4.</zitation>
         <url address="https://books.google.de/books?id=QZTp-ydlE0IC">Bd. 3 (Google Books)</url>
         <url address="https://books.google.de/books?id=dJD1aooalGIC">Bd. 4 (Google Books)</url>
@@ -6084,67 +6084,69 @@
 
     <werk id="saverien-histoire">
         <akteur ref="saverien-a" />
-        <zitation>Histoire des progrès de l’esprit humain dans les sciences exactes, et dans les arts qui en dépendent […]. Avec un abrégé de la Vie des Auteurs les plus célèbres dans ces Sciences, par M. Savérien</zitation>
+        <zitation><title>Histoire des progrès de l’esprit humain dans les sciences exactes</title>, et dans les arts qui en dépendent […]. Avec un abrégé de la Vie des Auteurs les plus célèbres dans ces Sciences, par M. Savérien</zitation>
         <url address="https://gallica.bnf.fr/ark:/12148/bpt6k96274508" >Bibliothèque nationale de France</url>
     </werk>
 
     <werk id="voltaire-frau-recht">
         <akteur ref="volatire"></akteur>
-        <zitation>Die Frau welche Recht hat. Ein Lustspiel in drey Aufzügen aus dem Französischen
+        <zitation><title>Die Frau welche Recht hat</title>. Ein Lustspiel in drey Aufzügen aus dem Französischen
             des Herrn von Voltaire (Berlin: Pauli <year>1764</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN857555510">SUB Göttingen</url>
     </werk>
 
     <werk id="voltaire-saemtliche-schauspiele">
         <akteur ref="voltaire" />
-        <zitation>Des Herrn Arouet von Voltaire sämmtliche Schauspiele, nebst den dazu gehörigen Schriften, Bd. 1 und 2 (Nürnberg: Raspe <year>1766</year>).</zitation>
+        <preferred>Sämmtliche Schauspiele</preferred>
+        <zitation>Des Herrn Arouet von Voltaire <title>sämmtliche Schauspiele</title>, nebst den dazu gehörigen Schriften, Bd. 1 und 2 (Nürnberg: Raspe <year>1766</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10099577-7" >BSB München</url>
     </werk>
 
     <werk id="meier-sendschreiben-langen">
         <akteur ref="meier-gf" />
-        <zitation>Sendschreiben an Herrn Inspector und Prediger Samuel Gotthold Langen wegen des
-            Absterbens seiner Ehegattin von George Friedrich Meier (Halle: Hemmerde <year>1764</year>).</zitation>
+        <zitation><title>Sendschreiben an Herrn Inspector und Prediger Samuel Gotthold Langen wegen des
+            Absterbens seiner Ehegattin</title> von George Friedrich Meier (Halle: Hemmerde <year>1764</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB00014CF000000000">Stabi Berlin</url>
     </werk>
 
     <werk id="wilhelmine-vermaehlte-pedant">
         <akteur ref="thuemmel-ma" />
-        <zitation> Willhelmine oder der vermählte Pedant. Ein prosaisches comisches Gedicht (o.O.
+        <zitation><title>Willhelmine oder der vermählte Pedant</title>. Ein prosaisches comisches Gedicht (o.O.
             <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10121417-2">BSB München</url>
     </werk>
 
     <werk id="braeutigam-ohne-braut-chezill">
-        <zitation>Der Bräutigam ohne Braut oder die Geschichte des Pater Chezills (o.O. <year>1765</year>).</zitation>
+        <zitation><title>Der Bräutigam ohne Braut</title> oder die Geschichte des Pater Chezills (o.O. <year>1765</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11696969-4">BSB München</url>
     </werk>
 
     <werk id="bernhardi-versuche-singen">
         <akteur ref="bernhardi-gc" />
-        <zitation>Versuche im Singen und Dichten (Magdeburg: Hechtel <year>1765</year>).</zitation>
+        <zitation><title>Versuche im Singen und Dichten</title> (Magdeburg: Hechtel <year>1765</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/74551">ULB Halle</url>
     </werk>
 
     <werk id="bieler-fuenf-vorschlaege">
         <akteur ref="bieler-b" />
-        <zitation>Fünf neueröfnete vorschläge 1) zu einer besondern Privatpolicey. 2) zu einem
+        <zitation>Fünf neueröfnete Vorschläge 1) zu einer besondern Privatpolicey. 2) zu einem
             besondern Beichtstuhl. 3) zu einer besondern Steuercasse 4) zu einem besondern
             Hauspredigercollegio. 5) zu einem besondern Wandergeräthe, kürzlich entworfen und
             herausgegeben von M. Benjamin Bieler (Dresden, Leipzig: Gerlach <year>1764</year>).</zitation>
+            <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3547935786">SLUB Dresden</url>
     </werk>
 
     <werk id="riccoboni-jenny">
         <akteur ref="riccoboni-mj" />
-        <zitation>Geschichte der Miss Jenny; von ihr selbst verfaßt, und an die Gräfin von
+        <zitation><title>Geschichte der Miss Jenny</title>; von ihr selbst verfaßt, und an die Gräfin von
             Roscomond, englische Abgesandtin am dänischen Hofe, gerichtet; Herausgegeben von Madame
-            Riccoboni. Aus dem Französischen übersetzt (Leipzig : <year>1764</year>).</zitation>
+            Riccoboni. Aus dem Französischen übersetzt (Leipzig <year>1764</year>).</zitation>
         <url address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bsz:16-diglit-281212">UB Heidelberg</url>
     </werk>
 
     <werk id="baumgarten-drontheim">
         <akteur ref="baumgarten-on" />
-        <zitation>Carl von Drontheim. Ein Trauerspiel. In fünf Aufzügen (Berlin: Haude, Spener
+        <zitation><title>Carl von Drontheim</title>. Ein Trauerspiel. In fünf Aufzügen (Berlin: Haude, Spener
             <year>1765</year>).</zitation>
         <url
             address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bsz:14-db-id3542507954">SLUB Dresden</url>
@@ -6152,72 +6154,71 @@
 
     <werk id="willamov-programma">
         <akteur ref="willamovius" />
-        <zitation>Programma de Logica Pindari (Königsberg <year>1765</year>).</zitation>
+        <zitation><title>Programma de Logica Pindari</title> (Königsberg <year>1765</year>).</zitation>
     </werk>
 
     <werk id="willamov-zwo-oden">
         <akteur ref="willamovius" />
-        <zitation>Zwo Oden Von Dem Verfasser Der Dithyramben (Berlin: Birnstiel <year>1765</year>).</zitation>
+        <zitation><title>Zwo Oden</title> von dem Verfasser der Dithyramben (Berlin: Birnstiel <year>1765</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN636533603">SUB Göttingen</url>
     </werk>
 
     <werk id="spalding-barthische">
         <akteur ref="spalding-jj" />
-        <zitation>Barthische Abschiedspredigt von J. J. Spalding (Berlin, Stralsund: Lange <year>1764</year>).</zitation>
+        <zitation><title>Barthische Abschiedspredigt</title> von J. J. Spalding (Berlin, Stralsund: Lange <year>1764</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/60789">ULB Halle</url>
     </werk>
 
     <werk id="bauer-grundrisse">
         <akteur ref="bauer-gfc" />
-        <zitation>Gottlob Friedrich Carl Bauers Grundrisse von gewissen Wahrheiten aus der Vernunft
-            und Religion. Nebst einem kurzen Anhange (Wolfenbüttel: Meißner <year>1764</year>).</zitation>
+        <zitation>Gottlob Friedrich Carl Bauers <title>Grundrisse von gewissen Wahrheiten aus der Vernunft
+            und Religion</title>. Nebst einem kurzen Anhange (Wolfenbüttel: Meißner <year>1764</year>).</zitation>
         <url
             address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:gbv:23-drucke/te-71-1s3">HAB Wolfenbüttel</url>
     </werk>
 
     <werk id="rosoi-briefe">
         <akteur ref="rosoi-bf" />
-        <zitation>Briefe Cäciliens an Julien. Aus dem Französischen (Frankfurt, Leipzig <year>1764</year>).</zitation>
+        <zitation><title>Briefe Cäciliens an Julien</title>. Aus dem Französischen (Frankfurt, Leipzig <year>1764</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10090777-3">BSB München</url>
     </werk>
 
     <werk id="boerner-nachrichten3">
-        <akteur ref="boerner-f" />
         <akteur ref="baldinger-eg" />
-        <zitation>Herrn Friedrich Börners Nachrichten von jetztlebenden Aerzten und Naturforschern
+        <zitation>Herrn Friedrich Börners <title>Nachrichten von jetztlebenden Aerzten und Naturforschern</title>
             in und außer Deutschland. Bd. 3, St. 5 (Wolfenbüttel <year>1764</year>).</zitation>
         <url address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-473582"> (Neue Folge 1773, Ub Heidelberg)</url>
     </werk>
 
     <werk id="damm-briefe">
         <akteur ref="damm-ct" />
-        <zitation>Briefe des Apostels Pauli, an den Timotheus, Titus, Philemon, von neuem übersetzt,
+        <zitation><title>Briefe des Apostels Pauli</title>, an den Timotheus, Titus, Philemon, von neuem übersetzt,
             und mit einigen Anmerkungen für sorgfältige Leser begleitet (o.O. <year>1765</year>).</zitation>
     </werk>
 
     <werk id="schlegel-predigten3">
         <akteur ref="schlegel-ja" />
-        <zitation>Sammlung einiger Predigten, von Johann Adolph Schlegeln (3 Bde., Leipzig
+        <zitation><title>Sammlung einiger Predigten</title>, von Johann Adolph Schlegeln (3 Bde., Leipzig
             <year>1754–1764</year>), Bd. 3.</zitation>
     </werk>
 
     <werk id="lavater-zweybriefe">
         <akteur ref="lavater" />
-        <zitation>Zwey Briefe an Herrn Magister Carl Friedrich Bahrdt,
+        <zitation><title>Zwey Briefe an Herrn Magister Carl Friedrich Bahrdt</title>,
             betreffend seinen verbesserten Christen in der
             Einsamkeit (Breslau, Leipzig <year>1764</year>).</zitation>
     </werk>
 
     <werk id="breitenbauch-juedische">
         <akteur ref="breitenbauch-ga" />
-        <zitation>Jüdische Schäfergedichte (Altenburg: Richter <year>1765</year>).</zitation>
+        <zitation><title>Jüdische Schäfergedichte</title> (Altenburg: Richter <year>1765</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10129203-3">BSB München</url>
     </werk>
 
     <werk id="miller-vollstaendiger-auszug">
         <akteur ref="miller-jp1725" />
-        <zitation>Johann Peter Millers Vollständiger Auszug aus den sieben Theilen der Mosheimischen
-            Sittenlehre der heiligen Schrift : Nebst einem kurzen Abrisse des achten Theils
+        <zitation>Johann Peter Millers <title>Vollständiger Auszug aus den sieben Theilen der Mosheimischen
+            Sittenlehre der heiligen Schrift</title>: Nebst einem kurzen Abrisse des achten Theils
             (Helmstedt, Halle: Weygand <year>1765</year>).</zitation>
         <url
             address="https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bsz:14-db-id4240293755">SLUB Dresden</url>
@@ -6225,21 +6226,21 @@
 
     <werk id="hurd-nutzen">
         <akteur ref="hurd-r" />
-        <zitation>Von dem Nutzen der Reisen in fremde Länder, in so fern dieselben als ein Stück der
+        <zitation><title>Von dem Nutzen der Reisen in fremde Länder</title>, in so fern dieselben als ein Stück der
             Erziehung vornehmer Jugend erwogen werden, zwischen dem Lord Schaftesbury und M. Johann
             Locken in einer Unterredung gehandelt (Breslau: Korn <year>1765</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0001C91B00000000">Stabi Berlin</url>
     </werk>
 
     <werk id="abhandlungen-naturforschende-gesellschaft2">
-        <zitation>Abhandlungen der Naturforschenden Gesellschaft in Zürich (3 Bde., Zürich:
-            Heidegger <year>1761</year>, <year>1764</year>, <year>1766</year>), Bd. 2.</zitation>
+        <zitation><title>Abhandlungen der Naturforschenden Gesellschaft in Zürich</title> (3 Bde., Zürich:
+            Heidegger 1761–1766), Bd. 2.</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id33069281X-176402008">SLUB Dresden</url>
     </werk>
 
     <werk id="schreber-anweisung-flugsand">
         <akteur ref="schreber-dg" />
-        <zitation>Anweisung wie der Flugsand stehend, und dürre Sandfelder zu Wiesen zu machen
+        <zitation><title>Anweisung</title> wie der Flugsand stehend, und dürre Sandfelder zu Wiesen zu machen
             (Leipzig: Dyck <year>1764</year>).</zitation>
         <url
             address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10298916-3">BSB München</url>
@@ -6247,30 +6248,30 @@
 
     <werk id="willamovius-dialogische-fabeln">
         <akteur ref="willamovius" />
-        <zitation>Dialogische Fabeln in zwey Buechern, von dem Verfasser der Dithyramben (Berlin:
+        <zitation><title>Dialogische Fabeln</title> in zwey Buechern, von dem Verfasser der Dithyramben (Berlin:
             Birnstiel <year>1765</year>).</zitation>
         <url address="https://doi.org/10.11588/diglit.32437#0005">UB Heidelberg</url>
     </werk>
 
     <werk id="prevost-tableau">
         <akteur ref="prevost-af"></akteur>
-        <zitation>Tableau de la vie ou histoire des passions, des vertus et des événemens de tous
+        <zitation><title>Tableau de la vie</title> ou histoire des passions, des vertus et des événemens de tous
             les âges. Par Mr. l’abbé Prevot (2 Bde., Paris <year>1765</year>).</zitation>
         <url address="https://books.google.de/books?id=jQ35jlhPiM4C">Google Books</url>
     </werk>
 
     <werk id="jacobi-messkunst">
         <akteur ref="jacobi-afe" />
-        <zitation>A. F. E. Jacobi Meßkunst vor Kinder, die ihren Verstand schärfen wollen, auch zum
+        <zitation>A. F. E. Jacobi <title>Meßkunst vor Kinder</title>, die ihren Verstand schärfen wollen, auch zum
             Dienst dererjenigen Lehrmeister eingericht, welche sonst in dieser Wissenschaft unkundig
             sind (Gotha: Dieterich <year>1765</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB00017A9600000000">Stabi Berlin</url>
     </werk>
 
     <werk id="goldhagen-patzke-tacitus">
-        <akteur ref="goldhagen-je" />
-        <akteur ref="patzke-js" />
-        <zitation>C. Cornelius Tacitus Wercke / aus dem lateinischen übersetzt, und mit den
+        <akteur ref="goldhagen-je" kat="herausgeber" />
+        <akteur ref="patzke-js" kat="übersetzer"/>
+        <zitation><title>C. Cornelius Tacitus Wercke</title> aus dem lateinischen übersetzt, und mit den
             nöthigsten Anmerkungen begleitet (Magdeburg: Hechtel <year>1765</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/82963">ULB Halle</url>
     </werk>
