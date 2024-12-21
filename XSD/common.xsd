@@ -262,7 +262,7 @@
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:union
-					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay" />
 			</xsd:simpleType>
 		</xsd:attribute>
 	</xsd:attributeGroup>
@@ -274,7 +274,7 @@
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:union
-					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay" />
 			</xsd:simpleType>
 		</xsd:attribute>
 	</xsd:attributeGroup>
@@ -286,7 +286,7 @@
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:union
-					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay" />
 			</xsd:simpleType>
 		</xsd:attribute>
 	</xsd:attributeGroup>
@@ -298,7 +298,7 @@
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:union
-					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay" />
 			</xsd:simpleType>
 		</xsd:attribute>
 	</xsd:attributeGroup>
@@ -310,7 +310,7 @@
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:union
-					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay" />
 			</xsd:simpleType>
 		</xsd:attribute>
 	</xsd:attributeGroup>
