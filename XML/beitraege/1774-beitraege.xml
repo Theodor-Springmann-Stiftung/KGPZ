@@ -23,9 +23,9 @@
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
-        <beilage when="1774" nr="10" />
-        <beilage when="1774" nr="12" />
-        <beilage when="1774" nr="14" />
+        <stueck beilage="1" when="1774" nr="10" />
+        <stueck beilage="1" when="1774" nr="12" />
+        <stueck beilage="1" when="1774" nr="14" />
         <titel>Gefundene Blätter aus den neuesten deutschen Litteraturannalen von 1773.</titel>
         <werk ref="haym-reich" kat="provinienz" s="Bd. 4, S. 516–524" />
         <akteur ref="hamann" />

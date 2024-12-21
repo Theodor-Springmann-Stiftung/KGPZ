@@ -244,7 +244,7 @@
     </beitrag>
     
     <beitrag>
-        <beilage when="1768" nr="13" von="1" />
+        <stueck beilage="1" when="1768" nr="13" von="1" />
         <kategorie ref="lokalanzeigen"></kategorie>
         <anmerkung>Für holländische Tabakpfeifen.</anmerkung>
     </beitrag>
@@ -291,7 +291,7 @@
     </beitrag>
     
     <beitrag>
-        <beilage when="1768" nr="15" von="1" />
+        <stueck beilage="1" when="1768" nr="15" von="1" />
         <kategorie ref="lokalanzeigen"></kategorie>
         <anmerkung>Für holländische Tabakpfeifen.</anmerkung>
     </beitrag>
@@ -1193,7 +1193,7 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1768" nr="56" von="1" bis="2"/>
+        <stueck beilage="1" when="1768" nr="56" von="1" bis="2"/>
         <kategorie ref="notenblatt"></kategorie>
         <titel>Romanze.</titel>
         <incipit>Der Teufel kam vor vielen Jahren</incipit>
@@ -1697,13 +1697,13 @@
     </beitrag>
     
     <beitrag>
-        <beilage when="1768" nr="81" von="1" />
+        <stueck beilage="1" when="1768" nr="81" von="1" />
         <werk kat="rezension" ref="rudloff-versuch-einleitung"></werk>
         <ort ref="goettingen"></ort>
         <ort ref="gotha"></ort>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="81" von="2" bis="4" />
+        <stueck beilage="1" when="1768" nr="81" von="2" bis="4" />
         <kategorie ref="desertionsliste"></kategorie>
         <titel>Notificatorium</titel>
     </beitrag>
@@ -1723,22 +1723,22 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1768" nr="82" von="1" />
+        <stueck beilage="1" when="1768" nr="82" von="1" />
         <werk kat="rezension" ref="geng-nachrichten-engel"></werk>
         <ort ref="schwabach"></ort>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="82" von="1" />
+        <stueck beilage="1" when="1768" nr="82" von="1" />
         <werk kat="rezension" ref="hanisch-krafft"></werk>
         <ort ref="hildburghausen"></ort>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="82" von="1" />
+        <stueck beilage="1" when="1768" nr="82" von="1" />
         <werk kat="rezension" ref="gottselige-gedanken"></werk>
         <ort ref="frankfurt"></ort>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="82" von="2" bis="4" />
+        <stueck beilage="1" when="1768" nr="82" von="2" bis="4" />
         <kategorie ref="desertionsliste"></kategorie>
         <titel>Notificatorium</titel>
     </beitrag>
@@ -1786,46 +1786,46 @@
     </beitrag>
     
     <beitrag>
-        <beilage when="1768" nr="83" />
-        <beilage when="1768" nr="84" von="1" />
-        <beilage when="1768" nr="85" von="1" />
-        <beilage when="1768" nr="86" von="1" />
-        <beilage when="1768" nr="87" von="2" />
+        <stueck beilage="1" when="1768" nr="83" />
+        <stueck beilage="1" when="1768" nr="84" von="1" />
+        <stueck beilage="1" when="1768" nr="85" von="1" />
+        <stueck beilage="1" when="1768" nr="86" von="1" />
+        <stueck beilage="1" when="1768" nr="87" von="2" />
         <kategorie ref="aufsatz"></kategorie>
         <kategorie ref="rezepte"></kategorie>
         <titel>Kurze Anleitung wie der Landmann und diejenigen, so keinen Arzt erlangen können bey graßirenden Pocken sich zu verhalten haben. Auf Sr. Königl. Majestät in Preußen Allerhöchsten Befehl herausgegeben, von Dero Obercollegio Medico 1768.</titel>
     </beitrag>
 
     <beitrag>
-        <beilage when="1768" nr="84" von="2" bis="4" />
+        <stueck beilage="1" when="1768" nr="84" von="2" bis="4" />
         <kategorie ref="desertionsliste"></kategorie>
         <titel>Notificatorium</titel>
     </beitrag>
 
     <beitrag>
-        <beilage when="1768" nr="85" von="2" bis="4" />
+        <stueck beilage="1" when="1768" nr="85" von="2" bis="4" />
         <kategorie ref="desertionsliste"></kategorie>
         <titel>Notificatorium</titel>
     </beitrag>
 
     <beitrag>
-        <beilage when="1768" nr="86" von="2" bis="4" />
+        <stueck beilage="1" when="1768" nr="86" von="2" bis="4" />
         <kategorie ref="desertionsliste"></kategorie>
         <titel>Notificatorium</titel>
     </beitrag>
 
     <beitrag>
-        <beilage when="1768" nr="87" von="1" bis="2" />
+        <stueck beilage="1" when="1768" nr="87" von="1" bis="2" />
         <kategorie ref="aufsatz"></kategorie>
         <akteur ref="seegut-stanislawski-as" kat="nachruf"></akteur>
         <anmerkung>Schilderung des Begräbnisses Albrecht Siegmund von Seegut-Stanislawskis.</anmerkung>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="87" von="2" />
+        <stueck beilage="1" when="1768" nr="87" von="2" />
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="87" von="2" />
+        <stueck beilage="1" when="1768" nr="87" von="2" />
         <kategorie ref="buecher"></kategorie>
     </beitrag>
 
@@ -1921,19 +1921,19 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1768" nr="88" von="1" />
+        <stueck beilage="1" when="1768" nr="88" von="1" />
         <werk kat="rezension" ref="tetsch-kirchengeschichte"></werk>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="88" von="1" />
+        <stueck beilage="1" when="1768" nr="88" von="1" />
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="88" von="1" />
+        <stueck beilage="1" when="1768" nr="88" von="1" />
         <kategorie ref="buecher"></kategorie>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="88" von="2" bis="4" />
+        <stueck beilage="1" when="1768" nr="88" von="2" bis="4" />
         <kategorie ref="desertionsliste"></kategorie>
         <titel>Notificatorium</titel>
     </beitrag>
@@ -1953,12 +1953,12 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1768" nr="89" von="1" bis="2" />
+        <stueck beilage="1" when="1768" nr="89" von="1" bis="2" />
         <werk kat="rezension" ref="toellner-thaetige-gehorsam"></werk>
         <ort ref="breslau"></ort>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="89" von="2" />
+        <stueck beilage="1" when="1768" nr="89" von="2" />
         <kategorie ref="aufsatz"></kategorie>
         <titel>Auszug aus dem Journal der Herren Professoren Gmelin und Pallas.</titel>
         <ort ref="stpetersburg"></ort>
@@ -2008,18 +2008,18 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1768" nr="90" />
-        <beilage when="1768" nr="91" von="1" />
+        <stueck beilage="1" when="1768" nr="90" />
+        <stueck beilage="1" when="1768" nr="91" von="1" />
         <kategorie ref="brief"></kategorie>
         <titel>Auszug aus einem Briefe eines an den Gränzen von Pohlen wohnenden Schlesiers an seinen Freund in Berlin, vom 30 Oct.</titel>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="91" von="2" bis="4" />
+        <stueck beilage="1" when="1768" nr="91" von="2" bis="4" />
         <kategorie ref="desertionsliste"></kategorie>
         <titel>Notificatorium</titel>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="91" von="5" />
+        <stueck beilage="1" when="1768" nr="91" von="5" />
         <kategorie ref="lokalanzeigen"></kategorie>
         <titel>Verkauf des Hauses Fleischbänken-Gasse im Kneiphof, No. 319 (datiert Königsberg, 11. November 1768).</titel>
     </beitrag>
@@ -2160,12 +2160,12 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1768" nr="97" von="1" bis="2" />
+        <stueck beilage="1" when="1768" nr="97" von="1" bis="2" />
         <kategorie ref="proklamation"></kategorie>
         <titel>Declaration, welche der Rußisch-Kayserliche Hof, wegen der Gefangensetzung seines zu Constantinopel residirenden Ministers, an alle Höfe von Europa hat ergehen laßen.</titel>
     </beitrag>
     <beitrag>
-        <beilage when="1768" nr="97" von="2" />
+        <stueck beilage="1" when="1768" nr="97" von="2" />
         <kategorie ref="buecher"></kategorie>
     </beitrag>
 
@@ -2334,7 +2334,7 @@
     </beitrag>
     <beitrag>
         <stueck when="1768" nr="104" von="414" />
-        <beilage when="1768" nr="104" von="1" />
+        <stueck beilage="1" when="1768" nr="104" von="1" />
         <kategorie ref="abbildung"></kategorie>
         <werk kat="rezension" ref="richter-dankpredigt"></werk>
         <ort ref="kgsb"></ort>

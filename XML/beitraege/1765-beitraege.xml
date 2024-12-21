@@ -10,7 +10,7 @@
         ALLGEMEINE METADATEN
         <stueck when="1752" nr="23" von="2" bis="3"/>
         <stueck when="1799" nr="12" von="5"/>
-        <beilage when="1752" nr="23" beilage="1"/>
+        <stueck beilage="1" when="1752" nr="23" beilage="1"/>
         <kategorie ref="kategorie"/>
         <kategorie ref="kategorie2"/>
 
@@ -656,14 +656,14 @@
         <kategorie ref="wechselkurse"/>
     </beitrag>
     <beitrag>
-        <beilage when="1765" nr="27" von="109" />
+        <stueck beilage="1" when="1765" nr="27" von="109" />
         <kategorie ref="ineigenersache"/>
         <incipit>Da heut zu Tage die meiste Recensionen als Disputationen angesehen werden, …</incipit>
         <akteur ref="kanter" />
         <anmerkung>Vorbemerkung zur nachfolgend abgedruckten Replik</anmerkung>
     </beitrag>
     <beitrag>
-        <beilage when="1765" nr="27" von="1" bis="4"/>
+        <stueck beilage="1" when="1765" nr="27" von="1" bis="4"/>
         <titel>J. G. Töllners Erklärung in Ansehung seiner in der Königsbergschen gelehrten und politischen Zeitung Nro. 1. und 2. angezeigten wahren Gründe, warum GOtt die Offenbarung nicht mit augenscheinlichen Beweisen versehn hat.</titel>
         <beitrag kat="replik" ref="rez-toellner-gruende"/>
         <akteur ref="toellner-jg" />
@@ -1186,7 +1186,7 @@
         </beitrag>
 
         <beitrag>
-            <beilage when="1765" nr="50" von="1" bis="3"/>
+            <stueck beilage="1" when="1765" nr="50" von="1" bis="3"/>
             <kategorie ref="notenblatt"/>
             <titel>Die männliche Treue.</titel>
         </beitrag>
@@ -1755,7 +1755,7 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1765" nr="76" von="1"/>
+        <stueck beilage="1" when="1765" nr="76" von="1"/>
         <kategorie ref="notenblatt"></kategorie>
         <titel>Das Kloster.</titel>
     </beitrag>
@@ -1898,7 +1898,7 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1765" nr="82" von="1"/>
+        <stueck beilage="1" when="1765" nr="82" von="1"/>
         <kategorie ref="notenblatt"/>
         <titel>Bündniß mit den Alten. Ein Liedchen für die Jugend.</titel>
     </beitrag>
@@ -1934,7 +1934,7 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1765" nr="83" von="1"/>
+        <stueck beilage="1" when="1765" nr="83" von="1"/>
         <kategorie ref="proklamation"/>
         <titel>Avertissement.</titel>
         <anmerkung>Der Königlich Preußischen General Direction der Tobacks-Verpackungs-Compagnie</anmerkung>
@@ -2249,7 +2249,7 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1765" nr="95" von="1"/>
+        <stueck beilage="1" when="1765" nr="95" von="1"/>
         <kategorie ref="desertionsliste"/>
         <titel>Avertissement.</titel>
         <anmerkung>Für die entlaufenen Bauern Carl Zander und Christoph Klein, datiert Königsberg, 29. November 1765</anmerkung>
@@ -2322,7 +2322,7 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1765" nr="98" von="1" bis="2"/>
+        <stueck beilage="1" when="1765" nr="98" von="1" bis="2"/>
         <kategorie ref="notenblatt"/>
         <incipit>Nun will ich ganz ein Dichter seyn…</incipit>
     </beitrag>

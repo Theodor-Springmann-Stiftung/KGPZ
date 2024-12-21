@@ -6,77 +6,77 @@
     <!-- Jahrgang 1772 -->
     <!-- Beilagen: -->
     <beitrag id="meinhard-ariostauszug">
-        <beilage when="1772" nr="1" von="1" bis="2" />
-        <beilage when="1772" nr="3" von="1" bis="2" />
-        <beilage when="1772" nr="5" von="1" bis="2" />
-        <beilage when="1772" nr="9" von="1" bis="2" />
-        <beilage when="1772" nr="13" von="1" bis="2" />
-        <beilage when="1772" nr="15" von="1" bis="2" />
-        <beilage when="1772" nr="17" von="1" bis="2" />
-        <beilage when="1772" nr="19" von="1" bis="2" />
-        <beilage when="1772" nr="21" von="1" bis="2" />
-        <beilage when="1772" nr="23" von="1" bis="2" />
-        <beilage when="1772" nr="25" von="1" bis="2" />
-        <beilage when="1772" nr="27" von="1" bis="2" />
-        <beilage when="1772" nr="29" von="1" bis="2" />
-        <beilage when="1772" nr="33" von="1" bis="2" />
-        <beilage when="1772" nr="35" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="1" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="3" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="5" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="9" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="13" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="15" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="17" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="19" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="21" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="23" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="25" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="27" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="29" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="33" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="35" von="1" bis="2" />
         <werk kat="auszug" ref="meinhard-versuche2" s="S. 129–279"></werk>
         <akteur ref="hamann">Unger II, 910</akteur>
         <anmerkung>Auszug über Ariost und Orlando Furioso aus Anlass von Kupferstichen aus Orlando Furioso im <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0002F5EC00040000">Genealogischen Calender der Königlichen Akademie der Wissenschaften zu Berlin von 1772</wwwlink>.</anmerkung>
     </beitrag>
     <beitrag>
-        <beilage when="1772" nr="1" von="1"/>
+        <stueck beilage="1" when="1772" nr="1" von="1"/>
         <beitrag kat="kommentar" ref="meinhard-ariostauszug"></beitrag>
         <akteur ref="hamann">vgl. Unger II, 910</akteur>
         <anmerkung>Einleitung des Auszugs.</anmerkung>
     </beitrag>
     <beitrag>
-        <beilage when="1772" nr="35" von="2"/>
-        <beilage when="1772" nr="39" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="35" von="2"/>
+        <stueck beilage="1" when="1772" nr="39" von="1" bis="2" />
         <beitrag kat="nachtrag" ref="meinhard-ariostauszug"></beitrag>
         <akteur ref="hamann" unsicher="true"></akteur>
         <anmerkung>Erklärung weiterer Kupferstiche zu Orlando Furioso aus dem Berliner genealogischen Calender 1772.</anmerkung>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="5" von="2" />
+        <stueck beilage="1" when="1772" nr="5" von="2" />
         <kategorie ref="buecher"></kategorie>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="7" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="7" von="1" bis="2" />
         <kategorie ref="gelehrte-nachrichten"></kategorie>
         <titel>Ankündigung der von dem Königl. Preußischen General-Ober-Finanz-Krieges-und Domainendirectorio auf 1772 und 1773, ausgesetzten Preißaufgaben.</titel>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="11" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="11" von="1" bis="2" />
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="31" von="1" bis="4" />
+        <stueck beilage="1" when="1772" nr="31" von="1" bis="4" />
         <kategorie ref="aufsatz"></kategorie>
         <titel>Vom Nutzen der Wissenschaften und Künste</titel>
         <akteur ref="friedrich-II"></akteur>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="37" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="37" von="1" bis="2" />
         <titel>Abfertigumg der im sechs und zwanzigsten Stück enthaltenen Recension. La Farce enfin lui fert à tout masquer.</titel>
         <beitrag kat="replik" ref="hamann-herder-ursprung"></beitrag>
         <akteur ref="hamann">Unterzeichnet „Aristobulus.“ – Vgl. den Wiederabdruck in den <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235968">Zwo Recensionen</wwwlink></akteur>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="39" von="2" />
+        <stueck beilage="1" when="1772" nr="39" von="2" />
         <kategorie ref="buecher"></kategorie>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="41" von="1" bis="2" />
-        <beilage when="1772" nr="43" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="41" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="43" von="1" bis="2" />
         <titel>Ueber die Ritterromanen, aus dem Engl. zusammengezogen.</titel>
         <werk kat="uebersetzung" ref="warburton-chivalry" ></werk>
         <werk kat="uebersetzung" ref="hurd-chivalry" ></werk>
@@ -85,133 +85,133 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="43" von="2" />
-        <beilage when="1772" nr="45" von="1" />
+        <stueck beilage="1" when="1772" nr="43" von="2" />
+        <stueck beilage="1" when="1772" nr="45" von="1" />
         <titel>Chronologische Bestimmung des Königs Ahasverus und der Königin Esther. Aus dem Engl.</titel>
         <werk kat="uebersetzung" ref="yate-esther" s="S. 444–446" ></werk>
         <akteur ref="hamann" unsicher="true">vgl. ZH II, 431</akteur>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="45" von="2" />
-        <beilage when="1772" nr="47" von="1" bis="2" />
-        <beilage when="1772" nr="49" von="1" bis="2" />
-        <beilage when="1772" nr="51" von="1" />
+        <stueck beilage="1" when="1772" nr="45" von="2" />
+        <stueck beilage="1" when="1772" nr="47" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="49" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="51" von="1" />
         <titel>Auszug eines Versuchs über die Gegenstände der Chymie und über ihre allgemeine Eintheilung. Aus dem Engl.</titel>
         <werk kat="uebersetzung" ref="watson-hawkesworth-chemistry" s="S. 410–414 und 464–466" ></werk>
         <akteur ref="hamann" unsicher="true">vgl. ZH II, 431</akteur>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="51" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="51" von="1" bis="2" />
         <titel>Der Uebersetzer. Aus den Charakteren oder Zeichnungen des Samuel Buttlers. Aus eben desselben vermischten Gedanken.</titel>
         <werk kat="uebersetzung" ref="butler-genuine" s="S. 405–407 und Auszüge aus S. 466–512" ></werk>
         <akteur ref="hamann" unsicher="true">vgl. ZH II, 431</akteur>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="53" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="53" von="1" bis="2" />
         <stueck when="1772" nr="55" von="217" bis="218" />
         <titel>Lobschrift auf Herrn Noel, nach dem Französisichen des Kaisers von China.</titel>
         <werk kat="auszug" ref="gleim-lobschrift" s="S. 5–29" ></werk>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="55" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="55" von="1" bis="2" />
         <kategorie ref="weltnachrichten"></kategorie>
         <titel>Die Ratification, welche Sr. Erlaucht, dem Generalfeldmarschall, Grafen Peter Alexandrowitsch Rumanzow, von dem Türkischen Großvizier Mussun Oglu über die Artikel, des den 19. abgewichenen Maymonats geschlossenen Waffenstillstandes, auf die an ihn abgefertigte gegenseitig eingesandt worden, wird dem Publicum hiermit von Wort zu Wort mitgetheilet</titel>
         <ort ref="stpetersburg"></ort>
     </beitrag>
     <beitrag>
-        <beilage when="1772" nr="55" von="2" />
+        <stueck beilage="1" when="1772" nr="55" von="2" />
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="61" von="1" />
+        <stueck beilage="1" when="1772" nr="61" von="1" />
         <kategorie ref="gelehrte-nachrichten"></kategorie>
         <titel>Nachricht.</titel>
         <akteur ref="buesching"></akteur>
         <anmerkung>Subskriptionsanzeige für die Werke des schwedischen Kanzleyraths und Professors zu Upsala, Herr Johann von Ihre</anmerkung>
     </beitrag>
     <beitrag>
-        <beilage when="1772" nr="61" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="61" von="1" bis="2" />
         <kategorie ref="gelehrte-nachrichten"></kategorie>
         <incipit>A.F. Röse zu Greifswald verleget: Geschichte des Nadirkahn, Beherrschers von Persien, von Mirsa Mohamed Mahadikahn Masanderani…</incipit>
         <anmerkung>Subskriptionsanzeige (diese übernimmt Prof. Werner)</anmerkung>
     </beitrag>
     <beitrag>
-        <beilage when="1772" nr="61" von="2" />
+        <stueck beilage="1" when="1772" nr="61" von="2" />
         <kategorie ref="gelehrte-nachrichten"></kategorie>
         <incipit>Der Professor und Bibliothecarius zu Greifswald, Herr Joh. Carl Dähnert, übernimt auf eigene Kosten den Druck des Catalogi der dortigen Akademischen Bibliothek, nebst einem Universal-Repertorio…</incipit>
         <anmerkung>Subskriptionsanzeige (diese übernimmt Prof. Werner)</anmerkung>
     </beitrag>
     <beitrag>
-        <beilage when="1772" nr="61" von="2" />
-        <beilage when="1772" nr="63" von="1" bis="2" />
-        <beilage when="1772" nr="65" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="61" von="2" />
+        <stueck beilage="1" when="1772" nr="63" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="65" von="1" bis="2" />
         <kategorie ref="weltnachrichten"></kategorie>
         <incipit>Vor einiger Zeit wurde in verschiedenen Zeitungen eine Schrift verbreitet, welche mit Erdichtungen und Anzüglichkeiten gegen Se. Pohlnische Majestät angefüllet war. Aus folgender authentischen Schrift wird man den Ungrund davon aufs stärkste einsehen können…</incipit>
         <ort ref="hamburg"></ort>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="63" von="2" />
+        <stueck beilage="1" when="1772" nr="63" von="2" />
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
     <beitrag>
-        <beilage when="1772" nr="65" von="2" />
+        <stueck beilage="1" when="1772" nr="65" von="2" />
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
     <beitrag>
-        <beilage when="1772" nr="65" von="2" />
+        <stueck beilage="1" when="1772" nr="65" von="2" />
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
     <beitrag>
-        <beilage when="1772" nr="67" von="2" />
+        <stueck beilage="1" when="1772" nr="67" von="2" />
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
     <beitrag>
-        <beilage when="1772" nr="67" von="2" />
+        <stueck beilage="1" when="1772" nr="67" von="2" />
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
     <beitrag>
-        <beilage when="1772" nr="69" von="2" />
+        <stueck beilage="1" when="1772" nr="69" von="2" />
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="67" von="1" bis="2" />
-        <beilage when="1772" nr="69" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="67" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="69" von="1" bis="2" />
         <titel>Melanchthon. Eine Ode von Johann Andreas Cramer.</titel>
         <werk kat="auszug" ref="cramer-melanchthon" ></werk>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="69" von="2" />
-        <beilage when="1772" nr="71" von="1" />
+        <stueck beilage="1" when="1772" nr="69" von="2" />
+        <stueck beilage="1" when="1772" nr="71" von="1" />
         <titel>Aus der Berl. Zeitung.</titel>
         <werk kat="auszug" ref="burman-lied" ></werk>
         <werk kat="kommentar" ref="burman-lied" ></werk>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="71" von="1" bis="2" />
-        <beilage when="1772" nr="79" von="1" bis="2" />
-        <beilage when="1772" nr="85" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="71" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="79" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="85" von="1" bis="2" />
         <titel>Beschreibung von allen Gemählden und Antiquen, wie auch verschiedenen andern Kostbarkeiten im Neuen Schloße bey Sans-Souci.</titel>
         <werk kat="auszug" ref="oesterreich-beschreibung-sanssouci1772"></werk>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="73" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="73" von="1" bis="2" />
         <kategorie ref="weltnachrichten"></kategorie>
         <ort ref="hamburg"></ort>
         <anmerkung>Über die Veränderung der Regierung in Schweden.</anmerkung>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="75" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="75" von="1" bis="2" />
         <kategorie ref="proklamation"></kategorie>
         <titel>Königlich-Preußisches Patent an die sämmtliche Stände und Einwohner der Lande Preußen und Pommern, welche die Crone Pohlen bishero besessen, wie auch der Districte von Groß-Pohlen, diesseits der Netze.</titel>
         <akteur ref="friedrich-II"></akteur>
@@ -220,8 +220,8 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="76" von="1" bis="4" />
-        <beilage when="1772" nr="77" von="1" bis="4" />
+        <stueck beilage="1" when="1772" nr="76" von="1" bis="4" />
+        <stueck beilage="1" when="1772" nr="77" von="1" bis="4" />
         <kategorie ref="proklamation"></kategorie>
         <titel>Des Königs und der Reichsstände vestgestellte Regierungsform.</titel>
         <akteur ref="friedrich-II"></akteur>
@@ -230,7 +230,7 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="86" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="86" von="1" bis="2" />
         <kategorie ref="proklamation"></kategorie>
         <titel>Edict, daß zu Debitirung des Salzes an die Auswärtige, eine Handlungs-Compagnie etabliret, durch solche das vorräthige Salz in Königsberg und Memel übernommen, dabei aber der Kaufmannschaft in denen Königlich-Preußischen Städten der exclusive Handel mit Garn, Leinewand, Wachs, auch Hanf- und Lein-Saamen, aus dem Ermelande zugelegt werden solle.</titel>
         <akteur ref="friedrich-II"></akteur>
@@ -239,51 +239,51 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="87" von="1" bis="2" />
-        <beilage when="1772" nr="89" von="1" bis="2" />
-        <beilage when="1772" nr="95" von="1" />
+        <stueck beilage="1" when="1772" nr="87" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="89" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="95" von="1" />
         <titel>Von der Musik in Rußland.</titel>
         <werk kat="auszug" ref="musik-goathaisch"></werk>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="95" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="95" von="1" bis="2" />
         <titel>Sturmglocke der Könige den Europäischen Mächten geläutet von Voltäre.</titel>
         <werk kat="auszug" ref="voltaire-sturmglocke"></werk>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="97" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="97" von="1" bis="2" />
         <kategorie ref="aufsatz"></kategorie>
         <titel>Vorschläge zur verbesserten Versorgung der Land-Armen in den Dörfern.</titel>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="97" von="2" />
+        <stueck beilage="1" when="1772" nr="97" von="2" />
         <titel>Oliven.</titel>
         <werk kat="auszug" ref="oliven-goathaisch"></werk>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="101" von="1" />
+        <stueck beilage="1" when="1772" nr="101" von="1" />
         <kategorie ref="aufsatz"></kategorie>
         <titel>Zufällige Gedanken eines Freundes der Wissenschaften über die Ausbreitung der Kentniße unter den Menschen.</titel>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="101" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="101" von="1" bis="2" />
         <titel>Lebens-Umstände des verstorbenen Assessors im Königl. Schwedischen Berg-Collegio, Emanuel Swedenborg, aus der Rede, die der Berg-Rath und Ritter Sandel, zum Andenken des Verstorbenen am 7ten October vor der Königl. Akademie der Wissenschaften zu Stockholm gehalten hat.</titel>
         <akteur ref="swedenborg" kat="nachruf" />
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="103" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="103" von="1" bis="2" />
         <titel>Von den Perlen und dem Perlenfange.</titel>
         <werk kat="auszug" ref="perlen-leipzig"></werk>
     </beitrag>
 
     <beitrag>
-        <beilage when="1772" nr="103" von="2" />
+        <stueck beilage="1" when="1772" nr="103" von="2" />
         <titel>Herrn Donald Monro Schreiben an Herrn Maty, nebst einem Einschluße von Herrn Farley aus Antigoa, über die guten Wirkungen der Quaßi-Wurzel in einigen Fiebern.</titel>
         <werk kat="auszug" ref="monro-quassi-wurzel"></werk>
     </beitrag>

@@ -312,12 +312,12 @@
     </beitrag>
     
     <beitrag>
-        <beilage when="1767" nr="12" von="1" bis="2" />
+        <stueck beilage="1" when="1767" nr="12" von="1" bis="2" />
         <kategorie ref="notenblatt" />
         <titel>1te Beylage</titel>
     </beitrag>
     <beitrag>
-        <beilage when="1767" nr="12" von="3" bis="4" />
+        <stueck beilage="1" when="1767" nr="12" von="3" bis="4" />
         <kategorie ref="notenblatt" />
         <titel>2te Beylage</titel>
     </beitrag>
@@ -1719,7 +1719,7 @@
     </beitrag>
     
     <beitrag>
-        <beilage when="1767" nr="81" von="1" bis="2" />
+        <stueck beilage="1" when="1767" nr="81" von="1" bis="2" />
         <kategorie ref="vorladung" />
         <anmerkung>Nochmaliger Aufruf an die Mitglieder des Collegium Philadelphicum zu Cöslin, Schlawe und Stolpe, sich beim Königlich Preußischen Pommerischen Hof-Gericht in einer Erbschaftssache zu melden, mitsamt eines Verzeichnisses derjenigen Mitglieder, welche sich nicht gemeldet haben.</anmerkung>
     </beitrag>
@@ -1762,7 +1762,7 @@
     </beitrag>
     
     <beitrag>
-        <beilage when="1767" nr="83" von="1" bis="2" />
+        <stueck beilage="1" when="1767" nr="83" von="1" bis="2" />
         <kategorie ref="vorladung" />
         <anmerkung>Nochmaliger Aufruf an die Mitglieder des Collegium Philadelphicum zu Cöslin, Schlawe und Stolpe, sich beim Königlich Preußischen Pommerischen Hof-Gericht in einer Erbschaftssache zu melden, mitsamt eines Verzeichnisses derjenigen Mitglieder, welche sich nicht gemeldet haben.</anmerkung>
     </beitrag>
@@ -2157,7 +2157,7 @@
     </beitrag>
 
     <beitrag>
-        <beilage when="1767" nr="101" von="1" bis="2" />
+        <stueck beilage="1" when="1767" nr="101" von="1" bis="2" />
         <kategorie ref="buecher" />
     </beitrag>
     

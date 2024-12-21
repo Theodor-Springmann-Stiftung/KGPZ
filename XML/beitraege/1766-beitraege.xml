@@ -269,13 +269,13 @@
 
    <!-- 13 -->
     <beitrag id="bock-geburtstag">
-        <beilage when="1766" nr="14" von="1" bis="2"/>
+        <stueck beilage="1" when="1766" nr="14" von="1" bis="2"/>
         <titel>Auf den Geburtstag des Königs, bey Wiedereröfnung der Königl. deutschen Gesellschaft. von Karl Gottlieb Bock. einem Mitgliede derselben. Den 25sten Januarius, 1766.</titel>
         <akteur ref="bock-kg"></akteur>
     </beitrag>
    <beitrag>
     <stueck when="1766" nr="13" von="51" bis="52" />
-    <beilage when="1766" nr="14" von="1" bis="2"/>
+    <stueck beilage="1" when="1766" nr="14" von="1" bis="2"/>
     <beitrag ref="bock-geburtstag" kat="kommentar" />
     <ort ref="kgsb" />
     <akteur ref="scheffner">HBGA I, 50</akteur>
@@ -880,7 +880,7 @@
 
 <!-- 42 -->
 <beitrag>
-    <beilage when="1766" nr="42" von="1"/>
+    <stueck beilage="1" when="1766" nr="42" von="1"/>
     <kategorie ref="notenblatt"></kategorie>
     <titel>Musikalische Beylage.</titel>
     <anmerkung>Tanzchoreographie mit Noten.</anmerkung>
@@ -964,7 +964,7 @@
     <ort ref="eisenach" />
 </beitrag>
 <beitrag>
-    <beilage when="1766" nr="46" von="186" />
+    <stueck beilage="1" when="1766" nr="46" von="186" />
     <kategorie ref="gedicht"></kategorie>
     <titel>Elegie</titel>
     <incipit>Spiel lispelnd holder West mit röthlich blühnden Zweigen…</incipit>
@@ -1088,7 +1088,7 @@
 
 <!-- 52 -->
 <beitrag>
-    <beilage when="1766" nr="52" von="209" bis="210"/>
+    <stueck beilage="1" when="1766" nr="52" von="209" bis="210"/>
     <kategorie ref="ineigenersache"></kategorie>
     <beitrag ref="kleinigkeiten-nonkarschin" kat="nachtrag"/>
     <beitrag ref="karsch-zeus" kat="kommentar"/>
@@ -1096,7 +1096,7 @@
     <anmerkung>Antworten des Redakteurs auf Leserbriefe zu verschiedenen Beiträgen.</anmerkung>
 </beitrag> 
 <beitrag id="karsch-zeus">
-    <beilage when="1766" nr="52" von="209" bis="210"/>
+    <stueck beilage="1" when="1766" nr="52" von="209" bis="210"/>
     <kategorie ref="gedicht"></kategorie>
     <incipit>Zevs heißts dem Blitz daß er von übeln Dünsten</incipit>
     <akteur ref="karsch"></akteur>

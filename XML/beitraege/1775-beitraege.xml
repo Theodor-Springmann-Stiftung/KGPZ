@@ -5,7 +5,7 @@
 
     <!-- Jahrgang 1775 -->
     <beitrag>
-        <beilage when="1775" nr="39" />
+        <stueck beilage="1" when="1775" nr="39" />
         <titel>Freund Hain an alle „belesene und empfindsame Personen“ in Ost- und West-Preußen,
             welche „Noch ein Ditto beym Mondscheine zu singen“ Lust und Genüge finden.</titel>
         <werk ref="nadler" kat="provinienz" s="Bd. 4, S. 386–388" />
@@ -38,10 +38,10 @@
         <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
-        <beilage when="1775" nr="77" />
-        <beilage when="1775" nr="78" />
-        <beilage when="1775" nr="80" />
-        <beilage when="1775" nr="87" />
+        <stueck beilage="1" when="1775" nr="77" />
+        <stueck beilage="1" when="1775" nr="78" />
+        <stueck beilage="1" when="1775" nr="80" />
+        <stueck beilage="1" when="1775" nr="87" />
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="galiani-getreidehandel" kat="uebersetzung"
             s="Ausschnitte, etwa S. 96 oder S. 239" />
@@ -49,12 +49,12 @@
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
-        <beilage when="1775" nr="87" />
+        <stueck beilage="1" when="1775" nr="87" />
         <kategorie ref="desertionsliste" />
         <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
-        <beilage when="1775" nr="92" />
+        <stueck beilage="1" when="1775" nr="92" />
         <titel>Summarischer Begrif der Gespräche über den Getrayde-Handel vom Uebersetzer der dahin
             gehörigen Beylagen.</titel>
         <werk ref="yale-muenster" kat="provinienz" />
@@ -62,14 +62,14 @@
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
-        <beilage when="1775" nr="93" />
+        <stueck beilage="1" when="1775" nr="93" />
         <titel>Fragment eines Programm’s oder Zuruff von der Eule.</titel>
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="klopstock-gelehrtenrepublik" kat="rezension" />
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
-        <beilage when="1775" nr="94" />
+        <stueck beilage="1" when="1775" nr="94" />
         <kategorie ref="aufsatz" />
         <titel>Kleiner Versuch über große Probleme.</titel>
         <werk ref="yale-muenster" kat="provinienz" />

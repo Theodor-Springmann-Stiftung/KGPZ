@@ -5,9 +5,9 @@
 
     <!-- Jahrgang 1776 -->
     <beitrag>
-        <beilage when="1776" nr="6" />
-        <beilage when="1776" nr="8" />
-        <beilage when="1776" nr="10" />
+        <stueck beilage="1" when="1776" nr="6" />
+        <stueck beilage="1" when="1776" nr="8" />
+        <stueck beilage="1" when="1776" nr="10" />
         <titel>Ueber den Styl</titel>
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="buffon-style" kat="uebersetzung" s="xxii–xxxviii" />
@@ -41,7 +41,7 @@
         <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
-        <beilage when="1776" nr="19" />
+        <stueck beilage="1" when="1776" nr="19" />
         <kategorie ref="aufsatz" />
         <titel>Zur neuen Ausgabe des deutschen Don Quixote.</titel>
         <werk ref="yale-muenster" kat="provinienz" />

@@ -15,14 +15,8 @@
               <xsd:choice minOccurs="1" maxOccurs="unbounded">
                 <xsd:element name="stueck" type="kgpz:stueckref">
                   <xsd:annotation>
-                    <xsd:documentation>Verweist auf ein Stück, in wlchem ein Beitrag veröffentlicht
+                    <xsd:documentation>Verweist auf ein Stück oder eine Beilage, in der ein Beitrag veröffentlicht
                       wurde. Darf mehrmals vorkommen.</xsd:documentation>
-                  </xsd:annotation>
-                </xsd:element>
-                <xsd:element name="beilage" type="kgpz:beilageref">
-                  <xsd:annotation>
-                    <xsd:documentation>Verweist auf eine Beilage, in welcher ein Beitrag
-                      veröffentlicht wurde. Darf mehrmals vorkommen.</xsd:documentation>
                   </xsd:annotation>
                 </xsd:element>
               </xsd:choice>

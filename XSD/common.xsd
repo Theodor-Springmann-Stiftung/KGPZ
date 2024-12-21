@@ -59,55 +59,10 @@
 			</xsd:annotation>
 		</xsd:attribute>
 
-		<xsd:attribute name="kat" use="optional" default="auszug">
+		<xsd:attribute name="beilage" type="xsd:unsignedInt"
+			use="optional" default="0">
 			<xsd:annotation>
-				<xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: auszug (default), erwähnung,
-					kommentar.</xsd:documentation>
-			</xsd:annotation>
-			<xsd:simpleType>
-				<xsd:restriction base="xsd:string">
-					<xsd:enumeration value="auszug" />
-					<xsd:enumeration value="erwähnung" />
-					<xsd:enumeration value="kommentar" />
-				</xsd:restriction>
-			</xsd:simpleType>
-		</xsd:attribute>
-	</xsd:complexType>
-
-	<xsd:complexType name="beilageref">
-		<xsd:annotation>
-			<xsd:documentation>Bezieht sich auf eine Beilage und qualifiziert diese Beziehung</xsd:documentation>
-		</xsd:annotation>
-
-		<xsd:attributeGroup ref="kgpz:dateattributes" />
-
-		<xsd:attribute name="nr" type="xsd:positiveInteger"
-			use="optional">
-			<xsd:annotation>
-				<xsd:documentation>Optional: Die Nummer des Stücks.</xsd:documentation>
-			</xsd:annotation>
-		</xsd:attribute>
-
-		<xsd:attribute name="beilage" type="xsd:positiveInteger"
-			use="optional" default="1">
-			<xsd:annotation>
-				<xsd:documentation>Pflicht: Die Nummer der Beilage.</xsd:documentation>
-			</xsd:annotation>
-		</xsd:attribute>
-
-		<xsd:attribute name="von" type="xsd:positiveInteger"
-			use="optional">
-			<xsd:annotation>
-				<xsd:documentation>Optional: Die erste Seitenzahl des Beitrags (nur bei mehreren Beiträgen
-					in einer Beilage).</xsd:documentation>
-			</xsd:annotation>
-		</xsd:attribute>
-
-		<xsd:attribute name="bis" type="xsd:positiveInteger"
-			use="optional">
-			<xsd:annotation>
-				<xsd:documentation>Optional: Die letzte Seitenzahl des Beitrags, erstreckt er sich über
-					mehrere Seiten (nur bei mehreren Beiträgen in einer Beilage).</xsd:documentation>
+				<xsd:documentation>Die Nummer der Beilage, falls zutreffend.</xsd:documentation>
 			</xsd:annotation>
 		</xsd:attribute>
 
