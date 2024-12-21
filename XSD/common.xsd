@@ -1,379 +1,379 @@
 <?xml version="1.0"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-  targetNamespace="https://www.koenigsberger-zeitungen.de"
-  xmlns="https://www.koenigsberger-zeitungen.de"
-  xmlns:kgpz="https://www.koenigsberger-zeitungen.de"
-  elementFormDefault="qualified">
-  <xsd:simpleType name="NonEmptyString">
-    <xsd:restriction base="xsd:string">
-      <xsd:minLength value="1" />
-    </xsd:restriction>
-  </xsd:simpleType>
+	targetNamespace="https://www.koenigsberger-zeitungen.de"
+	xmlns="https://www.koenigsberger-zeitungen.de"
+	xmlns:kgpz="https://www.koenigsberger-zeitungen.de"
+	elementFormDefault="qualified">
+	<xsd:simpleType name="NonEmptyString">
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="1" />
+		</xsd:restriction>
+	</xsd:simpleType>
 
-  <xsd:complexType name="ref">
-    <xsd:annotation>
-      <xsd:documentation>Referenziert ein anderes Element.</xsd:documentation>
-    </xsd:annotation>
-    <xsd:complexContent>
-      <xsd:extension base="kgpz:text">
-        <xsd:attribute name="ref" use="required" type="kgpz:NonEmptyString">
-          <xsd:annotation>
-            <xsd:documentation>Pflicht: Die ID des referenzierten Elements.</xsd:documentation>
-          </xsd:annotation>
-        </xsd:attribute>
+	<xsd:complexType name="ref">
+		<xsd:annotation>
+			<xsd:documentation>Referenziert ein anderes Element.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexContent>
+			<xsd:extension base="kgpz:text">
+				<xsd:attribute name="ref" use="required" type="kgpz:NonEmptyString">
+					<xsd:annotation>
+						<xsd:documentation>Pflicht: Die ID des referenzierten Elements.</xsd:documentation>
+					</xsd:annotation>
+				</xsd:attribute>
 
-        <xsd:attribute name="unsicher" use="optional" default="false" type="xsd:boolean">
-          <xsd:annotation>
-            <xsd:documentation>Optional: Ist die Referenz unsicher? Erlaubt: true | false</xsd:documentation>
-          </xsd:annotation>
-        </xsd:attribute>
-      </xsd:extension>
-    </xsd:complexContent>
-  </xsd:complexType>
+				<xsd:attribute name="unsicher" use="optional" default="false" type="xsd:boolean">
+					<xsd:annotation>
+						<xsd:documentation>Optional: Ist die Referenz unsicher? Erlaubt: true | false</xsd:documentation>
+					</xsd:annotation>
+				</xsd:attribute>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
 
-  <xsd:complexType name="stueckref">
-    <xsd:annotation>
-      <xsd:documentation>Bezieht sich auf ein Stück und qualifiziert diese Beziehung.</xsd:documentation>
-    </xsd:annotation>
-    <xsd:attribute name="datum"
-      use="required">
-      <xsd:annotation>
-        <xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
-      </xsd:annotation>
-      <xsd:simpleType>
-        <xsd:union
-          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
-      </xsd:simpleType>
-    </xsd:attribute>
+	<xsd:complexType name="stueckref">
+		<xsd:annotation>
+			<xsd:documentation>Bezieht sich auf ein Stück und qualifiziert diese Beziehung.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="datum"
+			use="required">
+			<xsd:annotation>
+				<xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:union
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+			</xsd:simpleType>
+		</xsd:attribute>
 
-    <xsd:attribute name="nr" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Optional: Die Nummer des Stücks.</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
+		<xsd:attribute name="nr" type="xsd:positiveInteger"
+			use="optional">
+			<xsd:annotation>
+				<xsd:documentation>Pflicht: Die Nummer des Stücks.</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 
-    <xsd:attribute name="von" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Die erste Seitenzahl des Bezugs, falls bekannt.</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
+		<xsd:attribute name="von" type="xsd:positiveInteger"
+			use="optional">
+			<xsd:annotation>
+				<xsd:documentation>Die erste Seitenzahl des Bezugs, falls bekannt.</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 
-    <xsd:attribute name="bis" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Die letzte Seitenzahl des Bezugs, falls bekannt.</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
+		<xsd:attribute name="bis" type="xsd:positiveInteger"
+			use="optional">
+			<xsd:annotation>
+				<xsd:documentation>Die letzte Seitenzahl des Bezugs, falls bekannt.</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 
-    <xsd:attribute name="kat" use="optional" default="auszug">
-      <xsd:annotation>
-        <xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: auszug (default), erwähnung,
-          kommentar.</xsd:documentation>
-      </xsd:annotation>
-      <xsd:simpleType>
-        <xsd:restriction base="xsd:string">
-          <xsd:enumeration value="auszug" />
-          <xsd:enumeration value="erwähnung" />
-          <xsd:enumeration value="kommentar" />
-        </xsd:restriction>
-      </xsd:simpleType>
-    </xsd:attribute>
-  </xsd:complexType>
+		<xsd:attribute name="kat" use="optional" default="auszug">
+			<xsd:annotation>
+				<xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: auszug (default), erwähnung,
+					kommentar.</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="auszug" />
+					<xsd:enumeration value="erwähnung" />
+					<xsd:enumeration value="kommentar" />
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:complexType>
 
-  <xsd:complexType name="beilageref">
-    <xsd:annotation>
-      <xsd:documentation>Bezieht sich auf eine Beilage und qualifiziert diese Beziehung</xsd:documentation>
-    </xsd:annotation>
+	<xsd:complexType name="beilageref">
+		<xsd:annotation>
+			<xsd:documentation>Bezieht sich auf eine Beilage und qualifiziert diese Beziehung</xsd:documentation>
+		</xsd:annotation>
 
-    <xsd:attribute name="datum"
-      use="required">
-      <xsd:annotation>
-        <xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
-      </xsd:annotation>
-      <xsd:simpleType>
-        <xsd:union
-          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
-      </xsd:simpleType>
-    </xsd:attribute>
+		<xsd:attribute name="datum"
+			use="required">
+			<xsd:annotation>
+				<xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:union
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+			</xsd:simpleType>
+		</xsd:attribute>
 
-    <xsd:attribute name="nr" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Optional: Die Nummer des Stücks.</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
+		<xsd:attribute name="nr" type="xsd:positiveInteger"
+			use="optional">
+			<xsd:annotation>
+				<xsd:documentation>Optional: Die Nummer des Stücks.</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 
-    <xsd:attribute name="beilage" type="xsd:positiveInteger"
-      use="optional" default="1">
-      <xsd:annotation>
-        <xsd:documentation>Pflicht: Die Nummer der Beilage.</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
+		<xsd:attribute name="beilage" type="xsd:positiveInteger"
+			use="optional" default="1">
+			<xsd:annotation>
+				<xsd:documentation>Pflicht: Die Nummer der Beilage.</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 
-    <xsd:attribute name="von" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Optional: Die erste Seitenzahl des Beitrags (nur bei mehreren Beiträgen
-          in einer Beilage).</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
+		<xsd:attribute name="von" type="xsd:positiveInteger"
+			use="optional">
+			<xsd:annotation>
+				<xsd:documentation>Optional: Die erste Seitenzahl des Beitrags (nur bei mehreren Beiträgen
+					in einer Beilage).</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 
-    <xsd:attribute name="bis" type="xsd:positiveInteger"
-      use="optional">
-      <xsd:annotation>
-        <xsd:documentation>Optional: Die letzte Seitenzahl des Beitrags, erstreckt er sich über
-          mehrere Seiten (nur bei mehreren Beiträgen in einer Beilage).</xsd:documentation>
-      </xsd:annotation>
-    </xsd:attribute>
+		<xsd:attribute name="bis" type="xsd:positiveInteger"
+			use="optional">
+			<xsd:annotation>
+				<xsd:documentation>Optional: Die letzte Seitenzahl des Beitrags, erstreckt er sich über
+					mehrere Seiten (nur bei mehreren Beiträgen in einer Beilage).</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 
-    <xsd:attribute name="kat" use="optional" default="auszug">
-      <xsd:annotation>
-        <xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: auszug (default), erwähnung,
-          kommentar.</xsd:documentation>
-      </xsd:annotation>
-      <xsd:simpleType>
-        <xsd:restriction base="xsd:string">
-          <xsd:enumeration value="auszug" />
-          <xsd:enumeration value="erwähnung" />
-          <xsd:enumeration value="kommentar" />
-        </xsd:restriction>
-      </xsd:simpleType>
-    </xsd:attribute>
-  </xsd:complexType>
+		<xsd:attribute name="kat" use="optional" default="auszug">
+			<xsd:annotation>
+				<xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: auszug (default), erwähnung,
+					kommentar.</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="auszug" />
+					<xsd:enumeration value="erwähnung" />
+					<xsd:enumeration value="kommentar" />
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:complexType>
 
-  <xsd:complexType name="beitragref">
-    <xsd:annotation>
-      <xsd:documentation>Bezieht sich auf einen Beitrag und qualifiziert diese Beziehung. </xsd:documentation>
-    </xsd:annotation>
-    <xsd:complexContent>
-      <xsd:extension base="kgpz:ref">
-        <xsd:attribute name="kat" use="required">
-          <xsd:annotation>
-            <xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: erwähnung, kommentar.</xsd:documentation>
-          </xsd:annotation>
-          <xsd:simpleType>
-            <xsd:restriction base="xsd:string">
-              <xsd:enumeration value="erwähnung" />
-              <xsd:enumeration value="kommentar" />
-              <xsd:enumeration value="replik" />
-              <xsd:enumeration value="nachtrag" />
-            </xsd:restriction>
-          </xsd:simpleType>
-        </xsd:attribute>
-        <xsd:attribute name="s" use="optional" type="kgpz:NonEmptyString">
-          <xsd:annotation>
-            <xsd:documentation>Angabe zu Seite oder Stelle innerhalb eines Beitrages.</xsd:documentation>
-          </xsd:annotation>
-        </xsd:attribute>
-      </xsd:extension>
-    </xsd:complexContent>
-  </xsd:complexType>
+	<xsd:complexType name="beitragref">
+		<xsd:annotation>
+			<xsd:documentation>Bezieht sich auf einen Beitrag und qualifiziert diese Beziehung. </xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexContent>
+			<xsd:extension base="kgpz:ref">
+				<xsd:attribute name="kat" use="required">
+					<xsd:annotation>
+						<xsd:documentation>Die Art der Beziehung zum Beitrag. Werte: erwähnung, kommentar.</xsd:documentation>
+					</xsd:annotation>
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:enumeration value="erwähnung" />
+							<xsd:enumeration value="kommentar" />
+							<xsd:enumeration value="replik" />
+							<xsd:enumeration value="nachtrag" />
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:attribute>
+				<xsd:attribute name="s" use="optional" type="kgpz:NonEmptyString">
+					<xsd:annotation>
+						<xsd:documentation>Angabe zu Seite oder Stelle innerhalb eines Beitrages.</xsd:documentation>
+					</xsd:annotation>
+				</xsd:attribute>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
 
-  <xsd:complexType name="werkref">
-    <xsd:annotation>
-      <xsd:documentation> Bezieht sich auf ein Werk und qualifiziert diese Beziehung. </xsd:documentation>
-    </xsd:annotation>
-    <xsd:complexContent>
-      <xsd:extension base="kgpz:ref">
-        <xsd:attribute name="kat" use="required">
-          <xsd:annotation>
-            <xsd:documentation> Die Art der Beziehung zum Werk. Werte: rezension, auszug, kommentar,
-              erwähnung, anzeige, provinienz.</xsd:documentation>
-          </xsd:annotation>
-          <xsd:simpleType>
-            <xsd:restriction base="xsd:string">
-              <xsd:enumeration value="theaterkritik" />
-              <xsd:enumeration value="erwähnung" />
-              <xsd:enumeration value="rezension" />
-              <xsd:enumeration value="auszug" />
-              <xsd:enumeration value="kommentar" />
-              <xsd:enumeration value="replik" />
-              <xsd:enumeration value="anzeige" />
-              <xsd:enumeration value="provinienz" />
-              <xsd:enumeration value="uebersetzung" />
-            </xsd:restriction>
-          </xsd:simpleType>
-        </xsd:attribute>
-        <xsd:attribute name="s" use="optional" type="kgpz:NonEmptyString">
-          <xsd:annotation>
-            <xsd:documentation>Angabe zu Seite oder Stelle innerhalb eines Werkes.</xsd:documentation>
-          </xsd:annotation>
-        </xsd:attribute>
-      </xsd:extension>
-    </xsd:complexContent>
-  </xsd:complexType>
+	<xsd:complexType name="werkref">
+		<xsd:annotation>
+			<xsd:documentation> Bezieht sich auf ein Werk und qualifiziert diese Beziehung. </xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexContent>
+			<xsd:extension base="kgpz:ref">
+				<xsd:attribute name="kat" use="required">
+					<xsd:annotation>
+						<xsd:documentation> Die Art der Beziehung zum Werk. Werte: rezension, auszug, kommentar,
+							erwähnung, anzeige, provinienz.</xsd:documentation>
+					</xsd:annotation>
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:enumeration value="theaterkritik" />
+							<xsd:enumeration value="erwähnung" />
+							<xsd:enumeration value="rezension" />
+							<xsd:enumeration value="auszug" />
+							<xsd:enumeration value="kommentar" />
+							<xsd:enumeration value="replik" />
+							<xsd:enumeration value="anzeige" />
+							<xsd:enumeration value="provinienz" />
+							<xsd:enumeration value="uebersetzung" />
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:attribute>
+				<xsd:attribute name="s" use="optional" type="kgpz:NonEmptyString">
+					<xsd:annotation>
+						<xsd:documentation>Angabe zu Seite oder Stelle innerhalb eines Werkes.</xsd:documentation>
+					</xsd:annotation>
+				</xsd:attribute>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
 
-  <xsd:complexType name="akteurref">
-    <xsd:annotation>
-      <xsd:documentation> Bezieht sich auf einen Akteur und qualifiziert diese Beziehung. </xsd:documentation>
-    </xsd:annotation>
-    <xsd:complexContent>
-      <xsd:extension base="kgpz:ref">
-        <xsd:attribute name="kat" use="optional" default="autor">
-          <xsd:annotation>
-            <xsd:documentation> Die Art der Beziehung zum Akteur. Werte: erwähnung, autor,
-              herausgeber, verleger, drucker, vertrieb, nachruf. </xsd:documentation>
-          </xsd:annotation>
-          <xsd:simpleType>
-            <xsd:restriction base="xsd:string">
-              <xsd:enumeration value="autor" />
-              <xsd:enumeration value="herausgeber" />
-              <xsd:enumeration value="übersetzer" />
-              <xsd:enumeration value="verleger" />
-              <xsd:enumeration value="drucker" />
-              <xsd:enumeration value="vertrieb" />
-              <xsd:enumeration value="erwähnung" />
-              <xsd:enumeration value="nachruf" />
-            </xsd:restriction>
-          </xsd:simpleType>
-        </xsd:attribute>
-      </xsd:extension>
-    </xsd:complexContent>
-  </xsd:complexType>
+	<xsd:complexType name="akteurref">
+		<xsd:annotation>
+			<xsd:documentation> Bezieht sich auf einen Akteur und qualifiziert diese Beziehung. </xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexContent>
+			<xsd:extension base="kgpz:ref">
+				<xsd:attribute name="kat" use="optional" default="autor">
+					<xsd:annotation>
+						<xsd:documentation> Die Art der Beziehung zum Akteur. Werte: erwähnung, autor,
+							herausgeber, verleger, drucker, vertrieb, nachruf. </xsd:documentation>
+					</xsd:annotation>
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:enumeration value="autor" />
+							<xsd:enumeration value="herausgeber" />
+							<xsd:enumeration value="übersetzer" />
+							<xsd:enumeration value="verleger" />
+							<xsd:enumeration value="drucker" />
+							<xsd:enumeration value="vertrieb" />
+							<xsd:enumeration value="erwähnung" />
+							<xsd:enumeration value="nachruf" />
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:attribute>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
 
-  <xsd:complexType name="ortref">
-    <xsd:annotation>
-      <xsd:documentation> Bezieht sich auf einen Ort und qualifiziert diese Beziehung. </xsd:documentation>
-    </xsd:annotation>
-    <xsd:complexContent>
-      <xsd:extension base="kgpz:ref">
-        <xsd:attribute name="kat" use="optional" default="entstehungsort">
-          <xsd:annotation>
-            <xsd:documentation> Die Art der Beziehung zum Ort. Werte: entstehungsort </xsd:documentation>
-          </xsd:annotation>
-          <xsd:simpleType>
-            <xsd:restriction base="xsd:string">
-              <xsd:enumeration value="entstehungsort" />
-            </xsd:restriction>
-          </xsd:simpleType>
-        </xsd:attribute>
-      </xsd:extension>
-    </xsd:complexContent>
-  </xsd:complexType>
+	<xsd:complexType name="ortref">
+		<xsd:annotation>
+			<xsd:documentation> Bezieht sich auf einen Ort und qualifiziert diese Beziehung. </xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexContent>
+			<xsd:extension base="kgpz:ref">
+				<xsd:attribute name="kat" use="optional" default="entstehungsort">
+					<xsd:annotation>
+						<xsd:documentation> Die Art der Beziehung zum Ort. Werte: entstehungsort </xsd:documentation>
+					</xsd:annotation>
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:enumeration value="entstehungsort" />
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:attribute>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
 
-  <xsd:complexType name="wwwlink">
-    <xsd:annotation>
-      <xsd:documentation>Link ins Internet</xsd:documentation>
-    </xsd:annotation>
-    <xsd:complexContent>
-      <xsd:extension base="text">
-        <xsd:attribute name="address" use="required" type="xsd:anyURI">
-          <xsd:annotation>
-            <xsd:documentation>URL des Links</xsd:documentation>
-          </xsd:annotation>
-        </xsd:attribute>
-      </xsd:extension>
-    </xsd:complexContent>
-  </xsd:complexType>
+	<xsd:complexType name="wwwlink">
+		<xsd:annotation>
+			<xsd:documentation>Link ins Internet</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexContent>
+			<xsd:extension base="text">
+				<xsd:attribute name="address" use="required" type="xsd:anyURI">
+					<xsd:annotation>
+						<xsd:documentation>URL des Links</xsd:documentation>
+					</xsd:annotation>
+				</xsd:attribute>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
 
-  <xsd:complexType name="year">
-    <xsd:annotation>
-      <xsd:documentation>Jahresangabe</xsd:documentation>
-    </xsd:annotation>
-    <xsd:complexContent>
-      <xsd:extension base="text">
-      </xsd:extension>
-    </xsd:complexContent>
-  </xsd:complexType>
+	<xsd:complexType name="year">
+		<xsd:annotation>
+			<xsd:documentation>Jahresangabe</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexContent>
+			<xsd:extension base="text">
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
 
-  <xsd:complexType name="title">
-    <xsd:annotation>
-      <xsd:documentation>Titel</xsd:documentation>
-    </xsd:annotation>
-    <xsd:complexContent>
-      <xsd:extension base="text">
-      </xsd:extension>
-    </xsd:complexContent>
-  </xsd:complexType>
+	<xsd:complexType name="title">
+		<xsd:annotation>
+			<xsd:documentation>Titel</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexContent>
+			<xsd:extension base="text">
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
 
 
-  <xsd:complexType name="text" mixed="true">
-    <xsd:annotation>
-      <xsd:documentation>Elemente und Attribute zur Textauszeichnung im Volltext</xsd:documentation>
-    </xsd:annotation>
-    <xsd:choice maxOccurs="unbounded" minOccurs="0">
-      <xsd:element name="wwwlink" type="kgpz:wwwlink" />
-      <xsd:element name="year" type="kgpz:year" />
-      <xsd:element name="title" type="kgpz:title" />
-    </xsd:choice>
-  </xsd:complexType>
+	<xsd:complexType name="text" mixed="true">
+		<xsd:annotation>
+			<xsd:documentation>Elemente und Attribute zur Textauszeichnung im Volltext</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice maxOccurs="unbounded" minOccurs="0">
+			<xsd:element name="wwwlink" type="kgpz:wwwlink" />
+			<xsd:element name="year" type="kgpz:year" />
+			<xsd:element name="title" type="kgpz:title" />
+		</xsd:choice>
+	</xsd:complexType>
 
-  <!-- This section is almost exactly as in TEI -->
-  <xsd:attributeGroup name="dateattributes">
-    <xsd:attributeGroup ref="kgpz:when" />
-    <xsd:attributeGroup ref="kgpz:notBefore" />
-    <xsd:attributeGroup ref="kgpz:notAfter" />
-    <xsd:attributeGroup ref="kgpz:from" />
-    <xsd:attributeGroup ref="kgpz:to" />
-  </xsd:attributeGroup>
+	<!-- This section is almost exactly as in TEI -->
+	<xsd:attributeGroup name="dateattributes">
+		<xsd:attributeGroup ref="kgpz:when" />
+		<xsd:attributeGroup ref="kgpz:notBefore" />
+		<xsd:attributeGroup ref="kgpz:notAfter" />
+		<xsd:attributeGroup ref="kgpz:from" />
+		<xsd:attributeGroup ref="kgpz:to" />
+	</xsd:attributeGroup>
 
-  <xsd:complexType name="date">
-    <xsd:annotation>
-      <xsd:documentation>(date) contains a date in any format.</xsd:documentation>
-    </xsd:annotation>
-    <xsd:attributeGroup ref="kgpz:dateattributes" />
-  </xsd:complexType>
+	<xsd:complexType name="date">
+		<xsd:annotation>
+			<xsd:documentation>(date) contains a date in any format.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:attributeGroup ref="kgpz:dateattributes" />
+	</xsd:complexType>
 
-  <xsd:attributeGroup name="when">
-    <xsd:attribute name="when">
-      <xsd:annotation>
-        <xsd:documentation>supplies the value of the date or time in a standard form, e.g.
-          yyyy-mm-dd.</xsd:documentation>
-      </xsd:annotation>
-      <xsd:simpleType>
-        <xsd:union
-          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
-      </xsd:simpleType>
-    </xsd:attribute>
-  </xsd:attributeGroup>
-  <xsd:attributeGroup name="notBefore">
-    <xsd:attribute name="notBefore">
-      <xsd:annotation>
-        <xsd:documentation>specifies the earliest possible date for the event in standard form, e.g.
-          yyyy-mm-dd.</xsd:documentation>
-      </xsd:annotation>
-      <xsd:simpleType>
-        <xsd:union
-          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
-      </xsd:simpleType>
-    </xsd:attribute>
-  </xsd:attributeGroup>
-  <xsd:attributeGroup name="notAfter">
-    <xsd:attribute name="notAfter">
-      <xsd:annotation>
-        <xsd:documentation>specifies the latest possible date for the event in standard form, e.g.
-          yyyy-mm-dd.</xsd:documentation>
-      </xsd:annotation>
-      <xsd:simpleType>
-        <xsd:union
-          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
-      </xsd:simpleType>
-    </xsd:attribute>
-  </xsd:attributeGroup>
-  <xsd:attributeGroup name="from">
-    <xsd:attribute name="from">
-      <xsd:annotation>
-        <xsd:documentation>indicates the starting point of the period in standard form, e.g.
-          yyyy-mm-dd.</xsd:documentation>
-      </xsd:annotation>
-      <xsd:simpleType>
-        <xsd:union
-          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
-      </xsd:simpleType>
-    </xsd:attribute>
-  </xsd:attributeGroup>
-  <xsd:attributeGroup name="to">
-    <xsd:attribute name="to">
-      <xsd:annotation>
-        <xsd:documentation>indicates the ending point of the period in standard form, e.g.
-          yyyy-mm-dd.</xsd:documentation>
-      </xsd:annotation>
-      <xsd:simpleType>
-        <xsd:union
-          memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
-      </xsd:simpleType>
-    </xsd:attribute>
-  </xsd:attributeGroup>
+	<xsd:attributeGroup name="when">
+		<xsd:attribute name="when">
+			<xsd:annotation>
+				<xsd:documentation>supplies the value of the date or time in a standard form, e.g.
+					yyyy-mm-dd.</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:union
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+	<xsd:attributeGroup name="notBefore">
+		<xsd:attribute name="notBefore">
+			<xsd:annotation>
+				<xsd:documentation>specifies the earliest possible date for the event in standard form, e.g.
+					yyyy-mm-dd.</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:union
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+	<xsd:attributeGroup name="notAfter">
+		<xsd:attribute name="notAfter">
+			<xsd:annotation>
+				<xsd:documentation>specifies the latest possible date for the event in standard form, e.g.
+					yyyy-mm-dd.</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:union
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+	<xsd:attributeGroup name="from">
+		<xsd:attribute name="from">
+			<xsd:annotation>
+				<xsd:documentation>indicates the starting point of the period in standard form, e.g.
+					yyyy-mm-dd.</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:union
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+	<xsd:attributeGroup name="to">
+		<xsd:attribute name="to">
+			<xsd:annotation>
+				<xsd:documentation>indicates the ending point of the period in standard form, e.g.
+					yyyy-mm-dd.</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:union
+					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
 </xsd:schema>
