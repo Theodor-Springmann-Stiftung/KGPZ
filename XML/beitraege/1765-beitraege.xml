@@ -8,9 +8,9 @@
         Es kann mehrere Kategorien geben
 
         ALLGEMEINE METADATEN
-        <stueck datum="1752" nr="23" von="2" bis="3"/>
-        <stueck datum="1799" nr="12" von="5"/>
-        <beilage datum="1752" nr="23" beilage="1"/>
+        <stueck when="1752" nr="23" von="2" bis="3"/>
+        <stueck when="1799" nr="12" von="5"/>
+        <beilage when="1752" nr="23" beilage="1"/>
         <kategorie ref="kategorie"/>
         <kategorie ref="kategorie2"/>
 
@@ -34,636 +34,636 @@
     <!-- Jahrgang 1765 -->
     <!-- 01 -->
     <beitrag>
-        <stueck datum="1765" nr="1" von="1" bis="2"/>
-		<stueck datum="1765" nr="2" von="5" bis="6"/>
+        <stueck when="1765" nr="1" von="1" bis="2"/>
+		<stueck when="1765" nr="2" von="5" bis="6"/>
         <kategorie ref="aufsatz"/>
         <incipit>Unsere Leser werden nichts weniger als statt der gewöhnlichen Wünsche …</incipit>
         <anmerkung>An die Leser anstatt eines Neujahrswunsches</anmerkung>
     </beitrag>
     <beitrag id="rez-toellner-gruende">
-        <stueck datum="1765" nr="1" von="2" bis="3"/>
-        <stueck datum="1765" nr="2" von="5" bis="6"/>
+        <stueck when="1765" nr="1" von="2" bis="3"/>
+        <stueck when="1765" nr="2" von="5" bis="6"/>
         <werk ref="toellner-gruende" kat="rezension"/>
         <ort ref="leipzig"/>
         <ort ref="zuellichau"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="1" von="3" bis="4"/>
+        <stueck when="1765" nr="1" von="3" bis="4"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="1" von="4"/>
+        <stueck when="1765" nr="1" von="4"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 02 -->
     <beitrag>
-        <stueck datum="1765" nr="2" von="6" bis="7"/>
+        <stueck when="1765" nr="2" von="6" bis="7"/>
         <werk ref="nicolai-literaturbriefe" s="Teil 19" kat="rezension"/>
         <ort ref="berlin"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="2" von="7" bis="8"/>
+        <stueck when="1765" nr="2" von="7" bis="8"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="2" von="8"/>
+        <stueck when="1765" nr="2" von="8"/>
         <kategorie ref="lokalnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="2" von="8"/>
+        <stueck when="1765" nr="2" von="8"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
     <!-- 03 -->
     <beitrag>
-        <stueck datum="1765" nr="3" von="9" bis="11"/>
+        <stueck when="1765" nr="3" von="9" bis="11"/>
         <kategorie ref="brief"/>
         <titel>Schreiben eines englischen jungen Geistlichen an einen deutschen Gelehrten. Aus dem Englischen übersetzt. London, den 9. März, 1764.</titel>
         <anmerkung>Unterzeichnet „N. N.“</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="3" von="11" bis="12"/>
+        <stueck when="1765" nr="3" von="11" bis="12"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="3" von="12"/>
+        <stueck when="1765" nr="3" von="12"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="3" von="12"/>
+        <stueck when="1765" nr="3" von="12"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 04 -->
      <beitrag>
-        <stueck datum="1765" nr="4" von="13" bis="14"/>
+        <stueck when="1765" nr="4" von="13" bis="14"/>
         <werk ref="semler-beweisstellen" kat="rezension"/>
         <ort ref="halle"/>
      </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="4" von="14"/>
+        <stueck when="1765" nr="4" von="14"/>
         <werk ref="jacobi-abhandlungen" kat="rezension"/>
         <ort ref="hannover"/>
      </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="4" von="14"/>
+        <stueck when="1765" nr="4" von="14"/>
         <werk ref="moser-schriften" kat="rezension"/>
         <ort ref="frankfurt"></ort>
      </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="4" von="14" bis="15"/>
+        <stueck when="1765" nr="4" von="14" bis="15"/>
         <werk ref="mortimer-plutarch" kat="rezension" s="Bd. 1" />
         <ort ref="leipzig"/>
         <ort ref="zuellichau"></ort>
      </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="4" von="15"/>
+        <stueck when="1765" nr="4" von="15"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <ort ref="neuchatel"/>
         <anmerkung>Ankündigung der Werke Rousseaus</anmerkung>
      </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="4" von="15"/>
+        <stueck when="1765" nr="4" von="15"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>Ankündigung einer neuen Karte des Herzogtums Mecklenburg u.a.</anmerkung>
      </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="4" von="15" bis="16"/>
+        <stueck when="1765" nr="4" von="15" bis="16"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck datum="1765" nr="4" von="16"/>
+       <stueck when="1765" nr="4" von="16"/>
        <kategorie ref="lokalnachrichten"/>
        <akteur ref="goldbach-c" kat="nachruf" />
    </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="4" von="16"/>
+        <stueck when="1765" nr="4" von="16"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
     <!-- 05 -->
     <beitrag>
-        <stueck datum="1765" nr="5" von="17" bis="19"/>
-        <stueck datum="1765" nr="6" von="21" bis="23"/>
+        <stueck when="1765" nr="5" von="17" bis="19"/>
+        <stueck when="1765" nr="6" von="21" bis="23"/>
         <kategorie ref="aufsatz"/>
         <titel>Ob man aus der Vernunft die Verbesserung der Zeiten vermuthen könne.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="5" von="19" bis="20"/>
+        <stueck when="1765" nr="5" von="19" bis="20"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="5" von="20"/>
+        <stueck when="1765" nr="5" von="20"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="5" von="20"/>
+        <stueck when="1765" nr="5" von="20"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 06 -->
     <beitrag>
-        <stueck datum="1765" nr="6" von="23" bis="24"/>
+        <stueck when="1765" nr="6" von="23" bis="24"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="6" von="24"/>
+        <stueck when="1765" nr="6" von="24"/>
         <kategorie ref="lokalnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="6" von="24"/>
+        <stueck when="1765" nr="6" von="24"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
     <!-- 07 -->
     <beitrag>
-        <stueck datum="1765" nr="7" von="25" bis="26"/>
+        <stueck when="1765" nr="7" von="25" bis="26"/>
         <kategorie ref="panegyrik"/>
         <titel>Ode am Geburtstage des Königs, von T. G. Hippel.</titel>
         <akteur ref="hippel"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="7" von="26" bis="27"/>
+        <stueck when="1765" nr="7" von="26" bis="27"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <kategorie ref="lokalnachrichten"></kategorie>
         <anmerkung>Nachricht über die Feiern der Königsberger Akademie anlässlich des Krönungsjubiläums Friedrichs I. und des Geburtstages Friedrichs II.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="7" von="28"/>
+        <stueck when="1765" nr="7" von="28"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="7" von="28"/>
+        <stueck when="1765" nr="7" von="28"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 08 -->
     <beitrag>
-        <stueck datum="1765" nr="8" von="29" bis="30"/>
+        <stueck when="1765" nr="8" von="29" bis="30"/>
         <werk ref="bremisches-magazin07" kat="rezension"/>
         <ort ref="bremen"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="8" von="30"/>
+        <stueck when="1765" nr="8" von="30"/>
         <werk ref="lange-sendschreiben" kat="rezension"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="8" von="30" bis="31"/>
+        <stueck when="1765" nr="8" von="30" bis="31"/>
         <werk ref="juengerer-eulenspiegel" kat="rezension"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="8" von="31" bis="32"/>
+        <stueck when="1765" nr="8" von="31" bis="32"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="8" von="32"/>
+        <stueck when="1765" nr="8" von="32"/>
         <kategorie ref="lokalnachrichten"></kategorie>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="8" von="32"/>
+        <stueck when="1765" nr="8" von="32"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="8" von="32"/>
+        <stueck when="1765" nr="8" von="32"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
 
     <!-- 09 -->
     <beitrag>
-        <stueck datum="1765" nr="9" von="33"/>
+        <stueck when="1765" nr="9" von="33"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <ort ref="kgsb"/>
         <anmerkung>Doktorpromotionen an der medizinischen Fakultät der Albertina</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="9" von="33" bis="34"/>
+        <stueck when="1765" nr="9" von="33" bis="34"/>
         <werk ref="bianconi-zehn-sendschreiben" kat="rezension"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="9" von="34" bis="35"/>
-        <stueck datum="1765" nr="10" von="38" bis="39"/>
-        <stueck datum="1765" nr="11" von="41" bis="43"/>
+        <stueck when="1765" nr="9" von="34" bis="35"/>
+        <stueck when="1765" nr="10" von="38" bis="39"/>
+        <stueck when="1765" nr="11" von="41" bis="43"/>
         <kategorie ref="erzaehlung"/>
         <titel>Der unglückliche Menschenfreund.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="9" von="35" bis="36"/>
+        <stueck when="1765" nr="9" von="35" bis="36"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="9" von="36"/>
+        <stueck when="1765" nr="9" von="36"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 10 -->
     <beitrag>
-        <stueck datum="1765" nr="10" von="37" bis="38"/>
+        <stueck when="1765" nr="10" von="37" bis="38"/>
         <werk ref="bahrdt-sammlung-kanzelreden" kat="rezension"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="10" von="38"/>
+        <stueck when="1765" nr="10" von="38"/>
         <werk ref="wilhelmi-versuch-hohelied" kat="rezension"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="10" von="39" bis="40"/>
+        <stueck when="1765" nr="10" von="39" bis="40"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
 
     <!-- 11 -->
     <beitrag>
-        <stueck datum="1765" nr="11" von="41"/>
+        <stueck when="1765" nr="11" von="41"/>
         <werk ref="fielding-lissabon" kat="rezension"/>
         <ort ref="altona"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="11" von="43" bis="44"/>
+        <stueck when="1765" nr="11" von="43" bis="44"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="11" von="44"/>
+        <stueck when="1765" nr="11" von="44"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 12 -->
     <beitrag>
-        <stueck datum="1765" nr="12" von="45"/>
+        <stueck when="1765" nr="12" von="45"/>
         <werk ref="liebenswuerdiger-mensch" kat="rezension"/>
         <ort ref="magdeburg"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="12" von="46"/>
+        <stueck when="1765" nr="12" von="46"/>
         <kategorie ref="gedicht"/>
         <titel>Begeisterung für die Wahrheit.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="12" von="46" bis="48"/>
+        <stueck when="1765" nr="12" von="46" bis="48"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
 
     <!-- 13 -->
     <beitrag>
-        <stueck datum="1765" nr="13" von="49"/>
+        <stueck when="1765" nr="13" von="49"/>
         <werk ref="schmidt-religion" kat="rezension"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="13" von="49" bis="50"/>
+        <stueck when="1765" nr="13" von="49" bis="50"/>
         <werk ref="eller-abhandlungen" kat="rezension"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="13" von="51" bis="52"/>
+        <stueck when="1765" nr="13" von="51" bis="52"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="13" von="52"/>
+        <stueck when="1765" nr="13" von="52"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="13" von="52"/>
+        <stueck when="1765" nr="13" von="52"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 14 -->
     <beitrag>
-        <stueck datum="1765" nr="14" von="53" bis="54"/>
+        <stueck when="1765" nr="14" von="53" bis="54"/>
         <werk ref="damm-testament" kat="rezension"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="14" von="54" bis="55"/>
+        <stueck when="1765" nr="14" von="54" bis="55"/>
         <werk ref="schoenfeldt-anweisung" kat="rezension"/>
         <ort ref="buetzow"/>
         <ort ref="wismar"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="14" von="55" bis="56"/>
+        <stueck when="1765" nr="14" von="55" bis="56"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="14" von="56"/>
+        <stueck when="1765" nr="14" von="56"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="14" von="56"/>
+        <stueck when="1765" nr="14" von="56"/>
         <kategorie ref="lotterie"/>
     </beitrag>
 
     <!-- 15 -->
     <beitrag>
-        <stueck datum="1765" nr="15" von="57"/>
+        <stueck when="1765" nr="15" von="57"/>
         <werk ref="stoelzel-mann" kat="rezension"/>
         <ort ref="gotha"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="15" von="57" bis="59"/>
+        <stueck when="1765" nr="15" von="57" bis="59"/>
         <werk ref="cramer-predigten04" kat="rezension"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="15" von="59" bis="60"/>
+        <stueck when="1765" nr="15" von="59" bis="60"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="15" von="60"/>
+        <stueck when="1765" nr="15" von="60"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 16 -->
     <beitrag>
-        <stueck datum="1765" nr="16" von="61" bis="62"/>
+        <stueck when="1765" nr="16" von="61" bis="62"/>
         <werk ref="beaumont-unterweisungen" kat="rezension"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="16" von="62"/>
+        <stueck when="1765" nr="16" von="62"/>
         <werk ref="stoelzel-sammlung" kat="rezension"/>
         <ort ref="gotha"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="16" von="62" bis="63"/>
+        <stueck when="1765" nr="16" von="62" bis="63"/>
         <werk ref="faesi-abhandlungen" kat="rezension"/>
         <ort ref="zuerich"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="16" von="63" bis="64"/>
+        <stueck when="1765" nr="16" von="63" bis="64"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="16" von="64"/>
+        <stueck when="1765" nr="16" von="64"/>
         <kategorie ref="buecher"/>
     </beitrag>
     
     <!-- 17 -->
     <beitrag>
-        <stueck datum="1765" nr="17" von="65" bis="66"/>
+        <stueck when="1765" nr="17" von="65" bis="66"/>
         <werk ref="hallische-anzeigen34-1" kat="rezension"/>
         <ort ref="halle"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="17" von="66"/>
+        <stueck when="1765" nr="17" von="66"/>
         <werk ref="voltaire-contes" kat="rezension"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="17" von="66"/>
+        <stueck when="1765" nr="17" von="66"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <ort ref="kgsb"></ort>
         <anmerkung>Disputation D. Brauns als Prof. Juris Ordinarius quartus</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="17" von="67" bis="68"/>
+        <stueck when="1765" nr="17" von="67" bis="68"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="17" von="68"/>
+        <stueck when="1765" nr="17" von="68"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
         
     <!-- 18 -->
     <beitrag>
-        <stueck datum="1765" nr="18" von="69" bis="70"/>
+        <stueck when="1765" nr="18" von="69" bis="70"/>
         <werk ref="trescho-beurtheilung" kat="rezension"/>
         <ort ref="frankfurt"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="18" von="70"/>
+        <stueck when="1765" nr="18" von="70"/>
         <werk ref="zueckert-arzneygelahrtheit" kat="rezension"/>
         <ort ref="berlin"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="18" von="71" bis="72"/>
+        <stueck when="1765" nr="18" von="71" bis="72"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
 
     <!-- 19 -->
     <beitrag>
-        <stueck datum="1765" nr="19" von="73" bis="74"/>
+        <stueck when="1765" nr="19" von="73" bis="74"/>
         <kategorie ref="aufsatz"/>
         <titel>Über eine gefährliche Art der Medisance.</titel>
         <akteur ref="kanter"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="19" von="74" bis="75"/>
+        <stueck when="1765" nr="19" von="74" bis="75"/>
         <werk ref="bieler-kunst" kat="rezension"/>
         <ort ref="dresden"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="19" von="75" bis="76"/>
+        <stueck when="1765" nr="19" von="75" bis="76"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="19" von="76"/>
+        <stueck when="1765" nr="19" von="76"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="19" von="76"/>
+        <stueck when="1765" nr="19" von="76"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 20 -->
     <beitrag id="faulheit-haeuslichkeit">
-        <stueck datum="1765" nr="20" von="77" bis="78"/>
+        <stueck when="1765" nr="20" von="77" bis="78"/>
         <kategorie ref="ineigenersache"/>
         <incipit>Die Geschicklichkeit und das Genie sind nicht immer mit der Neigung verbunden…</incipit>
         <akteur ref="kanter" />
         <anmerkung>Ankündigung für Aufgaben, die in den KGPZ öffentlich gestellt werden; die erste betrifft die Nationalfaulheit und Mittel dagegen, die zweite Arten der Häuslichkeit</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="20" von="78"/>
+        <stueck when="1765" nr="20" von="78"/>
         <werk ref="schreber-schriften" kat="rezension"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="20" von="78"/>
+        <stueck when="1765" nr="20" von="78"/>
         <kategorie ref="gedicht"/>
         <titel>Die Rose</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="20" von="79" bis="80"/>
+        <stueck when="1765" nr="20" von="79" bis="80"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="20" von="80"/>
+        <stueck when="1765" nr="20" von="80"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
     <!-- 21 -->
     <beitrag>
-        <stueck datum="1765" nr="21" von="81" bis="82"/>
+        <stueck when="1765" nr="21" von="81" bis="82"/>
         <werk ref="scheffner-freundschaftliche-poesien" kat="rezension"/>
         <ort ref="berlin"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="21" von="82"/>
+        <stueck when="1765" nr="21" von="82"/>
         <werk ref="schroeckh-abbildungen" s="Bd. 1, Sammlung 1" kat="rezension" />
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="21" von="83" bis="84"/>
+        <stueck when="1765" nr="21" von="83" bis="84"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="21" von="84"/>
+        <stueck when="1765" nr="21" von="84"/>
         <kategorie ref="lokalnachrichten"/>
         <kategorie ref="gelehrte-nachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="21" von="84"/>
+        <stueck when="1765" nr="21" von="84"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 22 -->
     <beitrag>
-        <stueck datum="1765" nr="22" von="85" bis="86"/>
+        <stueck when="1765" nr="22" von="85" bis="86"/>
         <werk ref="nicolai-bibliothek" s="Bd. 11, St. 2" kat="rezension"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="22" von="86"/>
+        <stueck when="1765" nr="22" von="86"/>
         <werk ref="vergnuegte-nebenstunden" kat="rezension"/>
         <ort ref="augsburg"/>
         <ort ref="memmingen"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="22" von="86"/>
+        <stueck when="1765" nr="22" von="86"/>
         <werk ref="pfeffel-allgemeine-bibliothek-schoen-gut" kat="rezension"/>
         <ort ref="frankfurt"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="22" von="86" bis="87"/>
+        <stueck when="1765" nr="22" von="86" bis="87"/>
         <werk ref="sarpius-historie" kat="rezension"/>
         <ort ref="halle"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="22" von="87" bis="88"/>
+        <stueck when="1765" nr="22" von="87" bis="88"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
 
     <!-- 23 -->
     <beitrag>
-        <stueck datum="1765" nr="23" von="89"/>
+        <stueck when="1765" nr="23" von="89"/>
         <werk ref="hahn-lettres" kat="rezension"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="23" von="89" bis="90"/>
+        <stueck when="1765" nr="23" von="89" bis="90"/>
         <werk ref="hippel-mann" kat="rezension"/>
         <akteur ref="lindner-jg">Warda/Diesch II, S. 331</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="23" von="90" bis="91"/>
+        <stueck when="1765" nr="23" von="90" bis="91"/>
         <kategorie ref="gedicht"/>
         <titel>La Rosa. Canzonetta del Signore Abbate Innozenzo Frugoni.</titel>
         <akteur ref="frugoni-ci"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="23" von="91" bis="92"/>
+        <stueck when="1765" nr="23" von="91" bis="92"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="23" von="92"/>
+        <stueck when="1765" nr="23" von="92"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="23" von="92"/>
+        <stueck when="1765" nr="23" von="92"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
     <!-- 24 -->
     <beitrag id="preisaufgabe-rindviehseuche" >
-        <stueck datum="1765" nr="24" von="93"/>
+        <stueck when="1765" nr="24" von="93"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>Preisaufgabe der königlichen Kriegs- und Domainenkammer: Mittel gegen Rindviehseuche.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="24" von="93" bis="95"/>
+        <stueck when="1765" nr="24" von="93" bis="95"/>
         <werk ref="gottsched-nachricht" kat="auszug" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="24" von="95" bis="96"/>
+        <stueck when="1765" nr="24" von="95" bis="96"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="24" von="96"/>
+        <stueck when="1765" nr="24" von="96"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="24" von="96"/>
+        <stueck when="1765" nr="24" von="96"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
         
     <!-- 25 -->
     <beitrag>
-        <stueck datum="1765" nr="25" von="97" bis="98"/>
+        <stueck when="1765" nr="25" von="97" bis="98"/>
         <werk ref="schauplatz-der-welt" kat="rezension" />
         <ort ref="stuttgart"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="25" von="98" bis="99"/>
-        <stueck datum="1765" nr="26" von="102" bis="103"/>
-        <stueck datum="1765" nr="27" von="107"/>
+        <stueck when="1765" nr="25" von="98" bis="99"/>
+        <stueck when="1765" nr="26" von="102" bis="103"/>
+        <stueck when="1765" nr="27" von="107"/>
         <titel>Der Nord-Britte, 45tes Stück.</titel>
         <werk ref="wilkes-north-briton45" kat="uebersetzung" />
         <akteur ref="hamann">Nadler IV, 298–304; vgl. ZH II, 290, 297</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="25" von="99" bis="100"/>
+        <stueck when="1765" nr="25" von="99" bis="100"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="25" von="100"/>
+        <stueck when="1765" nr="25" von="100"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <!-- 26 -->
     <beitrag>
-        <stueck datum="1765" nr="26" von="101" bis="102"/>
+        <stueck when="1765" nr="26" von="101" bis="102"/>
         <werk kat="rezension" ref="blainville-reisebeschreibung" s="Bd. 1, Abt. 2"></werk>
         <ort ref="lemgo"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="26" von="103" bis="104"/>
+        <stueck when="1765" nr="26" von="103" bis="104"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="26" von="104"/>
+        <stueck when="1765" nr="26" von="104"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="26" von="104"/>
+        <stueck when="1765" nr="26" von="104"/>
         <kategorie ref="buecher"/>
         <anmerkung>Angebot von früheren Quartalen der KGPZ im Kanterschen Buchladen</anmerkung>
     </beitrag>
 
     <!-- 27 -->
     <beitrag>
-        <stueck datum="1765" nr="27" von="105" bis="106"/>
+        <stueck when="1765" nr="27" von="105" bis="106"/>
         <kategorie ref="gedicht"/>
         <titel>An die Dornenkrone des Erlösers.</titel>
         <akteur ref="lindner-jg">vgl. ZH II, S. 321</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="27" von="108"/>
+        <stueck when="1765" nr="27" von="108"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="27" von="108"/>
+        <stueck when="1765" nr="27" von="108"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     <beitrag>
-        <beilage datum="1765" nr="27" von="109" />
+        <beilage when="1765" nr="27" von="109" />
         <kategorie ref="ineigenersache"/>
         <incipit>Da heut zu Tage die meiste Recensionen als Disputationen angesehen werden, …</incipit>
         <akteur ref="kanter" />
         <anmerkung>Vorbemerkung zur nachfolgend abgedruckten Replik</anmerkung>
     </beitrag>
     <beitrag>
-        <beilage datum="1765" nr="27" von="1" bis="4"/>
+        <beilage when="1765" nr="27" von="1" bis="4"/>
         <titel>J. G. Töllners Erklärung in Ansehung seiner in der Königsbergschen gelehrten und politischen Zeitung Nro. 1. und 2. angezeigten wahren Gründe, warum GOtt die Offenbarung nicht mit augenscheinlichen Beweisen versehn hat.</titel>
         <beitrag kat="replik" ref="rez-toellner-gruende"/>
         <akteur ref="toellner-jg" />
@@ -673,1185 +673,1185 @@
 
     <!-- 28 -->
     <beitrag>
-        <stueck datum="1765" nr="28" von="113" bis="114"/>
+        <stueck when="1765" nr="28" von="113" bis="114"/>
         <kategorie ref="gedicht"/>
         <titel>Fürbitte für Sterbende. Von Klopstock. Mel. Mitten wir im Leben sind.</titel>
         <werk kat="auszug" ref="klopstock-neue-geistliche-lieder" s="S. 112"></werk>
         <werk kat="anzeige" ref="klopstock-neue-geistliche-lieder"></werk>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="28" von="114" bis="115"/>
+        <stueck when="1765" nr="28" von="114" bis="115"/>
         <werk ref="geschichte-religionsveraenderung" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="28" von="115" bis="116"/>
+        <stueck when="1765" nr="28" von="115" bis="116"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="28" von="116"/>
+        <stueck when="1765" nr="28" von="116"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <!-- 29 -->
     <beitrag>
-        <stueck datum="1765" nr="29" von="117" bis="118"/>
+        <stueck when="1765" nr="29" von="117" bis="118"/>
         <werk ref="atterbury-reden" kat="rezension" />
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="29" von="118"/>
+        <stueck when="1765" nr="29" von="118"/>
         <werk ref="raynal-anekdoten" kat="rezension" />
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="29" von="119" bis="120"/>
+        <stueck when="1765" nr="29" von="119" bis="120"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="29" von="120"/>
+        <stueck when="1765" nr="29" von="120"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
     <!-- 30 -->
     <beitrag>
-        <stueck datum="1765" nr="30" von="121" bis="123"/>
+        <stueck when="1765" nr="30" von="121" bis="123"/>
         <kategorie ref="erzaehlung"/>
         <titel>Görgens glückliche Dummheit. Eine Erzehlung.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="30" von="123"/>
+        <stueck when="1765" nr="30" von="123"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <ort ref="kgsb"/>
         <anmerkung>Ernennung Johann Ludwig L’Estocqs zum Rektor an der Juristen-Facultät der Königsberger Akademie</anmerkung>
      </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="30" von="123" bis="124"/>
+        <stueck when="1765" nr="30" von="123" bis="124"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="30" von="123" bis="124"/>
+        <stueck when="1765" nr="30" von="123" bis="124"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="30" von="124"/>
+        <stueck when="1765" nr="30" von="124"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="30" von="124"/>
+        <stueck when="1765" nr="30" von="124"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="31" von="125" bis="126"/>
+        <stueck when="1765" nr="31" von="125" bis="126"/>
         <werk ref="wulff-flora" kat="rezension" />
         <ort ref="kgsb"/>
         <ort ref="leipzig"/>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="31" von="127" bis="128"/>
+        <stueck when="1765" nr="31" von="127" bis="128"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="31" von="128"/>
+        <stueck when="1765" nr="31" von="128"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="32" von="129" bis="130"/>
+        <stueck when="1765" nr="32" von="129" bis="130"/>
         <werk ref="unterredungen-zwischen-alten-jungen-prediger" kat="rezension" />
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="32" von="130"/>
+        <stueck when="1765" nr="32" von="130"/>
         <werk ref="rechtschaffene-satyrisch" s="Bd. 1" kat="rezension" />
         <ort ref="lindau"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="32" von="130" bis="131"/>
+        <stueck when="1765" nr="32" von="130" bis="131"/>
         <werk ref="maria-geschichte-angesehenes-frauenzimmer" kat="rezension" />
         <ort ref="leipzig"/>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="32" von="131" bis="132"/>
+        <stueck when="1765" nr="32" von="131" bis="132"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="32" von="132"/>
+        <stueck when="1765" nr="32" von="132"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="33" von="133"/>
+        <stueck when="1765" nr="33" von="133"/>
         <kategorie ref="gedicht"/>
         <titel>An die Büchermotten.</titel>
         <akteur ref="wolson-jc">vgl. Joseph Kohnen: Lyrik in Königsberg (Frankfurt am Main u.a. 2000), S. 33</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="33" von="134"/>
+        <stueck when="1765" nr="33" von="134"/>
         <werk ref="mortimer-plutarch" kat="rezension" s="Bd. 2" />
         <ort ref="leipzig"/>
         <ort ref="zuellichau"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="33" von="134"/>
+        <stueck when="1765" nr="33" von="134"/>
         <werk ref="spalding-berlinische-antrittspredigt" kat="rezension" />
         <ort ref="berlin"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="33" von="134" bis="135"/>
+        <stueck when="1765" nr="33" von="134" bis="135"/>
         <werk ref="serena-bürgerliches" kat="rezension" />
         <ort ref="frankfurt"/>
         <ort ref="leipzig"/>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="33" von="135" bis="136"/>
+        <stueck when="1765" nr="33" von="135" bis="136"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="33" von="136"/>
+        <stueck when="1765" nr="33" von="136"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="34" von="137" bis="138"/>
+        <stueck when="1765" nr="34" von="137" bis="138"/>
         <werk ref="winckelmann-nachrichten-herculanisch" kat="rezension" />
         <ort ref="dresden"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="34" von="138"/>
+        <stueck when="1765" nr="34" von="138"/>
         <werk ref="voltaire-frau-recht" kat="rezension" />
         <ort ref="berlin"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="34" von="139"/>
+        <stueck when="1765" nr="34" von="139"/>
         <werk ref="meier-sendschreiben-langen" kat="rezension" />
         <ort ref="halle"/>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="34" von="139" bis="140"/>
+        <stueck when="1765" nr="34" von="139" bis="140"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="34" von="140"/>
+        <stueck when="1765" nr="34" von="140"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="35" von="141"/>
+        <stueck when="1765" nr="35" von="141"/>
         <beitrag ref="ramler-may" kat="kommentar" />   
     </beitrag>
     <beitrag id="ramler-may">
-        <stueck datum="1765" nr="35" von="141" bis="142"/>
+        <stueck when="1765" nr="35" von="141" bis="142"/>
         <kategorie ref="gedicht"/>
         <titel>Der May. Eine musikalische Idylle.</titel>     
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="35" von="142" bis="143"/>
-        <stueck datum="1765" nr="36" von="145" bis="146"/>
+        <stueck when="1765" nr="35" von="142" bis="143"/>
+        <stueck when="1765" nr="36" von="145" bis="146"/>
         <werk ref="meier-philosophische-betrachtungen" kat="rezension"  s="St. 5" />
         <ort ref="halle"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="35" von="143" bis="144"/>
+        <stueck when="1765" nr="35" von="143" bis="144"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="35" von="144"/>
+        <stueck when="1765" nr="35" von="144"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="36" von="145" bis="146"/>
+        <stueck when="1765" nr="36" von="145" bis="146"/>
         <werk ref="wilhelmine-vermaehlte-pedant" kat="rezension" />
         <akteur ref="scheffner"></akteur>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="36" von="147" bis="148"/>
+        <stueck when="1765" nr="36" von="147" bis="148"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="36" von="148"/>
+        <stueck when="1765" nr="36" von="148"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="37" von="149" bis="150"/>
-        <stueck datum="1765" nr="38" von="153" bis="154"/>
+        <stueck when="1765" nr="37" von="149" bis="150"/>
+        <stueck when="1765" nr="38" von="153" bis="154"/>
         <kategorie ref="aufsatz"></kategorie>
         <titel>Vom Verstande zur Gesellschaft.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="37" von="150" bis="151"/>
+        <stueck when="1765" nr="37" von="150" bis="151"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <ort ref="kgsb"></ort>
         <anmerkung>Über die Verteidigung von Daniel Andreas Zernecke</anmerkung>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="37" von="151" bis="152"/>
+        <stueck when="1765" nr="37" von="151" bis="152"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="37" von="152"/>
+        <stueck when="1765" nr="37" von="152"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="38" von="154"/>
+        <stueck when="1765" nr="38" von="154"/>
         <werk ref="braeutigam-ohne-braut-chezill" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="38" von="154" bis="155"/>
+        <stueck when="1765" nr="38" von="154" bis="155"/>
         <werk ref="bernhardi-versuche-singen" kat="rezension" />
         <ort ref="magdeburg"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="38" von="155" bis="156"/>
+        <stueck when="1765" nr="38" von="155" bis="156"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="38" von="156"/>
+        <stueck when="1765" nr="38" von="156"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="39" von="157"/>
+        <stueck when="1765" nr="39" von="157"/>
         <kategorie ref="gedicht"></kategorie>
         <titel>Bey Ueberreichung eines Glases Burgunder.</titel>
         <akteur ref="wolson-jc"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="39" von="158" bis="159"/>
+        <stueck when="1765" nr="39" von="158" bis="159"/>
         <werk ref="bieler-fuenf-vorschlaege" kat="rezension" />
         <ort ref="dresden"></ort>
         <ort ref="leipzig"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="39" von="159" bis="160"/>
+        <stueck when="1765" nr="39" von="159" bis="160"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="39" von="160"/>
+        <stueck when="1765" nr="39" von="160"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="40" von="161" bis="162"/>
+        <stueck when="1765" nr="40" von="161" bis="162"/>
         <kategorie ref="gedicht"></kategorie>
         <titel>Lied an mein Mädchen.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="40" von="162"/>
+        <stueck when="1765" nr="40" von="162"/>
         <werk ref="riccoboni-jenny" kat="rezension" />
         <ort ref="dresden"></ort>
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="40" von="162"/>
+        <stueck when="1765" nr="40" von="162"/>
         <kategorie ref="lokalanzeigen"></kategorie>
         <titel>Nachricht.</titel>
         <anmerkung>Für die Eröffnung einer Leihbibliothek in Königsberg</anmerkung>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="40" von="163" bis="164"/>
+        <stueck when="1765" nr="40" von="163" bis="164"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="40" von="164"/>
+        <stueck when="1765" nr="40" von="164"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="41" von="165" bis="167"/>
+        <stueck when="1765" nr="41" von="165" bis="167"/>
         <werk ref="baumgarten-drontheim" kat="rezension" />
         <ort ref="leipzig"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="41" von="167" bis="168"/>
+        <stueck when="1765" nr="41" von="167" bis="168"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="41" von="168"/>
+        <stueck when="1765" nr="41" von="168"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="42" von="169" bis="170"/>
+        <stueck when="1765" nr="42" von="169" bis="170"/>
         <kategorie ref="aufsatz"/>
         <titel>Eine Anecdote von preußischen Bergwerken.</titel>
         <akteur ref="korthold-hc" unsicher="true"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="42" von="170"/>
+        <stueck when="1765" nr="42" von="170"/>
         <werk ref="willamov-programma" kat="rezension" />
         <ort ref="kgsb"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="42" von="171" bis="172"/>
+        <stueck when="1765" nr="42" von="171" bis="172"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="42" von="172"/>
+        <stueck when="1765" nr="42" von="172"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="43" von="173" bis="174"/>
+        <stueck when="1765" nr="43" von="173" bis="174"/>
         <werk ref="willamov-zwo-oden" kat="rezension" />
         <werk ref="willamov-zwo-oden" kat="auszug" s="S. 5–9" />
         <ort ref="berlin"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="43" von="174" bis="175" />
+        <stueck when="1765" nr="43" von="174" bis="175" />
         <werk ref="spalding-barthische" kat="rezension" />
         <ort ref="berlin"></ort>
         <ort ref="stralsund"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="43" von="175" bis="176"/>
+        <stueck when="1765" nr="43" von="175" bis="176"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="43" von="176"/>
+        <stueck when="1765" nr="43" von="176"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="43" von="176"/>
+        <stueck when="1765" nr="43" von="176"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
     <beitrag>
-        <stueck datum="1765" nr="44" von="177" bis="178"/>
+        <stueck when="1765" nr="44" von="177" bis="178"/>
         <werk ref="bauer-grundrisse" kat="rezension" />
         <ort ref="wolfenbuettel"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="44" von="178" bis="179"/>
+        <stueck when="1765" nr="44" von="178" bis="179"/>
         <werk ref="rosoi-briefe" kat="rezension" />
         <ort ref="wolfenbuettel"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="44" von="179" bis="180"/>
+        <stueck when="1765" nr="44" von="179" bis="180"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="44" von="180"/>
+        <stueck when="1765" nr="44" von="180"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="45" von="181" bis="182"/>
+        <stueck when="1765" nr="45" von="181" bis="182"/>
         <werk ref="schlegel-predigten3" kat="rezension" />
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="45" von="182"/>
+        <stueck when="1765" nr="45" von="182"/>
         <werk ref="boerner-nachrichten3" kat="rezension" />
         <ort ref="wolfenbuettel"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="45" von="182" bis="184"/>
+        <stueck when="1765" nr="45" von="182" bis="184"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="45" von="184"/>
+        <stueck when="1765" nr="45" von="184"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="45" von="184"/>
+        <stueck when="1765" nr="45" von="184"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="46" von="185" bis="186"/>
+        <stueck when="1765" nr="46" von="185" bis="186"/>
         <titel>Eine auf den heute beyzusetzenden Aschenkrug eines würdigen Mitarbeiters dieser Zeitung Herrn Johann Christoph Wolson, willig gefloßene Zähre.</titel>
         <akteur ref="wolson-jc" kat="nachruf" />
         <akteur ref="lauson"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="46" von="186" bis="187"/>
-        <stueck datum="1765" nr="47" von="189" bis="190"/>
+        <stueck when="1765" nr="46" von="186" bis="187"/>
+        <stueck when="1765" nr="47" von="189" bis="190"/>
         <werk ref="damm-briefe" kat="rezension" />
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="46" von="187" bis="188"/>
+        <stueck when="1765" nr="46" von="187" bis="188"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="46" von="188"/>
+        <stueck when="1765" nr="46" von="188"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="46" von="188"/>
+        <stueck when="1765" nr="46" von="188"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="46" von="188"/>
+        <stueck when="1765" nr="46" von="188"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
     <beitrag id="preisaufgabe-rindviehseuche2">
-        <stueck datum="1765" nr="47" von="190" bis="191"/>
+        <stueck when="1765" nr="47" von="190" bis="191"/>
         <kategorie ref="aufsatz"></kategorie>
         <beitrag kat="replik" ref="preisaufgabe-rindviehseuche"></beitrag>
         <ort ref="kgsb"></ort>
         <anmerkung>Aufsatz eines Bauern über die Viehseuche, um die Beantwortung des Preisausschreibens zu erleichtern.</anmerkung>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="47" von="191" bis="192"/>
+        <stueck when="1765" nr="47" von="191" bis="192"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="47" von="192"/>
+        <stueck when="1765" nr="47" von="192"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
     <beitrag>
-        <stueck datum="1765" nr="48" von="193" bis="194"/>
+        <stueck when="1765" nr="48" von="193" bis="194"/>
         <kategorie ref="gedicht"/>
         <titel>An die Natur im Frühling 1765.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="48" von="194"/>
+        <stueck when="1765" nr="48" von="194"/>
         <werk ref="lavater-zweybriefe" kat="rezension" />
         <ort ref="breslau"></ort>
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-    <stueck datum="1765" nr="48" von="194" bis="195"/>
+    <stueck when="1765" nr="48" von="194" bis="195"/>
     <werk ref="breitenbauch-juedische" kat="rezension" />
     <ort ref="altenburg"></ort>
 </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="48" von="195" bis="196"/>
+        <stueck when="1765" nr="48" von="195" bis="196"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="48" von="196"/>
+        <stueck when="1765" nr="48" von="196"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="49" von="197" bis="198"/>
+        <stueck when="1765" nr="49" von="197" bis="198"/>
         <werk ref="miller-vollstaendiger-auszug" kat="rezension" />
         <ort ref="halle"></ort>
         <ort ref="helmstedt"></ort>
     </beitrag>
     <beitrag id="preisaufgabe-rindviehseuche3">
-        <stueck datum="1765" nr="49" von="198" bis="199"/>
-        <stueck datum="1765" nr="50" von="202"/>
-        <stueck datum="1765" nr="51" von="206" bis="207"/>
+        <stueck when="1765" nr="49" von="198" bis="199"/>
+        <stueck when="1765" nr="50" von="202"/>
+        <stueck when="1765" nr="51" von="206" bis="207"/>
         <kategorie ref="aufsatz"></kategorie>
         <titel>Beschreibung eines Graßgeschlechtes, von dem ein Anonymus vermuthet, daß es die Rindviehseuche verursachet.</titel>
         <beitrag kat="replik" ref="preisaufgabe-rindviehseuche2"></beitrag>
         <anmerkung>Gelehrter Zusatz über die Grassorte, die in dem vorherigen Aufsatz unbekannt war.</anmerkung>
     </beitrag>
 <beitrag>
-    <stueck datum="1765" nr="49" von="199"/>
+    <stueck when="1765" nr="49" von="199"/>
     <kategorie ref="gedicht"/>
     <titel>Der Teufel ein Mäcen.</titel>
 </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="49" von="199" bis="200"/>
+        <stueck when="1765" nr="49" von="199" bis="200"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="49" von="200"/>
+        <stueck when="1765" nr="49" von="200"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="49" von="200"/>
+        <stueck when="1765" nr="49" von="200"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="49" von="200"/>
+        <stueck when="1765" nr="49" von="200"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="50" von="201" bis="202"/>
+        <stueck when="1765" nr="50" von="201" bis="202"/>
         <werk ref="hurd-nutzen" kat="rezension" />
         <ort ref="breslau"></ort>
     </beitrag>
          <beitrag>
-            <stueck datum="1765" nr="50" von="203" bis="204"/>
+            <stueck when="1765" nr="50" von="203" bis="204"/>
             <kategorie ref="weltnachrichten"/>
         </beitrag>
         <beitrag>
-            <stueck datum="1765" nr="50" von="204"/>
+            <stueck when="1765" nr="50" von="204"/>
             <kategorie ref="buecher"/>
         </beitrag>
         <beitrag>
-            <stueck datum="1765" nr="50" von="204"/>
+            <stueck when="1765" nr="50" von="204"/>
             <kategorie ref="einkommende-fremde"/>
         </beitrag>
 
         <beitrag>
-            <beilage datum="1765" nr="50" von="1" bis="3"/>
+            <beilage when="1765" nr="50" von="1" bis="3"/>
             <kategorie ref="notenblatt"/>
             <titel>Die männliche Treue.</titel>
         </beitrag>
 
         <beitrag>
-            <stueck datum="1765" nr="51" von="205" bis="206"/>
+            <stueck when="1765" nr="51" von="205" bis="206"/>
             <werk ref="abhandlungen-naturforschende-gesellschaft2" kat="rezension" />
             <ort ref="zuerich"></ort>
         </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="51" von="206"/>
+        <stueck when="1765" nr="51" von="206"/>
         <werk ref="schreber-anweisung-flugsand" kat="rezension" />
         <ort ref="leipzig"></ort>
     </beitrag>
              <beitrag>
-                <stueck datum="1765" nr="51" von="207" bis="208"/>
+                <stueck when="1765" nr="51" von="207" bis="208"/>
                 <kategorie ref="weltnachrichten"/>
             </beitrag>
             <beitrag>
-                <stueck datum="1765" nr="51" von="208"/>
+                <stueck when="1765" nr="51" von="208"/>
                 <kategorie ref="buecher"/>
             </beitrag>
             <beitrag>
-                <stueck datum="1765" nr="51" von="208"/>
+                <stueck when="1765" nr="51" von="208"/>
                 <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="52" von="209" bis="210"/>
+        <stueck when="1765" nr="52" von="209" bis="210"/>
         <kategorie ref="ineigenersache"></kategorie>
         <titel>Nachricht an die Leser dieser Zeitung</titel>
         <anmerkung>Über ungebetenes Erraten der Autoren der gelehrten Artikel.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="52" von="210" bis="211"/>
-        <stueck datum="1765" nr="53" von="214" bis="215"/>
+        <stueck when="1765" nr="52" von="210" bis="211"/>
+        <stueck when="1765" nr="53" von="214" bis="215"/>
         <werk ref="willamovius-dialogische-fabeln" kat="rezension" />
         <ort ref="berlin"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="52" von="211" bis="212"/>
+        <stueck when="1765" nr="52" von="211" bis="212"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck datum="1765" nr="52" von="212"/>
+       <stueck when="1765" nr="52" von="212"/>
        <kategorie ref="buecher"/>
    </beitrag>
    <beitrag>
-      <stueck datum="1765" nr="52" von="212"/>
+      <stueck when="1765" nr="52" von="212"/>
       <kategorie ref="lokalanzeigen"/>
   </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="52" von="212"/>
+        <stueck when="1765" nr="52" von="212"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="53" von="213" bis="214"/>
+        <stueck when="1765" nr="53" von="213" bis="214"/>
         <werk ref="prevost-tableau" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="53" von="214"/>
+        <stueck when="1765" nr="53" von="214"/>
         <werk ref="jacobi-messkunst" kat="rezension" />
         <ort ref="gotha"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="53" von="215" bis="216"/>
+        <stueck when="1765" nr="53" von="215" bis="216"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck datum="1765" nr="53" von="216"/>
+       <stueck when="1765" nr="53" von="216"/>
        <kategorie ref="buecher"/>
    </beitrag>
    <beitrag>
-      <stueck datum="1765" nr="53" von="216"/>
+      <stueck when="1765" nr="53" von="216"/>
       <kategorie ref="lokalanzeigen"/>
   </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="53" von="216"/>
+        <stueck when="1765" nr="53" von="216"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
     <beitrag>
-        <stueck datum="1765" nr="54" von="217" bis="219"/>
-        <stueck datum="1765" nr="55" von="222"/>
+        <stueck when="1765" nr="54" von="217" bis="219"/>
+        <stueck when="1765" nr="55" von="222"/>
         <werk kat="rezension" ref="goldhagen-patzke-tacitus" s="Bd. 1–2"></werk>
         <ort ref="magdeburg"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="54" von="219" bis="220"/>
+        <stueck when="1765" nr="54" von="219" bis="220"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="54" von="220"/>
+        <stueck when="1765" nr="54" von="220"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="55" von="221" bis="222"/>
+        <stueck when="1765" nr="55" von="221" bis="222"/>
         <kategorie ref="gedicht"/>
         <incipit>Der Liebe Pfeil im Herzen…</incipit>
         <anmerkung>Überschrieben „Nach Richterscher Melodey.“</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="55" von="222" bis="223"/>
-        <stueck datum="1765" nr="56" von="225"/>
+        <stueck when="1765" nr="55" von="222" bis="223"/>
+        <stueck when="1765" nr="56" von="225"/>
         <werk ref="schubert-unsterblichkeit" kat="rezension" />
     </beitrag>
     <beitrag>
-       <stueck datum="1765" nr="55" von="223"/>
+       <stueck when="1765" nr="55" von="223"/>
        <kategorie ref="gelehrte-nachrichten"/>
        <ort ref="kgsb"></ort>
        <anmerkung>Über Johann Gotthelf Linders Antritt seiner Professur für Dichtkunst und seine Inaugural-Disputation.</anmerkung>
    </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="55" von="223" bis="224"/>
+        <stueck when="1765" nr="55" von="223" bis="224"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck datum="1765" nr="55" von="224"/>
+       <stueck when="1765" nr="55" von="224"/>
        <kategorie ref="buecher"/>
    </beitrag>
    <beitrag>
-      <stueck datum="1765" nr="55" von="224"/>
+      <stueck when="1765" nr="55" von="224"/>
       <kategorie ref="lokalanzeigen"/>
   </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="55" von="224"/>
+        <stueck when="1765" nr="55" von="224"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="56" von="225" bis="226"/>
+        <stueck when="1765" nr="56" von="225" bis="226"/>
         <kategorie ref="aufsatz"></kategorie>
         <kategorie ref="abbildung"></kategorie>
         <titel>Beschreibung der neuen höchstbequemen Waschmaschine, die hier durchsichtig vorgestellt ist, um ihren innern Bau zu sehen.</titel>
         <anmerkung>Unterzeichnet „Stender.“</anmerkung>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="56" von="227" bis="228"/>
+        <stueck when="1765" nr="56" von="227" bis="228"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck datum="1765" nr="56" von="228"/>
+       <stueck when="1765" nr="56" von="228"/>
        <kategorie ref="lokalanzeigen"/>
    </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="56" von="228"/>
+        <stueck when="1765" nr="56" von="228"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="57" von="229" bis="230"/>
+        <stueck when="1765" nr="57" von="229" bis="230"/>
         <werk ref="voisenon-jeune-greque" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="57" von="230"/>
-        <stueck datum="1765" nr="58" von="233" bis="234"/>
+        <stueck when="1765" nr="57" von="230"/>
+        <stueck when="1765" nr="58" von="233" bis="234"/>
         <werk ref="basedow-organon" kat="rezension" />
         <ort ref="altona"></ort>
     </beitrag>
      <beitrag>
-        <stueck datum="1765" nr="57" von="231" bis="232"/>
+        <stueck when="1765" nr="57" von="231" bis="232"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck datum="1765" nr="57" von="232"/>
+       <stueck when="1765" nr="57" von="232"/>
        <kategorie ref="buecher"/>
    </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="57" von="232"/>
+        <stueck when="1765" nr="57" von="232"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
     <beitrag>
-        <stueck datum="1765" nr="58" von="234" bis="235"/>
+        <stueck when="1765" nr="58" von="234" bis="235"/>
         <werk ref="stetten-selinde" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="58" von="235" bis="236"/>
+        <stueck when="1765" nr="58" von="235" bis="236"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck datum="1765" nr="58" von="236"/>
+       <stueck when="1765" nr="58" von="236"/>
        <kategorie ref="buecher"/>
    </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="58" von="236"/>
+        <stueck when="1765" nr="58" von="236"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="59" von="237"/>
+        <stueck when="1765" nr="59" von="237"/>
         <werk ref="steffens-clarissa" kat="rezension" />
         <ort ref="celle"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="59" von="238" bis="239"/>
+        <stueck when="1765" nr="59" von="238" bis="239"/>
         <werk ref="auszuege-urtheile" kat="rezension" />
         <ort ref="gotha"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="59" von="239" bis="240"/>
+        <stueck when="1765" nr="59" von="239" bis="240"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="59" von="240"/>
+        <stueck when="1765" nr="59" von="240"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="60" von="241" bis="242"/>
+        <stueck when="1765" nr="60" von="241" bis="242"/>
         <kategorie ref="gedicht"/>
         <titel>Die Unzufriedenheit</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="60" von="242"/>
+        <stueck when="1765" nr="60" von="242"/>
         <werk ref="briefe-frauenzimmers-lande" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="60" von="242" bis="243"/>
+        <stueck when="1765" nr="60" von="242" bis="243"/>
         <werk ref="wieland-comische" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="60" von="243" bis="244"/>
+        <stueck when="1765" nr="60" von="243" bis="244"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="60" von="244"/>
+        <stueck when="1765" nr="60" von="244"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag> 
     <beitrag>
-        <stueck datum="1765" nr="60" von="244"/>
+        <stueck when="1765" nr="60" von="244"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="61" von="245" bis="247"/>
-        <stueck datum="1765" nr="62" von="249" bis="250"/>
+        <stueck when="1765" nr="61" von="245" bis="247"/>
+        <stueck when="1765" nr="62" von="249" bis="250"/>
         <kategorie ref="ineigenersache"/>
         <titel>An diejenige die uns mit Beyträgen beehret die wir nicht haben brauchen können.</titel>
         <anmerkung>Spöttischer Aufsatz über abgelehnte Beiträge mit vielen Beispielen.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="61" von="247" bis="248"/>
+        <stueck when="1765" nr="61" von="247" bis="248"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="61" von="248"/>
+        <stueck when="1765" nr="61" von="248"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="62" von="250" bis="251"/>
+        <stueck when="1765" nr="62" von="250" bis="251"/>
         <werk ref="sevigne-briefe" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="62" von="251" bis="252"/>
+        <stueck when="1765" nr="62" von="251" bis="252"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="62" von="252"/>
+        <stueck when="1765" nr="62" von="252"/>
         <kategorie ref="lotterie"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="62" von="252"/>
+        <stueck when="1765" nr="62" von="252"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="63" von="253"/>
+        <stueck when="1765" nr="63" von="253"/>
         <kategorie ref="gedicht"/>
         <titel>Der preußische Soldat.</titel>
         <akteur ref="scheffner">Hippel XIII, 3</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="63" von="253" bis="254"/>
+        <stueck when="1765" nr="63" von="253" bis="254"/>
         <werk ref="richardson-wege-der-tugend" s="Teil 1" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="63" von="254" bis="255"/>
+        <stueck when="1765" nr="63" von="254" bis="255"/>
         <werk ref="thomas-anakreontische" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="63" von="255" bis="256"/>
+        <stueck when="1765" nr="63" von="255" bis="256"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="63" von="256"/>
+        <stueck when="1765" nr="63" von="256"/>
         <kategorie ref="lotterie"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="63" von="256"/>
+        <stueck when="1765" nr="63" von="256"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="64" von="257" bis="259"/>
+        <stueck when="1765" nr="64" von="257" bis="259"/>
         <werk ref="mallet-geschichte" s="Bd. 1" kat="rezension" />
         <ort ref="rostock"></ort>
         <ort ref="greifswald"></ort>
         <akteur ref="herder">HGBA X, S. 23</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="64" von="259" bis="260"/>
+        <stueck when="1765" nr="64" von="259" bis="260"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="64" von="260"/>
+        <stueck when="1765" nr="64" von="260"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     
     <beitrag>
-        <stueck datum="1765" nr="65" von="261" bis="263"/>
+        <stueck when="1765" nr="65" von="261" bis="263"/>
         <werk ref="baumgarten-theologische3" kat="rezension" />
         <ort ref="halle"></ort>
         <akteur ref="trescho" unsicher="true">Vgl. Semlers Spitze gegen Trescho in der Vorrede seines Baumgarten-Buchs und Treschos „Briefe über die neueste theologische Litteratur“ (Bd. 1, Berlin 1764)</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="65" von="263" bis="264"/>
+        <stueck when="1765" nr="65" von="263" bis="264"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="65" von="264"/>
+        <stueck when="1765" nr="65" von="264"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="65" von="264"/>
+        <stueck when="1765" nr="65" von="264"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="66" von="265" bis="266"/>
+        <stueck when="1765" nr="66" von="265" bis="266"/>
         <werk ref="muenchhausen-hausvater" s="Bd. 1,2 und 1,3" kat="rezension" />
         <ort ref="hannover"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="66" von="266" bis="267"/>
+        <stueck when="1765" nr="66" von="266" bis="267"/>
         <werk ref="fragmente-versuche-kleinigkeiten" kat="rezension" />
         <ort ref="frankfurt"></ort>
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="66" von="267" bis="268"/>
+        <stueck when="1765" nr="66" von="267" bis="268"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="66" von="268"/>
+        <stueck when="1765" nr="66" von="268"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="66" von="268"/>
+        <stueck when="1765" nr="66" von="268"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="67" von="269" bis="271"/>
+        <stueck when="1765" nr="67" von="269" bis="271"/>
         <kategorie ref="gedicht"/>
         <titel>Eine Wundergeschichte die an den Toiletten, und Schreibtischen nützlich zu lesen seyn wird.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="67" von="271" bis="272"/>
+        <stueck when="1765" nr="67" von="271" bis="272"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="67" von="272"/>
+        <stueck when="1765" nr="67" von="272"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="67" von="272"/>
+        <stueck when="1765" nr="67" von="272"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
     
     <beitrag>
-        <stueck datum="1765" nr="68" von="273" bis="274"/>
+        <stueck when="1765" nr="68" von="273" bis="274"/>
         <werk ref="formey-entwurf-wissenschaften" s="Bd. 1" kat="rezension" />
         <ort ref="berlin"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="68" von="274" bis="275"/>
-        <stueck datum="1765" nr="69" von="277" bis="278"/>
-        <stueck datum="1765" nr="70" von="282" bis="283"/>
+        <stueck when="1765" nr="68" von="274" bis="275"/>
+        <stueck when="1765" nr="69" von="277" bis="278"/>
+        <stueck when="1765" nr="70" von="282" bis="283"/>
         <werk ref="mandeville-freye-gedanken" kat="rezension" />
         <ort ref="berlin"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="68" von="275" bis="276"/>
+        <stueck when="1765" nr="68" von="275" bis="276"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="68" von="276"/>
+        <stueck when="1765" nr="68" von="276"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="68" von="276"/>
+        <stueck when="1765" nr="68" von="276"/>
         <kategorie ref="buecher"/>
     </beitrag>
  
     <beitrag>
-        <stueck datum="1765" nr="69" von="279" bis="280"/>
+        <stueck when="1765" nr="69" von="279" bis="280"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="69" von="280"/>
+        <stueck when="1765" nr="69" von="280"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="69" von="280"/>
+        <stueck when="1765" nr="69" von="280"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="70" von="281" bis="282"/>
+        <stueck when="1765" nr="70" von="281" bis="282"/>
         <kategorie ref="gedicht"/>
         <titel>Ptolomäus und Berenice.</titel>
         <akteur ref="ramler"></akteur>
         <anmerkung>Aus Anlass der Hochzeit des späteren Friedrich Wilhelm II.; mglw. ein Auszug des gedruckten Liedes <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id4778873920">Berlin 1765</wwwlink> </anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="70" von="283" bis="284"/>
+        <stueck when="1765" nr="70" von="283" bis="284"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="70" von="284"/>
+        <stueck when="1765" nr="70" von="284"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="70" von="284"/>
+        <stueck when="1765" nr="70" von="284"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="71" von="285" bis="286"/>
+        <stueck when="1765" nr="71" von="285" bis="286"/>
         <werk ref="gensike-gedanken" kat="rezension" />
         <ort ref="dresden"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="71" von="286" bis="287"/>
+        <stueck when="1765" nr="71" von="286" bis="287"/>
         <werk ref="gesner-orphei-argonautica" kat="rezension" />
         <akteur ref="herder">HGBA I, 37</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="71" von="287"/>
+        <stueck when="1765" nr="71" von="287"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>Über das 50jährige Jubiläum der Doktorwürde Johann Jakob Quandts.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="71" von="287" bis="288"/>
+        <stueck when="1765" nr="71" von="287" bis="288"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="71" von="288"/>
+        <stueck when="1765" nr="71" von="288"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
     <beitrag>
-        <stueck datum="1765" nr="72" von="289" bis="290"/>
+        <stueck when="1765" nr="72" von="289" bis="290"/>
         <werk ref="schroeckh-abbildungen" s="Bd. 1, Sammlung 2" kat="rezension" />
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="72" von="290"/>
+        <stueck when="1765" nr="72" von="290"/>
         <kategorie ref="gedicht"/>
         <incipit>O Himmel, Himmel welch ein Glück…</incipit>
         <akteur ref="hippel">Unterzeichnet „H.“; vgl. Schneider, Anhang, S. 8</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="72" von="291" bis="292"/>
+        <stueck when="1765" nr="72" von="291" bis="292"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="72" von="292"/>
+        <stueck when="1765" nr="72" von="292"/>
         <kategorie ref="lokalnachrichten"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="72" von="292"/>
+        <stueck when="1765" nr="72" von="292"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="72" von="292"/>
+        <stueck when="1765" nr="72" von="292"/>
         <kategorie ref="buecher"/>
     </beitrag>
     
     <beitrag>
-        <stueck datum="1765" nr="73" von="293" bis="294"/>
+        <stueck when="1765" nr="73" von="293" bis="294"/>
         <werk ref="abbt-verdienst" kat="rezension" />
         <akteur ref="herder">SWS I, 79–81</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="73" von="294"/>
+        <stueck when="1765" nr="73" von="294"/>
         <werk ref="ringeltaube-zaertlichkeit" kat="rezension" />
         <ort ref="breslau"></ort>
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="73" von="295" bis="296"/>
+        <stueck when="1765" nr="73" von="295" bis="296"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="73" von="296"/>
+        <stueck when="1765" nr="73" von="296"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="74" von="297" bis="298"/>
+        <stueck when="1765" nr="74" von="297" bis="298"/>
         <kategorie ref="gedicht"></kategorie>        
         <titel>Hymne auf GOTT. Aus dem Italienischen des Herrn Francesco de Lemene.</titel>
         <akteur ref="lemene-f"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="74" von="298" bis="299"/>
+        <stueck when="1765" nr="74" von="298" bis="299"/>
         <werk ref="friederici-predigten" kat="rezension" />
         <ort ref="magdeburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="74" von="299" bis="300"/>
+        <stueck when="1765" nr="74" von="299" bis="300"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="74" von="300"/>
+        <stueck when="1765" nr="74" von="300"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="75" von="301" bis="302"/>
+        <stueck when="1765" nr="75" von="301" bis="302"/>
         <kategorie ref="gedicht"/>
         <titel>Der Vater ein Mörder des Sohns, der Sohn, ein Vatermörder. Eine Erzehlung.</titel>
         <akteur ref="herder">SWS XXIX, 21–24</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="75" von="302" bis="303"/>
+        <stueck when="1765" nr="75" von="302" bis="303"/>
         <werk ref="merkwuerdige-nachrichten-premierminister" kat="rezension" />
         <ort ref="gotha"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="75" von="303" bis="304"/>
+        <stueck when="1765" nr="75" von="303" bis="304"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="75" von="304"/>
+        <stueck when="1765" nr="75" von="304"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="76" von="305" bis="306"/>
+        <stueck when="1765" nr="76" von="305" bis="306"/>
         <werk ref="justi-scherzhafte" kat="rezension" />
         <ort ref="berlin"></ort>
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="76" von="306"/>
+        <stueck when="1765" nr="76" von="306"/>
         <kategorie ref="gedicht"></kategorie>        
         <titel>Das berühmte Raubthier in Frankreich.</titel>
         <anmerkung>Es geht um Kritik an der Verfolgung der Jesuiten.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="76" von="307" bis="308"/>
+        <stueck when="1765" nr="76" von="307" bis="308"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="76" von="308"/>
+        <stueck when="1765" nr="76" von="308"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <beilage datum="1765" nr="76" von="1"/>
+        <beilage when="1765" nr="76" von="1"/>
         <kategorie ref="notenblatt"></kategorie>
         <titel>Das Kloster.</titel>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="77" von="309" bis="310"/>
+        <stueck when="1765" nr="77" von="309" bis="310"/>
         <werk ref="burkitt-practische4" kat="rezension" />
         <ort ref="halle"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="77" von="310" bis="311"/>
+        <stueck when="1765" nr="77" von="310" bis="311"/>
         <werk ref="kritzinger-englische-greis" s="1. Teil" kat="rezension" />
         <ort ref="hamburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="77" von="311" bis="312"/>
+        <stueck when="1765" nr="77" von="311" bis="312"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="77" von="312"/>
+        <stueck when="1765" nr="77" von="312"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="78" von="313" bis="314"/>
+        <stueck when="1765" nr="78" von="313" bis="314"/>
         <kategorie ref="ineigenersache"/>
         <incipit>Wir erinnern uns einer Pflicht, welcher das Publikum mit Recht entgegensiehet…</incipit>
         <beitrag kat="replik" ref="faulheit-haeuslichkeit"></beitrag>
         <anmerkung>Zum Stand der Preisaufgaben über die Mittel gegen Faulheit die Arten der Häuslichkeit; außerdem eine Zurückweisung der Thesen einer einsandten Beantwortung.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="78" von="314" bis="315"/>
+        <stueck when="1765" nr="78" von="314" bis="315"/>
         <kategorie ref="gedicht"/>
         <titel>An den Horaz.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="78" von="315" bis="316"/>
+        <stueck when="1765" nr="78" von="315" bis="316"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="78" von="316"/>
+        <stueck when="1765" nr="78" von="316"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="79" von="317"/>
+        <stueck when="1765" nr="79" von="317"/>
         <werk ref="moser-deutscher-nationalgeist" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="79" von="318"/>
+        <stueck when="1765" nr="79" von="318"/>
         <werk ref="rautenberg-sammlung" kat="rezension" />
         <ort ref="braunschweig"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="79" von="318" bis="319"/>
+        <stueck when="1765" nr="79" von="318" bis="319"/>
         <kategorie ref="anzeige"/>
         <akteur ref="kanter"></akteur>
         <anmerkung>Ankündigung der Übersetzung einer „Reisebeschreibung von Kamczatka“</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="79" von="319" bis="320"/>
+        <stueck when="1765" nr="79" von="319" bis="320"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="79" von="320"/>
+        <stueck when="1765" nr="79" von="320"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="80" von="321" bis="322"/>
+        <stueck when="1765" nr="80" von="321" bis="322"/>
         <werk ref="shaw-reisen" kat="rezension" />
         <ort ref="leipzig"></ort>
         <akteur ref="herder">SWS I, 81–84</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="80" von="322"/>
+        <stueck when="1765" nr="80" von="322"/>
         <kategorie ref="anzeige"/>
         <anmerkung>Anzeige für Französischkurse von Herrn Fort, des Predigers der königsberger französischen Gemeinde.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="80" von="323" bis="324"/>
+        <stueck when="1765" nr="80" von="323" bis="324"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="80" von="324"/>
+        <stueck when="1765" nr="80" von="324"/>
         <kategorie ref="lokalnachrichten"/>
         <anmerkung>Festsetzung der Tabackspreise durch die Königlich Preußische General Direction der Tobacks-Verpackungs-Compagnie</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="80" von="324"/>
+        <stueck when="1765" nr="80" von="324"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     
     <beitrag>
-        <stueck datum="1765" nr="81" von="325" bis="326"/>
+        <stueck when="1765" nr="81" von="325" bis="326"/>
         <kategorie ref="gedicht"/>
         <incipit>Die unsre Mutter ist…</incipit>
         <ort ref="riga"></ort>
@@ -1859,580 +1859,580 @@
         <anmerkung>Ode auf das Kronjubiläum Katharinas II. anlässlich der Amtseinführung des Rektors der Kathedralschule in Riga, Gottlieb Schlegel, und des Collaborateuers Johann Gottfried Herder</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="81" von="326" bis="327"/>
+        <stueck when="1765" nr="81" von="326" bis="327"/>
         <werk ref="floegel-geschichte" kat="rezension" />
         <ort ref="breslau"></ort>
         <akteur ref="herder">SWS I, 87–89</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="81" von="327" bis="328"/>
+        <stueck when="1765" nr="81" von="327" bis="328"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="81" von="328"/>
+        <stueck when="1765" nr="81" von="328"/>
         <kategorie ref="lokalanzeigen"/>
         <akteur ref="kanter"></akteur>
         <anmerkung>Stellenanzeige beim Kanterschen Buchladen</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="81" von="328"/>
+        <stueck when="1765" nr="81" von="328"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="82" von="329" bis="331"/>
+        <stueck when="1765" nr="82" von="329" bis="331"/>
         <kategorie ref="vorlesungsverzeichnis"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="82" von="331" bis="332"/>
+        <stueck when="1765" nr="82" von="331" bis="332"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="82" von="332"/>
+        <stueck when="1765" nr="82" von="332"/>
         <kategorie ref="lokalnachrichten"/>
         <anmerkung>Aufforderung der Königlich Preußischen General Direction der Tobacks-Verpackungs-Compagnie zum stempeln lassen</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="82" von="332"/>
+        <stueck when="1765" nr="82" von="332"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <beilage datum="1765" nr="82" von="1"/>
+        <beilage when="1765" nr="82" von="1"/>
         <kategorie ref="notenblatt"/>
         <titel>Bündniß mit den Alten. Ein Liedchen für die Jugend.</titel>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="83" von="333"/>
+        <stueck when="1765" nr="83" von="333"/>
         <kategorie ref="gedicht"/>
         <titel>Auf die Ankunft eines Freundes</titel>
         <anmerkung>Der Freund ist Johann George Scheffner</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="83" von="333" bis="334"/>
+        <stueck when="1765" nr="83" von="333" bis="334"/>
         <werk ref="hase-versuch" kat="rezension" />
         <akteur ref="herder">SWS I, 89–91</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="83" von="334"/>
+        <stueck when="1765" nr="83" von="334"/>
         <werk ref="teller-etwas" kat="rezension" />
         <akteur ref="herder">SWS I, 91–92</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="83" von="335" bis="336"/>
+        <stueck when="1765" nr="83" von="335" bis="336"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="83" von="336"/>
+        <stueck when="1765" nr="83" von="336"/>
         <kategorie ref="lokalnachrichten"/>
         <anmerkung>Über einen Chronostich auf den Tod Kaiser Franz I. Stephan</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="83" von="336"/>
+        <stueck when="1765" nr="83" von="336"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <beilage datum="1765" nr="83" von="1"/>
+        <beilage when="1765" nr="83" von="1"/>
         <kategorie ref="proklamation"/>
         <titel>Avertissement.</titel>
         <anmerkung>Der Königlich Preußischen General Direction der Tobacks-Verpackungs-Compagnie</anmerkung>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="84" von="337" bis="339"/>
+        <stueck when="1765" nr="84" von="337" bis="339"/>
         <werk ref="semler-allgemeine-geschichte" kat="rezension" />
         <ort ref="halle"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="84" von="339" bis="340"/>
+        <stueck when="1765" nr="84" von="339" bis="340"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="84" von="340"/>
+        <stueck when="1765" nr="84" von="340"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="84" von="340"/>
+        <stueck when="1765" nr="84" von="340"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="84" von="340"/>
+        <stueck when="1765" nr="84" von="340"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="85" von="341" bis="342"/>
+        <stueck when="1765" nr="85" von="341" bis="342"/>
         <kategorie ref="anzeige" />
         <titel>Ankündigung.</titel>
         <werk kat="auszug" ref="ramler-sammlung"></werk>
         <akteur ref="scheffner">Vgl. Warda/Diesch IV, S. 15–19</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="85" von="342"/>
+        <stueck when="1765" nr="85" von="342"/>
         <kategorie ref="gelehrte-nachrichten" />
         <werk kat="kommentar" ref="teske-neue-versuche"></werk>
         <anmerkung>Über neue Techniken zur Heilung von Zahnschmerzen vermittels eines magnetischen Stahls, nach den Erkenntnissen von Johann Gottfried Tecke</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="85" von="342" bis="343"/>
+        <stueck when="1765" nr="85" von="342" bis="343"/>
         <werk ref="zuschauer-leipzig" kat="rezension" />
         <akteur ref="herder">SWS I, S. 92f.</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="85" von="343" bis="344"/>
+        <stueck when="1765" nr="85" von="343" bis="344"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="85" von="344"/>
+        <stueck when="1765" nr="85" von="344"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="85" von="344"/>
+        <stueck when="1765" nr="85" von="344"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="86" von="345" bis="346"/>
+        <stueck when="1765" nr="86" von="345" bis="346"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>3 Preisaufgaben des Fürsten Joseph Alexander Jablonowski, aus der polnischen Geschichte, der Erdmeßkunst und der Haushaltungskunst. Bekanntmachung der naturforschenden Gesellschaft in Danzig.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="86" von="346"/>
+        <stueck when="1765" nr="86" von="346"/>
         <kategorie ref="gedicht"></kategorie>
         <titel>An Daphnens Laute. Freye Nachahmung aus den Engl. des Wallers.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="86" von="347" bis="348"/>
+        <stueck when="1765" nr="86" von="347" bis="348"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="86" von="348"/>
+        <stueck when="1765" nr="86" von="348"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="86" von="348"/>
+        <stueck when="1765" nr="86" von="348"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="87" von="349" bis="350"/>
+        <stueck when="1765" nr="87" von="349" bis="350"/>
         <werk ref="voltaire-philosophie-histoire" kat="rezension" />
         <ort ref="amsterdam"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="87" von="350" bis="351"/>
+        <stueck when="1765" nr="87" von="350" bis="351"/>
         <werk ref="chaudon-antidictionnaire" kat="rezension" />
         <ort ref="lausanne"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="87" von="350"/>
+        <stueck when="1765" nr="87" von="350"/>
         <kategorie ref="gedicht"></kategorie>
         <titel>Das Lob der löblichen Dorffschaft.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="87" von="351" bis="352"/>
+        <stueck when="1765" nr="87" von="351" bis="352"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="87" von="352"/>
+        <stueck when="1765" nr="87" von="352"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag id="auszug-shaw">
-        <stueck datum="1765" nr="88" von="353" bis="354"/>
+        <stueck when="1765" nr="88" von="353" bis="354"/>
         <werk ref="shaw-reisen" kat="auszug" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="88" von="354" bis="355"/>
+        <stueck when="1765" nr="88" von="354" bis="355"/>
         <werk ref="gr-vernunft-betrachtung" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="88" von="355" bis="356"/>
+        <stueck when="1765" nr="88" von="355" bis="356"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="88" von="356"/>
+        <stueck when="1765" nr="88" von="356"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     
     <beitrag>
-        <stueck datum="1765" nr="89" von="357" bis="358"/>
+        <stueck when="1765" nr="89" von="357" bis="358"/>
         <kategorie ref="erzaehlung"></kategorie>
         <kategorie ref="uebersetzung"></kategorie>
         <titel>Der Schäfer und der Philosoph. Eine Uebersetzung.</titel>
         <anmerkung>„Aus P--p--n in Curland eingeschickt“ (Pampeln), unterzeichnet „G---t.“</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="89" von="357" bis="358"/>
+        <stueck when="1765" nr="89" von="357" bis="358"/>
         <kategorie ref="erzaehlung"></kategorie>
         <titel>Proceß über den Rang. Eine Fabel.</titel>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="89" von="358"/>
+        <stueck when="1765" nr="89" von="358"/>
         <akteur ref="hartmann-mp" kat="nachruf" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="89" von="359" bis="360"/>
+        <stueck when="1765" nr="89" von="359" bis="360"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="89" von="359"/>
+        <stueck when="1765" nr="89" von="359"/>
         <titel>Verbesserung eines Fehlers</titel>
         <beitrag ref="auszug-shaw" kat="replik" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="89" von="360"/>
+        <stueck when="1765" nr="89" von="360"/>
         <kategorie ref="lokalnachrichten"/>
         <anmerkung>Über die Eröffnung des Schauplatzes der Schuchischen Gesellschaft</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="89" von="360"/>
+        <stueck when="1765" nr="89" von="360"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="89" von="360"/>
+        <stueck when="1765" nr="89" von="360"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="90" von="361" bis="362"/>
+        <stueck when="1765" nr="90" von="361" bis="362"/>
         <werk ref="philosophische-ergoetzungen" kat="rezension" />
         <ort ref="bremen"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="90" von="362" bis="363"/>
+        <stueck when="1765" nr="90" von="362" bis="363"/>
         <werk ref="schubert-heilige" kat="rezension" />
         <ort ref="halle"></ort>
         <ort ref="greifswald"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="90" von="363" bis="364"/>
+        <stueck when="1765" nr="90" von="363" bis="364"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="90" von="364"/>
+        <stueck when="1765" nr="90" von="364"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="91" von="365" bis="366"/>
+        <stueck when="1765" nr="91" von="365" bis="366"/>
         <werk ref="doddridge-theologisches-sendschreiben" kat="rezension" />
         <ort ref="rostock"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="91" von="366" bis="367"/>
+        <stueck when="1765" nr="91" von="366" bis="367"/>
         <werk ref="kleine-beschaeftigungen-kinder" kat="rezension" />
         <ort ref="kopenhagen"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="91" von="367" bis="368"/>
+        <stueck when="1765" nr="91" von="367" bis="368"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="91" von="368"/>
+        <stueck when="1765" nr="91" von="368"/>
         <kategorie ref="lokalnachrichten"/>
         <akteur ref="levin-m" kat="nachruf" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="91" von="368"/>
+        <stueck when="1765" nr="91" von="368"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="92" von="369" bis="371"/>
+        <stueck when="1765" nr="92" von="369" bis="371"/>
         <werk ref="nachrichten-merkwuerdigste-theologische" kat="rezension" />
         <ort ref="luebeck"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="92" von="371"/>
+        <stueck when="1765" nr="92" von="371"/>
         <akteur ref="laubmeyer-jc" kat="nachruf" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="92" von="371" bis="372"/>
+        <stueck when="1765" nr="92" von="371" bis="372"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="92" von="372"/>
+        <stueck when="1765" nr="92" von="372"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="93" von="373" bis="374"/>
+        <stueck when="1765" nr="93" von="373" bis="374"/>
         <werk ref="sturm-sonntag" s="3. Teil" kat="rezension" />
         <akteur ref="herder">SWS I, 94–96</akteur>
         <ort ref="halle"></ort>
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="93" von="374" bis="375"/>
+        <stueck when="1765" nr="93" von="374" bis="375"/>
         <werk ref="trinius-zugabe" kat="rezension" />
         <ort ref="leipzig"></ort>
         <ort ref="bernburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="93" von="375" bis="376"/>
+        <stueck when="1765" nr="93" von="375" bis="376"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="93" von="376"/>
+        <stueck when="1765" nr="93" von="376"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     
     <beitrag>
-        <stueck datum="1765" nr="94" von="377" bis="378"/>
+        <stueck when="1765" nr="94" von="377" bis="378"/>
         <werk ref="nicolai-bibliothek" s="Bd. 12, St. 2" kat="rezension" />
         <ort ref="leipzig"></ort>
         <akteur ref="herder">SWS I, 98–100</akteur>
         <anmerkung>Ankündigung von Bd. 2, St. 2 (1765), Beurteilung der gesamten Reihe und Ankündigung der „Neuen Bibliothek der schönen Wissenschaften und der freyen Künste“</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="94" von="378"/>
+        <stueck when="1765" nr="94" von="378"/>
         <werk ref="bodmer-gottsched" kat="rezension" />
         <ort ref="zuerich"></ort>
         <akteur ref="herder">SWS I, 100f.</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="94" von="378" bis="379"/>
+        <stueck when="1765" nr="94" von="378" bis="379"/>
         <werk ref="young-belustigungen" kat="rezension" />
         <akteur ref="herder">SWS I, 101</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="94" von="379"/>
+        <stueck when="1765" nr="94" von="379"/>
         <werk ref="beaumelle-seneca" kat="rezension" />
         <ort ref="berlin"></ort>
         <akteur ref="herder">SWS I, 102f.</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="94" von="379"/>
+        <stueck when="1765" nr="94" von="379"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>Über die Verteidigung von Magister Martin Nicuta</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="94" von="380"/>
+        <stueck when="1765" nr="94" von="380"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="94" von="380"/>
+        <stueck when="1765" nr="94" von="380"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="95" von="381"/>
+        <stueck when="1765" nr="95" von="381"/>
         <werk ref="briefe-moral" s="Bd. 2, St. 3" kat="rezension" />
         <ort ref="rostock"></ort>
         <ort ref="greifswald"></ort>
         <akteur ref="herder">SWS I, 103f.</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="95" von="381" bis="382"/>
+        <stueck when="1765" nr="95" von="381" bis="382"/>
         <werk ref="panzer-kunst-geduld" kat="rezension" />
         <akteur ref="herder">SWS I, 104–106</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="95" von="382"/>
+        <stueck when="1765" nr="95" von="382"/>
         <kategorie ref="erzaehlung"/>
         <kategorie ref="uebersetzung"></kategorie>
         <titel>Die Furien. Eine Fabel. Aus dem Französischen.</titel>
         <anmerkung>Unterzeichnet „G----t aus Curland.“</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="95" von="383" bis="384"/>
+        <stueck when="1765" nr="95" von="383" bis="384"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="95" von="384"/>
+        <stueck when="1765" nr="95" von="384"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <beilage datum="1765" nr="95" von="1"/>
+        <beilage when="1765" nr="95" von="1"/>
         <kategorie ref="desertionsliste"/>
         <titel>Avertissement.</titel>
         <anmerkung>Für die entlaufenen Bauern Carl Zander und Christoph Klein, datiert Königsberg, 29. November 1765</anmerkung>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="96" von="385" bis="387"/>
+        <stueck when="1765" nr="96" von="385" bis="387"/>
         <werk ref="mauritii-entwurf" kat="rezension" />
         <ort ref="minden"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="96" von="387" bis="388"/>
+        <stueck when="1765" nr="96" von="387" bis="388"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="96" von="388"/>
+        <stueck when="1765" nr="96" von="388"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="97" von="389" bis="390"/>
+        <stueck when="1765" nr="97" von="389" bis="390"/>
         <kategorie ref="gedicht"/>
         <titel>Dreymal drey Berlocken. das ist Mancherley für mancherley Leser.</titel>
         <akteur ref="herder">SWS I, 106f.</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="97" von="390" bis="391"/>
+        <stueck when="1765" nr="97" von="390" bis="391"/>
         <werk ref="neue-lieder-g" kat="rezension" />
         <ort ref="hamburg"></ort>
         <ort ref="leipzig"></ort>
         <akteur ref="herder">SWS XXIX, 27f.</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="97" von="391" bis="392"/>
+        <stueck when="1765" nr="97" von="391" bis="392"/>
         <kategorie ref="buecher"/>
         <titel>Nachricht.</titel>
         <anmerkung>Bücherangebot von August Mylius in Berlin, das man über Kanter bestellen kann</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="97" von="391" bis="392"/>
+        <stueck when="1765" nr="97" von="391" bis="392"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="97" von="392"/>
+        <stueck when="1765" nr="97" von="392"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="98" von="393" bis="394"/>
+        <stueck when="1765" nr="98" von="393" bis="394"/>
         <werk ref="beau-geschichte-kaiserthum" s="Bd. 1" kat="rezension" />
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="98" von="394"/>
+        <stueck when="1765" nr="98" von="394"/>
         <werk ref="voltaire-henriade" kat="rezension" />
         <ort ref="magdeburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="98" von="395" bis="396"/>
+        <stueck when="1765" nr="98" von="395" bis="396"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="98" von="396"/>
+        <stueck when="1765" nr="98" von="396"/>
         <kategorie ref="lokalnachrichten"/>
         <anmerkung>Über eine Lichterscheinung am Himmel</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="98" von="396"/>
+        <stueck when="1765" nr="98" von="396"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <beilage datum="1765" nr="98" von="1" bis="2"/>
+        <beilage when="1765" nr="98" von="1" bis="2"/>
         <kategorie ref="notenblatt"/>
         <incipit>Nun will ich ganz ein Dichter seyn…</incipit>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="99" von="397" bis="398"/>
+        <stueck when="1765" nr="99" von="397" bis="398"/>
         <werk ref="gordon-geschichte" kat="rezension" />
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="99" von="399" bis="400"/>
+        <stueck when="1765" nr="99" von="399" bis="400"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="99" von="400"/>
+        <stueck when="1765" nr="99" von="400"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag id="ramler-ino">
-        <stueck datum="1765" nr="100" von="401" bis="403"/>
+        <stueck when="1765" nr="100" von="401" bis="403"/>
         <kategorie ref="gedicht"></kategorie>
         <titel>Ino. Eine Kantate.</titel>
         <akteur ref="ramler"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="100" von="401"/>
+        <stueck when="1765" nr="100" von="401"/>
         <titel>Geschichte der Semele und der Ino.</titel>
         <beitrag kat="kommentar" ref="ramler-ino"></beitrag>
         <akteur ref="scheffner"></akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="100" von="403" bis="404"/>
+        <stueck when="1765" nr="100" von="403" bis="404"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="100" von="404"/>
+        <stueck when="1765" nr="100" von="404"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="101" von="405" bis="406"/>
+        <stueck when="1765" nr="101" von="405" bis="406"/>
         <werk ref="klein-sammlung" kat="rezension" />
         <ort ref="kgsb"></ort>
         <anmerkung>Vorankündigung</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="101" von="406" bis="407"/>
+        <stueck when="1765" nr="101" von="406" bis="407"/>
         <werk ref="meier-gedanken" kat="rezension" />
         <ort ref="halle"></ort>
         <akteur ref="herder">SWS I, 107–109</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="101" von="407" bis="408"/>
+        <stueck when="1765" nr="101" von="407" bis="408"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="101" von="408"/>
+        <stueck when="1765" nr="101" von="408"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag>
-        <stueck datum="1765" nr="102" von="409" bis="410"/>
+        <stueck when="1765" nr="102" von="409" bis="410"/>
         <werk ref="burnet-reformationsgeschichte" s="Bd. 1" kat="rezension" />
         <ort ref="braunschweig"></ort>
         <akteur ref="herder">SWS I, 109–112</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="102" von="410" bis="411"/>
+        <stueck when="1765" nr="102" von="410" bis="411"/>
         <werk ref="willamovius-deutsche-athene" kat="rezension" />
         <akteur ref="herder">SWS I, 112–114</akteur>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="102" von="411" bis="412"/>
+        <stueck when="1765" nr="102" von="411" bis="412"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="102" von="412"/>
+        <stueck when="1765" nr="102" von="412"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     
     <beitrag>
-        <stueck datum="1765" nr="103" von="413" bis="414"/>
+        <stueck when="1765" nr="103" von="413" bis="414"/>
         <werk ref="leyding-neuer-bienenstock2" kat="rezension" />
         <ort ref="hamburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="103" von="414" bis="415"/>
+        <stueck when="1765" nr="103" von="414" bis="415"/>
         <werk ref="sammlung-auserlesener-romanen" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="103" von="415" bis="416"/>
+        <stueck when="1765" nr="103" von="415" bis="416"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="103" von="416"/>
+        <stueck when="1765" nr="103" von="416"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
     <beitrag>
-        <stueck datum="1765" nr="104" von="417" bis="419"/>
+        <stueck when="1765" nr="104" von="417" bis="419"/>
         <kategorie ref="aufsatz"></kategorie>
         <incipit>Wir überraschen unsre Leser…</incipit>
         <anmerkung>Neujahrsbetrachtung</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="104" von="420"/>
+        <stueck when="1765" nr="104" von="420"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck datum="1765" nr="104" von="420"/>
+        <stueck when="1765" nr="104" von="420"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 

@@ -5,9 +5,9 @@
 
     <!-- Jahrgang 1776 -->
     <beitrag>
-        <beilage datum="1776" nr="6" />
-        <beilage datum="1776" nr="8" />
-        <beilage datum="1776" nr="10" />
+        <beilage when="1776" nr="6" />
+        <beilage when="1776" nr="8" />
+        <beilage when="1776" nr="10" />
         <titel>Ueber den Styl</titel>
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="buffon-style" kat="uebersetzung" s="xxii–xxxviii" />
@@ -15,33 +15,33 @@
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
-        <stueck datum="1776" nr="19" von="73" bis="74" />
+        <stueck when="1776" nr="19" von="73" bis="74" />
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="bertuch-donquixote" kat="rezension" />
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
-        <stueck datum="1776" nr="19" von="74" bis="76" />
+        <stueck when="1776" nr="19" von="74" bis="76" />
         <kategorie ref="weltnachrichten" />
         <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
-        <stueck datum="1776" nr="19" von="76" />
+        <stueck when="1776" nr="19" von="76" />
         <kategorie ref="buecher" />
         <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
-        <stueck datum="1776" nr="19" von="76" />
+        <stueck when="1776" nr="19" von="76" />
         <kategorie ref="lokalanzeigen" />
         <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
-        <stueck datum="1776" nr="19" von="76" />
+        <stueck when="1776" nr="19" von="76" />
         <kategorie ref="wechselkurse" />
         <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
-        <beilage datum="1776" nr="19" />
+        <beilage when="1776" nr="19" />
         <kategorie ref="aufsatz" />
         <titel>Zur neuen Ausgabe des deutschen Don Quixote.</titel>
         <werk ref="yale-muenster" kat="provinienz" />
@@ -49,13 +49,13 @@
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
-        <stueck datum="1776" nr="27" />
+        <stueck when="1776" nr="27" />
         <werk ref="unger" kat="provinienz" s="Bd. 2, S. 921" />
         <akteur ref="lindner-jg" kat="nachruf" />
         <akteur ref="hamann" unsicher="true" />
     </beitrag>
     <beitrag>
-        <stueck datum="1776" nr="45" />
+        <stueck when="1776" nr="45" />
         <werk ref="roth" kat="provinienz" s="Bd. 4, S. 471f." />
         <werk ref="hamann-zweifel" kat="rezension" />
         <akteur ref="hamann" />

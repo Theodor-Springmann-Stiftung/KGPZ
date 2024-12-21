@@ -35,16 +35,8 @@
 		<xsd:annotation>
 			<xsd:documentation>Bezieht sich auf ein Stück und qualifiziert diese Beziehung.</xsd:documentation>
 		</xsd:annotation>
-		<xsd:attribute name="datum"
-			use="required">
-			<xsd:annotation>
-				<xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
-			</xsd:annotation>
-			<xsd:simpleType>
-				<xsd:union
-					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
-			</xsd:simpleType>
-		</xsd:attribute>
+		<xsd:attributeGroup ref="kgpz:dateattributes" />
+
 
 		<xsd:attribute name="nr" type="xsd:positiveInteger"
 			use="optional">
@@ -87,16 +79,7 @@
 			<xsd:documentation>Bezieht sich auf eine Beilage und qualifiziert diese Beziehung</xsd:documentation>
 		</xsd:annotation>
 
-		<xsd:attribute name="datum"
-			use="required">
-			<xsd:annotation>
-				<xsd:documentation>Pflicht: Das Datum, zumindest aber: das Jahr des Stücks.</xsd:documentation>
-			</xsd:annotation>
-			<xsd:simpleType>
-				<xsd:union
-					memberTypes="xsd:date xsd:gYear xsd:gMonth xsd:gDay xsd:gYearMonth xsd:gMonthDay xsd:time xsd:dateTime" />
-			</xsd:simpleType>
-		</xsd:attribute>
+		<xsd:attributeGroup ref="kgpz:dateattributes" />
 
 		<xsd:attribute name="nr" type="xsd:positiveInteger"
 			use="optional">
