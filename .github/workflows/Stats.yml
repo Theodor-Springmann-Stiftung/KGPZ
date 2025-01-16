@@ -1,4 +1,4 @@
-name: Update Category Stats
+name: Output Category Stats
 
 on:
   push:
@@ -6,31 +6,15 @@ on:
       - main
 
 jobs:
-  update-stats:
+  output-stats:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
-
-    - name: Install dependencies
-      run: pip install xml
-
     - name: Run stats script
       env:
         INPUT_DIR: './XML/beitraege' # Path to your XML files directory
-        OUTPUT_FILE: './stats.txt'  # Output stats file
-      run: python Scripts/stats.py
-
-    - name: Commit and push changes
       run: |
-        git config --local user.name "GitHub Actions Bot"
-        git config --local user.email "actions@github.com"
-        git add stats.txt
-        git commit -m "Update stats file on commit"
-        git push
-      continue-on-error: true
+        python Scripts/stats.py
+        cat ./stats.txt # Output stats to console
