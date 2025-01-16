@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <kategorien xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../XSD/KGPZ.xsd">
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../XSD/KGPZ.xsd">
 
-    <!--
+	<!--
     <kategorie id="1">
         Attribut @id + <name> müssen vorhanden sein
         <name>Beispiel</name>
@@ -13,183 +13,186 @@
         <anmerkung>Anmerkung</anmerkung>
     </kategorie>
     -->
-    <!-- 15 kat -->
-    <kategorie id="ineigenersache">
-        <name>In eigener Sache</name>
-        <vermerk>Programmatische Vorwörter, Neuausrichtungen etc.</vermerk>
-    </kategorie>
+	<kategorie id="ineigenersache">
+		<name>In eigener Sache</name>
+		<vermerk>Programmatische Vorwörter, Neuausrichtungen etc.</vermerk>
+	</kategorie>
 
-    <!-- 5 kat -->
-    <kategorie id="panegyrik">
-        <name>Panegyrik</name>
-        <vermerk>Lobreden auf Friedrich II., Königsgeburtstag etc.</vermerk>
-    </kategorie>
 
-    <!-- 703 kat -->
-    <kategorie id="weltnachrichten">
-        <name>Politische Nachrichten aus aller Welt</name>
-    </kategorie>
+	<kategorie id="panegyrik">
+		<name>Panegyrik</name>
+		<vermerk>Lobreden auf Friedrich II., Königsgeburtstag etc.</vermerk>
+	</kategorie>
 
-    <!-- 341 kat -->
-    <kategorie id="wechselkurse">
-        <name>Weckselkurse</name>
-        <anmerkung>Wechsel-Cours &#x26; Species – zumeist als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
-    </kategorie>
 
-    <!-- 183 kat -->
-    <kategorie id="buecher">
-        <name>Bücherangebot des Kanterschen Buchladens</name>
-        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
-    </kategorie>
+	<kategorie id="weltnachrichten">
+		<name>Politische Nachrichten aus aller Welt</name>
+	</kategorie>
 
-    <!-- 109 kat -->
-    <kategorie id="lotterie">
-        <name>Nachrichten zur Lotterie</name>
-        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
-    </kategorie>
 
-    <!-- 1019 werk -->
-    <kategorie id="rezension">
-        <name>Rezension</name>
-        <anmerkung>Enthält häufig auch Auszüge</anmerkung>
-    </kategorie>
+	<kategorie id="wechselkurse">
+		<name>Weckselkurse</name>
+		<anmerkung>Wechsel-Cours &#x26; Species – zumeist als „Avertissement“ auf der vierten Seite
+			eines Stücks</anmerkung>
+	</kategorie>
 
-    <!-- 23 werk, kat -->
-    <kategorie id="kommentar">
-        <name>Kommentar</name>
-    </kategorie>
 
-    <!-- 77 werk -->
-    <kategorie id="auszug">
-        <name>Auszug</name>
-    </kategorie>
+	<kategorie id="buecher">
+		<name>Bücherangebot des Kanterschen Buchladens</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
+	</kategorie>
 
-    <!-- 50 kat -->
-    <kategorie id="aufsatz">
-        <name>Aufsatz</name>
-    </kategorie>
 
-    <!-- 89 kat -->
-    <kategorie id="gedicht">
-        <name>Gedichte und literarische Kurztexte</name>
-    </kategorie>
+	<kategorie id="lotterie">
+		<name>Nachrichten zur Lotterie</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
+	</kategorie>
 
-    <!-- 5 kat, werk -->
-    <kategorie id="anzeige">
-        <name>Gelehrte Anzeige</name>
-    </kategorie>
 
-    <!-- 23 akteur -->
-    <kategorie id="nachruf">
-        <name>Nachruf</name>
-    </kategorie>
+	<kategorie id="rezension">
+		<name>Rezension</name>
+		<anmerkung>Enthält häufig auch Auszüge</anmerkung>
+	</kategorie>
 
-    <!-- 46+ werk -->
-    <kategorie id="provinienz">
-        <name>Provinienz</name>
-    </kategorie>
 
-    <!-- 49 kat -->
-    <kategorie id="gelehrte-nachrichten">
-        <name>Gelehrte Nachrichten</name>
-    </kategorie>
+	<kategorie id="kommentar">
+		<name>Kommentar</name>
+	</kategorie>
 
-    <!-- ~40 kat, werk -->
-    <kategorie id="uebersetzung">
-        <name>Übersetzung</name>
-    </kategorie>
 
-    <!-- 176 -->
-    <kategorie id="lokalanzeigen">
-        <name>Lokalanzeige</name>
-        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
-    </kategorie>
+	<kategorie id="auszug">
+		<name>Auszug</name>
+	</kategorie>
 
-    <!-- 5 kat -->
-    <kategorie id="desertionsliste">
-        <name>Liste von Deserteuren</name>
-        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks.</anmerkung>
-    </kategorie>
 
-    <!-- 385 kat -->
-    <kategorie id="einkommende-fremde">
-        <name>Einreiseliste</name>
-        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
-    </kategorie>
+	<kategorie id="aufsatz">
+		<name>Aufsatz</name>
+	</kategorie>
 
-    <!-- 7 kat -->
-    <kategorie id="erzaehlung">
-        <name>Erzählung</name>
-    </kategorie>
 
-    <!-- 15 kat -->
-    <kategorie id="proklamation">
-        <name>Proklamation</name>
-    </kategorie>
+	<kategorie id="gedicht">
+		<name>Gedichte und literarische Kurztexte</name>
+	</kategorie>
 
-    <!-- 14 kat -->
-    <kategorie id="brief">
-        <name>Öffentlicher Brief</name>
-    </kategorie>
 
-    <!-- 108 kat -->
-    <kategorie id="lokalnachrichten">
-        <name>Lokalnachricht</name>
-        <anmerkung>Im politischen Teil der Zeitung unter „Königsberg“, zumeist auf der letzten Seite.</anmerkung>
-    </kategorie>
+	<kategorie id="anzeige">
+		<name>Gelehrte Anzeige</name>
+	</kategorie>
 
-    <!-- 9 beitrag, werk -->
-    <kategorie id="replik">
-        <name>Replik</name>
-    </kategorie>
 
-    <!-- 6 beitrag -->
-    <kategorie id="nachtrag">
-        <name>Nachtrag oder Ergänzung</name>
-    </kategorie>
+	<kategorie id="nachruf">
+		<name>Nachruf</name>
+	</kategorie>
 
-    <!-- 83 kat -->
-    <kategorie id="vorladung">
-        <name>Gerichtliche Vorladung oder Erbschaftsangelegenheit</name>
-        <anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
-    </kategorie>
 
-    <!-- 9 kat -->
-    <kategorie id="notenblatt">
-        <name>Notenblatt mit Liedtext oder Tanzchoreographie</name>
-    </kategorie>    
+	<kategorie id="provinienz">
+		<name>Provinienz</name>
+	</kategorie>
 
-    <!-- 2 ref -->
-    <kategorie id="abbildung">
-        <name>Mit Abbildung</name>
-    </kategorie>
 
-    <!-- 1 kat -->
-    <kategorie id="korrektur">
-        <name>Korrektur</name>
-        <anmerkung>Korrektur von Fehlern in vorherigen Stücken der Zeitung; unter „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
-    </kategorie>
+	<kategorie id="gelehrte-nachrichten">
+		<name>Gelehrte Nachrichten</name>
+	</kategorie>
 
-    <!-- 1 kat -->
-    <kategorie id="rezepte">
-        <name>Rezepte, und Gesundheits- und Verbrauchertipps</name>
-    </kategorie>
 
-    <!-- 7 kat -->
-    <kategorie id="vorlesungsverzeichnis">
-        <name>Vorlesungsverzeichnisse der Albertina</name>
-    </kategorie>
+	<kategorie id="uebersetzung">
+		<name>Übersetzung</name>
+	</kategorie>
 
-    <!-- 2 kat 43 werk -->
-    <kategorie id="theaterkritik">
-        <name>Theaterkritik</name>
-        <anmerkung>Kritik oder Erwähnung des Programms der Schuchischen Gesellschaft oder der Döbbelinischen Schauspielgesellschaft</anmerkung>
-    </kategorie>
 
-    <!-- 6 kat -->
-    <kategorie id="kriminalanzeige">
-        <name>Kriminalanzeigen</name>
-        <anmerkung>Kriminalfälle, Diebstähle, Hinrichtungen etc.; mitunter unter der Rubrik „Warnungsanzeige“</anmerkung>
-    </kategorie>
-    
+	<kategorie id="lokalanzeigen">
+		<name>Lokalanzeige</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="desertionsliste">
+		<name>Liste von Deserteuren</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks.</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="einkommende-fremde">
+		<name>Einreiseliste</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="erzaehlung">
+		<name>Erzählung</name>
+	</kategorie>
+
+
+	<kategorie id="proklamation">
+		<name>Proklamation</name>
+	</kategorie>
+
+
+	<kategorie id="brief">
+		<name>Öffentlicher Brief</name>
+	</kategorie>
+
+
+	<kategorie id="lokalnachrichten">
+		<name>Lokalnachricht</name>
+		<anmerkung>Im politischen Teil der Zeitung unter „Königsberg“, zumeist auf der letzten Seite.</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="replik">
+		<name>Replik</name>
+	</kategorie>
+
+
+	<kategorie id="nachtrag">
+		<name>Nachtrag oder Ergänzung</name>
+	</kategorie>
+
+
+	<kategorie id="vorladung">
+		<name>Gerichtliche Vorladung oder Erbschaftsangelegenheit</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="notenblatt">
+		<name>Notenblatt mit Liedtext oder Tanzchoreographie</name>
+	</kategorie>
+
+
+	<kategorie id="abbildung">
+		<name>Mit Abbildung</name>
+	</kategorie>
+
+
+	<kategorie id="korrektur">
+		<name>Korrektur</name>
+		<anmerkung>Korrektur von Fehlern in vorherigen Stücken der Zeitung; unter „Avertissement“ auf
+			der vierten Seite eines Stücks</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="rezepte">
+		<name>Rezepte, und Gesundheits- und Verbrauchertipps</name>
+	</kategorie>
+
+
+	<kategorie id="vorlesungsverzeichnis">
+		<name>Vorlesungsverzeichnisse der Albertina</name>
+	</kategorie>
+
+
+	<kategorie id="theaterkritik">
+		<name>Theaterkritik</name>
+		<anmerkung>Kritik oder Erwähnung des Programms der Schuchischen Gesellschaft oder der
+			Döbbelinischen Schauspielgesellschaft</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="kriminalanzeige">
+		<name>Kriminalanzeigen</name>
+		<anmerkung>Kriminalfälle, Diebstähle, Hinrichtungen etc.; mitunter unter der Rubrik
+			„Warnungsanzeige“</anmerkung>
+	</kategorie>
+
 </kategorien>
