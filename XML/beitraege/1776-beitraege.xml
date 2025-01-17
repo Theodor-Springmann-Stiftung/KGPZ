@@ -48,11 +48,19 @@
         <werk ref="bertuch-donquixote" kat="kommentar" />
         <akteur ref="hamann" />
     </beitrag>
+    <beitrag id="kant-philanthropin1">
+        <stueck when="1776" nr="26" />
+        <werk ref="kantiana1860" kat="provinienz" s="70–72" />
+        <werk kat="replik" ref="kant-philanthropin2"></werk>
+        <werk kat="replik" ref="kant-philanthropin3"></werk>
+        <akteur ref="kant">vgl. AA II, 522–525</akteur>
+        <anmerkung>St. 26, Donnerstag, den 23. März 1776, S. 101f.</anmerkung>
+    </beitrag>
     <beitrag>
         <stueck when="1776" nr="27" />
         <werk ref="unger" kat="provinienz" s="Bd. 2, S. 921" />
         <akteur ref="lindner-jg" kat="nachruf" />
-        <akteur ref="hamann" unsicher="true" />
+        <akteur ref="hamann" />
     </beitrag>
     <beitrag>
         <stueck when="1776" nr="45" />
