@@ -157,10 +157,15 @@
         <ort ref="leipzig" />
     </beitrag>
     <beitrag>
+        <stueck when="1766" nr="8" von="32" />
+        <werk kat="rezension" ref="sale-scherzhafte-erzaehlungen"></werk>
+        <akteur ref="scheffner">HBGA I, Brief 18</akteur>
+    </beitrag>
+    <beitrag>
         <stueck when="1766" nr="8" von="32" bis="33" />
         <kategorie ref="gelehrte-nachrichten" />
         <ort ref="kgsb" />
-        <anmerkung>Bericht über die Feiern der Königsberger Akademie anlässlich des Krönungstages Friedrich I. und des Geburtstags Friedrich II.</anmerkung>
+        <anmerkung>Bericht über die Feierlichkeiten der Königsberger Akademie anlässlich des Krönungstages Friedrich I. und des Geburtstags Friedrich II.</anmerkung>
     </beitrag>
     <beitrag>
         <stueck when="1766" nr="8" von="33" bis="34" />
@@ -178,8 +183,8 @@
     <!-- 09 -->
     <beitrag>
         <stueck when="1766" nr="9" von="35" bis="36" />
-        <werk kat="rezension" ref="miller-einladungsschrift"></werk>
-        <akteur ref="herder">SWS XXII, 51–54</akteur>
+        <werk kat="rezension" ref="miller-hoffnung-einladungsschrift"></werk>
+        <akteur ref="herder">SWS I, 118–121</akteur>
     </beitrag>
     <beitrag>
         <stueck when="1766" nr="9" von="36" bis="37" />
@@ -200,6 +205,7 @@
         <werk kat="rezension" ref="rambach-schreiben"></werk>
         <ort ref="quedlinburg" />
         <ort ref="leipzig" />
+        <akteur ref="herder">SWS I, 121–123</akteur>
     </beitrag>
     <beitrag>
         <stueck when="1766" nr="10" von="40" />
@@ -224,7 +230,7 @@
         <stueck when="1766" nr="11" von="43" bis="44" />
         <werk kat="rezension" ref="trublet-versuche-ueber-verschiedene-gegenstaende"></werk>
         <ort ref="berlin" />
-        <akteur ref="herder">SWS I, 123ff.</akteur>
+        <akteur ref="herder">SWS I, 123–125</akteur>
     </beitrag>
     <beitrag>
         <stueck when="1766" nr="11" von="44" />
@@ -1507,6 +1513,7 @@
     <stueck when="1766" nr="72" von="293" bis="295"/>
     <werk kat="rezension" ref="racine-theatralische-schriften"></werk>
     <ort ref="braunschweig"/> 
+    <akteur ref="scheffner">HBGA, Brief 26</akteur>
 </beitrag>
 <beitrag>
     <stueck when="1766" nr="72" von="295" bis="296"/>
