@@ -15,6 +15,13 @@ jobs:
     - name: Run stats script
       env:
         INPUT_DIR: './XML/beitraege' # Path to your XML files directory
+        OUTPUT_FILE: './stats.txt'   # Output file for stats
       run: |
         python Scripts/stats.py
         cat ./stats.txt # Output stats to console
+
+    - name: Upload stats artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: category-stats
+        path: ./stats.txt # Path to the stats file
