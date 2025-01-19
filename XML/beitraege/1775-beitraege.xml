@@ -38,10 +38,11 @@
         <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
-        <stueck beilage="1" when="1775" nr="77" />
-        <stueck beilage="1" when="1775" nr="78" />
-        <stueck beilage="1" when="1775" nr="80" />
-        <stueck beilage="1" when="1775" nr="87" />
+        <stueck beilage="1" when="1775" nr="77" von="1" bis="2"/>
+        <stueck beilage="1" when="1775" nr="78" von="1" bis="2"/>
+        <stueck beilage="1" when="1775" nr="80" von="1" bis="2" />
+        <stueck beilage="1" when="1775" nr="87" von="1" bis="4" />
+        <stueck beilage="1" when="1775" nr="92" von="1" bis="2" />
         <werk ref="yale-muenster" kat="provinienz" />
         <werk ref="galiani-getreidehandel" kat="uebersetzung"
             s="Ausschnitte, etwa S. 96 oder S. 239" />
