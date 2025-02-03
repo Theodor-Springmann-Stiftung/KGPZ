@@ -793,8 +793,7 @@
     </werk>
 
     <werk id="haym-reich">
-        <zitation>Rudolf Haym: <title>Wiedergefundene Blätter zu Herders Schriften</title>. In: Im neuen Reich 3,2.
-            (<year>1873</year>), S. 513–527.</zitation>
+        <zitation>Rudolf Haym: <title>Wiedergefundene Blätter zu Herders Schriften</title>. In: Im neuen Reich 3,2 (<year>1873</year>), S. 513–527.</zitation>
         <url address="https://digipress.digitale-sammlungen.de/view/bsb11045682_00525_u001/1"></url>
     </werk>
 
@@ -808,31 +807,36 @@
     </werk>
 
     <werk id="hoffmann1889">
-        <zitation>Otto Hoffmann (Hg.): <title>Herders Briefe an Joh. Georg Hamann</title> (Berlin 1889)</zitation>
+        <zitation>Otto Hoffmann (Hg.): <title>Herders Briefe an Joh. Georg Hamann</title> (Berlin <year>1889</year>)</zitation>
         <url address="https://books.google.de/books?id=uwITAAAAYAAJ">Google Books</url>
     </werk>
 
     <werk id="kantiana1860">
-        <zitation>Rudolph Reicke (Hg.): <title>Kantiana</title>. Beiträge zu Immanuel Kants Leben und Schriften (Königsberg 1860).</zitation>
+        <zitation>Rudolph Reicke (Hg.): <title>Kantiana</title>. Beiträge zu Immanuel Kants Leben und Schriften (Königsberg <year>1860</year>).</zitation>
         <url address="https://books.google.de/books?id=b-BMsBktkuIC">Google Books</url>
     </werk>
 
     <werk id="hartungsche-zeitung">
-        <zitation><title>Königsberger Hartungsche Zeitung</title> (Königsberg 1850–1933). Vorgänger u.a.Intelligenzblatt, Königlich privilegierte preußische Staats-, Kriegs- und Friedenszeitung</zitation>
+        <zitation><title>Königsberger Hartungsche Zeitung</title> (Königsberg <year>1850–1933</year>). Vorgänger u.a.Intelligenzblatt, Königlich privilegierte preußische Staats-, Kriegs- und Friedenszeitung</zitation>
         <url address="http://zefys.staatsbibliothek-berlin.de/list/title/zdb/2812988X">Stabi Berlin</url>
     </werk>
 
     <werk id="neue-preussische-provinzial-blaetter1860">
-        <zitation><title>Neue preußische Provinzial-Blätter</title>, 3. Folge, hg. von X. von Hasenkamp. Bd. 6, Heft 1 und 2 (Königsberg 1860).</zitation>
+        <zitation><title>Neue preußische Provinzial-Blätter</title>, 3. Folge, hg. von X. von Hasenkamp. Bd. 6, Heft 1 und 2 (Königsberg <year>1860</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10013962-4">BSB München</url>
     </werk>
 
     <werk id="herder-nachlass">
-        <zitation>Nachlass Johann Gottfried Herder in der Staatsbibliothek zu Berlin, Kapsel 38.</zitation>
+        <zitation><title>Nachlass Johann Gottfried Herder in der Staatsbibliothek zu Berlin</title>, Kapsel 38.</zitation>
     </werk>
 
     <werk id="schaffhausen">
-        <zitation>Ministerialbibliothek Schaffhausen, Nachlass Johann Georg Müller</zitation>
+        <zitation><title>Ministerialbibliothek Schaffhausen</title>, Nachlass Johann Georg Müller</zitation>
+    </werk>
+
+    <werk id="hamann-mancherley">
+        <zitation>Johann Georg Hamann: <title>Mancherley, und Etwas zur Bolingbroke- Hervey- Hunterschen Uebersetzung, von einem Recensenten trauriger Gestalt</title> (Hamburg: Bode <year>1774</year>).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB00006AEF00000000" >Stabi Berlin</url>
     </werk>
 
     <werk id="sanseverino-italienische-biographie">
@@ -840,6 +844,18 @@
         <akteur ref="meusel-jg" kat="übersetzer"></akteur>
         <zitation><title>Italienische Biographie</title>. Aus dem Französischen übersetzt. Nebst einer Vorrede von Herrn Klotz. Bd. 1 (Frankfurt, Leipzig <year>1769</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070391-7">BSB München</url>
+    </werk>
+
+    <werk id="hamann-heinrich-bolingbroke-harvey">
+        <akteur ref="hamann" />
+        <zitation><title>Heinrich St. Johann Vitzgraf Bolingbroke und Jakob Hervey</title> etc. etc. Übersetzt von J. G. Hamann (Mitau: Hinz <year>1774</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10136259-8" >BSB München</url>
+    </werk>
+
+    <werk id="adelung-versuch-woerterbuch">
+        <akteur ref="adelung" />
+        <zitation><title>Versuch eines vollständigen grammatisch-kritischen Wörterbuchs der hochdeutschen Mundart</title>, mit beständiger Vergleichung der übrigen Mundarten, besonders aber der oberdeutschen. Erster Theil, von A–E. Dem noch beygefügt ist des Herrn M. Fulda Preisschrift über die beyden deutschen Haupt-Dialecte (Leipzig: Breitkopf <year>1774</year>).</zitation>
+        <url address="https://books.google.de/books?id=kcwEGEtnIV4C" >Google Books</url>
     </werk>
 
     <werk id="herder-kritischewaelder">

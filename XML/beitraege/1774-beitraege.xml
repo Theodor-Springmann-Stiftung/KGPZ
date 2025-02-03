@@ -36,4 +36,26 @@
         <akteur ref="herder" />
         <anmerkung>Anfang und Ende von Hamann, der nummerierte Mittelteil von Herder.</anmerkung>
     </beitrag>
+    <beitrag>
+        <stueck when="1774" nr="16" />
+        <werk ref="hamann-mancherley" kat="provinienz" s="S. 7–10" />
+        <werk ref="adelung-versuch-woerterbuch" kat="rezension" />
+        <akteur ref="hamann" />
+        <anmerkung>Ob der Beitrag tatsächlich so in den KGPZ erschien, ist unsicher; er ist nur über den Nachdruck von Hamann überliefert; dort ist er auf das „16. St., Donnerstag, den 24. des Hornungs“ datiert.</anmerkung>
+    </beitrag>
+    <beitrag id="rezension-hamann-heinrich-bolingbroke-harvey">
+        <stueck when="1774" nr="16" />
+        <werk ref="hamann-mancherley" kat="provinienz" s="S. 11f." />
+        <werk ref="hamann-heinrich-bolingbroke-harvey" kat="rezension" />
+        <akteur ref="hamann" />
+        <anmerkung>Ob der Beitrag tatsächlich so in den KGPZ erschien, ist unsicher; er ist nur über den Nachdruck von Hamann überliefert; dort ist er auf das „16. St., Donnerstag, den 24. des Hornungs“ datiert.</anmerkung>
+    </beitrag>
+    <beitrag>
+        <stueck beilage="1" when="1774" nr="16" />
+        <titel>Nothdürftiges Verzeichniß mancher Schreib- und Druckfehler in der recensirten Uebersetzung.</titel>
+        <werk ref="hamann-mancherley" kat="provinienz" s="S. 13–18" />
+        <beitrag kat="replik" ref="rezension-hamann-heinrich-bolingbroke-harvey"></beitrag>
+        <akteur ref="hamann" />
+        <anmerkung>Ob der Beitrag tatsächlich so in den KGPZ erschien, ist unsicher; er ist nur über den Nachdruck von Hamann überliefert; dort ist er auf das „16. St., Donnerstag, den 24. des Hornungs“ datiert.</anmerkung>
+    </beitrag>
 </beitraege>
