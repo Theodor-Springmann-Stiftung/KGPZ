@@ -807,7 +807,7 @@
     </werk>
 
     <werk id="hoffmann1889">
-        <zitation>Otto Hoffmann (Hg.): <title>Herders Briefe an Joh. Georg Hamann</title> (Berlin <year>1889</year>)</zitation>
+        <zitation>Otto Hoffmann (Hg.): <title>Herders Briefe an Joh. Georg Hamann</title> (Berlin <year>1889</year>).</zitation>
         <url address="https://books.google.de/books?id=uwITAAAAYAAJ">Google Books</url>
     </werk>
 
@@ -832,6 +832,11 @@
 
     <werk id="schaffhausen">
         <zitation><title>Ministerialbibliothek Schaffhausen</title>, Nachlass Johann Georg Müller</zitation>
+    </werk>
+
+    <werk id="freimaurer-bibliothek">
+        <zitation><title>Freimäurer-Bibliothek</title> (Berlin: Stahlbaum <year>1778–1803</year>).</zitation>
+        <url address="http://resolver.staatsbibliothek-berlin.de/SBB00026E4C00000000">Stabi Berlin</url>
     </werk>
 
     <werk id="hamann-mancherley">
@@ -899,6 +904,14 @@
     <werk id="benda-minuetto">
         <akteur ref="benda-jfe" />
         <zitation><title>Minuetto per il Cembalo</title> con Variazioni di Frederico Ernst Benda (Leipzig: Breitkopf <year>1768</year>).</zitation>
+    </werk>terrasson-sethos
+
+    <werk id="terrasson-sethos">
+        <akteur ref="terrasson" />
+        <akteur ref="claudius" kat="übersetzer" ></akteur>
+        <zitation><title>Geschichte des egyptischen Königs Sethos<title>. Aus dem Französischen übersetzt von Matthias Claudius (2 Bde., Breslau: Löwe <year>1777–1788</year>).</zitation>
+        <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10098506-1" >Bd. 1 (BSB München</url>
+        <url address="http://resolver.sub.uni-goettingen.de/purl?PPN863319181" >Bd. 2 (SLUB Göttingen)</url>
     </werk>
 
     <werk id="sulzer-voruebungen">
