@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Run stats script
       env:
@@ -21,7 +21,7 @@ jobs:
         cat ./stats.txt # Output stats to console
 
     - name: Upload stats artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: category-stats
         path: ./stats.txt # Path to the stats file
