@@ -300,7 +300,7 @@
         <titel>An die Freuden.</titel>
     </beitrag>
     <beitrag>
-        <stueck beilage="1" when="1771" nr="71" von="1" bis="2" />
+        <stueck beilage="1" when="1771" nr="71" von="1" />
         <titel>Preiß der Edelgesteine</titel>
 		<werk kat="auszug" ref="gothaischer-hofkalender1770" s="117–121" />
         <anmerkung>Erster Teil des Beitrages in der Beilage zum 69. Stück nicht überliefert.</anmerkung>
@@ -1201,7 +1201,7 @@
 
     <beitrag>
         <stueck when="1771" nr="34" von="133" bis="134" />
-        <stueck when="1771" nr="36" von="141" />
+        <stueck when="1771" nr="36" von="141" order="2"/>
         <stueck beilage="1" when="1771" nr="36" von="1" bis="2" />
         <werk kat="rezension" ref="cube-poetische-hiob2"></werk>
         <ort ref="leipzig"></ort>
@@ -1254,7 +1254,7 @@
 
     
     <beitrag>
-        <stueck when="1771" nr="36" von="141" />
+        <stueck when="1771" nr="36" von="141" order="1"/>
         <werk kat="rezension" ref="klein-gebete-kinder"></werk>
         <ort ref="halle" />
     </beitrag>
@@ -1403,7 +1403,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck when="1771" nr="42" von="165" bis="166" />
+        <stueck when="1771" nr="42" von="165" />
         <werk kat="rezension" ref="dusch-briefe" s="Bd. 4"></werk>
         <ort ref="leipzig" />
     </beitrag>
@@ -1714,7 +1714,7 @@
     </beitrag>    
     
     <beitrag>
-        <stueck when="1771" nr="53" von="209" bis="210" />
+        <stueck when="1771" nr="53" von="209" />
         <werk kat="rezension" ref="krebs-natuerliche-gottesgelahrtheit"></werk>
         <ort ref="giessen"></ort>
     </beitrag>
@@ -1724,7 +1724,7 @@
         <ort ref="halle"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1771" nr="53" von="209" bis="210" />
+        <stueck when="1771" nr="53" von="210" />
         <werk kat="rezension" ref="cuno-gottgeheiligt"></werk>
         <ort ref="leipzig"></ort>
     </beitrag>

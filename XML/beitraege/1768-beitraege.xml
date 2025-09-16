@@ -1790,7 +1790,7 @@
         <stueck beilage="1" when="1768" nr="84" von="1" />
         <stueck beilage="1" when="1768" nr="85" von="1" />
         <stueck beilage="1" when="1768" nr="86" von="1" />
-        <stueck beilage="1" when="1768" nr="87" von="2" />
+        <stueck beilage="1" when="1768" nr="87" von="2" order="1"/>
         <kategorie ref="aufsatz"></kategorie>
         <kategorie ref="rezepte"></kategorie>
         <titel>Kurze Anleitung wie der Landmann und diejenigen, so keinen Arzt erlangen können bey graßirenden Pocken sich zu verhalten haben. Auf Sr. Königl. Majestät in Preußen Allerhöchsten Befehl herausgegeben, von Dero Obercollegio Medico 1768.</titel>
@@ -1821,11 +1821,11 @@
         <anmerkung>Schilderung des Begräbnisses Albrecht Siegmund von Seegut-Stanislawskis.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck beilage="1" when="1768" nr="87" von="2"  order="1"/>
+        <stueck beilage="1" when="1768" nr="87" von="2"  order="2"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck beilage="1" when="1768" nr="87" von="2"  order="2"/>
+        <stueck beilage="1" when="1768" nr="87" von="2"  order="3"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
 

@@ -6,7 +6,7 @@
     <!-- Jahrgang 1772 -->
     <!-- Beilagen: -->
     <beitrag id="meinhard-ariostauszug">
-        <stueck beilage="1" when="1772" nr="1" von="1" bis="2" />
+        <stueck beilage="1" when="1772" nr="1" von="1" bis="2" order="2"/>
         <stueck beilage="1" when="1772" nr="3" von="1" bis="2" />
         <stueck beilage="1" when="1772" nr="5" von="1" bis="2" />
         <stueck beilage="1" when="1772" nr="9" von="1" bis="2" />
@@ -292,17 +292,17 @@
 
     <!-- Stücke: -->
     <beitrag>
-        <stueck when="1772" nr="1" von="1"  order="2"/>
+        <stueck when="1772" nr="1" von="1"  order="1"/>
         <kategorie ref="ineigenersache"></kategorie>
         <incipit>Neujahrsgruß</incipit>
     </beitrag>
     <beitrag>
-        <stueck when="1772" nr="1" von="1" bis="2"/>
+        <stueck when="1772" nr="1" von="1" bis="2" order="2"/>
         <kategorie ref="gedicht"></kategorie>
         <incipit>Die Nebel, die vor Deutschlands Augen hiengen…</incipit>
     </beitrag>
     <beitrag>
-        <stueck when="1772" nr="1" von="2" bis="4" />
+        <stueck when="1772" nr="1" von="2" />
         <kategorie ref="lokalnachrichten" />
         <anmerkung>Statistische Erhebungen über Geburts- und Todesraten in Königsberg für 1771.</anmerkung>
     </beitrag>
@@ -2505,7 +2505,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck when="1772" nr="91" von="365" bis="366" />
+        <stueck when="1772" nr="91" von="365" />
         <kategorie ref="gedicht"></kategorie>
         <werk kat="auszug" ref="hamburgische-neue-zeitung1772-174"></werk>
         <akteur ref="jacobi-jg"></akteur>

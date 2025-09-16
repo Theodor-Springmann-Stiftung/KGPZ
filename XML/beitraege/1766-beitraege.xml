@@ -245,7 +245,7 @@
         <ort ref="stralsund" />
     </beitrag>
     <beitrag>
-        <stueck when="1766" nr="11" von="44" bis="45" />
+        <stueck when="1766" nr="11" von="45" bis="46" />
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
@@ -275,13 +275,14 @@
 
    <!-- 13 -->
     <beitrag id="bock-geburtstag">
-        <stueck beilage="1" when="1766" nr="14" von="1" bis="2"/>
+        <stueck beilage="1" when="1766" nr="14" von="1" bis="2" order="2"/>
+        <kategorie ref="gedicht" />
         <titel>Auf den Geburtstag des Königs, bey Wiedereröfnung der Königl. deutschen Gesellschaft. von Karl Gottlieb Bock. einem Mitgliede derselben. Den 25sten Januarius, 1766.</titel>
         <akteur ref="bock-kg"></akteur>
     </beitrag>
    <beitrag>
     <stueck when="1766" nr="13" von="51" bis="52" />
-    <stueck beilage="1" when="1766" nr="14" von="1" bis="2"/>
+    <stueck beilage="1" when="1766" nr="14" von="1" bis="2" order="1"/>
     <beitrag ref="bock-geburtstag" kat="kommentar" />
     <ort ref="kgsb" />
     <akteur ref="scheffner">HBGA I, 50</akteur>
@@ -1102,7 +1103,7 @@
     <anmerkung>Antworten des Redakteurs auf Leserbriefe zu verschiedenen Beiträgen.</anmerkung>
 </beitrag> 
 <beitrag id="karsch-zeus">
-    <stueck beilage="1" when="1766" nr="52" von="209" bis="210"/>
+    <stueck beilage="1" when="1766" nr="52" von="209"/>
     <kategorie ref="gedicht"></kategorie>
     <incipit>Zevs heißts dem Blitz daß er von übeln Dünsten</incipit>
     <akteur ref="karsch"></akteur>
@@ -1961,20 +1962,24 @@
     <ort ref="leipzig"/> 
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="93" von="379" bis="384"/>
+    <stueck when="1766" nr="93" von="379" bis="381"/>
     <kategorie ref="weltnachrichten" />  
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="93" von="379" bis="384"/>
+    <stueck when="1766" nr="93" von="381" bis="384"/>
     <kategorie ref="lokalnachrichten" /> 
     <anmerkung>Aus dem polnischen Reichstags-Journal, Rede des Krakauer Bischofs über die Dissidenten.</anmerkung>
 </beitrag>
 <beitrag>
     <stueck when="1766" nr="93" von="384" order="1"/>
+    <kategorie ref="weltnachrichten" />  
+</beitrag>
+<beitrag>
+    <stueck when="1766" nr="93" von="384" order="2"/>
     <kategorie ref="lotterie"></kategorie>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="93" von="384"  order="2"/>
+    <stueck when="1766" nr="93" von="384"  order="3"/>
     <kategorie ref="wechselkurse" />
 </beitrag>
 

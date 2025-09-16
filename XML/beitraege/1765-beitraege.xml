@@ -35,7 +35,6 @@
     <!-- 01 -->
     <beitrag>
         <stueck when="1765" nr="1" von="1" bis="2"/>
-		<stueck when="1765" nr="2" von="5" bis="6"/>
         <kategorie ref="aufsatz"/>
         <incipit>Unsere Leser werden nichts weniger als statt der gewöhnlichen Wünsche …</incipit>
         <anmerkung>An die Leser anstatt eines Neujahrswunsches</anmerkung>
@@ -729,15 +728,15 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="30" von="123" bis="124"/>
+        <stueck when="1765" nr="30" von="124" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="30" von="124" order="1"/>
+        <stueck when="1765" nr="30" von="124" order="2"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="30" von="124" order="2"/>
+        <stueck when="1765" nr="30" von="124" order="3"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
@@ -847,7 +846,7 @@
     </beitrag>
     <beitrag>
         <stueck when="1765" nr="35" von="142" bis="143"/>
-        <stueck when="1765" nr="36" von="145" bis="146"/>
+        <stueck when="1765" nr="36" von="145" bis="146" order="1"/>
         <werk ref="meier-philosophische-betrachtungen" kat="rezension"  s="St. 5" />
         <ort ref="halle"></ort>
     </beitrag>
@@ -861,7 +860,7 @@
     </beitrag>
 
     <beitrag>
-        <stueck when="1765" nr="36" von="145" bis="146"/>
+        <stueck when="1765" nr="36" von="145" bis="146" order="2"/>
         <werk ref="wilhelmine-vermaehlte-pedant" kat="rezension" />
         <akteur ref="scheffner"></akteur>
     </beitrag>
@@ -2068,7 +2067,7 @@
         <anmerkung>„Aus P--p--n in Curland eingeschickt“ (Pampeln), unterzeichnet „G---t.“</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="89" von="357" bis="358"/>
+        <stueck when="1765" nr="89" von="358"/>
         <kategorie ref="erzaehlung"></kategorie>
         <titel>Proceß über den Rang. Eine Fabel.</titel>
     </beitrag>
@@ -2286,7 +2285,7 @@
         <akteur ref="herder">SWS I, 106f.</akteur>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="97" von="391" bis="392"/>
+        <stueck when="1765" nr="97" von="391"/>
         <kategorie ref="buecher"/>
         <titel>Nachricht.</titel>
         <anmerkung>Bücherangebot von August Mylius in Berlin, das man über Kanter bestellen kann</anmerkung>

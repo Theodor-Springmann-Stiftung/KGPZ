@@ -53,12 +53,12 @@
         <akteur ref="scheffner">Warda/diesch I, 265</akteur>
     </beitrag>
     <beitrag>
-        <stueck when="1767" nr="3" von="9" bis="10" />
+        <stueck when="1767" nr="3" von="10" order="1"/>
         <werk kat="rezension" ref="stockhausen-sammlung3"></werk>
         <ort ref="helmstedt"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1767" nr="3" von="10" />
+        <stueck when="1767" nr="3" von="10" order="2"/>
         <kategorie ref="buecher" />
     </beitrag>
     <beitrag>
@@ -142,11 +142,11 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
-        <stueck when="1767" nr="6" von="23" bis="24" />
+        <stueck when="1767" nr="6" von="24" order="1"/>
         <kategorie ref="einkommende-fremde" />
     </beitrag>
     <beitrag>
-        <stueck when="1767" nr="6" von="24" />
+        <stueck when="1767" nr="6" von="24" order="2"/>
         <kategorie ref="lotterie" />
     </beitrag>
 
@@ -1571,7 +1571,7 @@
         <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
     </beitrag>
     <beitrag>
-        <stueck when="1767" nr="75" von="301" bis="302"/>
+        <stueck when="1767" nr="75" von="302"/>
         <werk kat="rezension" ref="feddersen-predigten"></werk>
         <ort ref="flensburg"></ort>
         <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>

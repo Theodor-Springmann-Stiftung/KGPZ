@@ -31,29 +31,6 @@
         <vermerk>Bearbeitungsvermerk</vermerk>
     </beitrag> -->
 
-    <!-- Sonderfälle: -->
-    <beitrag>
-        <stueck when="1764" />
-        <kategorie ref="ineigenersache" />
-        <datum when="1764-01-28" />
-        <titel>Nachricht.</titel>
-        <akteur ref="hamann" />
-        <akteur ref="kanter" />
-        <anmerkung>Anzeige und Beschreibung des Zeitungsprojekts, sechs Tage vor dem ersten Stück,
-            am 28. Januar 1764 in Königsberg ausgegeben.</anmerkung>
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" />
-        <kategorie ref="proklamation" />
-        <titel>Wir Catharina die Zweyte, von Gottes Gnaden Kayserin und Selbstherrscherin aller
-            Reußen thun hiemit jedermänniglich kund und zu wißen…</titel>
-        <akteur ref="katharina-ii" />
-        <anmerkung>Übersetzung eines Berichts über den versuchten Aufstand zur Befreiung Iwans VI
-            und dessen Ermordung, gedruckt in St. Petersburg, 17. August 1764.</anmerkung>
-        <!-- unsicher, welchem Stück das beilag -->
-    </beitrag>
-
-    
     <!-- Jg. 1764: -->
     <beitrag>
         <stueck when="1764" nr="1" von="1" bis="2" />
@@ -1157,7 +1134,7 @@
         <anmerkung>Unterzeichnet mit „T.“</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1764" nr="53" von="209" bis="211" />
+        <stueck when="1764" nr="53" von="211" />
         <kategorie ref="gedicht" />
         <titel>Phantasie.</titel>
         <akteur ref="trescho">HBGA I, 26</akteur>
@@ -1190,12 +1167,12 @@
         <ort ref="quedlinburg" />
     </beitrag>
     <beitrag>
-        <stueck when="1764" nr="54" von="213" bis="214" />
+        <stueck when="1764" nr="54" von="214" />
         <werk ref="macpherson-fingal" kat="rezension" />
         <ort ref="hamburg" />
     </beitrag>
     <beitrag>
-        <stueck when="1764" nr="54" von="213" bis="214" />
+        <stueck when="1764" nr="54" von="214" bis="215" />
         <werk ref="thomas-sully" kat="rezension" />
         <ort ref="hamburg" />
     </beitrag>
@@ -2186,7 +2163,7 @@
         <werk kat="rezension" ref="groeben-buechermanufactur"></werk>
     </beitrag>
     <beitrag>
-        <stueck when="1764" nr="92" von="366" bis="367" />
+        <stueck when="1764" nr="92" von="366" />
         <werk kat="rezension" ref="grau-wundmittel"></werk>
         <ort ref="lemgo"></ort>
     </beitrag>
