@@ -19,12 +19,6 @@
 	</kategorie>
 
 
-	<kategorie id="panegyrik">
-		<name>Panegyrik</name>
-		<vermerk>Lobreden auf Friedrich II., Königsgeburtstag etc.</vermerk>
-	</kategorie>
-
-
 	<kategorie id="weltnachrichten">
 		<name>Politische Nachrichten aus aller Welt</name>
 	</kategorie>
@@ -144,14 +138,10 @@
 	</kategorie>
 
 
-	<kategorie id="nachtrag">
-		<name>Nachtrag oder Ergänzung</name>
-	</kategorie>
-
-
 	<kategorie id="vorladung">
 		<name>Gerichtliche Vorladung oder Erbschaftsangelegenheit</name>
-		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks; auch Kriminalanzeigen zu Diebstählen, Hinrichtungen etc.; mitunter unter der Rubrik
+			„Warnungsanzeige“</anmerkung>
 	</kategorie>
 
 
@@ -165,18 +155,6 @@
 	</kategorie>
 
 
-	<kategorie id="korrektur">
-		<name>Korrektur</name>
-		<anmerkung>Korrektur von Fehlern in vorherigen Stücken der Zeitung; unter „Avertissement“ auf
-			der vierten Seite eines Stücks</anmerkung>
-	</kategorie>
-
-
-	<kategorie id="rezepte">
-		<name>Rezepte, und Gesundheits- und Verbrauchertipps</name>
-	</kategorie>
-
-
 	<kategorie id="vorlesungsverzeichnis">
 		<name>Vorlesungsverzeichnisse der Albertina</name>
 	</kategorie>
@@ -186,13 +164,6 @@
 		<name>Theaterkritik</name>
 		<anmerkung>Kritik oder Erwähnung des Programms der Schuchischen Gesellschaft oder der
 			Döbbelinischen Schauspielgesellschaft</anmerkung>
-	</kategorie>
-
-
-	<kategorie id="kriminalanzeige">
-		<name>Kriminalanzeigen</name>
-		<anmerkung>Kriminalfälle, Diebstähle, Hinrichtungen etc.; mitunter unter der Rubrik
-			„Warnungsanzeige“</anmerkung>
 	</kategorie>
 
 </kategorien>

@@ -178,7 +178,7 @@
     <!-- 07 -->
     <beitrag>
         <stueck when="1765" nr="7" von="25" bis="26"/>
-        <kategorie ref="panegyrik"/>
+        <kategorie ref="gedicht"/>
         <titel>Ode am Geburtstage des Königs, von T. G. Hippel.</titel>
         <akteur ref="hippel"></akteur>
     </beitrag>
@@ -2067,12 +2067,12 @@
         <anmerkung>„Aus P--p--n in Curland eingeschickt“ (Pampeln), unterzeichnet „G---t.“</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="89" von="358"/>
+        <stueck when="1765" nr="89" von="358" order="1"/>
         <kategorie ref="erzaehlung"></kategorie>
         <titel>Proceß über den Rang. Eine Fabel.</titel>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="89" von="358"/>
+        <stueck when="1765" nr="89" von="358" order="2"/>
         <akteur ref="hartmann-mp" kat="nachruf" />
     </beitrag>
     <beitrag>
