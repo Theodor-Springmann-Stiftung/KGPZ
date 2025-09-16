@@ -59,6 +59,12 @@
 			</xsd:annotation>
 		</xsd:attribute>
 
+		<xsd:attribute name="order" type="xsd:positiveInteger" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>Die Reihenfolge des Beitrags auf einer Seite, falls mehrdeutig.</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+
 		<xsd:attribute name="beilage" type="xsd:unsignedInt"
 			use="optional" default="0">
 			<xsd:annotation>
