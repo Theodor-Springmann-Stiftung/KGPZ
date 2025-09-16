@@ -28,7 +28,7 @@ def validate_stueck_constraints(tree):
                     )
                     errors.append(error_msg)
 
-    # --- Rule 2: Check for uniqueness of multi-page jumps ---
+    # --- Rule 2: Check for conditional 'order' on ambiguous multi-page entries ---
     stuecke_with_bis = root.xpath('//kgpz:beitrag/kgpz:stueck[@bis]', namespaces=ns)
     groups_multi_page = defaultdict(list)
     for stueck in stuecke_with_bis:
@@ -37,12 +37,13 @@ def validate_stueck_constraints(tree):
 
     for key, stuecks in groups_multi_page.items():
         if len(stuecks) > 1:
-            error_msg = (
-                f"Custom Validation Error: Found {len(stuecks)} identical multi-page <stueck> tags. "
-                f"The combination of attributes (when='{key[0]}', nr='{key[1]}', von='{key[2]}', bis='{key[3]}') must be unique. "
-                f"Duplicate found on line {stuecks[1].sourceline}."
-            )
-            errors.append(error_msg)
+            for stueck in stuecks:
+                if stueck.get('order') is None:
+                    error_msg = (
+                        f"Custom Validation Error: <stueck> on line {stueck.sourceline} is part of an ambiguous multi-page group "
+                        f"(when='{key[0]}', nr='{key[1]}', von='{key[2]}', bis='{key[3]}') but is missing the 'order' attribute."
+                    )
+                    errors.append(error_msg)
             
     return errors
 
