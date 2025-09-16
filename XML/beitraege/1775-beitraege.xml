@@ -28,12 +28,12 @@
         <akteur ref="hamann" />
     </beitrag>
     <beitrag>
-        <stueck when="1775" nr="101" von="402" />
+        <stueck when="1775" nr="101" von="402"  order="1"/>
         <kategorie ref="lokalanzeigen" />
         <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>
     <beitrag>
-        <stueck when="1775" nr="101" von="402" />
+        <stueck when="1775" nr="101" von="402"  order="2"/>
         <kategorie ref="wechselkurse" />
         <werk ref="yale-muenster" kat="provinienz" />
     </beitrag>

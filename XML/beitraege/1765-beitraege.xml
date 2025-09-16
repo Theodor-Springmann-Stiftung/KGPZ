@@ -67,11 +67,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="2" von="8"/>
+        <stueck when="1765" nr="2" von="8" order="1"/>
         <kategorie ref="lokalnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="2" von="8"/>
+        <stueck when="1765" nr="2" von="8" order="2"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
@@ -87,11 +87,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="3" von="12"/>
+        <stueck when="1765" nr="3" von="12" order="1"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="3" von="12"/>
+        <stueck when="1765" nr="3" von="12" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -102,12 +102,12 @@
         <ort ref="halle"/>
      </beitrag>
      <beitrag>
-        <stueck when="1765" nr="4" von="14"/>
+        <stueck when="1765" nr="4" von="14" order="1"/>
         <werk ref="jacobi-abhandlungen" kat="rezension"/>
         <ort ref="hannover"/>
      </beitrag>
      <beitrag>
-        <stueck when="1765" nr="4" von="14"/>
+        <stueck when="1765" nr="4" von="14" order="2"/>
         <werk ref="moser-schriften" kat="rezension"/>
         <ort ref="frankfurt"></ort>
      </beitrag>
@@ -118,13 +118,13 @@
         <ort ref="zuellichau"></ort>
      </beitrag>
      <beitrag>
-        <stueck when="1765" nr="4" von="15"/>
+        <stueck when="1765" nr="4" von="15" order="1"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <ort ref="neuchatel"/>
         <anmerkung>Ankündigung der Werke Rousseaus</anmerkung>
      </beitrag>
      <beitrag>
-        <stueck when="1765" nr="4" von="15"/>
+        <stueck when="1765" nr="4" von="15" order="2"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>Ankündigung einer neuen Karte des Herzogtums Mecklenburg u.a.</anmerkung>
      </beitrag>
@@ -133,12 +133,12 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck when="1765" nr="4" von="16"/>
+       <stueck when="1765" nr="4" von="16" order="1"/>
        <kategorie ref="lokalnachrichten"/>
        <akteur ref="goldbach-c" kat="nachruf" />
    </beitrag>
     <beitrag>
-        <stueck when="1765" nr="4" von="16"/>
+        <stueck when="1765" nr="4" von="16" order="2"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
@@ -154,11 +154,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="5" von="20"/>
+        <stueck when="1765" nr="5" von="20" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="5" von="20"/>
+        <stueck when="1765" nr="5" von="20" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -168,11 +168,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="6" von="24"/>
+        <stueck when="1765" nr="6" von="24" order="1"/>
         <kategorie ref="lokalnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="6" von="24"/>
+        <stueck when="1765" nr="6" von="24" order="2"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
@@ -190,11 +190,11 @@
         <anmerkung>Nachricht über die Feiern der Königsberger Akademie anlässlich des Krönungsjubiläums Friedrichs I. und des Geburtstages Friedrichs II.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="7" von="28"/>
+        <stueck when="1765" nr="7" von="28" order="1"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="7" von="28"/>
+        <stueck when="1765" nr="7" von="28" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -218,16 +218,16 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="8" von="32"/>
+        <stueck when="1765" nr="8" von="32" order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="8" von="32"/>
+        <stueck when="1765" nr="8" von="32" order="2"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="8" von="32"/>
+        <stueck when="1765" nr="8" von="32" order="3"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
@@ -321,11 +321,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="13" von="52"/>
+        <stueck when="1765" nr="13" von="52" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="13" von="52"/>
+        <stueck when="1765" nr="13" von="52" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -345,11 +345,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="14" von="56"/>
+        <stueck when="1765" nr="14" von="56" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="14" von="56"/>
+        <stueck when="1765" nr="14" von="56" order="2"/>
         <kategorie ref="lotterie"/>
     </beitrag>
 
@@ -405,11 +405,11 @@
         <ort ref="halle"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="17" von="66"/>
+        <stueck when="1765" nr="17" von="66" order="1"/>
         <werk ref="voltaire-contes" kat="rezension"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="17" von="66"/>
+        <stueck when="1765" nr="17" von="66" order="2"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <ort ref="kgsb"></ort>
         <anmerkung>Disputation D. Brauns als Prof. Juris Ordinarius quartus</anmerkung>
@@ -457,11 +457,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="19" von="76"/>
+        <stueck when="1765" nr="19" von="76" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="19" von="76"/>
+        <stueck when="1765" nr="19" von="76" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -474,12 +474,12 @@
         <anmerkung>Ankündigung für Aufgaben, die in den KGPZ öffentlich gestellt werden; die erste betrifft die Nationalfaulheit und Mittel dagegen, die zweite Arten der Häuslichkeit</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="20" von="78"/>
+        <stueck when="1765" nr="20" von="78" order="1"/>
         <werk ref="schreber-schriften" kat="rezension"/>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="20" von="78"/>
+        <stueck when="1765" nr="20" von="78" order="2"/>
         <kategorie ref="gedicht"/>
         <titel>Die Rose</titel>
     </beitrag>
@@ -509,12 +509,12 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="21" von="84"/>
+        <stueck when="1765" nr="21" von="84" order="1"/>
         <kategorie ref="lokalnachrichten"/>
         <kategorie ref="gelehrte-nachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="21" von="84"/>
+        <stueck when="1765" nr="21" von="84" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -525,13 +525,13 @@
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="22" von="86"/>
+        <stueck when="1765" nr="22" von="86" order="1"/>
         <werk ref="vergnuegte-nebenstunden" kat="rezension"/>
         <ort ref="augsburg"/>
         <ort ref="memmingen"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="22" von="86"/>
+        <stueck when="1765" nr="22" von="86" order="2"/>
         <werk ref="pfeffel-allgemeine-bibliothek-schoen-gut" kat="rezension"/>
         <ort ref="frankfurt"/>
     </beitrag>
@@ -566,11 +566,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="23" von="92"/>
+        <stueck when="1765" nr="23" von="92" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="23" von="92"/>
+        <stueck when="1765" nr="23" von="92" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
@@ -589,11 +589,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="24" von="96"/>
+        <stueck when="1765" nr="24" von="96" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="24" von="96"/>
+        <stueck when="1765" nr="24" von="96" order="2"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
         
@@ -631,11 +631,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="26" von="104"/>
+        <stueck when="1765" nr="26" von="104" order="1"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="26" von="104"/>
+        <stueck when="1765" nr="26" von="104" order="2"/>
         <kategorie ref="buecher"/>
         <anmerkung>Angebot von früheren Quartalen der KGPZ im Kanterschen Buchladen</anmerkung>
     </beitrag>
@@ -648,11 +648,11 @@
         <akteur ref="lindner-jg">vgl. ZH II, S. 321</akteur>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="27" von="108"/>
+        <stueck when="1765" nr="27" von="108" order="1"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="27" von="108"/>
+        <stueck when="1765" nr="27" von="108" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     <beitrag>
@@ -733,11 +733,11 @@
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="30" von="124"/>
+        <stueck when="1765" nr="30" von="124" order="1"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="30" von="124"/>
+        <stueck when="1765" nr="30" von="124" order="2"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
@@ -787,13 +787,13 @@
         <akteur ref="wolson-jc">vgl. Joseph Kohnen: Lyrik in Königsberg (Frankfurt am Main u.a. 2000), S. 33</akteur>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="33" von="134"/>
+        <stueck when="1765" nr="33" von="134" order="1"/>
         <werk ref="mortimer-plutarch" kat="rezension" s="Bd. 2" />
         <ort ref="leipzig"/>
         <ort ref="zuellichau"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="33" von="134"/>
+        <stueck when="1765" nr="33" von="134" order="2"/>
         <werk ref="spalding-berlinische-antrittspredigt" kat="rezension" />
         <ort ref="berlin"/>
     </beitrag>
@@ -940,13 +940,13 @@
         <titel>Lied an mein Mädchen.</titel>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="40" von="162"/>
+        <stueck when="1765" nr="40" von="162" order="1"/>
         <werk ref="riccoboni-jenny" kat="rezension" />
         <ort ref="dresden"></ort>
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="40" von="162"/>
+        <stueck when="1765" nr="40" von="162" order="2"/>
         <kategorie ref="lokalanzeigen"></kategorie>
         <titel>Nachricht.</titel>
         <anmerkung>Für die Eröffnung einer Leihbibliothek in Königsberg</anmerkung>
@@ -1011,11 +1011,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="43" von="176"/>
+        <stueck when="1765" nr="43" von="176" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="43" von="176"/>
+        <stueck when="1765" nr="43" von="176" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
@@ -1053,11 +1053,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="45" von="184"/>
+        <stueck when="1765" nr="45" von="184" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="45" von="184"/>
+        <stueck when="1765" nr="45" von="184" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -1077,15 +1077,15 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="46" von="188"/>
+        <stueck when="1765" nr="46" von="188" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="46" von="188"/>
+        <stueck when="1765" nr="46" von="188" order="2"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="46" von="188"/>
+        <stueck when="1765" nr="46" von="188" order="3"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
@@ -1155,15 +1155,15 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="49" von="200"/>
+        <stueck when="1765" nr="49" von="200" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="49" von="200"/>
+        <stueck when="1765" nr="49" von="200" order="2"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="49" von="200"/>
+        <stueck when="1765" nr="49" von="200" order="3"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -1177,11 +1177,11 @@
             <kategorie ref="weltnachrichten"/>
         </beitrag>
         <beitrag>
-            <stueck when="1765" nr="50" von="204"/>
+            <stueck when="1765" nr="50" von="204" order="1"/>
             <kategorie ref="buecher"/>
         </beitrag>
         <beitrag>
-            <stueck when="1765" nr="50" von="204"/>
+            <stueck when="1765" nr="50" von="204" order="2"/>
             <kategorie ref="einkommende-fremde"/>
         </beitrag>
 
@@ -1206,11 +1206,11 @@
                 <kategorie ref="weltnachrichten"/>
             </beitrag>
             <beitrag>
-                <stueck when="1765" nr="51" von="208"/>
+                <stueck when="1765" nr="51" von="208" order="1"/>
                 <kategorie ref="buecher"/>
             </beitrag>
             <beitrag>
-                <stueck when="1765" nr="51" von="208"/>
+                <stueck when="1765" nr="51" von="208" order="2"/>
                 <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -1231,15 +1231,15 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck when="1765" nr="52" von="212"/>
+       <stueck when="1765" nr="52" von="212" order="1"/>
        <kategorie ref="buecher"/>
    </beitrag>
    <beitrag>
-      <stueck when="1765" nr="52" von="212"/>
+      <stueck when="1765" nr="52" von="212" order="2"/>
       <kategorie ref="lokalanzeigen"/>
   </beitrag>
     <beitrag>
-        <stueck when="1765" nr="52" von="212"/>
+        <stueck when="1765" nr="52" von="212" order="3"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -1257,15 +1257,15 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck when="1765" nr="53" von="216"/>
+       <stueck when="1765" nr="53" von="216" order="1"/>
        <kategorie ref="buecher"/>
    </beitrag>
    <beitrag>
-      <stueck when="1765" nr="53" von="216"/>
+      <stueck when="1765" nr="53" von="216" order="2"/>
       <kategorie ref="lokalanzeigen"/>
   </beitrag>
     <beitrag>
-        <stueck when="1765" nr="53" von="216"/>
+        <stueck when="1765" nr="53" von="216" order="3"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
@@ -1306,15 +1306,15 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck when="1765" nr="55" von="224"/>
+       <stueck when="1765" nr="55" von="224" order="1"/>
        <kategorie ref="buecher"/>
    </beitrag>
    <beitrag>
-      <stueck when="1765" nr="55" von="224"/>
+      <stueck when="1765" nr="55" von="224" order="2"/>
       <kategorie ref="lokalanzeigen"/>
   </beitrag>
     <beitrag>
-        <stueck when="1765" nr="55" von="224"/>
+        <stueck when="1765" nr="55" von="224" order="3"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -1330,11 +1330,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck when="1765" nr="56" von="228"/>
+       <stueck when="1765" nr="56" von="228" order="1"/>
        <kategorie ref="lokalanzeigen"/>
    </beitrag>
     <beitrag>
-        <stueck when="1765" nr="56" von="228"/>
+        <stueck when="1765" nr="56" von="228" order="2"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
@@ -1353,11 +1353,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck when="1765" nr="57" von="232"/>
+       <stueck when="1765" nr="57" von="232" order="1"/>
        <kategorie ref="buecher"/>
    </beitrag>
     <beitrag>
-        <stueck when="1765" nr="57" von="232"/>
+        <stueck when="1765" nr="57" von="232" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     
@@ -1370,11 +1370,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-       <stueck when="1765" nr="58" von="236"/>
+       <stueck when="1765" nr="58" von="236" order="1"/>
        <kategorie ref="buecher"/>
    </beitrag>
     <beitrag>
-        <stueck when="1765" nr="58" von="236"/>
+        <stueck when="1765" nr="58" von="236" order="2"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
@@ -1415,11 +1415,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="60" von="244"/>
+        <stueck when="1765" nr="60" von="244" order="1"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag> 
     <beitrag>
-        <stueck when="1765" nr="60" von="244"/>
+        <stueck when="1765" nr="60" von="244" order="2"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
@@ -1448,11 +1448,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="62" von="252"/>
+        <stueck when="1765" nr="62" von="252" order="1"/>
         <kategorie ref="lotterie"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="62" von="252"/>
+        <stueck when="1765" nr="62" von="252" order="2"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
@@ -1475,11 +1475,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="63" von="256"/>
+        <stueck when="1765" nr="63" von="256" order="1"/>
         <kategorie ref="lotterie"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="63" von="256"/>
+        <stueck when="1765" nr="63" von="256" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -1511,11 +1511,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="65" von="264"/>
+        <stueck when="1765" nr="65" von="264" order="1"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="65" von="264"/>
+        <stueck when="1765" nr="65" von="264" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -1535,11 +1535,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="66" von="268"/>
+        <stueck when="1765" nr="66" von="268" order="1"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="66" von="268"/>
+        <stueck when="1765" nr="66" von="268" order="2"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
@@ -1553,11 +1553,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="67" von="272"/>
+        <stueck when="1765" nr="67" von="272" order="1"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="67" von="272"/>
+        <stueck when="1765" nr="67" von="272" order="2"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
@@ -1579,11 +1579,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="68" von="276"/>
+        <stueck when="1765" nr="68" von="276" order="1"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="68" von="276"/>
+        <stueck when="1765" nr="68" von="276" order="2"/>
         <kategorie ref="buecher"/>
     </beitrag>
  
@@ -1592,11 +1592,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="69" von="280"/>
+        <stueck when="1765" nr="69" von="280" order="1"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="69" von="280"/>
+        <stueck when="1765" nr="69" von="280" order="2"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
@@ -1612,11 +1612,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="70" von="284"/>
+        <stueck when="1765" nr="70" von="284" order="1"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="70" von="284"/>
+        <stueck when="1765" nr="70" von="284" order="2"/>
         <kategorie ref="buecher"/>
     </beitrag>
 
@@ -1660,16 +1660,16 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="72" von="292"/>
+        <stueck when="1765" nr="72" von="292" order="1"/>
         <kategorie ref="lokalnachrichten"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="72" von="292"/>
+        <stueck when="1765" nr="72" von="292" order="2"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="72" von="292"/>
+        <stueck when="1765" nr="72" von="292" order="3"/>
         <kategorie ref="buecher"/>
     </beitrag>
     
@@ -1840,12 +1840,12 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="80" von="324"/>
+        <stueck when="1765" nr="80" von="324" order="1"/>
         <kategorie ref="lokalnachrichten"/>
         <anmerkung>Festsetzung der Tabackspreise durch die Königlich Preußische General Direction der Tobacks-Verpackungs-Compagnie</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="80" von="324"/>
+        <stueck when="1765" nr="80" von="324" order="2"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
@@ -1869,13 +1869,13 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="81" von="328"/>
+        <stueck when="1765" nr="81" von="328" order="1"/>
         <kategorie ref="lokalanzeigen"/>
         <akteur ref="kanter"></akteur>
         <anmerkung>Stellenanzeige beim Kanterschen Buchladen</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="81" von="328"/>
+        <stueck when="1765" nr="81" von="328" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -1888,12 +1888,12 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="82" von="332"/>
+        <stueck when="1765" nr="82" von="332" order="1"/>
         <kategorie ref="lokalnachrichten"/>
         <anmerkung>Aufforderung der Königlich Preußischen General Direction der Tobacks-Verpackungs-Compagnie zum stempeln lassen</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="82" von="332"/>
+        <stueck when="1765" nr="82" von="332" order="2"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
@@ -1924,12 +1924,12 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="83" von="336"/>
+        <stueck when="1765" nr="83" von="336" order="1"/>
         <kategorie ref="lokalnachrichten"/>
         <anmerkung>Über einen Chronostich auf den Tod Kaiser Franz I. Stephan</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="83" von="336"/>
+        <stueck when="1765" nr="83" von="336" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -1950,15 +1950,15 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="84" von="340"/>
+        <stueck when="1765" nr="84" von="340" order="1"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="84" von="340"/>
+        <stueck when="1765" nr="84" von="340" order="2"/>
         <kategorie ref="buecher"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="84" von="340"/>
+        <stueck when="1765" nr="84" von="340" order="3"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
@@ -1985,11 +1985,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="85" von="344"/>
+        <stueck when="1765" nr="85" von="344" order="1"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="85" von="344"/>
+        <stueck when="1765" nr="85" von="344" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -2008,11 +2008,11 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="86" von="348"/>
+        <stueck when="1765" nr="86" von="348" order="1"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="86" von="348"/>
+        <stueck when="1765" nr="86" von="348" order="2"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
@@ -2086,16 +2086,16 @@
         <beitrag ref="auszug-shaw" kat="replik" />
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="89" von="360"/>
+        <stueck when="1765" nr="89" von="360" order="1"/>
         <kategorie ref="lokalnachrichten"/>
         <anmerkung>Über die Eröffnung des Schauplatzes der Schuchischen Gesellschaft</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="89" von="360"/>
+        <stueck when="1765" nr="89" von="360" order="2"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="89" von="360"/>
+        <stueck when="1765" nr="89" von="360" order="3"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
@@ -2134,12 +2134,12 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="91" von="368"/>
+        <stueck when="1765" nr="91" von="368" order="1"/>
         <kategorie ref="lokalnachrichten"/>
         <akteur ref="levin-m" kat="nachruf" />
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="91" von="368"/>
+        <stueck when="1765" nr="91" von="368" order="2"/>
         <kategorie ref="wechselkurse"/>
     </beitrag>
 
@@ -2204,22 +2204,22 @@
         <akteur ref="herder">SWS I, 101</akteur>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="94" von="379"/>
+        <stueck when="1765" nr="94" von="379" order="1"/>
         <werk ref="beaumelle-seneca" kat="rezension" />
         <ort ref="berlin"></ort>
         <akteur ref="herder">SWS I, 102f.</akteur>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="94" von="379"/>
+        <stueck when="1765" nr="94" von="379" order="2"/>
         <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>Über die Verteidigung von Magister Martin Nicuta</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="94" von="380"/>
+        <stueck when="1765" nr="94" von="380" order="1"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="94" von="380"/>
+        <stueck when="1765" nr="94" von="380" order="2"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
@@ -2315,12 +2315,12 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="98" von="396"/>
+        <stueck when="1765" nr="98" von="396" order="1"/>
         <kategorie ref="lokalnachrichten"/>
         <anmerkung>Über eine Lichterscheinung am Himmel</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="98" von="396"/>
+        <stueck when="1765" nr="98" von="396" order="2"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
@@ -2431,11 +2431,11 @@
         <anmerkung>Neujahrsbetrachtung</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="104" von="420"/>
+        <stueck when="1765" nr="104" von="420" order="1"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag>
-        <stueck when="1765" nr="104" von="420"/>
+        <stueck when="1765" nr="104" von="420" order="2"/>
         <kategorie ref="einkommende-fremde"/>
     </beitrag>
 

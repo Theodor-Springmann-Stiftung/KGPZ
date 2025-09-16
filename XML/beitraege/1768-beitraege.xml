@@ -13,12 +13,12 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="1" von="4" />
+        <stueck when="1768" nr="1" von="4"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
         <anmerkung>Statistische Erhebungen zur Demographie in Königsberg</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="1" von="4" />
+        <stueck when="1768" nr="1" von="4"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -33,16 +33,16 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="2" von="8" />
+        <stueck when="1768" nr="2" von="8"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
         <anmerkung>Statistische Erhebungen zum Warenverkehr</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="2" von="8" />
+        <stueck when="1768" nr="2" von="8"  order="2"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="2" von="8" />
+        <stueck when="1768" nr="2" von="8"  order="3"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
 
@@ -52,12 +52,12 @@
         <ort ref="regensburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="3" von="10" />
+        <stueck when="1768" nr="3" von="10"  order="1"/>
         <werk kat="rezension" ref="graefin-vergy"></werk>
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="3" von="10" />
+        <stueck when="1768" nr="3" von="10"  order="2"/>
         <kategorie ref="anzeige"></kategorie>
         <anmerkung>Für einen Verkaufskatalog der Bibliothek des im letzten Jahr verstorbenen Johann Peter Süßmilch.</anmerkung>
     </beitrag>
@@ -177,13 +177,13 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="10" von="42" />
+        <stueck when="1768" nr="10" von="42"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
         <kategorie ref="theaterkritik"></kategorie>
         <anmerkung>Über die letzte Vorstellung der Schuchschen Truppe (Romeo und Julia) und ihren Aufbruch nach Breslau.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="10" von="42" />
+        <stueck when="1768" nr="10" von="42"  order="2"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
@@ -221,13 +221,13 @@
         <ort ref="berlin"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="13" von="52"/>
+        <stueck when="1768" nr="13" von="52" order="1"/>
         <werk kat="rezension" ref="delius-nachricht-nurzen-salzasche"></werk>
         <ort ref="frankfurt"></ort>
         <ort ref="leipzig"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="13" von="52" />
+        <stueck when="1768" nr="13" von="52"  order="2"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
     <beitrag>
@@ -235,11 +235,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="13" von="54" />
+        <stueck when="1768" nr="13" von="54"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="13" von="54" />
+        <stueck when="1768" nr="13" von="54"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
     
@@ -268,11 +268,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="14" von="58" />
+        <stueck when="1768" nr="14" von="58"  order="1"/>
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="14" von="58" />
+        <stueck when="1768" nr="14" von="58"  order="2"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
@@ -327,15 +327,15 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="17" von="70" />
+        <stueck when="1768" nr="17" von="70"  order="1"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="17" von="70" />
+        <stueck when="1768" nr="17" von="70"  order="2"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="17" von="70" />
+        <stueck when="1768" nr="17" von="70"  order="3"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -367,15 +367,15 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="19" von="78" />
+        <stueck when="1768" nr="19" von="78"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="19" von="78" />
+        <stueck when="1768" nr="19" von="78"  order="2"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="19" von="78" />
+        <stueck when="1768" nr="19" von="78"  order="3"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -393,15 +393,15 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="20" von="82" />
+        <stueck when="1768" nr="20" von="82"  order="1"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="20" von="82" />
+        <stueck when="1768" nr="20" von="82"  order="2"/>
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="20" von="82" />
+        <stueck when="1768" nr="20" von="82"  order="3"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
 
@@ -410,15 +410,15 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="21" von="86" />
+        <stueck when="1768" nr="21" von="86"  order="1"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="21" von="86" />
+        <stueck when="1768" nr="21" von="86"  order="2"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="21" von="86" />
+        <stueck when="1768" nr="21" von="86"  order="3"/>
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
 
@@ -452,11 +452,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="23" von="94" />
+        <stueck when="1768" nr="23" von="94"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="23" von="94" />
+        <stueck when="1768" nr="23" von="94"  order="2"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
@@ -478,15 +478,15 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="24" von="98" />
+        <stueck when="1768" nr="24" von="98"  order="1"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="24" von="98" />
+        <stueck when="1768" nr="24" von="98"  order="2"/>
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="24" von="98" />
+        <stueck when="1768" nr="24" von="98"  order="3"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
 
@@ -500,11 +500,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="25" von="102" />
+        <stueck when="1768" nr="25" von="102"  order="1"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="25" von="102" />
+        <stueck when="1768" nr="25" von="102"  order="2"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
 
@@ -522,11 +522,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="26" von="106" />
+        <stueck when="1768" nr="26" von="106"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="26" von="106" />
+        <stueck when="1768" nr="26" von="106"  order="2"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
@@ -545,11 +545,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="27" von="110" />
+        <stueck when="1768" nr="27" von="110"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="27" von="110" />
+        <stueck when="1768" nr="27" von="110"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -609,13 +609,13 @@
         <akteur ref="bock-kg">Hippel XIII, 42f.</akteur>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="31" von="124" />
+        <stueck when="1768" nr="31" von="124"  order="1"/>
         <kategorie ref="gelehrte-nachrichten"></kategorie>
         <ort ref="kgsb"></ort>
         <anmerkung>Zur Übergabe des halbjährigen Rektorats der Albertina von Dr. med. Büttner an Carl Andreas Christiani.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="31" von="124" />
+        <stueck when="1768" nr="31" von="124"  order="2"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
     <beitrag>
@@ -623,15 +623,15 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="31" von="126" />
+        <stueck when="1768" nr="31" von="126"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="31" von="126" />
+        <stueck when="1768" nr="31" von="126"  order="2"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="31" von="126" />
+        <stueck when="1768" nr="31" von="126"  order="3"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -664,11 +664,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="33" von="134" />
+        <stueck when="1768" nr="33" von="134"  order="1"/>
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="33" von="134" />
+        <stueck when="1768" nr="33" von="134"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -678,12 +678,12 @@
         <ort ref="kgsb"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="34" von="136" />
+        <stueck when="1768" nr="34" von="136"  order="1"/>
         <werk ref="sprengel-handwerke" kat="rezension" />
         <ort ref="berlin"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="34" von="136" />
+        <stueck when="1768" nr="34" von="136"  order="2"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
     <beitrag>
@@ -691,11 +691,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="34" von="138" />
+        <stueck when="1768" nr="34" von="138"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="34" von="138" />
+        <stueck when="1768" nr="34" von="138"  order="2"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
@@ -741,11 +741,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="37" von="150" />
+        <stueck when="1768" nr="37" von="150"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="37" von="150" />
+        <stueck when="1768" nr="37" von="150"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -755,12 +755,12 @@
         <ort ref="stralsund"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="38" von="152" />
+        <stueck when="1768" nr="38" von="152"  order="1"/>
         <werk ref="sterne-predigten1766" kat="rezension" />
         <ort ref="zuerich"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="38" von="152" />
+        <stueck when="1768" nr="38" von="152"  order="2"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
     <beitrag>
@@ -788,15 +788,15 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="39" von="158" />
+        <stueck when="1768" nr="39" von="158"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="39" von="158" />
+        <stueck when="1768" nr="39" von="158"  order="2"/>
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="39" von="158" />
+        <stueck when="1768" nr="39" von="158"  order="3"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -823,11 +823,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="41" von="166" />
+        <stueck when="1768" nr="41" von="166"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="41" von="166" />
+        <stueck when="1768" nr="41" von="166"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -861,22 +861,22 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="43" von="174" />
+        <stueck when="1768" nr="43" von="174"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="43" von="174" />
+        <stueck when="1768" nr="43" von="174"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
     <beitrag>
-        <stueck when="1768" nr="44" von="175" />
+        <stueck when="1768" nr="44" von="175"  order="1"/>
         <kategorie ref="ineigenersache"></kategorie>
         <titel>Nachricht.</titel>
         <anmerkung>Ankündigung von Kurzrezensionen, da noch zu viele Bücher der letzten Messe übrig sind.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="44" von="175" />
+        <stueck when="1768" nr="44" von="175"  order="2"/>
         <werk ref="boehm-geistliche-poesien" kat="rezension" />
         <ort ref="breslau"></ort>
     </beitrag>
@@ -886,13 +886,13 @@
         <ort ref="ulm"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="44" von="176" />
+        <stueck when="1768" nr="44" von="176"  order="1"/>
         <werk ref="ebeling-heilige-wahrheiten" kat="rezension" />
         <ort ref="buetzow"></ort>
         <ort ref="wismar"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="44" von="176" />
+        <stueck when="1768" nr="44" von="176"  order="2"/>
         <werk ref="hirsch-fraenkische-bienenmeister" kat="rezension" />
         <ort ref="ansbach"></ort>
     </beitrag>
@@ -910,17 +910,17 @@
         <werk ref="moser-patriotische-briefe" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="45" von="180" />
+        <stueck when="1768" nr="45" von="180"  order="1"/>
         <werk ref="hess-tod-moses" kat="rezension" />
         <ort ref="zuerich"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="45" von="180" />
+        <stueck when="1768" nr="45" von="180"  order="2"/>
         <werk ref="cotes-memoires-pitt" kat="rezension" />
         <ort ref="amsterdam"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="45" von="180" />
+        <stueck when="1768" nr="45" von="180"  order="3"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
     <beitrag>
@@ -928,11 +928,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="45" von="182" />
+        <stueck when="1768" nr="45" von="182"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="45" von="182" />
+        <stueck when="1768" nr="45" von="182"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -941,22 +941,22 @@
         <werk ref="wilkes-moralische-beitraege" kat="rezension" />
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="46" von="184" />
+        <stueck when="1768" nr="46" von="184"  order="1"/>
         <werk ref="winning-predigten" kat="rezension" />
         <ort ref="zuerich"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="46" von="184" />
+        <stueck when="1768" nr="46" von="184"  order="2"/>
         <werk ref="unzer-sammlung-physicalische2" kat="rezension" />
         <ort ref="hamburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="46" von="184" />
+        <stueck when="1768" nr="46" von="184"  order="3"/>
         <werk ref="ringeltaube-beytraege" kat="rezension" />
         <ort ref="breslau"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="46" von="184" />
+        <stueck when="1768" nr="46" von="184"  order="4"/>
         <werk ref="poertner-auserlesene-predigten" kat="rezension" />
         <ort ref="leipzig"></ort>
     </beitrag>
@@ -985,11 +985,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="47" von="190" />
+        <stueck when="1768" nr="47" von="190"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="47" von="190" />
+        <stueck when="1768" nr="47" von="190"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
     
@@ -1003,11 +1003,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="48" von="194" />
+        <stueck when="1768" nr="48" von="194"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="48" von="194" />
+        <stueck when="1768" nr="48" von="194"  order="2"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
     
@@ -1028,11 +1028,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="49" von="198" />
+        <stueck when="1768" nr="49" von="198"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="49" von="198" />
+        <stueck when="1768" nr="49" von="198"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
     
@@ -1047,11 +1047,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="50" von="202" />
+        <stueck when="1768" nr="50" von="202"  order="1"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="50" von="202" />
+        <stueck when="1768" nr="50" von="202"  order="2"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
     
@@ -1085,11 +1085,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="52" von="210" />
+        <stueck when="1768" nr="52" von="210"  order="1"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="52" von="210" />
+        <stueck when="1768" nr="52" von="210"  order="2"/>
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
 
@@ -1103,11 +1103,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="53" von="214" />
+        <stueck when="1768" nr="53" von="214"  order="1"/>
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="53" von="214" />
+        <stueck when="1768" nr="53" von="214"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -1127,15 +1127,15 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="54" von="218" />
+        <stueck when="1768" nr="54" von="218"  order="1"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="54" von="218" />
+        <stueck when="1768" nr="54" von="218"  order="2"/>
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="54" von="218" />
+        <stueck when="1768" nr="54" von="218"  order="3"/>
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
 
@@ -1158,15 +1158,15 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="55" von="222" />
+        <stueck when="1768" nr="55" von="222"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="55" von="222" />
+        <stueck when="1768" nr="55" von="222"  order="2"/>
         <kategorie ref="lotterie"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="55" von="222" />
+        <stueck when="1768" nr="55" von="222"  order="3"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -1184,11 +1184,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="56" von="226" />
+        <stueck when="1768" nr="56" von="226"  order="1"/>
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="56" von="226" />
+        <stueck when="1768" nr="56" von="226"  order="2"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
@@ -1250,13 +1250,13 @@
         <ort ref="hamburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="60" von="240" />
+        <stueck when="1768" nr="60" von="240"  order="1"/>
         <kategorie ref="gelehrte-nachrichten"></kategorie>
         <ort ref="leipzig"></ort>
         <anmerkung>Pränumerations-Anzeige für eine Klavierbearbeitung von Weißes Operette „Lottchen am Hofe.“</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="60" von="240" />
+        <stueck when="1768" nr="60" von="240"  order="2"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
     <beitrag>
@@ -1365,11 +1365,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="65" von="262" />
+        <stueck when="1768" nr="65" von="262"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="65" von="262" />
+        <stueck when="1768" nr="65" von="262"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -1449,12 +1449,12 @@
         <werk kat="rezension" ref="moralische-neujahrswuensche"></werk>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="70" von="280" />
+        <stueck when="1768" nr="70" von="280"  order="1"/>
         <werk kat="rezension" ref="voltaire-mann"></werk>
         <akteur ref="hamann">N IV, 320</akteur>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="70" von="280" />
+        <stueck when="1768" nr="70" von="280"  order="2"/>
         <werk kat="rezension" ref="winckler-nachrichten"></werk>
         <ort ref="hamburg"></ort>
     </beitrag>
@@ -1463,12 +1463,12 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="70" von="282" />
+        <stueck when="1768" nr="70" von="282"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
         <akteur ref="wegner-s" kat="nachruf" />
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="70" von="282" />
+        <stueck when="1768" nr="70" von="282"  order="2"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
@@ -1578,11 +1578,11 @@
         <ort ref="augsburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="77" von="308" />
+        <stueck when="1768" nr="77" von="308"  order="1"/>
         <werk kat="rezension" ref="divis-theorie"></werk>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="77" von="308" />
+        <stueck when="1768" nr="77" von="308"  order="2"/>
         <kategorie ref="gelehrte-nachrichten"></kategorie>
         <ort ref="kgsb"></ort>
         <anmerkung>Verteidigung der Streitschrift von Wilhelm Bernhard Jester: de origine legis Falcidiae et computatione quartae legatis annuis detrahendae</anmerkung>
@@ -1603,11 +1603,11 @@
         <ort ref="braunschweig"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="78" von="312" />
+        <stueck when="1768" nr="78" von="312"  order="1"/>
         <werk kat="rezension" ref="hume-vier-philosophen"></werk>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="78" von="312" />
+        <stueck when="1768" nr="78" von="312"  order="2"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
     <beitrag>
@@ -1636,25 +1636,25 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="79" von="318" />
+        <stueck when="1768" nr="79" von="318"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="79" von="318" />
+        <stueck when="1768" nr="79" von="318"  order="2"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="79" von="318" />
+        <stueck when="1768" nr="79" von="318"  order="3"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
     <beitrag>
-        <stueck when="1768" nr="80" von="320" />
+        <stueck when="1768" nr="80" von="320"  order="1"/>
         <werk kat="rezension" ref="redekunst-frauenzimmer"></werk>
         <ort ref="regensburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="80" von="320" />
+        <stueck when="1768" nr="80" von="320"  order="2"/>
         <kategorie ref="gelehrte-nachrichten"></kategorie>
         <ort ref="kgsb"></ort>
     </beitrag>
@@ -1673,17 +1673,17 @@
         <ort ref="berlin"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="81" von="324" />
+        <stueck when="1768" nr="81" von="324"  order="1"/>
         <werk kat="rezension" ref="caraccioli-munterkeit"></werk>
         <ort ref="frankfurt"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="81" von="324" />
+        <stueck when="1768" nr="81" von="324"  order="2"/>
         <werk kat="rezension" ref="avrillon-kernhafte-gedanken"></werk>
         <ort ref="augsburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="81" von="324" />
+        <stueck when="1768" nr="81" von="324"  order="3"/>
         <werk kat="rezension" ref="gesner-zbior"></werk>
         <ort ref="zuellichau"></ort>
     </beitrag>
@@ -1723,17 +1723,17 @@
     </beitrag>
 
     <beitrag>
-        <stueck beilage="1" when="1768" nr="82" von="1" />
+        <stueck beilage="1" when="1768" nr="82" von="1"  order="1"/>
         <werk kat="rezension" ref="geng-nachrichten-engel"></werk>
         <ort ref="schwabach"></ort>
     </beitrag>
     <beitrag>
-        <stueck beilage="1" when="1768" nr="82" von="1" />
+        <stueck beilage="1" when="1768" nr="82" von="1"  order="2"/>
         <werk kat="rezension" ref="hanisch-krafft"></werk>
         <ort ref="hildburghausen"></ort>
     </beitrag>
     <beitrag>
-        <stueck beilage="1" when="1768" nr="82" von="1" />
+        <stueck beilage="1" when="1768" nr="82" von="1"  order="3"/>
         <werk kat="rezension" ref="gottselige-gedanken"></werk>
         <ort ref="frankfurt"></ort>
     </beitrag>
@@ -1821,11 +1821,11 @@
         <anmerkung>Schilderung des Begräbnisses Albrecht Siegmund von Seegut-Stanislawskis.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck beilage="1" when="1768" nr="87" von="2" />
+        <stueck beilage="1" when="1768" nr="87" von="2"  order="1"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck beilage="1" when="1768" nr="87" von="2" />
+        <stueck beilage="1" when="1768" nr="87" von="2"  order="2"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
 
@@ -1839,13 +1839,13 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="85" von="338" />
+        <stueck when="1768" nr="85" von="338"  order="1"/>
         <kategorie ref="lokalanzeigen"></kategorie>
         <akteur ref="beckher-wh" kat="nachruf" ></akteur>
         <anmerkung>Verkauf der Bibliothek.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="85" von="338" />
+        <stueck when="1768" nr="85" von="338"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
     
@@ -1864,11 +1864,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="86" von="342" />
+        <stueck when="1768" nr="86" von="342"  order="1"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="86" von="342" />
+        <stueck when="1768" nr="86" von="342"  order="2"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
     
@@ -1877,16 +1877,16 @@
         <werk kat="rezension" ref="abbt-gedanken-einrichtung"></werk>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="87" von="344" />
+        <stueck when="1768" nr="87" von="344"  order="1"/>
         <werk kat="rezension" ref="roehl-einleitung"></werk>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="87" von="344" />
+        <stueck when="1768" nr="87" von="344"  order="2"/>
         <werk kat="rezension" ref="reich-beschaeftigungen-herz" s="Abteilung 1 (S. 1–126)"></werk>
         <ort ref="braunschweig"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="87" von="344" />
+        <stueck when="1768" nr="87" von="344"  order="3"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
     <beitrag>
@@ -1894,11 +1894,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="87" von="346" />
+        <stueck when="1768" nr="87" von="346"  order="1"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="87" von="346" />
+        <stueck when="1768" nr="87" von="346"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
     
@@ -1912,24 +1912,24 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="88" von="350" />
+        <stueck when="1768" nr="88" von="350"  order="1"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="88" von="350" />
+        <stueck when="1768" nr="88" von="350"  order="2"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
     <beitrag>
-        <stueck beilage="1" when="1768" nr="88" von="1" />
+        <stueck beilage="1" when="1768" nr="88" von="1"  order="1"/>
         <werk kat="rezension" ref="tetsch-kirchengeschichte"></werk>
     </beitrag>
     <beitrag>
-        <stueck beilage="1" when="1768" nr="88" von="1" />
+        <stueck beilage="1" when="1768" nr="88" von="1"  order="2"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck beilage="1" when="1768" nr="88" von="1" />
+        <stueck beilage="1" when="1768" nr="88" von="1"  order="3"/>
         <kategorie ref="buecher"></kategorie>
     </beitrag>
     <beitrag>
@@ -1975,16 +1975,16 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="90" von="358" />
+        <stueck when="1768" nr="90" von="358"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="90" von="358" />
+        <stueck when="1768" nr="90" von="358"  order="2"/>
         <kategorie ref="lokalanzeigen"></kategorie>
         <anmerkung>Für optische Vorstellungen im Königsberger Komödienhaus.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="90" von="358" />
+        <stueck when="1768" nr="90" von="358"  order="3"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
@@ -2053,17 +2053,17 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="93" von="370" />
+        <stueck when="1768" nr="93" von="370"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
         <akteur ref="lehwald-j" kat="nachruf"></akteur>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="93" von="370" />
+        <stueck when="1768" nr="93" von="370"  order="2"/>
         <kategorie ref="lokalnachrichten"></kategorie>
         <anmerkung>Ernennung von August Johann Jacobi zum Kriegs- und Domainenrat.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="93" von="370" />
+        <stueck when="1768" nr="93" von="370"  order="3"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -2110,11 +2110,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="95" von="380" />
+        <stueck when="1768" nr="95" von="380"  order="1"/>
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="95" von="380" />
+        <stueck when="1768" nr="95" von="380"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -2143,19 +2143,19 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="97" von="388" />
+        <stueck when="1768" nr="97" von="388"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="97" von="388" />
+        <stueck when="1768" nr="97" von="388"  order="2"/>
         <kategorie ref="lokalanzeigen"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="97" von="388" />
+        <stueck when="1768" nr="97" von="388"  order="3"/>
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="97" von="388" />
+        <stueck when="1768" nr="97" von="388"  order="4"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -2180,12 +2180,12 @@
         <ort ref="langensalza"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="98" von="390" />
+        <stueck when="1768" nr="98" von="390"  order="1"/>
         <werk kat="rezension" ref="ortmann-passionspredigten"></werk>
         <ort ref="zuellichau"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="98" von="390" />
+        <stueck when="1768" nr="98" von="390"  order="2"/>
         <werk kat="rezension" ref="villiers-satyrische-warheiten"></werk>
         <ort ref="berlin"></ort>
     </beitrag>
@@ -2209,11 +2209,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="99" von="396" />
+        <stueck when="1768" nr="99" von="396"  order="1"/>
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="99" von="396" />
+        <stueck when="1768" nr="99" von="396"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -2236,15 +2236,15 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="100" von="400" />
+        <stueck when="1768" nr="100" von="400"  order="1"/>
         <kategorie ref="lokalnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="100" von="400" />
+        <stueck when="1768" nr="100" von="400"  order="2"/>
         <kategorie ref="theaterkritik"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="100" von="400" />
+        <stueck when="1768" nr="100" von="400"  order="3"/>
         <kategorie ref="einkommende-fremde"></kategorie>
     </beitrag>
 
@@ -2254,18 +2254,18 @@
         <ort ref="hamburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="101" von="402" />
+        <stueck when="1768" nr="101" von="402"  order="1"/>
         <werk kat="rezension" ref="buesching-vorbereitung-staatsverfassung"></werk>
         <ort ref="hamburg"></ort>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="101" von="402" />
+        <stueck when="1768" nr="101" von="402"  order="2"/>
         <kategorie ref="gelehrte-nachrichten"></kategorie>
         <ort ref="berlin"></ort>
         <anmerkung>Ankündigung des Buchdruckers Georg Ludwig Winter zu Bd. 7 der <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060852-1">Geschichte des Polybius (Berlin 1769)</wwwlink>.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="101" von="402" />
+        <stueck when="1768" nr="101" von="402"  order="3"/>
         <kategorie ref="gelehrte-nachrichten"></kategorie>
         <kategorie ref="theaterkritik"></kategorie>
         <ort ref="kgsb"></ort>
@@ -2275,11 +2275,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="101" von="404" />
+        <stueck when="1768" nr="101" von="404"  order="1"/>
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="101" von="404" />
+        <stueck when="1768" nr="101" von="404"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -2319,11 +2319,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="103" von="412" />
+        <stueck when="1768" nr="103" von="412"  order="1"/>
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="103" von="412" />
+        <stueck when="1768" nr="103" von="412"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 
@@ -2368,11 +2368,11 @@
         <kategorie ref="weltnachrichten"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="105" von="420" />
+        <stueck when="1768" nr="105" von="420"  order="1"/>
         <kategorie ref="vorladung"></kategorie>
     </beitrag>
     <beitrag>
-        <stueck when="1768" nr="105" von="420" />
+        <stueck when="1768" nr="105" von="420"  order="2"/>
         <kategorie ref="wechselkurse"></kategorie>
     </beitrag>
 

@@ -141,12 +141,12 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
-        <stueck when="1766" nr="7" von="30"/>
+        <stueck when="1766" nr="7" von="30" order="1"/>
         <kategorie ref="lokalnachrichten" />
         <anmerkung>Statistische Erhebungen über Geburts- und Todesraten in Königsberg für 1765.</anmerkung>
     </beitrag>
     <beitrag>
-        <stueck when="1766" nr="7" von="30" />
+        <stueck when="1766" nr="7" von="30"  order="2"/>
         <kategorie ref="wechselkurse" />
     </beitrag>
 
@@ -172,11 +172,11 @@
         <kategorie ref="weltnachrichten" />
     </beitrag>
     <beitrag>
-        <stueck when="1766" nr="8" von="34" />
+        <stueck when="1766" nr="8" von="34"  order="1"/>
         <kategorie ref="lokalanzeigen"/>
     </beitrag>
     <beitrag>
-        <stueck when="1766" nr="8" von="34" />
+        <stueck when="1766" nr="8" von="34"  order="2"/>
         <kategorie ref="einkommende-fremde" />
     </beitrag>
 
@@ -217,11 +217,11 @@
             <kategorie ref="weltnachrichten" />
      </beitrag>
      <beitrag>
-             <stueck when="1766" nr="10" von="42" />
+             <stueck when="1766" nr="10" von="42"  order="1"/>
              <kategorie ref="einkommende-fremde" />
       </beitrag>
     <beitrag>
-            <stueck when="1766" nr="10" von="42" />
+            <stueck when="1766" nr="10" von="42"  order="2"/>
             <kategorie ref="buecher" />
      </beitrag>
 
@@ -335,11 +335,11 @@
     <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="15" von="62" />
+    <stueck when="1766" nr="15" von="62"  order="1"/>
     <kategorie ref="lokalnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="15" von="62"/>
+    <stueck when="1766" nr="15" von="62" order="2"/>
     <kategorie ref="wechselkurse" />
 </beitrag>
 
@@ -464,11 +464,11 @@
     <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="22" von="90"/>
+    <stueck when="1766" nr="22" von="90" order="1"/>
     <kategorie ref="einkommende-fremde" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="22" von="90" />
+    <stueck when="1766" nr="22" von="90"  order="2"/>
     <kategorie ref="buecher" />
 </beitrag>
 
@@ -503,11 +503,11 @@
     <kategorie ref="weltnachrichten" />
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="24" von="98"/>
+    <stueck when="1766" nr="24" von="98" order="1"/>
     <kategorie ref="einkommende-fremde" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="24" von="98" />
+    <stueck when="1766" nr="24" von="98"  order="2"/>
     <kategorie ref="buecher" />
 </beitrag>
 
@@ -518,13 +518,13 @@
     <ort ref="chemnitz" />
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="25" von="100"/>
+    <stueck when="1766" nr="25" von="100" order="1"/>
     <kategorie ref="gedicht" />
     <incipit>Weg Welt, hinweg was mich zerstreut…</incipit>
     <anmerkung>Lied zum Karfreitag</anmerkung>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="25" von="100"/>
+    <stueck when="1766" nr="25" von="100" order="2"/>
     <werk kat="rezension" ref="lange-briefe"></werk>
     <ort ref="dresden" />
     <ort ref="leipzig" />
@@ -546,27 +546,27 @@
     <anmerkung>Unterzeichnet „Rs.“</anmerkung>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="26" von="105"/>
+    <stueck when="1766" nr="26" von="105" order="1"/>
     <kategorie ref="gedicht"/>
     <incipit>Was staunen sie! wo fliehn sie hin die Wächter?…</incipit>
     <anmerkung>Ode am Ostertage</anmerkung>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="26" von="105"/>
+    <stueck when="1766" nr="26" von="105" order="2"/>
     <kategorie ref="gelehrte-nachrichten"/>
     <ort ref="kgsb"/>
     <anmerkung>Über Cand. Theol. Jesters Rede am Karfreitag bei der Königl. deutschen Gesellschaft.</anmerkung>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="26" von="106"/>
+    <stueck when="1766" nr="26" von="106" order="1"/>
     <kategorie ref="weltnachrichten" />
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="26" von="106"/>
+    <stueck when="1766" nr="26" von="106" order="2"/>
     <kategorie ref="einkommende-fremde" />
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="26" von="106" />
+    <stueck when="1766" nr="26" von="106"  order="3"/>
     <kategorie ref="lokalanzeigen"/>
 </beitrag>
 
@@ -629,11 +629,11 @@
     <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="29" von="120" />
+    <stueck when="1766" nr="29" von="120"  order="1"/>
     <kategorie ref="lokalnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="29" von="120"/>
+    <stueck when="1766" nr="29" von="120" order="2"/>
     <kategorie ref="wechselkurse" />
 </beitrag>
 
@@ -649,15 +649,15 @@
     <kategorie ref="weltnachrichten" />
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="30" von="124" />
+    <stueck when="1766" nr="30" von="124"  order="1"/>
     <kategorie ref="lokalnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="30" von="124" />
+    <stueck when="1766" nr="30" von="124"  order="2"/>
     <kategorie ref="buecher" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="30" von="124"/>
+    <stueck when="1766" nr="30" von="124" order="3"/>
     <kategorie ref="einkommende-fremde" />
 </beitrag> 
 
@@ -673,11 +673,11 @@
     <kategorie ref="weltnachrichten" />
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="31" von="128" />
+    <stueck when="1766" nr="31" von="128"  order="1"/>
     <kategorie ref="lokalanzeigen"/>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="31" von="128"/>
+    <stueck when="1766" nr="31" von="128" order="2"/>
     <kategorie ref="wechselkurse" />
 </beitrag> 
 
@@ -715,11 +715,11 @@
    <kategorie ref="weltnachrichten" />
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="33" von="136" />
+    <stueck when="1766" nr="33" von="136"  order="1"/>
     <kategorie ref="lokalnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="33" von="136"/>
+    <stueck when="1766" nr="33" von="136" order="2"/>
     <kategorie ref="wechselkurse" />
 </beitrag> 
 
@@ -734,15 +734,15 @@
    <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="34" von="140"/>
+    <stueck when="1766" nr="34" von="140" order="1"/>
     <kategorie ref="einkommende-fremde" />
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="34" von="140" />
+    <stueck when="1766" nr="34" von="140"  order="2"/>
     <kategorie ref="lokalnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="34" von="140" />
+    <stueck when="1766" nr="34" von="140"  order="3"/>
     <kategorie ref="buecher"/>
 </beitrag>
 
@@ -759,11 +759,11 @@
    <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="35" von="144" />
+    <stueck when="1766" nr="35" von="144"  order="1"/>
     <kategorie ref="lokalanzeigen"/>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="35" von="144"/>
+    <stueck when="1766" nr="35" von="144" order="2"/>
     <kategorie ref="wechselkurse" />
 </beitrag> 
 
@@ -784,11 +784,11 @@
    <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="36" von="148"/>
+    <stueck when="1766" nr="36" von="148" order="1"/>
     <kategorie ref="einkommende-fremde" />
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="36" von="148" />
+    <stueck when="1766" nr="36" von="148"  order="2"/>
     <kategorie ref="buecher"/>
 </beitrag>
 
@@ -835,11 +835,11 @@
    <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="39" von="160" />
+    <stueck when="1766" nr="39" von="160"  order="1"/>
     <kategorie ref="lokalanzeigen"></kategorie>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="39" von="160"/>
+    <stueck when="1766" nr="39" von="160" order="2"/>
    <kategorie ref="wechselkurse" />
 </beitrag>
 
@@ -859,11 +859,11 @@
    <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="40" von="164"/>
+    <stueck when="1766" nr="40" von="164" order="1"/>
     <kategorie ref="einkommende-fremde" />
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="40" von="164" />
+    <stueck when="1766" nr="40" von="164"  order="2"/>
     <kategorie ref="buecher"/>
 </beitrag>
 
@@ -939,11 +939,11 @@
    <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="44" von="180" />
+    <stueck when="1766" nr="44" von="180"  order="1"/>
     <kategorie ref="lokalnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="44" von="180"/>
+    <stueck when="1766" nr="44" von="180" order="2"/>
    <kategorie ref="einkommende-fremde" />
 </beitrag>
 
@@ -980,12 +980,12 @@
    <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="46" von="188" />
+    <stueck when="1766" nr="46" von="188"  order="1"/>
     <kategorie ref="lokalnachrichten" />
     <akteur ref="tettau-ed" kat="nachruf" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="46" von="188"/>
+    <stueck when="1766" nr="46" von="188" order="2"/>
    <kategorie ref="einkommende-fremde" />
 </beitrag>
 
@@ -1005,11 +1005,11 @@
    <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="47" von="192" />
+    <stueck when="1766" nr="47" von="192"  order="1"/>
     <kategorie ref="buecher" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="47" von="192"/>
+    <stueck when="1766" nr="47" von="192" order="2"/>
    <kategorie ref="wechselkurse" />
 </beitrag>
 
@@ -1026,11 +1026,11 @@
     <anmerkung>Notenblätter mit Vertonungen von „An die Freude“ und „Phyllis an Damon“.</anmerkung>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="48" von="196"/>
+    <stueck when="1766" nr="48" von="196" order="1"/>
    <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="48" von="196"/>
+    <stueck when="1766" nr="48" von="196" order="2"/>
    <kategorie ref="einkommende-fremde" />
 </beitrag>
 
@@ -1108,13 +1108,13 @@
     <akteur ref="karsch"></akteur>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="52" von="210"/>
+    <stueck when="1766" nr="52" von="210" order="1"/>
     <werk kat="rezension" ref="troeltsch-frauenzimmerschule"></werk>
     <ort ref="frankfurt" />
     <ort ref="leipzig"/>
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="52" von="210"/>
+    <stueck when="1766" nr="52" von="210" order="2"/>
     <werk kat="rezension" ref="remond-reflexions-poesie"></werk>
     <ort ref="den-haag" />
 </beitrag> 
@@ -1149,12 +1149,12 @@
     <ort ref="braunschweig"/>
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="54" von="218"/>
+    <stueck when="1766" nr="54" von="218" order="1"/>
     <werk kat="rezension" ref="amours-de-paliris"></werk>
     <ort ref="paris"/>
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="54" von="218"/>
+    <stueck when="1766" nr="54" von="218" order="2"/>
     <werk kat="rezension" ref="pfeffel-beitraege-zur-deutschen-maculatur"></werk>
     <ort ref="frankfurt"/>
 </beitrag> 
@@ -1297,12 +1297,12 @@
     <ort ref="erlangen" />
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="61" von="247"/>
+    <stueck when="1766" nr="61" von="247" order="1"/>
     <kategorie ref="gelehrte-nachrichten"/>
     <anmerkung>Nachricht über einen Preis an Harrison, den Erfinder der Meereslänge.</anmerkung>
  </beitrag>
  <beitrag>
-    <stueck when="1766" nr="61" von="247" />
+    <stueck when="1766" nr="61" von="247"  order="2"/>
     <kategorie ref="buecher"/>
 </beitrag>
 <beitrag>
@@ -1326,11 +1326,11 @@
    <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="62" von="252"/>
+    <stueck when="1766" nr="62" von="252" order="1"/>
    <kategorie ref="einkommende-fremde" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="62" von="252"/>
+    <stueck when="1766" nr="62" von="252" order="2"/>
    <kategorie ref="lokalanzeigen" />
    <anmerkung>Preisausschreibung der Kriegs- und Domainenkammer für ein Mittel zur Bekämpfung der Hornviehseuche.</anmerkung>
 </beitrag>
@@ -1384,13 +1384,13 @@
     <ort ref="celle"/> 
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="65" von="262"/>
+    <stueck when="1766" nr="65" von="262" order="1"/>
     <werk kat="rezension" ref="bensperg-patriot4"></werk>
     <ort ref="lindau"/> 
     <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="65" von="262"/>
+    <stueck when="1766" nr="65" von="262" order="2"/>
     <kategorie ref="gelehrte-nachrichten" />
     <anmerkung>Adreß-Nachricht für das Königreich Preussen und insbesondre die Hauptstadt Königsberg, derer darin befindlichen hohen und niedrigen Collegien, lnstanzien und Expeditionen, auf das gemeine Jahr 1766.</anmerkung>
 </beitrag>
@@ -1535,15 +1535,15 @@
    <kategorie ref="weltnachrichten" /> 
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="73" von="300" />
+    <stueck when="1766" nr="73" von="300"  order="1"/>
     <kategorie ref="lokalnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="73" von="300" />
+    <stueck when="1766" nr="73" von="300"  order="2"/>
     <kategorie ref="buecher" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="73" von="300" />
+    <stueck when="1766" nr="73" von="300"  order="3"/>
     <kategorie ref="wechselkurse" />
 </beitrag>
 
@@ -1644,12 +1644,12 @@
     <ort ref="leipzig"/> 
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="78" von="322"/> 
+    <stueck when="1766" nr="78" von="322" order="1"/> 
     <werk kat="rezension" ref="meister-vier-gesaengen"></werk>
     <ort ref="quedlinburg"/> 
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="78" von="322"/> 
+    <stueck when="1766" nr="78" von="322" order="2"/> 
     <werk kat="rezension" ref="richardson-wege-der-tugend" s="Teil 2"></werk>
     <ort ref="altenburg"/> 
 </beitrag>
@@ -1761,11 +1761,11 @@
     <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="83" von="344"/>
+    <stueck when="1766" nr="83" von="344" order="1"/>
     <kategorie ref="lotterie"></kategorie>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="83" von="344" />
+    <stueck when="1766" nr="83" von="344"  order="2"/>
     <kategorie ref="wechselkurse" />
 </beitrag>
 
@@ -1917,13 +1917,13 @@
     <ort ref="zuellichau"/> 
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="91" von="374"/> 
+    <stueck when="1766" nr="91" von="374" order="1"/> 
     <werk kat="rezension" ref="rechtschaffene-satyrisch" s="Bd. 2"></werk>
     <ort ref="lindau"/> 
     <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="91" von="374"/> 
+    <stueck when="1766" nr="91" von="374" order="2"/> 
     <werk kat="rezension" ref="schreiben-ehrlich-mann"></werk>
 </beitrag>
 <beitrag>
@@ -1931,11 +1931,11 @@
     <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="91" von="376"/>
+    <stueck when="1766" nr="91" von="376" order="1"/>
     <kategorie ref="lotterie"></kategorie>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="91" von="376" />
+    <stueck when="1766" nr="91" von="376"  order="2"/>
     <kategorie ref="wechselkurse" />
 </beitrag>
 
@@ -1970,11 +1970,11 @@
     <anmerkung>Aus dem polnischen Reichstags-Journal, Rede des Krakauer Bischofs über die Dissidenten.</anmerkung>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="93" von="384"/>
+    <stueck when="1766" nr="93" von="384" order="1"/>
     <kategorie ref="lotterie"></kategorie>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="93" von="384" />
+    <stueck when="1766" nr="93" von="384"  order="2"/>
     <kategorie ref="wechselkurse" />
 </beitrag>
 
@@ -2009,11 +2009,11 @@
     <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="95" von="392" />
+    <stueck when="1766" nr="95" von="392"  order="1"/>
     <kategorie ref="lokalnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="95" von="392" />
+    <stueck when="1766" nr="95" von="392"  order="2"/>
     <kategorie ref="wechselkurse" />
 </beitrag>
 
@@ -2024,12 +2024,12 @@
     <ort ref="frankfurt"/> 
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="96" von="394"/> 
+    <stueck when="1766" nr="96" von="394" order="1"/> 
     <werk kat="rezension" ref="schmahling-ruhe-auf-dem-lande"></werk>
     <ort ref="gotha"/> 
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="96" von="394" />
+    <stueck when="1766" nr="96" von="394"  order="2"/>
     <kategorie ref="buecher"/>
 </beitrag>
 <beitrag>
@@ -2053,12 +2053,12 @@
     <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="96" von="400"/>
+    <stueck when="1766" nr="96" von="400" order="1"/>
     <kategorie ref="lokalanzeigen" />
     <anmerkung>Verkauf von Dungsalz</anmerkung>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="96" von="400" />
+    <stueck when="1766" nr="96" von="400"  order="2"/>
     <kategorie ref="wechselkurse" />
 </beitrag>
 
@@ -2078,11 +2078,11 @@
     <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="98" von="404"/>
+    <stueck when="1766" nr="98" von="404" order="1"/>
     <kategorie ref="einkommende-fremde" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="98" von="404"/>
+    <stueck when="1766" nr="98" von="404" order="2"/>
     <kategorie ref="lokalanzeigen" />
     <anmerkung>Verkauf von Dungsalz</anmerkung>
 </beitrag>
@@ -2104,11 +2104,11 @@
     <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="99" von="408"/>
+    <stueck when="1766" nr="99" von="408" order="1"/>
     <kategorie ref="lotterie"></kategorie>
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="99" von="408" />
+    <stueck when="1766" nr="99" von="408"  order="2"/>
     <kategorie ref="wechselkurse" />
 </beitrag>
 
@@ -2162,13 +2162,13 @@
     <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="102" von="418"/>
+    <stueck when="1766" nr="102" von="418" order="1"/>
     <werk kat="rezension" ref="sammlung-moralischer-satirischer-abhandlungen"></werk>
     <ort ref="breslau" />
     <akteur ref="trescho">Unterzeichnet „Ad.“</akteur>
 </beitrag> 
 <beitrag>
-    <stueck when="1766" nr="102" von="418" />
+    <stueck when="1766" nr="102" von="418"  order="2"/>
     <kategorie ref="buecher"/>
 </beitrag>
 <beitrag>
@@ -2176,11 +2176,11 @@
     <kategorie ref="weltnachrichten" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="102" von="420"/>
+    <stueck when="1766" nr="102" von="420" order="1"/>
     <kategorie ref="einkommende-fremde" />
 </beitrag>
 <beitrag>
-    <stueck when="1766" nr="102" von="420"/>
+    <stueck when="1766" nr="102" von="420" order="2"/>
     <kategorie ref="lokalnachrichten" />
 </beitrag>
 

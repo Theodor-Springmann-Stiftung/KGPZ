@@ -12,62 +12,67 @@ def process_xml_file(filepath):
         filepath (str): The path to the XML file.
     """
     try:
-        # Use a parser that preserves comments and whitespace as much as possible
+        # Use lxml to parse and find nodes, but not for writing.
         parser = etree.XMLParser(remove_blank_text=False, remove_comments=False, strip_cdata=False)
         tree = etree.parse(filepath, parser)
         root = tree.getroot()
 
-        # Default namespace from the document, if it exists
-        ns = {'kgpz': root.nsmap.get(None)} if root.nsmap.get(None) else {}
-
-        # Group stueck elements by (when, nr, von)
+        ns = {'kgpz': 'https://www.koenigsberger-zeitungen.de'}
         stueck_groups = defaultdict(list)
-
-        # XPath to find all beitrag elements
-        beitraege = root.xpath('//beitrag')
+        beitraege = root.xpath('//kgpz:beitrag', namespaces=ns)
 
         for beitrag in beitraege:
-            stueck = beitrag.find('stueck')
+            stueck = beitrag.find('kgpz:stueck', namespaces=ns)
             if stueck is not None:
-                when = stueck.get('when')
-                nr = stueck.get('nr')
-                von = stueck.get('von')
-                bis = stueck.get('bis')
-
-                # Ambiguity arises for single-page entries.
-                # A multi-page entry is one where `bis` is present and `bis` != `von`.
+                when, nr, von, bis = stueck.get('when'), stueck.get('nr'), stueck.get('von'), stueck.get('bis')
                 is_multi_page = bis is not None and bis != von
-
                 if von and not is_multi_page:
-                    key = (when, nr, von)
-                    stueck_groups[key].append(stueck)
+                    stueck_groups[(when, nr, von)].append(stueck)
 
-        # Add order attribute where there is ambiguity
-        modified = False
-        for key, stuecks in stueck_groups.items():
-            if len(stuecks) > 1:
-                modified = True
-                for i, stueck in enumerate(stuecks):
-                    stueck.set('order', str(i + 1))
+        stuecks_to_modify_groups = [s for s in stueck_groups.values() if len(s) > 1]
 
-        # Write back to the file only if changes were made
-        if modified:
-            # Get the original XML declaration details
-            xml_declaration = tree.docinfo.xml_version
-            encoding = tree.docinfo.encoding
+        if not stuecks_to_modify_groups:
+            print(f"No ambiguous order found in: {filepath}")
+            return
 
-            tree.write(filepath,
-                       encoding=encoding,
-                       xml_declaration=True,
-                       pretty_print=False)
-            print(f"Updated order attributes in: {filepath}")
-        else:
-            print(f"No changes needed for: {filepath}")
+        print(f"Found ambiguous stuecke in {filepath}. The following groups will be updated:")
+        for group in stuecks_to_modify_groups:
+            print("--- Group to be ordered ---")
+            for stueck in group:
+                print(etree.tostring(stueck, pretty_print=True, encoding='unicode').strip())
+
+        # Read the file content for surgical modification
+        with open(filepath, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+
+        # Apply changes to the lines list
+        for group in stuecks_to_modify_groups:
+            for i, stueck in enumerate(group):
+                order = i + 1
+                lineno = stueck.sourceline - 1
+                line = lines[lineno]
+
+                # Find insertion point (before '/>' or '>')
+                insertion_point = line.rfind('/>')
+                if insertion_point == -1:
+                    insertion_point = line.rfind('>')
+                
+                if insertion_point != -1:
+                    lines[lineno] = line[:insertion_point] + f' order="{order}"' + line[insertion_point:]
+                else:
+                    print(f"Warning: Could not find closing tag on line {lineno + 1} in {filepath}. Skipping.", file=sys.stderr)
+
+        # Write the modified lines back to the file
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.writelines(lines)
+
+        print(f"Finished updating order attributes in: {filepath}\n")
 
     except etree.XMLSyntaxError as e:
         print(f"Error parsing {filepath}: {e}", file=sys.stderr)
     except Exception as e:
         print(f"An unexpected error occurred with {filepath}: {e}", file=sys.stderr)
+
 
 
 def main():
