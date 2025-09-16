@@ -5,21 +5,20 @@ from collections import defaultdict
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 XML_DIR = os.path.join(REPO_ROOT, 'XML')
 
-def check_order_attribute_conditionally(tree):
-    """Checks for conditional presence of the 'order' attribute."""
+def validate_stueck_constraints(tree):
+    """Performs all custom validation checks for <stueck> elements."""
     errors = []
     root = tree.getroot()
-    
     ns = {'kgpz': 'https://www.koenigsberger-zeitungen.de'}
 
+    # --- Rule 1: Check for conditional 'order' attribute on single-page entries ---
     stuecke_without_bis = root.xpath('//kgpz:beitrag/kgpz:stueck[not(@bis)]', namespaces=ns)
-
-    groups = defaultdict(list)
+    groups_single_page = defaultdict(list)
     for stueck in stuecke_without_bis:
         key = (stueck.get('when'), stueck.get('nr'), stueck.get('von'))
-        groups[key].append(stueck)
+        groups_single_page[key].append(stueck)
 
-    for key, stuecks in groups.items():
+    for key, stuecks in groups_single_page.items():
         if len(stuecks) > 1:
             for stueck in stuecks:
                 if stueck.get('order') is None:
@@ -28,6 +27,23 @@ def check_order_attribute_conditionally(tree):
                         f"(when='{key[0]}', nr='{key[1]}', von='{key[2]}') but is missing the 'order' attribute."
                     )
                     errors.append(error_msg)
+
+    # --- Rule 2: Check for uniqueness of multi-page jumps ---
+    stuecke_with_bis = root.xpath('//kgpz:beitrag/kgpz:stueck[@bis]', namespaces=ns)
+    groups_multi_page = defaultdict(list)
+    for stueck in stuecke_with_bis:
+        key = (stueck.get('when'), stueck.get('nr'), stueck.get('von'), stueck.get('bis'))
+        groups_multi_page[key].append(stueck)
+
+    for key, stuecks in groups_multi_page.items():
+        if len(stuecks) > 1:
+            error_msg = (
+                f"Custom Validation Error: Found {len(stuecks)} identical multi-page <stueck> tags. "
+                f"The combination of attributes (when='{key[0]}', nr='{key[1]}', von='{key[2]}', bis='{key[3]}') must be unique. "
+                f"Duplicate found on line {stuecks[1].sourceline}."
+            )
+            errors.append(error_msg)
+            
     return errors
 
 def validate_xml(xml_file):
@@ -49,7 +65,7 @@ def validate_xml(xml_file):
                 print(f"XSD Validation successful: {xml_file}")
 
                 # Perform custom validation after XSD check
-                custom_errors = check_order_attribute_conditionally(tree)
+                custom_errors = validate_stueck_constraints(tree)
                 if custom_errors:
                     errors.extend(custom_errors)
                 else:
