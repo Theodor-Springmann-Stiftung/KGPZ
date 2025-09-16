@@ -1,8 +1,34 @@
 import os
 from lxml import etree
+from collections import defaultdict
 
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 XML_DIR = os.path.join(REPO_ROOT, 'XML')
+
+def check_order_attribute_conditionally(tree):
+    """Checks for conditional presence of the 'order' attribute."""
+    errors = []
+    root = tree.getroot()
+    
+    ns = {'kgpz': 'https://www.koenigsberger-zeitungen.de'}
+
+    stuecke_without_bis = root.xpath('//kgpz:beitrag/kgpz:stueck[not(@bis)]', namespaces=ns)
+
+    groups = defaultdict(list)
+    for stueck in stuecke_without_bis:
+        key = (stueck.get('when'), stueck.get('nr'), stueck.get('von'))
+        groups[key].append(stueck)
+
+    for key, stuecks in groups.items():
+        if len(stuecks) > 1:
+            for stueck in stuecks:
+                if stueck.get('order') is None:
+                    error_msg = (
+                        f"Custom Validation Error: <stueck> on line {stueck.sourceline} is part of an ambiguous group "
+                        f"(when='{key[0]}', nr='{key[1]}', von='{key[2]}') but is missing the 'order' attribute."
+                    )
+                    errors.append(error_msg)
+    return errors
 
 def validate_xml(xml_file):
     errors = []
@@ -20,21 +46,29 @@ def validate_xml(xml_file):
                 xsd_doc = etree.parse(xsd_path)
                 schema = etree.XMLSchema(xsd_doc)
                 schema.assertValid(tree)
-                print(f"Validation erfolgreich: {xml_file}")
+                print(f"XSD Validation successful: {xml_file}")
+
+                # Perform custom validation after XSD check
+                custom_errors = check_order_attribute_conditionally(tree)
+                if custom_errors:
+                    errors.extend(custom_errors)
+                else:
+                    print(f"Custom Validation successful: {xml_file}")
+
             else:
-                errors.append(f"Schema-Datei nicht gefunden: {xsd_path} für {xml_file}")
+                errors.append(f"Schema file not found: {xsd_path} for {xml_file}")
         else:
-            errors.append(f"Keine Schema-Location gefunden in {xml_file}")
+            errors.append(f"No schemaLocation found in {xml_file}")
     
     except etree.DocumentInvalid as e:
-        errors.append(f"Validierungsfehler in {xml_file}:")
+        errors.append(f"Validation error in {xml_file}:")
         for error in e.error_log:
-            errors.append(f"  Zeile {error.line}, Spalte {error.column}: {error.message}")
+            errors.append(f"  Line {error.line}, Column {error.column}: {error.message}")
     except etree.XMLSyntaxError as e:
-        errors.append(f"XML-Syntaxfehler in {xml_file}:")
-        errors.append(f"  Zeile {e.lineno}, Spalte {e.offset}: {e.msg}")
+        errors.append(f"XML syntax error in {xml_file}:")
+        errors.append(f"  Line {e.lineno}, Column {e.offset}: {e.msg}")
     except Exception as e:
-        errors.append(f"Fehler bei der Verarbeitung von {xml_file}: {str(e)}")
+        errors.append(f"Error processing {xml_file}: {str(e)}")
     
     return errors
 
@@ -48,14 +82,15 @@ def main():
                 all_errors.extend(errors)
     
     if all_errors:
-        print("Validierung fehlgeschlagen. Bitte korrigieren Sie die folgenden Fehler:")
+        print("Validation failed. Please correct the following errors:")
         with open('schema_validation_errors.txt', 'w') as f:
             for error in all_errors:
                 print(error)
                 f.write(f"{error}\n")
         exit(1)
     else:
-        print("Alle XML-Dateien wurden erfolgreich validiert.")
+        print("All XML files were successfully validated.")
 
 if __name__ == "__main__":
     main()
+

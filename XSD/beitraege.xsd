@@ -104,5 +104,15 @@
       <xsd:selector xpath="kgpz:beitrag" />
       <xsd:field xpath="@id" />
     </xsd:unique>
+    <xsd:unique name="uniqueStueckJump">
+      <xsd:annotation>
+        <xsd:documentation>Ein Beitrag kann nur einmal von einer Seite auf eine andere springen (Kombination aus when, nr, von und bis muss eindeutig sein).</xsd:documentation>
+      </xsd:annotation>
+      <xsd:selector xpath="kgpz:beitrag/kgpz:stueck"/>
+      <xsd:field xpath="@when"/>
+      <xsd:field xpath="@nr"/>
+      <xsd:field xpath="@von"/>
+      <xsd:field xpath="@bis"/>
+    </xsd:unique>
   </xsd:element>
 </xsd:schema>
