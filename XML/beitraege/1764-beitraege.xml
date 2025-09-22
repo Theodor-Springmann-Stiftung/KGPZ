@@ -1,7 +1,5 @@
-<?xml version="1.0"?>
-<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
     <!-- <beitrag>
          Beispiel für einen Beitrag in zwei Stücken
         Das bis-Attribut ist erforderlich falls der Beitrag Seitengrenzen überschreitet
@@ -32,677 +30,676 @@
     </beitrag> -->
 
     <!-- Jg. 1764: -->
-    <beitrag>
-        <stueck when="1764" nr="1" von="1" bis="2" />
-        <kategorie ref="ineigenersache" />
+    <beitrag id="1764-1-hamann-kanter-so-sag-ers-ja-den-klugen-nicht">
+        <stueck when="1764" nr="1" von="1" bis="2"/>
+        <kategorie ref="ineigenersache"/>
         <incipit>„So sag ers ja den Klugen nicht…</incipit>
-        <akteur ref="hamann" />
-        <akteur ref="kanter" />
-        <ort ref="kgsb" />
+        <akteur ref="hamann"/>
+        <akteur ref="kanter"/>
+        <ort ref="kgsb"/>
         <anmerkung>Programmatisches Vorwort</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="1" von="2" bis="3" />
-        <kategorie ref="gedicht" />
-        <akteur ref="braxein-f" />
+    <beitrag id="1764-1-braxein-f-gedicht">
+        <stueck when="1764" nr="1" von="2" bis="3"/>
+        <kategorie ref="gedicht"/>
+        <akteur ref="braxein-f"/>
         <anmerkung>Lobreden auf Friedrich II., anlässlich der Feierlichkeiten an der Königsberger
             Akademie zu dessen Geburtstag</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="1" von="3" bis="4" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-1-weltnachrichten">
+        <stueck when="1764" nr="1" von="3" bis="4"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="1" von="4"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-1-buecher">
+        <stueck when="1764" nr="1" von="4" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="1" von="4"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-1-wechselkurse">
+        <stueck when="1764" nr="1" von="4" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="2" von="5" bis="6" />
-        <werk ref="philippi-briefe" kat="rezension" />
+    <beitrag id="1764-2-lauson-rezension-philippi-briefe">
+        <stueck when="1764" nr="2" von="5" bis="6"/>
+        <werk ref="philippi-briefe" kat="rezension"/>
         <akteur ref="lauson">vgl. ZH II, 234</akteur>
-        <ort ref="koeln" />
+        <ort ref="koeln"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="2" von="6" bis="7" />
-        <werk ref="buesching-denkmal-stegelmann" kat="rezension" />
+    <beitrag id="1764-2-lindner-jg-rezension-buesching-denkmal-stegelmann">
+        <stueck when="1764" nr="2" von="6" bis="7"/>
+        <werk ref="buesching-denkmal-stegelmann" kat="rezension"/>
         <akteur ref="lindner-jg">vgl. ZH II, 242</akteur>
-        <ort ref="stpetersburg" />
+        <ort ref="stpetersburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="2" von="7" bis="8" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-2-weltnachrichten">
+        <stueck when="1764" nr="2" von="7" bis="8"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="2" von="8" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-2-buecher">
+        <stueck when="1764" nr="2" von="8"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="3" von="9" bis="11" />
-        <kategorie ref="aufsatz" />
+    <beitrag id="1764-3-hamann-da-ein-betraechtlicher-theil-des-publici">
+        <stueck when="1764" nr="3" von="9" bis="11"/>
+        <kategorie ref="aufsatz"/>
         <incipit>Da ein beträchtlicher Theil des Publici…</incipit>
         <akteur ref="hamann">vgl. ZH II, 235</akteur>
-        <ort ref="kgsb" />
+        <ort ref="kgsb"/>
         <anmerkung>Über den Ziegenpropheten</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="3" von="11" bis="12" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-3-weltnachrichten">
+        <stueck when="1764" nr="3" von="11" bis="12"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="3" von="12"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-3-buecher">
+        <stueck when="1764" nr="3" von="12" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="3" von="12"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-3-wechselkurse">
+        <stueck when="1764" nr="3" von="12" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="4" von="14" bis="15" />
-        <stueck when="1764" nr="5" von="17" bis="18" />
-        <stueck when="1764" nr="6" von="22" bis="23" />
-        <stueck when="1764" nr="7" von="25" bis="26" />
-        <stueck when="1764" nr="8" von="29" bis="30" />
-        <kategorie ref="aufsatz" />
+    <beitrag id="1764-kant-versuch-ueber-die-krankheiten-des-kopfes">
+        <stueck when="1764" nr="4" von="14" bis="15"/>
+        <stueck when="1764" nr="5" von="17" bis="18"/>
+        <stueck when="1764" nr="6" von="22" bis="23"/>
+        <stueck when="1764" nr="7" von="25" bis="26"/>
+        <stueck when="1764" nr="8" von="29" bis="30"/>
+        <kategorie ref="aufsatz"/>
         <titel>Versuch über die Krankheiten des Kopfes</titel>
         <akteur ref="kant">vgl. ZH II, 239</akteur>
-        <ort ref="kgsb" />
+        <ort ref="kgsb"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="4" von="13" bis="14" />
-        <werk ref="robinet-nature" kat="rezension" />
+    <beitrag id="1764-4-hamann-rezension-robinet-nature">
+        <stueck when="1764" nr="4" von="13" bis="14"/>
+        <werk ref="robinet-nature" kat="rezension"/>
         <akteur ref="hamann">Roth III, 241–245</akteur>
-        <ort ref="amsterdam" />
+        <ort ref="amsterdam"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="4" von="15" bis="16" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-4-weltnachrichten">
+        <stueck when="1764" nr="4" von="15" bis="16"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="4" von="16" />
-        <kategorie ref="buecher" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="5" von="18" bis="19" />
-        <werk ref="pitt-staatsverwaltung" kat="rezension" />
-        <ort ref="berlin" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="5" von="19" bis="20" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="5" von="20"  order="1"/>
-        <kategorie ref="buecher" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="5" von="20"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-4-buecher">
+        <stueck when="1764" nr="4" von="16"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="6" von="21" bis="22" />
-        <kategorie ref="gedicht" />
-        <werk ref="ramler-hymen" kat="auszug" />
-        <werk ref="ramler-hymen" kat="kommentar" />
+    <beitrag id="1764-5-rezension-pitt-staatsverwaltung">
+        <stueck when="1764" nr="5" von="18" bis="19"/>
+        <werk ref="pitt-staatsverwaltung" kat="rezension"/>
+        <ort ref="berlin"/>
+    </beitrag>
+    <beitrag id="1764-5-weltnachrichten">
+        <stueck when="1764" nr="5" von="19" bis="20"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1764-5-buecher">
+        <stueck when="1764" nr="5" von="20" order="1"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1764-5-wechselkurse">
+        <stueck when="1764" nr="5" von="20" order="2"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag id="1764-6-hamann-gedicht">
+        <stueck when="1764" nr="6" von="21" bis="22"/>
+        <kategorie ref="gedicht"/>
+        <werk ref="ramler-hymen" kat="auszug"/>
+        <werk ref="ramler-hymen" kat="kommentar"/>
         <akteur ref="hamann">ZH II, 239</akteur>
-        <ort ref="kgsb" />
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="6" von="23" bis="24" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-6-weltnachrichten">
+        <stueck when="1764" nr="6" von="23" bis="24"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="6" von="24" />
-        <kategorie ref="buecher" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="7" von="27" bis="28" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="7" von="28"  order="1"/>
-        <kategorie ref="buecher" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="7" von="28"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-6-buecher">
+        <stueck when="1764" nr="6" von="24"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="8" von="30" bis="31" />
-        <werk ref="gellius-geschichte" kat="rezension" />
+    <beitrag id="1764-7-weltnachrichten">
+        <stueck when="1764" nr="7" von="27" bis="28"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1764-7-buecher">
+        <stueck when="1764" nr="7" von="28" order="1"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1764-7-wechselkurse">
+        <stueck when="1764" nr="7" von="28" order="2"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag id="1764-8-hamann-rezension-gellius-geschichte">
+        <stueck when="1764" nr="8" von="30" bis="31"/>
+        <werk ref="gellius-geschichte" kat="rezension"/>
         <akteur ref="hamann">vgl. ZH II, 239</akteur>
-        <ort ref="frankfurt" />
-        <ort ref="leipzig" />
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="8" von="31" bis="32" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-8-weltnachrichten">
+        <stueck when="1764" nr="8" von="31" bis="32"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="8" von="32" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-8-buecher">
+        <stueck when="1764" nr="8" von="32"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="9" von="33" bis="34" />
-        <werk ref="otto-ausfuehrliche-kritische-nachrichten" kat="rezension" />
+    <beitrag id="1764-9-hamann-rezension-otto-ausfuehrliche-kritische-nachrichten">
+        <stueck when="1764" nr="9" von="33" bis="34"/>
+        <werk ref="otto-ausfuehrliche-kritische-nachrichten" kat="rezension"/>
         <akteur ref="hamann">vgl. ZH II, 239</akteur>
-        <ort ref="lindau" />
-        <ort ref="frankfurt" />
-        <ort ref="leipzig" />
+        <ort ref="lindau"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="9" von="34" bis="35" />
-        <kategorie ref="gedicht" />
-        <werk ref="gleim-gedichte" kat="auszug" />
-        <werk ref="gleim-gedichte" kat="kommentar" />
-        <akteur ref="hamann" unsicher="true" />
-        <ort ref="berlin" />
+    <beitrag id="1764-9-hamann-gedicht">
+        <stueck when="1764" nr="9" von="34" bis="35"/>
+        <kategorie ref="gedicht"/>
+        <werk ref="gleim-gedichte" kat="auszug"/>
+        <werk ref="gleim-gedichte" kat="kommentar"/>
+        <akteur ref="hamann" unsicher="true"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="9" von="35" bis="36" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-9-weltnachrichten">
+        <stueck when="1764" nr="9" von="35" bis="36"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="9" von="36"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-9-buecher">
+        <stueck when="1764" nr="9" von="36" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="9" von="36"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-9-wechselkurse">
+        <stueck when="1764" nr="9" von="36" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="10" von="37" bis="38" />
-        <werk ref="argens-beytrage" kat="rezension" />
+    <beitrag id="1764-10-hamann-rezension-argens-beytrage">
+        <stueck when="1764" nr="10" von="37" bis="38"/>
+        <werk ref="argens-beytrage" kat="rezension"/>
         <akteur ref="hamann">vgl. ZH II, 239</akteur>
-        <ort ref="berlin" />
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="10" von="38" bis="39" />
-        <werk ref="home-critick" kat="rezension" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-10-rezension-home-critick">
+        <stueck when="1764" nr="10" von="38" bis="39"/>
+        <werk ref="home-critick" kat="rezension"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="10" von="39" bis="40" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-10-weltnachrichten">
+        <stueck when="1764" nr="10" von="39" bis="40"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="10" von="40" />
-        <kategorie ref="lotterie" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="11" von="41" bis="42" />
-        <werk ref="karsch-gedichte" kat="rezension" />
-        <ort ref="berlin" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="11" von="43" bis="44" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="11" von="44" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-10-lotterie">
+        <stueck when="1764" nr="10" von="40"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="12" von="45" bis="47" />
-        <kategorie ref="gedicht" />
-        <werk ref="karsch-gedichte" kat="auszug" />
-        <werk ref="karsch-gedichte" kat="kommentar" />
-        <akteur ref="hamann" unsicher="true" />
+    <beitrag id="1764-11-rezension-karsch-gedichte">
+        <stueck when="1764" nr="11" von="41" bis="42"/>
+        <werk ref="karsch-gedichte" kat="rezension"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="12" von="48"  order="1"/>
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-11-weltnachrichten">
+        <stueck when="1764" nr="11" von="43" bis="44"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="12" von="48"  order="2"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-11-buecher">
+        <stueck when="1764" nr="11" von="44"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="13" von="49" />
-        <werk ref="nicolai-literaturbriefe" s="Teil 16" kat="rezension" />
+    <beitrag id="1764-12-hamann-gedicht">
+        <stueck when="1764" nr="12" von="45" bis="47"/>
+        <kategorie ref="gedicht"/>
+        <werk ref="karsch-gedichte" kat="auszug"/>
+        <werk ref="karsch-gedichte" kat="kommentar"/>
+        <akteur ref="hamann" unsicher="true"/>
+    </beitrag>
+    <beitrag id="1764-12-weltnachrichten">
+        <stueck when="1764" nr="12" von="48" order="1"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1764-12-lotterie">
+        <stueck when="1764" nr="12" von="48" order="2"/>
+        <kategorie ref="lotterie"/>
+    </beitrag>
+
+    <beitrag id="1764-13-hamann-rezension-nicolai-literaturbriefe">
+        <stueck when="1764" nr="13" von="49"/>
+        <werk ref="nicolai-literaturbriefe" s="Teil 16" kat="rezension"/>
         <akteur ref="hamann">vgl. ZH II, 239</akteur>
-        <ort ref="berlin" />
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="13" von="50" bis="51" />
+    <beitrag id="1764-13-leben-und-wunder-des-herrn-johann-winckelmanns">
+        <stueck when="1764" nr="13" von="50" bis="51"/>
         <titel>Leben und Wunder des Herrn Johann Winckelmanns</titel>
-        <werk ref="nicolai-literaturbriefe" s="16. Teil,
-            265. Brief, S. 183–187" kat="auszug" />
+        <werk ref="nicolai-literaturbriefe" s="16. Teil,             265. Brief, S. 183–187" kat="auszug"/>
         <anmerkung>Auszug aus einem Brief von Winckelmann an seinen Bruder, Rom, 8. Dezember 1762.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="13" von="51" bis="52" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-13-weltnachrichten">
+        <stueck when="1764" nr="13" von="51" bis="52"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="13" von="52"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-13-buecher">
+        <stueck when="1764" nr="13" von="52" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="13" von="52"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-13-wechselkurse">
+        <stueck when="1764" nr="13" von="52" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="14" von="53" bis="54" />
-        <kategorie ref="kommentar" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-14-werner-jg-jam-cessere-niues">
+        <stueck when="1764" nr="14" von="53" bis="54"/>
+        <kategorie ref="kommentar"/>
+        <kategorie ref="gedicht"/>
         <titel>Jam cessere niues, cesserunt frigora brumse</titel>
-        <akteur ref="werner-jg" />
-        <ort ref="kgsb" />
+        <akteur ref="werner-jg"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="14" von="55" bis="56" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-14-weltnachrichten">
+        <stueck when="1764" nr="14" von="55" bis="56"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="14" von="56"  order="1"/>
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1764-14-lokalnachrichten">
+        <stueck when="1764" nr="14" von="56" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="14" von="56"  order="2"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-14-buecher">
+        <stueck when="1764" nr="14" von="56" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="15" von="57" bis="58" />
-        <werk ref="silberschlag-feuerkugel" kat="rezension" />
+    <beitrag id="1764-15-kant-rezension-silberschlag-feuerkugel">
+        <stueck when="1764" nr="15" von="57" bis="58"/>
+        <werk ref="silberschlag-feuerkugel" kat="rezension"/>
         <akteur ref="kant">vgl. ZH II, 246</akteur>
-        <ort ref="magdeburg" />
-        <ort ref="stendal" />
-        <ort ref="leipzig" />
+        <ort ref="magdeburg"/>
+        <ort ref="stendal"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="15" von="59" bis="60" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-15-weltnachrichten">
+        <stueck when="1764" nr="15" von="59" bis="60"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="15" von="59" />
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1764-15-lokalnachrichten">
+        <stueck when="1764" nr="15" von="59"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="15" von="60"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-15-lotterie">
+        <stueck when="1764" nr="15" von="60" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="15" von="60"  order="2"/>
-        <kategorie ref="wechselkurse" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="15" von="58" bis="59" />
-        <stueck when="1764" nr="16" von="61" bis="62" />
-        <stueck when="1764" nr="33" von="129" bis="130" />
-        <werk ref="hirzel-bauer" kat="auszug" />
+    <beitrag id="1764-15-wechselkurse">
+        <stueck when="1764" nr="15" von="60" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="16" von="62" bis="63" />
-        <werk ref="bertling-berichte" kat="rezension" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="16" von="63" bis="64" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="16" von="64" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-auszug-hirzel-bauer">
+        <stueck when="1764" nr="15" von="58" bis="59"/>
+        <stueck when="1764" nr="16" von="61" bis="62"/>
+        <stueck when="1764" nr="33" von="129" bis="130"/>
+        <werk ref="hirzel-bauer" kat="auszug"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="17" von="65" bis="67" />
-        <werk ref="arnoldt-gedanken" kat="rezension" />
+    <beitrag id="1764-16-rezension-bertling-berichte">
+        <stueck when="1764" nr="16" von="62" bis="63"/>
+        <werk ref="bertling-berichte" kat="rezension"/>
+    </beitrag>
+    <beitrag id="1764-16-weltnachrichten">
+        <stueck when="1764" nr="16" von="63" bis="64"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1764-16-buecher">
+        <stueck when="1764" nr="16" von="64"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+
+    <beitrag id="1764-17-herder-rezension-arnoldt-gedanken">
+        <stueck when="1764" nr="17" von="65" bis="67"/>
+        <werk ref="arnoldt-gedanken" kat="rezension"/>
         <akteur ref="herder">vgl. SWS IX, 93f.</akteur>
-        <ort ref="kgsb" />
-        <ort ref="leipzig" />
+        <ort ref="kgsb"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="17" von="67" bis="68" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-17-weltnachrichten">
+        <stueck when="1764" nr="17" von="67" bis="68"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="17" von="68" />
-        <kategorie ref="wechselkurse" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="18" von="69" />
-        <werk ref="schriften-verschiedenerverfasser" kat="rezension" />
-        <ort ref="danzig" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="18" von="69" bis="70" />
-        <werk ref="goldsmith-letters" s="Bd. 1" kat="rezension" />
-        <akteur ref="borowski">vgl. ZH II, 235</akteur>
-        <ort ref="leipzig" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="18" von="70" bis="71" />
-        <werk ref="baumgarten-hebraer" kat="rezension" />
-        <akteur ref="borowski">vgl. ZH II, 235</akteur>
-        <ort ref="halle" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="18" von="71" bis="72" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="18" von="72" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-17-wechselkurse">
+        <stueck when="1764" nr="17" von="68"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="19" von="73" bis="74" />
-        <werk ref="weitzler-hexe-vierwochen" kat="rezension" />
-        <ort ref="breslau" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-18-rezension-schriften-verschiedenerverfasser">
+        <stueck when="1764" nr="18" von="69"/>
+        <werk ref="schriften-verschiedenerverfasser" kat="rezension"/>
+        <ort ref="danzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="19" von="74" />
-        <werk ref="miller-anweisung" kat="rezension" />
+    <beitrag id="1764-18-borowski-rezension-goldsmith-letters">
+        <stueck when="1764" nr="18" von="69" bis="70"/>
+        <werk ref="goldsmith-letters" s="Bd. 1" kat="rezension"/>
+        <akteur ref="borowski">vgl. ZH II, 235</akteur>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1764-18-borowski-rezension-baumgarten-hebraer">
+        <stueck when="1764" nr="18" von="70" bis="71"/>
+        <werk ref="baumgarten-hebraer" kat="rezension"/>
+        <akteur ref="borowski">vgl. ZH II, 235</akteur>
+        <ort ref="halle"/>
+    </beitrag>
+    <beitrag id="1764-18-weltnachrichten">
+        <stueck when="1764" nr="18" von="71" bis="72"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1764-18-buecher">
+        <stueck when="1764" nr="18" von="72"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+
+    <beitrag id="1764-19-rezension-weitzler-hexe-vierwochen">
+        <stueck when="1764" nr="19" von="73" bis="74"/>
+        <werk ref="weitzler-hexe-vierwochen" kat="rezension"/>
+        <ort ref="breslau"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1764-19-schlegel-g-rezension-miller-anweisung">
+        <stueck when="1764" nr="19" von="74"/>
+        <werk ref="miller-anweisung" kat="rezension"/>
         <akteur ref="schlegel-g">vgl. ZH II, 251</akteur>
-        <ort ref="helmstedt" />
+        <ort ref="helmstedt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="19" von="74" bis="75" />
-        <werk ref="neaulme-catalogue-nombreuse-collection" kat="anzeige" />
-        <ort ref="amsterdam" />
-        <ort ref="berlin" />
+    <beitrag id="1764-19-anzeige-neaulme-catalogue-nombreuse-collection">
+        <stueck when="1764" nr="19" von="74" bis="75"/>
+        <werk ref="neaulme-catalogue-nombreuse-collection" kat="anzeige"/>
+        <ort ref="amsterdam"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="19" von="75" bis="76" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-19-weltnachrichten">
+        <stueck when="1764" nr="19" von="75" bis="76"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="19" von="76" />
-        <kategorie ref="buecher" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="20" von="77" />
-        <akteur ref="funck-jd" kat="nachruf" />
-        <ort ref="kgsb" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="20" von="77" bis="78" />
-        <werk ref="krueger-schriften" kat="rezension" />
-        <ort ref="leipzig" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="20" von="78" />
-        <werk ref="camerer-betrachtungen" kat="rezension" />
-        <ort ref="hamburg" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="20" von="79" bis="80" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-19-buecher">
+        <stueck when="1764" nr="19" von="76"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="21" von="81" bis="82" />
-        <werk ref="pieper-markenrecht" kat="rezension" />
+    <beitrag id="1764-20-funck-jd-nachruf">
+        <stueck when="1764" nr="20" von="77"/>
+        <akteur ref="funck-jd" kat="nachruf"/>
+        <ort ref="kgsb"/>
+    </beitrag>
+    <beitrag id="1764-20-rezension-krueger-schriften">
+        <stueck when="1764" nr="20" von="77" bis="78"/>
+        <werk ref="krueger-schriften" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1764-20-rezension-camerer-betrachtungen">
+        <stueck when="1764" nr="20" von="78"/>
+        <werk ref="camerer-betrachtungen" kat="rezension"/>
+        <ort ref="hamburg"/>
+    </beitrag>
+    <beitrag id="1764-20-weltnachrichten">
+        <stueck when="1764" nr="20" von="79" bis="80"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+
+    <beitrag id="1764-21-funck-jd-rezension-pieper-markenrecht">
+        <stueck when="1764" nr="21" von="81" bis="82"/>
+        <werk ref="pieper-markenrecht" kat="rezension"/>
         <akteur ref="funck-jd">vgl. ZH II, 246</akteur>
-        <ort ref="halle" />
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="21" von="82" bis="83" />
-        <werk ref="gazette-litteraire" kat="anzeige" />
-        <ort ref="paris" />
+    <beitrag id="1764-21-anzeige-gazette-litteraire">
+        <stueck when="1764" nr="21" von="82" bis="83"/>
+        <werk ref="gazette-litteraire" kat="anzeige"/>
+        <ort ref="paris"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="21" von="83" bis="84" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-21-weltnachrichten">
+        <stueck when="1764" nr="21" von="83" bis="84"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="21" von="84" />
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-21-wechselkurse">
+        <stueck when="1764" nr="21" von="84"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="22" von="85" bis="87" />
-        <stueck when="1764" nr="25" von="97" bis="98" />
-        <werk ref="michaelis-hebraer" kat="rezension" />
+    <beitrag id="1764-hamann-rezension-michaelis-hebraer">
+        <stueck when="1764" nr="22" von="85" bis="87"/>
+        <stueck when="1764" nr="25" von="97" bis="98"/>
+        <werk ref="michaelis-hebraer" kat="rezension"/>
         <akteur ref="hamann">vgl. ZH II, 251</akteur>
-        <ort ref="frankfurt" />
-        <ort ref="leipzig" />
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="22" von="87" bis="88" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-22-weltnachrichten">
+        <stueck when="1764" nr="22" von="87" bis="88"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="22" von="88"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-22-lotterie">
+        <stueck when="1764" nr="22" von="88" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="22" von="88"  order="2"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-22-buecher">
+        <stueck when="1764" nr="22" von="88" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="23" von="89" bis="91" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-23-hippel-ein-fremdling-auf-golgatha">
+        <stueck when="1764" nr="23" von="89" bis="91"/>
+        <kategorie ref="gedicht"/>
         <titel>Ein Fremdling auf Golgatha</titel>
         <akteur ref="hippel" unsicher="true">vgl. Joseph Kohnen: Poetische Wüste. Zu den lyrischen
             Beiträgen in den ersten Jahren der Königsbergschen Gelehrten und Politischen Zeitungen
             (1764–1768). In: Das Wort. Germanistisches Jahrbuch Russland 2014/2015, 101f.</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="23" von="91" bis="92" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-23-weltnachrichten">
+        <stueck when="1764" nr="23" von="91" bis="92"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="23" von="92" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-23-buecher">
+        <stueck when="1764" nr="23" von="92"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="24" von="93" bis="94" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-24-herder-ostergesang">
+        <stueck when="1764" nr="24" von="93" bis="94"/>
+        <kategorie ref="gedicht"/>
         <titel>Ostergesang</titel>
-        <akteur ref="herder" />
+        <akteur ref="herder"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="24" von="95" bis="96" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-24-weltnachrichten">
+        <stueck when="1764" nr="24" von="95" bis="96"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="24" von="96"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-24-lotterie">
+        <stueck when="1764" nr="24" von="96" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="24" von="96"  order="2"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-24-buecher">
+        <stueck when="1764" nr="24" von="96" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="25" von="98" bis="99" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-25-hamann-berlocken">
+        <stueck when="1764" nr="25" von="98" bis="99"/>
+        <kategorie ref="gedicht"/>
         <titel>Berlocken.</titel>
-        <akteur ref="hamann" unsicher="true" />
+        <akteur ref="hamann" unsicher="true"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="25" von="99" bis="100" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-25-weltnachrichten">
+        <stueck when="1764" nr="25" von="99" bis="100"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="25" von="100"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-25-buecher">
+        <stueck when="1764" nr="25" von="100" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="25" von="100"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-25-wechselkurse">
+        <stueck when="1764" nr="25" von="100" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="26" von="101" bis="103" />
-        <werk ref="kant-beobachtungen" kat="rezension" />
+    <beitrag id="1764-26-hamann-rezension-kant-beobachtungen">
+        <stueck when="1764" nr="26" von="101" bis="103"/>
+        <werk ref="kant-beobachtungen" kat="rezension"/>
         <akteur ref="hamann">ZH II, 239</akteur>
-        <ort ref="kgsb" />
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="26" von="103" bis="104" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-26-weltnachrichten">
+        <stueck when="1764" nr="26" von="103" bis="104"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="26" von="104" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-26-buecher">
+        <stueck when="1764" nr="26" von="104"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="27" von="105" bis="106" />
-        <werk ref="wegelin-todtengesprache" kat="rezension" />
+    <beitrag id="1764-27-hamann-rezension-wegelin-todtengesprache">
+        <stueck when="1764" nr="27" von="105" bis="106"/>
+        <werk ref="wegelin-todtengesprache" kat="rezension"/>
         <akteur ref="hamann">ZH II, 253</akteur>
-        <ort ref="frankfurt" />
-        <ort ref="leipzig" />
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="27" von="107" bis="108" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-27-weltnachrichten">
+        <stueck when="1764" nr="27" von="107" bis="108"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="27" von="108"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-27-buecher">
+        <stueck when="1764" nr="27" von="108" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="27" von="108"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-27-wechselkurse">
+        <stueck when="1764" nr="27" von="108" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="28" von="109"  order="1"/>
-        <werk ref="burmann-fabeln" kat="kommentar" />
-        <werk ref="burmann-fabeln" kat="auszug" />
-        <ort ref="berlin" />
+    <beitrag id="1764-28-kommentar-burmann-fabeln">
+        <stueck when="1764" nr="28" von="109" order="1"/>
+        <werk ref="burmann-fabeln" kat="kommentar"/>
+        <werk ref="burmann-fabeln" kat="auszug"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="28" von="109"  order="2"/>
-        <werk ref="montague-briefe" kat="rezension" />
+    <beitrag id="1764-28-hamann-rezension-montague-briefe">
+        <stueck when="1764" nr="28" von="109" order="2"/>
+        <werk ref="montague-briefe" kat="rezension"/>
         <akteur ref="hamann">ZH II, 253</akteur>
-        <ort ref="leipzig" />
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="28" von="111" bis="112" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-28-weltnachrichten">
+        <stueck when="1764" nr="28" von="111" bis="112"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="28" von="112" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-28-buecher">
+        <stueck when="1764" nr="28" von="112"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="29" von="113" bis="115" />
-        <werk ref="holdermann-grammaire" kat="rezension" />
+    <beitrag id="1764-29-lindner-jg-rezension-holdermann-grammaire">
+        <stueck when="1764" nr="29" von="113" bis="115"/>
+        <werk ref="holdermann-grammaire" kat="rezension"/>
         <akteur ref="lindner-jg">ZH II, 244</akteur>
-        <ort ref="riga" />
+        <ort ref="riga"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="29" von="115" bis="116" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-29-weltnachrichten">
+        <stueck when="1764" nr="29" von="115" bis="116"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="29" von="116" />
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-29-wechselkurse">
+        <stueck when="1764" nr="29" von="116"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="30" von="117" bis="118" />
-        <werk ref="willamovius-dithyramben" kat="rezension" />
+    <beitrag id="1764-30-herder-rezension-willamovius-dithyramben">
+        <stueck when="1764" nr="30" von="117" bis="118"/>
+        <werk ref="willamovius-dithyramben" kat="rezension"/>
         <akteur ref="herder">HBGA I, 28</akteur>
-        <ort ref="kgsb" />
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="30" von="119" bis="120" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-30-weltnachrichten">
+        <stueck when="1764" nr="30" von="119" bis="120"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="30" von="120" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-30-buecher">
+        <stueck when="1764" nr="30" von="120"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="31" von="121" bis="122" />
-        <kategorie ref="gedicht" />
-        <werk ref="lauson-paean" kat="kommentar" />
-        <werk ref="lauson-paean" kat="auszug" />
+    <beitrag id="1764-31-lauson-gedicht">
+        <stueck when="1764" nr="31" von="121" bis="122"/>
+        <kategorie ref="gedicht"/>
+        <werk ref="lauson-paean" kat="kommentar"/>
+        <werk ref="lauson-paean" kat="auszug"/>
         <akteur ref="lauson">ZH II, 255</akteur>
-        <ort ref="kgsb" />
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="31" von="122" bis="123" />
-        <werk ref="haug-sabbat" kat="rezension" />
+    <beitrag id="1764-31-rezension-haug-sabbat">
+        <stueck when="1764" nr="31" von="122" bis="123"/>
+        <werk ref="haug-sabbat" kat="rezension"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="31" von="123" bis="124" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-31-weltnachrichten">
+        <stueck when="1764" nr="31" von="123" bis="124"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="31" von="124" />
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-31-wechselkurse">
+        <stueck when="1764" nr="31" von="124"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="32" von="125" bis="126" />
-        <werk ref="montfaucon-gabalis" kat="rezension" />
+    <beitrag id="1764-32-hamann-rezension-montfaucon-gabalis">
+        <stueck when="1764" nr="32" von="125" bis="126"/>
+        <werk ref="montfaucon-gabalis" kat="rezension"/>
         <akteur ref="hamann" unsicher="true">ZH II, 253</akteur>
-        <ort ref="berlin" />
-        <ort ref="leipzig" />
+        <ort ref="berlin"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="32" von="126" bis="127" />
-        <kategorie ref="gelehrte-nachrichten" />
-        <ort ref="mannheim" />
+    <beitrag id="1764-32-gelehrte-nachrichten">
+        <stueck when="1764" nr="32" von="126" bis="127"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="mannheim"/>
         <anmerkung>Bericht über die Versammlung der Akademie der Wissenschaften in Mannheim</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="32" von="127" bis="128" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-32-weltnachrichten">
+        <stueck when="1764" nr="32" von="127" bis="128"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="32" von="128" />
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-32-wechselkurse">
+        <stueck when="1764" nr="32" von="128"/>
+        <kategorie ref="wechselkurse"/>
         <anmerkung>Tabelle, wornach die Zahlungen nach Verschiedenheit der bisherigen Münz-Sorten
             vom 1ten Junii 1764 an in dem jetzt nach wieder hergestellten Münz-Fuß geprägtem Gold-
             und Silber-Gelde geschehen sollen.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="33" von="131" bis="132" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-33-weltnachrichten">
+        <stueck when="1764" nr="33" von="131" bis="132"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="33" von="132"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-33-buecher">
+        <stueck when="1764" nr="33" von="132" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="33" von="132"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-33-wechselkurse">
+        <stueck when="1764" nr="33" von="132" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="34" von="133" bis="135" />
-        <stueck when="1764" nr="35" von="137" bis="138" />
-        <stueck when="1764" nr="36" von="141" bis="142" />
-        <kategorie ref="aufsatz" />
+    <beitrag id="1764-bock-fs-wohlgeordnete-naturalienbehaeltnisse">
+        <stueck when="1764" nr="34" von="133" bis="135"/>
+        <stueck when="1764" nr="35" von="137" bis="138"/>
+        <stueck when="1764" nr="36" von="141" bis="142"/>
+        <kategorie ref="aufsatz"/>
         <incipit>Wohlgeordnete Naturalienbehältnisse…</incipit>
-        <ort ref="kgsb" />
+        <ort ref="kgsb"/>
         <akteur ref="bock-fs">vgl. ZH II, 246</akteur>
         <anmerkung>Beschreibung des Naturalienkabinetts von Friedrich Franz Saturgus, ausführlicher
             in <wwwlink address="https://books.google.de/books?id=MHw_rfdwQYMC">Friedrich Samuel
@@ -710,1551 +707,1550 @@
             zu Königsberg befindet (Königsberg: Kanter 1764)</wwwlink>.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="34" von="135" bis="136" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-34-weltnachrichten">
+        <stueck when="1764" nr="34" von="135" bis="136"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="34" von="136" />
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1764-34-lokalnachrichten">
+        <stueck when="1764" nr="34" von="136"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="35" von="138" bis="139" />
-        <kategorie ref="gelehrte-nachrichten" />
-        <ort ref="kgsb" />
+    <beitrag id="1764-35-gelehrte-nachrichten">
+        <stueck when="1764" nr="35" von="138" bis="139"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="kgsb"/>
         <anmerkung>Bericht über die Königsberger Akademie</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="35" von="139" bis="140" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-35-weltnachrichten">
+        <stueck when="1764" nr="35" von="139" bis="140"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="35" von="140"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-35-lotterie">
+        <stueck when="1764" nr="35" von="140" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="35" von="140"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-35-wechselkurse">
+        <stueck when="1764" nr="35" von="140" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="36" von="142" bis="143" />
-        <werk ref="klopstock-salomo" kat="rezension" />
-        <ort ref="magdeburg" />
+    <beitrag id="1764-36-rezension-klopstock-salomo">
+        <stueck when="1764" nr="36" von="142" bis="143"/>
+        <werk ref="klopstock-salomo" kat="rezension"/>
+        <ort ref="magdeburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="36" von="143" bis="144" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-36-weltnachrichten">
+        <stueck when="1764" nr="36" von="143" bis="144"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="36" von="144"  order="1"/>
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1764-36-lokalnachrichten">
+        <stueck when="1764" nr="36" von="144" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="36" von="144"  order="2"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-36-buecher">
+        <stueck when="1764" nr="36" von="144" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
     <beitrag id="klopstock-done">
-        <stueck when="1764" nr="37" von="145"  order="1"/>
-        <kategorie ref="gedicht" />
+        <stueck when="1764" nr="37" von="145" order="1"/>
+        <kategorie ref="gedicht"/>
         <titel>An Done, auf die Frage: Ob er sie wie Meta liebte?</titel>
-        <akteur ref="klopstock" />
+        <akteur ref="klopstock"/>
         <anmerkung>Erstdruck der Klopstock-Ode, vgl. Werke und Briefe. Historisch-kritische Ausgabe,
             begr. v. A. Beck, K. L. Schneider und H. Tiemann; hg. v. H. Gronemeyer, E.
             Höpker-Herberg, K. Hurlebusch und R.-M. Hurlebusch (bisher 42 Bde.; Berlin, New York
             1974ff.), I 2, S. 357f.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="37" von="145"  order="2"/>
-        <beitrag ref="klopstock-done" kat="kommentar" />
-        <akteur ref="lauson" unsicher="true" />
+    <beitrag id="1764-37-lauson-klopstock-done-kommentar">
+        <stueck when="1764" nr="37" von="145" order="2"/>
+        <beitrag ref="klopstock-done" kat="kommentar"/>
+        <akteur ref="lauson" unsicher="true"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="37" von="145" bis="146" />
-        <kategorie ref="gedicht" />
-        <kategorie ref="kommentar" />
+    <beitrag id="1764-37-lindner-jg-fremde-einfaelle">
+        <stueck when="1764" nr="37" von="145" bis="146"/>
+        <kategorie ref="gedicht"/>
+        <kategorie ref="kommentar"/>
         <titel>Fremde Einfälle</titel>
         <akteur ref="lindner-jg">ZH II, 257</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="37" von="146" bis="147" />
-        <werk ref="unzer-arzt" kat="rezension" />
+    <beitrag id="1764-37-lauson-rezension-unzer-arzt">
+        <stueck when="1764" nr="37" von="146" bis="147"/>
+        <werk ref="unzer-arzt" kat="rezension"/>
         <akteur ref="lauson">ZH II, 234</akteur>
-        <ort ref="hamburg" />
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="37" von="147" bis="148" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-37-weltnachrichten">
+        <stueck when="1764" nr="37" von="147" bis="148"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="37" von="148"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-37-buecher">
+        <stueck when="1764" nr="37" von="148" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="37" von="148"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-37-wechselkurse">
+        <stueck when="1764" nr="37" von="148" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="38" von="149" bis="151" />
-        <werk ref="langer-westminster" kat="rezension" />
+    <beitrag id="1764-38-lauson-rezension-langer-westminster">
+        <stueck when="1764" nr="38" von="149" bis="151"/>
+        <werk ref="langer-westminster" kat="rezension"/>
         <akteur ref="lauson">HBGA, I 26 und X 337</akteur>
-        <ort ref="luebeck" />
+        <ort ref="luebeck"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="38" von="151" bis="152" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-38-weltnachrichten">
+        <stueck when="1764" nr="38" von="151" bis="152"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="38" von="152"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-38-lotterie">
+        <stueck when="1764" nr="38" von="152" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="38" von="152"  order="2"/>
-        <kategorie ref="buecher" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="39" von="153" bis="154" />
-        <stueck when="1764" nr="40" von="157" bis="158" />
-        <stueck when="1764" nr="87" von="346" bis="347" />
-        <stueck when="1764" nr="88" von="350" />
-        <werk ref="gelehrte-beytraege-riga" kat="rezension" />
-        <akteur ref="lindner-jg"></akteur>
-        <ort ref="riga" />
+    <beitrag id="1764-38-buecher">
+        <stueck when="1764" nr="38" von="152" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="39" von="154" bis="155" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-lindner-jg-rezension-gelehrte-beytraege-riga">
+        <stueck when="1764" nr="39" von="153" bis="154"/>
+        <stueck when="1764" nr="40" von="157" bis="158"/>
+        <stueck when="1764" nr="87" von="346" bis="347"/>
+        <stueck when="1764" nr="88" von="350"/>
+        <werk ref="gelehrte-beytraege-riga" kat="rezension"/>
+        <akteur ref="lindner-jg"/>
+        <ort ref="riga"/>
+    </beitrag>
+
+    <beitrag id="1764-39-schulz-j-ueber-die-gesaenge-der-madame-karschin">
+        <stueck when="1764" nr="39" von="154" bis="155"/>
+        <kategorie ref="gedicht"/>
         <titel>Ueber die Gesänge der Madame Karschin</titel>
         <akteur ref="schulz-j">ZH II, 262</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="39" von="155" bis="156" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-39-weltnachrichten">
+        <stueck when="1764" nr="39" von="155" bis="156"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="39" von="156"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-39-lotterie">
+        <stueck when="1764" nr="39" von="156" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="39" von="156"  order="2"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-39-buecher">
+        <stueck when="1764" nr="39" von="156" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="39" von="156"  order="3"/>
-        <kategorie ref="wechselkurse" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="40" von="158" />
-        <werk ref="karsch-einfaelle" kat="rezension" />
-        <ort ref="berlin" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="40" von="159" bis="160" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="40" von="160" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-39-wechselkurse">
+        <stueck when="1764" nr="39" von="156" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="41" von="161" bis="162" />
-        <kategorie ref="kommentar" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-40-rezension-karsch-einfaelle">
+        <stueck when="1764" nr="40" von="158"/>
+        <werk ref="karsch-einfaelle" kat="rezension"/>
+        <ort ref="berlin"/>
+    </beitrag>
+    <beitrag id="1764-40-weltnachrichten">
+        <stueck when="1764" nr="40" von="159" bis="160"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1764-40-buecher">
+        <stueck when="1764" nr="40" von="160"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+
+    <beitrag id="1764-41-werner-jg-iam-calor-increscit">
+        <stueck when="1764" nr="41" von="161" bis="162"/>
+        <kategorie ref="kommentar"/>
+        <kategorie ref="gedicht"/>
         <incipit>Iam calor increscit, prouectior aestuat annus</incipit>
-        <akteur ref="werner-jg" />
-        <ort ref="kgsb" />
+        <akteur ref="werner-jg"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="41" von="162" bis="163" />
-        <werk ref="gleim-deutschemuse" kat="auszug" />
+    <beitrag id="1764-41-auszug-gleim-deutschemuse">
+        <stueck when="1764" nr="41" von="162" bis="163"/>
+        <werk ref="gleim-deutschemuse" kat="auszug"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="41" von="163" bis="164" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-41-weltnachrichten">
+        <stueck when="1764" nr="41" von="163" bis="164"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="41" von="164" />
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-41-wechselkurse">
+        <stueck when="1764" nr="41" von="164"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="42" von="165" />
-        <kategorie ref="ineigenersache" />
+    <beitrag id="1764-42-kanter-ineigenersache">
+        <stueck when="1764" nr="42" von="165"/>
+        <kategorie ref="ineigenersache"/>
         <akteur ref="kanter">ZH II, 263</akteur>
-        <ort ref="kgsb" />
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="42" von="165" bis="167" />
-        <kategorie ref="brief" />
+    <beitrag id="1764-42-brief">
+        <stueck when="1764" nr="42" von="165" bis="167"/>
+        <kategorie ref="brief"/>
         <anmerkung>Leserbriefe von „Vincenz Urban“ und „V. U.“, vgl. ZH II, 263</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="42" von="167" bis="168" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-42-weltnachrichten">
+        <stueck when="1764" nr="42" von="167" bis="168"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="42" von="168" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-42-buecher">
+        <stueck when="1764" nr="42" von="168"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="43" von="169" />
-        <kategorie ref="gelehrte-nachrichten" />
-        <ort ref="kgsb" />
+    <beitrag id="1764-43-gelehrte-nachrichten">
+        <stueck when="1764" nr="43" von="169"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="kgsb"/>
         <anmerkung>Bericht über Veröffentlichungen der Königsberger Akademie</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="43" von="169" bis="170" />
-        <stueck when="1764" nr="44" von="173" bis="174" />
-        <werk ref="basedow-unterricht" kat="rezension" />
+    <beitrag id="1764-trescho-rezension-basedow-unterricht">
+        <stueck when="1764" nr="43" von="169" bis="170"/>
+        <stueck when="1764" nr="44" von="173" bis="174"/>
+        <werk ref="basedow-unterricht" kat="rezension"/>
         <akteur ref="trescho">HBGA, I 26f. und X 579</akteur>
-        <ort ref="altona" />
+        <ort ref="altona"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="43" von="171" bis="172" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-43-weltnachrichten">
+        <stueck when="1764" nr="43" von="171" bis="172"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="43" von="172"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-43-buecher">
+        <stueck when="1764" nr="43" von="172" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="43" von="172"  order="2"/>
-        <kategorie ref="wechselkurse" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="44" von="174" bis="175" />
-        <werk ref="hippel-rhapsodie" kat="auszug" />
-        <werk ref="hippel-rhapsodie" kat="kommentar" />
-        <ort ref="kgsb" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="44" von="175" bis="176" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="44" von="176" />
-        <kategorie ref="lokalnachrichten"></kategorie>
-        <akteur ref="boltz-t" kat="nachruf" />
+    <beitrag id="1764-43-wechselkurse">
+        <stueck when="1764" nr="43" von="172" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="45" von="177" bis="179" />
-        <kategorie ref="aufsatz" />
+    <beitrag id="1764-44-auszug-hippel-rhapsodie">
+        <stueck when="1764" nr="44" von="174" bis="175"/>
+        <werk ref="hippel-rhapsodie" kat="auszug"/>
+        <werk ref="hippel-rhapsodie" kat="kommentar"/>
+        <ort ref="kgsb"/>
+    </beitrag>
+    <beitrag id="1764-44-weltnachrichten">
+        <stueck when="1764" nr="44" von="175" bis="176"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1764-44-lokalnachrichten">
+        <stueck when="1764" nr="44" von="176"/>
+        <kategorie ref="lokalnachrichten"/>
+        <akteur ref="boltz-t" kat="nachruf"/>
+    </beitrag>
+
+    <beitrag id="1764-45-von-der-handlung">
+        <stueck when="1764" nr="45" von="177" bis="179"/>
+        <kategorie ref="aufsatz"/>
         <titel>Von der Handlung</titel>
         <anmerkung>Unterzeichnet mit „K.“ (aber wohl nicht Kant, vgl. HBGA, X 300)</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="45" von="179" bis="180" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-45-weltnachrichten">
+        <stueck when="1764" nr="45" von="179" bis="180"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="45" von="180"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-45-buecher">
+        <stueck when="1764" nr="45" von="180" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="45" von="180"  order="2"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-45-lotterie">
+        <stueck when="1764" nr="45" von="180" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="45" von="180"  order="3"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-45-wechselkurse">
+        <stueck when="1764" nr="45" von="180" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="46" von="181" bis="182" />
-        <werk ref="willamovius-mode" kat="rezension" />
+    <beitrag id="1764-46-lauson-rezension-willamovius-mode">
+        <stueck when="1764" nr="46" von="181" bis="182"/>
+        <werk ref="willamovius-mode" kat="rezension"/>
         <akteur ref="lauson">HBGA, I 27 und X 339</akteur>
-        <ort ref="breslau" />
-        <ort ref="leipzig" />
+        <ort ref="breslau"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="46" von="183" bis="184" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-46-weltnachrichten">
+        <stueck when="1764" nr="46" von="183" bis="184"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="46" von="182" bis="183" />
-        <stueck when="1764" nr="47" von="185" bis="187" />
-        <stueck when="1764" nr="48" von="189" bis="191" />
-        <kategorie ref="aufsatz" />
+    <beitrag id="1764-trescho-gedanken-ueber-die-ausbreitung-der-wissenschaften">
+        <stueck when="1764" nr="46" von="182" bis="183"/>
+        <stueck when="1764" nr="47" von="185" bis="187"/>
+        <stueck when="1764" nr="48" von="189" bis="191"/>
+        <kategorie ref="aufsatz"/>
         <titel>Gedanken über die Ausbreitung der Wissenschaften, und einer verbesserten Erkänntniß</titel>
         <akteur ref="trescho" unsicher="true">ZH II, 263</akteur>
         <anmerkung>Unterzeichnet mit „T.“</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="47" von="185"  order="1"/>
-        <werk ref="magazin-historique" kat="rezension" />
-        <ort ref="strassburg" />
+    <beitrag id="1764-47-rezension-magazin-historique">
+        <stueck when="1764" nr="47" von="185" order="1"/>
+        <werk ref="magazin-historique" kat="rezension"/>
+        <ort ref="strassburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="47" von="185"  order="2"/>
-        <werk ref="darjes-einleitung" kat="rezension" />
-        <ort ref="jena" />
+    <beitrag id="1764-47-rezension-darjes-einleitung">
+        <stueck when="1764" nr="47" von="185" order="2"/>
+        <werk ref="darjes-einleitung" kat="rezension"/>
+        <ort ref="jena"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="47" von="187" bis="188" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-47-weltnachrichten">
+        <stueck when="1764" nr="47" von="187" bis="188"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="47" von="188"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-47-lotterie">
+        <stueck when="1764" nr="47" von="188" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="47" von="188"  order="2"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-47-buecher">
+        <stueck when="1764" nr="47" von="188" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="47" von="188"  order="3"/>
-        <kategorie ref="wechselkurse" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="48" von="191" bis="192" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="48" von="192" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-47-wechselkurse">
+        <stueck when="1764" nr="47" von="188" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="49" von="193" />
-        <werk ref="hase-antwort" kat="rezension" />
-        <ort ref="brandenburg" />
+    <beitrag id="1764-48-weltnachrichten">
+        <stueck when="1764" nr="48" von="191" bis="192"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="49" von="193" bis="194" />
-        <werk ref="briefe-moral" s="Bd. 1" kat="rezension" />
-        <ort ref="rostock" />
+    <beitrag id="1764-48-buecher">
+        <stueck when="1764" nr="48" von="192"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="49" von="194"  order="1"/>
-        <werk ref="gleim-petrarchischegedichte" kat="rezension" />
-        <ort ref="berlin" />
+
+    <beitrag id="1764-49-rezension-hase-antwort">
+        <stueck when="1764" nr="49" von="193"/>
+        <werk ref="hase-antwort" kat="rezension"/>
+        <ort ref="brandenburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="49" von="194"  order="2"/>
-        <werk ref="groeben-allerley" kat="rezension" />
+    <beitrag id="1764-49-rezension-briefe-moral">
+        <stueck when="1764" nr="49" von="193" bis="194"/>
+        <werk ref="briefe-moral" s="Bd. 1" kat="rezension"/>
+        <ort ref="rostock"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="49" von="195" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-49-rezension-gleim-petrarchischegedichte">
+        <stueck when="1764" nr="49" von="194" order="1"/>
+        <werk ref="gleim-petrarchischegedichte" kat="rezension"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="49" von="196"  order="1"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-49-rezension-groeben-allerley">
+        <stueck when="1764" nr="49" von="194" order="2"/>
+        <werk ref="groeben-allerley" kat="rezension"/>
+    </beitrag>
+    <beitrag id="1764-49-weltnachrichten">
+        <stueck when="1764" nr="49" von="195"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1764-49-wechselkurse">
+        <stueck when="1764" nr="49" von="196" order="1"/>
+        <kategorie ref="wechselkurse"/>
         <anmerkung>Devaluation nach welchen die reducierten Münzsorten in einzelen Stücken von denen
             hiesigen Lieferanten angenommen werden.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="49" von="196"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-49-wechselkurse-II">
+        <stueck when="1764" nr="49" von="196" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="50" von="197"  order="1"/>
-        <werk ref="thilo-caecilia" kat="rezension" />
-        <ort ref="kopenhagen" />
+    <beitrag id="1764-50-rezension-thilo-caecilia">
+        <stueck when="1764" nr="50" von="197" order="1"/>
+        <werk ref="thilo-caecilia" kat="rezension"/>
+        <ort ref="kopenhagen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="50" von="197"  order="2"/>
-        <werk ref="brautbisinsalter" kat="rezension" />
+    <beitrag id="1764-50-rezension-brautbisinsalter">
+        <stueck when="1764" nr="50" von="197" order="2"/>
+        <werk ref="brautbisinsalter" kat="rezension"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="50" von="197" bis="199" />
-        <stueck when="1764" nr="51" von="201" bis="202" />
+    <beitrag id="1764-von-der-art">
+        <stueck when="1764" nr="50" von="197" bis="199"/>
+        <stueck when="1764" nr="51" von="201" bis="202"/>
         <titel>Von der Art, wie die Schalen der Schnecken entstehen. (Univ. Magaz. 1756. Iulii p. 13)</titel>
-        <werk kat="uebersetzung" ref="universal-magazine-july1756"></werk>
+        <werk kat="uebersetzung" ref="universal-magazine-july1756"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="50" von="199" bis="200" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-50-weltnachrichten">
+        <stueck when="1764" nr="50" von="199" bis="200"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="50" von="200" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-50-buecher">
+        <stueck when="1764" nr="50" von="200"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="51" von="202" bis="203" />
-        <werk ref="medicus-krankheiten" kat="rezension" />
-        <ort ref="karlsruhe" />
+    <beitrag id="1764-51-rezension-medicus-krankheiten">
+        <stueck when="1764" nr="51" von="202" bis="203"/>
+        <werk ref="medicus-krankheiten" kat="rezension"/>
+        <ort ref="karlsruhe"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="51" von="203" bis="204" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-51-weltnachrichten">
+        <stueck when="1764" nr="51" von="203" bis="204"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="51" von="204"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-51-buecher">
+        <stueck when="1764" nr="51" von="204" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="51" von="204"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-51-wechselkurse">
+        <stueck when="1764" nr="51" von="204" order="2"/>
+        <kategorie ref="wechselkurse"/>
         <anmerkung>Ergänzung zur Devaluationstabelle aus dem 49. Stück von 1764 </anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="51" von="204"  order="3"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-51-wechselkurse-II">
+        <stueck when="1764" nr="51" von="204" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="52" von="205" bis="206" />
-        <werk ref="dodsley-lehrmeister" s="Bd. 1" kat="rezension" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-52-rezension-dodsley-lehrmeister">
+        <stueck when="1764" nr="52" von="205" bis="206"/>
+        <werk ref="dodsley-lehrmeister" s="Bd. 1" kat="rezension"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="52" von="206" bis="207" />
-        <werk ref="wieland-natur" kat="rezension" />
-        <ort ref="ulm" />
+    <beitrag id="1764-52-rezension-wieland-natur">
+        <stueck when="1764" nr="52" von="206" bis="207"/>
+        <werk ref="wieland-natur" kat="rezension"/>
+        <ort ref="ulm"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="52" von="207" bis="208" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-52-weltnachrichten">
+        <stueck when="1764" nr="52" von="207" bis="208"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="52" von="208" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-52-buecher">
+        <stueck when="1764" nr="52" von="208"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="53" von="209" bis="211" />
+    <beitrag id="1764-53-trescho-ueber-das-denken-der-seele-vor-der-geburt">
+        <stueck when="1764" nr="53" von="209" bis="211"/>
         <titel>Ueber das Denken der Seele vor der Geburt.</titel>
         <akteur ref="trescho" unsicher="true">ZH II, 263</akteur>
         <anmerkung>Unterzeichnet mit „T.“</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="53" von="211" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-53-trescho-phantasie">
+        <stueck when="1764" nr="53" von="211"/>
+        <kategorie ref="gedicht"/>
         <titel>Phantasie.</titel>
         <akteur ref="trescho">HBGA I, 26</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="53" von="211" bis="212" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-53-weltnachrichten">
+        <stueck when="1764" nr="53" von="211" bis="212"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="53" von="212"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-53-buecher">
+        <stueck when="1764" nr="53" von="212" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="53" von="212"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-53-wechselkurse">
+        <stueck when="1764" nr="53" von="212" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="54" von="213"  order="1"/>
-        <werk ref="vernunft-lehrmeisterin" kat="rezension" />
+    <beitrag id="1764-54-rezension-vernunft-lehrmeisterin">
+        <stueck when="1764" nr="54" von="213" order="1"/>
+        <werk ref="vernunft-lehrmeisterin" kat="rezension"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="54" von="213"  order="2"/>
-        <werk ref="gellius-frauenzimmerbriefe" kat="rezension" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-54-rezension-gellius-frauenzimmerbriefe">
+        <stueck when="1764" nr="54" von="213" order="2"/>
+        <werk ref="gellius-frauenzimmerbriefe" kat="rezension"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="54" von="213" bis="214" />
-        <werk ref="sammlung-moralischerbriefe" kat="rezension" />
-        <ort ref="quedlinburg" />
+    <beitrag id="1764-54-rezension-sammlung-moralischerbriefe">
+        <stueck when="1764" nr="54" von="213" bis="214"/>
+        <werk ref="sammlung-moralischerbriefe" kat="rezension"/>
+        <ort ref="quedlinburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="54" von="214" />
-        <werk ref="macpherson-fingal" kat="rezension" />
-        <ort ref="hamburg" />
+    <beitrag id="1764-54-rezension-macpherson-fingal">
+        <stueck when="1764" nr="54" von="214"/>
+        <werk ref="macpherson-fingal" kat="rezension"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="54" von="214" bis="215" />
-        <werk ref="thomas-sully" kat="rezension" />
-        <ort ref="hamburg" />
+    <beitrag id="1764-54-rezension-thomas-sully">
+        <stueck when="1764" nr="54" von="214" bis="215"/>
+        <werk ref="thomas-sully" kat="rezension"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="54" von="215" bis="216" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-54-weltnachrichten">
+        <stueck when="1764" nr="54" von="215" bis="216"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="54" von="216"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-54-buecher">
+        <stueck when="1764" nr="54" von="216" order="1"/>
+        <kategorie ref="buecher"/>
         <anmerkung>Für den Catalog der Ostermesse</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="54" von="216"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-54-wechselkurse">
+        <stueck when="1764" nr="54" von="216" order="2"/>
+        <kategorie ref="wechselkurse"/>
         <anmerkung>Declaration des neuen Müntz-Edicts vom 29. Martii 1764 in Ansehung des
             Königreichs Preussen, wegen der in Preußischen Sechsern seit den 21. April 1763
             getroffenen Contracte.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="55" von="217" />
-        <werk ref="glaser-feuersbrunst" kat="rezension" />
-        <ort ref="hildburghausen" />
+    <beitrag id="1764-55-rezension-glaser-feuersbrunst">
+        <stueck when="1764" nr="55" von="217"/>
+        <werk ref="glaser-feuersbrunst" kat="rezension"/>
+        <ort ref="hildburghausen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="55" von="217" bis="219" />
-        <kategorie ref="erzaehlung" />
+    <beitrag id="1764-55-das-gesicht-des-einsiedlers-abdallah">
+        <stueck when="1764" nr="55" von="217" bis="219"/>
+        <kategorie ref="erzaehlung"/>
         <titel>Das Gesicht des Einsiedlers Abdallah. Eine morgenländische Erzählung.</titel>
         <anmerkung>Unterzeichnet „K.“, meint aber nicht Kant (vgl. HBGA X, 300)</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="55" von="219" bis="220" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-55-weltnachrichten">
+        <stueck when="1764" nr="55" von="219" bis="220"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="55" von="220"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-55-buecher">
+        <stueck when="1764" nr="55" von="220" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="55" von="220"  order="2"/>
-        <kategorie ref="wechselkurse" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="56" von="221" />
-        <werk ref="goldsmith-letters" s="Bd. 2" kat="rezension" />
-        <ort ref="leipzig" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="56" von="222" />
-        <werk ref="moralische-ausarbeitungen" kat="rezension" />
-        <ort ref="frankfurt" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="56" von="222" bis="223" />
-        <werk ref="mittel-froehlichkeit" kat="rezension" />
-        <ort ref="nuernberg" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="56" von="223" bis="224" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-55-wechselkurse">
+        <stueck when="1764" nr="55" von="220" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="57" von="225" bis="226" />
+    <beitrag id="1764-56-rezension-goldsmith-letters">
+        <stueck when="1764" nr="56" von="221"/>
+        <werk ref="goldsmith-letters" s="Bd. 2" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1764-56-rezension-moralische-ausarbeitungen">
+        <stueck when="1764" nr="56" von="222"/>
+        <werk ref="moralische-ausarbeitungen" kat="rezension"/>
+        <ort ref="frankfurt"/>
+    </beitrag>
+    <beitrag id="1764-56-rezension-mittel-froehlichkeit">
+        <stueck when="1764" nr="56" von="222" bis="223"/>
+        <werk ref="mittel-froehlichkeit" kat="rezension"/>
+        <ort ref="nuernberg"/>
+    </beitrag>
+    <beitrag id="1764-56-weltnachrichten">
+        <stueck when="1764" nr="56" von="223" bis="224"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+
+    <beitrag id="1764-57-was-sind-korallen">
+        <stueck when="1764" nr="57" von="225" bis="226"/>
         <titel>Was sind Korallen?</titel>
-        <werk ref="london-magazine1758" kat="uebersetzung" />
+        <werk ref="london-magazine1758" kat="uebersetzung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="57" von="226" />
-        <werk ref="voitus-suendfluth" kat="rezension" />
-        <ort ref="brandenburg" />
+    <beitrag id="1764-57-rezension-voitus-suendfluth">
+        <stueck when="1764" nr="57" von="226"/>
+        <werk ref="voitus-suendfluth" kat="rezension"/>
+        <ort ref="brandenburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="57" von="226" bis="227" />
-        <werk ref="heumann-erweiss" kat="rezension" />
-        <ort ref="eisleben" />
-        <ort ref="wittenberg" />
+    <beitrag id="1764-57-rezension-heumann-erweiss">
+        <stueck when="1764" nr="57" von="226" bis="227"/>
+        <werk ref="heumann-erweiss" kat="rezension"/>
+        <ort ref="eisleben"/>
+        <ort ref="wittenberg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="57" von="227" bis="228" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-57-weltnachrichten">
+        <stueck when="1764" nr="57" von="227" bis="228"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="57" von="228"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-57-buecher">
+        <stueck when="1764" nr="57" von="228" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="57" von="228"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-57-wechselkurse">
+        <stueck when="1764" nr="57" von="228" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="58" von="229"  order="1"/>
-        <werk ref="rousseau-auserlesenegedanken" kat="rezension" />
-        <ort ref="lemgo" />
+    <beitrag id="1764-58-rezension-rousseau-auserlesenegedanken">
+        <stueck when="1764" nr="58" von="229" order="1"/>
+        <werk ref="rousseau-auserlesenegedanken" kat="rezension"/>
+        <ort ref="lemgo"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="58" von="229"  order="2"/>
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-58-vers-pour-mettre-au-dessus-du-portrait-de-j">
+        <stueck when="1764" nr="58" von="229" order="2"/>
+        <kategorie ref="gedicht"/>
         <titel>Vers pour mettre au dessus du Portrait de J. J. Rousseau</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="58" von="230"  order="1"/>
-        <werk ref="lediard-kundschafter" kat="rezension" />
-        <ort ref="lemgo" />
+    <beitrag id="1764-58-rezension-lediard-kundschafter">
+        <stueck when="1764" nr="58" von="230" order="1"/>
+        <werk ref="lediard-kundschafter" kat="rezension"/>
+        <ort ref="lemgo"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="58" von="230"  order="2"/>
-        <werk ref="schmitzer-pflicht" kat="rezension" />
-        <ort ref="brandenburg" />
+    <beitrag id="1764-58-rezension-schmitzer-pflicht">
+        <stueck when="1764" nr="58" von="230" order="2"/>
+        <werk ref="schmitzer-pflicht" kat="rezension"/>
+        <ort ref="brandenburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="58" von="230" bis="231" />
-        <werk ref="genie-langue" kat="rezension" />
-        <ort ref="amsterdam" />
+    <beitrag id="1764-58-rezension-genie-langue">
+        <stueck when="1764" nr="58" von="230" bis="231"/>
+        <werk ref="genie-langue" kat="rezension"/>
+        <ort ref="amsterdam"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="58" von="231" bis="232" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-58-weltnachrichten">
+        <stueck when="1764" nr="58" von="231" bis="232"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="58" von="232" />
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-58-lotterie">
+        <stueck when="1764" nr="58" von="232"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="59" von="233"  order="1"/>
-        <werk ref="heins-krank" kat="rezension" />
-        <ort ref="hamburg" />
+    <beitrag id="1764-59-rezension-heins-krank">
+        <stueck when="1764" nr="59" von="233" order="1"/>
+        <werk ref="heins-krank" kat="rezension"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="59" von="233"  order="2"/>
-        <werk ref="kriegsgeschichte-tabellen" kat="rezension" />
-        <ort ref="frankfurt" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-59-rezension-kriegsgeschichte-tabellen">
+        <stueck when="1764" nr="59" von="233" order="2"/>
+        <werk ref="kriegsgeschichte-tabellen" kat="rezension"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="59" von="233" bis="234" />
-        <werk ref="ortmann-naturgeschichte" kat="rezension" />
-        <ort ref="zuellichau" />
+    <beitrag id="1764-59-rezension-ortmann-naturgeschichte">
+        <stueck when="1764" nr="59" von="233" bis="234"/>
+        <werk ref="ortmann-naturgeschichte" kat="rezension"/>
+        <ort ref="zuellichau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="59" von="234"  order="1"/>
-        <werk ref="evangelischerchrist-einsamkeit" kat="anzeige" />
-        <ort ref="sorau" />
+    <beitrag id="1764-59-anzeige-evangelischerchrist-einsamkeit">
+        <stueck when="1764" nr="59" von="234" order="1"/>
+        <werk ref="evangelischerchrist-einsamkeit" kat="anzeige"/>
+        <ort ref="sorau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="59" von="234"  order="2"/>
-        <werk ref="crugot-abendgedanken" kat="anzeige" />
-        <ort ref="sorau" />
+    <beitrag id="1764-59-anzeige-crugot-abendgedanken">
+        <stueck when="1764" nr="59" von="234" order="2"/>
+        <werk ref="crugot-abendgedanken" kat="anzeige"/>
+        <ort ref="sorau"/>
     </beitrag>
     <beitrag id="schreiben-freund">
-        <stueck when="1764" nr="59" von="234" bis="235" />
-        <kategorie ref="aufsatz" />
+        <stueck when="1764" nr="59" von="234" bis="235"/>
+        <kategorie ref="aufsatz"/>
         <titel>Schreiben an einen Freund.</titel>
         <anmerkung>Unterzeichnet „K.“</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="59" von="235" bis="236" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-59-weltnachrichten">
+        <stueck when="1764" nr="59" von="235" bis="236"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="59" von="236" />
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-59-wechselkurse">
+        <stueck when="1764" nr="59" von="236"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="60" von="237" />
-        <werk ref="sneedorf-briefe" kat="rezension" />
-        <ort ref="kopenhagen" />
+    <beitrag id="1764-60-rezension-sneedorf-briefe">
+        <stueck when="1764" nr="60" von="237"/>
+        <werk ref="sneedorf-briefe" kat="rezension"/>
+        <ort ref="kopenhagen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="60" von="237" bis="238" />
-        <werk ref="schwabe-briefsteller" kat="rezension" />
-        <ort ref="hamburg" />
+    <beitrag id="1764-60-rezension-schwabe-briefsteller">
+        <stueck when="1764" nr="60" von="237" bis="238"/>
+        <werk ref="schwabe-briefsteller" kat="rezension"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="60" von="238" bis="239" />
-        <werk ref="mink-student" kat="rezension" />
-        <ort ref="frankfurt" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-60-rezension-mink-student">
+        <stueck when="1764" nr="60" von="238" bis="239"/>
+        <werk ref="mink-student" kat="rezension"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="60" von="239" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-60-die-reifen-kornaehren">
+        <stueck when="1764" nr="60" von="239"/>
+        <kategorie ref="gedicht"/>
         <titel>Die reifen Kornähren, an das Frauenzimmer.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="60" von="239" bis="240" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-60-weltnachrichten">
+        <stueck when="1764" nr="60" von="239" bis="240"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="60" von="240" />
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1764-60-lokalnachrichten">
+        <stueck when="1764" nr="60" von="240"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="61" von="241"  order="1"/>
-        <werk ref="löwen-zinzendorfianer" kat="rezension" />
-        <ort ref="erfurt" />
+    <beitrag id="1764-61-rezension-löwen-zinzendorfianer">
+        <stueck when="1764" nr="61" von="241" order="1"/>
+        <werk ref="löwen-zinzendorfianer" kat="rezension"/>
+        <ort ref="erfurt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="61" von="241" bis="242" />
-        <werk ref="scherz-gedichte-auchernsthaft" kat="rezension" />
-        <ort ref="frankfurt" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-61-rezension-scherz-gedichte-auchernsthaft">
+        <stueck when="1764" nr="61" von="241" bis="242"/>
+        <werk ref="scherz-gedichte-auchernsthaft" kat="rezension"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="61" von="241"  order="2"/>
-        <werk ref="blanke-fabeln" kat="rezension" />
-        <ort ref="hannover" />
+    <beitrag id="1764-61-rezension-blanke-fabeln">
+        <stueck when="1764" nr="61" von="241" order="2"/>
+        <werk ref="blanke-fabeln" kat="rezension"/>
+        <ort ref="hannover"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="61" von="239" />
+    <beitrag id="1764-61-trauerrede-auf-den-tod-des-marschalls-von-tuerenne">
+        <stueck when="1764" nr="61" von="239"/>
         <titel>Trauerrede auf den Tod des Marschalls von Türenne. Aus dem Französischen.</titel>
-        <werk ref="barbe-fables" s="S. 110f." kat="rezension" />
+        <werk ref="barbe-fables" s="S. 110f." kat="rezension"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="61" von="243" bis="244" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-61-weltnachrichten">
+        <stueck when="1764" nr="61" von="243" bis="244"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="61" von="244"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-61-buecher">
+        <stueck when="1764" nr="61" von="244" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="61" von="244"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-61-wechselkurse">
+        <stueck when="1764" nr="61" von="244" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 
-    <beitrag>
-        <stueck when="1764" nr="62" von="245"  order="1"/>
-        <werk ref="patzke-greis" s="Teil 5" kat="rezension" />
-        <ort ref="magdeburg" />
+    <beitrag id="1764-62-rezension-patzke-greis">
+        <stueck when="1764" nr="62" von="245" order="1"/>
+        <werk ref="patzke-greis" s="Teil 5" kat="rezension"/>
+        <ort ref="magdeburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="62" von="245"  order="2"/>
-        <werk ref="sonne-gerechtigkeit" kat="rezension" />
-        <ort ref="frankfurt" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-62-rezension-sonne-gerechtigkeit">
+        <stueck when="1764" nr="62" von="245" order="2"/>
+        <werk ref="sonne-gerechtigkeit" kat="rezension"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="62" von="245" bis="247" />
+    <beitrag id="1764-62-besonderer-rechtsfall-in-der-sache-eines-mordes">
+        <stueck when="1764" nr="62" von="245" bis="247"/>
         <titel>Besonderer Rechtsfall in der Sache eines Mordes</titel>
-        <werk ref="murder-gentlemen" s="544–547" kat="uebersetzung" />
+        <werk ref="murder-gentlemen" s="544–547" kat="uebersetzung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="62" von="247" bis="248" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-62-weltnachrichten">
+        <stueck when="1764" nr="62" von="247" bis="248"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="62" von="248"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-62-buecher">
+        <stueck when="1764" nr="62" von="248" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="62" von="248"  order="2"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-62-lotterie">
+        <stueck when="1764" nr="62" von="248" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="63" von="250" bis="251" />
-        <stueck when="1764" nr="64" von="253" bis="254" />
-        <kategorie ref="aufsatz"></kategorie>
+    <beitrag id="1764-ueber-das-steigen-und-fallen-derer-familien">
+        <stueck when="1764" nr="63" von="250" bis="251"/>
+        <stueck when="1764" nr="64" von="253" bis="254"/>
+        <kategorie ref="aufsatz"/>
         <titel>Ueber das Steigen und Fallen derer Familien.</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="63" von="249" />
-        <werk ref="brouzet-erziehung" kat="rezension" />
-        <ort ref="altenburg" />
+    <beitrag id="1764-63-rezension-brouzet-erziehung">
+        <stueck when="1764" nr="63" von="249"/>
+        <werk ref="brouzet-erziehung" kat="rezension"/>
+        <ort ref="altenburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="63" von="249" bis="250" />
-        <werk ref="aulnoy-sentimens" kat="rezension" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-63-rezension-aulnoy-sentimens">
+        <stueck when="1764" nr="63" von="249" bis="250"/>
+        <werk ref="aulnoy-sentimens" kat="rezension"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="63" von="251" bis="252" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-63-weltnachrichten">
+        <stueck when="1764" nr="63" von="251" bis="252"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="63" von="252" />
-        <kategorie ref="wechselkurse" />
-    </beitrag>
-
-
-    <beitrag>
-        <stueck when="1764" nr="64" von="253"  order="1"/>
-        <werk ref="brooke-mandeville" kat="rezension" />
-        <ort ref="leipzig" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="64" von="253"  order="2"/>
-        <werk ref="jussy-lettres" kat="rezension" />
-        <ort ref="amsterdam" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="64" von="255" bis="256" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="64" von="256" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-63-wechselkurse">
+        <stueck when="1764" nr="63" von="252"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="65" von="257"  order="1"/>
-        <werk ref="joachim-wahlrecht" kat="rezension" />
-        <ort ref="halle" />
+
+    <beitrag id="1764-64-rezension-brooke-mandeville">
+        <stueck when="1764" nr="64" von="253" order="1"/>
+        <werk ref="brooke-mandeville" kat="rezension"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="65" von="257"  order="2"/>
-        <kategorie ref="uebersetzung"></kategorie>
+    <beitrag id="1764-64-rezension-jussy-lettres">
+        <stueck when="1764" nr="64" von="253" order="2"/>
+        <werk ref="jussy-lettres" kat="rezension"/>
+        <ort ref="amsterdam"/>
+    </beitrag>
+    <beitrag id="1764-64-weltnachrichten">
+        <stueck when="1764" nr="64" von="255" bis="256"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1764-64-buecher">
+        <stueck when="1764" nr="64" von="256"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+
+    <beitrag id="1764-65-rezension-joachim-wahlrecht">
+        <stueck when="1764" nr="65" von="257" order="1"/>
+        <werk ref="joachim-wahlrecht" kat="rezension"/>
+        <ort ref="halle"/>
+    </beitrag>
+    <beitrag id="1764-65-das-laecherliche-des-stolzes">
+        <stueck when="1764" nr="65" von="257" order="2"/>
+        <kategorie ref="uebersetzung"/>
         <titel>Das Lächerliche des Stolzes.</titel>
         <anmerkung>Laut Angabe aus dem English Magazine; nicht ermittelt.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="65" von="259" bis="260" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-65-weltnachrichten">
+        <stueck when="1764" nr="65" von="259" bis="260"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="65" von="260" />
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-65-wechselkurse">
+        <stueck when="1764" nr="65" von="260"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="66" von="261" />
-        <werk ref="glueckselige-wochenschrift" s="Bd. 3" kat="rezension" />
-        <ort ref="halle" />
+    <beitrag id="1764-66-rezension-glueckselige-wochenschrift">
+        <stueck when="1764" nr="66" von="261"/>
+        <werk ref="glueckselige-wochenschrift" s="Bd. 3" kat="rezension"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="66" von="261" bis="262" />
-        <werk ref="muessiggänger-1764" kat="rezension" />
-        <ort ref="zittau" />
+    <beitrag id="1764-66-rezension-muessiggänger-1764">
+        <stueck when="1764" nr="66" von="261" bis="262"/>
+        <werk ref="muessiggänger-1764" kat="rezension"/>
+        <ort ref="zittau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="66" von="262" />
-        <kategorie ref="aufsatz" />
+    <beitrag id="1764-66-hagen-h-chimische-untersuchung-einer-salzquelle-in-dem-dorfe-ponnau">
+        <stueck when="1764" nr="66" von="262"/>
+        <kategorie ref="aufsatz"/>
         <titel>Chimische Untersuchung einer Salzquelle in dem Dorfe Ponnau.</titel>
         <akteur ref="hagen-h">Unterzeichnet mit „H.“, wohl für den Königsberger Apotheker Heinrich
-            Hagen, Vater von Karl Gottfried Hagen, siehe <wwwlink
-                address="https://books.google.de/books?id=Bal-b4Hpp7AC">Neue Preußische
+            Hagen, Vater von Karl Gottfried Hagen, siehe <wwwlink address="https://books.google.de/books?id=Bal-b4Hpp7AC">Neue Preußische
             Provinzial-Blätter 9 (1850), S. 51.</wwwlink></akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="66" von="263" bis="264" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-66-weltnachrichten">
+        <stueck when="1764" nr="66" von="263" bis="264"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="66" von="264"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-66-buecher">
+        <stueck when="1764" nr="66" von="264" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="66" von="264"  order="2"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-66-lotterie">
+        <stueck when="1764" nr="66" von="264" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="67" von="265" bis="266" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-67-werner-jg-contrabit-vmbra-diem">
+        <stueck when="1764" nr="67" von="265" bis="266"/>
+        <kategorie ref="gedicht"/>
         <incipit>Contrabit vmbra diem, solisque remorior axit</incipit>
-        <akteur ref="werner-jg"></akteur>
-        <ort ref="kgsb" />
+        <akteur ref="werner-jg"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="67" von="266" />
-        <werk kat="rezension" ref="beaumont-instructions" />
+    <beitrag id="1764-67-rezension-beaumont-instructions">
+        <stueck when="1764" nr="67" von="266"/>
+        <werk kat="rezension" ref="beaumont-instructions"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="67" von="266" bis="267" />
-        <werk kat="rezension" ref="schauplatz-liebe" />
+    <beitrag id="1764-67-rezension-schauplatz-liebe">
+        <stueck when="1764" nr="67" von="266" bis="267"/>
+        <werk kat="rezension" ref="schauplatz-liebe"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="67" von="267" bis="268" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-67-weltnachrichten">
+        <stueck when="1764" nr="67" von="267" bis="268"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="67" von="268"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-67-buecher">
+        <stueck when="1764" nr="67" von="268" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="67" von="268"  order="2"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-67-lotterie">
+        <stueck when="1764" nr="67" von="268" order="2"/>
+        <kategorie ref="lotterie"/>
         <anmerkung>Anzeige für eine Tontine zugunsten des Herzogtums Kleve und der Grafschaft Mark</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="67" von="268"  order="3"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-67-wechselkurse">
+        <stueck when="1764" nr="67" von="268" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="68" von="269" bis="270" />
-        <werk kat="rezension" ref="beyspiele-bildung-soldaten" />
-        <ort ref="hamburg" />
+    <beitrag id="1764-68-rezension-beyspiele-bildung-soldaten">
+        <stueck when="1764" nr="68" von="269" bis="270"/>
+        <werk kat="rezension" ref="beyspiele-bildung-soldaten"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="68" von="270" bis="271" />
+    <beitrag id="1764-68-antwort-auf-das-schreiben-im-59sten-stueck-der-gelehrten-und-politischen-zeitung">
+        <stueck when="1764" nr="68" von="270" bis="271"/>
         <titel>Antwort auf das Schreiben im 59sten Stück der gelehrten und politischen Zeitung.</titel>
-        <beitrag kat="replik" ref="schreiben-freund"></beitrag>
+        <beitrag kat="replik" ref="schreiben-freund"/>
         <anmerkung>Unterzeichnet mit „--|--“</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="68" von="271" bis="272" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-68-weltnachrichten">
+        <stueck when="1764" nr="68" von="271" bis="272"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="68" von="272" />
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-68-lotterie">
+        <stueck when="1764" nr="68" von="272"/>
+        <kategorie ref="lotterie"/>
         <anmerkung>Anzeige für eine Tontine zugunsten des Herzogtums Kleve und der Grafschaft Mark</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="69" von="273" bis="274" />
-        <werk kat="rezension" ref="blakmore-schoepfung" />
-        <ort ref="buetzow" />
-        <ort ref="wismar" />
+    <beitrag id="1764-69-rezension-blakmore-schoepfung">
+        <stueck when="1764" nr="69" von="273" bis="274"/>
+        <werk kat="rezension" ref="blakmore-schoepfung"/>
+        <ort ref="buetzow"/>
+        <ort ref="wismar"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="69" von="274" />
-        <werk kat="rezension" ref="schlegel-trauerspiele" />
-        <ort ref="kopenhagen" />
+    <beitrag id="1764-69-rezension-schlegel-trauerspiele">
+        <stueck when="1764" nr="69" von="274"/>
+        <werk kat="rezension" ref="schlegel-trauerspiele"/>
+        <ort ref="kopenhagen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="69" von="274" bis="275" />
-        <werk kat="rezension" ref="zimmermann-arzneykunst" />
-        <ort ref="zuerich" />
+    <beitrag id="1764-69-rezension-zimmermann-arzneykunst">
+        <stueck when="1764" nr="69" von="274" bis="275"/>
+        <werk kat="rezension" ref="zimmermann-arzneykunst"/>
+        <ort ref="zuerich"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="69" von="275" bis="276" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-69-weltnachrichten">
+        <stueck when="1764" nr="69" von="275" bis="276"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="69" von="276" />
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-69-wechselkurse">
+        <stueck when="1764" nr="69" von="276"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 
-    <beitrag>
-        <stueck when="1764" nr="70" von="277" />
-        <kategorie ref="gelehrte-nachrichten" />
-        <ort ref="kgsb"></ort>
+    <beitrag id="1764-70-gelehrte-nachrichten">
+        <stueck when="1764" nr="70" von="277"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="kgsb"/>
         <anmerkung>Über Feierlichkeiten der Albertina im September 1764</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="70" von="277" bis="278" />
-        <werk kat="rezension" ref="recueil-esprit" />
-        <ort ref="celle" />
+    <beitrag id="1764-70-rezension-recueil-esprit">
+        <stueck when="1764" nr="70" von="277" bis="278"/>
+        <werk kat="rezension" ref="recueil-esprit"/>
+        <ort ref="celle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="70" von="278" />
-        <werk kat="rezension" ref="schubert-jugend" />
-        <ort ref="helmstedt" />
-        <ort ref="halle" />
+    <beitrag id="1764-70-rezension-schubert-jugend">
+        <stueck when="1764" nr="70" von="278"/>
+        <werk kat="rezension" ref="schubert-jugend"/>
+        <ort ref="helmstedt"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="70" von="278" bis="279" />
-        <werk kat="rezension" ref="arrian-hannon" />
-        <ort ref="braunschweig" />
-        <ort ref="wolfenbuettel" />
+    <beitrag id="1764-70-rezension-arrian-hannon">
+        <stueck when="1764" nr="70" von="278" bis="279"/>
+        <werk kat="rezension" ref="arrian-hannon"/>
+        <ort ref="braunschweig"/>
+        <ort ref="wolfenbuettel"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="70" von="279" bis="280" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-70-weltnachrichten">
+        <stueck when="1764" nr="70" von="279" bis="280"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="70" von="280" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-70-buecher">
+        <stueck when="1764" nr="70" von="280"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="71" von="281" bis="282" />
-        <kategorie ref="aufsatz" />
+    <beitrag id="1764-71-der-character-des-menschenfeindes">
+        <stueck when="1764" nr="71" von="281" bis="282"/>
+        <kategorie ref="aufsatz"/>
         <titel>Der Character des Menschenfeindes.</titel>
         <anmerkung>Unterzeichnet „B.“</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="71" von="282" />
-        <werk kat="rezension" ref="weidner-horaz" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-71-rezension-weidner-horaz">
+        <stueck when="1764" nr="71" von="282"/>
+        <werk kat="rezension" ref="weidner-horaz"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="71" von="282" bis="283" />
-        <werk kat="rezension" ref="bodmer-cicero" />
-        <ort ref="zuerich" />
+    <beitrag id="1764-71-rezension-bodmer-cicero">
+        <stueck when="1764" nr="71" von="282" bis="283"/>
+        <werk kat="rezension" ref="bodmer-cicero"/>
+        <ort ref="zuerich"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="71" von="283" bis="284" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-71-weltnachrichten">
+        <stueck when="1764" nr="71" von="283" bis="284"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="71" von="284" />
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-71-wechselkurse">
+        <stueck when="1764" nr="71" von="284"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag id="abhandlung-tanz">
-        <stueck when="1764" nr="72" von="285" bis="287" />
-        <kategorie ref="aufsatz" />
+        <stueck when="1764" nr="72" von="285" bis="287"/>
+        <kategorie ref="aufsatz"/>
         <titel>Abhandlung vom Tanze.</titel>
         <anmerkung>Im Anschluss Mitteilung von zwölf englischen Tänzen und deren Choreographie,
             „Berloque Dansante London 1764.“</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="72" von="287" />
-        <kategorie ref="notenblatt"></kategorie>
+    <beitrag id="1764-72-berloque-dansante-london-1764">
+        <stueck when="1764" nr="72" von="287"/>
+        <kategorie ref="notenblatt"/>
         <titel>Berloque Dansante London 1764.</titel>
-        <beitrag ref="abhandlung-tanz" kat="replik" />
+        <beitrag ref="abhandlung-tanz" kat="replik"/>
         <anmerkung>Noten für zwölf englische Tänze und deren Choreographie.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="72" von="288" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-72-weltnachrichten">
+        <stueck when="1764" nr="72" von="288"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="73" von="289" bis="290" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-73-scheffner-einladung-aufs-land">
+        <stueck when="1764" nr="73" von="289" bis="290"/>
+        <kategorie ref="gedicht"/>
         <titel>Einladung aufs Land, an meinen Freund, nach dem Horaz.</titel>
         <akteur ref="scheffner">Briefe von und an Johann George Scheffner (hg. v. Arthur Warda,
             München, Leipzig 1916–1931), I 446</akteur>
         <anmerkung>Unterzeichnet S**r.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="73" von="290" />
-        <werk kat="rezension" ref="hofmann-antwort" />
-        <ort ref="wittenberg" />
+    <beitrag id="1764-73-rezension-hofmann-antwort">
+        <stueck when="1764" nr="73" von="290"/>
+        <werk kat="rezension" ref="hofmann-antwort"/>
+        <ort ref="wittenberg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="73" von="291" bis="292" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-73-weltnachrichten">
+        <stueck when="1764" nr="73" von="291" bis="292"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="73" von="292"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-73-lotterie">
+        <stueck when="1764" nr="73" von="292" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="73" von="292"  order="2"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-73-buecher">
+        <stueck when="1764" nr="73" von="292" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="73" von="292"  order="3"/>
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1764-73-lokalnachrichten">
+        <stueck when="1764" nr="73" von="292" order="3"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="73" von="292"  order="4"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-73-wechselkurse">
+        <stueck when="1764" nr="73" von="292" order="4"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="74" von="293" />
-        <werk kat="rezension" ref="zueckert-reisebeschreibungen" s="Bd. 2" />
-        <ort ref="berlin" />
+    <beitrag id="1764-74-rezension-zueckert-reisebeschreibungen">
+        <stueck when="1764" nr="74" von="293"/>
+        <werk kat="rezension" ref="zueckert-reisebeschreibungen" s="Bd. 2"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="74" von="293" bis="295" />
-        <kategorie ref="brief" />
+    <beitrag id="1764-74-folgendes-schreiben-eines-vaters-an-seinen-sohn">
+        <stueck when="1764" nr="74" von="293" bis="295"/>
+        <kategorie ref="brief"/>
         <titel>Folgendes Schreiben eines Vaters an seinen Sohn, der in üble Gesellschaft gerathen,
             ist uns von vornehmer Hand aus Curland eingesandt worden.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="74" von="295" bis="296" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-74-weltnachrichten">
+        <stueck when="1764" nr="74" von="295" bis="296"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="74" von="296" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-74-buecher">
+        <stueck when="1764" nr="74" von="296"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
     <beitrag id="hahn-evrement">
-        <stueck when="1764" nr="75" von="297" bis="299" />
-        <stueck when="1764" nr="76" von="301" bis="302" />
-        <werk kat="uebersetzung" ref="evrement-liebe" />
+        <stueck when="1764" nr="75" von="297" bis="299"/>
+        <stueck when="1764" nr="76" von="301" bis="302"/>
+        <werk kat="uebersetzung" ref="evrement-liebe"/>
         <akteur ref="hahn-ecb" unsicher="true">Von Kanter nur als eine „preußische Schöne“ bezeichnet.</akteur>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="75" von="297" />
-        <stueck when="1764" nr="76" von="302" />
-        <beitrag kat="kommentar" ref="hahn-evrement"></beitrag>
-        <akteur ref="kanter" />
+    <beitrag id="1764-kanter-hahn-evrement-kommentar">
+        <stueck when="1764" nr="75" von="297"/>
+        <stueck when="1764" nr="76" von="302"/>
+        <beitrag kat="kommentar" ref="hahn-evrement"/>
+        <akteur ref="kanter"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="75" von="299" bis="300" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-75-weltnachrichten">
+        <stueck when="1764" nr="75" von="299" bis="300"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="75" von="300"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-75-buecher">
+        <stueck when="1764" nr="75" von="300" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="75" von="300"  order="2"/>
-        <kategorie ref="wechselkurse" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="76" von="302" bis="303" />
-        <werk kat="rezension" ref="arist-frauenzimmer" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="76" von="303" bis="304" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-75-wechselkurse">
+        <stueck when="1764" nr="75" von="300" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="77" von="305" bis="306" />
-        <stueck when="1764" nr="78" von="309" bis="310" />
-        <kategorie ref="aufsatz" />
-        <kategorie ref="uebersetzung" />
+    <beitrag id="1764-76-rezension-arist-frauenzimmer">
+        <stueck when="1764" nr="76" von="302" bis="303"/>
+        <werk kat="rezension" ref="arist-frauenzimmer"/>
+    </beitrag>
+    <beitrag id="1764-76-weltnachrichten">
+        <stueck when="1764" nr="76" von="303" bis="304"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+
+    <beitrag id="1764-von-der-eitelkeit-der-gelehrten">
+        <stueck when="1764" nr="77" von="305" bis="306"/>
+        <stueck when="1764" nr="78" von="309" bis="310"/>
+        <kategorie ref="aufsatz"/>
+        <kategorie ref="uebersetzung"/>
         <titel>Von der Eitelkeit der Gelehrten. Aus dem Französischen.</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="77" von="306" bis="307" />
-        <werk kat="rezension" ref="sturm-landleben" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-77-rezension-sturm-landleben">
+        <stueck when="1764" nr="77" von="306" bis="307"/>
+        <werk kat="rezension" ref="sturm-landleben"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="77" von="307" bis="308" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-77-weltnachrichten">
+        <stueck when="1764" nr="77" von="307" bis="308"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="77" von="308"  order="1"/>
-        <kategorie ref="proklamation" />
+    <beitrag id="1764-77-proklamation">
+        <stueck when="1764" nr="77" von="308" order="1"/>
+        <kategorie ref="proklamation"/>
         <anmerkung>Verordnung des Königlich Preußischen Hof-Postamts über die berliner reitende Post</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="77" von="308"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-77-wechselkurse">
+        <stueck when="1764" nr="77" von="308" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="78" von="310" bis="311" />
-        <werk kat="rezension" ref="dodsley-cleone-elvire" />
-        <ort ref="zittau" />
+    <beitrag id="1764-78-rezension-dodsley-cleone-elvire">
+        <stueck when="1764" nr="78" von="310" bis="311"/>
+        <werk kat="rezension" ref="dodsley-cleone-elvire"/>
+        <ort ref="zittau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="78" von="311" bis="312" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-78-weltnachrichten">
+        <stueck when="1764" nr="78" von="311" bis="312"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="78" von="312"  order="1"/>
-        <kategorie ref="proklamation" />
+    <beitrag id="1764-78-proklamation">
+        <stueck when="1764" nr="78" von="312" order="1"/>
+        <kategorie ref="proklamation"/>
         <anmerkung>Verordnung des Königlich Preußischen Hof-Postamts über die berliner reitende Post</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="78" von="312"  order="2"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-78-buecher">
+        <stueck when="1764" nr="78" von="312" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
 
-    <beitrag>
-        <stueck when="1764" nr="79" von="314" bis="315" />
-        <stueck when="1764" nr="81" von="321" bis="322" />
+    <beitrag id="1764-ueberschrift">
+        <stueck when="1764" nr="79" von="314" bis="315"/>
+        <stueck when="1764" nr="81" von="321" bis="322"/>
         <titel>Überschrift: Der folgende Brief an den Verfasser des 72sten Stücks unserer
             Zeitung, welches eine Abhandlung vom Tanze in sich begreift, ist uns von einer
             unbekannten Hand eingesendet worden; wir hoffen dadurch wenigstens einigen von unsern
             Lesern gefällig zu werden.</titel>
-        <beitrag kat="replik" ref="abhandlung-tanz"></beitrag>
+        <beitrag kat="replik" ref="abhandlung-tanz"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="79" von="313" bis="314" />
-        <werk kat="rezension" ref="chrysostomus-sorgfalt" />
-        <ort ref="berlin" />
+    <beitrag id="1764-79-rezension-chrysostomus-sorgfalt">
+        <stueck when="1764" nr="79" von="313" bis="314"/>
+        <werk kat="rezension" ref="chrysostomus-sorgfalt"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="79" von="315" bis="316" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-79-weltnachrichten">
+        <stueck when="1764" nr="79" von="315" bis="316"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="79" von="316"  order="1"/>
-        <kategorie ref="proklamation" />
+    <beitrag id="1764-79-proklamation">
+        <stueck when="1764" nr="79" von="316" order="1"/>
+        <kategorie ref="proklamation"/>
         <anmerkung>Verordnung des Königlich Preußischen Hof-Postamts über die berliner reitende Post</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="79" von="316"  order="2"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1764-79-lotterie">
+        <stueck when="1764" nr="79" von="316" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="79" von="316"  order="3"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-79-wechselkurse">
+        <stueck when="1764" nr="79" von="316" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 
-    <beitrag>
-        <stueck when="1764" nr="80" von="317" bis="318" />
-        <werk kat="rezension" ref="buesching-nachrichten1" />
-        <ort ref="stpetersburg" />
+    <beitrag id="1764-80-rezension-buesching-nachrichten1">
+        <stueck when="1764" nr="80" von="317" bis="318"/>
+        <werk kat="rezension" ref="buesching-nachrichten1"/>
+        <ort ref="stpetersburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="80" von="318"  order="1"/>
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-80-auf-einen-stolzen-thoren">
+        <stueck when="1764" nr="80" von="318" order="1"/>
+        <kategorie ref="gedicht"/>
         <titel>Auf einen stolzen Thoren.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="80" von="318"  order="2"/>
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-80-fatill">
+        <stueck when="1764" nr="80" von="318" order="2"/>
+        <kategorie ref="gedicht"/>
         <titel>Fatill.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="80" von="319" bis="320" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-80-weltnachrichten">
+        <stueck when="1764" nr="80" von="319" bis="320"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="80" von="320"  order="1"/>
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1764-80-lokalnachrichten">
+        <stueck when="1764" nr="80" von="320" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="80" von="320"  order="2"/>
-        <kategorie ref="proklamation" />
+    <beitrag id="1764-80-proklamation">
+        <stueck when="1764" nr="80" von="320" order="2"/>
+        <kategorie ref="proklamation"/>
         <anmerkung>Proklamation über die Errichtung einer öffentlichen Bank in Berlin durch
             Friedrich II., gez. v. Hagen (Banco-Commission)</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="81" von="322" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-81-der-tobacksraucher">
+        <stueck when="1764" nr="81" von="322"/>
+        <kategorie ref="gedicht"/>
         <titel>Der Tobacksraucher.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="81" von="323" bis="324" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-81-weltnachrichten">
+        <stueck when="1764" nr="81" von="323" bis="324"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="81" von="324"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-81-buecher">
+        <stueck when="1764" nr="81" von="324" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="81" von="324"  order="2"/>
-        <kategorie ref="wechselkurse" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="82" von="326" bis="327" />
-        <stueck when="1764" nr="83" von="329" bis="330" />
-        <werk kat="rezension" ref="sturm-sonntag" s="1. Teil" />
-        <ort ref="halle" />
+    <beitrag id="1764-81-wechselkurse">
+        <stueck when="1764" nr="81" von="324" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="82" von="325" />
-        <werk kat="rezension" ref="bertram-gelahrtheit" />
-        <ort ref="halle" />
+    <beitrag id="1764-rezension-sturm-sonntag">
+        <stueck when="1764" nr="82" von="326" bis="327"/>
+        <stueck when="1764" nr="83" von="329" bis="330"/>
+        <werk kat="rezension" ref="sturm-sonntag" s="1. Teil"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="82" von="327" bis="328" />
-        <kategorie ref="weltnachrichten" />
+
+    <beitrag id="1764-82-rezension-bertram-gelahrtheit">
+        <stueck when="1764" nr="82" von="325"/>
+        <werk kat="rezension" ref="bertram-gelahrtheit"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="82" von="328"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-82-weltnachrichten">
+        <stueck when="1764" nr="82" von="327" bis="328"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="82" von="328"  order="2"/>
-        <kategorie ref="proklamation" />
+    <beitrag id="1764-82-buecher">
+        <stueck when="1764" nr="82" von="328" order="1"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1764-82-proklamation">
+        <stueck when="1764" nr="82" von="328" order="2"/>
+        <kategorie ref="proklamation"/>
         <anmerkung>Proklamation des preußisch-polnischen Grenz-Postamts über den Postverkehr nach
             Warschau über Marienwerder</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="83" von="330" />
-        <werk kat="rezension" ref="sammlung-vermischter-kleiner-schriften" />
-        <ort ref="buetzow" />
-        <ort ref="wismar" />
+    <beitrag id="1764-83-rezension-sammlung-vermischter-kleiner-schriften">
+        <stueck when="1764" nr="83" von="330"/>
+        <werk kat="rezension" ref="sammlung-vermischter-kleiner-schriften"/>
+        <ort ref="buetzow"/>
+        <ort ref="wismar"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="83" von="330" bis="331" />
-        <werk kat="rezension" ref="fabeln-figuren"></werk>
+    <beitrag id="1764-83-rezension-fabeln-figuren">
+        <stueck when="1764" nr="83" von="330" bis="331"/>
+        <werk kat="rezension" ref="fabeln-figuren"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="83" von="331" bis="332" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-83-weltnachrichten">
+        <stueck when="1764" nr="83" von="331" bis="332"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="83" von="332"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-83-buecher">
+        <stueck when="1764" nr="83" von="332" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="83" von="332"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-83-wechselkurse">
+        <stueck when="1764" nr="83" von="332" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="84" von="333" bis="334" />
-        <werk kat="rezension" ref="freyebeurtheilung-neuestelitteratur" />
-        <ort ref="jena" />
+    <beitrag id="1764-84-rezension-freyebeurtheilung-neuestelitteratur">
+        <stueck when="1764" nr="84" von="333" bis="334"/>
+        <werk kat="rezension" ref="freyebeurtheilung-neuestelitteratur"/>
+        <ort ref="jena"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="84" von="334" bis="335" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-84-karsch-an-ihro-koenigliche-hoheit-die-herzogin-von-braunschweig-in-charlottenburg">
+        <stueck when="1764" nr="84" von="334" bis="335"/>
+        <kategorie ref="gedicht"/>
         <titel>An Ihro Königliche Hoheit die Herzogin von Braunschweig in Charlottenburg.</titel>
-        <akteur ref="karsch" />
+        <akteur ref="karsch"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="84" von="335" bis="336" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-84-weltnachrichten">
+        <stueck when="1764" nr="84" von="335" bis="336"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="84" bis="336" />
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1764-84-lokalnachrichten">
+        <stueck when="1764" nr="84" bis="336"/>
+        <kategorie ref="lokalnachrichten"/>
         <anmerkung>Bericht über den Brand der Stadt Königsberg</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="84" von="336" />
-        <kategorie ref="proklamation" />
+    <beitrag id="1764-84-proklamation">
+        <stueck when="1764" nr="84" von="336"/>
+        <kategorie ref="proklamation"/>
         <anmerkung>Aufforderung des Königl. Preuß. Armen-Collegiums, die privat untergebrachten
             Verletzten des Königsberger Brandes zu melden</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="85" von="337" bis="338" />
-        <werk kat="rezension" ref="juengling" />
-        <ort ref="kgsb" />
+    <beitrag id="1764-85-rezension-juengling">
+        <stueck when="1764" nr="85" von="337" bis="338"/>
+        <werk kat="rezension" ref="juengling"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="85" von="338"  order="1"/>
-        <werk kat="rezension" ref="dauers-jugendlichesvergnuegen" />
-        <ort ref="frankfurt" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-85-rezension-dauers-jugendlichesvergnuegen">
+        <stueck when="1764" nr="85" von="338" order="1"/>
+        <werk kat="rezension" ref="dauers-jugendlichesvergnuegen"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="85" von="338"  order="2"/>
-        <werk kat="rezension" ref="leben-thompson" />
-        <ort ref="magdeburg" />
+    <beitrag id="1764-85-rezension-leben-thompson">
+        <stueck when="1764" nr="85" von="338" order="2"/>
+        <werk kat="rezension" ref="leben-thompson"/>
+        <ort ref="magdeburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="85" von="338" bis="339" />
-        <werk kat="rezension" ref="wilmsen-predigten" />
-        <ort ref="magdeburg" />
+    <beitrag id="1764-85-rezension-wilmsen-predigten">
+        <stueck when="1764" nr="85" von="338" bis="339"/>
+        <werk kat="rezension" ref="wilmsen-predigten"/>
+        <ort ref="magdeburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="85" von="339" bis="340" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-85-weltnachrichten">
+        <stueck when="1764" nr="85" von="339" bis="340"/>
+        <kategorie ref="weltnachrichten"/>
         <anmerkung>u. a. Nachricht von der Banque zu Berlin.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="85" von="340" />
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-85-wechselkurse">
+        <stueck when="1764" nr="85" von="340"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 
-    <beitrag>
-        <stueck when="1764" nr="86" von="341" bis="342" />
-        <werk kat="rezension" ref="trescho-theologischelitteratur" />
-        <ort ref="berlin" />
+    <beitrag id="1764-86-rezension-trescho-theologischelitteratur">
+        <stueck when="1764" nr="86" von="341" bis="342"/>
+        <werk kat="rezension" ref="trescho-theologischelitteratur"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="86" von="342" bis="343" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-86-buecher">
+        <stueck when="1764" nr="86" von="342" bis="343"/>
+        <kategorie ref="buecher"/>
         <anmerkung>Katalog über die Bücher der Leipziger Michaelis-Messe</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="86" von="343" bis="344" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-86-weltnachrichten">
+        <stueck when="1764" nr="86" von="343" bis="344"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="87" von="345" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1764-87-der-verunglueckte-hund">
+        <stueck when="1764" nr="87" von="345"/>
+        <kategorie ref="gedicht"/>
         <titel>Der verunglückte Hund.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="87" von="345" bis="346" />
-        <werk kat="rezension" ref="albrecht-kaufmann" />
-        <ort ref="leipzig" />
+    <beitrag id="1764-87-rezension-albrecht-kaufmann">
+        <stueck when="1764" nr="87" von="345" bis="346"/>
+        <werk kat="rezension" ref="albrecht-kaufmann"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="87" von="346" />
-        <werk kat="rezension" ref="patzke-greis" s="Teil 7" />
-        <ort ref="magdeburg" />
+    <beitrag id="1764-87-rezension-patzke-greis">
+        <stueck when="1764" nr="87" von="346"/>
+        <werk kat="rezension" ref="patzke-greis" s="Teil 7"/>
+        <ort ref="magdeburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="87" von="347" bis="348" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-87-weltnachrichten">
+        <stueck when="1764" nr="87" von="347" bis="348"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="87" von="348"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-87-buecher">
+        <stueck when="1764" nr="87" von="348" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="87" von="348"  order="2"/>
-        <kategorie ref="wechselkurse" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="88" von="349" />
-        <werk kat="rezension" ref="lenov-zeitvertreib"></werk>
-        <ort ref="frankfurt"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="88" von="351" bis="352" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="88" von="352" />
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1764-87-wechselkurse">
+        <stueck when="1764" nr="87" von="348" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-
-    <beitrag>
-        <stueck when="1764" nr="89" von="354" bis="355" />
-        <stueck when="1764" nr="91" von="362" bis="363" />
-        <werk kat="rezension" ref="klotz-acta" s="Bd. 1"></werk>
-        <ort ref="altenburg"></ort>
+    <beitrag id="1764-88-rezension-lenov-zeitvertreib">
+        <stueck when="1764" nr="88" von="349"/>
+        <werk kat="rezension" ref="lenov-zeitvertreib"/>
+        <ort ref="frankfurt"/>
+    </beitrag>
+    <beitrag id="1764-88-weltnachrichten">
+        <stueck when="1764" nr="88" von="351" bis="352"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1764-88-lokalanzeigen">
+        <stueck when="1764" nr="88" von="352"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="89" von="353" bis="354" />
-        <kategorie ref="gedicht"></kategorie>
-        <kategorie ref="kommentar"></kategorie>
+
+    <beitrag id="1764-rezension-klotz-acta">
+        <stueck when="1764" nr="89" von="354" bis="355"/>
+        <stueck when="1764" nr="91" von="362" bis="363"/>
+        <werk kat="rezension" ref="klotz-acta" s="Bd. 1"/>
+        <ort ref="altenburg"/>
+    </beitrag>
+
+    <beitrag id="1764-89-ueber-die-allwissenheit-gottes">
+        <stueck when="1764" nr="89" von="353" bis="354"/>
+        <kategorie ref="gedicht"/>
+        <kategorie ref="kommentar"/>
         <titel>Ueber die Allwissenheit GOttes</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="89" von="354" />
-        <werk kat="rezension" ref="stanislaus-philosophe"></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1764-89-rezension-stanislaus-philosophe">
+        <stueck when="1764" nr="89" von="354"/>
+        <werk kat="rezension" ref="stanislaus-philosophe"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="89" von="355" bis="356" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-89-weltnachrichten">
+        <stueck when="1764" nr="89" von="355" bis="356"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="89" von="356"  order="1"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-89-buecher">
+        <stueck when="1764" nr="89" von="356" order="1"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="89" von="356"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-89-wechselkurse">
+        <stueck when="1764" nr="89" von="356" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="90" von="357" bis="358" />
-        <kategorie ref="ineigenersache"></kategorie>
-        <akteur ref="kanter"></akteur>
+    <beitrag id="1764-90-kanter-ineigenersache">
+        <stueck when="1764" nr="90" von="357" bis="358"/>
+        <kategorie ref="ineigenersache"/>
+        <akteur ref="kanter"/>
         <anmerkung>Über die Zukunft der Zeitung im nächsten Jahr, die Originalbeiträge und weitere
             Pläne Kanters.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="90" von="358" />
-        <werk ref="schreber-schauplatz-der-kuenste" s="Bd. 1–3" kat="rezension" />
-        <ort ref="berlin"></ort>
+    <beitrag id="1764-90-rezension-schreber-schauplatz-der-kuenste">
+        <stueck when="1764" nr="90" von="358"/>
+        <werk ref="schreber-schauplatz-der-kuenste" s="Bd. 1–3" kat="rezension"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="90" von="358" bis="359" />
-        <werk kat="rezension" ref="neujahrsgeschenk-1765"></werk>
+    <beitrag id="1764-90-rezension-neujahrsgeschenk-1765">
+        <stueck when="1764" nr="90" von="358" bis="359"/>
+        <werk kat="rezension" ref="neujahrsgeschenk-1765"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="90" von="359" bis="360" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-90-weltnachrichten">
+        <stueck when="1764" nr="90" von="359" bis="360"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="90" von="360" />
-        <kategorie ref="buecher" />
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1764" nr="91" von="361" />
-        <werk kat="rezension" ref="blainville-reisebeschreibung" s="Bd. 1, Abt. 1"></werk>
-        <ort ref="lemgo"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="91" von="361" bis="362" />
-        <werk kat="rezension" ref="vademecum-lustig"></werk>
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="91" von="363" bis="364" />
-        <kategorie ref="weltnachrichten" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="91" von="364"  order="1"/>
-        <kategorie ref="buecher" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="91" von="364"  order="2"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-90-buecher">
+        <stueck when="1764" nr="90" von="360"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="92" von="365" />
-        <werk kat="rezension" ref="meier-weltweisheit"></werk>
-        <ort ref="halle"></ort>
+    <beitrag id="1764-91-rezension-blainville-reisebeschreibung">
+        <stueck when="1764" nr="91" von="361"/>
+        <werk kat="rezension" ref="blainville-reisebeschreibung" s="Bd. 1, Abt. 1"/>
+        <ort ref="lemgo"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="92" von="365" bis="366" />
-        <werk kat="rezension" ref="groeben-buechermanufactur"></werk>
+    <beitrag id="1764-91-rezension-vademecum-lustig">
+        <stueck when="1764" nr="91" von="361" bis="362"/>
+        <werk kat="rezension" ref="vademecum-lustig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="92" von="366" />
-        <werk kat="rezension" ref="grau-wundmittel"></werk>
-        <ort ref="lemgo"></ort>
+    <beitrag id="1764-91-weltnachrichten">
+        <stueck when="1764" nr="91" von="363" bis="364"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="92" von="366" bis="367" />
-        <kategorie ref="gedicht"></kategorie>
+    <beitrag id="1764-91-buecher">
+        <stueck when="1764" nr="91" von="364" order="1"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1764-91-wechselkurse">
+        <stueck when="1764" nr="91" von="364" order="2"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag id="1764-92-rezension-meier-weltweisheit">
+        <stueck when="1764" nr="92" von="365"/>
+        <werk kat="rezension" ref="meier-weltweisheit"/>
+        <ort ref="halle"/>
+    </beitrag>
+    <beitrag id="1764-92-rezension-groeben-buechermanufactur">
+        <stueck when="1764" nr="92" von="365" bis="366"/>
+        <werk kat="rezension" ref="groeben-buechermanufactur"/>
+    </beitrag>
+    <beitrag id="1764-92-rezension-grau-wundmittel">
+        <stueck when="1764" nr="92" von="366"/>
+        <werk kat="rezension" ref="grau-wundmittel"/>
+        <ort ref="lemgo"/>
+    </beitrag>
+    <beitrag id="1764-92-der-mensch">
+        <stueck when="1764" nr="92" von="366" bis="367"/>
+        <kategorie ref="gedicht"/>
         <titel>Der Mensch.</titel>
         <anmerkung>Unterzeichnet „Y.“</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="92" von="367" bis="368" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-92-weltnachrichten">
+        <stueck when="1764" nr="92" von="367" bis="368"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="92" von="368" />
-        <kategorie ref="buecher" />
+    <beitrag id="1764-92-buecher">
+        <stueck when="1764" nr="92" von="368"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="93" von="369" bis="370" />
-        <kategorie ref="gedicht"></kategorie>
+    <beitrag id="1764-93-werner-jg-floruit">
+        <stueck when="1764" nr="93" von="369" bis="370"/>
+        <kategorie ref="gedicht"/>
         <incipit>Floruit, incaluit, fructu maturuit annus…</incipit>
-        <akteur ref="werner-jg"></akteur>
+        <akteur ref="werner-jg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="93" von="370"  order="1"/>
-        <kategorie ref="brief"></kategorie>
+    <beitrag id="1764-93-werner-jg-quem-iudicem-non-feuerum-mihi-expetieram">
+        <stueck when="1764" nr="93" von="370" order="1"/>
+        <kategorie ref="brief"/>
         <incipit>Quem iudicem non feuerum mihi expetieram…</incipit>
-        <akteur ref="werner-jg"></akteur>
+        <akteur ref="werner-jg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="93" von="370"  order="2"/>
-        <kategorie ref="gedicht"></kategorie>
+    <beitrag id="1764-93-werner-jg-der-abend">
+        <stueck when="1764" nr="93" von="370" order="2"/>
+        <kategorie ref="gedicht"/>
         <titel>Der Abend.</titel>
-        <akteur ref="werner-jg"></akteur>
+        <akteur ref="werner-jg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="93" von="370" bis="371" />
-        <akteur ref="werner-jg" kat="nachruf" />
+    <beitrag id="1764-93-werner-jg-nachruf">
+        <stueck when="1764" nr="93" von="370" bis="371"/>
+        <akteur ref="werner-jg" kat="nachruf"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="93" von="371" bis="372" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-93-weltnachrichten">
+        <stueck when="1764" nr="93" von="371" bis="372"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="93" von="372"  order="1"/>
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1764-93-lokalnachrichten">
+        <stueck when="1764" nr="93" von="372" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="93" von="372"  order="2"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1764-93-buecher">
+        <stueck when="1764" nr="93" von="372" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="93" von="372"  order="3"/>
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-93-wechselkurse">
+        <stueck when="1764" nr="93" von="372" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="94" von="373" bis="374" />
-        <werk kat="rezension" ref="bar-babioles"></werk>
-        <ort ref="hamburg"></ort>
+    <beitrag id="1764-94-rezension-bar-babioles">
+        <stueck when="1764" nr="94" von="373" bis="374"/>
+        <werk kat="rezension" ref="bar-babioles"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="94" von="374" bis="375" />
-        <kategorie ref="gedicht"></kategorie>
+    <beitrag id="1764-94-der-neubekehrte">
+        <stueck when="1764" nr="94" von="374" bis="375"/>
+        <kategorie ref="gedicht"/>
         <titel>Der Neubekehrte. Eine Erzählung.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="94" von="375" bis="376" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-94-weltnachrichten">
+        <stueck when="1764" nr="94" von="375" bis="376"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="94" von="376" />
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1764-94-lokalanzeigen">
+        <stueck when="1764" nr="94" von="376"/>
+        <kategorie ref="lokalanzeigen"/>
         <anmerkung>Für den englischen Pferdearzt Robertson in der vordersten Vorstadt.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1764" nr="95" von="377" bis="379" />
-        <kategorie ref="aufsatz"></kategorie>
+    <beitrag id="1764-95-poelchau-jf-prosaisches-gedicht-ueber-das-schicksal-der-stadt-koenigsberg">
+        <stueck when="1764" nr="95" von="377" bis="379"/>
+        <kategorie ref="aufsatz"/>
         <titel>Prosaisches Gedicht über das Schicksal der Stadt Königsberg, den 11ten bis 13ten
             November, 1764, von J. F. Pelchau, aus Riga.</titel>
-        <akteur ref="poelchau-jf" unsicher="true" />
+        <akteur ref="poelchau-jf" unsicher="true"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="95" von="379" bis="380" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1764-95-weltnachrichten">
+        <stueck when="1764" nr="95" von="379" bis="380"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1764" nr="95" von="380" />
-        <kategorie ref="wechselkurse" />
+    <beitrag id="1764-95-wechselkurse">
+        <stueck when="1764" nr="95" von="380"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 </beitraege>

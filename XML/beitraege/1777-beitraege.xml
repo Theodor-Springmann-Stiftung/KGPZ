@@ -1,32 +1,30 @@
-<?xml version="1.0"?>
-<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
 
     <!-- Jahrgang 1777 -->
     <beitrag id="kant-philanthropin2">
-        <stueck when="1777" nr="25" />
+        <stueck when="1777" nr="25"/>
         <titel>An das gemeine Wesen.</titel>
-        <werk ref="kantiana1860" kat="provinienz" s="72–76" />
-        <beitrag ref="kant-philanthropin1" kat="replik" />
-        <beitrag ref="kant-philanthropin3" kat="replik" />
+        <werk ref="kantiana1860" kat="provinienz" s="72–76"/>
+        <beitrag ref="kant-philanthropin1" kat="replik"/>
+        <beitrag ref="kant-philanthropin3" kat="replik"/>
         <akteur ref="kant">vgl. AA II, 522–525</akteur>
         <anmerkung>St. 25, Donnerstag, den 27. März 1777, S. 97f.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1777" nr="51" />
-        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 920" />
-        <werk ref="bertuch-donquixote" kat="kommentar" />
-        <akteur ref="hamann" />
+    <beitrag id="1777-51-beil-hamann-kommentar-bertuch-donquixote">
+        <stueck beilage="1" when="1777" nr="51"/>
+        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 920"/>
+        <werk ref="bertuch-donquixote" kat="kommentar"/>
+        <akteur ref="hamann"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1777" nr="85" />
-        <stueck when="1777" nr="86" />
-        <werk ref="freimaurer-bibliothek" kat="provinienz" s="St. 1 (1778), S. 127–177" />
-        <werk ref="terrasson-sethos" kat="rezension" />
-        <akteur ref="penzel" />
+    <beitrag id="1777-penzel-rezension-terrasson-sethos">
+        <stueck when="1777" nr="85"/>
+        <stueck when="1777" nr="86"/>
+        <werk ref="freimaurer-bibliothek" kat="provinienz" s="St. 1 (1778), S. 127–177"/>
+        <werk ref="terrasson-sethos" kat="rezension"/>
+        <akteur ref="penzel"/>
         <anmerkung>Zu Penzels Autorschaft vgl. Hans Köppe: <title>Abraham Jakob Penzels Lebensirrfahrten.</title> Eine Menschen- und Kulturtragödie aus dem 18. Jahrhundert (Leipzig 1937), S. 94.</anmerkung>
     </beitrag>
 

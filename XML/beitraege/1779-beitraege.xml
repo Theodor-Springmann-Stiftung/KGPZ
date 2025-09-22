@@ -1,14 +1,12 @@
-<?xml version="1.0"?>
-<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
 
     <!-- Jahrgang 1779 -->
-    <beitrag>
-        <stueck beilage="1" when="1779" nr="88" />
-        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 920f." />
-        <werk ref="schellenberg-schweiz" kat="anzeige" />
-        <akteur ref="hamann" />
+    <beitrag id="1779-88-beil-hamann-anzeige-schellenberg-schweiz">
+        <stueck beilage="1" when="1779" nr="88"/>
+        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 920f."/>
+        <werk ref="schellenberg-schweiz" kat="anzeige"/>
+        <akteur ref="hamann"/>
     </beitrag>
 
 </beitraege>
