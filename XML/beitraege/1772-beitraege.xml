@@ -1,2911 +1,2909 @@
-<?xml version="1.0"?>
-<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
 
     <!-- Jahrgang 1772 -->
     <!-- Beilagen: -->
     <beitrag id="meinhard-ariostauszug">
         <stueck beilage="1" when="1772" nr="1" von="1" bis="2" order="2"/>
-        <stueck beilage="1" when="1772" nr="3" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="5" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="9" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="13" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="15" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="17" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="19" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="21" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="23" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="25" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="27" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="29" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="33" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="35" von="1" bis="2" />
-        <werk kat="auszug" ref="meinhard-versuche2" s="S. 129–279"></werk>
+        <stueck beilage="1" when="1772" nr="3" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="5" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="9" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="13" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="15" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="17" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="19" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="21" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="23" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="25" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="27" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="29" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="33" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="35" von="1" bis="2"/>
+        <werk kat="auszug" ref="meinhard-versuche2" s="S. 129–279"/>
         <akteur ref="hamann">Unger II, 910</akteur>
         <anmerkung>Auszug über Ariost und Orlando Furioso aus Anlass von Kupferstichen aus Orlando Furioso im <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0002F5EC00040000">Genealogischen Calender der Königlichen Akademie der Wissenschaften zu Berlin von 1772</wwwlink>.</anmerkung>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-1-beil-hamann-einleitung-des-auszugs-meinhard-ariostauszug-kommentar">
         <stueck beilage="1" when="1772" nr="1" von="1" order="1"/>
-        <beitrag kat="kommentar" ref="meinhard-ariostauszug"></beitrag>
+        <beitrag kat="kommentar" ref="meinhard-ariostauszug"/>
         <akteur ref="hamann">vgl. Unger II, 910</akteur>
         <anmerkung>Einleitung des Auszugs.</anmerkung>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-hamann-erklaerung-weiterer-kupferstiche-zu-orlando-furioso-aus-dem-berliner-genealogischen-calender-1772-meinhard-ariostauszug-replik">
         <stueck beilage="1" when="1772" nr="35" von="2"/>
-        <stueck beilage="1" when="1772" nr="39" von="1" bis="2" />
-        <beitrag kat="replik" ref="meinhard-ariostauszug"></beitrag>
-        <akteur ref="hamann" unsicher="true"></akteur>
+        <stueck beilage="1" when="1772" nr="39" von="1" bis="2"/>
+        <beitrag kat="replik" ref="meinhard-ariostauszug"/>
+        <akteur ref="hamann" unsicher="true"/>
         <anmerkung>Erklärung weiterer Kupferstiche zu Orlando Furioso aus dem Berliner genealogischen Calender 1772.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="5" von="2" />
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1772-5-beil-buecher">
+        <stueck beilage="1" when="1772" nr="5" von="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="7" von="1" bis="2" />
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
+    <beitrag id="1772-7-beil-ankuendigung-der-von-dem-koenigl">
+        <stueck beilage="1" when="1772" nr="7" von="1" bis="2"/>
+        <kategorie ref="gelehrte-nachrichten"/>
         <titel>Ankündigung der von dem Königl. Preußischen General-Ober-Finanz-Krieges-und Domainendirectorio auf 1772 und 1773, ausgesetzten Preißaufgaben.</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="11" von="1" bis="2" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1772-11-beil-weltnachrichten">
+        <stueck beilage="1" when="1772" nr="11" von="1" bis="2"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="31" von="1" bis="4" />
-        <kategorie ref="aufsatz"></kategorie>
+    <beitrag id="1772-31-beil-friedrich-II-vom-nutzen-der-wissenschaften-und-kuenste">
+        <stueck beilage="1" when="1772" nr="31" von="1" bis="4"/>
+        <kategorie ref="aufsatz"/>
         <titel>Vom Nutzen der Wissenschaften und Künste</titel>
-        <akteur ref="friedrich-II"></akteur>
+        <akteur ref="friedrich-II"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="37" von="1" bis="2" />
+    <beitrag id="1772-37-beil-hamann-abfertigung-der-im-sechs-und-zwanzigsten-stueck-enthaltenen-recension">
+        <stueck beilage="1" when="1772" nr="37" von="1" bis="2"/>
         <titel>Abfertigung der im sechs und zwanzigsten Stück enthaltenen Recension.</titel>
-        <beitrag kat="replik" ref="hamann-herder-ursprung"></beitrag>
+        <beitrag kat="replik" ref="hamann-herder-ursprung"/>
         <akteur ref="hamann">Unterzeichnet „Aristobulus.“ – Vgl. den Wiederabdruck in den <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235968">Zwo Recensionen</wwwlink></akteur>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="39" von="2" />
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1772-39-beil-buecher">
+        <stueck beilage="1" when="1772" nr="39" von="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="41" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="43" von="1" bis="2" />
+    <beitrag id="1772-hamann-ueber-die-ritterromanen">
+        <stueck beilage="1" when="1772" nr="41" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="43" von="1" bis="2"/>
         <titel>Ueber die Ritterromanen, aus dem Engl. zusammengezogen.</titel>
-        <werk kat="uebersetzung" ref="warburton-chivalry" ></werk>
-        <werk kat="uebersetzung" ref="hurd-chivalry" ></werk>
+        <werk kat="uebersetzung" ref="warburton-chivalry"/>
+        <werk kat="uebersetzung" ref="hurd-chivalry"/>
         <akteur ref="hamann">vgl. Unger II, 910–916, Nadler IV, 372–376</akteur>
         <anmerkung>Kombinierte Übersetzung von Ausschnitten aus einem Aufsatz von William Warburten über das Rittertum und Richard Hurds „Letters on Chivalry and Romance“.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="43" von="2" />
-        <stueck beilage="1" when="1772" nr="45" von="1" />
+    <beitrag id="1772-hamann-chronologische-bestimmung-des-koenigs-ahasverus-und-der-koenigin-esther">
+        <stueck beilage="1" when="1772" nr="43" von="2"/>
+        <stueck beilage="1" when="1772" nr="45" von="1"/>
         <titel>Chronologische Bestimmung des Königs Ahasverus und der Königin Esther. Aus dem Engl.</titel>
-        <werk kat="uebersetzung" ref="yate-esther" s="S. 444–446" ></werk>
+        <werk kat="uebersetzung" ref="yate-esther" s="S. 444–446"/>
         <akteur ref="hamann" unsicher="true">vgl. ZH II, 431</akteur>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="45" von="2" />
-        <stueck beilage="1" when="1772" nr="47" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="49" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="51" von="1" />
+    <beitrag id="1772-hamann-auszug-eines-versuchs-ueber-die-gegenstaende-der-chymie-und-ueber-ihre-allgemeine-eintheilung">
+        <stueck beilage="1" when="1772" nr="45" von="2"/>
+        <stueck beilage="1" when="1772" nr="47" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="49" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="51" von="1"/>
         <titel>Auszug eines Versuchs über die Gegenstände der Chymie und über ihre allgemeine Eintheilung. Aus dem Engl.</titel>
-        <werk kat="uebersetzung" ref="watson-hawkesworth-chemistry" s="S. 410–414 und 464–466" ></werk>
+        <werk kat="uebersetzung" ref="watson-hawkesworth-chemistry" s="S. 410–414 und 464–466"/>
         <akteur ref="hamann" unsicher="true">vgl. ZH II, 431</akteur>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="51" von="1" bis="2" />
+    <beitrag id="1772-51-beil-hamann-der-uebersetzer">
+        <stueck beilage="1" when="1772" nr="51" von="1" bis="2"/>
         <titel>Der Uebersetzer. Aus den Charakteren oder Zeichnungen des Samuel Buttlers. Aus eben desselben vermischten Gedanken.</titel>
-        <werk kat="uebersetzung" ref="butler-genuine" s="S. 405–407 und Auszüge aus S. 466–512" ></werk>
+        <werk kat="uebersetzung" ref="butler-genuine" s="S. 405–407 und Auszüge aus S. 466–512"/>
         <akteur ref="hamann" unsicher="true">vgl. ZH II, 431</akteur>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="53" von="1" bis="2" />
-        <stueck when="1772" nr="55" von="217" bis="218" />
+    <beitrag id="1772-lobschrift-auf-herrn-noel">
+        <stueck beilage="1" when="1772" nr="53" von="1" bis="2"/>
+        <stueck when="1772" nr="55" von="217" bis="218"/>
         <titel>Lobschrift auf Herrn Noel, nach dem Französisichen des Kaisers von China.</titel>
-        <werk kat="auszug" ref="gleim-lobschrift" s="S. 5–29" ></werk>
+        <werk kat="auszug" ref="gleim-lobschrift" s="S. 5–29"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="55" von="1" bis="2" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1772-55-beil-die-ratification">
+        <stueck beilage="1" when="1772" nr="55" von="1" bis="2"/>
+        <kategorie ref="weltnachrichten"/>
         <titel>Die Ratification, welche Sr. Erlaucht, dem Generalfeldmarschall, Grafen Peter Alexandrowitsch Rumanzow, von dem Türkischen Großvizier Mussun Oglu über die Artikel, des den 19. abgewichenen Maymonats geschlossenen Waffenstillstandes, auf die an ihn abgefertigte gegenseitig eingesandt worden, wird dem Publicum hiermit von Wort zu Wort mitgetheilet</titel>
-        <ort ref="stpetersburg"></ort>
+        <ort ref="stpetersburg"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="55" von="2" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1772-55-beil-weltnachrichten">
+        <stueck beilage="1" when="1772" nr="55" von="2"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="61" von="1" />
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
+    <beitrag id="1772-61-beil-buesching-nachricht">
+        <stueck beilage="1" when="1772" nr="61" von="1"/>
+        <kategorie ref="gelehrte-nachrichten"/>
         <titel>Nachricht.</titel>
-        <akteur ref="buesching"></akteur>
+        <akteur ref="buesching"/>
         <anmerkung>Subskriptionsanzeige für die Werke des schwedischen Kanzleyraths und Professors zu Upsala, Herr Johann von Ihre</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="61" von="1" bis="2" />
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
+    <beitrag id="1772-61-beil-a">
+        <stueck beilage="1" when="1772" nr="61" von="1" bis="2"/>
+        <kategorie ref="gelehrte-nachrichten"/>
         <incipit>A.F. Röse zu Greifswald verleget: Geschichte des Nadirkahn, Beherrschers von Persien, von Mirsa Mohamed Mahadikahn Masanderani…</incipit>
         <anmerkung>Subskriptionsanzeige (diese übernimmt Prof. Werner)</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="61" von="2"  order="1"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
+    <beitrag id="1772-61-beil-der-professor-und-bibliothecarius-zu-greifswald">
+        <stueck beilage="1" when="1772" nr="61" von="2" order="1"/>
+        <kategorie ref="gelehrte-nachrichten"/>
         <incipit>Der Professor und Bibliothecarius zu Greifswald, Herr Joh. Carl Dähnert, übernimt auf eigene Kosten den Druck des Catalogi der dortigen Akademischen Bibliothek, nebst einem Universal-Repertorio…</incipit>
         <anmerkung>Subskriptionsanzeige (diese übernimmt Prof. Werner)</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="61" von="2"  order="2"/>
-        <stueck beilage="1" when="1772" nr="63" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="65" von="1" bis="2" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1772-vor-einiger-zeit-wurde-in-verschiedenen-zeitungen-eine-schrift-verbreitet">
+        <stueck beilage="1" when="1772" nr="61" von="2" order="2"/>
+        <stueck beilage="1" when="1772" nr="63" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="65" von="1" bis="2"/>
+        <kategorie ref="weltnachrichten"/>
         <incipit>Vor einiger Zeit wurde in verschiedenen Zeitungen eine Schrift verbreitet, welche mit Erdichtungen und Anzüglichkeiten gegen Se. Pohlnische Majestät angefüllet war. Aus folgender authentischen Schrift wird man den Ungrund davon aufs stärkste einsehen können…</incipit>
-        <ort ref="hamburg"></ort>
+        <ort ref="hamburg"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="63" von="2" />
-        <kategorie ref="vorladung"></kategorie>
+    <beitrag id="1772-63-beil-vorladung">
+        <stueck beilage="1" when="1772" nr="63" von="2"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="65" von="2"  order="1"/>
-        <kategorie ref="vorladung"></kategorie>
+    <beitrag id="1772-65-beil-vorladung">
+        <stueck beilage="1" when="1772" nr="65" von="2" order="1"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="65" von="2"  order="2"/>
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1772-65-beil-lotterie">
+        <stueck beilage="1" when="1772" nr="65" von="2" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="67" von="2"  order="1"/>
-        <kategorie ref="vorladung"></kategorie>
+    <beitrag id="1772-67-beil-vorladung">
+        <stueck beilage="1" when="1772" nr="67" von="2" order="1"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="67" von="2"  order="2"/>
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1772-67-beil-lotterie">
+        <stueck beilage="1" when="1772" nr="67" von="2" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="69" von="2"  order="1"/>
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1772-69-beil-lotterie">
+        <stueck beilage="1" when="1772" nr="69" von="2" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="67" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="69" von="1" bis="2" />
+    <beitrag id="1772-melanchthon">
+        <stueck beilage="1" when="1772" nr="67" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="69" von="1" bis="2"/>
         <titel>Melanchthon. Eine Ode von Johann Andreas Cramer.</titel>
-        <werk kat="auszug" ref="cramer-melanchthon" ></werk>
+        <werk kat="auszug" ref="cramer-melanchthon"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="69" von="2"  order="2"/>
-        <stueck beilage="1" when="1772" nr="71" von="1" />
+    <beitrag id="1772-aus-der-berl">
+        <stueck beilage="1" when="1772" nr="69" von="2" order="2"/>
+        <stueck beilage="1" when="1772" nr="71" von="1"/>
         <titel>Aus der Berl. Zeitung.</titel>
-        <werk kat="auszug" ref="burman-lied" ></werk>
-        <werk kat="kommentar" ref="burman-lied" ></werk>
+        <werk kat="auszug" ref="burman-lied"/>
+        <werk kat="kommentar" ref="burman-lied"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="71" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="79" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="85" von="1" bis="2" />
+    <beitrag id="1772-beschreibung-von-allen-gemaehlden-und-antiquen">
+        <stueck beilage="1" when="1772" nr="71" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="79" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="85" von="1" bis="2"/>
         <titel>Beschreibung von allen Gemählden und Antiquen, wie auch verschiedenen andern Kostbarkeiten im Neuen Schloße bey Sans-Souci.</titel>
-        <werk kat="auszug" ref="oesterreich-beschreibung-sanssouci1772"></werk>
+        <werk kat="auszug" ref="oesterreich-beschreibung-sanssouci1772"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="73" von="1" bis="2" />
-        <kategorie ref="weltnachrichten"></kategorie>
-        <ort ref="hamburg"></ort>
+    <beitrag id="1772-73-beil-weltnachrichten">
+        <stueck beilage="1" when="1772" nr="73" von="1" bis="2"/>
+        <kategorie ref="weltnachrichten"/>
+        <ort ref="hamburg"/>
         <anmerkung>Über die Veränderung der Regierung in Schweden.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="75" von="1" bis="2" />
-        <kategorie ref="proklamation"></kategorie>
+    <beitrag id="1772-75-beil-friedrich-II-koeniglich-preussisches-patent-an-die-saemmtliche-staende-und-einwohner-der-lande-preussen-und-pommern">
+        <stueck beilage="1" when="1772" nr="75" von="1" bis="2"/>
+        <kategorie ref="proklamation"/>
         <titel>Königlich-Preußisches Patent an die sämmtliche Stände und Einwohner der Lande Preußen und Pommern, welche die Crone Pohlen bishero besessen, wie auch der Districte von Groß-Pohlen, diesseits der Netze.</titel>
-        <akteur ref="friedrich-II"></akteur>
-        <ort ref="berlin"></ort>
+        <akteur ref="friedrich-II"/>
+        <ort ref="berlin"/>
         <anmerkung>Proklamation über die Annexion Westpreußens und die Teilung Polens, 13. September 1772, außerdem unterzeichnet von Finckenstein und Herzberg.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="76" von="1" bis="4" />
-        <stueck beilage="1" when="1772" nr="77" von="1" bis="4" />
-        <kategorie ref="proklamation"></kategorie>
+    <beitrag id="1772-friedrich-II-des-koenigs-und-der-reichsstaende-vestgestellte-regierungsform">
+        <stueck beilage="1" when="1772" nr="76" von="1" bis="4"/>
+        <stueck beilage="1" when="1772" nr="77" von="1" bis="4"/>
+        <kategorie ref="proklamation"/>
         <titel>Des Königs und der Reichsstände vestgestellte Regierungsform.</titel>
-        <akteur ref="friedrich-II"></akteur>
-        <ort ref="stockholm"></ort>
+        <akteur ref="friedrich-II"/>
+        <ort ref="stockholm"/>
         <anmerkung>Proklamation der neuen Verfassung in Schweden vom 21. August 1772 durch Gustav III.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="86" von="1" bis="2" />
-        <kategorie ref="proklamation"></kategorie>
+    <beitrag id="1772-86-beil-friedrich-II-edict">
+        <stueck beilage="1" when="1772" nr="86" von="1" bis="2"/>
+        <kategorie ref="proklamation"/>
         <titel>Edict, daß zu Debitirung des Salzes an die Auswärtige, eine Handlungs-Compagnie etabliret, durch solche das vorräthige Salz in Königsberg und Memel übernommen, dabei aber der Kaufmannschaft in denen Königlich-Preußischen Städten der exclusive Handel mit Garn, Leinewand, Wachs, auch Hanf- und Lein-Saamen, aus dem Ermelande zugelegt werden solle.</titel>
-        <akteur ref="friedrich-II"></akteur>
-        <ort ref="potsdam"></ort>
+        <akteur ref="friedrich-II"/>
+        <ort ref="potsdam"/>
         <anmerkung>Edikt über die Gründung der Königlich Preußischen Seehandlungskompanie, 3. Oktober 1772, außerdem unterzeichnet von von der Horst.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="87" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="89" von="1" bis="2" />
-        <stueck beilage="1" when="1772" nr="95" von="1" />
+    <beitrag id="1772-von-der-musik-in-russland">
+        <stueck beilage="1" when="1772" nr="87" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="89" von="1" bis="2"/>
+        <stueck beilage="1" when="1772" nr="95" von="1"/>
         <titel>Von der Musik in Rußland.</titel>
-        <werk kat="auszug" ref="musik-goathaisch"></werk>
+        <werk kat="auszug" ref="musik-goathaisch"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="95" von="1" bis="2" />
+    <beitrag id="1772-95-beil-sturmglocke-der-koenige-den-europaeischen-maechten-gelaeutet-von-voltaere">
+        <stueck beilage="1" when="1772" nr="95" von="1" bis="2"/>
         <titel>Sturmglocke der Könige den Europäischen Mächten geläutet von Voltäre.</titel>
-        <werk kat="auszug" ref="voltaire-sturmglocke"></werk>
+        <werk kat="auszug" ref="voltaire-sturmglocke"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="97" von="1" bis="2" />
-        <kategorie ref="aufsatz"></kategorie>
+    <beitrag id="1772-97-beil-vorschlaege-zur-verbesserten-versorgung-der-land-armen-in-den-doerfern">
+        <stueck beilage="1" when="1772" nr="97" von="1" bis="2"/>
+        <kategorie ref="aufsatz"/>
         <titel>Vorschläge zur verbesserten Versorgung der Land-Armen in den Dörfern.</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="97" von="2" />
+    <beitrag id="1772-97-beil-oliven">
+        <stueck beilage="1" when="1772" nr="97" von="2"/>
         <titel>Oliven.</titel>
-        <werk kat="auszug" ref="oliven-goathaisch"></werk>
+        <werk kat="auszug" ref="oliven-goathaisch"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="101" von="1" />
-        <kategorie ref="aufsatz"></kategorie>
+    <beitrag id="1772-101-beil-zufaellige-gedanken-eines-freundes-der-wissenschaften-ueber-die-ausbreitung-der-kentnisse-unter-den-menschen">
+        <stueck beilage="1" when="1772" nr="101" von="1"/>
+        <kategorie ref="aufsatz"/>
         <titel>Zufällige Gedanken eines Freundes der Wissenschaften über die Ausbreitung der Kentniße unter den Menschen.</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="101" von="1" bis="2" />
+    <beitrag id="1772-101-beil-lebens-umstaende-des-verstorbenen-assessors-im-koenigl">
+        <stueck beilage="1" when="1772" nr="101" von="1" bis="2"/>
         <titel>Lebens-Umstände des verstorbenen Assessors im Königl. Schwedischen Berg-Collegio, Emanuel Swedenborg, aus der Rede, die der Berg-Rath und Ritter Sandel, zum Andenken des Verstorbenen am 7ten October vor der Königl. Akademie der Wissenschaften zu Stockholm gehalten hat.</titel>
-        <akteur ref="swedenborg" kat="nachruf" />
+        <akteur ref="swedenborg" kat="nachruf"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="103" von="1" bis="2" />
+    <beitrag id="1772-103-beil-von-den-perlen-und-dem-perlenfange">
+        <stueck beilage="1" when="1772" nr="103" von="1" bis="2"/>
         <titel>Von den Perlen und dem Perlenfange.</titel>
-        <werk kat="auszug" ref="perlen-leipzig"></werk>
+        <werk kat="auszug" ref="perlen-leipzig"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1772" nr="103" von="2" />
+    <beitrag id="1772-103-beil-herrn-donald-monro-schreiben-an-herrn-maty">
+        <stueck beilage="1" when="1772" nr="103" von="2"/>
         <titel>Herrn Donald Monro Schreiben an Herrn Maty, nebst einem Einschluße von Herrn Farley aus Antigoa, über die guten Wirkungen der Quaßi-Wurzel in einigen Fiebern.</titel>
-        <werk kat="auszug" ref="monro-quassi-wurzel"></werk>
+        <werk kat="auszug" ref="monro-quassi-wurzel"/>
     </beitrag>
 
 
 
     <!-- Stücke: -->
-    <beitrag>
-        <stueck when="1772" nr="1" von="1"  order="1"/>
-        <kategorie ref="ineigenersache"></kategorie>
+    <beitrag id="1772-1-neujahrsgruss">
+        <stueck when="1772" nr="1" von="1" order="1"/>
+        <kategorie ref="ineigenersache"/>
         <incipit>Neujahrsgruß</incipit>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-1-die-nebel">
         <stueck when="1772" nr="1" von="1" bis="2" order="2"/>
-        <kategorie ref="gedicht"></kategorie>
+        <kategorie ref="gedicht"/>
         <incipit>Die Nebel, die vor Deutschlands Augen hiengen…</incipit>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="1" von="2" />
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1772-1-lokalnachrichten">
+        <stueck when="1772" nr="1" von="2"/>
+        <kategorie ref="lokalnachrichten"/>
         <anmerkung>Statistische Erhebungen über Geburts- und Todesraten in Königsberg für 1771.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="1" von="2" bis="4" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-1-weltnachrichten">
+        <stueck when="1772" nr="1" von="2" bis="4"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-1-lotterie">
         <stueck when="1772" nr="1" von="4" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-1-vorladung">
         <stueck when="1772" nr="1" von="4" order="2"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-1-einkommende-fremde">
         <stueck when="1772" nr="1" von="4" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-1-wechselkurse">
         <stueck when="1772" nr="1" von="4" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="2" von="5" bis="6" />
-        <werk kat="rezension" ref="luedeke-beschreibung-tuerkischesreich" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-2-rezension-luedeke-beschreibung-tuerkischesreich">
+        <stueck when="1772" nr="2" von="5" bis="6"/>
+        <werk kat="rezension" ref="luedeke-beschreibung-tuerkischesreich"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="2" von="6" />
-            <werk kat="rezension" ref="steinbart-werth" />
-            <ort ref="berlin"></ort>
+    <beitrag id="1772-2-rezension-steinbart-werth">
+        <stueck when="1772" nr="2" von="6"/>
+            <werk kat="rezension" ref="steinbart-werth"/>
+            <ort ref="berlin"/>
         </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="2" von="7" bis="8" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-2-weltnachrichten">
+        <stueck when="1772" nr="2" von="7" bis="8"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-2-lotterie">
         <stueck when="1772" nr="2" von="8" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-2-replik">
         <stueck when="1772" nr="2" von="8" order="2"/>
-        <kategorie ref="replik" />
+        <kategorie ref="replik"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-2-einkommende-fremde">
         <stueck when="1772" nr="2" von="8" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="3" von="9" bis="10" />
-        <werk kat="rezension" ref="alte-frau" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-3-rezension-alte-frau">
+        <stueck when="1772" nr="3" von="9" bis="10"/>
+        <werk kat="rezension" ref="alte-frau"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="3" von="10" />
-            <werk kat="rezension" ref="moser-vertrautebriefe" />
-            <ort ref="frankfurt"></ort>
-            <ort ref="leipzig"></ort>
+    <beitrag id="1772-3-rezension-moser-vertrautebriefe">
+        <stueck when="1772" nr="3" von="10"/>
+            <werk kat="rezension" ref="moser-vertrautebriefe"/>
+            <ort ref="frankfurt"/>
+            <ort ref="leipzig"/>
         </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="3" von="10" bis="12" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-3-weltnachrichten">
+        <stueck when="1772" nr="3" von="10" bis="12"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-3-lotterie">
         <stueck when="1772" nr="3" von="12" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-3-einkommende-fremde">
         <stueck when="1772" nr="3" von="12" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-3-wechselkurse">
         <stueck when="1772" nr="3" von="12" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="4" von="13" bis="14" />
-        <werk kat="rezension" ref="miller-anleitung" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-4-rezension-miller-anleitung">
+        <stueck when="1772" nr="4" von="13" bis="14"/>
+        <werk kat="rezension" ref="miller-anleitung"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="4" von="14" bis="16" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-4-weltnachrichten">
+        <stueck when="1772" nr="4" von="14" bis="16"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-4-buecher">
         <stueck when="1772" nr="4" von="16" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-4-einkommende-fremde">
         <stueck when="1772" nr="4" von="16" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
     
-    <beitrag>
-        <stueck when="1772" nr="5" von="17" />
+    <beitrag id="1772-5-kanter-antwort-an-den-verfasser-des-avertissements-in-der-vossischen-und-haudenschen-zeitung-vom-11ten-januar-1772">
+        <stueck when="1772" nr="5" von="17"/>
         <titel>Antwort An den Verfasser des Avertissements in der Voßischen und Haudenschen Zeitung vom 11ten Januar 1772.</titel>
-        <werk kat="replik" ref="vossischezeitung1772"></werk>
+        <werk kat="replik" ref="vossischezeitung1772"/>
         <akteur ref="kanter">Unterzeichnet „K.“</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="5" von="17" bis="18" />
-        <werk kat="rezension" ref="cyprian-wahre-geschichtepetri" />
-        <ort ref="hof"></ort>
+    <beitrag id="1772-5-rezension-cyprian-wahre-geschichtepetri">
+        <stueck when="1772" nr="5" von="17" bis="18"/>
+        <werk kat="rezension" ref="cyprian-wahre-geschichtepetri"/>
+        <ort ref="hof"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="5" von="18" />
-        <werk kat="rezension" ref="benner-abhandlung" />
-        <ort ref="giessen"></ort>
+    <beitrag id="1772-5-rezension-benner-abhandlung">
+        <stueck when="1772" nr="5" von="18"/>
+        <werk kat="rezension" ref="benner-abhandlung"/>
+        <ort ref="giessen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="5" von="18" bis="20" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-5-weltnachrichten">
+        <stueck when="1772" nr="5" von="18" bis="20"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-5-lotterie">
         <stueck when="1772" nr="5" von="20" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-5-einkommende-fremde">
         <stueck when="1772" nr="5" von="20" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-5-wechselkurse">
         <stueck when="1772" nr="5" von="20" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="6" von="21" />
-        <werk kat="rezension" ref="mercier-andeuxmille" />
+    <beitrag id="1772-6-rezension-mercier-andeuxmille">
+        <stueck when="1772" nr="6" von="21"/>
+        <werk kat="rezension" ref="mercier-andeuxmille"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="6" von="21" bis="22" />
-        <werk kat="rezension" ref="widerlegung-reflexionen" />
+    <beitrag id="1772-6-rezension-widerlegung-reflexionen">
+        <stueck when="1772" nr="6" von="21" bis="22"/>
+        <werk kat="rezension" ref="widerlegung-reflexionen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="6" von="22"  order="1"/>
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1772-6-lokalnachrichten">
+        <stueck when="1772" nr="6" von="22" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
         <anmerkung>Über den akademischen Actus am Krönungsfest und den Maskenball</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="6" von="22"  order="2"/>
-        <kategorie ref="gedicht" />
+    <beitrag id="1772-6-an-die-masken">
+        <stueck when="1772" nr="6" von="22" order="2"/>
+        <kategorie ref="gedicht"/>
         <titel>An die Masken.</titel>
     </beitrag>
-    <beitrag>
-    <stueck when="1772" nr="6" von="22"  order="3"/>
-        <kategorie ref="gedicht" />
+    <beitrag id="1772-6-an-den-heutigen-tag">
+    <stueck when="1772" nr="6" von="22" order="3"/>
+        <kategorie ref="gedicht"/>
         <titel>An den heutigen Tag.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="6" von="22"  order="4"/>
-        <akteur ref="quandt-jj" kat="nachruf" />
+    <beitrag id="1772-6-quandt-jj-nachruf">
+        <stueck when="1772" nr="6" von="22" order="4"/>
+        <akteur ref="quandt-jj" kat="nachruf"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="6" von="22" bis="24" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-6-weltnachrichten">
+        <stueck when="1772" nr="6" von="22" bis="24"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-6-lotterie">
         <stueck when="1772" nr="6" von="24" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-6-einkommende-fremde">
         <stueck when="1772" nr="6" von="24" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="7" von="25" />
-        <kategorie ref="gedicht"></kategorie>
+    <beitrag id="1772-7-auf-den-24sten-januar">
+        <stueck when="1772" nr="7" von="25"/>
+        <kategorie ref="gedicht"/>
         <titel>Auf den 24sten Januar.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="7" von="26" bis="28" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-7-weltnachrichten">
+        <stueck when="1772" nr="7" von="26" bis="28"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-7-lotterie">
         <stueck when="1772" nr="7" von="28" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-7-lokalanzeigen">
         <stueck when="1772" nr="7" von="28" order="2"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-7-einkommende-fremde">
         <stueck when="1772" nr="7" von="28" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-7-wechselkurse">
         <stueck when="1772" nr="7" von="28" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="8" von="29" bis="30" />
-        <werk kat="rezension" ref="schwarz-theologische" />
-        <ort ref="giessen"></ort>
+    <beitrag id="1772-8-rezension-schwarz-theologische">
+        <stueck when="1772" nr="8" von="29" bis="30"/>
+        <werk kat="rezension" ref="schwarz-theologische"/>
+        <ort ref="giessen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="8" von="30" />
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1772-8-lokalnachrichten">
+        <stueck when="1772" nr="8" von="30"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="8" von="30" bis="32" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-8-weltnachrichten">
+        <stueck when="1772" nr="8" von="30" bis="32"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-8-lokalanzeigen">
         <stueck when="1772" nr="8" von="32" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-8-einkommende-fremde">
         <stueck when="1772" nr="8" von="32" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="9" von="33" bis="34" />
-        <werk kat="rezension" ref="goodman-moralische" />
-        <ort ref="mitau"></ort>
-        <ort ref="hasenpoth"></ort>
+    <beitrag id="1772-9-rezension-goodman-moralische">
+        <stueck when="1772" nr="9" von="33" bis="34"/>
+        <werk kat="rezension" ref="goodman-moralische"/>
+        <ort ref="mitau"/>
+        <ort ref="hasenpoth"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="9" von="34" />
-        <kategorie ref="lokalnachrichten" />
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-9-lokalnachrichten">
+        <stueck when="1772" nr="9" von="34"/>
+        <kategorie ref="lokalnachrichten"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="9" von="34" bis="36" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-9-weltnachrichten">
+        <stueck when="1772" nr="9" von="34" bis="36"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-9-einkommende-fremde">
         <stueck when="1772" nr="9" von="36" order="1"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-9-wechselkurse">
         <stueck when="1772" nr="9" von="36" order="2"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="10" von="37" />
-        <werk kat="rezension" ref="stresow-theodicee" />
-        <ort ref="luebeck"></ort>
+    <beitrag id="1772-10-rezension-stresow-theodicee">
+        <stueck when="1772" nr="10" von="37"/>
+        <werk kat="rezension" ref="stresow-theodicee"/>
+        <ort ref="luebeck"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="10" von="38" bis="40" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-10-weltnachrichten">
+        <stueck when="1772" nr="10" von="38" bis="40"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="10" von="40"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-10-lokalanzeigen">
+        <stueck when="1772" nr="10" von="40" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-10-einkommende-fremde">
         <stueck when="1772" nr="10" von="40" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="11" von="41" bis="42" />
-        <werk kat="rezension" ref="gottsched-briefe" s="Bd. 1–2" />
-        <ort ref="dresden"></ort>
+    <beitrag id="1772-11-rezension-gottsched-briefe">
+        <stueck when="1772" nr="11" von="41" bis="42"/>
+        <werk kat="rezension" ref="gottsched-briefe" s="Bd. 1–2"/>
+        <ort ref="dresden"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="11" von="42" bis="44" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-11-weltnachrichten">
+        <stueck when="1772" nr="11" von="42" bis="44"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="11" von="44"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-11-lokalanzeigen">
+        <stueck when="1772" nr="11" von="44" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-11-einkommende-fremde">
         <stueck when="1772" nr="11" von="44" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-11-wechselkurse">
         <stueck when="1772" nr="11" von="44" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="12" von="45" />
-        <werk kat="rezension" ref="gruendliche-abfertigung-goldhagen" />
-        <ort ref="frankfurt"></ort>
+    <beitrag id="1772-12-rezension-gruendliche-abfertigung-goldhagen">
+        <stueck when="1772" nr="12" von="45"/>
+        <werk kat="rezension" ref="gruendliche-abfertigung-goldhagen"/>
+        <ort ref="frankfurt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="12" von="45" bis="46" />
-        <kategorie ref="brief"></kategorie>
-        <akteur ref="finkenstein-jw" kat="nachruf" />
-        <ort ref="kgsb"></ort>
+    <beitrag id="1772-12-brief">
+        <stueck when="1772" nr="12" von="45" bis="46"/>
+        <kategorie ref="brief"/>
+        <akteur ref="finkenstein-jw" kat="nachruf"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="12" von="46" bis="48" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-12-weltnachrichten">
+        <stueck when="1772" nr="12" von="46" bis="48"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="12" von="48"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-12-lotterie">
+        <stueck when="1772" nr="12" von="48" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="12" von="48"  order="2"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-12-lokalanzeigen">
+        <stueck when="1772" nr="12" von="48" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-12-einkommende-fremde">
         <stueck when="1772" nr="12" von="48" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="13" von="49" bis="50" />
-        <werk kat="rezension" ref="hupel-liefland" />
+    <beitrag id="1772-13-rezension-hupel-liefland">
+        <stueck when="1772" nr="13" von="49" bis="50"/>
+        <werk kat="rezension" ref="hupel-liefland"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="13" von="50" bis="52" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-13-weltnachrichten">
+        <stueck when="1772" nr="13" von="50" bis="52"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="13" von="52"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-13-lotterie">
+        <stueck when="1772" nr="13" von="52" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="13" von="52"  order="2"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
+    <beitrag id="1772-13-gelehrte-nachrichten">
+        <stueck when="1772" nr="13" von="52" order="2"/>
+        <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>Subskriptionsanzeige für ein allgemeines Adelslexikon, unter „Avertissement“</anmerkung>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-13-einkommende-fremde">
         <stueck when="1772" nr="13" von="52" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-13-wechselkurse">
         <stueck when="1772" nr="13" von="52" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="14" von="53" />
-        <werk kat="rezension" ref="hilscher-erbauliche" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-14-rezension-hilscher-erbauliche">
+        <stueck when="1772" nr="14" von="53"/>
+        <werk kat="rezension" ref="hilscher-erbauliche"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="14" von="53" bis="54" />
-        <werk kat="rezension" ref="boutrolle-geschickter-viehhirte" />
-        <ort ref="wittenberg"></ort>
-        <ort ref="zerbst"></ort>
+    <beitrag id="1772-14-rezension-boutrolle-geschickter-viehhirte">
+        <stueck when="1772" nr="14" von="53" bis="54"/>
+        <werk kat="rezension" ref="boutrolle-geschickter-viehhirte"/>
+        <ort ref="wittenberg"/>
+        <ort ref="zerbst"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="14" von="54" bis="56" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-14-weltnachrichten">
+        <stueck when="1772" nr="14" von="54" bis="56"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="14" von="56"  order="1"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
+    <beitrag id="1772-14-gelehrte-nachrichten">
+        <stueck when="1772" nr="14" von="56" order="1"/>
+        <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>Subskriptionsanzeige für ein allgemeines Adelslexikon, unter „Avertissement“</anmerkung>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-14-einkommende-fremde">
         <stueck when="1772" nr="14" von="56" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="15" von="57" bis="58" />
-        <werk kat="rezension" ref="mueller-deutsche1-3" />
-        <ort ref="magdeburg"></ort>
+    <beitrag id="1772-15-rezension-mueller-deutsche1-3">
+        <stueck when="1772" nr="15" von="57" bis="58"/>
+        <werk kat="rezension" ref="mueller-deutsche1-3"/>
+        <ort ref="magdeburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="15" von="58" />
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1772-15-lokalnachrichten">
+        <stueck when="1772" nr="15" von="58"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="15" von="58" bis="60" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-15-weltnachrichten">
+        <stueck when="1772" nr="15" von="58" bis="60"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="15" von="60"  order="1"/>
-        <kategorie ref="vorladung" />
+    <beitrag id="1772-15-vorladung">
+        <stueck when="1772" nr="15" von="60" order="1"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="15" von="60"  order="2"/>
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1772-15-lotterie">
+        <stueck when="1772" nr="15" von="60" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-15-einkommende-fremde">
         <stueck when="1772" nr="15" von="60" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-15-wechselkurse">
         <stueck when="1772" nr="15" von="60" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="16" von="61" />
-        <werk kat="rezension" ref="scheibe-anekdoten" />
-        <werk kat="rezension" ref="hellfried-briefe" />
-        <ort ref="luebeck"></ort>
+    <beitrag id="1772-16-rezension-scheibe-anekdoten">
+        <stueck when="1772" nr="16" von="61"/>
+        <werk kat="rezension" ref="scheibe-anekdoten"/>
+        <werk kat="rezension" ref="hellfried-briefe"/>
+        <ort ref="luebeck"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="16" von="61" bis="62" />
-        <werk kat="rezension" ref="hupel-dienstfreundliches" />
+    <beitrag id="1772-16-rezension-hupel-dienstfreundliches">
+        <stueck when="1772" nr="16" von="61" bis="62"/>
+        <werk kat="rezension" ref="hupel-dienstfreundliches"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="16" von="62" bis="64" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-16-weltnachrichten">
+        <stueck when="1772" nr="16" von="62" bis="64"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-16-einkommende-fremde">
         <stueck when="1772" nr="16" von="64"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="17" von="65" bis="66" />
-        <werk kat="rezension" ref="bahrdt-briefe" s="Bd. 2" />
-        <ort ref="erfurt"></ort>
+    <beitrag id="1772-17-rezension-bahrdt-briefe">
+        <stueck when="1772" nr="17" von="65" bis="66"/>
+        <werk kat="rezension" ref="bahrdt-briefe" s="Bd. 2"/>
+        <ort ref="erfurt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="17" von="66" />
-        <kategorie ref="lokalnachrichten" />
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1772-17-lokalnachrichten">
+        <stueck when="1772" nr="17" von="66"/>
+        <kategorie ref="lokalnachrichten"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="17" von="66" bis="68" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-17-weltnachrichten">
+        <stueck when="1772" nr="17" von="66" bis="68"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-17-wechselkurse">
         <stueck when="1772" nr="17" von="68"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="18" von="69" />
-        <werk kat="rezension" ref="schummel-empfindsame" s="Bd. 1–2" />
-        <ort ref="wittenberg"></ort>
-        <ort ref="zerbst"></ort>
+    <beitrag id="1772-18-rezension-schummel-empfindsame">
+        <stueck when="1772" nr="18" von="69"/>
+        <werk kat="rezension" ref="schummel-empfindsame" s="Bd. 1–2"/>
+        <ort ref="wittenberg"/>
+        <ort ref="zerbst"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="18" von="69" bis="70" />
-        <werk kat="rezension" ref="koken-kern" />
-        <ort ref="bremen"></ort>
+    <beitrag id="1772-18-rezension-koken-kern">
+        <stueck when="1772" nr="18" von="69" bis="70"/>
+        <werk kat="rezension" ref="koken-kern"/>
+        <ort ref="bremen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="18" von="70" bis="72" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-18-weltnachrichten">
+        <stueck when="1772" nr="18" von="70" bis="72"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-18-lokalnachrichten">
         <stueck when="1772" nr="18" von="72" order="1"/>
-        <kategorie ref="lokalnachrichten" />
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-18-einkommende-fremde">
         <stueck when="1772" nr="18" von="72" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="19" von="73" />
-        <kategorie ref="gedicht"></kategorie>
+    <beitrag id="1772-19-du-der-von-habsburgs-stamm-die-zweige-bluehn-gesehen">
+        <stueck when="1772" nr="19" von="73"/>
+        <kategorie ref="gedicht"/>
         <incipit>Du der von Habsburgs Stamm die Zweige blühn gesehen…</incipit>
         <anmerkung>An des wirklichgeheimen Stats- und Kriegsminister, Oberburggrafen und Tribunals-Präsidenten Herrn von Rohd Excellenz, bey Dero Zurückkunft nach Preußen aus Wien.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="19" von="74"  order="1"/>
-        <werk kat="rezension" ref="journal-prediger1-2" />
-        <ort ref="halle"></ort>
+    <beitrag id="1772-19-rezension-journal-prediger1-2">
+        <stueck when="1772" nr="19" von="74" order="1"/>
+        <werk kat="rezension" ref="journal-prediger1-2"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="19" von="74"  order="2"/>
-        <werk kat="rezension" ref="schenk-fabeln" />
-        <ort ref="breslau"></ort>
+    <beitrag id="1772-19-rezension-schenk-fabeln">
+        <stueck when="1772" nr="19" von="74" order="2"/>
+        <werk kat="rezension" ref="schenk-fabeln"/>
+        <ort ref="breslau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="19" von="74" bis="76" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-19-weltnachrichten">
+        <stueck when="1772" nr="19" von="74" bis="76"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="19" von="76"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-19-lokalanzeigen">
+        <stueck when="1772" nr="19" von="76" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="19" von="76"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-19-einkommende-fremde">
+        <stueck when="1772" nr="19" von="76" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-19-wechselkurse">
         <stueck when="1772" nr="19" von="76" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="20" von="77" />
-        <werk kat="rezension" ref="michaelis-raisonnement2" />
-        <ort ref="frankfurt"></ort>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-20-rezension-michaelis-raisonnement2">
+        <stueck when="1772" nr="20" von="77"/>
+        <werk kat="rezension" ref="michaelis-raisonnement2"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="20" von="77" bis="78" />
-        <werk kat="rezension" ref="cramer-unterhaltungen-missethaeter" />
-        <ort ref="zuerich"></ort>
+    <beitrag id="1772-20-rezension-cramer-unterhaltungen-missethaeter">
+        <stueck when="1772" nr="20" von="77" bis="78"/>
+        <werk kat="rezension" ref="cramer-unterhaltungen-missethaeter"/>
+        <ort ref="zuerich"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="20" von="78" bis="80" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-20-weltnachrichten">
+        <stueck when="1772" nr="20" von="78" bis="80"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="20" von="80"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-20-lokalanzeigen">
+        <stueck when="1772" nr="20" von="80" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="20" von="80"  order="2"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-20-lotterie">
+        <stueck when="1772" nr="20" von="80" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="20" von="80"  order="3"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-20-einkommende-fremde">
+        <stueck when="1772" nr="20" von="80" order="3"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="21" von="81" />
-        <werk kat="rezension" ref="gedanken-geistlichen" />
-        <ort ref="zuerich"></ort>
+    <beitrag id="1772-21-rezension-gedanken-geistlichen">
+        <stueck when="1772" nr="21" von="81"/>
+        <werk kat="rezension" ref="gedanken-geistlichen"/>
+        <ort ref="zuerich"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="21" von="81" bis="82" />
-        <werk kat="rezension" ref="heilige-andachtsuebungen-krankenbett" />
-        <ort ref="frankfurt"></ort>
+    <beitrag id="1772-21-rezension-heilige-andachtsuebungen-krankenbett">
+        <stueck when="1772" nr="21" von="81" bis="82"/>
+        <werk kat="rezension" ref="heilige-andachtsuebungen-krankenbett"/>
+        <ort ref="frankfurt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="21" von="82" bis="84" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-21-weltnachrichten">
+        <stueck when="1772" nr="21" von="82" bis="84"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="21" von="84"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-21-lokalanzeigen">
+        <stueck when="1772" nr="21" von="84" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="21" von="84"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-21-einkommende-fremde">
+        <stueck when="1772" nr="21" von="84" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-21-wechselkurse">
         <stueck when="1772" nr="21" von="84" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
     
-    <beitrag>
-        <stueck when="1772" nr="22" von="85" bis="86" />
-        <werk kat="rezension" ref="hermes-sophie" s="Bd. 3" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-22-rezension-hermes-sophie">
+        <stueck when="1772" nr="22" von="85" bis="86"/>
+        <werk kat="rezension" ref="hermes-sophie" s="Bd. 3"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="22" von="86" bis="88" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-22-weltnachrichten">
+        <stueck when="1772" nr="22" von="86" bis="88"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="22" von="88"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-22-lokalanzeigen">
+        <stueck when="1772" nr="22" von="88" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="22" von="88"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-22-einkommende-fremde">
+        <stueck when="1772" nr="22" von="88" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="23" von="89" />
-        <werk kat="rezension" ref="naturlehre-heiligeschrift" />
-        <ort ref="frankfurt"></ort>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-23-rezension-naturlehre-heiligeschrift">
+        <stueck when="1772" nr="23" von="89"/>
+        <werk kat="rezension" ref="naturlehre-heiligeschrift"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="23" von="89" bis="90" />
-        <werk kat="rezension" ref="krueger-neuesammlung" />
-        <ort ref="gotha"></ort>
+    <beitrag id="1772-23-rezension-krueger-neuesammlung">
+        <stueck when="1772" nr="23" von="89" bis="90"/>
+        <werk kat="rezension" ref="krueger-neuesammlung"/>
+        <ort ref="gotha"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="23" von="90" bis="92" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-23-weltnachrichten">
+        <stueck when="1772" nr="23" von="90" bis="92"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="23" von="92"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-23-lokalanzeigen">
+        <stueck when="1772" nr="23" von="92" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="23" von="92"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-23-einkommende-fremde">
+        <stueck when="1772" nr="23" von="92" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-23-wechselkurse">
         <stueck when="1772" nr="23" von="92" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="24" von="93" />
-        <werk kat="rezension" ref="beschaeftigungen-der-gottseligkeit" ></werk>
-        <ort ref="nuernberg"></ort>
+    <beitrag id="1772-24-rezension-beschaeftigungen-der-gottseligkeit">
+        <stueck when="1772" nr="24" von="93"/>
+        <werk kat="rezension" ref="beschaeftigungen-der-gottseligkeit"/>
+        <ort ref="nuernberg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="24" von="93" bis="94" />
-        <werk kat="rezension" ref="vattel-schriften" ></werk>
-        <ort ref="nuernberg"></ort>
+    <beitrag id="1772-24-rezension-vattel-schriften">
+        <stueck when="1772" nr="24" von="93" bis="94"/>
+        <werk kat="rezension" ref="vattel-schriften"/>
+        <ort ref="nuernberg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="24" von="94" bis="96" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-24-weltnachrichten">
+        <stueck when="1772" nr="24" von="94" bis="96"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="24" von="96"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-24-lokalanzeigen">
+        <stueck when="1772" nr="24" von="96" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="24" von="96"  order="2"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-24-lotterie">
+        <stueck when="1772" nr="24" von="96" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="25" von="97" bis="98" />
-        <kategorie ref="aufsatz"></kategorie>
+    <beitrag id="1772-25-eine-ganze-bude-voll-opern-und-operetten">
+        <stueck when="1772" nr="25" von="97" bis="98"/>
+        <kategorie ref="aufsatz"/>
         <incipit>Eine ganze Bude voll Opern und Operetten!…</incipit>
         <anmerkung>Vergleichende Betrachtung zu mehreren Opern und Operetten: Der Aerntekranz, eine kompische Oper von Weiße (Leipzig 1771), Das Gärtnermädchen, eine komische Oper von Musäus (Weimar 1771), Das Rosenfest, eine Operette (Weimar 1771), Der Deserteur, eine Operette aus dem Französischen des Hrn. Sedaine (Mannheim 1771), Der Kaufmann von Smyrna, von Chamford (o. O. 1770), Das Milchmädchen und die beiden Jäger, aus dem Französischen (Mannheim 1771), Der Dorfbalbier von Weiße (Leipzig 1772), Die Apotheke (Leipzig 1772).</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="25" von="98" bis="100" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-25-weltnachrichten">
+        <stueck when="1772" nr="25" von="98" bis="100"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="25" von="100"  order="1"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-25-einkommende-fremde">
+        <stueck when="1772" nr="25" von="100" order="1"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-25-wechselkurse">
         <stueck when="1772" nr="25" von="100" order="2"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag id="hamann-herder-ursprung">
-        <stueck when="1772" nr="26" von="101" bis="102" />
-        <werk kat="rezension" ref="herder-abhandlung-ursprung"></werk>
-        <ort ref="berlin"></ort>
+        <stueck when="1772" nr="26" von="101" bis="102"/>
+        <werk kat="rezension" ref="herder-abhandlung-ursprung"/>
+        <ort ref="berlin"/>
         <akteur ref="hamann">vgl. den Wiederabdruck in den <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235968">Zwo Recensionen</wwwlink></akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="26" von="102" />
-        <kategorie ref="lokalnachrichten" />
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1772-26-lokalnachrichten">
+        <stueck when="1772" nr="26" von="102"/>
+        <kategorie ref="lokalnachrichten"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="26" von="102" bis="104" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-26-weltnachrichten">
+        <stueck when="1772" nr="26" von="102" bis="104"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-26-lokalanzeigen">
         <stueck when="1772" nr="26" von="104" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-26-einkommende-fremde">
         <stueck when="1772" nr="26" von="104" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="27" von="105" bis="106" />
-        <werk kat="rezension" ref="gomperz-billette" />
-        <ort ref="kgsb"></ort>
+    <beitrag id="1772-27-rezension-gomperz-billette">
+        <stueck when="1772" nr="27" von="105" bis="106"/>
+        <werk kat="rezension" ref="gomperz-billette"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="27" von="106" bis="108" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-27-weltnachrichten">
+        <stueck when="1772" nr="27" von="106" bis="108"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="27" von="108"  order="1"/>
-        <kategorie ref="vorladung" />
+    <beitrag id="1772-27-vorladung">
+        <stueck when="1772" nr="27" von="108" order="1"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="27" von="108"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-27-einkommende-fremde">
+        <stueck when="1772" nr="27" von="108" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-27-wechselkurse">
         <stueck when="1772" nr="27" von="108" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="28" von="109"  order="1"/>
-        <werk kat="rezension" ref="mueller-genauenachrichten" />
-        <ort ref="pressburg"></ort>
+    <beitrag id="1772-28-rezension-mueller-genauenachrichten">
+        <stueck when="1772" nr="28" von="109" order="1"/>
+        <werk kat="rezension" ref="mueller-genauenachrichten"/>
+        <ort ref="pressburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="28" von="109"  order="2"/>
-        <werk kat="rezension" ref="heinse-sinngedichte" />
-        <ort ref="halberstadt"></ort>
+    <beitrag id="1772-28-rezension-heinse-sinngedichte">
+        <stueck when="1772" nr="28" von="109" order="2"/>
+        <werk kat="rezension" ref="heinse-sinngedichte"/>
+        <ort ref="halberstadt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="28" von="110" bis="112" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-28-weltnachrichten">
+        <stueck when="1772" nr="28" von="110" bis="112"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="28" von="112"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-28-lotterie">
+        <stueck when="1772" nr="28" von="112" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="28" von="112"  order="2"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-28-lokalanzeigen">
+        <stueck when="1772" nr="28" von="112" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="28" von="112"  order="3"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-28-einkommende-fremde">
+        <stueck when="1772" nr="28" von="112" order="3"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="29" von="113" bis="114" />
-        <werk kat="rezension" ref="haller-usong" />
-        <ort ref="bern"></ort>
+    <beitrag id="1772-29-rezension-haller-usong">
+        <stueck when="1772" nr="29" von="113" bis="114"/>
+        <werk kat="rezension" ref="haller-usong"/>
+        <ort ref="bern"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="29" von="114" bis="116" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-29-weltnachrichten">
+        <stueck when="1772" nr="29" von="114" bis="116"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="29" von="116"  order="1"/>
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1772-29-lokalnachrichten">
+        <stueck when="1772" nr="29" von="116" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="29" von="116"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-29-einkommende-fremde">
+        <stueck when="1772" nr="29" von="116" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-29-wechselkurse">
         <stueck when="1772" nr="29" von="116" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="30" von="117" />
-        <werk kat="rezension" ref="haller-briefe" />
-        <ort ref="bern"></ort>
+    <beitrag id="1772-30-rezension-haller-briefe">
+        <stueck when="1772" nr="30" von="117"/>
+        <werk kat="rezension" ref="haller-briefe"/>
+        <ort ref="bern"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="30" von="118" bis="120" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-30-weltnachrichten">
+        <stueck when="1772" nr="30" von="118" bis="120"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="30" von="120" />
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-30-einkommende-fremde">
+        <stueck when="1772" nr="30" von="120"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="31" von="121" bis="122" />
-        <werk kat="rezension" ref="mauvillon-werth-deutscherdichter" />
-        <ort ref="bern"></ort>
+    <beitrag id="1772-31-rezension-mauvillon-werth-deutscherdichter">
+        <stueck when="1772" nr="31" von="121" bis="122"/>
+        <werk kat="rezension" ref="mauvillon-werth-deutscherdichter"/>
+        <ort ref="bern"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="31" von="122" bis="124" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-31-weltnachrichten">
+        <stueck when="1772" nr="31" von="122" bis="124"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="31" von="124"  order="1"/>
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1772-31-lokalnachrichten">
+        <stueck when="1772" nr="31" von="124" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="31" von="124"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-31-einkommende-fremde">
+        <stueck when="1772" nr="31" von="124" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-31-wechselkurse">
         <stueck when="1772" nr="31" von="124" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="32" von="125" />
-        <werk kat="rezension" ref="haller-briefe" />
-        <ort ref="kgsb"></ort>
+    <beitrag id="1772-32-rezension-haller-briefe">
+        <stueck when="1772" nr="32" von="125"/>
+        <werk kat="rezension" ref="haller-briefe"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="32" von="125" bis="126" />
-        <werk kat="rezension" ref="haller-briefe" />
-        <ort ref="langensalza"></ort>
+    <beitrag id="1772-32-rezension-haller-briefe-II">
+        <stueck when="1772" nr="32" von="125" bis="126"/>
+        <werk kat="rezension" ref="haller-briefe"/>
+        <ort ref="langensalza"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="32" von="126" bis="128" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-32-weltnachrichten">
+        <stueck when="1772" nr="32" von="126" bis="128"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="32" von="128"  order="1"/>
-        <kategorie ref="aufsatz" />
+    <beitrag id="1772-32-aus-quecken-wurzeln-bier-zu-brauen">
+        <stueck when="1772" nr="32" von="128" order="1"/>
+        <kategorie ref="aufsatz"/>
         <titel>Aus Quecken-Wurzeln Bier zu brauen.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="32" von="128"  order="2"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-32-lotterie">
+        <stueck when="1772" nr="32" von="128" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="32" von="128"  order="3"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-32-lokalanzeigen">
+        <stueck when="1772" nr="32" von="128" order="3"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="32" von="128"  order="4"/>
-        <kategorie ref="gelehrte-nachrichten" />
+    <beitrag id="1772-32-gelehrte-nachrichten">
+        <stueck when="1772" nr="32" von="128" order="4"/>
+        <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>Der Siegertischen Buchhandlung in Liegnitz, für ein biblisches Wörterbuch</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="32" von="128"  order="5"/>
-        <kategorie ref="vorladung" />
+    <beitrag id="1772-32-vorladung">
+        <stueck when="1772" nr="32" von="128" order="5"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="32" von="128"  order="6"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-32-einkommende-fremde">
+        <stueck when="1772" nr="32" von="128" order="6"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="33" von="129" />
-        <werk kat="rezension" ref="voss-todesbetrachtungen" />
-        <ort ref="zuellichau"></ort>
+    <beitrag id="1772-33-rezension-voss-todesbetrachtungen">
+        <stueck when="1772" nr="33" von="129"/>
+        <werk kat="rezension" ref="voss-todesbetrachtungen"/>
+        <ort ref="zuellichau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="33" von="129" bis="130" />
-        <werk kat="rezension" ref="nonnenkloster-sophia" />
-        <ort ref="bayreuth"></ort>
+    <beitrag id="1772-33-rezension-nonnenkloster-sophia">
+        <stueck when="1772" nr="33" von="129" bis="130"/>
+        <werk kat="rezension" ref="nonnenkloster-sophia"/>
+        <ort ref="bayreuth"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="33" von="130" bis="132" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-33-weltnachrichten">
+        <stueck when="1772" nr="33" von="130" bis="132"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="33" von="132"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-33-lotterie">
+        <stueck when="1772" nr="33" von="132" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="33" von="132"  order="2"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-33-lokalanzeigen">
+        <stueck when="1772" nr="33" von="132" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="33" von="132"  order="3"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-33-einkommende-fremde">
+        <stueck when="1772" nr="33" von="132" order="3"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-33-wechselkurse">
         <stueck when="1772" nr="33" von="132" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="34" von="133" bis="134" />
-        <werk kat="rezension" ref="nonnenkloster-sophia" />
-        <ort ref="berlin"></ort>
+    <beitrag id="1772-34-rezension-nonnenkloster-sophia">
+        <stueck when="1772" nr="34" von="133" bis="134"/>
+        <werk kat="rezension" ref="nonnenkloster-sophia"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="34" von="134" bis="136" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-34-weltnachrichten">
+        <stueck when="1772" nr="34" von="134" bis="136"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="34" von="136"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-34-lotterie">
+        <stueck when="1772" nr="34" von="136" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="34" von="136"  order="2"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-34-lokalanzeigen">
+        <stueck when="1772" nr="34" von="136" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="34" von="136"  order="3"/>
-        <kategorie ref="buecher" />
+    <beitrag id="1772-34-buecher">
+        <stueck when="1772" nr="34" von="136" order="3"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="34" von="136"  order="4"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-34-einkommende-fremde">
+        <stueck when="1772" nr="34" von="136" order="4"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="35" von="137" />
-        <werk kat="rezension" ref="poetische-blumenlese-goettingen1772" />
-        <ort ref="goettingen"></ort>
+    <beitrag id="1772-35-rezension-poetische-blumenlese-goettingen1772">
+        <stueck when="1772" nr="35" von="137"/>
+        <werk kat="rezension" ref="poetische-blumenlese-goettingen1772"/>
+        <ort ref="goettingen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="35" von="137" bis="138" />
-        <werk kat="rezension" ref="westermann-sechspredigten" />
-        <ort ref="bremen"></ort>
+    <beitrag id="1772-35-rezension-westermann-sechspredigten">
+        <stueck when="1772" nr="35" von="137" bis="138"/>
+        <werk kat="rezension" ref="westermann-sechspredigten"/>
+        <ort ref="bremen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="35" von="138" />
-        <kategorie ref="lokalnachrichten" />
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1772-35-lokalnachrichten">
+        <stueck when="1772" nr="35" von="138"/>
+        <kategorie ref="lokalnachrichten"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="35" von="138" bis="140" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-35-weltnachrichten">
+        <stueck when="1772" nr="35" von="138" bis="140"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="35" von="140"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-35-lokalanzeigen">
+        <stueck when="1772" nr="35" von="140" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="35" von="140"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-35-einkommende-fremde">
+        <stueck when="1772" nr="35" von="140" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-35-wechselkurse">
         <stueck when="1772" nr="35" von="140" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="36" von="141" bis="142" />
-        <werk kat="rezension" ref="bemerkungen-kurpfaelzisch1770" />
-        <ort ref="mannheim"></ort>
+    <beitrag id="1772-36-rezension-bemerkungen-kurpfaelzisch1770">
+        <stueck when="1772" nr="36" von="141" bis="142"/>
+        <werk kat="rezension" ref="bemerkungen-kurpfaelzisch1770"/>
+        <ort ref="mannheim"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="36" von="142" bis="144" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-36-weltnachrichten">
+        <stueck when="1772" nr="36" von="142" bis="144"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="36" von="144"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-36-lokalanzeigen">
+        <stueck when="1772" nr="36" von="144" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="36" von="144"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-36-einkommende-fremde">
+        <stueck when="1772" nr="36" von="144" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="37" von="145" bis="146" />
-        <kategorie ref="vorlesungsverzeichnis"></kategorie>
+    <beitrag id="1772-37-akademische-vorlesungen-auf-das-sommerhalbejahr-1772">
+        <stueck when="1772" nr="37" von="145" bis="146"/>
+        <kategorie ref="vorlesungsverzeichnis"/>
         <titel>Akademische Vorlesungen auf das Sommerhalbejahr 1772.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="37" von="146" bis="147" />
-        <kategorie ref="theaterkritik" />
+    <beitrag id="1772-37-theaterkritik">
+        <stueck when="1772" nr="37" von="146" bis="147"/>
+        <kategorie ref="theaterkritik"/>
         <anmerkung>Über die Aufführung von Lessings Emilia Galotti durch die Schuchische Schauspielergesellschaft</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="37" von="147" bis="148" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-37-weltnachrichten">
+        <stueck when="1772" nr="37" von="147" bis="148"/>
+        <kategorie ref="weltnachrichten"/>
         <anmerkung>u.a. sehr positive Biographie über Johann Friedrich Struensee</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="37" von="148"  order="1"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-37-einkommende-fremde">
+        <stueck when="1772" nr="37" von="148" order="1"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-37-wechselkurse">
         <stueck when="1772" nr="37" von="148" order="2"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="38" von="149" bis="150" />
-        <werk kat="rezension" ref="muenchhausen-monathliche" />
-        <ort ref="hannover"></ort>
+    <beitrag id="1772-38-rezension-muenchhausen-monathliche">
+        <stueck when="1772" nr="38" von="149" bis="150"/>
+        <werk kat="rezension" ref="muenchhausen-monathliche"/>
+        <ort ref="hannover"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="38" von="150" bis="152" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-38-weltnachrichten">
+        <stueck when="1772" nr="38" von="150" bis="152"/>
+        <kategorie ref="weltnachrichten"/>
         <anmerkung>u.a. umständlicher Bericht über das Todesurteil und die Exekution von Johann Friedrich Struensee</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="38" von="152"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-38-lotterie">
+        <stueck when="1772" nr="38" von="152" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="38" von="152"  order="2"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-38-lokalanzeigen">
+        <stueck when="1772" nr="38" von="152" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="38" von="152"  order="3"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-38-einkommende-fremde">
+        <stueck when="1772" nr="38" von="152" order="3"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="39" von="153" bis="154" />
-        <werk kat="rezension" ref="lachmann-versuch-kirchengeschichte2-3" />
-        <ort ref="lemgo"></ort>
+    <beitrag id="1772-39-rezension-lachmann-versuch-kirchengeschichte2-3">
+        <stueck when="1772" nr="39" von="153" bis="154"/>
+        <werk kat="rezension" ref="lachmann-versuch-kirchengeschichte2-3"/>
+        <ort ref="lemgo"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="39" von="154" bis="156" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-39-weltnachrichten">
+        <stueck when="1772" nr="39" von="154" bis="156"/>
+        <kategorie ref="weltnachrichten"/>
         <anmerkung>u.a. Fortsetzung des umständlichen Berichts über die Exekution von Johann Friedrich Struensee</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="39" von="156"  order="1"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-39-einkommende-fremde">
+        <stueck when="1772" nr="39" von="156" order="1"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-39-wechselkurse">
         <stueck when="1772" nr="39" von="156" order="2"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="40" von="157" bis="158" />
-        <werk kat="rezension" ref="boden-redendestumme1-3" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-40-rezension-boden-redendestumme1-3">
+        <stueck when="1772" nr="40" von="157" bis="158"/>
+        <werk kat="rezension" ref="boden-redendestumme1-3"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="40" von="158" />
-        <werk kat="rezension" ref="sturm-predigten1" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-40-rezension-sturm-predigten1">
+        <stueck when="1772" nr="40" von="158"/>
+        <werk kat="rezension" ref="sturm-predigten1"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="40" von="158" bis="160" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-40-weltnachrichten">
+        <stueck when="1772" nr="40" von="158" bis="160"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="40" von="160"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-40-lokalanzeigen">
+        <stueck when="1772" nr="40" von="160" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="40" von="160"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-40-einkommende-fremde">
+        <stueck when="1772" nr="40" von="160" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="41" von="161" bis="162" />
-        <werk kat="rezension" ref="mueller-briefe-geluebde" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-41-rezension-mueller-briefe-geluebde">
+        <stueck when="1772" nr="41" von="161" bis="162"/>
+        <werk kat="rezension" ref="mueller-briefe-geluebde"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="41" von="162" bis="164" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-41-weltnachrichten">
+        <stueck when="1772" nr="41" von="162" bis="164"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="41" von="164"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-41-lokalanzeigen">
+        <stueck when="1772" nr="41" von="164" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="41" von="164"  order="2"/>
-        <kategorie ref="vorladung" />
+    <beitrag id="1772-41-vorladung">
+        <stueck when="1772" nr="41" von="164" order="2"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="41" von="164"  order="3"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-41-einkommende-fremde">
+        <stueck when="1772" nr="41" von="164" order="3"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-41-wechselkurse">
         <stueck when="1772" nr="41" von="164" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="42" von="165" bis="166" />
-        <werk kat="rezension" ref="claparede-betrachtungen" />
-        <ort ref="zuerich"></ort>
+    <beitrag id="1772-42-rezension-claparede-betrachtungen">
+        <stueck when="1772" nr="42" von="165" bis="166"/>
+        <werk kat="rezension" ref="claparede-betrachtungen"/>
+        <ort ref="zuerich"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="42" von="166" bis="168" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-42-weltnachrichten">
+        <stueck when="1772" nr="42" von="166" bis="168"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="42" von="168"  order="1"/>
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-42-lotterie">
+        <stueck when="1772" nr="42" von="168" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="42" von="168"  order="2"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-42-lokalanzeigen">
+        <stueck when="1772" nr="42" von="168" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="42" von="168"  order="3"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-42-einkommende-fremde">
+        <stueck when="1772" nr="42" von="168" order="3"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="43" von="169" bis="170" />
-        <werk kat="rezension" ref="swedenborg-neuesjerusalem" />
-        <ort ref="zuerich"></ort>
+    <beitrag id="1772-43-rezension-swedenborg-neuesjerusalem">
+        <stueck when="1772" nr="43" von="169" bis="170"/>
+        <werk kat="rezension" ref="swedenborg-neuesjerusalem"/>
+        <ort ref="zuerich"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="43" von="170"  order="1"/>
-        <werk kat="rezension" ref="swedenborg-briefe" />
-        <ort ref="zuerich"></ort>
+    <beitrag id="1772-43-rezension-swedenborg-briefe">
+        <stueck when="1772" nr="43" von="170" order="1"/>
+        <werk kat="rezension" ref="swedenborg-briefe"/>
+        <ort ref="zuerich"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="43" von="170"  order="2"/>
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1772-43-lokalnachrichten">
+        <stueck when="1772" nr="43" von="170" order="2"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="43" von="170" bis="171" />
-        <akteur ref="teske-jg" kat="nachruf" />
+    <beitrag id="1772-43-teske-jg-nachruf">
+        <stueck when="1772" nr="43" von="170" bis="171"/>
+        <akteur ref="teske-jg" kat="nachruf"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="43" von="171" />
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-43-lotterie">
+        <stueck when="1772" nr="43" von="171"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="43" von="171" bis="172" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-43-weltnachrichten">
+        <stueck when="1772" nr="43" von="171" bis="172"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="43" von="172"  order="1"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-43-einkommende-fremde">
+        <stueck when="1772" nr="43" von="172" order="1"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-43-wechselkurse">
         <stueck when="1772" nr="43" von="172" order="2"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="44" von="173" bis="174" />
-        <werk kat="rezension" ref="buesching-magazin" s="Bd. 5" ></werk>
-        <ort ref="hamburg"></ort>
+    <beitrag id="1772-44-rezension-buesching-magazin">
+        <stueck when="1772" nr="44" von="173" bis="174"/>
+        <werk kat="rezension" ref="buesching-magazin" s="Bd. 5"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="44" von="174" bis="176" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-44-weltnachrichten">
+        <stueck when="1772" nr="44" von="174" bis="176"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="44" von="176"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
+    <beitrag id="1772-44-lokalanzeigen">
+        <stueck when="1772" nr="44" von="176" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="44" von="176"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-44-einkommende-fremde">
+        <stueck when="1772" nr="44" von="176" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="45" von="177" />
-        <werk kat="rezension" ref="steiger-briefe-elpin" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-45-rezension-steiger-briefe-elpin">
+        <stueck when="1772" nr="45" von="177"/>
+        <werk kat="rezension" ref="steiger-briefe-elpin"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="45" von="177" bis="178" />
-        <werk kat="rezension" ref="fuchs-gedichte" ></werk>
-        <ort ref="dresden"></ort>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-45-rezension-fuchs-gedichte">
+        <stueck when="1772" nr="45" von="177" bis="178"/>
+        <werk kat="rezension" ref="fuchs-gedichte"/>
+        <ort ref="dresden"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="45" von="178" />
-        <werk kat="rezension" ref="hausen-versuch-geschichte" ></werk>
-        <ort ref="halle"></ort>
+    <beitrag id="1772-45-rezension-hausen-versuch-geschichte">
+        <stueck when="1772" nr="45" von="178"/>
+        <werk kat="rezension" ref="hausen-versuch-geschichte"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="45" von="178" bis="180" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-45-weltnachrichten">
+        <stueck when="1772" nr="45" von="178" bis="180"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="45" von="180"  order="1"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-45-einkommende-fremde">
+        <stueck when="1772" nr="45" von="180" order="1"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-45-wechselkurse">
         <stueck when="1772" nr="45" von="180" order="2"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="46" von="181" />
-        <werk kat="rezension" ref="schloezer-vorstellung" ></werk>
-        <ort ref="goettingen"></ort>
+    <beitrag id="1772-46-rezension-schloezer-vorstellung">
+        <stueck when="1772" nr="46" von="181"/>
+        <werk kat="rezension" ref="schloezer-vorstellung"/>
+        <ort ref="goettingen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="46" von="181" bis="182" />
-        <werk kat="rezension" ref="idalie-ungluecklich" ></werk>
-        <ort ref="breslau"></ort>
+    <beitrag id="1772-46-rezension-idalie-ungluecklich">
+        <stueck when="1772" nr="46" von="181" bis="182"/>
+        <werk kat="rezension" ref="idalie-ungluecklich"/>
+        <ort ref="breslau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="46" von="182" bis="184" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-46-weltnachrichten">
+        <stueck when="1772" nr="46" von="182" bis="184"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-46-lokalanzeigen">
         <stueck when="1772" nr="46" von="184" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="46" von="184"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-46-einkommende-fremde">
+        <stueck when="1772" nr="46" von="184" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="47" von="185" bis="186" />
-        <werk kat="rezension" ref="roque-abhandlung" ></werk>
-        <ort ref="hannover"></ort>
+    <beitrag id="1772-47-rezension-roque-abhandlung">
+        <stueck when="1772" nr="47" von="185" bis="186"/>
+        <werk kat="rezension" ref="roque-abhandlung"/>
+        <ort ref="hannover"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="47" von="186" bis="188" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-47-weltnachrichten">
+        <stueck when="1772" nr="47" von="186" bis="188"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-47-lokalanzeigen">
         <stueck when="1772" nr="47" von="188" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="47" von="188"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-47-einkommende-fremde">
+        <stueck when="1772" nr="47" von="188" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-47-wechselkurse">
         <stueck when="1772" nr="47" von="188" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="48" von="189" />
-        <werk kat="rezension" ref="felbiger-kunst" ></werk>
-        <ort ref="breslau"></ort>
+    <beitrag id="1772-48-rezension-felbiger-kunst">
+        <stueck when="1772" nr="48" von="189"/>
+        <werk kat="rezension" ref="felbiger-kunst"/>
+        <ort ref="breslau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="48" von="189" bis="190" />
-        <werk kat="rezension" ref="hunger-thrasybulus" ></werk>
-        <ort ref="dresden"></ort>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-48-rezension-hunger-thrasybulus">
+        <stueck when="1772" nr="48" von="189" bis="190"/>
+        <werk kat="rezension" ref="hunger-thrasybulus"/>
+        <ort ref="dresden"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-48-lokalnachrichten">
         <stueck when="1772" nr="48" von="190"/>
-        <kategorie ref="lokalnachrichten" />
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="48" von="190" bis="192" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-48-weltnachrichten">
+        <stueck when="1772" nr="48" von="190" bis="192"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-48-lokalanzeigen">
         <stueck when="1772" nr="48" von="192" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="48" von="192"  order="2"/>
-        <kategorie ref="einkommende-fremde" />
+    <beitrag id="1772-48-einkommende-fremde">
+        <stueck when="1772" nr="48" von="192" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="49" von="193" bis="194" />
-        <werk kat="rezension" ref="froriep-bibliothek-theologisch1" ></werk>
-        <ort ref="hannover"></ort>
+    <beitrag id="1772-49-rezension-froriep-bibliothek-theologisch1">
+        <stueck when="1772" nr="49" von="193" bis="194"/>
+        <werk kat="rezension" ref="froriep-bibliothek-theologisch1"/>
+        <ort ref="hannover"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-49-lokalnachrichten">
         <stueck when="1772" nr="49" von="194"/>
-        <kategorie ref="lokalnachrichten" />
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="49" von="194" bis="196" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-49-weltnachrichten">
+        <stueck when="1772" nr="49" von="194" bis="196"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-49-lokalanzeigen">
         <stueck when="1772" nr="49" von="196" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-49-wechselkurse">
         <stueck when="1772" nr="49" von="196" order="2"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="50" von="197" bis="198" />
-        <kategorie ref="gedicht"></kategorie>
-        <kategorie ref="kommentar"></kategorie>
-        <akteur ref="karsch"></akteur>
-        <ort ref="kgsb"></ort>
+    <beitrag id="1772-50-karsch-gedicht">
+        <stueck when="1772" nr="50" von="197" bis="198"/>
+        <kategorie ref="gedicht"/>
+        <kategorie ref="kommentar"/>
+        <akteur ref="karsch"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="50" von="198" bis="199" />
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1772-50-lokalnachrichten">
+        <stueck when="1772" nr="50" von="198" bis="199"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="50" von="199" bis="200" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-50-weltnachrichten">
+        <stueck when="1772" nr="50" von="199" bis="200"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-50-lokalanzeigen">
         <stueck when="1772" nr="50" von="200" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-50-lotterie">
         <stueck when="1772" nr="50" von="200" order="2"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-50-einkommende-fremde">
         <stueck when="1772" nr="50" von="200" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="51" von="201"  order="1"/>
-        <werk kat="rezension" ref="teller-kunst-predigen" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-51-rezension-teller-kunst-predigen">
+        <stueck when="1772" nr="51" von="201" order="1"/>
+        <werk kat="rezension" ref="teller-kunst-predigen"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="51" von="201"  order="2"/>
-        <werk kat="rezension" ref="freymuethige-briefe-standesperson" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-51-rezension-freymuethige-briefe-standesperson">
+        <stueck when="1772" nr="51" von="201" order="2"/>
+        <werk kat="rezension" ref="freymuethige-briefe-standesperson"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="51" von="202" />
-        <werk kat="rezension" ref="scharnweber-beurtheilung" ></werk>
-        <ort ref="frankfurt"></ort>
+    <beitrag id="1772-51-rezension-scharnweber-beurtheilung">
+        <stueck when="1772" nr="51" von="202"/>
+        <werk kat="rezension" ref="scharnweber-beurtheilung"/>
+        <ort ref="frankfurt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="51" von="202" bis="204" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-51-weltnachrichten">
+        <stueck when="1772" nr="51" von="202" bis="204"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-51-lokalanzeigen">
         <stueck when="1772" nr="51" von="204" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-51-einkommende-fremde">
         <stueck when="1772" nr="51" von="204" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-51-wechselkurse">
         <stueck when="1772" nr="51" von="204" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="52" von="205" bis="206" />
-        <werk kat="rezension" ref="novis-actis78-82" ></werk>
-        <ort ref="weimar"></ort>
+    <beitrag id="1772-52-rezension-novis-actis78-82">
+        <stueck when="1772" nr="52" von="205" bis="206"/>
+        <werk kat="rezension" ref="novis-actis78-82"/>
+        <ort ref="weimar"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-52-buecher">
         <stueck when="1772" nr="52" von="206" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-52-lokalnachrichten">
         <stueck when="1772" nr="52" von="206" order="2"/>
-        <kategorie ref="lokalnachrichten" />
-        <kategorie ref="lotterie" />
+        <kategorie ref="lokalnachrichten"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="52" von="206" bis="208" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-52-weltnachrichten">
+        <stueck when="1772" nr="52" von="206" bis="208"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-52-lokalanzeigen">
         <stueck when="1772" nr="52" von="208" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-52-einkommende-fremde">
         <stueck when="1772" nr="52" von="208" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="53" von="209" />
-        <werk kat="rezension" ref="mosheim-abhandlung-moralisch" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-53-rezension-mosheim-abhandlung-moralisch">
+        <stueck when="1772" nr="53" von="209"/>
+        <werk kat="rezension" ref="mosheim-abhandlung-moralisch"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-53-buecher">
         <stueck when="1772" nr="53" von="209" bis="210"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="53" von="210" bis="212" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-53-weltnachrichten">
+        <stueck when="1772" nr="53" von="210" bis="212"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-53-lokalanzeigen">
         <stueck when="1772" nr="53" von="212" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-53-einkommende-fremde">
         <stueck when="1772" nr="53" von="212" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-53-wechselkurse">
         <stueck when="1772" nr="53" von="212" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
     
-    <beitrag>
-        <stueck when="1772" nr="54" von="213" bis="213" />
-        <werk kat="rezension" ref="albrecht-raub" ></werk>
-        <ort ref="warschau"></ort>
+    <beitrag id="1772-54-rezension-albrecht-raub">
+        <stueck when="1772" nr="54" von="213" bis="213"/>
+        <werk kat="rezension" ref="albrecht-raub"/>
+        <ort ref="warschau"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-54-buecher">
         <stueck when="1772" nr="54" von="214"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="54" von="214" bis="216" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-54-weltnachrichten">
+        <stueck when="1772" nr="54" von="214" bis="216"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-54-lokalanzeigen">
         <stueck when="1772" nr="54" von="216" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-54-einkommende-fremde">
         <stueck when="1772" nr="54" von="216" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     
-    <beitrag>
-        <stueck when="1772" nr="55" von="218" bis="220" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-55-weltnachrichten">
+        <stueck when="1772" nr="55" von="218" bis="220"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-55-lokalanzeigen">
         <stueck when="1772" nr="55" von="220" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-55-einkommende-fremde">
         <stueck when="1772" nr="55" von="220" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-55-wechselkurse">
         <stueck when="1772" nr="55" von="220" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="56" von="221" bis="222" />
-        <werk kat="rezension" ref="kuetner-horaz" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-56-rezension-kuetner-horaz">
+        <stueck when="1772" nr="56" von="221" bis="222"/>
+        <werk kat="rezension" ref="kuetner-horaz"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="56" von="222" bis="224" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-56-weltnachrichten">
+        <stueck when="1772" nr="56" von="222" bis="224"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-56-lotterie">
         <stueck when="1772" nr="56" von="224" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-56-lokalanzeigen">
         <stueck when="1772" nr="56" von="224" order="2"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-56-einkommende-fremde">
         <stueck when="1772" nr="56" von="224" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="57" von="225" />
-        <werk kat="rezension" ref="mayer-lehre" ></werk>
-        <ort ref="frankfurt"></ort>
+    <beitrag id="1772-57-rezension-mayer-lehre">
+        <stueck when="1772" nr="57" von="225"/>
+        <werk kat="rezension" ref="mayer-lehre"/>
+        <ort ref="frankfurt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="57" von="226" />
-        <werk kat="rezension" ref="journal-liebhaber2" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-57-rezension-journal-liebhaber2">
+        <stueck when="1772" nr="57" von="226"/>
+        <werk kat="rezension" ref="journal-liebhaber2"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="57" von="226" bis="228" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-57-weltnachrichten">
+        <stueck when="1772" nr="57" von="226" bis="228"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-57-lokalanzeigen">
         <stueck when="1772" nr="57" von="228" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-57-einkommende-fremde">
         <stueck when="1772" nr="57" von="228" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-57-wechselkurse">
         <stueck when="1772" nr="57" von="228" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
     
-    <beitrag>
-        <stueck when="1772" nr="58" von="229" />
-        <werk kat="rezension" ref="merkwuerdige-pohlnischen-briefe" ></werk>
+    <beitrag id="1772-58-rezension-merkwuerdige-pohlnischen-briefe">
+        <stueck when="1772" nr="58" von="229"/>
+        <werk kat="rezension" ref="merkwuerdige-pohlnischen-briefe"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="58" von="229" bis="230" />
-        <werk kat="rezension" ref="schirach-biographie2" ></werk>
-        <ort ref="halle"></ort>
+    <beitrag id="1772-58-rezension-schirach-biographie2">
+        <stueck when="1772" nr="58" von="229" bis="230"/>
+        <werk kat="rezension" ref="schirach-biographie2"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="58" von="230" bis="232" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-58-weltnachrichten">
+        <stueck when="1772" nr="58" von="230" bis="232"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-58-lokalanzeigen">
         <stueck when="1772" nr="58" von="232" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-58-einkommende-fremde">
         <stueck when="1772" nr="58" von="232" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="59" von="233" bis="234" />
-        <werk kat="rezension" ref="bahrdt-freye" ></werk>
-        <ort ref="halle"></ort>
+    <beitrag id="1772-59-rezension-bahrdt-freye">
+        <stueck when="1772" nr="59" von="233" bis="234"/>
+        <werk kat="rezension" ref="bahrdt-freye"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="59" von="234" bis="236" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-59-weltnachrichten">
+        <stueck when="1772" nr="59" von="234" bis="236"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-59-lotterie">
         <stueck when="1772" nr="59" von="236" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-59-lokalanzeigen">
         <stueck when="1772" nr="59" von="236" order="2"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-59-einkommende-fremde">
         <stueck when="1772" nr="59" von="236" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-59-wechselkurse">
         <stueck when="1772" nr="59" von="236" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="60" von="237" />
-        <werk kat="rezension" ref="wichmann-geschichte-frauenzimmer" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-60-rezension-wichmann-geschichte-frauenzimmer">
+        <stueck when="1772" nr="60" von="237"/>
+        <werk kat="rezension" ref="wichmann-geschichte-frauenzimmer"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="60" von="237" bis="238" />
-        <werk kat="rezension" ref="chatolais-versuch-kinder-unterricht" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-60-rezension-chatolais-versuch-kinder-unterricht">
+        <stueck when="1772" nr="60" von="237" bis="238"/>
+        <werk kat="rezension" ref="chatolais-versuch-kinder-unterricht"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="60" von="238" bis="240" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-60-weltnachrichten">
+        <stueck when="1772" nr="60" von="238" bis="240"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-60-lokalanzeigen">
         <stueck when="1772" nr="60" von="240" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-60-einkommende-fremde">
         <stueck when="1772" nr="60" von="240" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="61" von="241" />
-        <werk kat="rezension" ref="michaelis-versuch-siebenzig" ></werk>
-        <ort ref="goettingen"></ort>
+    <beitrag id="1772-61-rezension-michaelis-versuch-siebenzig">
+        <stueck when="1772" nr="61" von="241"/>
+        <werk kat="rezension" ref="michaelis-versuch-siebenzig"/>
+        <ort ref="goettingen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="61" von="242" />
-        <werk kat="rezension" ref="meister-candidatenbriefe3" ></werk>
-        <ort ref="oehringen"></ort>
+    <beitrag id="1772-61-rezension-meister-candidatenbriefe3">
+        <stueck when="1772" nr="61" von="242"/>
+        <werk kat="rezension" ref="meister-candidatenbriefe3"/>
+        <ort ref="oehringen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="61" von="242" bis="244" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-61-weltnachrichten">
+        <stueck when="1772" nr="61" von="242" bis="244"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-61-lokalanzeigen">
         <stueck when="1772" nr="61" von="244" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-61-einkommende-fremde">
         <stueck when="1772" nr="61" von="244" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-61-wechselkurse">
         <stueck when="1772" nr="61" von="244" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="62" von="245" bis="246" />
-        <werk kat="rezension" ref="schlegel-predigten" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-62-rezension-schlegel-predigten">
+        <stueck when="1772" nr="62" von="245" bis="246"/>
+        <werk kat="rezension" ref="schlegel-predigten"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="62" von="246" bis="248" />
-        <werk kat="rezension" ref="littleton-anmerkungen" ></werk>
-        <ort ref="hannover"></ort>
+    <beitrag id="1772-62-rezension-littleton-anmerkungen">
+        <stueck when="1772" nr="62" von="246" bis="248"/>
+        <werk kat="rezension" ref="littleton-anmerkungen"/>
+        <ort ref="hannover"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="62" von="248" bis="250" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-62-weltnachrichten">
+        <stueck when="1772" nr="62" von="248" bis="250"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-62-lotterie">
         <stueck when="1772" nr="62" von="250" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-62-lokalanzeigen">
         <stueck when="1772" nr="62" von="250" order="2"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-62-einkommende-fremde">
         <stueck when="1772" nr="62" von="250" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="63" von="249" bis="250" />
-        <werk kat="rezension" ref="anti-mirabeau" ></werk>
-        <ort ref="frankfurt"></ort>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-63-rezension-anti-mirabeau">
+        <stueck when="1772" nr="63" von="249" bis="250"/>
+        <werk kat="rezension" ref="anti-mirabeau"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="63" von="250" bis="252" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-63-weltnachrichten">
+        <stueck when="1772" nr="63" von="250" bis="252"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-63-buecher">
         <stueck when="1772" nr="63" von="252" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-63-einkommende-fremde">
         <stueck when="1772" nr="63" von="252" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-63-wechselkurse">
         <stueck when="1772" nr="63" von="252" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="64" von="253" />
-        <werk kat="rezension" ref="vermischte-anmerkungen-gellert" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-64-rezension-vermischte-anmerkungen-gellert">
+        <stueck when="1772" nr="64" von="253"/>
+        <werk kat="rezension" ref="vermischte-anmerkungen-gellert"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="64" von="253" bis="254" />
-        <werk kat="rezension" ref="aepinus-zwoschriften" ></werk>
-        <ort ref="graz"></ort>
+    <beitrag id="1772-64-rezension-aepinus-zwoschriften">
+        <stueck when="1772" nr="64" von="253" bis="254"/>
+        <werk kat="rezension" ref="aepinus-zwoschriften"/>
+        <ort ref="graz"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="64" von="254" bis="256" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-64-weltnachrichten">
+        <stueck when="1772" nr="64" von="254" bis="256"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-64-lokalanzeigen">
         <stueck when="1772" nr="64" von="256" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-64-einkommende-fremde">
         <stueck when="1772" nr="64" von="256" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="65" von="257" bis="258" />
-        <werk kat="rezension" ref="bourgelat-anfangsgruende" ></werk>
-        <ort ref="danzig"></ort>
+    <beitrag id="1772-65-rezension-bourgelat-anfangsgruende">
+        <stueck when="1772" nr="65" von="257" bis="258"/>
+        <werk kat="rezension" ref="bourgelat-anfangsgruende"/>
+        <ort ref="danzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="65" von="258" bis="260" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-65-weltnachrichten">
+        <stueck when="1772" nr="65" von="258" bis="260"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-65-lokalanzeigen">
         <stueck when="1772" nr="65" von="260" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-65-einkommende-fremde">
         <stueck when="1772" nr="65" von="260" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-65-wechselkurse">
         <stueck when="1772" nr="65" von="260" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="66" von="261" />
-        <werk kat="rezension" ref="schoenberg-lehrreich" ></werk>
-        <ort ref="muenchen"></ort>
+    <beitrag id="1772-66-rezension-schoenberg-lehrreich">
+        <stueck when="1772" nr="66" von="261"/>
+        <werk kat="rezension" ref="schoenberg-lehrreich"/>
+        <ort ref="muenchen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="66" von="261" bis="262" />
-        <werk kat="rezension" ref="dodd-predigten" ></werk>
-        <ort ref="lemgo"></ort>
+    <beitrag id="1772-66-rezension-dodd-predigten">
+        <stueck when="1772" nr="66" von="261" bis="262"/>
+        <werk kat="rezension" ref="dodd-predigten"/>
+        <ort ref="lemgo"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="66" von="262" />
-        <werk kat="rezension" ref="meyer-frauenzimmer" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-66-rezension-meyer-frauenzimmer">
+        <stueck when="1772" nr="66" von="262"/>
+        <werk kat="rezension" ref="meyer-frauenzimmer"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="66" von="262" bis="264" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-66-weltnachrichten">
+        <stueck when="1772" nr="66" von="262" bis="264"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-66-lokalanzeigen">
         <stueck when="1772" nr="66" von="264" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-66-lotterie">
         <stueck when="1772" nr="66" von="264" order="2"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-66-einkommende-fremde">
         <stueck when="1772" nr="66" von="264" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="67" von="265" bis="266" />
-        <werk kat="rezension" ref="semler-andenken" ></werk>
-        <ort ref="halle"></ort>
+    <beitrag id="1772-67-rezension-semler-andenken">
+        <stueck when="1772" nr="67" von="265" bis="266"/>
+        <werk kat="rezension" ref="semler-andenken"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="67" von="266" bis="268" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-67-weltnachrichten">
+        <stueck when="1772" nr="67" von="266" bis="268"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-67-lokalanzeigen">
         <stueck when="1772" nr="67" von="268" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-67-einkommende-fremde">
         <stueck when="1772" nr="67" von="268" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-67-wechselkurse">
         <stueck when="1772" nr="67" von="268" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="68" von="269" />
-        <werk kat="rezension" ref="schummel-empfindsame" s="Bd. 3" ></werk>
-        <ort ref="wittenberg"></ort>
+    <beitrag id="1772-68-rezension-schummel-empfindsame">
+        <stueck when="1772" nr="68" von="269"/>
+        <werk kat="rezension" ref="schummel-empfindsame" s="Bd. 3"/>
+        <ort ref="wittenberg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="68" von="269" bis="270" />
-        <werk kat="rezension" ref="bock-empfindsame-visitenzimmer" ></werk>
+    <beitrag id="1772-68-rezension-bock-empfindsame-visitenzimmer">
+        <stueck when="1772" nr="68" von="269" bis="270"/>
+        <werk kat="rezension" ref="bock-empfindsame-visitenzimmer"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="68" von="270" bis="272" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-68-weltnachrichten">
+        <stueck when="1772" nr="68" von="270" bis="272"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-68-lokalanzeigen">
         <stueck when="1772" nr="68" von="272" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-68-lotterie">
         <stueck when="1772" nr="68" von="272" order="2"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-68-einkommende-fremde">
         <stueck when="1772" nr="68" von="272" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="69" von="273" bis="274" />
-        <werk kat="rezension" ref="buesching-magazin" s="Bd. 6" ></werk>
-        <ort ref="hamburg"></ort>
+    <beitrag id="1772-69-rezension-buesching-magazin">
+        <stueck when="1772" nr="69" von="273" bis="274"/>
+        <werk kat="rezension" ref="buesching-magazin" s="Bd. 6"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="69" von="274" bis="276" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-69-weltnachrichten">
+        <stueck when="1772" nr="69" von="274" bis="276"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-69-lotterie">
         <stueck when="1772" nr="69" von="276" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-69-lokalanzeigen">
         <stueck when="1772" nr="69" von="276" order="2"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-69-einkommende-fremde">
         <stueck when="1772" nr="69" von="276" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-69-wechselkurse">
         <stueck when="1772" nr="69" von="276" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="70" von="277" />
-        <werk kat="rezension" ref="acoluth-anmerkungen" ></werk>
-        <ort ref="bautzen"></ort>
+    <beitrag id="1772-70-rezension-acoluth-anmerkungen">
+        <stueck when="1772" nr="70" von="277"/>
+        <werk kat="rezension" ref="acoluth-anmerkungen"/>
+        <ort ref="bautzen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="70" von="277" bis="278" />
-        <werk kat="rezension" ref="sillig-zuverlaessig" ></werk>
-        <ort ref="amsterdam"></ort>
+    <beitrag id="1772-70-rezension-sillig-zuverlaessig">
+        <stueck when="1772" nr="70" von="277" bis="278"/>
+        <werk kat="rezension" ref="sillig-zuverlaessig"/>
+        <ort ref="amsterdam"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="70" von="278" bis="280" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-70-weltnachrichten">
+        <stueck when="1772" nr="70" von="278" bis="280"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-70-lokalanzeigen">
         <stueck when="1772" nr="70" von="280" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-70-einkommende-fremde">
         <stueck when="1772" nr="70" von="280" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
     
-    <beitrag>
-        <stueck when="1772" nr="71" von="281" bis="282" />
-        <werk kat="rezension" ref="guys-litterarische" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-71-rezension-guys-litterarische">
+        <stueck when="1772" nr="71" von="281" bis="282"/>
+        <werk kat="rezension" ref="guys-litterarische"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="71" von="282" bis="284" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-71-weltnachrichten">
+        <stueck when="1772" nr="71" von="282" bis="284"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-71-lokalanzeigen">
         <stueck when="1772" nr="71" von="284" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-71-einkommende-fremde">
         <stueck when="1772" nr="71" von="284" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-71-wechselkurse">
         <stueck when="1772" nr="71" von="284" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="72" von="285" />
-        <werk kat="rezension" ref="hausen-leben" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-72-rezension-hausen-leben">
+        <stueck when="1772" nr="72" von="285"/>
+        <werk kat="rezension" ref="hausen-leben"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="72" von="285" bis="286" />
-        <werk kat="rezension" ref="danneil-aussichten" ></werk>
-        <ort ref="hamburg"></ort>
+    <beitrag id="1772-72-rezension-danneil-aussichten">
+        <stueck when="1772" nr="72" von="285" bis="286"/>
+        <werk kat="rezension" ref="danneil-aussichten"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="72" von="286" bis="288" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-72-weltnachrichten">
+        <stueck when="1772" nr="72" von="286" bis="288"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-72-einkommende-fremde">
         <stueck when="1772" nr="72" von="288"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="73" von="289" bis="290" />
-        <werk kat="rezension" ref="stafford-cydermachen" ></werk>
-        <ort ref="bayreuth"></ort>
+    <beitrag id="1772-73-rezension-stafford-cydermachen">
+        <stueck when="1772" nr="73" von="289" bis="290"/>
+        <werk kat="rezension" ref="stafford-cydermachen"/>
+        <ort ref="bayreuth"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="73" von="290" bis="292" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-73-weltnachrichten">
+        <stueck when="1772" nr="73" von="290" bis="292"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-73-einkommende-fremde">
         <stueck when="1772" nr="73" von="292" order="1"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-73-wechselkurse">
         <stueck when="1772" nr="73" von="292" order="2"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="74" von="293" bis="294" />
-        <werk kat="rezension" ref="buchoz-sammlung1" ></werk>
-        <ort ref="nuernberg"></ort>
+    <beitrag id="1772-74-rezension-buchoz-sammlung1">
+        <stueck when="1772" nr="74" von="293" bis="294"/>
+        <werk kat="rezension" ref="buchoz-sammlung1"/>
+        <ort ref="nuernberg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="74" von="294" bis="296" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-74-weltnachrichten">
+        <stueck when="1772" nr="74" von="294" bis="296"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-74-einkommende-fremde">
         <stueck when="1772" nr="74" von="296"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="75" von="297" bis="298" />
-        <werk kat="rezension" ref="baretti-reisen" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-75-rezension-baretti-reisen">
+        <stueck when="1772" nr="75" von="297" bis="298"/>
+        <werk kat="rezension" ref="baretti-reisen"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="75" von="298" bis="300" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-75-weltnachrichten">
+        <stueck when="1772" nr="75" von="298" bis="300"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-75-einkommende-fremde">
         <stueck when="1772" nr="75" von="300" order="1"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-75-wechselkurse">
         <stueck when="1772" nr="75" von="300" order="2"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="76" von="301" bis="302" />
-        <werk kat="rezension" ref="briefwechsel-gustav-scheffer" ></werk>
-        <ort ref="greifswald"></ort>
+    <beitrag id="1772-76-rezension-briefwechsel-gustav-scheffer">
+        <stueck when="1772" nr="76" von="301" bis="302"/>
+        <werk kat="rezension" ref="briefwechsel-gustav-scheffer"/>
+        <ort ref="greifswald"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="76" von="302" bis="304" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-76-weltnachrichten">
+        <stueck when="1772" nr="76" von="302" bis="304"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-76-einkommende-fremde">
         <stueck when="1772" nr="76" von="304" order="1"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-76-lokalanzeigen">
         <stueck when="1772" nr="76" von="304" order="2"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="77" von="305" bis="306" />
-        <werk kat="rezension" ref="faber-vereinigung" ></werk>
-        <ort ref="kiel"></ort>
+    <beitrag id="1772-77-rezension-faber-vereinigung">
+        <stueck when="1772" nr="77" von="305" bis="306"/>
+        <werk kat="rezension" ref="faber-vereinigung"/>
+        <ort ref="kiel"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="77" von="306" bis="308" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-77-weltnachrichten">
+        <stueck when="1772" nr="77" von="306" bis="308"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-77-lotterie">
         <stueck when="1772" nr="77" von="308" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-77-lokalanzeigen">
         <stueck when="1772" nr="77" von="308" order="2"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-77-einkommende-fremde">
         <stueck when="1772" nr="77" von="308" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-77-wechselkurse">
         <stueck when="1772" nr="77" von="308" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="78" von="309" bis="310" />
-        <werk kat="rezension" ref="abhandlungen-bienengesellschaft" ></werk>
-        <ort ref="nuernberg"></ort>
+    <beitrag id="1772-78-rezension-abhandlungen-bienengesellschaft">
+        <stueck when="1772" nr="78" von="309" bis="310"/>
+        <werk kat="rezension" ref="abhandlungen-bienengesellschaft"/>
+        <ort ref="nuernberg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="78" von="310"  order="1"/>
-        <kategorie ref="gelehrte-nachrichten" />
+    <beitrag id="1772-78-gelehrte-nachrichten">
+        <stueck when="1772" nr="78" von="310" order="1"/>
+        <kategorie ref="gelehrte-nachrichten"/>
         <anmerkung>Über die Verteidigung von Carl Daniel Reusch</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="78" von="310"  order="2"/>
-        <kategorie ref="lokalnachrichten" />
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1772-78-lokalnachrichten">
+        <stueck when="1772" nr="78" von="310" order="2"/>
+        <kategorie ref="lokalnachrichten"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="78" von="310" bis="312" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-78-weltnachrichten">
+        <stueck when="1772" nr="78" von="310" bis="312"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-78-lokalanzeigen">
         <stueck when="1772" nr="78" von="312" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-78-einkommende-fremde">
         <stueck when="1772" nr="78" von="312" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-78-lokalanzeigen-II">
         <stueck when="1772" nr="78" von="312" order="3"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="79" von="313" />
-        <kategorie ref="gedicht"></kategorie>
+    <beitrag id="1772-79-karsch-wiegenlied">
+        <stueck when="1772" nr="79" von="313"/>
+        <kategorie ref="gedicht"/>
         <titel>Wiegenlied, für Ihre Königliche Hoheit die jüngstgeborne Prinzeßin von Preußen, von A. L. Karschin</titel>
-        <akteur ref="karsch"></akteur>
+        <akteur ref="karsch"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="79" von="313" bis="314" />
-        <werk kat="rezension" ref="gleim-lieder-volk" ></werk>
-        <ort ref="halberstadt"></ort>
+    <beitrag id="1772-79-rezension-gleim-lieder-volk">
+        <stueck when="1772" nr="79" von="313" bis="314"/>
+        <werk kat="rezension" ref="gleim-lieder-volk"/>
+        <ort ref="halberstadt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="79" von="314" bis="316" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-79-weltnachrichten">
+        <stueck when="1772" nr="79" von="314" bis="316"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-79-einkommende-fremde">
         <stueck when="1772" nr="79" von="316" order="1"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-79-wechselkurse">
         <stueck when="1772" nr="79" von="316" order="2"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="80" von="317" bis="318" />
-        <kategorie ref="gedicht"></kategorie>
+    <beitrag id="1772-80-ihr-schwestern-und-gespielin-hoert">
+        <stueck when="1772" nr="80" von="317" bis="318"/>
+        <kategorie ref="gedicht"/>
         <incipit>Ihr Schwestern und Gespielin hört…</incipit>
-        <ort ref="kgsb"></ort>
+        <ort ref="kgsb"/>
         <anmerkung>Eingesandtes „Amazonenlied einer liebenswürdigen Freundin bey Ihrer Vermählung in Berlin“</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="80" von="318" bis="319" />
-        <kategorie ref="lokalnachrichten" />
+    <beitrag id="1772-80-lokalnachrichten">
+        <stueck when="1772" nr="80" von="318" bis="319"/>
+        <kategorie ref="lokalnachrichten"/>
         <anmerkung>Über die „Huldigung der Unterthanen“ aus den neuen Provinzen</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="80" von="319" bis="324" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-80-weltnachrichten">
+        <stueck when="1772" nr="80" von="319" bis="324"/>
+        <kategorie ref="weltnachrichten"/>
         <anmerkung>u.a. über die Teilung Polens</anmerkung>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-80-lokalanzeigen">
         <stueck when="1772" nr="80" von="324" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-80-einkommende-fremde">
         <stueck when="1772" nr="80" von="324" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
     
-    <beitrag>
-        <stueck when="1772" nr="81" von="325" bis="326" />
-        <werk kat="rezension" ref="lobrede-freiherr-creuz" ></werk>
-        <ort ref="frankfurt"></ort>
+    <beitrag id="1772-81-rezension-lobrede-freiherr-creuz">
+        <stueck when="1772" nr="81" von="325" bis="326"/>
+        <werk kat="rezension" ref="lobrede-freiherr-creuz"/>
+        <ort ref="frankfurt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="81" von="326" bis="328" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-81-weltnachrichten">
+        <stueck when="1772" nr="81" von="326" bis="328"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-81-einkommende-fremde">
         <stueck when="1772" nr="81" von="328" order="1"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-81-wechselkurse">
         <stueck when="1772" nr="81" von="328" order="2"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="82" von="329" bis="330" />
-        <werk kat="rezension" ref="moldenhawer-prediger-salomo" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-82-rezension-moldenhawer-prediger-salomo">
+        <stueck when="1772" nr="82" von="329" bis="330"/>
+        <werk kat="rezension" ref="moldenhawer-prediger-salomo"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="82" von="330" bis="332" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-82-weltnachrichten">
+        <stueck when="1772" nr="82" von="330" bis="332"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-82-einkommende-fremde">
         <stueck when="1772" nr="82" von="332"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="83" von="333" bis="334" />
-        <werk kat="rezension" ref="landbibliothek-deutschen" ></werk>
-        <ort ref="goettingen"></ort>
+    <beitrag id="1772-83-rezension-landbibliothek-deutschen">
+        <stueck when="1772" nr="83" von="333" bis="334"/>
+        <werk kat="rezension" ref="landbibliothek-deutschen"/>
+        <ort ref="goettingen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="83" von="334" />
-        <akteur ref="hagen-h" kat="nachruf" />
-        <ort ref="kgsb"></ort>
+    <beitrag id="1772-83-hagen-h-nachruf">
+        <stueck when="1772" nr="83" von="334"/>
+        <akteur ref="hagen-h" kat="nachruf"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="83" von="334" bis="336" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-83-weltnachrichten">
+        <stueck when="1772" nr="83" von="334" bis="336"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-83-lokalanzeigen">
         <stueck when="1772" nr="83" von="336" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-83-vorladung">
         <stueck when="1772" nr="83" von="336" order="2"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-83-einkommende-fremde">
         <stueck when="1772" nr="83" von="336" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-83-wechselkurse">
         <stueck when="1772" nr="83" von="336" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="84" von="337" />
-        <werk kat="rezension" ref="mellin-landapotheke" ></werk>
-        <ort ref="augsburg"></ort>
+    <beitrag id="1772-84-rezension-mellin-landapotheke">
+        <stueck when="1772" nr="84" von="337"/>
+        <werk kat="rezension" ref="mellin-landapotheke"/>
+        <ort ref="augsburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="84" von="337" bis="338" />
-        <werk kat="rezension" ref="leben-deutsche-kaiser" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-84-rezension-leben-deutsche-kaiser">
+        <stueck when="1772" nr="84" von="337" bis="338"/>
+        <werk kat="rezension" ref="leben-deutsche-kaiser"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="84" von="338" />
-        <werk kat="rezension" ref="haus-land-wirthschafts-regeln" ></werk>
-        <ort ref="nuernberg"></ort>
+    <beitrag id="1772-84-rezension-haus-land-wirthschafts-regeln">
+        <stueck when="1772" nr="84" von="338"/>
+        <werk kat="rezension" ref="haus-land-wirthschafts-regeln"/>
+        <ort ref="nuernberg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="84" von="338" bis="340" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-84-weltnachrichten">
+        <stueck when="1772" nr="84" von="338" bis="340"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-84-proklamation">
         <stueck when="1772" nr="84" von="340" order="1"/>
-        <kategorie ref="proklamation" />
+        <kategorie ref="proklamation"/>
         <anmerkung>Über die Postverbindungen in den neuen Provinzen, vom Königl. Preußischen General-Postamt, gez. von Derschau</anmerkung>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-84-lokalanzeigen">
         <stueck when="1772" nr="84" von="340" order="2"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-84-einkommende-fremde">
         <stueck when="1772" nr="84" von="340" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="85" von="341" bis="342" />
-        <werk kat="rezension" ref="wahrer-segen-verwaltung" ></werk>
-        <ort ref="augsburg"></ort>
+    <beitrag id="1772-85-rezension-wahrer-segen-verwaltung">
+        <stueck when="1772" nr="85" von="341" bis="342"/>
+        <werk kat="rezension" ref="wahrer-segen-verwaltung"/>
+        <ort ref="augsburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="85" von="342" bis="344" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-85-weltnachrichten">
+        <stueck when="1772" nr="85" von="342" bis="344"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-85-lokalanzeigen">
         <stueck when="1772" nr="85" von="344" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-85-vorladung">
         <stueck when="1772" nr="85" von="344" order="2"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-85-einkommende-fremde">
         <stueck when="1772" nr="85" von="344" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-85-wechselkurse">
         <stueck when="1772" nr="85" von="344" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="86" von="345" />
-        <werk kat="rezension" ref="sprenger-nuetzlicher3" ></werk>
-        <ort ref="stuttgart"></ort>
+    <beitrag id="1772-86-rezension-sprenger-nuetzlicher3">
+        <stueck when="1772" nr="86" von="345"/>
+        <werk kat="rezension" ref="sprenger-nuetzlicher3"/>
+        <ort ref="stuttgart"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="86" von="345" bis="346" />
-        <werk kat="rezension" ref="semler-ascetisch" ></werk>
-        <ort ref="stuttgart"></ort>
+    <beitrag id="1772-86-rezension-semler-ascetisch">
+        <stueck when="1772" nr="86" von="345" bis="346"/>
+        <werk kat="rezension" ref="semler-ascetisch"/>
+        <ort ref="stuttgart"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="86" von="346" bis="348" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-86-weltnachrichten">
+        <stueck when="1772" nr="86" von="346" bis="348"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-86-lokalanzeigen">
         <stueck when="1772" nr="86" von="348" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-86-einkommende-fremde">
         <stueck when="1772" nr="86" von="348" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="87" von="349" bis="350" />
-        <werk kat="rezension" ref="sturm-betrachtungen" ></werk>
-        <ort ref="halle"></ort>
+    <beitrag id="1772-87-rezension-sturm-betrachtungen">
+        <stueck when="1772" nr="87" von="349" bis="350"/>
+        <werk kat="rezension" ref="sturm-betrachtungen"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-87-lokalnachrichten">
         <stueck when="1772" nr="87" von="350"/>
-        <kategorie ref="lokalnachrichten" />
-        <kategorie ref="lotterie"></kategorie>
+        <kategorie ref="lokalnachrichten"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="87" von="350" bis="352" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-87-weltnachrichten">
+        <stueck when="1772" nr="87" von="350" bis="352"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-87-vorladung">
         <stueck when="1772" nr="87" von="352" order="1"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-87-einkommende-fremde">
         <stueck when="1772" nr="87" von="352" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-87-wechselkurse">
         <stueck when="1772" nr="87" von="352" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="88" von="353" bis="354" />
-        <kategorie ref="proklamation" />
+    <beitrag id="1772-88-rohd-jf-rede-von-sr">
+        <stueck when="1772" nr="88" von="353" bis="354"/>
+        <kategorie ref="proklamation"/>
         <titel>Rede von Sr. Excellenz, dem Herrn Etats-Minister und Oberburggrafen von Rhoden, gehalten den 27sten September in Marienburg vor der an diesem Tage daselbst zu haltenden Huldigung.</titel>
-        <akteur ref="rohd-jf"></akteur>
+        <akteur ref="rohd-jf"/>
         <anmerkung>vgl. den Wiederabdruck im <wwwlink address="https://resolver.sub.uni-hamburg.de/kitodo/PPN52146935X_17721110/page/3">Hamburger Correspondenten, Nr. 180, 10.11.1772, S. 3</wwwlink></anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="88" von="355" bis="356" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-88-weltnachrichten">
+        <stueck when="1772" nr="88" von="355" bis="356"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-88-lokalanzeigen">
         <stueck when="1772" nr="88" von="356" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-88-einkommende-fremde">
         <stueck when="1772" nr="88" von="356" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="89" von="357" bis="358" />
-        <werk kat="rezension" ref="hofmann-moralischer" ></werk>
-        <ort ref="basel"></ort>
+    <beitrag id="1772-89-rezension-hofmann-moralischer">
+        <stueck when="1772" nr="89" von="357" bis="358"/>
+        <werk kat="rezension" ref="hofmann-moralischer"/>
+        <ort ref="basel"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="89" von="358" />
-        <werk kat="rezension" ref="kunsterfahrene-maelzer" ></werk>
-        <ort ref="sorau"></ort>
+    <beitrag id="1772-89-rezension-kunsterfahrene-maelzer">
+        <stueck when="1772" nr="89" von="358"/>
+        <werk kat="rezension" ref="kunsterfahrene-maelzer"/>
+        <ort ref="sorau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="89" von="358" bis="360" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-89-weltnachrichten">
+        <stueck when="1772" nr="89" von="358" bis="360"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-89-lotterie">
         <stueck when="1772" nr="89" von="360" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-89-einkommende-fremde">
         <stueck when="1772" nr="89" von="360" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-89-wechselkurse">
         <stueck when="1772" nr="89" von="360" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="90" von="361" bis="362" />
-        <werk kat="rezension" ref="miller-abhandlung-zeit" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-90-rezension-miller-abhandlung-zeit">
+        <stueck when="1772" nr="90" von="361" bis="362"/>
+        <werk kat="rezension" ref="miller-abhandlung-zeit"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="90" von="362" bis="364" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-90-weltnachrichten">
+        <stueck when="1772" nr="90" von="362" bis="364"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-90-buecher">
         <stueck when="1772" nr="90" von="364" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-90-einkommende-fremde">
         <stueck when="1772" nr="90" von="364" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="91" von="365" />
-        <kategorie ref="gedicht"></kategorie>
-        <werk kat="auszug" ref="hamburgische-neue-zeitung1772-174"></werk>
-        <akteur ref="jacobi-jg"></akteur>
+    <beitrag id="1772-91-jacobi-jg-gedicht">
+        <stueck when="1772" nr="91" von="365"/>
+        <kategorie ref="gedicht"/>
+        <werk kat="auszug" ref="hamburgische-neue-zeitung1772-174"/>
+        <akteur ref="jacobi-jg"/>
         <anmerkung>Das Gedicht mit der Anekdote zirkulierte offenbar, vgl. den Brief Jacobis in <wwwlink address="https://www.e-rara.ch/zut/ch19/content/zoom/27125680">J. G. Jacobi’s sämmtliche Werke (Zürich 1825), Bd. 1, 2. Abt., S. 287</wwwlink>; es konnte aber nur in der Hamburgischen Neuen Zeitung verifiziert werden.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="91" von="365" bis="366" />
-        <werk kat="rezension" ref="gottsched-briefe" s="Bd. 3" ></werk>
-        <ort ref="dresden"></ort>
+    <beitrag id="1772-91-rezension-gottsched-briefe">
+        <stueck when="1772" nr="91" von="365" bis="366"/>
+        <werk kat="rezension" ref="gottsched-briefe" s="Bd. 3"/>
+        <ort ref="dresden"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="91" von="366" bis="368" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-91-weltnachrichten">
+        <stueck when="1772" nr="91" von="366" bis="368"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-91-buecher">
         <stueck when="1772" nr="91" von="368" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-91-vorladung">
         <stueck when="1772" nr="91" von="368" order="2"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-91-vorladung-II">
         <stueck when="1772" nr="91" von="368" order="3"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-91-einkommende-fremde">
         <stueck when="1772" nr="91" von="368" order="4"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-91-wechselkurse">
         <stueck when="1772" nr="91" von="368" order="5"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="92" von="369" bis="370" />
-        <werk kat="rezension" ref="bougainville-reise" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-92-rezension-bougainville-reise">
+        <stueck when="1772" nr="92" von="369" bis="370"/>
+        <werk kat="rezension" ref="bougainville-reise"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="92" von="370" bis="372" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-92-weltnachrichten">
+        <stueck when="1772" nr="92" von="370" bis="372"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-92-lokalanzeigen">
         <stueck when="1772" nr="92" von="372" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-92-buecher">
         <stueck when="1772" nr="92" von="372" order="2"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-92-einkommende-fremde">
         <stueck when="1772" nr="92" von="372" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="93" von="373" bis="374" />
-        <werk kat="rezension" ref="schmidt-beitraege-russland" ></werk>
-        <ort ref="riga"></ort>
+    <beitrag id="1772-93-rezension-schmidt-beitraege-russland">
+        <stueck when="1772" nr="93" von="373" bis="374"/>
+        <werk kat="rezension" ref="schmidt-beitraege-russland"/>
+        <ort ref="riga"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="93" von="374" bis="376" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-93-weltnachrichten">
+        <stueck when="1772" nr="93" von="374" bis="376"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-93-lokalanzeigen">
         <stueck when="1772" nr="93" von="376" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-93-buecher">
         <stueck when="1772" nr="93" von="376" order="2"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-93-einkommende-fremde">
         <stueck when="1772" nr="93" von="376" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-93-wechselkurse">
         <stueck when="1772" nr="93" von="376" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="94" von="377" />
-        <kategorie ref="gelehrte-nachrichten" />
-        <ort ref="kgsb"></ort>
+    <beitrag id="1772-94-gelehrte-nachrichten">
+        <stueck when="1772" nr="94" von="377"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="kgsb"/>
         <anmerkung>Über eine kleine Sammlung von Liedern der besten Dichter dieses Jahrhunderts, als Anhang ihres gewöhnlichen Gesangbuchs hg. vom evangelisch-reformierten Kirchencollegium</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="94" von="377" bis="378" />
-        <werk kat="rezension" ref="karsch-neue-gedichte" ></werk>
-        <ort ref="riga"></ort>
+    <beitrag id="1772-94-rezension-karsch-neue-gedichte">
+        <stueck when="1772" nr="94" von="377" bis="378"/>
+        <werk kat="rezension" ref="karsch-neue-gedichte"/>
+        <ort ref="riga"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-94-negelein-ja-nachruf">
         <stueck when="1772" nr="94" von="378"/>
-        <akteur ref="negelein-ja" kat="nachruf" />
+        <akteur ref="negelein-ja" kat="nachruf"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="94" von="378" bis="380" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-94-weltnachrichten">
+        <stueck when="1772" nr="94" von="378" bis="380"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-94-lokalanzeigen">
         <stueck when="1772" nr="94" von="380" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-94-buecher">
         <stueck when="1772" nr="94" von="380" order="2"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-94-einkommende-fremde">
         <stueck when="1772" nr="94" von="380" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="95" von="381" bis="382" />
-        <werk kat="rezension" ref="boysen-briefe-gleim" ></werk>
-        <ort ref="frankfurt"></ort>
+    <beitrag id="1772-95-rezension-boysen-briefe-gleim">
+        <stueck when="1772" nr="95" von="381" bis="382"/>
+        <werk kat="rezension" ref="boysen-briefe-gleim"/>
+        <ort ref="frankfurt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="95" von="382" bis="384" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-95-weltnachrichten">
+        <stueck when="1772" nr="95" von="382" bis="384"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-95-buecher">
         <stueck when="1772" nr="95" von="384" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-95-einkommende-fremde">
         <stueck when="1772" nr="95" von="384" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-95-wechselkurse">
         <stueck when="1772" nr="95" von="384" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="96" von="385" bis="386" />
-        <werk kat="rezension" ref="seiler-kurze-geschichte" ></werk>
-        <ort ref="erlangen"></ort>
+    <beitrag id="1772-96-rezension-seiler-kurze-geschichte">
+        <stueck when="1772" nr="96" von="385" bis="386"/>
+        <werk kat="rezension" ref="seiler-kurze-geschichte"/>
+        <ort ref="erlangen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-96-lokalnachrichten">
         <stueck when="1772" nr="96" von="386"/>
-        <kategorie ref="lokalnachrichten" />
-        <kategorie ref="lotterie"></kategorie>
+        <kategorie ref="lokalnachrichten"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="96" von="386" bis="388" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-96-weltnachrichten">
+        <stueck when="1772" nr="96" von="386" bis="388"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-96-buecher">
         <stueck when="1772" nr="96" von="388" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-96-einkommende-fremde">
         <stueck when="1772" nr="96" von="388" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="97" von="389" />
-        <kategorie ref="ineigenersache"></kategorie>
+    <beitrag id="1772-97-kanter-nachricht">
+        <stueck when="1772" nr="97" von="389"/>
+        <kategorie ref="ineigenersache"/>
         <titel>Nachricht.</titel>
-        <akteur ref="kanter"></akteur>
+        <akteur ref="kanter"/>
         <anmerkung>Über die Neuausrichtung der KGPZ im nächsten Jahr: kürzere Rezensionen, sehr gute politische Korrespondenten aus England und Polen, Erscheinen ab jetzt Montags und Donnerstags</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="97" von="389" bis="390" />
-        <werk kat="rezension" ref="nachricht-entdeckung-endeavour" ></werk>
-        <ort ref="berlin"></ort>
+    <beitrag id="1772-97-rezension-nachricht-entdeckung-endeavour">
+        <stueck when="1772" nr="97" von="389" bis="390"/>
+        <werk kat="rezension" ref="nachricht-entdeckung-endeavour"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="97" von="390" bis="392" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-97-weltnachrichten">
+        <stueck when="1772" nr="97" von="390" bis="392"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-97-buecher">
         <stueck when="1772" nr="97" von="392" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-97-vorladung">
         <stueck when="1772" nr="97" von="392" order="2"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-97-wechselkurse">
         <stueck when="1772" nr="97" von="392" order="3"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="98" von="393" bis="394" />
-        <werk kat="rezension" ref="burnham-denkmaeler" s="Bd. 2" />
-        <ort ref="zuellichau"></ort>
+    <beitrag id="1772-98-rezension-burnham-denkmaeler">
+        <stueck when="1772" nr="98" von="393" bis="394"/>
+        <werk kat="rezension" ref="burnham-denkmaeler" s="Bd. 2"/>
+        <ort ref="zuellichau"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-98-buecher">
         <stueck when="1772" nr="98" von="394"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="98" von="394" bis="396" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-98-weltnachrichten">
+        <stueck when="1772" nr="98" von="394" bis="396"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-98-vorladung">
         <stueck when="1772" nr="98" von="396" order="1"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-98-vorladung-II">
         <stueck when="1772" nr="98" von="396" order="2"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-98-einkommende-fremde">
         <stueck when="1772" nr="98" von="396" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="99" von="397" bis="398" />
-        <werk kat="rezension" ref="jerusalem-fortgesetzte-betrachtungen" ></werk>
-        <ort ref="braunschweig"></ort>
+    <beitrag id="1772-99-rezension-jerusalem-fortgesetzte-betrachtungen">
+        <stueck when="1772" nr="99" von="397" bis="398"/>
+        <werk kat="rezension" ref="jerusalem-fortgesetzte-betrachtungen"/>
+        <ort ref="braunschweig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="99" von="398" bis="399" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-99-weltnachrichten">
+        <stueck when="1772" nr="99" von="398" bis="399"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="99" von="399" bis="400" />
-        <kategorie ref="lotterie" />
+    <beitrag id="1772-99-lotterie">
+        <stueck when="1772" nr="99" von="399" bis="400"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-99-buecher">
         <stueck when="1772" nr="99" von="400" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-99-vorladung">
         <stueck when="1772" nr="99" von="400" order="2"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-99-vorladung-II">
         <stueck when="1772" nr="99" von="400" order="3"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-99-lokalanzeigen">
         <stueck when="1772" nr="99" von="400" order="4"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-99-einkommende-fremde">
         <stueck when="1772" nr="99" von="400" order="5"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-99-wechselkurse">
         <stueck when="1772" nr="99" von="400" order="6"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="100" von="401" bis="402" />
-        <werk kat="rezension" ref="tiede-unterhaltungen" />
-        <ort ref="halle"></ort>
+    <beitrag id="1772-100-rezension-tiede-unterhaltungen">
+        <stueck when="1772" nr="100" von="401" bis="402"/>
+        <werk kat="rezension" ref="tiede-unterhaltungen"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="100" von="402" bis="404" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-100-weltnachrichten">
+        <stueck when="1772" nr="100" von="402" bis="404"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-100-buecher">
         <stueck when="1772" nr="100" von="404" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-100-vorladung">
         <stueck when="1772" nr="100" von="404" order="2"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-100-lotterie">
         <stueck when="1772" nr="100" von="404" order="3"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-100-lokalanzeigen">
         <stueck when="1772" nr="100" von="404" order="4"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-100-einkommende-fremde">
         <stueck when="1772" nr="100" von="404" order="5"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="101" von="405" bis="406" />
-        <werk kat="rezension" ref="crusius-kurzer-begriff-moraltheologie" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-101-rezension-crusius-kurzer-begriff-moraltheologie">
+        <stueck when="1772" nr="101" von="405" bis="406"/>
+        <werk kat="rezension" ref="crusius-kurzer-begriff-moraltheologie"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="101" von="406" bis="408" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-101-weltnachrichten">
+        <stueck when="1772" nr="101" von="406" bis="408"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-101-buecher">
         <stueck when="1772" nr="101" von="408" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-101-vorladung">
         <stueck when="1772" nr="101" von="408" order="2"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-101-lotterie">
         <stueck when="1772" nr="101" von="408" order="3"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-101-lokalanzeigen">
         <stueck when="1772" nr="101" von="408" order="4"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-101-einkommende-fremde">
         <stueck when="1772" nr="101" von="408" order="5"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-101-buecher-II">
         <stueck when="1772" nr="101" von="408" order="6"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="102" von="409" bis="410" />
-        <werk kat="rezension" ref="caraccioli-reise" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-102-rezension-caraccioli-reise">
+        <stueck when="1772" nr="102" von="409" bis="410"/>
+        <werk kat="rezension" ref="caraccioli-reise"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="102" von="410" bis="412" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-102-weltnachrichten">
+        <stueck when="1772" nr="102" von="410" bis="412"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-102-lotterie">
         <stueck when="1772" nr="102" von="412" order="1"/>
-        <kategorie ref="lotterie" />
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-102-buecher">
         <stueck when="1772" nr="102" von="412" order="2"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-102-vorladung">
         <stueck when="1772" nr="102" von="412" order="3"/>
-        <kategorie ref="vorladung" />
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-102-lokalanzeigen">
         <stueck when="1772" nr="102" von="412" order="4"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-102-einkommende-fremde">
         <stueck when="1772" nr="102" von="412" order="5"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1772" nr="103" von="413" />
-        <werk kat="rezension" ref="rabener-briefe" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-103-rezension-rabener-briefe">
+        <stueck when="1772" nr="103" von="413"/>
+        <werk kat="rezension" ref="rabener-briefe"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="103" von="413" bis="414" />
-        <werk kat="rezension" ref="millar-bemerkungen" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-103-rezension-millar-bemerkungen">
+        <stueck when="1772" nr="103" von="413" bis="414"/>
+        <werk kat="rezension" ref="millar-bemerkungen"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="103" von="414" bis="416" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-103-weltnachrichten">
+        <stueck when="1772" nr="103" von="414" bis="416"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-103-lokalanzeigen">
         <stueck when="1772" nr="103" von="416" order="1"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-103-einkommende-fremde">
         <stueck when="1772" nr="103" von="416" order="2"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     
-    <beitrag>
-        <stueck when="1772" nr="104" von="417"  order="1"/>
-        <kategorie ref="gedicht" />
+    <beitrag id="1772-104-an-die-leser-zum-beschluss-des-alten-jahrs">
+        <stueck when="1772" nr="104" von="417" order="1"/>
+        <kategorie ref="gedicht"/>
         <titel>An die Leser Zum Beschluß des alten Jahrs.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="104" von="417"  order="2"/>
-        <werk kat="rezension" ref="croix-geschichte-osmanisches-reich" s="3" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1772-104-rezension-croix-geschichte-osmanisches-reich">
+        <stueck when="1772" nr="104" von="417" order="2"/>
+        <werk kat="rezension" ref="croix-geschichte-osmanisches-reich" s="3"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1772" nr="104" von="418" bis="420" />
-        <kategorie ref="weltnachrichten" />
+    <beitrag id="1772-104-weltnachrichten">
+        <stueck when="1772" nr="104" von="418" bis="420"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-104-buecher">
         <stueck when="1772" nr="104" von="420" order="1"/>
-        <kategorie ref="buecher" />
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-104-lokalanzeigen">
         <stueck when="1772" nr="104" von="420" order="2"/>
-        <kategorie ref="lokalanzeigen" />
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-104-einkommende-fremde">
         <stueck when="1772" nr="104" von="420" order="3"/>
-        <kategorie ref="einkommende-fremde" />
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1772-104-wechselkurse">
         <stueck when="1772" nr="104" von="420" order="4"/>
-        <kategorie ref="wechselkurse" />
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 </beitraege>

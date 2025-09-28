@@ -86,9 +86,9 @@
                 </xsd:annotation>
               </xsd:element>
             </xsd:sequence>
-            <xsd:attribute name="id" type="xsd:string" use="optional">
+            <xsd:attribute name="id" type="xsd:string" use="required">
               <xsd:annotation>
-                <xsd:documentation>Optional: Eindeutige ID des Beitrags.</xsd:documentation>
+                <xsd:documentation>Pflicht: Eindeutige ID des Beitrags.</xsd:documentation>
               </xsd:annotation>
             </xsd:attribute>
           </xsd:complexType>

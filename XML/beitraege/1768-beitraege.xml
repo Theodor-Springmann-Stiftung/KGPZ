@@ -1,2378 +1,2377 @@
-<?xml version="1.0"?>
-<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
 
     <!-- Jahrgang 1768 -->
-    <beitrag>
-        <stueck when="1768" nr="1" von="1" bis="3" />
-        <werk kat="rezension" ref="schroeckh-allgemeine-biographie"></werk>
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-1-rezension-schroeckh-allgemeine-biographie">
+        <stueck when="1768" nr="1" von="1" bis="3"/>
+        <werk kat="rezension" ref="schroeckh-allgemeine-biographie"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="1" von="3" bis="4" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-1-weltnachrichten">
+        <stueck when="1768" nr="1" von="3" bis="4"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="1" von="4"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-1-lokalnachrichten">
+        <stueck when="1768" nr="1" von="4" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
         <anmerkung>Statistische Erhebungen zur Demographie in Königsberg</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="1" von="4"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-1-wechselkurse">
+        <stueck when="1768" nr="1" von="4" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="2" von="5" bis="7" />
-        <werk kat="rezension" ref="bock-ausfuehrlicher-grundriss"></werk>
-        <ort ref="kgsb"></ort>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-2-rezension-bock-ausfuehrlicher-grundriss">
+        <stueck when="1768" nr="2" von="5" bis="7"/>
+        <werk kat="rezension" ref="bock-ausfuehrlicher-grundriss"/>
+        <ort ref="kgsb"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="2" von="7" bis="8" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-2-weltnachrichten">
+        <stueck when="1768" nr="2" von="7" bis="8"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="2" von="8"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-2-lokalnachrichten">
+        <stueck when="1768" nr="2" von="8" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
         <anmerkung>Statistische Erhebungen zum Warenverkehr</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="2" von="8"  order="2"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-2-einkommende-fremde">
+        <stueck when="1768" nr="2" von="8" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="2" von="8"  order="3"/>
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-2-buecher">
+        <stueck when="1768" nr="2" von="8" order="3"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="3" von="9" />
-        <werk kat="rezension" ref="aettenkhover-kurzgefasste-geschichte"></werk>
-        <ort ref="regensburg"></ort>
+    <beitrag id="1768-3-rezension-aettenkhover-kurzgefasste-geschichte">
+        <stueck when="1768" nr="3" von="9"/>
+        <werk kat="rezension" ref="aettenkhover-kurzgefasste-geschichte"/>
+        <ort ref="regensburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="3" von="10"  order="1"/>
-        <werk kat="rezension" ref="graefin-vergy"></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-3-rezension-graefin-vergy">
+        <stueck when="1768" nr="3" von="10" order="1"/>
+        <werk kat="rezension" ref="graefin-vergy"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="3" von="10"  order="2"/>
-        <kategorie ref="anzeige"></kategorie>
+    <beitrag id="1768-3-anzeige">
+        <stueck when="1768" nr="3" von="10" order="2"/>
+        <kategorie ref="anzeige"/>
         <anmerkung>Für einen Verkaufskatalog der Bibliothek des im letzten Jahr verstorbenen Johann Peter Süßmilch.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="3" von="10" bis="12" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-3-weltnachrichten">
+        <stueck when="1768" nr="3" von="10" bis="12"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="3" von="12" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-3-wechselkurse">
+        <stueck when="1768" nr="3" von="12"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="4" von="13" bis="14" />
+    <beitrag id="1768-4-die-zeit">
+        <stueck when="1768" nr="4" von="13" bis="14"/>
         <titel>Die Zeit.</titel>
-        <werk kat="uebersetzung" ref="thomas-temps"></werk>
+        <werk kat="uebersetzung" ref="thomas-temps"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="4" von="15" bis="16" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-4-weltnachrichten">
+        <stueck when="1768" nr="4" von="15" bis="16"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="4" von="16" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-4-einkommende-fremde">
+        <stueck when="1768" nr="4" von="16"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-5-hamann-rezension-klotz-deutsche-bibliothek">
         <stueck when="1768" nr="5" von="17" bis="19"/>
-        <werk kat="rezension" ref="klotz-deutsche-bibliothek" s="Bd. 1, St. 1"></werk>
-        <ort ref="halle"></ort>
+        <werk kat="rezension" ref="klotz-deutsche-bibliothek" s="Bd. 1, St. 1"/>
+        <ort ref="halle"/>
         <akteur ref="hamann">ZH II, 417</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="5" von="19" bis="20" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-5-weltnachrichten">
+        <stueck when="1768" nr="5" von="19" bis="20"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="5" von="20" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-5-wechselkurse">
+        <stueck when="1768" nr="5" von="20"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-lobrede-auf-den-prinzen-heinrich-von-preussen">
         <stueck when="1768" nr="6" von="21" bis="23"/>
         <stueck when="1768" nr="7" von="25" bis="29"/>
         <titel>Lobrede auf den Prinzen Heinrich von Preußen</titel>
-        <werk kat="uebersetzung" ref="friedrich-eloge"></werk>
+        <werk kat="uebersetzung" ref="friedrich-eloge"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="6" von="23" />
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-6-lokalanzeigen">
+        <stueck when="1768" nr="6" von="23"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="6" von="23" bis="24" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-6-weltnachrichten">
+        <stueck when="1768" nr="6" von="23" bis="24"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="6" von="24" />
-        <kategorie ref="einkommende-fremde"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="7" von="29" bis="30" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="7" von="30" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-6-einkommende-fremde">
+        <stueck when="1768" nr="6" von="24"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-7-weltnachrichten">
+        <stueck when="1768" nr="7" von="29" bis="30"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-7-wechselkurse">
+        <stueck when="1768" nr="7" von="30"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag id="1768-8-rezension-schmid-theorie-poesie">
         <stueck when="1768" nr="8" von="31" bis="32"/>
-        <werk kat="rezension" ref="schmid-theorie-poesie"></werk>
-        <ort ref="leipzig"></ort>
+        <werk kat="rezension" ref="schmid-theorie-poesie"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1768-8-rezension-goldhagen-griechische1-2">
         <stueck when="1768" nr="8" von="32"/>
-        <werk kat="rezension" ref="goldhagen-griechische1-2"></werk>
-        <ort ref="brandenburg"></ort>
+        <werk kat="rezension" ref="goldhagen-griechische1-2"/>
+        <ort ref="brandenburg"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1768-8-gelehrte-nachrichten">
         <stueck when="1768" nr="8" von="32" bis="33"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <ort ref="kgsb"></ort>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="kgsb"/>
         <anmerkung>Über die Feierlichkeiten der Königlichen Deutschen Gesellschaft und der Universität zu Königsgeburtstag.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="8" von="33" bis="34" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-8-weltnachrichten">
+        <stueck when="1768" nr="8" von="33" bis="34"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="8" von="34" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-8-einkommende-fremde">
+        <stueck when="1768" nr="8" von="34"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-9-scheffner-rezension-clodius-versuche1-2">
         <stueck when="1768" nr="9" von="35" bis="37"/>
-        <werk kat="rezension" ref="clodius-versuche1-2"></werk>
-        <ort ref="leipzig"></ort>
+        <werk kat="rezension" ref="clodius-versuche1-2"/>
+        <ort ref="leipzig"/>
         <akteur ref="scheffner" unsicher="true">vgl. HBGA I, 94</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="9" von="37" bis="38" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-9-weltnachrichten">
+        <stueck when="1768" nr="9" von="37" bis="38"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="9" von="38" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-9-wechselkurse">
+        <stueck when="1768" nr="9" von="38"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-10-rezension-beaumont-nouvelle-clarice">
         <stueck when="1768" nr="10" von="39" bis="40"/>
-        <werk kat="rezension" ref="beaumont-nouvelle-clarice"></werk>
-        <ort ref="lyon"></ort>
+        <werk kat="rezension" ref="beaumont-nouvelle-clarice"/>
+        <ort ref="lyon"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="10" von="41" bis="42" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-10-weltnachrichten">
+        <stueck when="1768" nr="10" von="41" bis="42"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="10" von="42"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
-        <kategorie ref="theaterkritik"></kategorie>
+    <beitrag id="1768-10-lokalnachrichten">
+        <stueck when="1768" nr="10" von="42" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
+        <kategorie ref="theaterkritik"/>
         <anmerkung>Über die letzte Vorstellung der Schuchschen Truppe (Romeo und Julia) und ihren Aufbruch nach Breslau.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="10" von="42"  order="2"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-10-einkommende-fremde">
+        <stueck when="1768" nr="10" von="42" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-11-rezension-schirach-sammlung-verstand">
         <stueck when="1768" nr="11" von="43" bis="45"/>
-        <werk kat="rezension" ref="schirach-sammlung-verstand"></werk>
-        <ort ref="bremen"></ort>
+        <werk kat="rezension" ref="schirach-sammlung-verstand"/>
+        <ort ref="bremen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="11" von="45" bis="46" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-11-weltnachrichten">
+        <stueck when="1768" nr="11" von="45" bis="46"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="11" von="46" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-11-wechselkurse">
+        <stueck when="1768" nr="11" von="46"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-12-rezension-abbt-fragment">
         <stueck when="1768" nr="12" von="47" bis="48"/>
-        <werk kat="rezension" ref="abbt-fragment"></werk>
-        <ort ref="halle"></ort>
+        <werk kat="rezension" ref="abbt-fragment"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="12" von="49" bis="50" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-12-weltnachrichten">
+        <stueck when="1768" nr="12" von="49" bis="50"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="12" von="50" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-12-einkommende-fremde">
+        <stueck when="1768" nr="12" von="50"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-13-rezension-sack-zwey-predigten">
         <stueck when="1768" nr="13" von="51" bis="52"/>
-        <werk kat="rezension" ref="sack-zwey-predigten"></werk>
-        <ort ref="berlin"></ort>
+        <werk kat="rezension" ref="sack-zwey-predigten"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1768-13-rezension-delius-nachricht-nurzen-salzasche">
         <stueck when="1768" nr="13" von="52" order="1"/>
-        <werk kat="rezension" ref="delius-nachricht-nurzen-salzasche"></werk>
-        <ort ref="frankfurt"></ort>
-        <ort ref="leipzig"></ort>
+        <werk kat="rezension" ref="delius-nachricht-nurzen-salzasche"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="13" von="52"  order="2"/>
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-13-buecher">
+        <stueck when="1768" nr="13" von="52" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="13" von="53" bis="54" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-13-weltnachrichten">
+        <stueck when="1768" nr="13" von="53" bis="54"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="13" von="54"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-13-lokalnachrichten">
+        <stueck when="1768" nr="13" von="54" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="13" von="54"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-13-wechselkurse">
+        <stueck when="1768" nr="13" von="54" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
     
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="13" von="1" />
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-13-beil-lokalanzeigen">
+        <stueck beilage="1" when="1768" nr="13" von="1"/>
+        <kategorie ref="lokalanzeigen"/>
         <anmerkung>Für holländische Tabakpfeifen.</anmerkung>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-14-kanter-muerb-von-der-jahre-last">
         <stueck when="1768" nr="14" von="55"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <kategorie ref="gedicht"></kategorie>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <kategorie ref="gedicht"/>
         <incipit>Mürb von der Jahre Last, entfernt von dem Altar</incipit>
-        <ort ref="kgsb"></ort>
+        <ort ref="kgsb"/>
         <akteur ref="kanter">Unterzeichnet „J. J. Kanter.“</akteur>
         <anmerkung>Anlässlich der Feier des 50jährigen Predigtamtes von Johann Jacob Johann Jakob Quandt.</anmerkung>
     </beitrag>
-    <beitrag>
+    <beitrag id="1768-14-rezension-riedel-theorie">
         <stueck when="1768" nr="14" von="55" bis="57"/>
-        <werk kat="rezension" ref="riedel-theorie"></werk>
-        <ort ref="jena"></ort>
+        <werk kat="rezension" ref="riedel-theorie"/>
+        <ort ref="jena"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="14" von="57" bis="58" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-14-weltnachrichten">
+        <stueck when="1768" nr="14" von="57" bis="58"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="14" von="58"  order="1"/>
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1768-14-lotterie">
+        <stueck when="1768" nr="14" von="58" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="14" von="58"  order="2"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-14-einkommende-fremde">
+        <stueck when="1768" nr="14" von="58" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-15-rezension-theater-der-deutschen">
         <stueck when="1768" nr="15" von="59" bis="60"/>
-        <werk kat="rezension" ref="theater-der-deutschen"></werk>
-        <ort ref="berlin"></ort>
+        <werk kat="rezension" ref="theater-der-deutschen"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="15" von="60" bis="62" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-15-weltnachrichten">
+        <stueck when="1768" nr="15" von="60" bis="62"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="15" von="62" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-15-wechselkurse">
+        <stueck when="1768" nr="15" von="62"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
     
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="15" von="1" />
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-15-beil-lokalanzeigen">
+        <stueck beilage="1" when="1768" nr="15" von="1"/>
+        <kategorie ref="lokalanzeigen"/>
         <anmerkung>Für holländische Tabakpfeifen.</anmerkung>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-16-rezension-lueders-abhandlungen">
         <stueck when="1768" nr="16" von="63" bis="64"/>
-        <werk kat="rezension" ref="lueders-abhandlungen"></werk>
+        <werk kat="rezension" ref="lueders-abhandlungen"/>
         <anmerkung>Unterzeichnet W. F. von Kleist, ein „erfahrener Landwirth“</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="16" von="65" bis="66" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-16-weltnachrichten">
+        <stueck when="1768" nr="16" von="65" bis="66"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="16" von="66" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-16-einkommende-fremde">
+        <stueck when="1768" nr="16" von="66"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-17-kanter-rezension-trescho-ermunterungen">
         <stueck when="1768" nr="17" von="67" bis="68"/>
-        <werk kat="rezension" ref="trescho-ermunterungen"></werk>
-        <ort ref="danzig"></ort>
+        <werk kat="rezension" ref="trescho-ermunterungen"/>
+        <ort ref="danzig"/>
         <akteur ref="kanter">Warda/Diesch II,334</akteur>
     </beitrag>
-    <beitrag>
+    <beitrag id="1768-17-rezension-geissler-kurzer-unterricht">
         <stueck when="1768" nr="17" von="68" bis="69"/>
-        <werk kat="rezension" ref="geissler-kurzer-unterricht"></werk>
-        <ort ref="leipzig"></ort>
-        <ort ref="leipzig"></ort>
+        <werk kat="rezension" ref="geissler-kurzer-unterricht"/>
+        <ort ref="leipzig"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="17" von="69" bis="70" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-17-weltnachrichten">
+        <stueck when="1768" nr="17" von="69" bis="70"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="17" von="70"  order="1"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-17-lokalanzeigen">
+        <stueck when="1768" nr="17" von="70" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="17" von="70"  order="2"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-17-lokalnachrichten">
+        <stueck when="1768" nr="17" von="70" order="2"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="17" von="70"  order="3"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-17-wechselkurse">
+        <stueck when="1768" nr="17" von="70" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-18-rezension-gregory-vergleichung">
         <stueck when="1768" nr="18" von="71" bis="72"/>
-        <werk kat="rezension" ref="gregory-vergleichung"></werk>
+        <werk kat="rezension" ref="gregory-vergleichung"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1768-18-rezension-mehlig-kurzgefasste-kirchengeschichte">
         <stueck when="1768" nr="18" von="72" bis="73"/>
-        <werk kat="rezension" ref="mehlig-kurzgefasste-kirchengeschichte"></werk>
-        <ort ref="chemnitz"></ort>
+        <werk kat="rezension" ref="mehlig-kurzgefasste-kirchengeschichte"/>
+        <ort ref="chemnitz"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="18" von="73" bis="74" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-18-weltnachrichten">
+        <stueck when="1768" nr="18" von="73" bis="74"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="18" von="74" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-18-einkommende-fremde">
+        <stueck when="1768" nr="18" von="74"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-19-hippel-rezension-sturz-julie">
         <stueck when="1768" nr="19" von="75" bis="77"/>
-        <werk kat="rezension" ref="sturz-julie"></werk>
+        <werk kat="rezension" ref="sturz-julie"/>
         <akteur ref="hippel">Schneider, Anhang, 26f.; Hippel XIII, 12</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="19" von="77" bis="78" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-19-weltnachrichten">
+        <stueck when="1768" nr="19" von="77" bis="78"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="19" von="78"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-19-lokalnachrichten">
+        <stueck when="1768" nr="19" von="78" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="19" von="78"  order="2"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-19-lokalanzeigen">
+        <stueck when="1768" nr="19" von="78" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="19" von="78"  order="3"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-19-wechselkurse">
+        <stueck when="1768" nr="19" von="78" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-rezension-boysen-allgemeine-weltgeschichte">
         <stueck when="1768" nr="20" von="79" bis="80"/>
         <stueck when="1768" nr="21" von="83" bis="85"/>
-        <werk kat="rezension" ref="boysen-allgemeine-weltgeschichte"></werk>
+        <werk kat="rezension" ref="boysen-allgemeine-weltgeschichte"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="20" von="80" />
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-20-buecher">
+        <stueck when="1768" nr="20" von="80"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="20" von="80" bis="82" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-20-weltnachrichten">
+        <stueck when="1768" nr="20" von="80" bis="82"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="20" von="82"  order="1"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-20-einkommende-fremde">
+        <stueck when="1768" nr="20" von="82" order="1"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="20" von="82"  order="2"/>
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1768-20-lotterie">
+        <stueck when="1768" nr="20" von="82" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="20" von="82"  order="3"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="21" von="85" bis="86" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="21" von="86"  order="1"/>
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="21" von="86"  order="2"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="21" von="86"  order="3"/>
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1768-20-lokalanzeigen">
+        <stueck when="1768" nr="20" von="82" order="3"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="22" von="87" bis="88" />
-        <werk ref="patzke-greis" s="Teil 14" kat="rezension" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-21-weltnachrichten">
+        <stueck when="1768" nr="21" von="85" bis="86"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="22" von="88" />
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-21-wechselkurse">
+        <stueck when="1768" nr="21" von="86" order="1"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="22" von="89" bis="90" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-21-lokalnachrichten">
+        <stueck when="1768" nr="21" von="86" order="2"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="22" von="90" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-21-lotterie">
+        <stueck when="1768" nr="21" von="86" order="3"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="23" von="91" bis="93" />
-        <kategorie ref="aufsatz"></kategorie>
+    <beitrag id="1768-22-rezension-patzke-greis">
+        <stueck when="1768" nr="22" von="87" bis="88"/>
+        <werk ref="patzke-greis" s="Teil 14" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1768-22-buecher">
+        <stueck when="1768" nr="22" von="88"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1768-22-weltnachrichten">
+        <stueck when="1768" nr="22" von="89" bis="90"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-22-einkommende-fremde">
+        <stueck when="1768" nr="22" von="90"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-23-um-den-tonkuenstlern-sowohl-als-den-mechanikern">
+        <stueck when="1768" nr="23" von="91" bis="93"/>
+        <kategorie ref="aufsatz"/>
         <incipit>Um den Tonkünstlern sowohl als den Mechanikern</incipit>
-        <ort ref="stpetersburg"></ort>
+        <ort ref="stpetersburg"/>
         <anmerkung>Beschreibung eines neuen Bogenflügels; Erfindung von Jeremias Krämer aus Reval.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="23" von="93" bis="94" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-23-weltnachrichten">
+        <stueck when="1768" nr="23" von="93" bis="94"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="23" von="94"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-23-lokalnachrichten">
+        <stueck when="1768" nr="23" von="94" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="23" von="94"  order="2"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-23-einkommende-fremde">
+        <stueck when="1768" nr="23" von="94" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="24" von="95" bis="96" />
-        <kategorie ref="brief"></kategorie>
+    <beitrag id="1768-24-friedrich-II-ich-muss-zuvoerderst-ew">
+        <stueck when="1768" nr="24" von="95" bis="96"/>
+        <kategorie ref="brief"/>
         <incipit>Ich muss zuvörderst Ew. Kaiserliche Majestät für das Geschenk</incipit>
-        <akteur ref="friedrich-II"></akteur>
+        <akteur ref="friedrich-II"/>
         <anmerkung>Abdruck von Friedrich II. Antwortbrief auf Katharina II. Zusendung der <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564713-0">Großen Instruktion</wwwlink>, datiert Potsdam, 26.11.1767.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="24" von="96" />
-        <kategorie ref="brief"></kategorie>
+    <beitrag id="1768-24-ich-nehme-keinen-anstand">
+        <stueck when="1768" nr="24" von="96"/>
+        <kategorie ref="brief"/>
         <incipit>Ich nehme keinen Anstand</incipit>
         <anmerkung>Abdruck eines Billets des Grafen von Solms an den Grafen von Panin im selben Kontext.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="24" von="96" bis="98" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-24-weltnachrichten">
+        <stueck when="1768" nr="24" von="96" bis="98"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="24" von="98"  order="1"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-24-einkommende-fremde">
+        <stueck when="1768" nr="24" von="98" order="1"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="24" von="98"  order="2"/>
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1768-24-lotterie">
+        <stueck when="1768" nr="24" von="98" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="24" von="98"  order="3"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="25" von="99" bis="100" />
-        <werk ref="zueckert-systematische-beschreibung" kat="rezension" />
-        <ort ref="berlin"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="25" von="100" bis="102" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="25" von="102"  order="1"/>
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="25" von="102"  order="2"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-24-lokalanzeigen">
+        <stueck when="1768" nr="24" von="98" order="3"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="26" von="103" bis="104" />
-        <werk ref="haeberlin-allgemeine-welthistorie" kat="rezension" />
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-25-rezension-zueckert-systematische-beschreibung">
+        <stueck when="1768" nr="25" von="99" bis="100"/>
+        <werk ref="zueckert-systematische-beschreibung" kat="rezension"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="26" von="104" />
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-25-weltnachrichten">
+        <stueck when="1768" nr="25" von="100" bis="102"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="26" von="104" bis="106" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-25-wechselkurse">
+        <stueck when="1768" nr="25" von="102" order="1"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="26" von="106"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="26" von="106"  order="2"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-25-lokalanzeigen">
+        <stueck when="1768" nr="25" von="102" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="27" von="107" />
-        <werk ref="schubart-zaubereien" kat="rezension" />
-        <ort ref="ulm"></ort>
+    <beitrag id="1768-26-rezension-haeberlin-allgemeine-welthistorie">
+        <stueck when="1768" nr="26" von="103" bis="104"/>
+        <werk ref="haeberlin-allgemeine-welthistorie" kat="rezension"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="27" von="107" bis="108" />
-        <werk ref="schubart-todesgesaenge" kat="rezension" />
-        <ort ref="ulm"></ort>
+    <beitrag id="1768-26-buecher">
+        <stueck when="1768" nr="26" von="104"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="27" von="109" bis="110" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-26-weltnachrichten">
+        <stueck when="1768" nr="26" von="104" bis="106"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="27" von="110"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-26-lokalnachrichten">
+        <stueck when="1768" nr="26" von="106" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="27" von="110"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="28" von="111" bis="112" />
-        <werk ref="clemm-einleitung" kat="rezension" />
-        <ort ref="tuebingen"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="28" von="113" bis="114" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="28" von="114" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-26-einkommende-fremde">
+        <stueck when="1768" nr="26" von="106" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="29" von="115" bis="116" />
-        <werk ref="schreber-schauplatz-der-kuenste" s="Bd. 7" kat="rezension" />
-        <ort ref="kgsb"></ort>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-27-rezension-schubart-zaubereien">
+        <stueck when="1768" nr="27" von="107"/>
+        <werk ref="schubart-zaubereien" kat="rezension"/>
+        <ort ref="ulm"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1768-27-rezension-schubart-todesgesaenge">
+        <stueck when="1768" nr="27" von="107" bis="108"/>
+        <werk ref="schubart-todesgesaenge" kat="rezension"/>
+        <ort ref="ulm"/>
+    </beitrag>
+    <beitrag id="1768-27-weltnachrichten">
+        <stueck when="1768" nr="27" von="109" bis="110"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-27-lokalnachrichten">
+        <stueck when="1768" nr="27" von="110" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-27-wechselkurse">
+        <stueck when="1768" nr="27" von="110" order="2"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag id="1768-28-rezension-clemm-einleitung">
+        <stueck when="1768" nr="28" von="111" bis="112"/>
+        <werk ref="clemm-einleitung" kat="rezension"/>
+        <ort ref="tuebingen"/>
+    </beitrag>
+    <beitrag id="1768-28-weltnachrichten">
+        <stueck when="1768" nr="28" von="113" bis="114"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-28-einkommende-fremde">
+        <stueck when="1768" nr="28" von="114"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-29-rezension-schreber-schauplatz-der-kuenste">
+        <stueck when="1768" nr="29" von="115" bis="116"/>
+        <werk ref="schreber-schauplatz-der-kuenste" s="Bd. 7" kat="rezension"/>
+        <ort ref="kgsb"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1768-29-gelehrte-nachrichten">
         <stueck when="1768" nr="29" von="116"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <ort ref="preussisch-holland"></ort>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="preussisch-holland"/>
         <anmerkung>Anlässlich der Feier des 50jährigen Predigtamtes von Herrn Rindfleisch, reformierter Hofprediger der gräflichen Höfe zu Dohna-Schlodien, Carwinden und Schlobitten.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="29" von="116" bis="118" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-29-weltnachrichten">
+        <stueck when="1768" nr="29" von="116" bis="118"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="29" von="118" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-29-wechselkurse">
+        <stueck when="1768" nr="29" von="118"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="30" von="119" bis="120" />
+    <beitrag id="1768-30-die-krankheit">
+        <stueck when="1768" nr="30" von="119" bis="120"/>
         <titel>Die Krankheit. Nach dem Gebet des Königs Hiskias.</titel>
-        <werk ref="rousseau-odes" s="S. 61–65" kat="uebersetzung" />
+        <werk ref="rousseau-odes" s="S. 61–65" kat="uebersetzung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="30" von="120" bis="122" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-30-weltnachrichten">
+        <stueck when="1768" nr="30" von="120" bis="122"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="30" von="122" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-30-einkommende-fremde">
+        <stueck when="1768" nr="30" von="122"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>    
 
-    <beitrag>
-        <stueck when="1768" nr="31" von="123" bis="124" />
-        <werk ref="hippel-ungewoehnliche-nebenbuhler" kat="rezension" />
-        <ort ref="kgsb"></ort>
+    <beitrag id="1768-31-bock-kg-rezension-hippel-ungewoehnliche-nebenbuhler">
+        <stueck when="1768" nr="31" von="123" bis="124"/>
+        <werk ref="hippel-ungewoehnliche-nebenbuhler" kat="rezension"/>
+        <ort ref="kgsb"/>
         <akteur ref="bock-kg">Hippel XIII, 42f.</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="31" von="124"  order="1"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <ort ref="kgsb"></ort>
+    <beitrag id="1768-31-gelehrte-nachrichten">
+        <stueck when="1768" nr="31" von="124" order="1"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="kgsb"/>
         <anmerkung>Zur Übergabe des halbjährigen Rektorats der Albertina von Dr. med. Büttner an Carl Andreas Christiani.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="31" von="124"  order="2"/>
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-31-buecher">
+        <stueck when="1768" nr="31" von="124" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="31" von="124" bis="126" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-31-weltnachrichten">
+        <stueck when="1768" nr="31" von="124" bis="126"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="31" von="126"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-31-lokalnachrichten">
+        <stueck when="1768" nr="31" von="126" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="31" von="126"  order="2"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-31-lokalanzeigen">
+        <stueck when="1768" nr="31" von="126" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="31" von="126"  order="3"/>
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="32" von="127" bis="128" />
-        <werk ref="goldoni-saemtliche-lustspiele1" kat="rezension" />
-        <ort ref="leipzig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="32" von="128" />
-        <werk ref="teubern-strumpfband" kat="rezension" />
-        <ort ref="leipzig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="32" von="128" bis="130" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="32" von="130" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-31-wechselkurse">
+        <stueck when="1768" nr="31" von="126" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="33" von="131" bis="133" />
-        <kategorie ref="vorlesungsverzeichnis"></kategorie>
+    <beitrag id="1768-32-rezension-goldoni-saemtliche-lustspiele1">
+        <stueck when="1768" nr="32" von="127" bis="128"/>
+        <werk ref="goldoni-saemtliche-lustspiele1" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1768-32-rezension-teubern-strumpfband">
+        <stueck when="1768" nr="32" von="128"/>
+        <werk ref="teubern-strumpfband" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1768-32-weltnachrichten">
+        <stueck when="1768" nr="32" von="128" bis="130"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-32-einkommende-fremde">
+        <stueck when="1768" nr="32" von="130"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-33-vorlesungen-auf-der-hiesigen-akademie-fuer-das-sommerhalbejahr">
+        <stueck when="1768" nr="33" von="131" bis="133"/>
+        <kategorie ref="vorlesungsverzeichnis"/>
         <titel>Vorlesungen auf der hiesigen Akademie für das Sommerhalbejahr.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="33" von="133" bis="134" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-33-weltnachrichten">
+        <stueck when="1768" nr="33" von="133" bis="134"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="33" von="134"  order="1"/>
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1768-33-lotterie">
+        <stueck when="1768" nr="33" von="134" order="1"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="33" von="134"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="34" von="135" bis="136" />
-        <werk ref="buettner-anweisung" kat="rezension" />
-        <ort ref="kgsb"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="34" von="136"  order="1"/>
-        <werk ref="sprengel-handwerke" kat="rezension" />
-        <ort ref="berlin"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="34" von="136"  order="2"/>
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="34" von="137" bis="138" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="34" von="138"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="34" von="138"  order="2"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-33-wechselkurse">
+        <stueck when="1768" nr="33" von="134" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="35" von="139" bis="140" />
-        <werk ref="hiller-woechentliche-nachrichten" kat="rezension" />
-        <ort ref="kgsb"></ort>
+    <beitrag id="1768-34-rezension-buettner-anweisung">
+        <stueck when="1768" nr="34" von="135" bis="136"/>
+        <werk ref="buettner-anweisung" kat="rezension"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="35" von="140" bis="142" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-34-rezension-sprengel-handwerke">
+        <stueck when="1768" nr="34" von="136" order="1"/>
+        <werk ref="sprengel-handwerke" kat="rezension"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="35" von="142" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-34-buecher">
+        <stueck when="1768" nr="34" von="136" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="36" von="143" bis="144" />
-        <werk ref="pieces-relatives-belisaire" kat="rezension" />
+    <beitrag id="1768-34-weltnachrichten">
+        <stueck when="1768" nr="34" von="137" bis="138"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="36" von="144" />
-        <werk ref="brandes-schein" kat="rezension" />
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-34-lokalnachrichten">
+        <stueck when="1768" nr="34" von="138" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="36" von="144" bis="146" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="36" von="146" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-34-einkommende-fremde">
+        <stueck when="1768" nr="34" von="138" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="37" von="147" bis="148" />
-        <werk ref="boysen-allgemeines-historisches" s="Bd. 1 und 2" kat="rezension" />
-        <ort ref="halle"></ort>
+    <beitrag id="1768-35-rezension-hiller-woechentliche-nachrichten">
+        <stueck when="1768" nr="35" von="139" bis="140"/>
+        <werk ref="hiller-woechentliche-nachrichten" kat="rezension"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="37" von="148" bis="150" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-35-weltnachrichten">
+        <stueck when="1768" nr="35" von="140" bis="142"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="37" von="150"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="37" von="150"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-35-wechselkurse">
+        <stueck when="1768" nr="35" von="142"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="38" von="151" bis="152" />
-        <werk ref="aken-christliche-briefe" kat="rezension" />
-        <ort ref="stralsund"></ort>
+    <beitrag id="1768-36-rezension-pieces-relatives-belisaire">
+        <stueck when="1768" nr="36" von="143" bis="144"/>
+        <werk ref="pieces-relatives-belisaire" kat="rezension"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="38" von="152"  order="1"/>
-        <werk ref="sterne-predigten1766" kat="rezension" />
-        <ort ref="zuerich"></ort>
+    <beitrag id="1768-36-rezension-brandes-schein">
+        <stueck when="1768" nr="36" von="144"/>
+        <werk ref="brandes-schein" kat="rezension"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="38" von="152"  order="2"/>
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-36-weltnachrichten">
+        <stueck when="1768" nr="36" von="144" bis="146"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="38" von="153" bis="154" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="38" von="154" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-36-einkommende-fremde">
+        <stueck when="1768" nr="36" von="146"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="39" von="155" />
-        <kategorie ref="ineigenersache"></kategorie>
+    <beitrag id="1768-37-rezension-boysen-allgemeines-historisches">
+        <stueck when="1768" nr="37" von="147" bis="148"/>
+        <werk ref="boysen-allgemeines-historisches" s="Bd. 1 und 2" kat="rezension"/>
+        <ort ref="halle"/>
+    </beitrag>
+    <beitrag id="1768-37-weltnachrichten">
+        <stueck when="1768" nr="37" von="148" bis="150"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-37-lokalnachrichten">
+        <stueck when="1768" nr="37" von="150" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-37-wechselkurse">
+        <stueck when="1768" nr="37" von="150" order="2"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag id="1768-38-rezension-aken-christliche-briefe">
+        <stueck when="1768" nr="38" von="151" bis="152"/>
+        <werk ref="aken-christliche-briefe" kat="rezension"/>
+        <ort ref="stralsund"/>
+    </beitrag>
+    <beitrag id="1768-38-rezension-sterne-predigten1766">
+        <stueck when="1768" nr="38" von="152" order="1"/>
+        <werk ref="sterne-predigten1766" kat="rezension"/>
+        <ort ref="zuerich"/>
+    </beitrag>
+    <beitrag id="1768-38-buecher">
+        <stueck when="1768" nr="38" von="152" order="2"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1768-38-weltnachrichten">
+        <stueck when="1768" nr="38" von="153" bis="154"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-38-einkommende-fremde">
+        <stueck when="1768" nr="38" von="154"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-39-an-die-verfasser-der-koenigsbergschen-gelehrten-zeitung">
+        <stueck when="1768" nr="39" von="155"/>
+        <kategorie ref="ineigenersache"/>
         <titel>An die Verfasser der Königsbergschen gelehrten Zeitung.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="39" von="155" bis="157" />
-        <stueck when="1768" nr="40" von="159" bis="160" />
-        <stueck when="1768" nr="41" von="163" bis="165" />
-        <werk ref="sterne-sentimental-journey" kat="rezension" />
+    <beitrag id="1768-rezension-sterne-sentimental-journey">
+        <stueck when="1768" nr="39" von="155" bis="157"/>
+        <stueck when="1768" nr="40" von="159" bis="160"/>
+        <stueck when="1768" nr="41" von="163" bis="165"/>
+        <werk ref="sterne-sentimental-journey" kat="rezension"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="39" von="157" bis="158" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-39-weltnachrichten">
+        <stueck when="1768" nr="39" von="157" bis="158"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="39" von="158"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-39-lokalnachrichten">
+        <stueck when="1768" nr="39" von="158" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="39" von="158"  order="2"/>
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1768-39-lotterie">
+        <stueck when="1768" nr="39" von="158" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="39" von="158"  order="3"/>
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="40" von="159" />
-        <werk ref="finecke-deux-dissertations" kat="rezension" />
-        <ort ref="kopenhagen"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="40" von="160" />
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="40" von="161" bis="162" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="40" von="162" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-39-wechselkurse">
+        <stueck when="1768" nr="39" von="158" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="41" von="165" bis="166" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-40-rezension-finecke-deux-dissertations">
+        <stueck when="1768" nr="40" von="159"/>
+        <werk ref="finecke-deux-dissertations" kat="rezension"/>
+        <ort ref="kopenhagen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="41" von="166"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-40-buecher">
+        <stueck when="1768" nr="40" von="160"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="41" von="166"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-40-weltnachrichten">
+        <stueck when="1768" nr="40" von="161" bis="162"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="42" von="167" bis="168" />
-        <werk ref="boswell-account" kat="rezension" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="42" von="168" />
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="42" von="168" bis="170" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="42" von="170" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-40-einkommende-fremde">
+        <stueck when="1768" nr="40" von="162"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="43" von="171" bis="172" />
-        <werk ref="weisse-lieder-kinder" kat="rezension" />
+    <beitrag id="1768-41-weltnachrichten">
+        <stueck when="1768" nr="41" von="165" bis="166"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="43" von="172" />
-        <werk ref="hippel-hinz-freimaeurerreden" kat="rezension" />
+    <beitrag id="1768-41-lokalnachrichten">
+        <stueck when="1768" nr="41" von="166" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="43" von="173" bis="174" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="43" von="174"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="43" von="174"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-41-wechselkurse">
+        <stueck when="1768" nr="41" von="166" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="44" von="175"  order="1"/>
-        <kategorie ref="ineigenersache"></kategorie>
+    <beitrag id="1768-42-rezension-boswell-account">
+        <stueck when="1768" nr="42" von="167" bis="168"/>
+        <werk ref="boswell-account" kat="rezension"/>
+    </beitrag>
+    <beitrag id="1768-42-buecher">
+        <stueck when="1768" nr="42" von="168"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1768-42-weltnachrichten">
+        <stueck when="1768" nr="42" von="168" bis="170"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-42-einkommende-fremde">
+        <stueck when="1768" nr="42" von="170"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-43-rezension-weisse-lieder-kinder">
+        <stueck when="1768" nr="43" von="171" bis="172"/>
+        <werk ref="weisse-lieder-kinder" kat="rezension"/>
+    </beitrag>
+    <beitrag id="1768-43-rezension-hippel-hinz-freimaeurerreden">
+        <stueck when="1768" nr="43" von="172"/>
+        <werk ref="hippel-hinz-freimaeurerreden" kat="rezension"/>
+    </beitrag>
+    <beitrag id="1768-43-weltnachrichten">
+        <stueck when="1768" nr="43" von="173" bis="174"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-43-lokalnachrichten">
+        <stueck when="1768" nr="43" von="174" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-43-wechselkurse">
+        <stueck when="1768" nr="43" von="174" order="2"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag id="1768-44-nachricht">
+        <stueck when="1768" nr="44" von="175" order="1"/>
+        <kategorie ref="ineigenersache"/>
         <titel>Nachricht.</titel>
         <anmerkung>Ankündigung von Kurzrezensionen, da noch zu viele Bücher der letzten Messe übrig sind.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="44" von="175"  order="2"/>
-        <werk ref="boehm-geistliche-poesien" kat="rezension" />
-        <ort ref="breslau"></ort>
+    <beitrag id="1768-44-rezension-boehm-geistliche-poesien">
+        <stueck when="1768" nr="44" von="175" order="2"/>
+        <werk ref="boehm-geistliche-poesien" kat="rezension"/>
+        <ort ref="breslau"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1768-44-rezension-hausvater-lande">
         <stueck when="1768" nr="44" von="175" bis="176"/>
-        <werk ref="hausvater-lande" kat="rezension" />
-        <ort ref="ulm"></ort>
+        <werk ref="hausvater-lande" kat="rezension"/>
+        <ort ref="ulm"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="44" von="176"  order="1"/>
-        <werk ref="ebeling-heilige-wahrheiten" kat="rezension" />
-        <ort ref="buetzow"></ort>
-        <ort ref="wismar"></ort>
+    <beitrag id="1768-44-rezension-ebeling-heilige-wahrheiten">
+        <stueck when="1768" nr="44" von="176" order="1"/>
+        <werk ref="ebeling-heilige-wahrheiten" kat="rezension"/>
+        <ort ref="buetzow"/>
+        <ort ref="wismar"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="44" von="176"  order="2"/>
-        <werk ref="hirsch-fraenkische-bienenmeister" kat="rezension" />
-        <ort ref="ansbach"></ort>
+    <beitrag id="1768-44-rezension-hirsch-fraenkische-bienenmeister">
+        <stueck when="1768" nr="44" von="176" order="2"/>
+        <werk ref="hirsch-fraenkische-bienenmeister" kat="rezension"/>
+        <ort ref="ansbach"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="44" von="177" bis="178" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-44-weltnachrichten">
+        <stueck when="1768" nr="44" von="177" bis="178"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="44" von="178" />
-        <kategorie ref="einkommende-fremde"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="45" von="179" bis="180" />
-        <werk ref="moser-patriotische-briefe" kat="rezension" />
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="45" von="180"  order="1"/>
-        <werk ref="hess-tod-moses" kat="rezension" />
-        <ort ref="zuerich"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="45" von="180"  order="2"/>
-        <werk ref="cotes-memoires-pitt" kat="rezension" />
-        <ort ref="amsterdam"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="45" von="180"  order="3"/>
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="45" von="181" bis="182" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="45" von="182"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="45" von="182"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-44-einkommende-fremde">
+        <stueck when="1768" nr="44" von="178"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="46" von="183" bis="184" />
-        <werk ref="wilkes-moralische-beitraege" kat="rezension" />
+    <beitrag id="1768-45-rezension-moser-patriotische-briefe">
+        <stueck when="1768" nr="45" von="179" bis="180"/>
+        <werk ref="moser-patriotische-briefe" kat="rezension"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="46" von="184"  order="1"/>
-        <werk ref="winning-predigten" kat="rezension" />
-        <ort ref="zuerich"></ort>
+    <beitrag id="1768-45-rezension-hess-tod-moses">
+        <stueck when="1768" nr="45" von="180" order="1"/>
+        <werk ref="hess-tod-moses" kat="rezension"/>
+        <ort ref="zuerich"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="46" von="184"  order="2"/>
-        <werk ref="unzer-sammlung-physicalische2" kat="rezension" />
-        <ort ref="hamburg"></ort>
+    <beitrag id="1768-45-rezension-cotes-memoires-pitt">
+        <stueck when="1768" nr="45" von="180" order="2"/>
+        <werk ref="cotes-memoires-pitt" kat="rezension"/>
+        <ort ref="amsterdam"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="46" von="184"  order="3"/>
-        <werk ref="ringeltaube-beytraege" kat="rezension" />
-        <ort ref="breslau"></ort>
+    <beitrag id="1768-45-buecher">
+        <stueck when="1768" nr="45" von="180" order="3"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="46" von="184"  order="4"/>
-        <werk ref="poertner-auserlesene-predigten" kat="rezension" />
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-45-weltnachrichten">
+        <stueck when="1768" nr="45" von="181" bis="182"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="46" von="185" bis="186" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-45-lokalnachrichten">
+        <stueck when="1768" nr="45" von="182" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="46" von="186" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-45-wechselkurse">
+        <stueck when="1768" nr="45" von="182" order="2"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag id="1768-46-rezension-wilkes-moralische-beitraege">
+        <stueck when="1768" nr="46" von="183" bis="184"/>
+        <werk ref="wilkes-moralische-beitraege" kat="rezension"/>
+    </beitrag>
+    <beitrag id="1768-46-rezension-winning-predigten">
+        <stueck when="1768" nr="46" von="184" order="1"/>
+        <werk ref="winning-predigten" kat="rezension"/>
+        <ort ref="zuerich"/>
+    </beitrag>
+    <beitrag id="1768-46-rezension-unzer-sammlung-physicalische2">
+        <stueck when="1768" nr="46" von="184" order="2"/>
+        <werk ref="unzer-sammlung-physicalische2" kat="rezension"/>
+        <ort ref="hamburg"/>
+    </beitrag>
+    <beitrag id="1768-46-rezension-ringeltaube-beytraege">
+        <stueck when="1768" nr="46" von="184" order="3"/>
+        <werk ref="ringeltaube-beytraege" kat="rezension"/>
+        <ort ref="breslau"/>
+    </beitrag>
+    <beitrag id="1768-46-rezension-poertner-auserlesene-predigten">
+        <stueck when="1768" nr="46" von="184" order="4"/>
+        <werk ref="poertner-auserlesene-predigten" kat="rezension"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1768-46-weltnachrichten">
+        <stueck when="1768" nr="46" von="185" bis="186"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-46-einkommende-fremde">
+        <stueck when="1768" nr="46" von="186"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
     <beitrag id="gleim-siegeslied-mosis">
-        <stueck when="1768" nr="47" von="187" bis="188" />
-        <kategorie ref="gedicht"></kategorie>
+        <stueck when="1768" nr="47" von="187" bis="188"/>
+        <kategorie ref="gedicht"/>
         <titel>Siegeslied Mosis.</titel>
-        <akteur ref="gleim"></akteur>
+        <akteur ref="gleim"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="47" von="188" bis="189" />
-        <stueck when="1768" nr="48" von="191" bis="192" />
-        <beitrag ref="gleim-siegeslied-mosis" kat="kommentar" />
+    <beitrag id="1768-gleim-siegeslied-mosis-kommentar">
+        <stueck when="1768" nr="47" von="188" bis="189"/>
+        <stueck when="1768" nr="48" von="191" bis="192"/>
+        <beitrag ref="gleim-siegeslied-mosis" kat="kommentar"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="47" von="189" bis="190" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-47-weltnachrichten">
+        <stueck when="1768" nr="47" von="189" bis="190"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="47" von="190"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-47-lokalnachrichten">
+        <stueck when="1768" nr="47" von="190" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="47" von="190"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-    
-    <beitrag>
-        <stueck when="1768" nr="48" von="192" bis="193" />
-        <werk kat="rezension" ref="desbillons-fabulis"></werk>
-        <ort ref="mannheim"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="48" von="193" bis="194" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="48" von="194"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="48" von="194"  order="2"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-47-wechselkurse">
+        <stueck when="1768" nr="47" von="190" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
     
-    <beitrag>
-        <stueck when="1768" nr="49" von="195" bis="196" />
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-48-rezension-desbillons-fabulis">
+        <stueck when="1768" nr="48" von="192" bis="193"/>
+        <werk kat="rezension" ref="desbillons-fabulis"/>
+        <ort ref="mannheim"/>
+    </beitrag>
+    <beitrag id="1768-48-weltnachrichten">
+        <stueck when="1768" nr="48" von="193" bis="194"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-48-lokalnachrichten">
+        <stueck when="1768" nr="48" von="194" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-48-einkommende-fremde">
+        <stueck when="1768" nr="48" von="194" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+    
+    <beitrag id="1768-49-gelehrte-nachrichten">
+        <stueck when="1768" nr="49" von="195" bis="196"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="berlin"/>
         <anmerkung>Über die Versammlung der Königlichen Akademie der Wissenschaften am 2. Juni 1768; Reden, Preisausschreiben etc.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="49" von="196" bis="197" />
-        <werk kat="rezension" ref="baden-anweisung"></werk>
-        <ort ref="kopenhagen"></ort>
-        <ort ref="odense"></ort>
+    <beitrag id="1768-49-rezension-baden-anweisung">
+        <stueck when="1768" nr="49" von="196" bis="197"/>
+        <werk kat="rezension" ref="baden-anweisung"/>
+        <ort ref="kopenhagen"/>
+        <ort ref="odense"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="49" von="197" bis="198" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-49-weltnachrichten">
+        <stueck when="1768" nr="49" von="197" bis="198"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="49" von="198"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-49-lokalnachrichten">
+        <stueck when="1768" nr="49" von="198" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="49" von="198"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-    
-    <beitrag>
-        <stueck when="1768" nr="50" von="199" bis="200" />
-        <stueck when="1768" nr="51" von="203" bis="204" />
-        <werk kat="rezension" ref="dimsdale-unterricht"></werk>
-        <ort ref="leipzig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="50" von="201" bis="202" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="50" von="202"  order="1"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="50" von="202"  order="2"/>
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-49-wechselkurse">
+        <stueck when="1768" nr="49" von="198" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
     
-    <beitrag>
-        <stueck when="1768" nr="51" von="204" bis="205" />
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
+    <beitrag id="1768-rezension-dimsdale-unterricht">
+        <stueck when="1768" nr="50" von="199" bis="200"/>
+        <stueck when="1768" nr="51" von="203" bis="204"/>
+        <werk kat="rezension" ref="dimsdale-unterricht"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1768-50-weltnachrichten">
+        <stueck when="1768" nr="50" von="201" bis="202"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-50-einkommende-fremde">
+        <stueck when="1768" nr="50" von="202" order="1"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+    <beitrag id="1768-50-buecher">
+        <stueck when="1768" nr="50" von="202" order="2"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    
+    <beitrag id="1768-51-ankuendigung">
+        <stueck when="1768" nr="51" von="204" bis="205"/>
+        <kategorie ref="gelehrte-nachrichten"/>
         <titel>Ankündigung</titel>
         <anmerkung>Preisausschreibung des General- Ober- Finanz- Krieges- und Domainendirektoriums für die Erfindung neuer Rammen; die Entscheidung über den Gewinner obliegt der Königlichen Akademie.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="51" von="205" bis="206" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-51-weltnachrichten">
+        <stueck when="1768" nr="51" von="205" bis="206"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="51" von="206" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-51-wechselkurse">
+        <stueck when="1768" nr="51" von="206"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="52" von="207" bis="208" />
-        <werk kat="rezension" ref="schiebeler-romanzen"></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-52-rezension-schiebeler-romanzen">
+        <stueck when="1768" nr="52" von="207" bis="208"/>
+        <werk kat="rezension" ref="schiebeler-romanzen"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="52" von="208" bis="209" />
-        <werk kat="rezension" ref="herder-thomas-abbt"></werk>
+    <beitrag id="1768-52-hamann-rezension-herder-thomas-abbt">
+        <stueck when="1768" nr="52" von="208" bis="209"/>
+        <werk kat="rezension" ref="herder-thomas-abbt"/>
         <akteur ref="hamann">ZH II, 420</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="52" von="209" bis="210" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-52-weltnachrichten">
+        <stueck when="1768" nr="52" von="209" bis="210"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="52" von="210"  order="1"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-52-einkommende-fremde">
+        <stueck when="1768" nr="52" von="210" order="1"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="52" von="210"  order="2"/>
-        <kategorie ref="vorladung"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="53" von="211" bis="212" />
-        <werk kat="rezension" ref="nugent-travels"></werk>
-        <ort ref="london"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="53" von="213" bis="214" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="53" von="214"  order="1"/>
-        <kategorie ref="vorladung"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="53" von="214"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-52-vorladung">
+        <stueck when="1768" nr="52" von="210" order="2"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="54" von="215" bis="216" />
-        <werk kat="rezension" ref="gleim-neue-lieder"></werk>
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-53-rezension-nugent-travels">
+        <stueck when="1768" nr="53" von="211" bis="212"/>
+        <werk kat="rezension" ref="nugent-travels"/>
+        <ort ref="london"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="54" von="216" bis="217" />
-        <werk kat="rezension" ref="neues-hamburger-magazin"></werk>
-        <ort ref="hamburg"></ort>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-53-weltnachrichten">
+        <stueck when="1768" nr="53" von="213" bis="214"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="54" von="217" bis="218" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-53-vorladung">
+        <stueck when="1768" nr="53" von="214" order="1"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="54" von="218"  order="1"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="54" von="218"  order="2"/>
-        <kategorie ref="lotterie"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="54" von="218"  order="3"/>
-        <kategorie ref="vorladung"></kategorie>
+    <beitrag id="1768-53-wechselkurse">
+        <stueck when="1768" nr="53" von="214" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="55" von="219" />
-        <werk kat="rezension" ref="feldzug1768"></werk>
+    <beitrag id="1768-54-rezension-gleim-neue-lieder">
+        <stueck when="1768" nr="54" von="215" bis="216"/>
+        <werk kat="rezension" ref="gleim-neue-lieder"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="55" von="219" bis="220" />
-        <werk kat="rezension" ref="wichmann-antikritikus"></werk>
-        <ort ref="luebeck"></ort>
+    <beitrag id="1768-54-rezension-neues-hamburger-magazin">
+        <stueck when="1768" nr="54" von="216" bis="217"/>
+        <werk kat="rezension" ref="neues-hamburger-magazin"/>
+        <ort ref="hamburg"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1768-54-weltnachrichten">
+        <stueck when="1768" nr="54" von="217" bis="218"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-54-einkommende-fremde">
+        <stueck when="1768" nr="54" von="218" order="1"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+    <beitrag id="1768-54-lotterie">
+        <stueck when="1768" nr="54" von="218" order="2"/>
+        <kategorie ref="lotterie"/>
+    </beitrag>
+    <beitrag id="1768-54-vorladung">
+        <stueck when="1768" nr="54" von="218" order="3"/>
+        <kategorie ref="vorladung"/>
+    </beitrag>
+
+    <beitrag id="1768-55-rezension-feldzug1768">
+        <stueck when="1768" nr="55" von="219"/>
+        <werk kat="rezension" ref="feldzug1768"/>
+    </beitrag>
+    <beitrag id="1768-55-lindner-jg-rezension-wichmann-antikritikus">
+        <stueck when="1768" nr="55" von="219" bis="220"/>
+        <werk kat="rezension" ref="wichmann-antikritikus"/>
+        <ort ref="luebeck"/>
         <akteur ref="lindner-jg" unsicher="true">Warda/Diesch II, 335</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="55" von="220" />
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-55-buecher">
+        <stueck when="1768" nr="55" von="220"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="55" von="220" bis="222" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-55-weltnachrichten">
+        <stueck when="1768" nr="55" von="220" bis="222"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="55" von="222"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-55-lokalnachrichten">
+        <stueck when="1768" nr="55" von="222" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="55" von="222"  order="2"/>
-        <kategorie ref="lotterie"></kategorie>
+    <beitrag id="1768-55-lotterie">
+        <stueck when="1768" nr="55" von="222" order="2"/>
+        <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="55" von="222"  order="3"/>
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="56" von="223" bis="224" />
-        <werk kat="rezension" ref="hiller-dariolette"></werk>
-        <ort ref="leipzig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="56" von="224" />
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="56" von="224" bis="226" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="56" von="226"  order="1"/>
-        <kategorie ref="vorladung"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="56" von="226"  order="2"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-55-wechselkurse">
+        <stueck when="1768" nr="55" von="222" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-56-rezension-hiller-dariolette">
+        <stueck when="1768" nr="56" von="223" bis="224"/>
+        <werk kat="rezension" ref="hiller-dariolette"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1768-56-buecher">
+        <stueck when="1768" nr="56" von="224"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1768-56-weltnachrichten">
+        <stueck when="1768" nr="56" von="224" bis="226"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-56-vorladung">
+        <stueck when="1768" nr="56" von="226" order="1"/>
+        <kategorie ref="vorladung"/>
+    </beitrag>
+    <beitrag id="1768-56-einkommende-fremde">
+        <stueck when="1768" nr="56" von="226" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-56-beil-romanze">
         <stueck beilage="1" when="1768" nr="56" von="1" bis="2"/>
-        <kategorie ref="notenblatt"></kategorie>
+        <kategorie ref="notenblatt"/>
         <titel>Romanze.</titel>
         <incipit>Der Teufel kam vor vielen Jahren</incipit>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="57" von="227" bis="229" />
-        <kategorie ref="gedicht"></kategorie>
+    <beitrag id="1768-57-ramler-pygmalion">
+        <stueck when="1768" nr="57" von="227" bis="229"/>
+        <kategorie ref="gedicht"/>
         <titel>Pygmalion, eine Cantate.</titel>
-        <akteur ref="ramler"></akteur>
+        <akteur ref="ramler"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="57" von="229" bis="230" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-57-weltnachrichten">
+        <stueck when="1768" nr="57" von="229" bis="230"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="57" von="230" />
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="58" von="231" bis="232" />
-        <werk kat="rezension" ref="cramer-unterredungen-hofmann"></werk>
-        <ort ref="kopenhagen"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="58" von="232" bis="234" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="58" von="234" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-57-wechselkurse">
+        <stueck when="1768" nr="57" von="230"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="59" von="235" bis="236" />
-        <werk kat="rezension" ref="klotz-nutzen-steine"></werk>
-        <ort ref="altenburg"></ort>
+    <beitrag id="1768-58-rezension-cramer-unterredungen-hofmann">
+        <stueck when="1768" nr="58" von="231" bis="232"/>
+        <werk kat="rezension" ref="cramer-unterredungen-hofmann"/>
+        <ort ref="kopenhagen"/>
+    </beitrag>
+    <beitrag id="1768-58-weltnachrichten">
+        <stueck when="1768" nr="58" von="232" bis="234"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-58-einkommende-fremde">
+        <stueck when="1768" nr="58" von="234"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-59-trescho-hamann-rezension-klotz-nutzen-steine">
+        <stueck when="1768" nr="59" von="235" bis="236"/>
+        <werk kat="rezension" ref="klotz-nutzen-steine"/>
+        <ort ref="altenburg"/>
         <akteur ref="trescho" unsicher="true">Unterzeichnet „Ad.“</akteur>
         <akteur ref="hamann" unsicher="true">Hamann wird als Autor von Roth III, 417 und Nadler IV, 219f. genannt; vgl. ZH II, 220</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="59" von="236" bis="238" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-59-weltnachrichten">
+        <stueck when="1768" nr="59" von="236" bis="238"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="59" von="238" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-59-wechselkurse">
+        <stueck when="1768" nr="59" von="238"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="60" von="239" bis="240" />
-        <werk kat="rezension" ref="buesching-neue-erdbeschreibung5"></werk>
-        <ort ref="hamburg"></ort>
+    <beitrag id="1768-60-rezension-buesching-neue-erdbeschreibung5">
+        <stueck when="1768" nr="60" von="239" bis="240"/>
+        <werk kat="rezension" ref="buesching-neue-erdbeschreibung5"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="60" von="240"  order="1"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-60-gelehrte-nachrichten">
+        <stueck when="1768" nr="60" von="240" order="1"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="leipzig"/>
         <anmerkung>Pränumerations-Anzeige für eine Klavierbearbeitung von Weißes Operette „Lottchen am Hofe.“</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="60" von="240"  order="2"/>
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-60-buecher">
+        <stueck when="1768" nr="60" von="240" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="60" von="240" bis="242" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-60-weltnachrichten">
+        <stueck when="1768" nr="60" von="240" bis="242"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="60" von="242" />
-        <kategorie ref="einkommende-fremde"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="61" von="243" bis="244" />
-        <werk kat="rezension" ref="korn-materialien"></werk>
-        <ort ref="frankfurt"></ort>
-        <ort ref="leipzig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="61" von="244" />
-        <werk kat="rezension" ref="ebert-fidibus"></werk>
-        <ort ref="leipzig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="61" von="244" bis="246" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="61" von="246" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-60-einkommende-fremde">
+        <stueck when="1768" nr="60" von="242"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="62" von="247" />
-        <werk kat="rezension" ref="ramler-lieder-deutschen-melodien"></werk>
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-61-rezension-korn-materialien">
+        <stueck when="1768" nr="61" von="243" bis="244"/>
+        <werk kat="rezension" ref="korn-materialien"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="62" von="248" />
-        <werk kat="rezension" ref="betrachtungen-geschaeffte"></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-61-rezension-ebert-fidibus">
+        <stueck when="1768" nr="61" von="244"/>
+        <werk kat="rezension" ref="ebert-fidibus"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="62" von="248" bis="250" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-61-weltnachrichten">
+        <stueck when="1768" nr="61" von="244" bis="246"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="62" von="250" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-61-wechselkurse">
+        <stueck when="1768" nr="61" von="246"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="63" von="251" bis="252" />
-        <werk kat="rezension" ref="eschenburg-lukas-hannchen"></werk>
-        <ort ref="braunschweig"></ort>
+    <beitrag id="1768-62-rezension-ramler-lieder-deutschen-melodien">
+        <stueck when="1768" nr="62" von="247"/>
+        <werk kat="rezension" ref="ramler-lieder-deutschen-melodien"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="63" von="252" />
-        <werk kat="rezension" ref="koenig-getreue-englische-wegweiser"></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-62-rezension-betrachtungen-geschaeffte">
+        <stueck when="1768" nr="62" von="248"/>
+        <werk kat="rezension" ref="betrachtungen-geschaeffte"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1768-62-weltnachrichten">
+        <stueck when="1768" nr="62" von="248" bis="250"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-62-einkommende-fremde">
+        <stueck when="1768" nr="62" von="250"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-63-rezension-eschenburg-lukas-hannchen">
+        <stueck when="1768" nr="63" von="251" bis="252"/>
+        <werk kat="rezension" ref="eschenburg-lukas-hannchen"/>
+        <ort ref="braunschweig"/>
+    </beitrag>
+    <beitrag id="1768-63-rezension-koenig-getreue-englische-wegweiser">
+        <stueck when="1768" nr="63" von="252"/>
+        <werk kat="rezension" ref="koenig-getreue-englische-wegweiser"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1768-63-rezension-dezallier-leben">
         <stueck when="1768" nr="63" von="252" bis="253"/>
-        <werk kat="rezension" ref="dezallier-leben" s="Bd. 2, 3 und 4"></werk>
-        <ort ref="leipzig"></ort>
+        <werk kat="rezension" ref="dezallier-leben" s="Bd. 2, 3 und 4"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="63" von="252" bis="254" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-63-weltnachrichten">
+        <stueck when="1768" nr="63" von="252" bis="254"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="63" von="254" />
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="64" von="255" bis="256" />
-        <werk kat="rezension" ref="guignes-allgemeine-hunnen"></werk>
-        <ort ref="greifswald"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="64" von="256" bis="258" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="64" von="258" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-63-wechselkurse">
+        <stueck when="1768" nr="63" von="254"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="65" von="259" bis="260" />
-        <werk kat="rezension" ref="remond-drey-briefe"></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-64-rezension-guignes-allgemeine-hunnen">
+        <stueck when="1768" nr="64" von="255" bis="256"/>
+        <werk kat="rezension" ref="guignes-allgemeine-hunnen"/>
+        <ort ref="greifswald"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="65" von="260" />
-        <werk kat="rezension" ref="fuessli-kuenstlerlexicon-supplement"></werk>
-        <ort ref="zuerich"></ort>
+    <beitrag id="1768-64-weltnachrichten">
+        <stueck when="1768" nr="64" von="256" bis="258"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1768-64-einkommende-fremde">
+        <stueck when="1768" nr="64" von="258"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-65-rezension-remond-drey-briefe">
+        <stueck when="1768" nr="65" von="259" bis="260"/>
+        <werk kat="rezension" ref="remond-drey-briefe"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1768-65-rezension-fuessli-kuenstlerlexicon-supplement">
+        <stueck when="1768" nr="65" von="260"/>
+        <werk kat="rezension" ref="fuessli-kuenstlerlexicon-supplement"/>
+        <ort ref="zuerich"/>
+    </beitrag>
+    <beitrag id="1768-65-rezension-som-versuch-metaphysik">
         <stueck when="1768" nr="65" von="260" bis="261"/>
-        <werk kat="rezension" ref="som-versuch-metaphysik"></werk>
-        <ort ref="hanau"></ort>
+        <werk kat="rezension" ref="som-versuch-metaphysik"/>
+        <ort ref="hanau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="65" von="261" bis="262" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-65-weltnachrichten">
+        <stueck when="1768" nr="65" von="261" bis="262"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="65" von="262"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-65-lokalnachrichten">
+        <stueck when="1768" nr="65" von="262" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="65" von="262"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-65-wechselkurse">
+        <stueck when="1768" nr="65" von="262" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="66" von="263" bis="264" />
-        <werk kat="rezension" ref="kurzgefasste-moralische-schilderungen"></werk>
+    <beitrag id="1768-66-rezension-kurzgefasste-moralische-schilderungen">
+        <stueck when="1768" nr="66" von="263" bis="264"/>
+        <werk kat="rezension" ref="kurzgefasste-moralische-schilderungen"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1768-66-gelehrte-nachrichten">
         <stueck when="1768" nr="66" von="264"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <ort ref="leipzig"></ort>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="leipzig"/>
         <anmerkung>Ankündigung einer Ausgabe der alten griechischen Redner von Johann Jacob Reiske.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="66" von="265" bis="266" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-66-weltnachrichten">
+        <stueck when="1768" nr="66" von="265" bis="266"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="66" von="266" />
-        <kategorie ref="einkommende-fremde"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="67" von="267" bis="268" />
-        <werk kat="rezension" ref="unzer-grundriss-weltweisheit-frauenzimmer"></werk>
-    <ort ref="halle"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="67" von="268" />
-        <werk kat="rezension" ref="adelbulner-kurze-beschreibung-barometer"></werk>
-    <ort ref="nuernberg"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="67" von="269" bis="270" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="67" von="270" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-66-einkommende-fremde">
+        <stueck when="1768" nr="66" von="266"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="68" von="271" bis="272" />
-        <werk kat="rezension" ref="heinecken-nachrichten-kuenstler"></werk>
-    <ort ref="leipzig"></ort>
+    <beitrag id="1768-67-rezension-unzer-grundriss-weltweisheit-frauenzimmer">
+        <stueck when="1768" nr="67" von="267" bis="268"/>
+        <werk kat="rezension" ref="unzer-grundriss-weltweisheit-frauenzimmer"/>
+    <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="68" von="272" bis="274" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-67-rezension-adelbulner-kurze-beschreibung-barometer">
+        <stueck when="1768" nr="67" von="268"/>
+        <werk kat="rezension" ref="adelbulner-kurze-beschreibung-barometer"/>
+    <ort ref="nuernberg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="68" von="274" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-67-weltnachrichten">
+        <stueck when="1768" nr="67" von="269" bis="270"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="69" von="275" bis="276" />
-        <werk kat="rezension" ref="schloezer-probe-annalen"></werk>
-        <ort ref="bremen"></ort>
-        <ort ref="goettingen"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="69" von="276" />
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="69" von="277" bis="278" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="69" von="278" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-67-wechselkurse">
+        <stueck when="1768" nr="67" von="270"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="70" von="279" />
-        <werk kat="rezension" ref="moralische-neujahrswuensche"></werk>
+    <beitrag id="1768-68-rezension-heinecken-nachrichten-kuenstler">
+        <stueck when="1768" nr="68" von="271" bis="272"/>
+        <werk kat="rezension" ref="heinecken-nachrichten-kuenstler"/>
+    <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="70" von="280"  order="1"/>
-        <werk kat="rezension" ref="voltaire-mann"></werk>
+    <beitrag id="1768-68-weltnachrichten">
+        <stueck when="1768" nr="68" von="272" bis="274"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-68-einkommende-fremde">
+        <stueck when="1768" nr="68" von="274"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-69-rezension-schloezer-probe-annalen">
+        <stueck when="1768" nr="69" von="275" bis="276"/>
+        <werk kat="rezension" ref="schloezer-probe-annalen"/>
+        <ort ref="bremen"/>
+        <ort ref="goettingen"/>
+    </beitrag>
+    <beitrag id="1768-69-buecher">
+        <stueck when="1768" nr="69" von="276"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1768-69-weltnachrichten">
+        <stueck when="1768" nr="69" von="277" bis="278"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-69-wechselkurse">
+        <stueck when="1768" nr="69" von="278"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag id="1768-70-rezension-moralische-neujahrswuensche">
+        <stueck when="1768" nr="70" von="279"/>
+        <werk kat="rezension" ref="moralische-neujahrswuensche"/>
+    </beitrag>
+    <beitrag id="1768-70-hamann-rezension-voltaire-mann">
+        <stueck when="1768" nr="70" von="280" order="1"/>
+        <werk kat="rezension" ref="voltaire-mann"/>
         <akteur ref="hamann">N IV, 320</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="70" von="280"  order="2"/>
-        <werk kat="rezension" ref="winckler-nachrichten"></werk>
-        <ort ref="hamburg"></ort>
+    <beitrag id="1768-70-rezension-winckler-nachrichten">
+        <stueck when="1768" nr="70" von="280" order="2"/>
+        <werk kat="rezension" ref="winckler-nachrichten"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="70" von="280" bis="282" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-70-weltnachrichten">
+        <stueck when="1768" nr="70" von="280" bis="282"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="70" von="282"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
-        <akteur ref="wegner-s" kat="nachruf" />
+    <beitrag id="1768-70-lokalnachrichten">
+        <stueck when="1768" nr="70" von="282" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
+        <akteur ref="wegner-s" kat="nachruf"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="70" von="282"  order="2"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-70-einkommende-fremde">
+        <stueck when="1768" nr="70" von="282" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="71" von="283" bis="284" />
-        <werk kat="rezension" ref="lomonosov-alte-russische"></werk>
-        <ort ref="riga"></ort>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-71-rezension-lomonosov-alte-russische">
+        <stueck when="1768" nr="71" von="283" bis="284"/>
+        <werk kat="rezension" ref="lomonosov-alte-russische"/>
+        <ort ref="riga"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="71" von="284" />
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-71-gelehrte-nachrichten">
+        <stueck when="1768" nr="71" von="284"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="berlin"/>
         <anmerkung>Verkauf der Bibliothek des gestorbenen Geheimrats Friedrich Deutsch.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="71" von="285" bis="286" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-71-weltnachrichten">
+        <stueck when="1768" nr="71" von="285" bis="286"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="71" von="286" />
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="72" von="287" bis="288" />
-        <werk kat="rezension" ref="gaertner-neue-beytraege"></werk>
-        <ort ref="braunschweig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="72" von="288" />
-        <werk kat="rezension" ref="spalding-bestimmung"></werk>
-        <ort ref="leipzig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="72" von="288" bis="290" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="72" von="290" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-71-wechselkurse">
+        <stueck when="1768" nr="71" von="286"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="73" von="291" bis="292" />
-        <werk kat="rezension" ref="mortimer-plutarch" s="Bd. 6"></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-72-rezension-gaertner-neue-beytraege">
+        <stueck when="1768" nr="72" von="287" bis="288"/>
+        <werk kat="rezension" ref="gaertner-neue-beytraege"/>
+        <ort ref="braunschweig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="73" von="292" bis="294" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-72-rezension-spalding-bestimmung">
+        <stueck when="1768" nr="72" von="288"/>
+        <werk kat="rezension" ref="spalding-bestimmung"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="73" von="294" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-72-weltnachrichten">
+        <stueck when="1768" nr="72" von="288" bis="290"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="74" von="295" bis="296" />
-        <werk kat="rezension" ref="schiebeler-unterhaltungen" s="3 St. aus Bd. 5"></werk>
-        <ort ref="hamburg"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="74" von="296" bis="298" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="74" von="298" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-72-einkommende-fremde">
+        <stueck when="1768" nr="72" von="290"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="75" von="299" bis="300" />
-        <werk kat="rezension" ref="kaestner-koeniglichschwedischeabhandlungen" s="Bd. 28, 1768 (auf das Jahr 1766)"></werk>
+    <beitrag id="1768-73-rezension-mortimer-plutarch">
+        <stueck when="1768" nr="73" von="291" bis="292"/>
+        <werk kat="rezension" ref="mortimer-plutarch" s="Bd. 6"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="75" von="300" bis="302" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-73-weltnachrichten">
+        <stueck when="1768" nr="73" von="292" bis="294"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="75" von="302" />
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="76" von="303" bis="304" />
-        <werk kat="rezension" ref="voltaire-philosophie-geschichte-bazin"></werk>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="76" von="304" />
-        <werk kat="rezension" ref="ring-paragraphen"></werk>
-        <ort ref="frankfurt"></ort>
-        <ort ref="leipzig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="76" von="304" bis="306" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="76" von="306" />
-        <akteur ref="seegut-stanislawski-as" kat="nachruf"></akteur>
+    <beitrag id="1768-73-wechselkurse">
+        <stueck when="1768" nr="73" von="294"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="77" von="307" bis="308" />
-        <werk kat="rezension" ref="dornblueth-gruendliche-anmerkungen"></werk>
-        <ort ref="augsburg"></ort>
+    <beitrag id="1768-74-rezension-schiebeler-unterhaltungen">
+        <stueck when="1768" nr="74" von="295" bis="296"/>
+        <werk kat="rezension" ref="schiebeler-unterhaltungen" s="3 St. aus Bd. 5"/>
+        <ort ref="hamburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="77" von="308"  order="1"/>
-        <werk kat="rezension" ref="divis-theorie"></werk>
+    <beitrag id="1768-74-weltnachrichten">
+        <stueck when="1768" nr="74" von="296" bis="298"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="77" von="308"  order="2"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <ort ref="kgsb"></ort>
+    <beitrag id="1768-74-einkommende-fremde">
+        <stueck when="1768" nr="74" von="298"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-75-rezension-kaestner-koeniglichschwedischeabhandlungen">
+        <stueck when="1768" nr="75" von="299" bis="300"/>
+        <werk kat="rezension" ref="kaestner-koeniglichschwedischeabhandlungen" s="Bd. 28, 1768 (auf das Jahr 1766)"/>
+    </beitrag>
+    <beitrag id="1768-75-weltnachrichten">
+        <stueck when="1768" nr="75" von="300" bis="302"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-75-wechselkurse">
+        <stueck when="1768" nr="75" von="302"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag id="1768-76-rezension-voltaire-philosophie-geschichte-bazin">
+        <stueck when="1768" nr="76" von="303" bis="304"/>
+        <werk kat="rezension" ref="voltaire-philosophie-geschichte-bazin"/>
+    </beitrag>
+    <beitrag id="1768-76-rezension-ring-paragraphen">
+        <stueck when="1768" nr="76" von="304"/>
+        <werk kat="rezension" ref="ring-paragraphen"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
+    </beitrag>
+    <beitrag id="1768-76-weltnachrichten">
+        <stueck when="1768" nr="76" von="304" bis="306"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-76-seegut-stanislawski-as-nachruf">
+        <stueck when="1768" nr="76" von="306"/>
+        <akteur ref="seegut-stanislawski-as" kat="nachruf"/>
+    </beitrag>
+
+    <beitrag id="1768-77-rezension-dornblueth-gruendliche-anmerkungen">
+        <stueck when="1768" nr="77" von="307" bis="308"/>
+        <werk kat="rezension" ref="dornblueth-gruendliche-anmerkungen"/>
+        <ort ref="augsburg"/>
+    </beitrag>
+    <beitrag id="1768-77-rezension-divis-theorie">
+        <stueck when="1768" nr="77" von="308" order="1"/>
+        <werk kat="rezension" ref="divis-theorie"/>
+    </beitrag>
+    <beitrag id="1768-77-gelehrte-nachrichten">
+        <stueck when="1768" nr="77" von="308" order="2"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="kgsb"/>
         <anmerkung>Verteidigung der Streitschrift von Wilhelm Bernhard Jester: de origine legis Falcidiae et computatione quartae legatis annuis detrahendae</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="77" von="309" bis="310" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-77-weltnachrichten">
+        <stueck when="1768" nr="77" von="309" bis="310"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="77" von="310" />
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="78" von="311" />
-        <werk kat="rezension" ref="ramler-tubel-ino"></werk>
-        <ort ref="hannover"></ort>
-        <ort ref="braunschweig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="78" von="312"  order="1"/>
-        <werk kat="rezension" ref="hume-vier-philosophen"></werk>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="78" von="312"  order="2"/>
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="78" von="312" bis="314" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="78" von="314" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-77-wechselkurse">
+        <stueck when="1768" nr="77" von="310"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="79" von="315" />
-        <werk kat="rezension" ref="benda-minuetto"></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-78-rezension-ramler-tubel-ino">
+        <stueck when="1768" nr="78" von="311"/>
+        <werk kat="rezension" ref="ramler-tubel-ino"/>
+        <ort ref="hannover"/>
+        <ort ref="braunschweig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="79" von="315" bis="316" />
-        <stueck when="1768" nr="80" von="319" bis="320" />
-        <werk kat="rezension" ref="schroeckh-christliche-kirchengeschichte"></werk>
-        <ort ref="frankfurt"></ort>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-78-rezension-hume-vier-philosophen">
+        <stueck when="1768" nr="78" von="312" order="1"/>
+        <werk kat="rezension" ref="hume-vier-philosophen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="79" von="317" bis="318" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-78-buecher">
+        <stueck when="1768" nr="78" von="312" order="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="79" von="318"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-78-weltnachrichten">
+        <stueck when="1768" nr="78" von="312" bis="314"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="79" von="318"  order="2"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="79" von="318"  order="3"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-78-einkommende-fremde">
+        <stueck when="1768" nr="78" von="314"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="80" von="320"  order="1"/>
-        <werk kat="rezension" ref="redekunst-frauenzimmer"></werk>
-        <ort ref="regensburg"></ort>
+    <beitrag id="1768-79-rezension-benda-minuetto">
+        <stueck when="1768" nr="79" von="315"/>
+        <werk kat="rezension" ref="benda-minuetto"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="80" von="320"  order="2"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <ort ref="kgsb"></ort>
+    <beitrag id="1768-rezension-schroeckh-christliche-kirchengeschichte">
+        <stueck when="1768" nr="79" von="315" bis="316"/>
+        <stueck when="1768" nr="80" von="319" bis="320"/>
+        <werk kat="rezension" ref="schroeckh-christliche-kirchengeschichte"/>
+        <ort ref="frankfurt"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="80" von="321" bis="322" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-79-weltnachrichten">
+        <stueck when="1768" nr="79" von="317" bis="318"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="80" von="322" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-79-lokalnachrichten">
+        <stueck when="1768" nr="79" von="318" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-79-lokalanzeigen">
+        <stueck when="1768" nr="79" von="318" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
+    </beitrag>
+    <beitrag id="1768-79-wechselkurse">
+        <stueck when="1768" nr="79" von="318" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="81" von="323" bis="324" />
-        <werk kat="rezension" ref="sulzer-voruebungen"></werk>
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-80-rezension-redekunst-frauenzimmer">
+        <stueck when="1768" nr="80" von="320" order="1"/>
+        <werk kat="rezension" ref="redekunst-frauenzimmer"/>
+        <ort ref="regensburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="81" von="324"  order="1"/>
-        <werk kat="rezension" ref="caraccioli-munterkeit"></werk>
-        <ort ref="frankfurt"></ort>
+    <beitrag id="1768-80-gelehrte-nachrichten">
+        <stueck when="1768" nr="80" von="320" order="2"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="81" von="324"  order="2"/>
-        <werk kat="rezension" ref="avrillon-kernhafte-gedanken"></werk>
-        <ort ref="augsburg"></ort>
+    <beitrag id="1768-80-weltnachrichten">
+        <stueck when="1768" nr="80" von="321" bis="322"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="81" von="324"  order="3"/>
-        <werk kat="rezension" ref="gesner-zbior"></werk>
-        <ort ref="zuellichau"></ort>
+    <beitrag id="1768-80-einkommende-fremde">
+        <stueck when="1768" nr="80" von="322"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="81" von="325" bis="326" />
-        <kategorie ref="weltnachrichten"></kategorie>
+
+    <beitrag id="1768-81-rezension-sulzer-voruebungen">
+        <stueck when="1768" nr="81" von="323" bis="324"/>
+        <werk kat="rezension" ref="sulzer-voruebungen"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="81" von="326" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-81-rezension-caraccioli-munterkeit">
+        <stueck when="1768" nr="81" von="324" order="1"/>
+        <werk kat="rezension" ref="caraccioli-munterkeit"/>
+        <ort ref="frankfurt"/>
+    </beitrag>
+    <beitrag id="1768-81-rezension-avrillon-kernhafte-gedanken">
+        <stueck when="1768" nr="81" von="324" order="2"/>
+        <werk kat="rezension" ref="avrillon-kernhafte-gedanken"/>
+        <ort ref="augsburg"/>
+    </beitrag>
+    <beitrag id="1768-81-rezension-gesner-zbior">
+        <stueck when="1768" nr="81" von="324" order="3"/>
+        <werk kat="rezension" ref="gesner-zbior"/>
+        <ort ref="zuellichau"/>
+    </beitrag>
+    <beitrag id="1768-81-weltnachrichten">
+        <stueck when="1768" nr="81" von="325" bis="326"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-81-einkommende-fremde">
+        <stueck when="1768" nr="81" von="326"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
     
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="81" von="1" />
-        <werk kat="rezension" ref="rudloff-versuch-einleitung"></werk>
-        <ort ref="goettingen"></ort>
-        <ort ref="gotha"></ort>
+    <beitrag id="1768-81-beil-rezension-rudloff-versuch-einleitung">
+        <stueck beilage="1" when="1768" nr="81" von="1"/>
+        <werk kat="rezension" ref="rudloff-versuch-einleitung"/>
+        <ort ref="goettingen"/>
+        <ort ref="gotha"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="81" von="2" bis="4" />
-        <kategorie ref="desertionsliste"></kategorie>
+    <beitrag id="1768-81-beil-notificatorium">
+        <stueck beilage="1" when="1768" nr="81" von="2" bis="4"/>
+        <kategorie ref="desertionsliste"/>
         <titel>Notificatorium</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="82" von="323" bis="324" />
-        <kategorie ref="vorlesungsverzeichnis"></kategorie>
+    <beitrag id="1768-82-akademische-vorlesungen-auf-das-winterhalbejahr">
+        <stueck when="1768" nr="82" von="323" bis="324"/>
+        <kategorie ref="vorlesungsverzeichnis"/>
         <titel>Akademische Vorlesungen auf das Winterhalbejahr.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="82" von="325" bis="326" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-82-weltnachrichten">
+        <stueck when="1768" nr="82" von="325" bis="326"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="82" von="326" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-82-einkommende-fremde">
+        <stueck when="1768" nr="82" von="326"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="82" von="1"  order="1"/>
-        <werk kat="rezension" ref="geng-nachrichten-engel"></werk>
-        <ort ref="schwabach"></ort>
+    <beitrag id="1768-82-beil-rezension-geng-nachrichten-engel">
+        <stueck beilage="1" when="1768" nr="82" von="1" order="1"/>
+        <werk kat="rezension" ref="geng-nachrichten-engel"/>
+        <ort ref="schwabach"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="82" von="1"  order="2"/>
-        <werk kat="rezension" ref="hanisch-krafft"></werk>
-        <ort ref="hildburghausen"></ort>
+    <beitrag id="1768-82-beil-rezension-hanisch-krafft">
+        <stueck beilage="1" when="1768" nr="82" von="1" order="2"/>
+        <werk kat="rezension" ref="hanisch-krafft"/>
+        <ort ref="hildburghausen"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="82" von="1"  order="3"/>
-        <werk kat="rezension" ref="gottselige-gedanken"></werk>
-        <ort ref="frankfurt"></ort>
+    <beitrag id="1768-82-beil-rezension-gottselige-gedanken">
+        <stueck beilage="1" when="1768" nr="82" von="1" order="3"/>
+        <werk kat="rezension" ref="gottselige-gedanken"/>
+        <ort ref="frankfurt"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="82" von="2" bis="4" />
-        <kategorie ref="desertionsliste"></kategorie>
+    <beitrag id="1768-82-beil-notificatorium">
+        <stueck beilage="1" when="1768" nr="82" von="2" bis="4"/>
+        <kategorie ref="desertionsliste"/>
         <titel>Notificatorium</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="83" von="327" bis="328" />
-        <werk kat="rezension" ref="teller-abschiedspredigt"></werk>
-        <ort ref="braunschweig"></ort>
+    <beitrag id="1768-83-rezension-teller-abschiedspredigt">
+        <stueck when="1768" nr="83" von="327" bis="328"/>
+        <werk kat="rezension" ref="teller-abschiedspredigt"/>
+        <ort ref="braunschweig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="83" von="328" />
-        <werk kat="rezension" ref="daenisches-journal"></werk>
-        <ort ref="kopenhagen"></ort>
+    <beitrag id="1768-83-rezension-daenisches-journal">
+        <stueck when="1768" nr="83" von="328"/>
+        <werk kat="rezension" ref="daenisches-journal"/>
+        <ort ref="kopenhagen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="83" von="329" bis="330" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-83-weltnachrichten">
+        <stueck when="1768" nr="83" von="329" bis="330"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="83" von="330" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-83-wechselkurse">
+        <stueck when="1768" nr="83" von="330"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="84" von="331" />
-        <werk kat="rezension" ref="spalding-neuepredigten"></werk>
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-84-rezension-spalding-neuepredigten">
+        <stueck when="1768" nr="84" von="331"/>
+        <werk kat="rezension" ref="spalding-neuepredigten"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="84" von="331" bis="332" />
-        <werk kat="rezension" ref="moeller-ursprung"></werk>
+    <beitrag id="1768-84-rezension-moeller-ursprung">
+        <stueck when="1768" nr="84" von="331" bis="332"/>
+        <werk kat="rezension" ref="moeller-ursprung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="84" von="332" />
-        <werk kat="rezension" ref="vorbereitung-sabbath"></werk>
-        <ort ref="nuernberg"></ort>
+    <beitrag id="1768-84-rezension-vorbereitung-sabbath">
+        <stueck when="1768" nr="84" von="332"/>
+        <werk kat="rezension" ref="vorbereitung-sabbath"/>
+        <ort ref="nuernberg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="84" von="332" bis="334" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-84-weltnachrichten">
+        <stueck when="1768" nr="84" von="332" bis="334"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="84" von="334" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-84-einkommende-fremde">
+        <stueck when="1768" nr="84" von="334"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
     
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="83" />
-        <stueck beilage="1" when="1768" nr="84" von="1" />
-        <stueck beilage="1" when="1768" nr="85" von="1" />
-        <stueck beilage="1" when="1768" nr="86" von="1" />
+    <beitrag id="1768-kurze-anleitung-wie-der-landmann-und-diejenigen">
+        <stueck beilage="1" when="1768" nr="83"/>
+        <stueck beilage="1" when="1768" nr="84" von="1"/>
+        <stueck beilage="1" when="1768" nr="85" von="1"/>
+        <stueck beilage="1" when="1768" nr="86" von="1"/>
         <stueck beilage="1" when="1768" nr="87" von="2" order="1"/>
-        <kategorie ref="aufsatz"></kategorie>
+        <kategorie ref="aufsatz"/>
         <titel>Kurze Anleitung wie der Landmann und diejenigen, so keinen Arzt erlangen können bey graßirenden Pocken sich zu verhalten haben. Auf Sr. Königl. Majestät in Preußen Allerhöchsten Befehl herausgegeben, von Dero Obercollegio Medico 1768.</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="84" von="2" bis="4" />
-        <kategorie ref="desertionsliste"></kategorie>
+    <beitrag id="1768-84-beil-notificatorium">
+        <stueck beilage="1" when="1768" nr="84" von="2" bis="4"/>
+        <kategorie ref="desertionsliste"/>
         <titel>Notificatorium</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="85" von="2" bis="4" />
-        <kategorie ref="desertionsliste"></kategorie>
+    <beitrag id="1768-85-beil-notificatorium">
+        <stueck beilage="1" when="1768" nr="85" von="2" bis="4"/>
+        <kategorie ref="desertionsliste"/>
         <titel>Notificatorium</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="86" von="2" bis="4" />
-        <kategorie ref="desertionsliste"></kategorie>
+    <beitrag id="1768-86-beil-notificatorium">
+        <stueck beilage="1" when="1768" nr="86" von="2" bis="4"/>
+        <kategorie ref="desertionsliste"/>
         <titel>Notificatorium</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="87" von="1" bis="2" />
-        <kategorie ref="aufsatz"></kategorie>
-        <akteur ref="seegut-stanislawski-as" kat="nachruf"></akteur>
+    <beitrag id="1768-87-beil-aufsatz">
+        <stueck beilage="1" when="1768" nr="87" von="1" bis="2"/>
+        <kategorie ref="aufsatz"/>
+        <akteur ref="seegut-stanislawski-as" kat="nachruf"/>
         <anmerkung>Schilderung des Begräbnisses Albrecht Siegmund von Seegut-Stanislawskis.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="87" von="2"  order="2"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-87-beil-lokalanzeigen">
+        <stueck beilage="1" when="1768" nr="87" von="2" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="87" von="2"  order="3"/>
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-87-beil-buecher">
+        <stueck beilage="1" when="1768" nr="87" von="2" order="3"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="85" von="335" bis="336" />
-        <werk kat="rezension" ref="meusel-commentarii"></werk>
-        <ort ref="bremen"></ort>
+    <beitrag id="1768-85-rezension-meusel-commentarii">
+        <stueck when="1768" nr="85" von="335" bis="336"/>
+        <werk kat="rezension" ref="meusel-commentarii"/>
+        <ort ref="bremen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="85" von="336" bis="338" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-85-weltnachrichten">
+        <stueck when="1768" nr="85" von="336" bis="338"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="85" von="338"  order="1"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
-        <akteur ref="beckher-wh" kat="nachruf" ></akteur>
+    <beitrag id="1768-85-lokalanzeigen">
+        <stueck when="1768" nr="85" von="338" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
+        <akteur ref="beckher-wh" kat="nachruf"/>
         <anmerkung>Verkauf der Bibliothek.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="85" von="338"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-85-wechselkurse">
+        <stueck when="1768" nr="85" von="338" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
     
-    <beitrag>
-        <stueck when="1768" nr="86" von="339" bis="340" />
-        <werk kat="rezension" ref="patzke-betrachtungen"></werk>
-        <ort ref="helmstedt"></ort>
+    <beitrag id="1768-86-rezension-patzke-betrachtungen">
+        <stueck when="1768" nr="86" von="339" bis="340"/>
+        <werk kat="rezension" ref="patzke-betrachtungen"/>
+        <ort ref="helmstedt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="86" von="340" bis="341" />
-        <werk kat="rezension" ref="schirach-melitto"></werk>
-        <ort ref="dresden"></ort>
+    <beitrag id="1768-86-rezension-schirach-melitto">
+        <stueck when="1768" nr="86" von="340" bis="341"/>
+        <werk kat="rezension" ref="schirach-melitto"/>
+        <ort ref="dresden"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="86" von="341" bis="342" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-86-weltnachrichten">
+        <stueck when="1768" nr="86" von="341" bis="342"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="86" von="342"  order="1"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-86-lokalanzeigen">
+        <stueck when="1768" nr="86" von="342" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="86" von="342"  order="2"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
-    </beitrag>
-    
-    <beitrag>
-        <stueck when="1768" nr="87" von="343" bis="344" />
-        <werk kat="rezension" ref="abbt-gedanken-einrichtung"></werk>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="87" von="344"  order="1"/>
-        <werk kat="rezension" ref="roehl-einleitung"></werk>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="87" von="344"  order="2"/>
-        <werk kat="rezension" ref="reich-beschaeftigungen-herz" s="Abteilung 1 (S. 1–126)"></werk>
-        <ort ref="braunschweig"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="87" von="344"  order="3"/>
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="87" von="345" bis="346" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="87" von="346"  order="1"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="87" von="346"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-86-einkommende-fremde">
+        <stueck when="1768" nr="86" von="342" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
     
-    <beitrag>
-        <stueck when="1768" nr="88" von="347" bis="349" />
-        <werk kat="rezension" ref="benson-geschichte-pflanzung"></werk>
-        <ort ref="halle"></ort>
+    <beitrag id="1768-87-rezension-abbt-gedanken-einrichtung">
+        <stueck when="1768" nr="87" von="343" bis="344"/>
+        <werk kat="rezension" ref="abbt-gedanken-einrichtung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="88" von="349" bis="350" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-87-rezension-roehl-einleitung">
+        <stueck when="1768" nr="87" von="344" order="1"/>
+        <werk kat="rezension" ref="roehl-einleitung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="88" von="350"  order="1"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-87-rezension-reich-beschaeftigungen-herz">
+        <stueck when="1768" nr="87" von="344" order="2"/>
+        <werk kat="rezension" ref="reich-beschaeftigungen-herz" s="Abteilung 1 (S. 1–126)"/>
+        <ort ref="braunschweig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="88" von="350"  order="2"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-87-buecher">
+        <stueck when="1768" nr="87" von="344" order="3"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1768-87-weltnachrichten">
+        <stueck when="1768" nr="87" von="345" bis="346"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-87-lokalanzeigen">
+        <stueck when="1768" nr="87" von="346" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
+    </beitrag>
+    <beitrag id="1768-87-wechselkurse">
+        <stueck when="1768" nr="87" von="346" order="2"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+    
+    <beitrag id="1768-88-rezension-benson-geschichte-pflanzung">
+        <stueck when="1768" nr="88" von="347" bis="349"/>
+        <werk kat="rezension" ref="benson-geschichte-pflanzung"/>
+        <ort ref="halle"/>
+    </beitrag>
+    <beitrag id="1768-88-weltnachrichten">
+        <stueck when="1768" nr="88" von="349" bis="350"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-88-lokalanzeigen">
+        <stueck when="1768" nr="88" von="350" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
+    </beitrag>
+    <beitrag id="1768-88-einkommende-fremde">
+        <stueck when="1768" nr="88" von="350" order="2"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="88" von="1"  order="1"/>
-        <werk kat="rezension" ref="tetsch-kirchengeschichte"></werk>
+    <beitrag id="1768-88-beil-rezension-tetsch-kirchengeschichte">
+        <stueck beilage="1" when="1768" nr="88" von="1" order="1"/>
+        <werk kat="rezension" ref="tetsch-kirchengeschichte"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="88" von="1"  order="2"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-88-beil-lokalanzeigen">
+        <stueck beilage="1" when="1768" nr="88" von="1" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="88" von="1"  order="3"/>
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-88-beil-buecher">
+        <stueck beilage="1" when="1768" nr="88" von="1" order="3"/>
+        <kategorie ref="buecher"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="88" von="2" bis="4" />
-        <kategorie ref="desertionsliste"></kategorie>
+    <beitrag id="1768-88-beil-notificatorium">
+        <stueck beilage="1" when="1768" nr="88" von="2" bis="4"/>
+        <kategorie ref="desertionsliste"/>
         <titel>Notificatorium</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="89" von="351" bis="352" />
-        <werk kat="rezension" ref="benat-redekunst"></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-89-rezension-benat-redekunst">
+        <stueck when="1768" nr="89" von="351" bis="352"/>
+        <werk kat="rezension" ref="benat-redekunst"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="89" von="353" bis="354" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-89-weltnachrichten">
+        <stueck when="1768" nr="89" von="353" bis="354"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="89" von="354" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-89-wechselkurse">
+        <stueck when="1768" nr="89" von="354"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="89" von="1" bis="2" />
-        <werk kat="rezension" ref="toellner-thaetige-gehorsam"></werk>
-        <ort ref="breslau"></ort>
+    <beitrag id="1768-89-beil-rezension-toellner-thaetige-gehorsam">
+        <stueck beilage="1" when="1768" nr="89" von="1" bis="2"/>
+        <werk kat="rezension" ref="toellner-thaetige-gehorsam"/>
+        <ort ref="breslau"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="89" von="2" />
-        <kategorie ref="aufsatz"></kategorie>
+    <beitrag id="1768-89-beil-auszug-aus-dem-journal-der-herren-professoren-gmelin-und-pallas">
+        <stueck beilage="1" when="1768" nr="89" von="2"/>
+        <kategorie ref="aufsatz"/>
         <titel>Auszug aus dem Journal der Herren Professoren Gmelin und Pallas.</titel>
-        <ort ref="stpetersburg"></ort>
+        <ort ref="stpetersburg"/>
         <anmerkung>Gemeint sind Berichte von geologischen Expeditionen Samuel Gottlieb Gmelins (1744-1774) und Peter Simon Pallas’ (1741–1811) im Waldenburger Gebirge bzw. bei Wolodymyr.</anmerkung>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="90" von="355" bis="356" />
-        <werk kat="rezension" ref="bielfeld-grundlinien-gelehrsamkeit"></werk>
-        <ort ref="breslau"></ort>
+    <beitrag id="1768-90-rezension-bielfeld-grundlinien-gelehrsamkeit">
+        <stueck when="1768" nr="90" von="355" bis="356"/>
+        <werk kat="rezension" ref="bielfeld-grundlinien-gelehrsamkeit"/>
+        <ort ref="breslau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="90" von="356" bis="358" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-90-weltnachrichten">
+        <stueck when="1768" nr="90" von="356" bis="358"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="90" von="358"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-90-lokalnachrichten">
+        <stueck when="1768" nr="90" von="358" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="90" von="358"  order="2"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-90-lokalanzeigen">
+        <stueck when="1768" nr="90" von="358" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
         <anmerkung>Für optische Vorstellungen im Königsberger Komödienhaus.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="90" von="358"  order="3"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-90-einkommende-fremde">
+        <stueck when="1768" nr="90" von="358" order="3"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="91" von="359" bis="360" />
-        <werk kat="rezension" ref="plitt-theologische-untersuchungen"></werk>
-        <ort ref="frankfurt"></ort>
+    <beitrag id="1768-91-rezension-plitt-theologische-untersuchungen">
+        <stueck when="1768" nr="91" von="359" bis="360"/>
+        <werk kat="rezension" ref="plitt-theologische-untersuchungen"/>
+        <ort ref="frankfurt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="91" von="360" />
-        <werk kat="rezension" ref="formey-abhandlung-erziehung"></werk>
-        <ort ref="stralsund"></ort>
+    <beitrag id="1768-91-rezension-formey-abhandlung-erziehung">
+        <stueck when="1768" nr="91" von="360"/>
+        <werk kat="rezension" ref="formey-abhandlung-erziehung"/>
+        <ort ref="stralsund"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="91" von="360" bis="362" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-91-weltnachrichten">
+        <stueck when="1768" nr="91" von="360" bis="362"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="91" von="362" />
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-91-wechselkurse">
+        <stueck when="1768" nr="91" von="362"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="90" />
-        <stueck beilage="1" when="1768" nr="91" von="1" />
-        <kategorie ref="brief"></kategorie>
+    <beitrag id="1768-auszug-aus-einem-briefe-eines-an-den-graenzen-von-pohlen-wohnenden-schlesiers-an-seinen-freund-in-berlin">
+        <stueck beilage="1" when="1768" nr="90"/>
+        <stueck beilage="1" when="1768" nr="91" von="1"/>
+        <kategorie ref="brief"/>
         <titel>Auszug aus einem Briefe eines an den Gränzen von Pohlen wohnenden Schlesiers an seinen Freund in Berlin, vom 30 Oct.</titel>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="91" von="2" bis="4" />
-        <kategorie ref="desertionsliste"></kategorie>
+    <beitrag id="1768-91-beil-notificatorium">
+        <stueck beilage="1" when="1768" nr="91" von="2" bis="4"/>
+        <kategorie ref="desertionsliste"/>
         <titel>Notificatorium</titel>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="91" von="5" />
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-91-beil-verkauf-des-hauses-fleischbaenken-gasse-im-kneiphof">
+        <stueck beilage="1" when="1768" nr="91" von="5"/>
+        <kategorie ref="lokalanzeigen"/>
         <titel>Verkauf des Hauses Fleischbänken-Gasse im Kneiphof, No. 319 (datiert Königsberg, 11. November 1768).</titel>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="92" von="363" />
-        <werk kat="rezension" ref="teller-beitraege-rechtschaffenheit"></werk>
-        <ort ref="helmstedt"></ort>
+    <beitrag id="1768-92-rezension-teller-beitraege-rechtschaffenheit">
+        <stueck when="1768" nr="92" von="363"/>
+        <werk kat="rezension" ref="teller-beitraege-rechtschaffenheit"/>
+        <ort ref="helmstedt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="92" von="364" />
-        <werk kat="rezension" ref="briefe-predigers1767"></werk>
-        <ort ref="flensburg"></ort>
+    <beitrag id="1768-92-rezension-briefe-predigers1767">
+        <stueck when="1768" nr="92" von="364"/>
+        <werk kat="rezension" ref="briefe-predigers1767"/>
+        <ort ref="flensburg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="92" von="364" bis="366" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-92-weltnachrichten">
+        <stueck when="1768" nr="92" von="364" bis="366"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="92" von="366" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-92-einkommende-fremde">
+        <stueck when="1768" nr="92" von="366"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="93" von="367" bis="368" />
-        <werk kat="rezension" ref="gilpin-abhandlung-kupferstiche"></werk>
-        <ort ref="helmstedt"></ort>
+    <beitrag id="1768-93-rezension-gilpin-abhandlung-kupferstiche">
+        <stueck when="1768" nr="93" von="367" bis="368"/>
+        <werk kat="rezension" ref="gilpin-abhandlung-kupferstiche"/>
+        <ort ref="helmstedt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="93" von="368" bis="370" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-93-weltnachrichten">
+        <stueck when="1768" nr="93" von="368" bis="370"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="93" von="370"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
-        <akteur ref="lehwald-j" kat="nachruf"></akteur>
+    <beitrag id="1768-93-lokalnachrichten">
+        <stueck when="1768" nr="93" von="370" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
+        <akteur ref="lehwald-j" kat="nachruf"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="93" von="370"  order="2"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-93-lokalnachrichten-II">
+        <stueck when="1768" nr="93" von="370" order="2"/>
+        <kategorie ref="lokalnachrichten"/>
         <anmerkung>Ernennung von August Johann Jacobi zum Kriegs- und Domainenrat.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="93" von="370"  order="3"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-93-wechselkurse">
+        <stueck when="1768" nr="93" von="370" order="3"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="94" von="371" />
-        <kategorie ref="rezension"></kategorie>
+    <beitrag id="1768-94-beschluss-des-in-der-beilage-zum-92sten-stueck-dieser-zeitung-abgebrochenen-artikels">
+        <stueck when="1768" nr="94" von="371"/>
+        <kategorie ref="rezension"/>
         <titel>Beschluß des in der Beilage zum 92sten Stück dieser Zeitung abgebrochenen Artikels.</titel>
         <anmerkung>Erster Teil der Rezension nicht überliefert.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="94" von="371" bis="372" />
-        <werk kat="rezension" ref="tietz-gemeinnuetzige-abhandlungen"></werk>
+    <beitrag id="1768-94-rezension-tietz-gemeinnuetzige-abhandlungen">
+        <stueck when="1768" nr="94" von="371" bis="372"/>
+        <werk kat="rezension" ref="tietz-gemeinnuetzige-abhandlungen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="94" von="372" />
-        <werk kat="rezension" ref="stahl-allgemeines-forstmagazin"></werk>
-        <ort ref="frankfurt"></ort>
+    <beitrag id="1768-94-rezension-stahl-allgemeines-forstmagazin">
+        <stueck when="1768" nr="94" von="372"/>
+        <werk kat="rezension" ref="stahl-allgemeines-forstmagazin"/>
+        <ort ref="frankfurt"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="94" von="373" bis="374" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-94-weltnachrichten">
+        <stueck when="1768" nr="94" von="373" bis="374"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="94" von="374" />
-        <kategorie ref="einkommende-fremde"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="95" von="375" />
-        <werk kat="rezension" ref="sterne-sentimental-journey" s="Übersetzung"></werk>
-        <ort ref="hamburg"></ort>
-        <ort ref="bremen"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="95" von="375" bis="377" />
-        <werk kat="rezension" ref="katharina-instruction"></werk>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="95" von="377" bis="378" />
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="95" von="378" bis="380" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="95" von="380"  order="1"/>
-        <kategorie ref="vorladung"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="95" von="380"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-94-einkommende-fremde">
+        <stueck when="1768" nr="94" von="374"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="96" von="381" bis="383" />
-        <werk kat="rezension" ref="iselin-geschichte-menschheit"></werk>
-        <ort ref="zuerich"></ort>
+    <beitrag id="1768-95-rezension-sterne-sentimental-journey">
+        <stueck when="1768" nr="95" von="375"/>
+        <werk kat="rezension" ref="sterne-sentimental-journey" s="Übersetzung"/>
+        <ort ref="hamburg"/>
+        <ort ref="bremen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="96" von="383" bis="384" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-95-rezension-katharina-instruction">
+        <stueck when="1768" nr="95" von="375" bis="377"/>
+        <werk kat="rezension" ref="katharina-instruction"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="96" von="384" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-95-buecher">
+        <stueck when="1768" nr="95" von="377" bis="378"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1768-95-weltnachrichten">
+        <stueck when="1768" nr="95" von="378" bis="380"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-95-vorladung">
+        <stueck when="1768" nr="95" von="380" order="1"/>
+        <kategorie ref="vorladung"/>
+    </beitrag>
+    <beitrag id="1768-95-wechselkurse">
+        <stueck when="1768" nr="95" von="380" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
+    <beitrag id="1768-96-rezension-iselin-geschichte-menschheit">
+        <stueck when="1768" nr="96" von="381" bis="383"/>
+        <werk kat="rezension" ref="iselin-geschichte-menschheit"/>
+        <ort ref="zuerich"/>
+    </beitrag>
+    <beitrag id="1768-96-weltnachrichten">
+        <stueck when="1768" nr="96" von="383" bis="384"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-96-einkommende-fremde">
+        <stueck when="1768" nr="96" von="384"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-97-hamann-rezension-klotz-deutsche-bibliothek">
         <stueck when="1768" nr="97" von="385" bis="386"/>
-        <werk kat="rezension" ref="klotz-deutsche-bibliothek" s="Bd. 1, St. 2–4"></werk>
-        <ort ref="halle"></ort>
+        <werk kat="rezension" ref="klotz-deutsche-bibliothek" s="Bd. 1, St. 2–4"/>
+        <ort ref="halle"/>
         <akteur ref="hamann">Unger II, 878–880; ZH II, 386</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="97" von="386" bis="388" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-97-weltnachrichten">
+        <stueck when="1768" nr="97" von="386" bis="388"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="97" von="388"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
+    <beitrag id="1768-97-lokalnachrichten">
+        <stueck when="1768" nr="97" von="388" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="97" von="388"  order="2"/>
-        <kategorie ref="lokalanzeigen"></kategorie>
+    <beitrag id="1768-97-lokalanzeigen">
+        <stueck when="1768" nr="97" von="388" order="2"/>
+        <kategorie ref="lokalanzeigen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="97" von="388"  order="3"/>
-        <kategorie ref="vorladung"></kategorie>
+    <beitrag id="1768-97-vorladung">
+        <stueck when="1768" nr="97" von="388" order="3"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="97" von="388"  order="4"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-97-wechselkurse">
+        <stueck when="1768" nr="97" von="388" order="4"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="97" von="1" bis="2" />
-        <kategorie ref="proklamation"></kategorie>
+    <beitrag id="1768-97-beil-declaration">
+        <stueck beilage="1" when="1768" nr="97" von="1" bis="2"/>
+        <kategorie ref="proklamation"/>
         <titel>Declaration, welche der Rußisch-Kayserliche Hof, wegen der Gefangensetzung seines zu Constantinopel residirenden Ministers, an alle Höfe von Europa hat ergehen laßen.</titel>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1768" nr="97" von="2" />
-        <kategorie ref="buecher"></kategorie>
+    <beitrag id="1768-97-beil-buecher">
+        <stueck beilage="1" when="1768" nr="97" von="2"/>
+        <kategorie ref="buecher"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="98" von="389" />
-        <werk kat="rezension" ref="wagner-gruende"></werk>
-        <ort ref="bremen"></ort>
+    <beitrag id="1768-98-rezension-wagner-gruende">
+        <stueck when="1768" nr="98" von="389"/>
+        <werk kat="rezension" ref="wagner-gruende"/>
+        <ort ref="bremen"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="98" von="389" bis="390" />
-        <werk kat="rezension" ref="aufmunterung-redlichgesinnte"></werk>
-        <ort ref="langensalza"></ort>
+    <beitrag id="1768-98-rezension-aufmunterung-redlichgesinnte">
+        <stueck when="1768" nr="98" von="389" bis="390"/>
+        <werk kat="rezension" ref="aufmunterung-redlichgesinnte"/>
+        <ort ref="langensalza"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="98" von="390"  order="1"/>
-        <werk kat="rezension" ref="ortmann-passionspredigten"></werk>
-        <ort ref="zuellichau"></ort>
+    <beitrag id="1768-98-rezension-ortmann-passionspredigten">
+        <stueck when="1768" nr="98" von="390" order="1"/>
+        <werk kat="rezension" ref="ortmann-passionspredigten"/>
+        <ort ref="zuellichau"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="98" von="390"  order="2"/>
-        <werk kat="rezension" ref="villiers-satyrische-warheiten"></werk>
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-98-rezension-villiers-satyrische-warheiten">
+        <stueck when="1768" nr="98" von="390" order="2"/>
+        <werk kat="rezension" ref="villiers-satyrische-warheiten"/>
+        <ort ref="berlin"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="98" von="391" bis="392" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-98-weltnachrichten">
+        <stueck when="1768" nr="98" von="391" bis="392"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="98" von="392" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-98-einkommende-fremde">
+        <stueck when="1768" nr="98" von="392"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="99" von="393" bis="394" />
-        <werk kat="rezension" ref="riedel-publicum"></werk>
-        <ort ref="jena"></ort>
+    <beitrag id="1768-99-hamann-rezension-riedel-publicum">
+        <stueck when="1768" nr="99" von="393" bis="394"/>
+        <werk kat="rezension" ref="riedel-publicum"/>
+        <ort ref="jena"/>
         <akteur ref="hamann">Roth III, 423–429</akteur>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="99" von="395" bis="396" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-99-weltnachrichten">
+        <stueck when="1768" nr="99" von="395" bis="396"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="99" von="396"  order="1"/>
-        <kategorie ref="vorladung"></kategorie>
+    <beitrag id="1768-99-vorladung">
+        <stueck when="1768" nr="99" von="396" order="1"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="99" von="396"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="100" von="397" />
-        <werk kat="rezension" ref="boysen-erlaeuterungen-redensarten"></werk>
-        <ort ref="halle"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="100" von="398" />
-        <werk kat="rezension" ref="cardonne-geschichte-afrika"></werk>
-        <ort ref="nuernberg"></ort>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="100" von="398" bis="399" />
-        <kategorie ref="buecher"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="100" von="399" bis="400" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="100" von="400"  order="1"/>
-        <kategorie ref="lokalnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="100" von="400"  order="2"/>
-        <kategorie ref="theaterkritik"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="100" von="400"  order="3"/>
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-99-wechselkurse">
+        <stueck when="1768" nr="99" von="396" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="101" von="401" bis="402" />
-        <werk kat="rezension" ref="tissot-anleitung-gesundheit"></werk>
-        <ort ref="hamburg"></ort>
+    <beitrag id="1768-100-rezension-boysen-erlaeuterungen-redensarten">
+        <stueck when="1768" nr="100" von="397"/>
+        <werk kat="rezension" ref="boysen-erlaeuterungen-redensarten"/>
+        <ort ref="halle"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="101" von="402"  order="1"/>
-        <werk kat="rezension" ref="buesching-vorbereitung-staatsverfassung"></werk>
-        <ort ref="hamburg"></ort>
+    <beitrag id="1768-100-rezension-cardonne-geschichte-afrika">
+        <stueck when="1768" nr="100" von="398"/>
+        <werk kat="rezension" ref="cardonne-geschichte-afrika"/>
+        <ort ref="nuernberg"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="101" von="402"  order="2"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-100-buecher">
+        <stueck when="1768" nr="100" von="398" bis="399"/>
+        <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1768-100-weltnachrichten">
+        <stueck when="1768" nr="100" von="399" bis="400"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-100-lokalnachrichten">
+        <stueck when="1768" nr="100" von="400" order="1"/>
+        <kategorie ref="lokalnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-100-theaterkritik">
+        <stueck when="1768" nr="100" von="400" order="2"/>
+        <kategorie ref="theaterkritik"/>
+    </beitrag>
+    <beitrag id="1768-100-einkommende-fremde">
+        <stueck when="1768" nr="100" von="400" order="3"/>
+        <kategorie ref="einkommende-fremde"/>
+    </beitrag>
+
+    <beitrag id="1768-101-rezension-tissot-anleitung-gesundheit">
+        <stueck when="1768" nr="101" von="401" bis="402"/>
+        <werk kat="rezension" ref="tissot-anleitung-gesundheit"/>
+        <ort ref="hamburg"/>
+    </beitrag>
+    <beitrag id="1768-101-rezension-buesching-vorbereitung-staatsverfassung">
+        <stueck when="1768" nr="101" von="402" order="1"/>
+        <werk kat="rezension" ref="buesching-vorbereitung-staatsverfassung"/>
+        <ort ref="hamburg"/>
+    </beitrag>
+    <beitrag id="1768-101-gelehrte-nachrichten">
+        <stueck when="1768" nr="101" von="402" order="2"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <ort ref="berlin"/>
         <anmerkung>Ankündigung des Buchdruckers Georg Ludwig Winter zu Bd. 7 der <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060852-1">Geschichte des Polybius (Berlin 1769)</wwwlink>.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="101" von="402"  order="3"/>
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <kategorie ref="theaterkritik"></kategorie>
-        <ort ref="kgsb"></ort>
+    <beitrag id="1768-101-gelehrte-nachrichten-II">
+        <stueck when="1768" nr="101" von="402" order="3"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <kategorie ref="theaterkritik"/>
+        <ort ref="kgsb"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="101" von="402" bis="404" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-101-weltnachrichten">
+        <stueck when="1768" nr="101" von="402" bis="404"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="101" von="404"  order="1"/>
-        <kategorie ref="vorladung"></kategorie>
+    <beitrag id="1768-101-vorladung">
+        <stueck when="1768" nr="101" von="404" order="1"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="101" von="404"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-101-wechselkurse">
+        <stueck when="1768" nr="101" von="404" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="102" von="405" bis="406" />
-        <werk kat="rezension" ref="sonnenfels-theresie"></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-102-rezension-sonnenfels-theresie">
+        <stueck when="1768" nr="102" von="405" bis="406"/>
+        <werk kat="rezension" ref="sonnenfels-theresie"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="102" von="406" />
-        <kategorie ref="lokalnachrichten"></kategorie>
-        <kategorie ref="gedicht"></kategorie>
-        <ort ref="kgsb"></ort>
+    <beitrag id="1768-102-kanter-lokalnachrichten">
+        <stueck when="1768" nr="102" von="406"/>
+        <kategorie ref="lokalnachrichten"/>
+        <kategorie ref="gedicht"/>
+        <ort ref="kgsb"/>
         <akteur ref="kanter" unsicher="true">Unterzeichnet „K.“</akteur>
         <anmerkung>Anzeige der Ankunft des Gouverneurs Joachim Friedrich von Stutterheim und Gedicht auf den verstorbenen Johann von Lehwald sowie auf die Ankunft Stutterheims.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="102" von="407" bis="408" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-102-weltnachrichten">
+        <stueck when="1768" nr="102" von="407" bis="408"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="102" von="408" />
-        <kategorie ref="einkommende-fremde"></kategorie>
-    </beitrag>
-
-    <beitrag>
-        <stueck when="1768" nr="103" von="409" bis="411" />
-        <werk kat="rezension" ref="riedel-philosophische-bibliothek"></werk>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="103" von="411" />
-        <kategorie ref="gelehrte-nachrichten"></kategorie>
-        <kategorie ref="theaterkritik"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="103" von="411" bis="412" />
-        <kategorie ref="weltnachrichten"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="103" von="412"  order="1"/>
-        <kategorie ref="vorladung"></kategorie>
-    </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="103" von="412"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-102-einkommende-fremde">
+        <stueck when="1768" nr="102" von="408"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="104" von="413" bis="414" />
-        <werk kat="rezension" ref="reich-beschaeftigungen-herz" s="Abteilung 2 (S. 126–224)"></werk>
-        <ort ref="berlin"></ort>
+    <beitrag id="1768-103-rezension-riedel-philosophische-bibliothek">
+        <stueck when="1768" nr="103" von="409" bis="411"/>
+        <werk kat="rezension" ref="riedel-philosophische-bibliothek"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="104" von="414" />
-        <stueck beilage="1" when="1768" nr="104" von="1" />
-        <kategorie ref="abbildung"></kategorie>
-        <werk kat="rezension" ref="richter-dankpredigt"></werk>
-        <ort ref="kgsb"></ort>
+    <beitrag id="1768-103-gelehrte-nachrichten">
+        <stueck when="1768" nr="103" von="411"/>
+        <kategorie ref="gelehrte-nachrichten"/>
+        <kategorie ref="theaterkritik"/>
+    </beitrag>
+    <beitrag id="1768-103-weltnachrichten">
+        <stueck when="1768" nr="103" von="411" bis="412"/>
+        <kategorie ref="weltnachrichten"/>
+    </beitrag>
+    <beitrag id="1768-103-vorladung">
+        <stueck when="1768" nr="103" von="412" order="1"/>
+        <kategorie ref="vorladung"/>
+    </beitrag>
+    <beitrag id="1768-103-wechselkurse">
+        <stueck when="1768" nr="103" von="412" order="2"/>
+        <kategorie ref="wechselkurse"/>
+    </beitrag>
+
+    <beitrag id="1768-104-rezension-reich-beschaeftigungen-herz">
+        <stueck when="1768" nr="104" von="413" bis="414"/>
+        <werk kat="rezension" ref="reich-beschaeftigungen-herz" s="Abteilung 2 (S. 126–224)"/>
+        <ort ref="berlin"/>
+    </beitrag>
+    <beitrag id="1768-abbildung">
+        <stueck when="1768" nr="104" von="414"/>
+        <stueck beilage="1" when="1768" nr="104" von="1"/>
+        <kategorie ref="abbildung"/>
+        <werk kat="rezension" ref="richter-dankpredigt"/>
+        <ort ref="kgsb"/>
         <anmerkung>Mit einer Abbildung des Planes für die neue Löbenichtsche Pfarrkirche.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="104" von="414" bis="415" />
-        <werk kat="rezension" ref="genealogischer-kalender1769"></werk>
+    <beitrag id="1768-104-rezension-genealogischer-kalender1769">
+        <stueck when="1768" nr="104" von="414" bis="415"/>
+        <werk kat="rezension" ref="genealogischer-kalender1769"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="104" von="415" bis="416" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-104-weltnachrichten">
+        <stueck when="1768" nr="104" von="415" bis="416"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="104" von="416" />
-        <kategorie ref="einkommende-fremde"></kategorie>
+    <beitrag id="1768-104-einkommende-fremde">
+        <stueck when="1768" nr="104" von="416"/>
+        <kategorie ref="einkommende-fremde"/>
     </beitrag>
 
-    <beitrag>
-        <stueck when="1768" nr="105" von="417" />
-        <kategorie ref="gedicht"></kategorie>
+    <beitrag id="1768-105-zum-beschluss-des-jahres-1768">
+        <stueck when="1768" nr="105" von="417"/>
+        <kategorie ref="gedicht"/>
         <titel>Zum Beschluss des Jahres 1768.</titel>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="105" von="417" bis="418" />
-        <werk kat="rezension" ref="loehlein-partite" ></werk>
-        <ort ref="leipzig"></ort>
+    <beitrag id="1768-105-rezension-loehlein-partite">
+        <stueck when="1768" nr="105" von="417" bis="418"/>
+        <werk kat="rezension" ref="loehlein-partite"/>
+        <ort ref="leipzig"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="105" von="418" bis="420" />
-        <kategorie ref="weltnachrichten"></kategorie>
+    <beitrag id="1768-105-weltnachrichten">
+        <stueck when="1768" nr="105" von="418" bis="420"/>
+        <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="105" von="420"  order="1"/>
-        <kategorie ref="vorladung"></kategorie>
+    <beitrag id="1768-105-vorladung">
+        <stueck when="1768" nr="105" von="420" order="1"/>
+        <kategorie ref="vorladung"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1768" nr="105" von="420"  order="2"/>
-        <kategorie ref="wechselkurse"></kategorie>
+    <beitrag id="1768-105-wechselkurse">
+        <stueck when="1768" nr="105" von="420" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
 </beitraege>

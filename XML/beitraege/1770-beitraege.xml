@@ -1,85 +1,83 @@
-<?xml version="1.0"?>
-<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
 
     <!-- Jahrgang 1770 -->
-    <beitrag>
-        <stueck beilage="1" when="1770" nr="2" />
+    <beitrag id="1770-2-beil-hamann-ueber-die-autorschaft">
+        <stueck beilage="1" when="1770" nr="2"/>
         <titel>Ueber die Autorschaft</titel>
-        <werk ref="unger" kat="provinienz" s="Bd. 3, S. 890–892" />
-        <werk ref="shenstone-versuche" kat="uebersetzung" />
-        <akteur ref="hamann" />
+        <werk ref="unger" kat="provinienz" s="Bd. 3, S. 890–892"/>
+        <werk ref="shenstone-versuche" kat="uebersetzung"/>
+        <akteur ref="hamann"/>
         <anmerkung>Mehr eine Zusammenstellung und Bearbeitung als nur eine Übersetzung</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1770" nr="23" />
+    <beitrag id="1770-23-beil-hamann-geschichte-der-welschen-schaubuehne">
+        <stueck beilage="1" when="1770" nr="23"/>
         <titel>Geschichte der welschen Schaubühne, aus dem Engl. übersetzt</titel>
-        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 341–356" />
-        <werk ref="barreti-italy" kat="uebersetzung" s="S. 176–189 (Kapitel 11 und 12)" />
-        <akteur ref="hamann" />
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 341–356"/>
+        <werk ref="barreti-italy" kat="uebersetzung" s="S. 176–189 (Kapitel 11 und 12)"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1770" nr="25" />
+    <beitrag id="1770-25-lindner-jg-ueber-das-urtheil-des-baretti">
+        <stueck when="1770" nr="25"/>
         <titel>Ueber das Urtheil des Baretti, aus seinem Account of the Manners and Costoms of
             Italy, von Goldonis Comödien, befindlich in der Beylage zum 23sten Stück der
             Königsbergischen gelehrten und politischen Zeitung 1770</titel>
-        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 356–359" />
-        <werk ref="barreti-italy" kat="rezension" />
-        <akteur ref="lindner-jg" unsicher="true" />
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 356–359"/>
+        <werk ref="barreti-italy" kat="rezension"/>
+        <akteur ref="lindner-jg" unsicher="true"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1770" nr="32" />
+    <beitrag id="1770-32-beil-hamann-punsch-und-umgang">
+        <stueck beilage="1" when="1770" nr="32"/>
         <titel>Punsch und Umgang</titel>
-        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 892–894" />
-        <werk ref="johnson-idler" kat="uebersetzung" s="Bd. 1, S. 190–195 (Nr. 34)" />
-        <akteur ref="hamann" />
+        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 892–894"/>
+        <werk ref="johnson-idler" kat="uebersetzung" s="Bd. 1, S. 190–195 (Nr. 34)"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1770" nr="34" />
+    <beitrag id="1770-34-hamann-ueber-das-urtheil-des-baretti">
+        <stueck when="1770" nr="34"/>
         <titel>Ueber das Urtheil des Baretti, aus seinem Account of the Manners and Costoms of
             Italy, von Goldonis Comödien, befindlich in der Beylage zum 23sten Stück der
             Königsbergischen gelehrten und politischen Zeitung 1770</titel>
-        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 359–363" />
-        <werk ref="barreti-italy" kat="rezension" />
-        <akteur ref="hamann" />
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 359–363"/>
+        <werk ref="barreti-italy" kat="rezension"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1770" nr="39" />
+    <beitrag id="1770-39-beil-hamann-johnsons-geschichte-der-uebersetzungskunst-ueberhaupt-und-besonders-in-england">
+        <stueck beilage="1" when="1770" nr="39"/>
         <titel>Johnson’s Geschichte der Uebersetzungskunst überhaupt und besonders in England</titel>
-        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 894–898" />
-        <werk ref="johnson-idler" kat="uebersetzung" s="Bd. 2, S. 86–95 (Nr. 68 und 69)" />
-        <akteur ref="hamann" />
+        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 894–898"/>
+        <werk ref="johnson-idler" kat="uebersetzung" s="Bd. 2, S. 86–95 (Nr. 68 und 69)"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1770" nr="40" />
-        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 364–366" />
-        <werk ref="steinbart-tugend" kat="rezension" />
-        <akteur ref="hamann" />
+    <beitrag id="1770-40-hamann-rezension-steinbart-tugend">
+        <stueck when="1770" nr="40"/>
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 364–366"/>
+        <werk ref="steinbart-tugend" kat="rezension"/>
+        <akteur ref="hamann"/>
     </beitrag>
     <beitrag id="gefallene-des-regiments-von-anhalt1700">
-        <stueck when="1770" nr="43" />
+        <stueck when="1770" nr="43"/>
         <titel>Verzeichnis derer Officiers des Regiments von Anhalt, so von Ao 1700 die Ehre gehabt für ihren König das Leben zu verlieren.</titel>
         <anmerkung>Nur bekannt über die Erwähnung im Jahrgang 1771, Beilage zu Stück 17.</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1770" nr="45" />
+    <beitrag id="1770-45-hamann-selbstgespraech-aus-dem-englischen-uebersetzt">
+        <stueck when="1770" nr="45"/>
         <titel>Selbstgespräch aus dem Englischen übersetzt</titel>
-        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 898–900" />
-        <werk ref="browne-creation" kat="uebersetzung" s="S. 129–131" />
-        <akteur ref="hamann" />
+        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 898–900"/>
+        <werk ref="browne-creation" kat="uebersetzung" s="S. 129–131"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1770" nr="64" />
-        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 900–902" />
-        <werk ref="hamann-warner" kat="rezension" />
-        <akteur ref="hamann" />
+    <beitrag id="1770-64-hamann-rezension-hamann-warner">
+        <stueck when="1770" nr="64"/>
+        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 900–902"/>
+        <werk ref="hamann-warner" kat="rezension"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1770" nr="68" />
-        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 902" />
-        <werk ref="macpherson-barden" kat="rezension" />
-        <akteur ref="hamann" />
+    <beitrag id="1770-68-hamann-rezension-macpherson-barden">
+        <stueck when="1770" nr="68"/>
+        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 902"/>
+        <werk ref="macpherson-barden" kat="rezension"/>
+        <akteur ref="hamann"/>
     </beitrag>
 
 </beitraege>

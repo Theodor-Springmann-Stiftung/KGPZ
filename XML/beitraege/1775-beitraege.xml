@@ -1,86 +1,83 @@
-<?xml version="1.0"?>
-<beitraege xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<beitraege xmlns="https://www.koenigsberger-zeitungen.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
 
     <!-- Jahrgang 1775 -->
-    <beitrag>
-        <stueck beilage="1" when="1775" nr="39" />
+    <beitrag id="1775-39-beil-hamann-freund-hain-an-alle-belesene-und-empfindsame-personen-in-ost-und-west-preussen">
+        <stueck beilage="1" when="1775" nr="39"/>
         <titel>Freund Hain an alle „belesene und empfindsame Personen“ in Ost- und West-Preußen,
             welche „Noch ein Ditto beym Mondscheine zu singen“ Lust und Genüge finden.</titel>
-        <werk ref="nadler" kat="provinienz" s="Bd. 4, S. 386–388" />
-        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 384–390" />
-        <werk ref="claudius-werke" kat="rezension" />
-        <akteur ref="hamann" />
+        <werk ref="nadler" kat="provinienz" s="Bd. 4, S. 386–388"/>
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 384–390"/>
+        <werk ref="claudius-werke" kat="rezension"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1775" nr="101" von="399" />
-        <kategorie ref="gedicht" />
+    <beitrag id="1775-101-an-herrn-reichardt-bey-seiner-abreise-nach-berlin">
+        <stueck when="1775" nr="101" von="399"/>
+        <kategorie ref="gedicht"/>
         <titel>An Herrn Reichardt bey seiner Abreise nach Berlin.</titel>
-        <werk ref="yale-muenster" kat="provinienz" />
+        <werk ref="yale-muenster" kat="provinienz"/>
         <anmerkung>Unterzeichnet „K–r.“</anmerkung>
     </beitrag>
-    <beitrag>
-        <stueck when="1775" nr="101" von="399" bis="400" />
-        <werk ref="yale-muenster" kat="provinienz" />
-        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 446–449" />
-        <werk ref="noesselt-religion" kat="rezension" />
-        <akteur ref="hamann" />
+    <beitrag id="1775-101-hamann-rezension-noesselt-religion">
+        <stueck when="1775" nr="101" von="399" bis="400"/>
+        <werk ref="yale-muenster" kat="provinienz"/>
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 446–449"/>
+        <werk ref="noesselt-religion" kat="rezension"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1775" nr="101" von="402"  order="1"/>
-        <kategorie ref="lokalanzeigen" />
-        <werk ref="yale-muenster" kat="provinienz" />
+    <beitrag id="1775-101-lokalanzeigen">
+        <stueck when="1775" nr="101" von="402" order="1"/>
+        <kategorie ref="lokalanzeigen"/>
+        <werk ref="yale-muenster" kat="provinienz"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1775" nr="101" von="402"  order="2"/>
-        <kategorie ref="wechselkurse" />
-        <werk ref="yale-muenster" kat="provinienz" />
+    <beitrag id="1775-101-wechselkurse">
+        <stueck when="1775" nr="101" von="402" order="2"/>
+        <kategorie ref="wechselkurse"/>
+        <werk ref="yale-muenster" kat="provinienz"/>
     </beitrag>
-    <beitrag>
+    <beitrag id="1775-hamann-uebersetzung-galiani-getreidehandel">
         <stueck beilage="1" when="1775" nr="77" von="1" bis="2"/>
         <stueck beilage="1" when="1775" nr="78" von="1" bis="2"/>
-        <stueck beilage="1" when="1775" nr="80" von="1" bis="2" />
-        <stueck beilage="1" when="1775" nr="87" von="1" bis="4" />
-        <stueck beilage="1" when="1775" nr="92" von="1" bis="2" />
-        <werk ref="yale-muenster" kat="provinienz" />
-        <werk ref="galiani-getreidehandel" kat="uebersetzung"
-            s="Ausschnitte, etwa S. 96 oder S. 239" />
-        <werk ref="galiani-getreidehandel" kat="kommentar" />
-        <akteur ref="hamann" />
+        <stueck beilage="1" when="1775" nr="80" von="1" bis="2"/>
+        <stueck beilage="1" when="1775" nr="87" von="1" bis="4"/>
+        <stueck beilage="1" when="1775" nr="92" von="1" bis="2"/>
+        <werk ref="yale-muenster" kat="provinienz"/>
+        <werk ref="galiani-getreidehandel" kat="uebersetzung" s="Ausschnitte, etwa S. 96 oder S. 239"/>
+        <werk ref="galiani-getreidehandel" kat="kommentar"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1775" nr="87" />
-        <kategorie ref="desertionsliste" />
-        <werk ref="yale-muenster" kat="provinienz" />
+    <beitrag id="1775-87-beil-desertionsliste">
+        <stueck beilage="1" when="1775" nr="87"/>
+        <kategorie ref="desertionsliste"/>
+        <werk ref="yale-muenster" kat="provinienz"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1775" nr="92" />
+    <beitrag id="1775-92-beil-hamann-summarischer-begrif-der-gespraeche-ueber-den-getrayde-handel-vom-uebersetzer-der-dahin-gehoerigen-beylagen">
+        <stueck beilage="1" when="1775" nr="92"/>
         <titel>Summarischer Begrif der Gespräche über den Getrayde-Handel vom Uebersetzer der dahin
             gehörigen Beylagen.</titel>
-        <werk ref="yale-muenster" kat="provinienz" />
-        <werk ref="galiani-getreidehandel" kat="rezension" />
-        <akteur ref="hamann" />
+        <werk ref="yale-muenster" kat="provinienz"/>
+        <werk ref="galiani-getreidehandel" kat="rezension"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1775" nr="93" />
+    <beitrag id="1775-93-beil-hamann-fragment-eines-programms-oder-zuruff-von-der-eule">
+        <stueck beilage="1" when="1775" nr="93"/>
         <titel>Fragment eines Programm’s oder Zuruff von der Eule.</titel>
-        <werk ref="yale-muenster" kat="provinienz" />
-        <werk ref="klopstock-gelehrtenrepublik" kat="rezension" />
-        <akteur ref="hamann" />
+        <werk ref="yale-muenster" kat="provinienz"/>
+        <werk ref="klopstock-gelehrtenrepublik" kat="rezension"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck beilage="1" when="1775" nr="94" />
-        <kategorie ref="aufsatz" />
+    <beitrag id="1775-94-beil-hamann-kleiner-versuch-ueber-grosse-probleme">
+        <stueck beilage="1" when="1775" nr="94"/>
+        <kategorie ref="aufsatz"/>
         <titel>Kleiner Versuch über große Probleme.</titel>
-        <werk ref="yale-muenster" kat="provinienz" />
-        <akteur ref="hamann" />
+        <werk ref="yale-muenster" kat="provinienz"/>
+        <akteur ref="hamann"/>
     </beitrag>
-    <beitrag>
-        <stueck when="1775" nr="101" />
-        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 449f." />
-        <werk ref="hamann-sibylle" kat="rezension" />
-        <akteur ref="hamann" />
+    <beitrag id="1775-101-hamann-rezension-hamann-sibylle">
+        <stueck when="1775" nr="101"/>
+        <werk ref="roth" kat="provinienz" s="Bd. 4, S. 449f."/>
+        <werk ref="hamann-sibylle" kat="rezension"/>
+        <akteur ref="hamann"/>
     </beitrag>
 
 </beitraege>
