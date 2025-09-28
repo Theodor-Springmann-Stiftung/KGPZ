@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <orte xmlns="https://www.koenigsberger-zeitungen.de"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../XSD/KGPZ.xsd">
-    <!--
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../XSD/KGPZ.xsd">
+	<!--
     <ort id="1">
         das Attribut id + <name> müssen vorhanden sein
         <name>Beispiel</name>
@@ -13,584 +13,584 @@
     </ort>
     -->
 
-    <ort id="kgsb">
-        <name>Königsberg</name>
-        <geonames>https://www.geonames.org/554234</geonames>
-    </ort>
-
-    <ort id="london">
-        <name>London</name>
-        <geonames>https://www.geonames.org/11591955</geonames>
-    </ort>
-
-    <ort id="kassel">
-        <name>Kassel</name>
-        <geonames>https://www.geonames.org/6547484</geonames>
-    </ort>
-
-    <ort id="flensburg">
-        <name>Flensburg</name>
-        <geonames>https://www.geonames.org/6551295</geonames>
-    </ort>
-
-    <ort id="regensburg">
-        <name>Regensburg</name>
-        <geonames>https://www.geonames.org/6556611</geonames>
-    </ort>
-
-    <ort id="coburg">
-        <name>Coburg</name>
-        <geonames>https://www.geonames.org/2939951</geonames>
-    </ort>
-
-    <ort id="neuchatel">
-        <name>Neuenburg</name>
-        <geonames>https://www.geonames.org/2659496</geonames>
-    </ort>
-
-    <ort id="chemnitz">
-        <name>Chemnitz</name>
-        <geonames>https://www.geonames.org/6548487</geonames>
-    </ort>
-
-    <ort id="altorf">
-        <name>Altorf</name>
-        <geonames>https://www.geonames.org/6452473</geonames>
-    </ort>
-
-    <ort id="gotha">
-        <name>Gotha</name>
-        <geonames>https://www.geonames.org/2918752</geonames>
-    </ort>
-
-    <ort id="koeln">
-        <name>Köln</name>
-        <geonames>https://www.geonames.org/2886242</geonames>
-    </ort>
-
-    <ort id="preussisch-holland">
-        <name>Preussisch Holland</name>
-        <geonames>https://www.geonames.org/7533014</geonames>
-    </ort>
-
-    <ort id="stpetersburg">
-        <name>St. Petersburg</name>
-        <geonames>https://www.geonames.org/536203</geonames>
-    </ort>
-
-    <ort id="lindau">
-        <name>Lindau</name>
-        <geonames>https://www.geonames.org/2877550</geonames>
-    </ort>
-
-    <ort id="schleswig">
-        <name>Schleswig</name>
-        <geonames>https://www.geonames.org/2838632</geonames>
-    </ort>
-
-    <ort id="stuttgart">
-        <name>Stuttgart</name>
-        <geonames>https://www.geonames.org/2825297</geonames>
-    </ort>
-
-    <ort id="haarlem">
-        <name>Haarlem</name>
-        <geonames>https://www.geonames.org/2755002</geonames>
-    </ort>
-
-    <ort id="aurich">
-        <name>Aurich</name>
-        <geonames>https://www.geonames.org/6557459</geonames>
-    </ort>
-
-    <ort id="frankfurt">
-        <name>Frankfurt am Main</name>
-        <geonames>https://www.geonames.org/6553153</geonames>
-    </ort>
-
-    <ort id="frankfurt-oder">
-        <name>Frankfurt an der Oder</name>
-        <geonames>https://www.geonames.org/2925535</geonames>
-    </ort>
-
-    <ort id="leipzig">
-        <name>Leipzig</name>
-        <geonames>https://www.geonames.org/2879139</geonames>
-    </ort>
-
-    <ort id="berlin">
-        <name>Berlin</name>
-        <geonames>https://www.geonames.org/2950159</geonames>
-    </ort>
-
-    <ort id="memmingen">
-        <name>Memmingen</name>
-        <geonames>https://www.geonames.org/6557109</geonames>
-    </ort>
-
-    <ort id="magdeburg">
-        <name>Magdeburg</name>
-        <geonames>https://www.geonames.org/2874545</geonames>
-    </ort>
-
-    <ort id="stendal">
-        <name>Stendal</name>
-        <geonames>https://www.geonames.org/6550942</geonames>
-    </ort>
-
-    <ort id="danzig">
-        <name>Danzig</name>
-        <geonames>https://www.geonames.org/3099434</geonames>
-    </ort>
-
-    <ort id="halle">
-        <name>Halle</name>
-        <geonames>https://www.geonames.org/2911522</geonames>
-    </ort>
-
-    <ort id="erlangen">
-        <name>Erlangen</name>
-        <geonames>https://www.geonames.org/6556830</geonames>
-    </ort>
-
-    <ort id="breslau">
-        <name>Breslau</name>
-        <geonames>https://www.geonames.org/3081368</geonames>
-    </ort>
-
-    <ort id="bremen">
-        <name>Bremen</name>
-        <geonames>https://www.geonames.org/2944388</geonames>
-    </ort>
-
-    <ort id="helmstedt">
-        <name>Helmstedt</name>
-        <geonames>https://www.geonames.org/2906676</geonames>
-    </ort>
-
-    <ort id="amsterdam">
-        <name>Amsterdam</name>
-        <geonames>https://www.geonames.org/2759794</geonames>
-    </ort>
-
-    <ort id="hamburg">
-        <name>Hamburg</name>
-        <geonames>https://www.geonames.org/2911298</geonames>
-    </ort>
-
-    <ort id="paris">
-        <name>Paris</name>
-        <geonames>https://www.geonames.org/2968815</geonames>
-    </ort>
-
-    <ort id="ulm">
-        <name>Ulm</name>
-        <geonames>https://www.geonames.org/2820256</geonames>
-    </ort>
-
-    <ort id="genf">
-        <name>Genf</name>
-        <geonames>https://www.geonames.org/7285902</geonames>
-    </ort>
-
-    <ort id="mannheim">
-        <name>Mannheim</name>
-        <geonames>https://www.geonames.org/2873891</geonames>
-    </ort>
-
-    <ort id="luebeck">
-        <name>Lübeck</name>
-        <geonames>https://www.geonames.org/7602559</geonames>
-    </ort>
-
-    <ort id="riga">
-        <name>Riga</name>
-        <geonames>https://www.geonames.org/456173</geonames>
-    </ort>
-
-    <ort id="altona">
-        <name>Altona</name>
-        <geonames>https://www.geonames.org/11669484</geonames>
-    </ort>
-
-    <ort id="strassburg">
-        <name>Strassburg</name>
-        <geonames>https://www.geonames.org/6441375</geonames>
-    </ort>
-
-    <ort id="tuebingen">
-        <name>Tübingen</name>
-        <geonames>https://www.geonames.org/2820860/</geonames>
-    </ort>
-
-    <ort id="jena">
-        <name>Jena</name>
-        <geonames>https://www.geonames.org/6549748</geonames>
-    </ort>
-
-    <ort id="brandenburg">
-        <name>Brandenburg an der Havel</name>
-        <geonames>https://www.geonames.org/6547540</geonames>
-    </ort>
-
-    <ort id="lyon">
-        <name>Lyon</name>
-        <geonames>https://www.geonames.org/6454573</geonames>
-    </ort>
-
-    <ort id="den-haag">
-        <name>Den Haag</name>
-        <geonames>https://www.geonames.org/2747373</geonames>
-    </ort>
-
-    <ort id="kleve">
-        <name>Kleve</name>
-        <geonames>https://www.geonames.org/6557494</geonames>
-    </ort>
-
-    <ort id="rostock">
-        <name>Rostock</name>
-        <geonames>https://www.geonames.org/2844588</geonames>
-    </ort>
-
-    <ort id="kopenhagen">
-        <name>Kopenhagen</name>
-        <geonames>https://www.geonames.org/2618425</geonames>
-    </ort>
-
-    <ort id="stralsund">
-        <name>Stralsund</name>
-        <geonames>https://www.geonames.org/6551183</geonames>
-    </ort>
-
-    <ort id="stettin">
-        <name>Stettin</name>
-        <geonames>https://www.geonames.org/3083829</geonames>
-    </ort>
-
-    <ort id="karlsruhe">
-        <name>Karlsruhe</name>
-        <geonames>https://www.geonames.org/6555606</geonames>
-    </ort>
-
-    <ort id="quedlinburg">
-        <name>Quedlinburg</name>
-        <geonames>https://www.geonames.org/6551148</geonames>
-    </ort>
-
-    <ort id="nuernberg">
-        <name>Nürnberg</name>
-        <geonames>https://www.geonames.org/2861650</geonames>
-    </ort>
-
-    <ort id="hildburghausen">
-        <name>Hildburghausen</name>
-        <geonames>https://www.geonames.org/6551153</geonames>
-    </ort>
-
-    <ort id="eisleben">
-        <name>Eisleben</name>
-        <geonames>https://www.geonames.org/6549067</geonames>
-    </ort>
-
-    <ort id="wittenberg">
-        <name>Wittenberg</name>
-        <geonames>https://www.geonames.org/6548975</geonames>
-    </ort>
-
-    <ort id="sorau">
-        <name>Sorau</name>
-        <geonames>https://www.geonames.org/3080644</geonames>
-    </ort>
-
-    <ort id="zuellichau">
-        <name>Züllichau</name>
-        <geonames>https://www.geonames.org/3084241</geonames>
-    </ort>
-
-    <ort id="hannover">
-        <name>Hannover</name>
-        <geonames>https://www.geonames.org/6559065</geonames>
-    </ort>
-
-    <ort id="erfurt">
-        <name>Erfurt</name>
-        <geonames>https://www.geonames.org/6549746</geonames>
-    </ort>
-
-    <ort id="altenburg">
-        <name>Altenburg</name>
-        <geonames>https://www.geonames.org/6551051</geonames>
-    </ort>
-
-    <ort id="rinteln">
-        <name>Rinteln</name>
-        <geonames>https://www.geonames.org/6558455</geonames>
-    </ort>
-
-    <ort id="zittau">
-        <name>Zittau</name>
-        <geonames>https://www.geonames.org/6551130</geonames>
-    </ort>
-
-    <ort id="dresden">
-        <name>Dresden</name>
-        <geonames>https://www.geonames.org/2935020</geonames>
-    </ort>
-
-    <ort id="buetzow">
-        <name>Bützow</name>
-        <geonames>https://www.geonames.org/6550684</geonames>
-    </ort>
-
-    <ort id="wismar">
-        <name>Wismar</name>
-        <geonames>https://www.geonames.org/7602561</geonames>
-    </ort>
-
-    <ort id="zuerich">
-        <name>Zürich</name>
-        <geonames>https://www.geonames.org/6458798</geonames>
-    </ort>
-
-    <ort id="celle">
-        <name>Celle</name>
-        <geonames>https://www.geonames.org/6557432</geonames>
-    </ort>
-
-    <ort id="braunschweig">
-        <name>Braunschweig</name>
-        <geonames>https://www.geonames.org/6552297</geonames>
-    </ort>
-
-    <ort id="wolfenbuettel">
-        <name>Wolfenbüttel</name>
-        <geonames>https://www.geonames.org/6557395</geonames>
-    </ort>
-
-    <ort id="lemgo">
-        <name>Lemgo</name>
-        <geonames>https://www.geonames.org/6557639</geonames>
-    </ort>
-
-    <ort id="mitau">
-        <name>Mitau</name>
-        <geonames>https://www.geonames.org/459279</geonames>
-    </ort>
-
-    <ort id="hanau">
-        <name>Hanau</name>
-        <geonames>https://www.geonames.org/6557738/</geonames>
-    </ort>
-
-    <ort id="wien">
-        <name>Wien</name>
-        <geonames>https://www.geonames.org/2761367</geonames>
-    </ort>
-
-    <ort id="augsburg">
-        <name>Augsburg</name>
-        <geonames>https://www.geonames.org/6557107</geonames>
-    </ort>
-
-    <ort id="heilbronn">
-        <name>Heilbronn</name>
-        <geonames>https://www.geonames.org/6555511</geonames>
-    </ort>
-
-    <ort id="bern">
-        <name>Bern</name>
-        <geonames>https://www.geonames.org/2661552</geonames>
-    </ort>
-
-    <ort id="eisenach">
-        <name>Eisenach</name>
-        <geonames>https://www.geonames.org/6547386</geonames>
-    </ort>
-
-    <ort id="prag">
-        <name>Prag</name>
-        <geonames>https://www.geonames.org/3067696</geonames>
-    </ort>
-
-    <ort id="muenchen">
-        <name>München</name>
-        <geonames>https://www.geonames.org/3220837</geonames>
-    </ort>
-
-    <ort id="liegnitz">
-        <name>Liegnitz</name>
-        <geonames>https://www.geonames.org/7530968</geonames>
-    </ort>
-
-    <ort id="weimar">
-        <name>Weimar</name>
-        <geonames>https://www.geonames.org/6549750</geonames>
-    </ort>
-
-    <ort id="bayreuth">
-        <name>Bayreuth</name>
-        <geonames>https://www.geonames.org/6556726</geonames>
-    </ort>
-
-    <ort id="giessen">
-        <name>Gießen</name>
-        <geonames>https://www.geonames.org/6559130</geonames>
-    </ort>
-
-    <ort id="goettingen">
-        <name>Göttingen</name>
-        <geonames>https://www.geonames.org/6557373</geonames>
-    </ort>
-
-    <ort id="goerlitz">
-        <name>Görlitz</name>
-        <geonames>https://www.geonames.org/6548602</geonames>
-    </ort>
-
-    <ort id="bamberg">
-        <name>Bamberg</name>
-        <geonames>https://www.geonames.org/2952984</geonames>
-    </ort>
-
-    <ort id="zelle">
-        <name>Zelle</name>
-        <geonames>https://www.geonames.org/2783286</geonames>
-    </ort>
-
-    <ort id="altdorf">
-        <name>Altdorf bei Nürnberg</name>
-        <geonames>https://www.geonames.org/6558981</geonames>
-    </ort>
-
-    <ort id="schwerin">
-        <name>Schwerin</name>
-        <geonames>https://www.geonames.org/2834281</geonames>
-    </ort>
-
-    <ort id="hof">
-        <name>Hof</name>
-        <geonames>https://www.geonames.org/6556728</geonames>
-    </ort>
-
-    <ort id="muenster">
-        <name>Münster</name>
-        <geonames>https://www.geonames.org/6553087</geonames>
-    </ort>
-
-    <ort id="hamm">
-        <name>Hamm</name>
-        <geonames>https://www.geonames.org/6553135</geonames>
-    </ort>
-
-    <ort id="meiningen">
-        <name>Meiningen</name>
-        <geonames>https://www.geonames.org/655115</geonames>
-    </ort>
-
-    <ort id="langensalza">
-        <name>Langensalza</name>
-        <geonames>https://www.geonames.org/6550971</geonames>
-    </ort>
-
-    <ort id="odense">
-        <name>Odense</name>
-        <geonames>https://www.geonames.org/2615872</geonames>
-    </ort>
-
-    <ort id="glogau">
-        <name>Glogau</name>
-        <geonames>https://www.geonames.org/3099213</geonames>
-    </ort>
-
-    <ort id="schwabach">
-        <name>Schwabach</name>
-        <geonames>https://www.geonames.org/2835536</geonames>
-    </ort>
-
-    <ort id="ansbach">
-        <name>Ansbach</name>
-        <geonames>https://www.geonames.org/6556829</geonames>
-    </ort>
-
-    <ort id="stockholm">
-        <name>Stockholm</name>
-        <geonames>https://www.geonames.org/2673730</geonames>
-    </ort>
-
-    <ort id="potsdam">
-        <name>Potsdam</name>
-        <geonames>https://www.geonames.org/7602560</geonames>
-    </ort>
-
-    <ort id="hasenpoth">
-        <name>Hasenpoth</name>
-        <geonames>https://www.geonames.org/461602</geonames>
-    </ort>
-
-    <ort id="zerbst">
-        <name>Zerbst</name>
-        <geonames>https://www.geonames.org/6550879</geonames>
-    </ort>
-
-    <ort id="halberstadt">
-        <name>Halberstadt</name>
-        <geonames>https://www.geonames.org/6550926</geonames>
-    </ort>
-
-    <ort id="pressburg">
-        <name>Pressburg</name>
-        <geonames>https://www.geonames.org/3343955</geonames>
-    </ort>
-
-    <ort id="warschau">
-        <name>Warschau</name>
-        <geonames>https://www.geonames.org/7531926</geonames>
-    </ort>
-
-    <ort id="oehringen">
-        <name>Öhringen</name>
-        <geonames>https://www.geonames.org/6557998</geonames>
-    </ort>
-
-    <ort id="graz">
-        <name>Graz</name>
-        <geonames>https://www.geonames.org/7871499</geonames>
-    </ort>
-
-    <ort id="bautzen">
-        <name>Budissin / Bautzen</name>
-        <geonames>https://www.geonames.org/6550794</geonames>
-    </ort>
-
-    <ort id="greifswald">
-        <name>Greifswald</name>
-        <geonames>https://www.geonames.org/6551180</geonames>
-    </ort>
-
-    <ort id="kiel">
-        <name>Kiel</name>
-        <geonames>https://www.geonames.org/2891122</geonames>
-    </ort>
-
-    <ort id="basel">
-        <name>Basel</name>
-        <geonames>https://www.geonames.org/7285161</geonames>
-    </ort>
-
-    <ort id="lausanne">
-        <name>Lausanne</name>
-        <geonames>https://www.geonames.org/7286283</geonames>
-    </ort>
-
-    <ort id="bernburg">
-        <name>Bernburg</name>
-        <geonames>https://www.geonames.org/2950073</geonames>
-    </ort>
-
-    <ort id="minden">
-        <name>Minden</name>
-        <geonames>https://www.geonames.org/6557646</geonames>
-    </ort>
+	<ort id="kgsb">
+		<name>Königsberg</name>
+		<geonames>https://www.geonames.org/554234</geonames>
+	</ort>
+
+	<ort id="london">
+		<name>London</name>
+		<geonames>https://www.geonames.org/11591955</geonames>
+	</ort>
+
+	<ort id="kassel">
+		<name>Kassel</name>
+		<geonames>https://www.geonames.org/6547484</geonames>
+	</ort>
+
+	<ort id="flensburg">
+		<name>Flensburg</name>
+		<geonames>https://www.geonames.org/6551295</geonames>
+	</ort>
+
+	<ort id="regensburg">
+		<name>Regensburg</name>
+		<geonames>https://www.geonames.org/6556611</geonames>
+	</ort>
+
+	<ort id="coburg">
+		<name>Coburg</name>
+		<geonames>https://www.geonames.org/2939951</geonames>
+	</ort>
+
+	<ort id="neuchatel">
+		<name>Neuenburg</name>
+		<geonames>https://www.geonames.org/2659496</geonames>
+	</ort>
+
+	<ort id="chemnitz">
+		<name>Chemnitz</name>
+		<geonames>https://www.geonames.org/6548487</geonames>
+	</ort>
+
+	<ort id="altorf">
+		<name>Altorf</name>
+		<geonames>https://www.geonames.org/6452473</geonames>
+	</ort>
+
+	<ort id="gotha">
+		<name>Gotha</name>
+		<geonames>https://www.geonames.org/2918752</geonames>
+	</ort>
+
+	<ort id="koeln">
+		<name>Köln</name>
+		<geonames>https://www.geonames.org/2886242</geonames>
+	</ort>
+
+	<ort id="preussisch-holland">
+		<name>Preussisch Holland</name>
+		<geonames>https://www.geonames.org/7533014</geonames>
+	</ort>
+
+	<ort id="stpetersburg">
+		<name>St. Petersburg</name>
+		<geonames>https://www.geonames.org/536203</geonames>
+	</ort>
+
+	<ort id="lindau">
+		<name>Lindau</name>
+		<geonames>https://www.geonames.org/2877550</geonames>
+	</ort>
+
+	<ort id="schleswig">
+		<name>Schleswig</name>
+		<geonames>https://www.geonames.org/2838632</geonames>
+	</ort>
+
+	<ort id="stuttgart">
+		<name>Stuttgart</name>
+		<geonames>https://www.geonames.org/2825297</geonames>
+	</ort>
+
+	<ort id="haarlem">
+		<name>Haarlem</name>
+		<geonames>https://www.geonames.org/2755002</geonames>
+	</ort>
+
+	<ort id="aurich">
+		<name>Aurich</name>
+		<geonames>https://www.geonames.org/6557459</geonames>
+	</ort>
+
+	<ort id="frankfurt">
+		<name>Frankfurt am Main</name>
+		<geonames>https://www.geonames.org/6553153</geonames>
+	</ort>
+
+	<ort id="frankfurt-oder">
+		<name>Frankfurt an der Oder</name>
+		<geonames>https://www.geonames.org/2925535</geonames>
+	</ort>
+
+	<ort id="leipzig">
+		<name>Leipzig</name>
+		<geonames>https://www.geonames.org/2879139</geonames>
+	</ort>
+
+	<ort id="berlin">
+		<name>Berlin</name>
+		<geonames>https://www.geonames.org/2950159</geonames>
+	</ort>
+
+	<ort id="memmingen">
+		<name>Memmingen</name>
+		<geonames>https://www.geonames.org/6557109</geonames>
+	</ort>
+
+	<ort id="magdeburg">
+		<name>Magdeburg</name>
+		<geonames>https://www.geonames.org/2874545</geonames>
+	</ort>
+
+	<ort id="stendal">
+		<name>Stendal</name>
+		<geonames>https://www.geonames.org/6550942</geonames>
+	</ort>
+
+	<ort id="danzig">
+		<name>Danzig</name>
+		<geonames>https://www.geonames.org/3099434</geonames>
+	</ort>
+
+	<ort id="halle">
+		<name>Halle</name>
+		<geonames>https://www.geonames.org/2911522</geonames>
+	</ort>
+
+	<ort id="erlangen">
+		<name>Erlangen</name>
+		<geonames>https://www.geonames.org/6556830</geonames>
+	</ort>
+
+	<ort id="breslau">
+		<name>Breslau</name>
+		<geonames>https://www.geonames.org/3081368</geonames>
+	</ort>
+
+	<ort id="bremen">
+		<name>Bremen</name>
+		<geonames>https://www.geonames.org/2944388</geonames>
+	</ort>
+
+	<ort id="helmstedt">
+		<name>Helmstedt</name>
+		<geonames>https://www.geonames.org/2906676</geonames>
+	</ort>
+
+	<ort id="amsterdam">
+		<name>Amsterdam</name>
+		<geonames>https://www.geonames.org/2759794</geonames>
+	</ort>
+
+	<ort id="hamburg">
+		<name>Hamburg</name>
+		<geonames>https://www.geonames.org/2911298</geonames>
+	</ort>
+
+	<ort id="paris">
+		<name>Paris</name>
+		<geonames>https://www.geonames.org/2968815</geonames>
+	</ort>
+
+	<ort id="ulm">
+		<name>Ulm</name>
+		<geonames>https://www.geonames.org/2820256</geonames>
+	</ort>
+
+	<ort id="genf">
+		<name>Genf</name>
+		<geonames>https://www.geonames.org/7285902</geonames>
+	</ort>
+
+	<ort id="mannheim">
+		<name>Mannheim</name>
+		<geonames>https://www.geonames.org/2873891</geonames>
+	</ort>
+
+	<ort id="luebeck">
+		<name>Lübeck</name>
+		<geonames>https://www.geonames.org/7602559</geonames>
+	</ort>
+
+	<ort id="riga">
+		<name>Riga</name>
+		<geonames>https://www.geonames.org/456173</geonames>
+	</ort>
+
+	<ort id="altona">
+		<name>Altona</name>
+		<geonames>https://www.geonames.org/11669484</geonames>
+	</ort>
+
+	<ort id="strassburg">
+		<name>Strassburg</name>
+		<geonames>https://www.geonames.org/6441375</geonames>
+	</ort>
+
+	<ort id="tuebingen">
+		<name>Tübingen</name>
+		<geonames>https://www.geonames.org/2820860/</geonames>
+	</ort>
+
+	<ort id="jena">
+		<name>Jena</name>
+		<geonames>https://www.geonames.org/6549748</geonames>
+	</ort>
+
+	<ort id="brandenburg">
+		<name>Brandenburg an der Havel</name>
+		<geonames>https://www.geonames.org/6547540</geonames>
+	</ort>
+
+	<ort id="lyon">
+		<name>Lyon</name>
+		<geonames>https://www.geonames.org/6454573</geonames>
+	</ort>
+
+	<ort id="den-haag">
+		<name>Den Haag</name>
+		<geonames>https://www.geonames.org/2747373</geonames>
+	</ort>
+
+	<ort id="kleve">
+		<name>Kleve</name>
+		<geonames>https://www.geonames.org/6557494</geonames>
+	</ort>
+
+	<ort id="rostock">
+		<name>Rostock</name>
+		<geonames>https://www.geonames.org/2844588</geonames>
+	</ort>
+
+	<ort id="kopenhagen">
+		<name>Kopenhagen</name>
+		<geonames>https://www.geonames.org/2618425</geonames>
+	</ort>
+
+	<ort id="stralsund">
+		<name>Stralsund</name>
+		<geonames>https://www.geonames.org/6551183</geonames>
+	</ort>
+
+	<ort id="stettin">
+		<name>Stettin</name>
+		<geonames>https://www.geonames.org/3083829</geonames>
+	</ort>
+
+	<ort id="karlsruhe">
+		<name>Karlsruhe</name>
+		<geonames>https://www.geonames.org/6555606</geonames>
+	</ort>
+
+	<ort id="quedlinburg">
+		<name>Quedlinburg</name>
+		<geonames>https://www.geonames.org/6551148</geonames>
+	</ort>
+
+	<ort id="nuernberg">
+		<name>Nürnberg</name>
+		<geonames>https://www.geonames.org/2861650</geonames>
+	</ort>
+
+	<ort id="hildburghausen">
+		<name>Hildburghausen</name>
+		<geonames>https://www.geonames.org/6551153</geonames>
+	</ort>
+
+	<ort id="eisleben">
+		<name>Eisleben</name>
+		<geonames>https://www.geonames.org/6549067</geonames>
+	</ort>
+
+	<ort id="wittenberg">
+		<name>Wittenberg</name>
+		<geonames>https://www.geonames.org/6548975</geonames>
+	</ort>
+
+	<ort id="sorau">
+		<name>Sorau</name>
+		<geonames>https://www.geonames.org/3080644</geonames>
+	</ort>
+
+	<ort id="zuellichau">
+		<name>Züllichau</name>
+		<geonames>https://www.geonames.org/3084241</geonames>
+	</ort>
+
+	<ort id="hannover">
+		<name>Hannover</name>
+		<geonames>https://www.geonames.org/6559065</geonames>
+	</ort>
+
+	<ort id="erfurt">
+		<name>Erfurt</name>
+		<geonames>https://www.geonames.org/6549746</geonames>
+	</ort>
+
+	<ort id="altenburg">
+		<name>Altenburg</name>
+		<geonames>https://www.geonames.org/6551051</geonames>
+	</ort>
+
+	<ort id="rinteln">
+		<name>Rinteln</name>
+		<geonames>https://www.geonames.org/6558455</geonames>
+	</ort>
+
+	<ort id="zittau">
+		<name>Zittau</name>
+		<geonames>https://www.geonames.org/6551130</geonames>
+	</ort>
+
+	<ort id="dresden">
+		<name>Dresden</name>
+		<geonames>https://www.geonames.org/2935020</geonames>
+	</ort>
+
+	<ort id="buetzow">
+		<name>Bützow</name>
+		<geonames>https://www.geonames.org/6550684</geonames>
+	</ort>
+
+	<ort id="wismar">
+		<name>Wismar</name>
+		<geonames>https://www.geonames.org/7602561</geonames>
+	</ort>
+
+	<ort id="zuerich">
+		<name>Zürich</name>
+		<geonames>https://www.geonames.org/6458798</geonames>
+	</ort>
+
+	<ort id="celle">
+		<name>Celle</name>
+		<geonames>https://www.geonames.org/6557432</geonames>
+	</ort>
+
+	<ort id="braunschweig">
+		<name>Braunschweig</name>
+		<geonames>https://www.geonames.org/6552297</geonames>
+	</ort>
+
+	<ort id="wolfenbuettel">
+		<name>Wolfenbüttel</name>
+		<geonames>https://www.geonames.org/6557395</geonames>
+	</ort>
+
+	<ort id="lemgo">
+		<name>Lemgo</name>
+		<geonames>https://www.geonames.org/6557639</geonames>
+	</ort>
+
+	<ort id="mitau">
+		<name>Mitau</name>
+		<geonames>https://www.geonames.org/459279</geonames>
+	</ort>
+
+	<ort id="hanau">
+		<name>Hanau</name>
+		<geonames>https://www.geonames.org/6557738/</geonames>
+	</ort>
+
+	<ort id="wien">
+		<name>Wien</name>
+		<geonames>https://www.geonames.org/2761367</geonames>
+	</ort>
+
+	<ort id="augsburg">
+		<name>Augsburg</name>
+		<geonames>https://www.geonames.org/6557107</geonames>
+	</ort>
+
+	<ort id="heilbronn">
+		<name>Heilbronn</name>
+		<geonames>https://www.geonames.org/6555511</geonames>
+	</ort>
+
+	<ort id="bern">
+		<name>Bern</name>
+		<geonames>https://www.geonames.org/2661552</geonames>
+	</ort>
+
+	<ort id="eisenach">
+		<name>Eisenach</name>
+		<geonames>https://www.geonames.org/6547386</geonames>
+	</ort>
+
+	<ort id="prag">
+		<name>Prag</name>
+		<geonames>https://www.geonames.org/3067696</geonames>
+	</ort>
+
+	<ort id="muenchen">
+		<name>München</name>
+		<geonames>https://www.geonames.org/3220837</geonames>
+	</ort>
+
+	<ort id="liegnitz">
+		<name>Liegnitz</name>
+		<geonames>https://www.geonames.org/3093692</geonames>
+	</ort>
+
+	<ort id="weimar">
+		<name>Weimar</name>
+		<geonames>https://www.geonames.org/6549750</geonames>
+	</ort>
+
+	<ort id="bayreuth">
+		<name>Bayreuth</name>
+		<geonames>https://www.geonames.org/6556726</geonames>
+	</ort>
+
+	<ort id="giessen">
+		<name>Gießen</name>
+		<geonames>https://www.geonames.org/6559130</geonames>
+	</ort>
+
+	<ort id="goettingen">
+		<name>Göttingen</name>
+		<geonames>https://www.geonames.org/6557373</geonames>
+	</ort>
+
+	<ort id="goerlitz">
+		<name>Görlitz</name>
+		<geonames>https://www.geonames.org/6548602</geonames>
+	</ort>
+
+	<ort id="bamberg">
+		<name>Bamberg</name>
+		<geonames>https://www.geonames.org/2952984</geonames>
+	</ort>
+
+	<ort id="zelle">
+		<name>Zelle</name>
+		<geonames>https://www.geonames.org/2783286</geonames>
+	</ort>
+
+	<ort id="altdorf">
+		<name>Altdorf bei Nürnberg</name>
+		<geonames>https://www.geonames.org/6558981</geonames>
+	</ort>
+
+	<ort id="schwerin">
+		<name>Schwerin</name>
+		<geonames>https://www.geonames.org/2834281</geonames>
+	</ort>
+
+	<ort id="hof">
+		<name>Hof</name>
+		<geonames>https://www.geonames.org/6556728</geonames>
+	</ort>
+
+	<ort id="muenster">
+		<name>Münster</name>
+		<geonames>https://www.geonames.org/6553087</geonames>
+	</ort>
+
+	<ort id="hamm">
+		<name>Hamm</name>
+		<geonames>https://www.geonames.org/6553135</geonames>
+	</ort>
+
+	<ort id="meiningen">
+		<name>Meiningen</name>
+		<geonames>https://www.geonames.org/655115</geonames>
+	</ort>
+
+	<ort id="langensalza">
+		<name>Langensalza</name>
+		<geonames>https://www.geonames.org/6550971</geonames>
+	</ort>
+
+	<ort id="odense">
+		<name>Odense</name>
+		<geonames>https://www.geonames.org/2615872</geonames>
+	</ort>
+
+	<ort id="glogau">
+		<name>Glogau</name>
+		<geonames>https://www.geonames.org/3099213</geonames>
+	</ort>
+
+	<ort id="schwabach">
+		<name>Schwabach</name>
+		<geonames>https://www.geonames.org/2835536</geonames>
+	</ort>
+
+	<ort id="ansbach">
+		<name>Ansbach</name>
+		<geonames>https://www.geonames.org/6556829</geonames>
+	</ort>
+
+	<ort id="stockholm">
+		<name>Stockholm</name>
+		<geonames>https://www.geonames.org/2673730</geonames>
+	</ort>
+
+	<ort id="potsdam">
+		<name>Potsdam</name>
+		<geonames>https://www.geonames.org/7602560</geonames>
+	</ort>
+
+	<ort id="hasenpoth">
+		<name>Hasenpoth</name>
+		<geonames>https://www.geonames.org/461602</geonames>
+	</ort>
+
+	<ort id="zerbst">
+		<name>Zerbst</name>
+		<geonames>https://www.geonames.org/6550879</geonames>
+	</ort>
+
+	<ort id="halberstadt">
+		<name>Halberstadt</name>
+		<geonames>https://www.geonames.org/6550926</geonames>
+	</ort>
+
+	<ort id="pressburg">
+		<name>Pressburg</name>
+		<geonames>https://www.geonames.org/3343955</geonames>
+	</ort>
+
+	<ort id="warschau">
+		<name>Warschau</name>
+		<geonames>https://www.geonames.org/7531926</geonames>
+	</ort>
+
+	<ort id="oehringen">
+		<name>Öhringen</name>
+		<geonames>https://www.geonames.org/6557998</geonames>
+	</ort>
+
+	<ort id="graz">
+		<name>Graz</name>
+		<geonames>https://www.geonames.org/7871499</geonames>
+	</ort>
+
+	<ort id="bautzen">
+		<name>Budissin / Bautzen</name>
+		<geonames>https://www.geonames.org/6550794</geonames>
+	</ort>
+
+	<ort id="greifswald">
+		<name>Greifswald</name>
+		<geonames>https://www.geonames.org/6551180</geonames>
+	</ort>
+
+	<ort id="kiel">
+		<name>Kiel</name>
+		<geonames>https://www.geonames.org/2891122</geonames>
+	</ort>
+
+	<ort id="basel">
+		<name>Basel</name>
+		<geonames>https://www.geonames.org/7285161</geonames>
+	</ort>
+
+	<ort id="lausanne">
+		<name>Lausanne</name>
+		<geonames>https://www.geonames.org/7286283</geonames>
+	</ort>
+
+	<ort id="bernburg">
+		<name>Bernburg</name>
+		<geonames>https://www.geonames.org/2950073</geonames>
+	</ort>
+
+	<ort id="minden">
+		<name>Minden</name>
+		<geonames>https://www.geonames.org/6557646</geonames>
+	</ort>
 
 </orte>
