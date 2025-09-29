@@ -20,11 +20,15 @@ def get_all_ids(root, tag):
 def check_references(beitrag_root, reference_data, filepath):
     errors = []
     relative_path = os.path.relpath(filepath, REPO_ROOT)
-    for ref_type, ref_tag in [('akteur', 'akteur'), ('kategorie', 'kategorie'), 
+    for ref_type, ref_tag in [('akteur', 'akteur'), ('kategorie', 'kategorie'),
                               ('ort', 'ort'), ('werk', 'werk')]:
         for ref in beitrag_root.xpath(f'//kgpz:{ref_tag}', namespaces=NAMESPACE):
+            # Skip elements that have an 'id' attribute (they are definitions, not references)
+            if ref.get('id') is not None:
+                continue
+
             ref_id = ref.get('ref')
-            if ref_id not in reference_data[ref_type]:
+            if ref_id and ref_id not in reference_data[ref_type]:
                 line_number = ref.sourceline
                 errors.append(f"{relative_path}, Zeile {line_number}: UNGÜLTIGER VERWEIS ({ref_type}:{ref_id})")
     return errors
@@ -39,14 +43,33 @@ def main():
 
     all_errors = []
 
+    # Check all XML files in XML directory
+    xml_files_to_check = []
+
+    # Add core data files
+    for filename in ['akteure.xml', 'kategorien.xml', 'orte.xml', 'werke.xml']:
+        xml_files_to_check.append(os.path.join(XML_DIR, filename))
+
+    # Add all files in beitraege/
     beitraege_dir = os.path.join(XML_DIR, 'beitraege')
-    for filename in os.listdir(beitraege_dir):
-        if filename.endswith('-beitraege.xml'):
-            filepath = os.path.join(beitraege_dir, filename)
-            beitrag_root = parse_xml_file(filepath)
-            if beitrag_root is not None:
-                errors = check_references(beitrag_root, reference_data, filepath)
-                all_errors.extend(errors)
+    if os.path.exists(beitraege_dir):
+        for filename in os.listdir(beitraege_dir):
+            if filename.endswith('.xml'):
+                xml_files_to_check.append(os.path.join(beitraege_dir, filename))
+
+    # Add all files in stuecke/
+    stuecke_dir = os.path.join(XML_DIR, 'stuecke')
+    if os.path.exists(stuecke_dir):
+        for filename in os.listdir(stuecke_dir):
+            if filename.endswith('.xml'):
+                xml_files_to_check.append(os.path.join(stuecke_dir, filename))
+
+    # Check all collected files
+    for filepath in xml_files_to_check:
+        root = parse_xml_file(filepath)
+        if root is not None:
+            errors = check_references(root, reference_data, filepath)
+            all_errors.extend(errors)
 
     all_errors.sort()
 
