@@ -343,10 +343,6 @@
         <stueck when="1772" nr="2" von="8" order="1"/>
         <kategorie ref="lotterie"/>
     </beitrag>
-    <beitrag id="1772-2-replik">
-        <stueck when="1772" nr="2" von="8" order="2"/>
-        <kategorie ref="replik"/>
-    </beitrag>
     <beitrag id="1772-2-einkommende-fremde">
         <stueck when="1772" nr="2" von="8" order="3"/>
         <kategorie ref="einkommende-fremde"/>
@@ -400,8 +396,8 @@
     
     <beitrag id="1772-5-kanter-antwort-an-den-verfasser-des-avertissements-in-der-vossischen-und-haudenschen-zeitung-vom-11ten-januar-1772">
         <stueck when="1772" nr="5" von="17"/>
+        <kategorie ref="aufsatz"/>
         <titel>Antwort An den Verfasser des Avertissements in der Voßischen und Haudenschen Zeitung vom 11ten Januar 1772.</titel>
-        <werk kat="replik" ref="vossischezeitung1772"/>
         <akteur ref="kanter">Unterzeichnet „K.“</akteur>
     </beitrag>
     <beitrag id="1772-5-rezension-cyprian-wahre-geschichtepetri">
