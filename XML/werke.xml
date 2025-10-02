@@ -26,8 +26,8 @@
     -->
 
     <werk id="pfeffel-allgemeine-bibliothek-schoen-gut">
-        <akteur ref="pfeffel" />
-        <zitation><title>Bibliothek des Schönen und Guten</title>, Erster Band (Frankfurt: Garbe
+        <akteur ref="pfeffel-gk" />
+        <zitation><title>Allgemeine Bibliothek des Schönen und Guten</title>, Erster Band (Frankfurt: Garbe
             <year>1764</year>).</zitation>
     </werk>
 
@@ -202,13 +202,13 @@
     </werk>
 
     <werk id="buesching-christ-saergen">
-        <akteur ref="buesching" />
+        <akteur ref="buesching-af" />
         <zitation><title>Der Christ bey den Särgen</title> von D. Anton Friedrich Büsching (Hamburg: Ritter <year>1766</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN819411949">SUB Göttingen</url>
     </werk>
 
     <werk id="buesching-vier-evangelisten">
-        <akteur ref="buesching" />
+        <akteur ref="buesching-af" />
         <zitation><title>Die vier Evangelisten</title> mit ihren eignen Worten zusammengesetz, von neuem
             verdeutschet, und mit hinlänglichen Erklärungen versehen, von Anton Friedrich Büsching.
             Bd. 1 (Hamburg: Ritter <year>1766</year>).</zitation>
@@ -461,7 +461,7 @@
 
     <werk id="nicolai-bibliothek">
         <akteur ref="nicolai" />
-        <akteur ref="mendelssohn" />
+        <akteur ref="mendelssohn-m" />
         <zitation><title>Bibliothek der schönen Wissenschaften und freyen Künste</title> (12 Bde., Leipzig: Dyck
             <year>1757–1765</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573343-5">Bd. 11, 1764 (BSB München)</url>
@@ -531,7 +531,7 @@
     </werk>
 
     <werk id="buesching-denkmal-stegelmann">
-        <akteur ref="buesching" />
+        <akteur ref="buesching-af" />
         <preferred>Denkmal für Heinrich Christian Stegelmann</preferred>
         <zitation><title>Die St. Peters-Schule stiftet ihrem grossen Wohlthäter, dem Hochedelgebohrnen Herrn, Herrn Heinrich Christian Stegelmann dieses Denkmahl ihrer dankbaren Hochachtung</title> durch die pflichtmäßige Bemühung ihres Directors D. Anton Friederich Büschings (St. Petersburg <year>1763</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN61701471X">SUB Göttingen</url>
@@ -1478,13 +1478,13 @@
     </werk>
 
     <werk id="galiani-getreidehandel">
-        <akteur ref="galiani" />
+        <akteur ref="galiani-f" />
         <zitation><title>Dialogues sur le commerce des blés</title> (London <year>1770</year>).</zitation>
         <url address="https://gallica.bnf.fr/ark:/12148/btv1b8626898f">Bibliothèque nationale de France</url>
     </werk>
 
     <werk id="noesselt-religion">
-        <akteur ref="noesselt" />
+        <akteur ref="noesselt-ja" />
         <zitation><title>Ueber die Erziehung zur Religion</title> von Joh. Aug. Nösselt (Halle: Hemmerde <year>1775</year>).</zitation>
         <url address="http://dx.doi.org/10.25673/52682">ULB Halle</url>
     </werk>
@@ -2054,7 +2054,8 @@
     </werk>
 
     <werk id="graefin-vergy">
-        <akteur ref="graefin-vergy" />
+        <akteur ref="vignacourt-a" />
+        <akteur ref="wiedmer-gr" kat="übersetzer" />
         <zitation><title>Die Gräfinn von Vergi und Ralph von Couci</title>, zwey getreue Liebende und Ehegatten, eine wahre und zugleich verliebte und tragische Geschichte. Aus dem Französischen übersetzt durch G. R. W. (Leipzig: Witzleben <year>1767</year>).</zitation>
         <url address="http://www.ub.uni-koeln.de/permalink/2010/01/katkey:234000" >UB Köln</url>
     </werk>
@@ -2136,7 +2137,7 @@
     </werk>
 
     <werk id="buesching-vorbereitung-staatsverfassung">
-        <akteur ref="buesching" />
+        <akteur ref="buesching-af" />
         <preferred>Geographische Beschaffenheit und Staatsverfassung der europäischen Reiche und Republiken</preferred>
         <zitation>D. Anton Friderich Büschings Vorbereitung zur gründlichen und nützlichen Kenntniß der geographischen Beschaffenheit und Staatsverfassung der europäischen Reiche und Republiken (4. Aufl., Hamburg: Bohn 1768).</zitation>
         <url address="http://data.onb.ac.at/rep/106680B7" >ÖNB Wien</url>
@@ -2437,7 +2438,7 @@
     </werk>
 
     <werk id="buesching-nachrichten1">
-        <akteur ref="buesching" />
+        <akteur ref="buesching-af" />
         <zitation><title>Gelehrte Abhandlungen und Nachrichten aus und von Rußland</title>, geliefert von der
             Schule der Sprachen, Künste und Wissenschaften bey der evangelischen St. Peterskirche zu
             St. Petersburg, und herausgegeben von derselben Director D. Anton Friedrich Büsching (2
@@ -2670,8 +2671,8 @@
         <url address="http://dx.doi.org/10.25673/80774">ULB Halle</url>
     </werk>
 
-    <werk id="abhandlungen-freye-oekonomische-gesellschaft">
-        <akteur ref="freye-oekonomische-gesellschaft" />
+    <werk id="abhandlungen-stpetersburg-oekonomische-gesellschaft">
+        <akteur ref="stpetersburg-oekonomische-gesellschaft" />
         <zitation><title>Abhandlungen</title> der Freyen Ökonomischen Gesellschaft in St. Petersburg zur Aufnahme des Ackerbaues und der Hauswirthschaft in Rußland. Anno <year>1765</year>. Erster Theil (Mitau, Riga: Hartknoch <year>1767</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10535222-4" >BSB München</url>
     </werk>
@@ -2786,7 +2787,7 @@
     </werk>
 
     <werk id="mendelssohn-danklied">
-        <akteur ref="mendelssohn" />
+        <akteur ref="mendelssohn-m" />
         <zitation><title>Danklied der Judenschaft zu Berlin</title> wegen Ihrer Königlichen Hoheit der Durchlauchtigsten Prinzessin von Preußen glücklicher Entbindung von einer Prinzessin. Gefeyert am Sabbath den 10ten Ijar 527 (den 9ten May <year>1767</year>) (Berlin <year>1767</year>).</zitation>
     </werk>
 
@@ -3041,7 +3042,7 @@
     </werk>
 
     <werk id="hiller-anecdoten">
-        <akteur ref="hiller-a" />
+        <akteur ref="hiller-ja" />
         <zitation><title>Anecdoten zur Lebensgeschichte großer Regenten und berühmter Staatsmänner</title> (8 Bde.,
             Leipzig <year>1762–1769</year>), Bd. 8.</zitation>
         <url address="https://books.google.de/books?id=uBGTNfE9uYcC">Google Books</url>
@@ -3442,7 +3443,7 @@
     </werk>
 
     <werk id="guthrie-gray-allgemeineweltgeschichte">
-        <akteur ref="guthrie" />
+        <akteur ref="guthrie-w" />
         <akteur ref="gray-j" />
         <zitation><title>Allgemeine Weltgeschichte von der Schöpfung an bis auf gegenwärtige Zeit</title> […],
             ausgefertigt von Wilhelm Guthrie, Johann Gray, und andern in diesen Theilen der
@@ -3475,7 +3476,7 @@
     </werk>
 
     <werk id="walch-kritische-kirchenhistorie">
-        <akteur ref="walch-cfw" />
+        <akteur ref="walch-cwf" />
         <zitation><title>Kritische Nachricht von den Quellen der Kirchenhistorie</title> (Leipzig: Weygand <year>1770</year>).</zitation>
         <url address="https://books.google.de/books?id=nJWJQEB-fAsC">Google Books</url>
     </werk>
@@ -3579,9 +3580,9 @@
     </werk>
 
     <werk id="brittisches-museum">
-        <akteur ref="brittisches-museum" />
         <zitation><title>Brittisches Museum</title>, oder Beiträge zur angenehmen Lektüre, aus dem Englischen.
             Erster Theil (Leipzig: Schwickert <year>1770</year>).</zitation>
+            <url address="https://nbn-resolving.org/urn:nbn:de:bsz:14-db-id3652421799">SLUB Dresden</url>
     </werk>
 
     <werk id="hahn-lettres">
@@ -3752,7 +3753,7 @@
 
     <werk id="henry-practisch">
         <akteur ref="henry-m" />
-        <akteur ref="rambach-fc" kat="herausgeber" />
+        <akteur ref="rambach-fe" kat="herausgeber" />
         <zitation><title>Practische Erklärung der Psalmen Davids</title>, 3. Teil (Leipzig: Weygand <year>1770</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10411078-8">BSB München</url>
     </werk>
@@ -3874,7 +3875,7 @@
 
     <werk id="mosheim-sittenlehre9">
         <akteur ref="mosheim-jl" />
-        <akteur ref="miller-jp" />
+        <akteur ref="miller-jp1725" />
         <zitation>Johann Lorenz von Mosheim <title>Sitten-Lehre der Heiligen Schrifft</title>, 9. und letzter
             Theil. Verfasset von D. Johann Peter Miller. Nebst einem Hauptregister über alle Neun
             Theile (Göttingen, Leipzig: Weygand <year>1770</year>).</zitation>
@@ -4216,7 +4217,7 @@
     </werk>
 
     <werk id="boehm-geistliche-poesien">
-        <akteur ref="boehm-m" />
+        <akteur ref="boehm-mg" />
         <zitation><title>Geistliche Poesien und Denksprüche</title> auf die vornehmsten Feste und alle Sonntage des Jahrs, von M. M. G. Böhm (Breslau <year>1767</year>).</zitation>
     </werk>
 
@@ -4457,7 +4458,7 @@
     </werk>
 
     <werk id="buesching-neue-erdbeschreibung5">
-        <akteur ref="buesching" />
+        <akteur ref="buesching-af" />
         <preferred>Neue Erdbeschreibung</preferred>
         <zitation>D. Anton Friderich Büschings <title>neue Erdbeschreibung</title>. Des fünften Theils erste Abtheilung, welche unterschiedene Länder von Asia begreift (Hamburg: Bohn <year>1768</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10428944-4" >BSB München</url>
@@ -4518,7 +4519,7 @@
     </werk>
 
     <werk id="cotes-memoires-pitt">
-        <akteur ref="cotes-h" />
+        <akteur ref="almon-j" />
         <preferred>La vie du Lord William Pitt</preferred>
         <zitation><title>Mémoires pour servir à l’histoire de la vie du Lord William Pitt, comte de Chatham</title>; ou Examen de la conduite d’un ci-devant Député de à la Chambre des Communes (Amsterdam: Chatelain <year>1766</year>).</zitation>
         <url address="https://books.google.de/books?id=77G3AsqIOLcC" >Google Books</url>
@@ -4548,7 +4549,7 @@
     </werk>
 
     <werk id="weisse-lieder-kinder">
-        <akteur ref="weisse" />
+        <akteur ref="weisse-cf" />
         <zitation><title>Lieder für Kinder</title> (Leipzig: Weidmann, Reich <year>1767</year>).</zitation>
         <url address="http://www.nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:de:kobv:b4-20643-5" >Deutsches Textarchiv</url>
     </werk>
@@ -4627,7 +4628,7 @@
     </werk>
 
     <werk id="zachariae-aelvrias">
-        <akteur ref="zachariae-jfw" />
+        <akteur ref="zachariae-fw" />
         <zitation><title>Aelvrias</title>, Epos Iocosvm. In Latinvm vertit Bened. Christ. Avenarivs (Braunschweig:
             Waisenhaus <year>1771</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3379093777">SLUB Dresden</url>
@@ -4950,7 +4951,6 @@
 
     <werk id="watson-hawkesworth-chemistry">
         <akteur ref="watson-r" />
-        <akteur ref="hawkesworth-j" />
         <zitation>Rezension und Zusammenfassung des Werks von Watson durch Hawkesworth unter dem
             Titel <title>An Essay on the Subjects of Chemistry, and their general Division</title>. By R. Watson, A. M. F. R. S. Fellow of Trinity College, and Professor of Chemistry in the University
             of Cambridge. In: The Gentleman’s Magazine 41 (<year>1771</year>, September, Oktober).</zitation>
