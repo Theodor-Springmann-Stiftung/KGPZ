@@ -432,7 +432,7 @@
     </werk>
 
     <werk id="zachariae-beste-deutsche-dichter">
-        <akteur ref="zachariae-fw" />
+        <akteur ref="zachariae-jfw" />
         <zitation><title>Auserlesene Stücke der besten deutschen Dichter</title> von Martin Opitz bis auf unsere
             Zeit, mit historischen Nachrichten und kritischen Anmerkungen versehen von Friedrich
             Wilhelm Zachariä. Bd. 1 (Braunschweig: Fürstl. Waisenhaus-Buchhandlung <year>1766</year>).</zitation>
@@ -858,7 +858,7 @@
     </werk>
 
     <werk id="adelung-versuch-woerterbuch">
-        <akteur ref="adelung" />
+        <akteur ref="adelung-jc" />
         <zitation><title>Versuch eines vollständigen grammatisch-kritischen Wörterbuchs der hochdeutschen Mundart</title>, mit beständiger Vergleichung der übrigen Mundarten, besonders aber der oberdeutschen. Erster Theil, von A–E. Dem noch beygefügt ist des Herrn M. Fulda Preisschrift über die beyden deutschen Haupt-Dialecte (Leipzig: Breitkopf <year>1774</year>).</zitation>
         <url address="https://books.google.de/books?id=kcwEGEtnIV4C" >Google Books</url>
     </werk>
@@ -915,7 +915,7 @@
     </werk>
 
     <werk id="sulzer-voruebungen">
-        <akteur ref="sulzer" />
+        <akteur ref="sulzer-jg" />
         <zitation><title>Vorübungen zur Erweckung der Aufmerksamkeit und des Nachdenkens</title>. Zum Gebrauch einiger Classen des Königl. Joachimsthalischen Gymnasium (Berlin: Nicolai <year>1768</year>).</zitation>
         <url address="https://dl.ub.uni-freiburg.de/diglit/sulzer1768" >UB Freiburg</url>
     </werk>
@@ -944,8 +944,8 @@
     </werk>
 
     <werk id="gesner-zbior">
-        <akteur ref="gesner-js" />
-        <akteur ref="trotz-ma" kat="übersetzer" ></akteur>
+        <akteur ref="gessner-s" />
+        <akteur ref="troc-ma" kat="übersetzer" ></akteur>
         <zitation><title>Zbior Pism przednieyszych niemieckich Autorow</title> (Leipzig: Frommann <year>1768</year>).</zitation>
         <url address="https://fbc.pionier.net.pl/id/oai:bibliotekacyfrowa.pl:148721" >UB Wrocław</url>
     </werk>
@@ -2396,7 +2396,7 @@
     </werk>
 
     <werk id="goldhagen-griechische1-2">
-        <akteur ref="goldhagen-ja" />
+        <akteur ref="goldhagen-je" />
         <zitation><title>Griechische und römische Anthologie in deutschen Uebersetzungen</title>, mit Anmerkungen erläutert von Johann Eustachius Goldhagen, Bd. 1 und 2 (3 Bde., Brandenburg: Halle <year>1767–1768</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN601210891" >SUB Göttingen</url>
     </werk>
@@ -4628,7 +4628,7 @@
     </werk>
 
     <werk id="zachariae-aelvrias">
-        <akteur ref="zachariae-fw" />
+        <akteur ref="zachariae-jfw" />
         <zitation><title>Aelvrias</title>, Epos Iocosvm. In Latinvm vertit Bened. Christ. Avenarivs (Braunschweig:
             Waisenhaus <year>1771</year>).</zitation>
         <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3379093777">SLUB Dresden</url>
@@ -5079,7 +5079,7 @@
     </werk>
 
     <werk id="miller-anleitung">
-        <akteur ref="miller-jp" />
+        <akteur ref="miller-jp1725" />
         <zitation>D. Johann Peter Millers <title>Anleitung zum heilsamen Gebrauche des heiligen Abendmahls</title>
             (Leipzig: Weygand <year>1771</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10628992-4">BSB München</url>
@@ -5236,14 +5236,14 @@
     </werk>
 
     <werk id="michaelis-raisonnement2">
-        <akteur ref="michaelis" />
+        <akteur ref="michaelis-jd" />
         <zitation><title>Raisonnement über die protestantischen Universitäten in Deutschland</title> (2 Bde.,
             <year>1769–1770</year>), Bd. 2.</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10734508-6">BSB München</url>
     </werk>
 
     <werk id="cramer-unterhaltungen-missethaeter">
-        <akteur ref="cramer-r" />
+        <akteur ref="cramer-jr" />
         <zitation><title>Unterhaltungen für gefangene Missethäter</title> (Zürich: <year>1770</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268777-8">2. Aufl. 1772 (BSB München)</url>
     </werk>
@@ -5462,7 +5462,7 @@
     </werk>
 
     <werk id="hausen-pragmatische-geschichte">
-        <akteur ref="hausen-cf" />
+        <akteur ref="hausen-cr" />
         <zitation><title>Pragmatische Geschichte der Protestanten in Deutschland</title>. Erster Theil mit Beylagen und Urkunden (Halle: Curt <year>1767</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10449337-0" >BSB München</url>
     </werk>
@@ -5664,7 +5664,7 @@
     </werk>
 
     <werk id="michaelis-versuch-siebenzig">
-        <akteur ref="michaelis" />
+        <akteur ref="michaelis-jd" />
         <zitation>Johann David Michaelis <title>Versuch über die siebenzig Wochen Daniels</title>. Ein Auszug
             dessen, was er in seinem critischen Collegio über das neunte Capitel Daniels neues
             bemerket hat (Göttingen, Gotha: Dieterich <year>1771</year>).</zitation>
@@ -5949,10 +5949,10 @@
     </werk>
 
     <werk id="boysen-briefe-gleim">
-        <akteur ref="boysen-fa" />
+        <akteur ref="boysen-fe" />
         <preferred>Briefe an Herrn Gleim</preferred>
         <zitation><title>Briefe vom Herrn Boysen an Herrn Gleim</title> (Frankfurt, Leipzig <year>1772</year>).</zitation>
-        <url address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id32307460X0">SLUB Dresden</url>
+        <url address="http://digital.slub-dresden.de/id32307460X">SLUB Dresden</url>
     </werk>
 
     <werk id="seiler-kurze-geschichte">
@@ -6015,7 +6015,7 @@
     </werk>
 
     <werk id="rabener-briefe">
-        <akteur ref="rabener-wr" />
+        <akteur ref="rabener-gw" />
         <akteur ref="weisse-cf" kat="herausgeber"></akteur>
         <zitation><title>Gottlieb Wilhelm Rabeners Briefe</title>, von ihm selbst gesammlet und nach seinem Tode,
             nebst einer Nachricht von seinem Leben und Schriften, herausgegeben (Leipzig: Dyck
@@ -6138,7 +6138,7 @@
     </werk>
 
     <werk id="voltaire-frau-recht">
-        <akteur ref="volatire"></akteur>
+        <akteur ref="voltaire"></akteur>
         <zitation><title>Die Frau welche Recht hat</title>. Ein Lustspiel in drey Aufzügen aus dem Französischen
             des Herrn von Voltaire (Berlin: Pauli <year>1764</year>).</zitation>
         <url address="http://resolver.sub.uni-goettingen.de/purl?PPN857555510">SUB Göttingen</url>
@@ -6465,7 +6465,7 @@
     </werk>
 
     <werk id="ringeltaube-zaertlichkeit">
-        <akteur ref="ringeltaube-j" />
+        <akteur ref="ringeltaube-m" />
         <zitation><title>Von der Zärtlichkeit</title> (Breslau, Leipzig: Korn <year>1765</year>).</zitation>
         <url address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10041675-8">BSB München</url>
     </werk>
@@ -6503,7 +6503,7 @@
     </werk>
 
     <werk id="gesner-orphei-argonautica">
-        <akteur ref="gesner-js" />
+        <akteur ref="gesner-jm" />
         <akteur ref="hamberger-gc"></akteur>
         <zitation>Ορφεως απαντα <title>Orphei Argonautica Hymni Libellus de Lapidibus et Fragmenta</title> […]
             (Leipzig: Fritsch <year>1764</year>).</zitation>
@@ -6656,7 +6656,7 @@
     </werk>
 
     <werk id="beaumelle-seneca">
-        <akteur ref="beaumelle-a" kat="übersetzer"/>
+        <akteur ref="beaumelle-la" kat="übersetzer"/>
         <zitation>L. Annaei Senecae Eclogae. <title>Pensées de Seneque</title>, recueillies Par. M. Angliviel de la
             Beaumelle. Et traduites en François, pour servir à l’Education de la jeunesse (Berlin:
             Realschule <year>1765</year>).</zitation>
@@ -7002,7 +7002,7 @@
 
     <werk id="lucke-olint">
         <akteur ref="lucke-gs" />
-        <akteur ref="zachariae-fw" kat="herausgeber"/>
+        <akteur ref="zachariae-jfw" kat="herausgeber"/>
         <zitation><title>Olint und Sophronia</title>. Ein Gedicht in drey Gesängen; nebst einem Anhange einiger andern Gedichte; von Gottlob Sebastian von Lucke. Zum Druck befördert von Friedrich Wilhelm Zachariä (Braunschweig: Waisenhaus <year>1767</year>).</zitation>
         <url address="http://resolver.staatsbibliothek-berlin.de/SBB0000B24A00000000" ></url>
     </werk>
@@ -7126,12 +7126,12 @@
     </werk>
 
     <werk id="holberg-politische-kannegiesser">
-        <akteur ref="holberg" />
+        <akteur ref="holberg-l" />
         <zitation><title>Der politische Kannengießer</title> (erstmals 1722). Von der Schuchschen Truppe im Oktober/November <year>1767</year> aufgeführt.</zitation>
     </werk>
 
     <werk id="holberg-bramarbas">
-        <akteur ref="holberg" />
+        <akteur ref="holberg-l" />
         <zitation><title>Der Bramarbas</title> (erstmals 1741). Von der Schuchschen Truppe im November <year>1767</year> aufgeführt.</zitation>
     </werk>
 
@@ -7243,7 +7243,7 @@
     </werk>
 
     <werk id="lessing-miss-sara">
-        <akteur ref="lessing" />
+        <akteur ref="lessing-ge" />
         <zitation><title>Miss Sara Sampson</title> (erstmals 1755). Von der Schuchschen Truppe im November <year>1767</year> aufgeführt.</zitation>
     </werk>
 
@@ -7260,7 +7260,7 @@
     </werk>
 
     <werk id="chamfort-junge-indianerin">
-        <akteur ref="chamfort-n" />
+        <akteur ref="chamfort-srn" />
         <zitation><title>Die junge Indianerin</title>. Ein Lustspiel in einem Aufzuge (erstmals 1764). Von der Schuchschen Truppe im November <year>1767</year> aufgeführt.</zitation>
         <url address="https://books.google.nl/books?id=oT9aAAAAcAAJ" >Ausgabe Amsterdam 1764 (Google Books)</url>
     </werk>
@@ -7349,7 +7349,7 @@
     </werk>
 
     <werk id="lessing-freigeist">
-        <akteur ref="lessing" />
+        <akteur ref="lessing-ge" />
         <zitation><title>Der Freigeist</title> (erstmals 1749). Von der Schuchschen Truppe im Dezember <year>1767</year> aufgeführt.</zitation>
     </werk>
 
