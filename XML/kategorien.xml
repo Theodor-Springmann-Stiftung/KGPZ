@@ -13,31 +13,31 @@
         <anmerkung>Anmerkung</anmerkung>
     </kategorie>
     -->
-	<kategorie id="ineigenersache">
+	<kategorie id="ineigenersache" sort="13">
 		<name>In eigener Sache</name>
 		<vermerk>Programmatische Vorwörter, Neuausrichtungen etc.</vermerk>
 	</kategorie>
 
 
-	<kategorie id="weltnachrichten">
+	<kategorie id="weltnachrichten" sort="16">
 		<name>Politische Nachrichten aus aller Welt</name>
 	</kategorie>
 
 
-	<kategorie id="wechselkurse">
-		<name>Weckselkurse</name>
+	<kategorie id="wechselkurse" sort="26">
+		<name>Wechselkurse</name>
 		<anmerkung>Wechsel-Cours und Species – zumeist als „Avertissement“ auf der vierten Seite
 			eines Stücks</anmerkung>
 	</kategorie>
 
 
-	<kategorie id="buecher">
+	<kategorie id="buecher" sort="14">
 		<name>Bücherangebot des Kanterschen Buchladens</name>
 		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
 	</kategorie>
 
 
-	<kategorie id="lotterie">
+	<kategorie id="lotterie" sort="25">
 		<name>Nachrichten zur Lotterie</name>
 		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
 	</kategorie>
@@ -49,113 +49,108 @@
 	</kategorie>
 
 
-	<kategorie id="kommentar">
+	<kategorie id="kommentar" sort="4">
 		<name>Kommentar</name>
 	</kategorie>
 
 
-	<kategorie id="auszug">
+	<kategorie id="auszug" sort="2">
 		<name>Auszug</name>
 	</kategorie>
 
 
-	<kategorie id="aufsatz">
+	<kategorie id="aufsatz" sort="3">
 		<name>Aufsatz</name>
 	</kategorie>
 
 
-	<kategorie id="gedicht">
+	<kategorie id="gedicht" sort="15">
 		<name>Gedichte und literarische Kurztexte</name>
 	</kategorie>
 
 
-	<kategorie id="anzeige">
+	<kategorie id="anzeige" sort="18">
 		<name>Gelehrte Anzeige</name>
 	</kategorie>
 
 
-	<kategorie id="nachruf">
+	<kategorie id="nachruf" sort="20">
 		<name>Nachruf</name>
 	</kategorie>
 
 
-	<kategorie id="provinienz">
-		<name>Provinienz</name>
-	</kategorie>
-
-
-	<kategorie id="gelehrte-nachrichten">
+	<kategorie id="gelehrte-nachrichten" sort="17">
 		<name>Gelehrte Nachrichten</name>
 	</kategorie>
 
 
-	<kategorie id="uebersetzung">
+	<kategorie id="uebersetzung" sort="5">
 		<name>Übersetzung</name>
 	</kategorie>
 
 
-	<kategorie id="lokalanzeigen">
+	<kategorie id="lokalanzeigen" sort="19">
 		<name>Lokalanzeige</name>
 		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
 	</kategorie>
 
 
-	<kategorie id="desertionsliste">
+	<kategorie id="desertionsliste" sort="23">
 		<name>Liste von Deserteuren</name>
 		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks.</anmerkung>
 	</kategorie>
 
 
-	<kategorie id="einkommende-fremde">
+	<kategorie id="einkommende-fremde" sort="22">
 		<name>Einreiseliste</name>
 		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
 	</kategorie>
 
 
-	<kategorie id="erzaehlung">
+	<kategorie id="erzaehlung" sort="6">
 		<name>Erzählung</name>
 	</kategorie>
 
 
-	<kategorie id="proklamation">
+	<kategorie id="proklamation" sort="7">
 		<name>Proklamation</name>
 	</kategorie>
 
 
-	<kategorie id="brief">
+	<kategorie id="brief" sort="8">
 		<name>Öffentlicher Brief</name>
 	</kategorie>
 
 
-	<kategorie id="lokalnachrichten">
+	<kategorie id="lokalnachrichten" sort="21">
 		<name>Lokalnachricht</name>
 		<anmerkung>Im politischen Teil der Zeitung unter „Königsberg“, zumeist auf der letzten Seite.</anmerkung>
 	</kategorie>
 
 
-	<kategorie id="vorladung">
+	<kategorie id="vorladung" sort="24">
 		<name>Gerichtliche Vorladung oder Erbschaftsangelegenheit</name>
 		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks; auch Kriminalanzeigen zu Diebstählen, Hinrichtungen etc.; mitunter unter der Rubrik
 			„Warnungsanzeige“</anmerkung>
 	</kategorie>
 
 
-	<kategorie id="notenblatt">
+	<kategorie id="notenblatt" sort="11">
 		<name>Notenblatt mit Liedtext oder Tanzchoreographie</name>
 	</kategorie>
 
 
-	<kategorie id="abbildung">
+	<kategorie id="abbildung" sort="12">
 		<name>Mit Abbildung</name>
 	</kategorie>
 
 
-	<kategorie id="vorlesungsverzeichnis">
+	<kategorie id="vorlesungsverzeichnis" sort="10">
 		<name>Vorlesungsverzeichnisse der Albertina</name>
 	</kategorie>
 
 
-	<kategorie id="theaterkritik">
+	<kategorie id="theaterkritik" sort="9">
 		<name>Theaterkritik</name>
 		<anmerkung>Kritik oder Erwähnung des Programms der Schuchischen Gesellschaft oder der
 			Döbbelinischen Schauspielgesellschaft</anmerkung>
