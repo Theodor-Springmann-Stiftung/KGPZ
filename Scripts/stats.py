@@ -28,7 +28,7 @@ def parse_beitraege(file_paths):
                     if 'ref' in kategorie.attrib:
                         stats[kategorie.attrib['ref']] += 1
                         usage[kategorie.attrib['ref']].add("kategorie")
-                        if kategorie.attrib['ref'] != "provinienz":
+                        if kategorie.attrib['ref'] != "provenienz":
                             categories.add(kategorie.attrib['ref'])
 
                 # Process <werk> elements within each <beitrag>
@@ -36,7 +36,7 @@ def parse_beitraege(file_paths):
                     if 'kat' in werk.attrib:
                         stats[werk.attrib['kat']] += 1
                         usage[werk.attrib['kat']].add("werk")
-                        if werk.attrib['kat'] != "provinienz":
+                        if werk.attrib['kat'] != "provenienz":
                             categories.add(werk.attrib['kat'])
                     else:
                         missing_kat_counts["werk"] += 1
@@ -46,7 +46,7 @@ def parse_beitraege(file_paths):
                     if 'kat' in akteur.attrib:
                         stats[akteur.attrib['kat']] += 1
                         usage[akteur.attrib['kat']].add("akteur")
-                        if akteur.attrib['kat'] != "provinienz":
+                        if akteur.attrib['kat'] != "provenienz":
                             categories.add(akteur.attrib['kat'])
                     else:
                         missing_kat_counts["akteur"] += 1
@@ -56,7 +56,7 @@ def parse_beitraege(file_paths):
                     if 'kat' in ort.attrib:
                         stats[ort.attrib['kat']] += 1
                         usage[ort.attrib['kat']].add("ort")
-                        if ort.attrib['kat'] != "provinienz":
+                        if ort.attrib['kat'] != "provenienz":
                             categories.add(ort.attrib['kat'])
                     else:
                         missing_kat_counts["ort"] += 1
@@ -66,7 +66,7 @@ def parse_beitraege(file_paths):
                     if 'kat' in beitr.attrib:
                         stats[beitr.attrib['kat']] += 1
                         usage[beitr.attrib['kat']].add("beitr")
-                        if beitr.attrib['kat'] != "provinienz":
+                        if beitr.attrib['kat'] != "provenienz":
                             categories.add(beitr.attrib['kat'])
                     else:
                         missing_kat_counts["beitr"] += 1

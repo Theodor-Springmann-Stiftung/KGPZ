@@ -2,42 +2,36 @@
 <beitraege xmlns="https://www.koenigsberger-zeitungen.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
 
     <!-- Jahrgang 1769 -->
-    <beitrag id="1769-5-beil-kant-moralische-betrachtungen">
-        <stueck beilage="1" when="1769" nr="5"/>
-        <titel>Moralische Betrachtungen, der Mensch nach der Natur. Ein philosophisches Ideal von J. J. Roußeau</titel>
-        <werk ref="hoffmann1889" kat="provinienz" s="S. 244"/> 
-        <akteur ref="kant" unsicher="true"/>
-        <anmerkung>Die Beilage vom 16.1.1769 wird in einem Brief Herders an Hamann erwähnt (März 1769, vgl. ZH II, 439) und ist nicht überliefert. Hoffmann kommentiert: „Herr Dr. Reicke hat durch diese Briefstelle seine Vermutung, daß dies ein Kantscher Aufsatz sei, bestätigt gefunden.“</anmerkung>
-    </beitrag>
+    
     <beitrag id="1769-9-hamann-rezension-sanseverino-italienische-biographie">
-        <stueck when="1769" nr="9"/>
-        <werk ref="unger" kat="provinienz" s="Bd. 2, S. 880–883"/>
+        <stueck when="1769" nr="9" von="880" bis="883"/>
+        <werk ref="unger" kat="provenienz" s="Bd. 2, S. 880–883"/>
         <werk ref="sanseverino-italienische-biographie" kat="rezension"/>
         <akteur ref="hamann"/>
     </beitrag>
     <beitrag id="1769-11-hamann-rezension-herder-kritischewaelder">
-        <stueck when="1769" nr="11"/>
-        <werk ref="roth" kat="provinienz" s="Bd. 3, S. 429–432"/>
+        <stueck when="1769" nr="11" von="429" bis="432"/>
+        <werk ref="roth" kat="provenienz" s="Bd. 3, S. 429–432"/>
         <werk ref="herder-kritischewaelder" kat="rezension"/>
         <akteur ref="hamann"/>
     </beitrag>
     <beitrag id="1769-16-hamann-rezension-guden-polizey">
-        <stueck when="1769" nr="16"/>
-        <werk ref="roth" kat="provinienz" s="Bd. 3, S. 432f."/>
+        <stueck when="1769" nr="16" von="432" bis="433"/>
+        <werk ref="roth" kat="provenienz" s="Bd. 3, S. 432f."/>
         <werk ref="guden-polizey" kat="rezension"/>
         <akteur ref="hamann"/>
     </beitrag>
     <beitrag id="1769-34-hamann-rezension-recueil-dopuscules">
-        <stueck when="1769" nr="34"/>
-        <werk ref="roth" kat="provinienz" s="Bd. 3, S. 434–436"/>
+        <stueck when="1769" nr="34" von="434" bis="436"/>
+        <werk ref="roth" kat="provenienz" s="Bd. 3, S. 434–436"/>
         <werk ref="recueil-dopuscules" kat="rezension"/>
         <akteur ref="hamann"/>
     </beitrag>
     <beitrag id="1769-hamann-brief-des-abts-von-olivet-an-den-praesidenten-bouhier-ueber-das-leben-des-abts-genest">
-        <stueck when="1769" nr="35"/>
-        <stueck when="1769" nr="36"/>
+        <stueck beilage="1" when="1769" nr="34" von="883" bis="887"/>
+        <stueck beilage="1" when="1769" nr="36" von="887" bis="890"/>
         <titel>Brief des Abts von Olivet an den Präsidenten Bouhier über das Leben des Abts Genest.</titel>
-        <werk ref="unger" kat="provinienz" s="Bd. 3, S. 883–890"/>
+        <werk ref="unger" kat="provenienz" s="Bd. 3, S. 883–890"/>
         <werk ref="recueil-dopuscules" kat="uebersetzung" s="S. 115–140"/>
         <akteur ref="hamann"/>
     </beitrag>

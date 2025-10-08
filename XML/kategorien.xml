@@ -13,44 +13,10 @@
         <anmerkung>Anmerkung</anmerkung>
     </kategorie>
     -->
-	<kategorie id="ineigenersache" sort="13">
-		<name>In eigener Sache</name>
-		<vermerk>Programmatische Vorwörter, Neuausrichtungen etc.</vermerk>
-	</kategorie>
-
-
-	<kategorie id="weltnachrichten" sort="16">
-		<name>Politische Nachrichten aus aller Welt</name>
-	</kategorie>
-
-
-	<kategorie id="wechselkurse" sort="26">
-		<name>Wechselkurse</name>
-		<anmerkung>Wechsel-Cours und Species – zumeist als „Avertissement“ auf der vierten Seite
-			eines Stücks</anmerkung>
-	</kategorie>
-
-
-	<kategorie id="buecher" sort="14">
-		<name>Bücherangebot des Kanterschen Buchladens</name>
-		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
-	</kategorie>
-
-
-	<kategorie id="lotterie" sort="25">
-		<name>Nachrichten zur Lotterie</name>
-		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
-	</kategorie>
-
 
 	<kategorie id="rezension" sort="1">
 		<name>Rezension</name>
 		<anmerkung>Enthält häufig auch Auszüge</anmerkung>
-	</kategorie>
-
-
-	<kategorie id="kommentar" sort="4">
-		<name>Kommentar</name>
 	</kategorie>
 
 
@@ -59,51 +25,20 @@
 	</kategorie>
 
 
-	<kategorie id="aufsatz" sort="3">
+	<kategorie id="theaterkritik" sort="3">
+		<name>Theaterkritik</name>
+		<anmerkung>Kritik oder Erwähnung des Programms der Schuchischen Gesellschaft oder der
+			Döbbelinischen Schauspielgesellschaft</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="aufsatz" sort="4">
 		<name>Aufsatz</name>
 	</kategorie>
 
 
-	<kategorie id="gedicht" sort="15">
+	<kategorie id="gedicht" sort="5">
 		<name>Gedichte und literarische Kurztexte</name>
-	</kategorie>
-
-
-	<kategorie id="anzeige" sort="18">
-		<name>Gelehrte Anzeige</name>
-	</kategorie>
-
-
-	<kategorie id="nachruf" sort="20">
-		<name>Nachruf</name>
-	</kategorie>
-
-
-	<kategorie id="gelehrte-nachrichten" sort="17">
-		<name>Gelehrte Nachrichten</name>
-	</kategorie>
-
-
-	<kategorie id="uebersetzung" sort="5">
-		<name>Übersetzung</name>
-	</kategorie>
-
-
-	<kategorie id="lokalanzeigen" sort="19">
-		<name>Lokalanzeige</name>
-		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
-	</kategorie>
-
-
-	<kategorie id="desertionsliste" sort="23">
-		<name>Liste von Deserteuren</name>
-		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks.</anmerkung>
-	</kategorie>
-
-
-	<kategorie id="einkommende-fremde" sort="22">
-		<name>Einreiseliste</name>
-		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
 	</kategorie>
 
 
@@ -112,8 +47,8 @@
 	</kategorie>
 
 
-	<kategorie id="proklamation" sort="7">
-		<name>Proklamation</name>
+	<kategorie id="uebersetzung" sort="7">
+		<name>Übersetzung</name>
 	</kategorie>
 
 
@@ -122,16 +57,13 @@
 	</kategorie>
 
 
-	<kategorie id="lokalnachrichten" sort="21">
-		<name>Lokalnachricht</name>
-		<anmerkung>Im politischen Teil der Zeitung unter „Königsberg“, zumeist auf der letzten Seite.</anmerkung>
+	<kategorie id="proklamation" sort="9">
+		<name>Proklamation</name>
 	</kategorie>
 
 
-	<kategorie id="vorladung" sort="24">
-		<name>Gerichtliche Vorladung oder Erbschaftsangelegenheit</name>
-		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks; auch Kriminalanzeigen zu Diebstählen, Hinrichtungen etc.; mitunter unter der Rubrik
-			„Warnungsanzeige“</anmerkung>
+	<kategorie id="vorlesungsverzeichnis" sort="10">
+		<name>Vorlesungsverzeichnisse der Albertina</name>
 	</kategorie>
 
 
@@ -144,16 +76,84 @@
 		<name>Mit Abbildung</name>
 	</kategorie>
 
-
-	<kategorie id="vorlesungsverzeichnis" sort="10">
-		<name>Vorlesungsverzeichnisse der Albertina</name>
+	<kategorie id="ineigenersache" sort="13">
+		<name>In eigener Sache</name>
+		<vermerk>Programmatische Ankündigungen vom Herausgeber Kanter</vermerk>
 	</kategorie>
 
 
-	<kategorie id="theaterkritik" sort="9">
-		<name>Theaterkritik</name>
-		<anmerkung>Kritik oder Erwähnung des Programms der Schuchischen Gesellschaft oder der
-			Döbbelinischen Schauspielgesellschaft</anmerkung>
+	<kategorie id="buecher" sort="14">
+		<name>Bücherangebot des Kanterschen Buchladens</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="kommentar" sort="15">
+		<name>Kommentar</name>
+	</kategorie>
+
+
+	<kategorie id="weltnachrichten" sort="16">
+		<name>Politische Nachrichten aus aller Welt</name>
+	</kategorie>
+
+
+	<kategorie id="gelehrte-nachrichten" sort="17">
+		<name>Gelehrte Nachrichten</name>
+	</kategorie>
+
+
+	<kategorie id="anzeige" sort="18">
+		<name>Gelehrte Anzeigen</name>
+	</kategorie>
+
+
+	<kategorie id="nachruf" sort="19">
+		<name>Nachrufe</name>
+	</kategorie>
+
+
+	<kategorie id="lokalanzeigen" sort="20">
+		<name>Lokalanzeigen</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="lokalnachrichten" sort="21">
+		<name>Lokalnachrichten</name>
+		<anmerkung>Im politischen Teil der Zeitung unter „Königsberg“, zumeist auf der letzten Seite.</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="einkommende-fremde" sort="22">
+		<name>Einreiseliste</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="desertionsliste" sort="23">
+		<name>Liste von Deserteuren</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks.</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="vorladung" sort="24">
+		<name>Gerichtliche Vorladung oder Erbschaftsangelegenheit</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks; auch Kriminalanzeigen zu Diebstählen, Hinrichtungen etc.; mitunter unter der Rubrik
+			„Warnungsanzeige“</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="wechselkurse" sort="25">
+		<name>Wechselkurse</name>
+		<anmerkung>Wechsel-Cours und Species – zumeist als „Avertissement“ auf der vierten Seite
+			eines Stücks</anmerkung>
+	</kategorie>
+
+
+	<kategorie id="lotterie" sort="26">
+		<name>Nachrichten zur Lotterie</name>
+		<anmerkung>In der Regel als „Avertissement“ auf der vierten Seite eines Stücks</anmerkung>
 	</kategorie>
 
 </kategorien>

@@ -133,7 +133,7 @@ def generate_id_for_beitrag(beitrag, existing_ids):
 
     # 4. Try werk if no title/incipit/kategorie (ignore provinienz)
     if not additional_part:
-        werk = beitrag.xpath('./*[local-name()="werk"][@ref and @kat != "provinienz"]')
+        werk = beitrag.xpath('./*[local-name()="werk"][@ref and @kat != "provenienz"]')
         if not werk:
             # If no werk with kat != provinienz, try werk without kat
             werk = beitrag.xpath('./*[local-name()="werk"][@ref and not(@kat)]')
