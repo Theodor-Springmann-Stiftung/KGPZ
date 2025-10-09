@@ -4,7 +4,7 @@
     <!-- Jahrgang 1782 -->
     
     <beitrag id="1782-10-kant-nachricht">
-        <stueck when="1782" nr="10"/>
+        <stueck when="1782" nr="10" von="1"/>
         <titel>Nachricht.</titel>
         <werk ref="hartungsche-zeitung" kat="provenienz" s="Beilage der Abendausgabe, Nr. 310, 6.7.1909, von Arthur Warda"/>
         <akteur ref="kant">vgl. AA VIII, 463</akteur>
@@ -12,7 +12,7 @@
     </beitrag>
 
     <beitrag id="1782-31-kant-nachricht-an-aerzte">
-        <stueck when="1782" nr="31"/>
+        <stueck when="1782" nr="31" von="1" bis="5"/>
         <titel>Nachricht an Aerzte.</titel>
         <werk ref="neue-preussische-provinzial-blaetter1860" kat="provenienz" s="S. 186–910"/>
         <akteur ref="kant">vgl. AA VIII, 464f.</akteur>

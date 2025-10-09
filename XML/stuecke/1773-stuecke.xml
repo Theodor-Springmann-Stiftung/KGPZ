@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<stuecke xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+    <stueck>
+        <nummer>14</nummer>
+        <datum when="1773-02-15" />
+        <von>1</von>
+    </stueck>
+    <stueck>
+        <nummer>21</nummer>
+        <datum when="1773-03-12" />
+        <von>1</von>
+    </stueck>
+    <stueck>
+        <nummer>22</nummer>
+        <datum when="1773-03-15" />
+        <von>1</von>
+        <bis>2</bis>
+    </stueck>
+</stuecke>

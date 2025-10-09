@@ -20,28 +20,28 @@
         <akteur ref="hamann"/>
     </beitrag>
     <beitrag id="1776-19-hamann-rezension-bertuch-donquixote">
-        <stueck when="1776" nr="19" von="73" bis="74"/>
+        <stueck when="1776" nr="19" von="1" bis="2"/>
         <werk ref="yale-muenster" kat="provenienz"/>
         <werk ref="bertuch-donquixote" kat="rezension"/>
         <akteur ref="hamann"/>
     </beitrag>
     <beitrag id="1776-19-weltnachrichten">
-        <stueck when="1776" nr="19" von="74" bis="76"/>
+        <stueck when="1776" nr="19" von="2" bis="4"/>
         <kategorie ref="weltnachrichten"/>
         <werk ref="yale-muenster" kat="provenienz"/>
     </beitrag>
     <beitrag id="1776-19-buecher">
-        <stueck when="1776" nr="19" von="76" order="1"/>
+        <stueck when="1776" nr="19" von="4" order="1"/>
         <kategorie ref="buecher"/>
         <werk ref="yale-muenster" kat="provenienz"/>
     </beitrag>
     <beitrag id="1776-19-lokalanzeigen">
-        <stueck when="1776" nr="19" von="76" order="2"/>
+        <stueck when="1776" nr="19" von="4" order="2"/>
         <kategorie ref="lokalanzeigen"/>
         <werk ref="yale-muenster" kat="provenienz"/>
     </beitrag>
     <beitrag id="1776-19-wechselkurse">
-        <stueck when="1776" nr="19" von="76" order="3"/>
+        <stueck when="1776" nr="19" von="4" order="3"/>
         <kategorie ref="wechselkurse"/>
         <werk ref="yale-muenster" kat="provenienz"/>
     </beitrag>
@@ -54,21 +54,21 @@
         <akteur ref="hamann"/>
     </beitrag>
     <beitrag id="kant-philanthropin1">
-        <stueck when="1776" nr="26"/>
-        <werk ref="kantiana1860" kat="provenienz" s="70–72"/>
+        <stueck when="1776" nr="26" von="1" bis="3"/>
+        <werk ref="kantiana1860" kat="provenienz" s="S. 70–72"/>
         <beitrag ref="kant-philanthropin2" kat="replik"/>
         <beitrag ref="kant-philanthropin3" kat="replik"/>
         <akteur ref="kant">vgl. AA II, 522–525</akteur>
         <anmerkung>St. 26, Donnerstag, den 23. März 1776, S. 101f.</anmerkung>
     </beitrag>
     <beitrag id="1776-27-lauson-lindner-jg-nachruf">
-        <stueck when="1776" nr="27"/>
+        <stueck when="1776" nr="27" von="1"/>
         <werk ref="unger" kat="provenienz" s="Bd. 2, S. 921"/>
         <akteur ref="lindner-jg" kat="nachruf"/>
         <akteur ref="lauson">ZH III, 226</akteur>
     </beitrag>
     <beitrag id="1776-45-hamann-rezension-hamann-zweifel">
-        <stueck when="1776" nr="45"/>
+        <stueck when="1776" nr="45" von="1" bis="2"/>
         <werk ref="roth" kat="provenienz" s="Bd. 4, S. 471f."/>
         <werk ref="hamann-zweifel" kat="rezension"/>
         <akteur ref="hamann"/>

@@ -3,21 +3,21 @@
 
     <!-- Jahrgang 1773 -->
     <beitrag id="1773-14-hamann-anzeige-hamann-selbstgesprach-eines-autors">
-        <stueck when="1773" nr="14"/>
+        <stueck when="1773" nr="14" von="1"/>
         <werk ref="roth" kat="provenienz" s="Bd. 5, S. 32"/>
         <werk ref="hamann-selbstgesprach-eines-autors" kat="anzeige"/>
         <akteur ref="hamann"/>
-        <anmerkung>Überliefert durch einen Brief Hamanns an Herder, 20.3.1773, ZH III, 39</anmerkung>
+        <anmerkung>Überliefert als Abschrift in einen Brief Hamanns an Herder, 20.3.1773, ZH III, 39</anmerkung>
     </beitrag>
     <beitrag id="1773-21-hamann-anzeige-nicolai-magum">
-        <stueck when="1773" nr="21"/>
+        <stueck when="1773" nr="21" von="1"/>
         <werk ref="roth" kat="provenienz" s="Bd. 5, S. 32"/>
         <werk ref="nicolai-magum" kat="anzeige"/>
         <akteur ref="hamann"/>
-        <anmerkung>Überliefert durch einen Brief Hamanns an Herder, 20.3.1773, ZH III, 39</anmerkung>
+        <anmerkung>Überliefert als Abschrift in einem Brief Hamanns an Herder, 20.3.1773, ZH III, 39</anmerkung>
     </beitrag>
     <beitrag id="1773-22-hamann-gedicht">
-        <stueck when="1773" nr="22"/>
+        <stueck when="1773" nr="22" von="1" bis="2"/>
         <kategorie ref="gedicht"/>
         <werk ref="roth" kat="provenienz" s="Bd. 8/1, S. 200f."/>
         <akteur ref="hamann"/>

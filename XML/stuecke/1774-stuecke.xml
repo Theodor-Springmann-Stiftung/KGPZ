@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<stuecke xmlns="https://www.koenigsberger-zeitungen.de"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
+    <stueck>
+        <nummer>4</nummer>
+        <datum when="1774-01-15" />
+        <von>1</von>
+        <bis>2</bis>
+    </stueck>
+    <stueck>
+        <nummer>7</nummer>
+        <datum when="1774-01-24" />
+        <von>1</von>
+        <bis>6</bis>
+    </stueck>
+    <stueck>
+        <nummer>8</nummer>
+        <datum when="1774-01-27" />
+        <von>1</von>
+        <bis>6</bis>
+    </stueck>
+    <stueck>
+        <nummer>10</nummer>
+        <datum when="1774-02-03" />
+        <beilage nummer="1">
+        <von>1</von>
+        <bis>6</bis>
+    </beilage>
+    </stueck>
+    <stueck>
+        <nummer>12</nummer>
+        <datum when="1774-02-10" />
+        <beilage nummer="1" />
+    </stueck>
+    <stueck>
+        <nummer>14</nummer>
+        <datum when="1774-02-17" />
+        <beilage nummer="1" />
+    </stueck>
+    <stueck>
+        <nummer>16</nummer>
+        <datum when="1774-02-24" />
+        <beilage nummer="1">
+        <von>1</von>
+        <bis>12</bis></beilage>
+    </stueck>
+</stuecke>
