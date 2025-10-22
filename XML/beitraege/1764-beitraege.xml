@@ -164,12 +164,13 @@
     </beitrag>
 
     <beitrag id="1764-7-weltnachrichten">
-        <stueck when="1764" nr="7" von="27" bis="28"/>
+        <stueck when="1764" nr="7" von="27"/>
         <kategorie ref="weltnachrichten"/>
     </beitrag>
-    <beitrag id="1764-7-buecher">
-        <stueck when="1764" nr="7" von="28" order="1"/>
-        <kategorie ref="buecher"/>
+    <beitrag id="1764-7-proklamation">
+        <stueck when="1764" nr="7" von="27" bis="28"/>
+        <kategorie ref="proklamation"/>
+        <anmerkung>Proklamation Katharinas II. für Kurland</anmerkung>
     </beitrag>
     <beitrag id="1764-7-wechselkurse">
         <stueck when="1764" nr="7" von="28" order="2"/>
@@ -251,8 +252,12 @@
         <kategorie ref="weltnachrichten"/>
     </beitrag>
     <beitrag id="1764-11-buecher">
-        <stueck when="1764" nr="11" von="44"/>
+        <stueck when="1764" nr="11" von="44" order="1"/>
         <kategorie ref="buecher"/>
+    </beitrag>
+    <beitrag id="1764-11-wechselkurse">
+        <stueck when="1764" nr="11" von="44" order="2"/>
+        <kategorie ref="wechselkurse"/>
     </beitrag>
 
     <beitrag id="1764-12-hamann-gedicht">
@@ -1795,7 +1800,7 @@
     <beitrag id="1764-77-proklamation">
         <stueck when="1764" nr="77" von="308" order="1"/>
         <kategorie ref="proklamation"/>
-        <anmerkung>Verordnung des Königlich Preußischen Hof-Postamts über die berliner reitende Post</anmerkung>
+        <anmerkung>Verordnung des Königlich Preußischen Hof-Postamts über die Berliner reitende Post</anmerkung>
     </beitrag>
     <beitrag id="1764-77-wechselkurse">
         <stueck when="1764" nr="77" von="308" order="2"/>
@@ -1814,7 +1819,7 @@
     <beitrag id="1764-78-proklamation">
         <stueck when="1764" nr="78" von="312" order="1"/>
         <kategorie ref="proklamation"/>
-        <anmerkung>Verordnung des Königlich Preußischen Hof-Postamts über die berliner reitende Post</anmerkung>
+        <anmerkung>Verordnung des Königlich Preußischen Hof-Postamts über die Berliner reitende Post</anmerkung>
     </beitrag>
     <beitrag id="1764-78-buecher">
         <stueck when="1764" nr="78" von="312" order="2"/>
@@ -1844,7 +1849,7 @@
     <beitrag id="1764-79-proklamation">
         <stueck when="1764" nr="79" von="316" order="1"/>
         <kategorie ref="proklamation"/>
-        <anmerkung>Verordnung des Königlich Preußischen Hof-Postamts über die berliner reitende Post</anmerkung>
+        <anmerkung>Verordnung des Königlich Preußischen Hof-Postamts über die Berliner reitende Post</anmerkung>
     </beitrag>
     <beitrag id="1764-79-lotterie">
         <stueck when="1764" nr="79" von="316" order="2"/>
