@@ -1,0 +1,2 @@
+Am besten auf die Startseite (sonst bei zu dieser Edition): 
+Die KGPZ sind sehr schlecht überliefert (siehe Geschichte der KGPZ). Sollten Sie von Stücken oder Jahrgängen der Zeitung hören, die auf dieser Website nicht zu finden sind und sich in Privatbesitz oder in Archiven/Bibliotheken befinden, teilen Sie uns das bitte mit! Kontakt etc.

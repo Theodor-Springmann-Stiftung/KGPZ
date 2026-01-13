@@ -1,0 +1,4 @@
+- Baur, Wolfgang-Dieter: *Hamann als Publizist.* Die Beiträge zu den Königsberger Gelehrten und Politischen Zeitungen, in: Bernhard Gajek, Albert Meier (Hg): Johann Georg Hamann und die Krise der Aufklärung. Acta des fünften Internationalen Hamann-Kolloquiums in Münster i.W. 1988 (Frankfurt a. M. u.a. 1990), S. 255–274.
+- Baur, Wolfgang-Dieter: *Johann Georg Hamann als Publizist.* Zum Verhältnis von Verkündigung und Öffentlichkeit (Berlin u.a. 1991).
+- Hagelweide, Gert: *Ostpreußische Presse von den Anfängen bis 1945.* Titel, Bestände, Daten, Biographien, Literatur (Berlin/Boston 2016), S. 233f.
+- Taszus, Claudia: *Die Königsbergschen Gelehrten und Politischen Zeitungen in den Jahren 1764 bis 1768. Ein Repertorium.* Germanistik. Fascicule XII. Publications du Centre Universitaire de Luxembourg. Königsberger Zeugnisse der Spätaufklärung (Luxemburg 1998).

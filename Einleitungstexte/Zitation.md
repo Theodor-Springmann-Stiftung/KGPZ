@@ -1,0 +1,3 @@
+Kurz:
+
+Ausführlich:
