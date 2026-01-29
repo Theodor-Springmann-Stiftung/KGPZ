@@ -4,7 +4,7 @@
 
 # Gang der KGPZ bis zu Kanters Bankrott; Verkauf und neue Eigentümer in den 80ern
 
-# Johann Georg Hamann und die KGPZ
+# Redakteure und Beiträger für die KGPZ
 
 
 - Bei Hamanns zum größten Teil aus zerstreuten Publikationen bestehendem Werk sind die KGPZ wohl auch als Textzeugen am wichtigsten; gleichwohl hat es in den letzten Jahrzehnten immer wieder Initiativen von auf andere Autoren des 18. Jahrhunderts spezialisierten Richtungen gegeben:
