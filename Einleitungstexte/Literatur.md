@@ -1,6 +1,7 @@
 - Baur, Wolfgang-Dieter: *Hamann als Publizist.* Die Beiträge zu den Königsberger Gelehrten und Politischen Zeitungen, in: Bernhard Gajek, Albert Meier (Hg): Johann Georg Hamann und die Krise der Aufklärung. Acta des fünften Internationalen Hamann-Kolloquiums in Münster i.W. 1988 (Frankfurt a. M. u.a. 1990), S. 255–274.
 - Baur, Wolfgang-Dieter: *Johann Georg Hamann als Publizist.* Zum Verhältnis von Verkündigung und Öffentlichkeit (Berlin u.a. 1991).
 - Hagelweide, Gert: *Ostpreußische Presse von den Anfängen bis 1945.* Titel, Bestände, Daten, Biographien, Literatur (Berlin/Boston 2016), S. 233f.
+- Haym, Rudolf: _Wiedergefundene Blätter zu Herders Schriften._ In: Im neuen Reich 3,2 (1873), S. 513–524.
 - Haym, Rudolf: *Herder und die Königsberger Zeitung.* I–III. In: Im neuen Reich. Jg. 4, Bd 1 (Leipzig 1874), S. 409–419, 500–515 und 611–625.
 - Klopfer, Luca: *Berlocken – Ein Grenzfall von Autorschaft.* Johann Georg Hamann als Autor und Redakteur in den Königsbergschen Gelehrten und Politischen Zeitungen, in: „genaueste Localität, Individualität und Personalität“. Johann Georg Hamann in Königsberg. Acta des dreizehnten Internationalen Hamann-Kolloquiums in Lüneburg 2023 (Göttingen 2025).
 - Kohnen, Joseph: *Druckerei-, Verlags- und Zeitungswesen in Königsberg zur Zeit Kants und Hamanns.* Das Unternehmen Johann Jakob Kanters. In: ders. (Hg.), Königsberg. Beiträge zu einem besonderen Kapitel der deutschen Geistesgeschichte des 18. und angehenden 19. Jahrhunderts (Frankfurt a. M. u.a. 1994), S. 1–19.
