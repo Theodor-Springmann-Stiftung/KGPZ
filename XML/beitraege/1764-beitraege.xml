@@ -231,6 +231,7 @@
     <beitrag id="1764-10-rezension-home-critick">
         <stueck when="1764" nr="10" von="38" bis="39"/>
         <werk ref="home-critick" kat="rezension"/>
+        <akteur ref="herder" unsicher="true"><wwwlink address="https://digipress.digitale-sammlungen.de/view/bsb11189590_00423_u001?page=10%2C11">Haym: Herder und die Königsberger Zeitung, 418f.</wwwlink>, auch Kohnen: Poetische Wüste, 101f.</akteur>
         <ort ref="leipzig"/>
     </beitrag>
     <beitrag id="1764-10-weltnachrichten">
@@ -502,9 +503,8 @@
         <stueck when="1764" nr="23" von="89" bis="91"/>
         <kategorie ref="gedicht"/>
         <titel>Ein Fremdling auf Golgatha</titel>
-        <akteur ref="hippel" unsicher="true">vgl. Joseph Kohnen: Poetische Wüste. Zu den lyrischen
-            Beiträgen in den ersten Jahren der Königsbergschen Gelehrten und Politischen Zeitungen
-            (1764–1768). In: Das Wort. Germanistisches Jahrbuch Russland 2014/2015, 101f.</akteur>
+        <akteur ref="hippel" unsicher="true">Der Urheber ist unklar; Hamann gibt Hippel an (ZH II, 247), für Herders Autorschaft spricht aber ein ähnlich lautender Entwurf des Gedichts in einem frühen Notizheft, vgl. <wwwlink address="https://digipress.digitale-sammlungen.de/view/bsb11189590_00423_u001?page=2%2C3">Haym: Herder und die Königsberger Zeitung, 411</wwwlink>, auch Kohnen: Poetische Wüste, 101f.</akteur>
+        <akteur ref="herder" unsicher="true"></akteur>
     </beitrag>
     <beitrag id="1764-23-weltnachrichten">
         <stueck when="1764" nr="23" von="91" bis="92"/>
@@ -519,7 +519,7 @@
         <stueck when="1764" nr="24" von="93" bis="94"/>
         <kategorie ref="gedicht"/>
         <titel>Ostergesang</titel>
-        <akteur ref="herder"/>
+        <akteur ref="herder">ZH II, 247 und <wwwlink address="https://digipress.digitale-sammlungen.de/view/bsb11189590_00423_u001?page=2%2C3">Haym: Herder und die Königsberger Zeitung, 411</wwwlink></akteur>
     </beitrag>
     <beitrag id="1764-24-weltnachrichten">
         <stueck when="1764" nr="24" von="95" bis="96"/>
@@ -779,6 +779,7 @@
         <kategorie ref="kommentar"/>
         <titel>Fremde Einfälle</titel>
         <akteur ref="lindner-jg">ZH II, 257</akteur>
+        <anmerkung>Den zweiten der „Fremden Einfälle“ und Lindners Übersetzung nahm Herder auf in die Sammlung seiner<wwwlink address="https://www.digitale-sammlungen.de/view/bsb11939700?page=124%2C125">Volkslieder, Bd. 2 (1779), S. 84</wwwlink>, vgl. <wwwlink address="https://digipress.digitale-sammlungen.de/view/bsb11189590_00423_u001?page=8%2C9">Haym: Herder und die Königsberger Zeitung, 411</wwwlink></anmerkung>
     </beitrag>
     <beitrag id="1764-37-lauson-rezension-unzer-arzt">
         <stueck when="1764" nr="37" von="146" bis="147"/>
