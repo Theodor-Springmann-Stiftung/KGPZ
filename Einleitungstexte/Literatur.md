@@ -9,5 +9,6 @@
 - Kohnen, Joseph: *Poetische Wüste*. Zu den lyrischen Beiträgen in den ersten Jahren der Königsbergschen Gelehrten und Politischen Zeitungen (1764–1768), in: Das Wort. Germanistisches Jahrbuch Russland 2014/2015, S. 99–126.
 - Pupi, Angelo: *Die Anfänge der Königsbergschen Gelehrten und Politischen Zeitungen (Februar – Mai 1764)*, in: Königsberg. Beiträge zu einem besonderen Kapitel der deutschen Geistesgeschichte des 18. und angehenden 19. Jahrhunderts. Begr. u. hg. v. Joseph Kohnen (Frankfurt a. M. u.a. 1994), S. 21–54.
 - Rehberg, Botho: *Geschichte der Königsberger Zeitungen und Zeitschriften.* Persönlichkeiten und Entwicklungsstufen von der Herzogszeit bis zum Ausgang der Epoche Kant-Hamann (Königsberg 1942), S. 91–109.
+- Schneider, Ferdinand Josef: *Theodor Gottlieb von Hippel in den Jahren 1741 bis 1781 und die erste Epoche seiner literarischen Tätigkeit* (Prag 1911).
 - Taszus, Claudia: *Die Königsbergschen Gelehrten und Politischen Zeitungen in den Jahren 1764 bis 1768. Ein Repertorium.* Germanistik. Fascicule XII. Publications du Centre Universitaire de Luxembourg. Königsberger Zeugnisse der Spätaufklärung (Luxemburg 1998).
 - Unger, Rudolf, *Hamann und die Aufklärung.* Studien zur Vorgeschichte des romantischen Geistes im 18. Jahrhundert (2 Bde., 4. Aufl., Tübingen: Niemeyer 1968), S. 860–922 (Edition), 925–934 (Erläuterungen).
