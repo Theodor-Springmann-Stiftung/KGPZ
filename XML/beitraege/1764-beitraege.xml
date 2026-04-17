@@ -936,7 +936,12 @@
     <beitrag id="1764-44-auszug-hippel-rhapsodie">
         <stueck when="1764" nr="44" von="174" bis="175"/>
         <werk ref="hippel-rhapsodie" kat="auszug"/>
-        <werk ref="hippel-rhapsodie" kat="kommentar"/>
+        <ort ref="kgsb"/>
+    </beitrag>
+    <beitrag id="1764-44-gedicht-hippel-landliche-empfindungen">
+        <stueck when="1764" nr="44" von="174" bis="175"/>
+        <kategorie ref="gedicht"/>
+        <titel>Ländliche Empfindungen</titel>
         <ort ref="kgsb"/>
     </beitrag>
     <beitrag id="1764-44-weltnachrichten">
