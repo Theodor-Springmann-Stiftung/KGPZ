@@ -12,3 +12,6 @@
 - Schneider, Ferdinand Josef: *Theodor Gottlieb von Hippel in den Jahren 1741 bis 1781 und die erste Epoche seiner literarischen Tätigkeit* (Prag 1911), S. 133–136.
 - Taszus, Claudia: *Die Königsbergschen Gelehrten und Politischen Zeitungen in den Jahren 1764 bis 1768. Ein Repertorium.* Germanistik. Fascicule XII. Publications du Centre Universitaire de Luxembourg. Königsberger Zeugnisse der Spätaufklärung (Luxemburg 1998).
 - Unger, Rudolf, *Hamann und die Aufklärung.* Studien zur Vorgeschichte des romantischen Geistes im 18. Jahrhundert (2 Bde., 4. Aufl., Tübingen: Niemeyer 1968), S. 860–922 (Edition), 925–934 (Erläuterungen).
+
+
+

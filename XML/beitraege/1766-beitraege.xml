@@ -969,7 +969,7 @@
     <ort ref="eisenach"/>
 </beitrag>
 <beitrag id="1766-46-beil-elegie">
-    <stueck beilage="1" when="1766" nr="46" von="186"/>
+    <stueck when="1766" nr="46" von="186"/>
     <kategorie ref="gedicht"/>
     <titel>Elegie</titel>
     <incipit>Spiel lispelnd holder West mit röthlich blühnden Zweigen…</incipit>
@@ -1092,8 +1092,8 @@
 </beitrag>
 
 <!-- 52 -->
-<beitrag id="1766-52-beil-ineigenersache-kleinigkeiten-nonkarschin-replik">
-    <stueck beilage="1" when="1766" nr="52" von="209" bis="210"/>
+<beitrag id="1766-52-ineigenersache-kleinigkeiten-nonkarschin-replik">
+    <stueck when="1766" nr="52" von="209" bis="210"/>
     <kategorie ref="ineigenersache"/>
     <beitrag ref="kleinigkeiten-nonkarschin" kat="replik"/>
     <beitrag ref="karsch-zeus" kat="kommentar"/>
@@ -1101,7 +1101,7 @@
     <anmerkung>Antworten des Redakteurs auf Leserbriefe zu verschiedenen Beiträgen.</anmerkung>
 </beitrag> 
 <beitrag id="karsch-zeus">
-    <stueck beilage="1" when="1766" nr="52" von="209"/>
+    <stueck when="1766" nr="52" von="209"/>
     <kategorie ref="gedicht"/>
     <incipit>Zevs heißts dem Blitz daß er von übeln Dünsten</incipit>
     <akteur ref="karsch"/>
