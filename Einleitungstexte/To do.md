@@ -10,3 +10,6 @@
 - wie ists mit dem Redakteur des politischen Teils? Wird nur selten mal erwähnt
 
 - Apostrophe bei schen eingetragen; Gleichheitszeichen aber lieber nicht; Hervorhebung von Namen und Zwischenüberschriften könnte man überlegen, bei Einführungstexten ist das schon gut. Die Frage ist, wie kompliziert das für eine Website zu programmieren wäre, tendenziell gäbe es da erst einmal wichtigeres. Hamann/Herder/Kant/Hippel etc. in der Passage aber erst einmal fett gemacht (nur die wichtigen, nicht die über dies nur einen Satz gibt). – Überschriften: Jetzt in 5 Teile aufgeteilt. – Noch die Seite zu Hamanns Englisch-Übersetzung und Meinhard zur Korrektur geben.
+
+
+- am Ende: zu Claudia Taszus eigener Punkt
