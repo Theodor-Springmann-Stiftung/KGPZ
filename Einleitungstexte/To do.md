@@ -1,9 +1,8 @@
 
 
-- Sekundärlieferung über Trescho rein
 - Verweise auf Fußnoten nach 42 ist korrupt
 - Fn 22: wie ists mit der »Nachricht«, Simon?
-- links oder klassische Verweise? erstmal raw links, noch mit Simon schauen, ob man etwas wie wwwlink =""></wwwlink reintun kann
+- links oder klassische Verweise? erstmal raw links, noch mit Simon schauen, ob man etwas wie wwwlink reintun kann
 
 - Hamann 1772 und die Ariost/Meinhard/Chodowiecki-Beilagen. Dafür bräuchte man ein oder zwei Seiten (am Ende des ohnehin zu langen zweiten Abschnitts). Oder in anderem Rahmen darüber schreiben?
 
