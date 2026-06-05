@@ -1,8 +1,8 @@
 
 
-- Verweise auf Fußnoten nach 25 ist korrupt
 
-- Struktur überarbeitet, ab Seite 7–20 die Übergänge neu machen
+
+- Schlussredaktion
 
 - 
 - Fn 22: wie ists mit der »Nachricht«, Simon?
