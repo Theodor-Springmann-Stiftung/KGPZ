@@ -68,7 +68,8 @@ def validate_xml(xml_file):
                 # Perform custom validation after XSD check
                 custom_errors = validate_stueck_constraints(tree)
                 if custom_errors:
-                    errors.extend(custom_errors)
+                    for err in custom_errors:
+                        errors.append(f"{err} (File: {xml_file})")
                 else:
                     print(f"Custom Validation successful: {xml_file}")
 

@@ -1,4 +1,5 @@
 import os
+import re
 
 def main():
     if not os.path.exists('schema_validation_errors.txt'):
@@ -16,8 +17,22 @@ def main():
                 col_num = parts[1].split(" ")[1]
                 message = ": ".join(parts[2:])
                 print(f"::error file={current_file},line={line_num},col={col_num}::{message}")
+            elif line.startswith("Custom Validation Error:"):
+                # Parse line number and file from custom validation errors
+                match = re.search(r'on line (\d+)', line)
+                file_match = re.search(r'\(File: (.+)\)', line)
+                if match:
+                    line_num = match.group(1)
+                    file_path = file_match.group(1) if file_match else current_file
+                    message = line.strip()
+                    print(f"::error file={file_path},line={line_num}::{message}")
+                elif current_file:
+                    print(f"::error file={current_file}::{line.strip()}")
+            elif line.startswith("Validation error in "):
+                current_file = line.split("in ", 1)[1].strip()[:-1]
             else:
-                print(f"::error file={current_file}::{line.strip()}")
+                if current_file:
+                    print(f"::error file={current_file}::{line.strip()}")
 
 if __name__ == "__main__":
     main()
