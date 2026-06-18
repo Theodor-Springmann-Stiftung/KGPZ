@@ -8,4 +8,4 @@ type: Feature
 
 ---
 
-Welches Problem soll gellöst werden? Für wen tritt es auf? Wie stellt man isch die Lösung vor? Gibt es Alternativen zur vorgeschlagenen Lösung oder andere Wege, das Gleiche zu erreichen?
+Welches Problem soll gelöst werden? Für wen tritt es auf? Wie kann man sich die Lösung vorstellen? Gibt es Alternativen zur vorgeschlagenen Lösung oder (bereits?) andere Wege, dasselbe Ergebnis zu erreichen?
