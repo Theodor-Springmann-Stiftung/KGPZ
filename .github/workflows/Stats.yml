@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'XML/**/*.xml'
+      - 'XSD/**/*.xsd'
+  workflow_dispatch:
 
 jobs:
   output-stats:

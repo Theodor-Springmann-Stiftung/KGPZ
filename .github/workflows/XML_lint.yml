@@ -9,6 +9,7 @@ on:
     paths:
       - 'XML/**/*.xml'
       - 'XSD/**/*.xsd'
+  workflow_dispatch:
 
 jobs:
   XSD-Schema:
