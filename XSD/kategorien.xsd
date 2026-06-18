@@ -38,6 +38,12 @@
                             </xsd:annotation>
                         </xsd:attribute>
 
+                        <xsd:attribute name="sort" type="xsd:positiveInteger" use="optional" >
+                            <xsd:annotation>
+                                <xsd:documentation>Optional: Sortierreihenfolge der Kategorie.</xsd:documentation>
+                            </xsd:annotation>
+                        </xsd:attribute>
+
                     </xsd:complexType>
                 </xsd:element>
             </xsd:sequence>

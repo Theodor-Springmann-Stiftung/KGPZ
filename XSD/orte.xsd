@@ -30,6 +30,13 @@
                                 </xsd:annotation>
                             </xsd:element>
 
+                            <xsd:element name="toponym" type="kgpz:NonEmptyString" minOccurs="0"
+                                maxOccurs="unbounded">
+                                <xsd:annotation>
+                                    <xsd:documentation> Optional: Abweichendes Toponym des Ortes.</xsd:documentation>
+                                </xsd:annotation>
+                            </xsd:element>
+
                             <xsd:element name="anmerkung" type="kgpz:text" minOccurs="0"
                                 maxOccurs="unbounded">
                                 <xsd:annotation>
