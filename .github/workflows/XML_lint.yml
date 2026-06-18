@@ -4,9 +4,11 @@ on:
   push:
     paths:
       - 'XML/**/*.xml'
+      - 'XSD/**/*.xsd'
   pull_request:
     paths:
       - 'XML/**/*.xml'
+      - 'XSD/**/*.xsd'
 
 jobs:
   XSD-Schema:
