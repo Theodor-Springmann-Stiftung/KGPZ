@@ -13,4 +13,4 @@
 
 
 
-- Erstdruck von Freund Hain und Baczkos Nathan-Rezension auf den Server tun, ist schon eingetragen
+- Hamanns Cless-Rezension auf den Server tun, link von website in Anm. 41 des Einleitungstextes nachtragen
