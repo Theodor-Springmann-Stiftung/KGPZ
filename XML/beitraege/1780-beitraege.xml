@@ -2,17 +2,19 @@
 <beitraege xmlns="https://www.koenigsberger-zeitungen.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.koenigsberger-zeitungen.de ../../XSD/KGPZ.xsd">
 
     <!-- Jahrgang 1780 -->
-     <beitrag id="1780-70-hamann-rezension-cless-magazin">
-        <stueck when="1780" nr="70"/>
-        <werk ref="roth" kat="provenienz" s="Bd. 6, S. vii"/>
-        <werk ref="cless-magazin" kat="rezension"/>
-        <akteur ref="hamann"/>
-    </beitrag>
+     
     <beitrag id="1780-88-baczko-rezension-lessing-nathan">
         <stueck when="1780" nr="40"/>
         <werk ref="hagen-theater" kat="provenienz" s="S. 429f."/>
         <werk ref="lessing-nathan" kat="rezension"/>
         <akteur ref="baczko"/>
+    </beitrag>
+    <beitrag id="1780-70-hamann-rezension-cless-magazin">
+        <stueck when="1780" nr="70"/>
+        <werk ref="roth" kat="provenienz" s="Bd. 6, S. vii"/>
+        <werk ref="cless-magazin" kat="rezension"/>
+        <akteur ref="hamann"/>
+        <anmerkung>Zur Datierung vgl. ZH IV, 212</anmerkung>
     </beitrag>
 
 </beitraege>
