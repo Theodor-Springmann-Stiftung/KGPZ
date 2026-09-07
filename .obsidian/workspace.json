@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "To do"
             }
+          },
+          {
+            "id": "a7479b7331d56c2e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versionshinweise 1.13.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a71fab123c39033b",
@@ -61,7 +74,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
@@ -203,7 +218,7 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "1230e3a118f85a6f",
+  "active": "a7479b7331d56c2e",
   "lastOpenFiles": [
     "Begleittexte/lu2006729i3guh.tmp",
     "To do und Frontend-Korrektur/Website- bzw. Frontend-Korrektur.md",
